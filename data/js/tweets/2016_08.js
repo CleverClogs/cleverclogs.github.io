@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Tue Aug 23 17:40:09 +0000 2016",
+		"id": 768140786319908900,
+		"id_str": "768140786319908864",
+		"text": "Easily apply #OneNote Tags with keyboard shortcuts Ctrl+1..9\nYou decide which tags they trigger!\nhttps://t.co/WDLUikAzhr\nby @PracticalSandy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PracticalSandy",
+					"name": "Sandy Morgan",
+					"id": 315817008,
+					"id_str": "315817008",
+					"indices": [
+						124,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WDLUikAzhr",
+					"expanded_url": "http://onen.link/2bedeWD",
+					"display_url": "onen.link/2bedeWD",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6877,
+			"friends_count": 3369,
+			"listed_count": 369,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11194,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11924,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 23 17:25:00 +0000 2016",
+		"id": 768136974729375700,
+		"id_str": "768136974729375744",
+		"text": "RT @JoshuaHardee: Great update for stylus users on OneNote for Mac. Turn off automatic switching to draw when using a stylus. #bravo https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bravo",
+					"indices": [
+						126,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoshuaHardee",
+					"name": "Joshua Hardee",
+					"id": 138924080,
+					"id_str": "138924080",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 768125485071171600,
+					"id_str": "768125485071171584",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CqjuDxiXgAA8mwp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqjuDxiXgAA8mwp.jpg",
+					"url": "https://t.co/UGbUMDlW7F",
+					"display_url": "pic.twitter.com/UGbUMDlW7F",
+					"expanded_url": "https://twitter.com/JoshuaHardee/status/768125487885451265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 351,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768125487885451300,
+					"source_status_id_str": "768125487885451265",
+					"source_user_id": 138924080,
+					"source_user_id_str": "138924080"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 768125485071171600,
+					"id_str": "768125485071171584",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CqjuDxiXgAA8mwp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqjuDxiXgAA8mwp.jpg",
+					"url": "https://t.co/UGbUMDlW7F",
+					"display_url": "pic.twitter.com/UGbUMDlW7F",
+					"expanded_url": "https://twitter.com/JoshuaHardee/status/768125487885451265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 351,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768125487885451300,
+					"source_status_id_str": "768125487885451265",
+					"source_user_id": 138924080,
+					"source_user_id_str": "138924080"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6877,
+			"friends_count": 3369,
+			"listed_count": 369,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11194,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11924,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 23 16:39:22 +0000 2016",
+			"id": 768125487885451300,
+			"id_str": "768125487885451265",
+			"text": "Great update for stylus users on OneNote for Mac. Turn off automatic switching to draw when using a stylus. #bravo https://t.co/UGbUMDlW7F",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bravo",
+						"indices": [
+							108,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 768125485071171600,
+						"id_str": "768125485071171584",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/CqjuDxiXgAA8mwp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqjuDxiXgAA8mwp.jpg",
+						"url": "https://t.co/UGbUMDlW7F",
+						"display_url": "pic.twitter.com/UGbUMDlW7F",
+						"expanded_url": "https://twitter.com/JoshuaHardee/status/768125487885451265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 541,
+								"h": 351,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 541,
+								"h": 351,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 541,
+								"h": 351,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 768125485071171600,
+						"id_str": "768125485071171584",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/CqjuDxiXgAA8mwp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqjuDxiXgAA8mwp.jpg",
+						"url": "https://t.co/UGbUMDlW7F",
+						"display_url": "pic.twitter.com/UGbUMDlW7F",
+						"expanded_url": "https://twitter.com/JoshuaHardee/status/768125487885451265/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 541,
+								"h": 351,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 541,
+								"h": 351,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 541,
+								"h": 351,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 138924080,
+				"id_str": "138924080",
+				"name": "Joshua Hardee",
+				"screen_name": "JoshuaHardee",
+				"location": "Bloomingdale, IL",
+				"description": "Artist, Dancer, NeRD, Dreamer, Mr I’m Possible. Imagination is a faculty of the mind which can be cultivated, developed, extended and broadened by use.",
+				"url": "https://t.co/TSrjyVbY1S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TSrjyVbY1S",
+								"expanded_url": "http://joshuahardee.com",
+								"display_url": "joshuahardee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27,
+				"friends_count": 69,
+				"listed_count": 5,
+				"created_at": "Sat May 01 01:30:40 +0000 2010",
+				"favourites_count": 59,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 339,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/758395349925031936/SM0VOUXn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/758395349925031936/SM0VOUXn_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 23 17:14:51 +0000 2016",
 		"id": 768134419718803500,
 		"id_str": "768134419718803456",
