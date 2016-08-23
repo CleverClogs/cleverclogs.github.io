@@ -1,6 +1,978 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Tue Aug 23 22:31:06 +0000 2016",
+		"id": 768214005060075500,
+		"id_str": "768214005060075520",
+		"text": "RT @n_cotner: Students learning how to use the @msonenote screen clipping tool! @OneNoteEDU #MakingLearningFun @SchwarzkopfElem https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MakingLearningFun",
+					"indices": [
+						92,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "n_cotner",
+					"name": "Nicole Cotner",
+					"id": 3236977870,
+					"id_str": "3236977870",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"screen_name": "SchwarzkopfElem",
+					"name": "Schwarzkopf Elem",
+					"id": 4107122013,
+					"id_str": "4107122013",
+					"indices": [
+						111,
+						127
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 768193127966511100,
+					"id_str": "768193127966511104",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/768193127966511104/pu/img/U9PB9TedzwVCE0oY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/768193127966511104/pu/img/U9PB9TedzwVCE0oY.jpg",
+					"url": "https://t.co/piAoHoDpuz",
+					"display_url": "pic.twitter.com/piAoHoDpuz",
+					"expanded_url": "https://twitter.com/n_cotner/status/768193822031568896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768193822031568900,
+					"source_status_id_str": "768193822031568896",
+					"source_user_id": 3236977870,
+					"source_user_id_str": "3236977870"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 768193127966511100,
+					"id_str": "768193127966511104",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/768193127966511104/pu/img/U9PB9TedzwVCE0oY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/768193127966511104/pu/img/U9PB9TedzwVCE0oY.jpg",
+					"url": "https://t.co/piAoHoDpuz",
+					"display_url": "pic.twitter.com/piAoHoDpuz",
+					"expanded_url": "https://twitter.com/n_cotner/status/768193822031568896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768193822031568900,
+					"source_status_id_str": "768193822031568896",
+					"source_user_id": 3236977870,
+					"source_user_id_str": "3236977870",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39293,
+						"variants": [
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/768193127966511104/pu/pl/N9qSnZSaz1oU4TSo.mpd"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/768193127966511104/pu/pl/N9qSnZSaz1oU4TSo.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/768193127966511104/pu/vid/320x180/ke_GN4tEBGAMH9hb.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/768193127966511104/pu/vid/640x360/gJYHAH6F3flchoPG.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/768193127966511104/pu/vid/1280x720/jwxEGuY2wpPBiOky.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3236977870,
+							"id_str": "3236977870",
+							"name": "Nicole Cotner",
+							"screen_name": "n_cotner",
+							"location": "Tampa, FL",
+							"description": "4th grade teacher, Masters in Ed. Leadership, Microsoft Certified Innovative Educator @SchwarzkopfElem #MIEExpert2016",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 221,
+							"friends_count": 156,
+							"listed_count": 25,
+							"created_at": "Tue May 05 21:05:15 +0000 2015",
+							"favourites_count": 806,
+							"utc_offset": -18000,
+							"time_zone": "Central Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 447,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/665206683002642434/fsyXqSCb_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/665206683002642434/fsyXqSCb_normal.jpg",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6881,
+			"friends_count": 3370,
+			"listed_count": 370,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11204,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 23 21:10:54 +0000 2016",
+			"id": 768193822031568900,
+			"id_str": "768193822031568896",
+			"text": "Students learning how to use the @msonenote screen clipping tool! @OneNoteEDU #MakingLearningFun @SchwarzkopfElem https://t.co/piAoHoDpuz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MakingLearningFun",
+						"indices": [
+							78,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							33,
+							43
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							66,
+							77
+						]
+					},
+					{
+						"screen_name": "SchwarzkopfElem",
+						"name": "Schwarzkopf Elem",
+						"id": 4107122013,
+						"id_str": "4107122013",
+						"indices": [
+							97,
+							113
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 768193127966511100,
+						"id_str": "768193127966511104",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/768193127966511104/pu/img/U9PB9TedzwVCE0oY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/768193127966511104/pu/img/U9PB9TedzwVCE0oY.jpg",
+						"url": "https://t.co/piAoHoDpuz",
+						"display_url": "pic.twitter.com/piAoHoDpuz",
+						"expanded_url": "https://twitter.com/n_cotner/status/768193822031568896/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 768193127966511100,
+						"id_str": "768193127966511104",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/768193127966511104/pu/img/U9PB9TedzwVCE0oY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/768193127966511104/pu/img/U9PB9TedzwVCE0oY.jpg",
+						"url": "https://t.co/piAoHoDpuz",
+						"display_url": "pic.twitter.com/piAoHoDpuz",
+						"expanded_url": "https://twitter.com/n_cotner/status/768193822031568896/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 39293,
+							"variants": [
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/768193127966511104/pu/pl/N9qSnZSaz1oU4TSo.mpd"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/768193127966511104/pu/pl/N9qSnZSaz1oU4TSo.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/768193127966511104/pu/vid/320x180/ke_GN4tEBGAMH9hb.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/768193127966511104/pu/vid/640x360/gJYHAH6F3flchoPG.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/768193127966511104/pu/vid/1280x720/jwxEGuY2wpPBiOky.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3236977870,
+				"id_str": "3236977870",
+				"name": "Nicole Cotner",
+				"screen_name": "n_cotner",
+				"location": "Tampa, FL",
+				"description": "4th grade teacher, Masters in Ed. Leadership, Microsoft Certified Innovative Educator @SchwarzkopfElem #MIEExpert2016",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 221,
+				"friends_count": 156,
+				"listed_count": 25,
+				"created_at": "Tue May 05 21:05:15 +0000 2015",
+				"favourites_count": 806,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 447,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/665206683002642434/fsyXqSCb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/665206683002642434/fsyXqSCb_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 23 22:25:26 +0000 2016",
+		"id": 768212580661854200,
+		"id_str": "768212580661854208",
+		"text": "RT @zelfstudie: Getting started with #OneNote Class Notebook: Distribute &amp; Correct digital homework https://t.co/XQK9yOI9JF #MSFTEDU https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "MSFTEDU",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XQK9yOI9JF",
+					"expanded_url": "http://www.zelfstudie.be/blog/en/onenote-class-notebook-0",
+					"display_url": "zelfstudie.be/blog/en/onenot…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 768207834278428700,
+					"id_str": "768207834278428672",
+					"indices": [
+						143,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Cqk49IPWgAAlAqV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cqk49IPWgAAlAqV.jpg",
+					"url": "https://t.co/zRiey7hLMg",
+					"display_url": "pic.twitter.com/zRiey7hLMg",
+					"expanded_url": "https://twitter.com/zelfstudie/status/768207842822262785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 274,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 986,
+							"h": 397,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 986,
+							"h": 397,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768207842822262800,
+					"source_status_id_str": "768207842822262785",
+					"source_user_id": 149593681,
+					"source_user_id_str": "149593681"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 768207834278428700,
+					"id_str": "768207834278428672",
+					"indices": [
+						143,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Cqk49IPWgAAlAqV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cqk49IPWgAAlAqV.jpg",
+					"url": "https://t.co/zRiey7hLMg",
+					"display_url": "pic.twitter.com/zRiey7hLMg",
+					"expanded_url": "https://twitter.com/zelfstudie/status/768207842822262785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 274,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 986,
+							"h": 397,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 986,
+							"h": 397,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768207842822262800,
+					"source_status_id_str": "768207842822262785",
+					"source_user_id": 149593681,
+					"source_user_id_str": "149593681"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6881,
+			"friends_count": 3370,
+			"listed_count": 370,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11204,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 23 22:06:36 +0000 2016",
+			"id": 768207842822262800,
+			"id_str": "768207842822262785",
+			"text": "Getting started with #OneNote Class Notebook: Distribute &amp; Correct digital homework https://t.co/XQK9yOI9JF #MSFTEDU https://t.co/zRiey7hLMg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"text": "MSFTEDU",
+						"indices": [
+							112,
+							120
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XQK9yOI9JF",
+						"expanded_url": "http://www.zelfstudie.be/blog/en/onenote-class-notebook-0",
+						"display_url": "zelfstudie.be/blog/en/onenot…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 768207834278428700,
+						"id_str": "768207834278428672",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/Cqk49IPWgAAlAqV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cqk49IPWgAAlAqV.jpg",
+						"url": "https://t.co/zRiey7hLMg",
+						"display_url": "pic.twitter.com/zRiey7hLMg",
+						"expanded_url": "https://twitter.com/zelfstudie/status/768207842822262785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 274,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 986,
+								"h": 397,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 986,
+								"h": 397,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 768207834278428700,
+						"id_str": "768207834278428672",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/Cqk49IPWgAAlAqV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cqk49IPWgAAlAqV.jpg",
+						"url": "https://t.co/zRiey7hLMg",
+						"display_url": "pic.twitter.com/zRiey7hLMg",
+						"expanded_url": "https://twitter.com/zelfstudie/status/768207842822262785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 274,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 986,
+								"h": 397,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 986,
+								"h": 397,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149593681,
+				"id_str": "149593681",
+				"name": "Koen Timmers",
+				"screen_name": "zelfstudie",
+				"location": "Belgium",
+				"description": "Teaching Kakuma Refugees via Skype | Author | Speaker | Technology Enhanced Learning | Founder zelfstudie.be | Web designer | Microsoft Expert Educator Fellow",
+				"url": "https://t.co/Emjb0vRgpr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Emjb0vRgpr",
+								"expanded_url": "http://www.zelfstudie.be",
+								"display_url": "zelfstudie.be",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1992,
+				"friends_count": 1256,
+				"listed_count": 253,
+				"created_at": "Sat May 29 17:52:29 +0000 2010",
+				"favourites_count": 2292,
+				"utc_offset": 7200,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4336,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D0D0D0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/375133972/bg-twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/375133972/bg-twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762647810303025160/YS-omUnp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762647810303025160/YS-omUnp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1469256056",
+				"profile_link_color": "D9650D",
+				"profile_sidebar_border_color": "0D0202",
+				"profile_sidebar_fill_color": "EDA426",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "86592634e53a5e3f",
+				"url": "https://api.twitter.com/1.1/geo/id/86592634e53a5e3f.json",
+				"place_type": "city",
+				"name": "Hasselt",
+				"full_name": "Hasselt, Belgium",
+				"country_code": "BE",
+				"country": "Belgium",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								5.2121062,
+								50.8677279
+							],
+							[
+								5.4145591,
+								50.8677279
+							],
+							[
+								5.4145591,
+								50.9815265
+							],
+							[
+								5.2121062,
+								50.9815265
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 23 21:56:09 +0000 2016",
 		"id": 768205209919160300,
 		"id_str": "768205209919160320",
