@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 13:36:02 +0000 2016",
+		"id": 768441741095632900,
+		"id_str": "768441741095632896",
+		"text": "@bonovoxly You mean to display source code with syntax highlighting? Did you vote on https://t.co/e7w7rGTklq?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bonovoxly",
+					"name": "Bill Cawthra",
+					"id": 46634471,
+					"id_str": "46634471",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e7w7rGTklq",
+					"expanded_url": "http://OneNote.Uservoice.com",
+					"display_url": "OneNote.Uservoice.com",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 768420014877737000,
+		"in_reply_to_status_id_str": "768420014877736961",
+		"in_reply_to_user_id": 46634471,
+		"in_reply_to_user_id_str": "46634471",
+		"in_reply_to_screen_name": "bonovoxly",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6893,
+			"friends_count": 3374,
+			"listed_count": 370,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11227,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11932,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 24 13:25:52 +0000 2016",
+		"id": 768439180913438700,
+		"id_str": "768439180913438720",
+		"text": "RT @AndroidPolice: Microsoft OneNote beta adds often-requested ability to open password-protected sections https://t.co/q2yP7OW1Sv https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AndroidPolice",
+					"name": "Android Police",
+					"id": 98335997,
+					"id_str": "98335997",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q2yP7OW1Sv",
+					"expanded_url": "http://www.androidpolice.com/2016/08/24/microsoft-onenote-beta-adds-often-requested-ability-open-password-protected-sections/",
+					"display_url": "androidpolice.com/2016/08/24/mic…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 768389138584264700,
+					"id_str": "768389138584264704",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cqnd2baVYAAS8AP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cqnd2baVYAAS8AP.jpg",
+					"url": "https://t.co/BqLG1CjGAE",
+					"display_url": "pic.twitter.com/BqLG1CjGAE",
+					"expanded_url": "https://twitter.com/AndroidPolice/status/768389140849106944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 728,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 728,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768389140849107000,
+					"source_status_id_str": "768389140849106944",
+					"source_user_id": 98335997,
+					"source_user_id_str": "98335997"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 768389138584264700,
+					"id_str": "768389138584264704",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cqnd2baVYAAS8AP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cqnd2baVYAAS8AP.jpg",
+					"url": "https://t.co/BqLG1CjGAE",
+					"display_url": "pic.twitter.com/BqLG1CjGAE",
+					"expanded_url": "https://twitter.com/AndroidPolice/status/768389140849106944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 728,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 728,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768389140849107000,
+					"source_status_id_str": "768389140849106944",
+					"source_user_id": 98335997,
+					"source_user_id_str": "98335997"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6893,
+			"friends_count": 3374,
+			"listed_count": 370,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11227,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11932,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 24 10:07:01 +0000 2016",
+			"id": 768389140849107000,
+			"id_str": "768389140849106944",
+			"text": "Microsoft OneNote beta adds often-requested ability to open password-protected sections https://t.co/q2yP7OW1Sv https://t.co/BqLG1CjGAE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/q2yP7OW1Sv",
+						"expanded_url": "http://www.androidpolice.com/2016/08/24/microsoft-onenote-beta-adds-often-requested-ability-open-password-protected-sections/",
+						"display_url": "androidpolice.com/2016/08/24/mic…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 768389138584264700,
+						"id_str": "768389138584264704",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/Cqnd2baVYAAS8AP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cqnd2baVYAAS8AP.jpg",
+						"url": "https://t.co/BqLG1CjGAE",
+						"display_url": "pic.twitter.com/BqLG1CjGAE",
+						"expanded_url": "https://twitter.com/AndroidPolice/status/768389140849106944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 728,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 728,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 768389138584264700,
+						"id_str": "768389138584264704",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/Cqnd2baVYAAS8AP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cqnd2baVYAAS8AP.jpg",
+						"url": "https://t.co/BqLG1CjGAE",
+						"display_url": "pic.twitter.com/BqLG1CjGAE",
+						"expanded_url": "https://twitter.com/AndroidPolice/status/768389140849106944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 728,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 728,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 98335997,
+				"id_str": "98335997",
+				"name": "Android Police",
+				"screen_name": "AndroidPolice",
+				"location": "San Francisco, CA",
+				"description": "We cover Android news, apps and games, phones and tablets. Sometimes we rant. Got a hot tip? tips@androidpolice.com.",
+				"url": "http://t.co/oPxy87IP2B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/oPxy87IP2B",
+								"expanded_url": "http://www.androidpolice.com",
+								"display_url": "androidpolice.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 417798,
+				"friends_count": 376,
+				"listed_count": 7525,
+				"created_at": "Mon Dec 21 09:35:39 +0000 2009",
+				"favourites_count": 64,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 41634,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/563109834988335104/mYPfSB_b_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/563109834988335104/mYPfSB_b_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98335997/1423092178",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 24 07:23:43 +0000 2016",
 		"id": 768348044521791500,
 		"id_str": "768348044521791488",
