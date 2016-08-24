@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 16:06:07 +0000 2016",
+		"id": 768479511478349800,
+		"id_str": "768479511478349824",
+		"text": "Coloring the world map #OneNote-purple: 151 countries where the Class Notebook app is now available:\nhttps://t.co/yYYYF1IrM3\nby @OneNoteEDU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yYYYF1IrM3",
+					"expanded_url": "http://onen.link/2bfBkDr",
+					"display_url": "onen.link/2bfBkDr",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6894,
+			"friends_count": 3375,
+			"listed_count": 371,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11232,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11937,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 24 15:25:02 +0000 2016",
+		"id": 768469170082181100,
+		"id_str": "768469170082181121",
+		"text": "What's your answer?\nHow about using \"Distribute Content Library\" feature from the Class Notebook add-in for OneNote? https://t.co/spE5w4wI6n",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/spE5w4wI6n",
+					"expanded_url": "https://twitter.com/steve_bambury/status/768458425462362112",
+					"display_url": "twitter.com/steve_bambury/…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6894,
+			"friends_count": 3375,
+			"listed_count": 371,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11232,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11937,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 768458425462362100,
+		"quoted_status_id_str": "768458425462362112",
+		"quoted_status": {
+			"created_at": "Wed Aug 24 14:42:20 +0000 2016",
+			"id": 768458425462362100,
+			"id_str": "768458425462362112",
+			"text": "@OneNoteEDU @microsofteduk is there an easy way to duplicate a class notebook for a colleague to use with a different set of students?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "microsofteduk",
+						"name": "Microsoft Education",
+						"id": 48661542,
+						"id_str": "48661542",
+						"indices": [
+							12,
+							26
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 3096566760,
+			"in_reply_to_user_id_str": "3096566760",
+			"in_reply_to_screen_name": "OneNoteEDU",
+			"user": {
+				"id": 2936644681,
+				"id_str": "2936644681",
+				"name": "Steve Bambury",
+				"screen_name": "steve_bambury",
+				"location": "Dubai",
+				"description": "Head of Digital Learning and Innovation @JESSDubai, ADE, MIEE, Founder of @iPadEducatorsAE, 2x Winner of Best Use of ICT (GESS Awards)",
+				"url": "https://t.co/ZjsDKafBYA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZjsDKafBYA",
+								"expanded_url": "http://www.ipadeducators.com",
+								"display_url": "ipadeducators.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1599,
+				"friends_count": 1209,
+				"listed_count": 141,
+				"created_at": "Sat Dec 20 03:34:47 +0000 2014",
+				"favourites_count": 1876,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1597,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/718106122721345540/1bCwVigU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/718106122721345540/1bCwVigU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2936644681/1448285160",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "001907e868d06e24",
+				"url": "https://api.twitter.com/1.1/geo/id/001907e868d06e24.json",
+				"place_type": "admin",
+				"name": "Dubai",
+				"full_name": "Dubai, United Arab Emirates",
+				"country_code": "AE",
+				"country": "United Arab Emirates",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								54.8939725,
+								24.6182526
+							],
+							[
+								56.2083722,
+								24.6182526
+							],
+							[
+								56.2083722,
+								25.3686719
+							],
+							[
+								54.8939725,
+								25.3686719
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 24 15:10:09 +0000 2016",
 		"id": 768465425755676700,
 		"id_str": "768465425755676672",
