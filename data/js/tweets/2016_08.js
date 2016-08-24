@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 07:23:43 +0000 2016",
+		"id": 768348044521791500,
+		"id_str": "768348044521791488",
+		"text": "RT @Microsoft_EDU: Think with ink! Check out our new #OneNote resource for all things inking! https://t.co/cE4qebfkgE #edtech #MSFTEDU http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "MSFTEDU",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft_EDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cE4qebfkgE",
+					"expanded_url": "http://www.onenote.com/ink",
+					"display_url": "onenote.com/ink",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 768100466081210400,
+					"id_str": "768100466081210368",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/768100466081210368/pu/img/Dmc3XrqplKqMuL26.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/768100466081210368/pu/img/Dmc3XrqplKqMuL26.jpg",
+					"url": "https://t.co/WpdBNfYeZH",
+					"display_url": "pic.twitter.com/WpdBNfYeZH",
+					"expanded_url": "https://twitter.com/Microsoft_EDU/status/768100598612828160/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768100598612828200,
+					"source_status_id_str": "768100598612828160",
+					"source_user_id": 17826187,
+					"source_user_id_str": "17826187"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 768100466081210400,
+					"id_str": "768100466081210368",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/768100466081210368/pu/img/Dmc3XrqplKqMuL26.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/768100466081210368/pu/img/Dmc3XrqplKqMuL26.jpg",
+					"url": "https://t.co/WpdBNfYeZH",
+					"display_url": "pic.twitter.com/WpdBNfYeZH",
+					"expanded_url": "https://twitter.com/Microsoft_EDU/status/768100598612828160/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768100598612828200,
+					"source_status_id_str": "768100598612828160",
+					"source_user_id": 17826187,
+					"source_user_id_str": "17826187",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/768100466081210368/pu/vid/1280x720/46pYs32YlaHZI1f1.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/768100466081210368/pu/vid/320x180/sUfxIsT92zH9PD38.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/768100466081210368/pu/pl/6zN2BXPKvSQRwE0v.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/768100466081210368/pu/vid/640x360/hYRokGnuSIUYPNrC.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/768100466081210368/pu/pl/6zN2BXPKvSQRwE0v.mpd"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 17826187,
+							"id_str": "17826187",
+							"name": "Microsoft Education",
+							"screen_name": "Microsoft_EDU",
+							"location": "Redmond, WA",
+							"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MSFTEDU",
+							"url": "http://t.co/7FJ4W59tTX",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/7FJ4W59tTX",
+											"expanded_url": "http://www.microsoft.com/education",
+											"display_url": "microsoft.com/education",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 207257,
+							"friends_count": 3704,
+							"listed_count": 2711,
+							"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+							"favourites_count": 2449,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 10332,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "00BCF2",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461932094302605312/4PbCjFqM.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461932094302605312/4PbCjFqM.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/697158682031759362/go3c-a_1_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/697158682031759362/go3c-a_1_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1471020926",
+							"profile_link_color": "0078D7",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6891,
+			"friends_count": 3370,
+			"listed_count": 370,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11218,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11930,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 23 15:00:27 +0000 2016",
+			"id": 768100598612828200,
+			"id_str": "768100598612828160",
+			"text": "Think with ink! Check out our new #OneNote resource for all things inking! https://t.co/cE4qebfkgE #edtech #MSFTEDU https://t.co/WpdBNfYeZH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							34,
+							42
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							99,
+							106
+						]
+					},
+					{
+						"text": "MSFTEDU",
+						"indices": [
+							107,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cE4qebfkgE",
+						"expanded_url": "http://www.onenote.com/ink",
+						"display_url": "onenote.com/ink",
+						"indices": [
+							75,
+							98
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 768100466081210400,
+						"id_str": "768100466081210368",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/768100466081210368/pu/img/Dmc3XrqplKqMuL26.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/768100466081210368/pu/img/Dmc3XrqplKqMuL26.jpg",
+						"url": "https://t.co/WpdBNfYeZH",
+						"display_url": "pic.twitter.com/WpdBNfYeZH",
+						"expanded_url": "https://twitter.com/Microsoft_EDU/status/768100598612828160/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 768100466081210400,
+						"id_str": "768100466081210368",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/768100466081210368/pu/img/Dmc3XrqplKqMuL26.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/768100466081210368/pu/img/Dmc3XrqplKqMuL26.jpg",
+						"url": "https://t.co/WpdBNfYeZH",
+						"display_url": "pic.twitter.com/WpdBNfYeZH",
+						"expanded_url": "https://twitter.com/Microsoft_EDU/status/768100598612828160/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 45000,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/768100466081210368/pu/vid/1280x720/46pYs32YlaHZI1f1.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/768100466081210368/pu/vid/320x180/sUfxIsT92zH9PD38.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/768100466081210368/pu/pl/6zN2BXPKvSQRwE0v.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/768100466081210368/pu/vid/640x360/hYRokGnuSIUYPNrC.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/768100466081210368/pu/pl/6zN2BXPKvSQRwE0v.mpd"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17826187,
+				"id_str": "17826187",
+				"name": "Microsoft Education",
+				"screen_name": "Microsoft_EDU",
+				"location": "Redmond, WA",
+				"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MSFTEDU",
+				"url": "http://t.co/7FJ4W59tTX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7FJ4W59tTX",
+								"expanded_url": "http://www.microsoft.com/education",
+								"display_url": "microsoft.com/education",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 207257,
+				"friends_count": 3704,
+				"listed_count": 2711,
+				"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+				"favourites_count": 2449,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10332,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00BCF2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461932094302605312/4PbCjFqM.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461932094302605312/4PbCjFqM.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/697158682031759362/go3c-a_1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/697158682031759362/go3c-a_1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1471020926",
+				"profile_link_color": "0078D7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 23 22:31:06 +0000 2016",
 		"id": 768214005060075500,
 		"id_str": "768214005060075520",
