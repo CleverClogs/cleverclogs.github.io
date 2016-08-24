@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 20:27:17 +0000 2016",
+		"id": 768545232921174000,
+		"id_str": "768545232921174020",
+		"text": "RT @TechisforGirls: Mrs. Ely's Project Innovate class working in their ClassNote! #WalkerPI @WalkerMiddleIB #HCPSTeach #Tech4EDU https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WalkerPI",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "HCPSTeach",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "Tech4EDU",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechisforGirls",
+					"name": "Jennifer Brown",
+					"id": 331927634,
+					"id_str": "331927634",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "WalkerMiddleIB",
+					"name": "Walker Middle Magnet",
+					"id": 335027546,
+					"id_str": "335027546",
+					"indices": [
+						92,
+						107
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 766314782119133200,
+					"id_str": "766314782119133184",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CqJ_O_ZXgAACO43.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqJ_O_ZXgAACO43.jpg",
+					"url": "https://t.co/myI6nEBdCH",
+					"display_url": "pic.twitter.com/myI6nEBdCH",
+					"expanded_url": "http://twitter.com/TechisforGirls/status/766315286878425088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 766315286878425100,
+					"source_status_id_str": "766315286878425088",
+					"source_user_id": 331927634,
+					"source_user_id_str": "331927634"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 766314782119133200,
+					"id_str": "766314782119133184",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CqJ_O_ZXgAACO43.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqJ_O_ZXgAACO43.jpg",
+					"url": "https://t.co/myI6nEBdCH",
+					"display_url": "pic.twitter.com/myI6nEBdCH",
+					"expanded_url": "http://twitter.com/TechisforGirls/status/766315286878425088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 766315286878425100,
+					"source_status_id_str": "766315286878425088",
+					"source_user_id": 331927634,
+					"source_user_id_str": "331927634"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6901,
+			"friends_count": 3376,
+			"listed_count": 372,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11252,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 18 16:46:16 +0000 2016",
+			"id": 766315286878425100,
+			"id_str": "766315286878425088",
+			"text": "Mrs. Ely's Project Innovate class working in their ClassNote! #WalkerPI @WalkerMiddleIB #HCPSTeach #Tech4EDU https://t.co/myI6nEBdCH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WalkerPI",
+						"indices": [
+							62,
+							71
+						]
+					},
+					{
+						"text": "HCPSTeach",
+						"indices": [
+							88,
+							98
+						]
+					},
+					{
+						"text": "Tech4EDU",
+						"indices": [
+							99,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WalkerMiddleIB",
+						"name": "Walker Middle Magnet",
+						"id": 335027546,
+						"id_str": "335027546",
+						"indices": [
+							72,
+							87
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 766314782119133200,
+						"id_str": "766314782119133184",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/CqJ_O_ZXgAACO43.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqJ_O_ZXgAACO43.jpg",
+						"url": "https://t.co/myI6nEBdCH",
+						"display_url": "pic.twitter.com/myI6nEBdCH",
+						"expanded_url": "http://twitter.com/TechisforGirls/status/766315286878425088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 766314782119133200,
+						"id_str": "766314782119133184",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/CqJ_O_ZXgAACO43.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqJ_O_ZXgAACO43.jpg",
+						"url": "https://t.co/myI6nEBdCH",
+						"display_url": "pic.twitter.com/myI6nEBdCH",
+						"expanded_url": "http://twitter.com/TechisforGirls/status/766315286878425088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 331927634,
+				"id_str": "331927634",
+				"name": "Jennifer Brown",
+				"screen_name": "TechisforGirls",
+				"location": "Walker Middle Magnet School",
+				"description": "A Technology Resource teacher passionate about helping teachers create learning environments that meet all students where they need to be met.",
+				"url": "https://t.co/PNjvxXxkdY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PNjvxXxkdY",
+								"expanded_url": "https://techisforgirls.wordpress.com",
+								"display_url": "techisforgirls.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90,
+				"friends_count": 97,
+				"listed_count": 5,
+				"created_at": "Fri Jul 08 23:14:07 +0000 2011",
+				"favourites_count": 20,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 157,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/704399240173375488/A8eOAE2z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/704399240173375488/A8eOAE2z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/331927634/1471552981",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 24 20:15:08 +0000 2016",
 		"id": 768542176225718300,
 		"id_str": "768542176225718272",
