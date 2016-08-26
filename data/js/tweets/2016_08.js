@@ -1,6 +1,540 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Fri Aug 26 20:14:32 +0000 2016",
+		"id": 769266803889545200,
+		"id_str": "769266803889545217",
+		"text": "Good news, Firefox users: the #OneNote Clipper add-on is now up to par with Chrome and Edge! Requires Firefox v.48+ https://t.co/I2L6HNvWVQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						30,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 769266798554480600,
+					"id_str": "769266798554480640",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Cqz8E9lXgAAs56V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cqz8E9lXgAAs56V.jpg",
+					"url": "https://t.co/I2L6HNvWVQ",
+					"display_url": "pic.twitter.com/I2L6HNvWVQ",
+					"expanded_url": "https://twitter.com/OneNoteC/status/769266803889545217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 781,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 769266798554480600,
+					"id_str": "769266798554480640",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Cqz8E9lXgAAs56V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cqz8E9lXgAAs56V.jpg",
+					"url": "https://t.co/I2L6HNvWVQ",
+					"display_url": "pic.twitter.com/I2L6HNvWVQ",
+					"expanded_url": "https://twitter.com/OneNoteC/status/769266803889545217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 781,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6931,
+			"friends_count": 3385,
+			"listed_count": 372,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11291,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11993,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 26 19:49:25 +0000 2016",
+		"id": 769260479776690200,
+		"id_str": "769260479776690176",
+		"text": "RT @uwappsoldier: ⭐⭐⭐⭐Office OneNote Mobile v17.7341.5772 #UWP 7th update in August 🔥🔥🔥🔥🔥🔥🔥 This is one busy dev team👍 https://t.co/GaQIbBi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UWP",
+					"indices": [
+						58,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uwappsoldier",
+					"name": "Ⓜ️OEBEUS",
+					"id": 4236642393,
+					"id_str": "4236642393",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 769259182117756900,
+					"id_str": "769259182117756929",
+					"indices": [
+						119,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cqz1JoJWIAECY0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cqz1JoJWIAECY0X.jpg",
+					"url": "https://t.co/GaQIbBi3sC",
+					"display_url": "pic.twitter.com/GaQIbBi3sC",
+					"expanded_url": "https://twitter.com/uwappsoldier/status/769259678865952768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 752,
+							"h": 813,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 752,
+							"h": 813,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 769259678865952800,
+					"source_status_id_str": "769259678865952768",
+					"source_user_id": 4236642393,
+					"source_user_id_str": "4236642393"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 769259182117756900,
+					"id_str": "769259182117756929",
+					"indices": [
+						119,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cqz1JoJWIAECY0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cqz1JoJWIAECY0X.jpg",
+					"url": "https://t.co/GaQIbBi3sC",
+					"display_url": "pic.twitter.com/GaQIbBi3sC",
+					"expanded_url": "https://twitter.com/uwappsoldier/status/769259678865952768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 752,
+							"h": 813,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 752,
+							"h": 813,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 769259678865952800,
+					"source_status_id_str": "769259678865952768",
+					"source_user_id": 4236642393,
+					"source_user_id_str": "4236642393"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6931,
+			"friends_count": 3385,
+			"listed_count": 372,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11291,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11993,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 26 19:46:14 +0000 2016",
+			"id": 769259678865952800,
+			"id_str": "769259678865952768",
+			"text": "⭐⭐⭐⭐Office OneNote Mobile v17.7341.5772 #UWP 7th update in August 🔥🔥🔥🔥🔥🔥🔥 This is one busy dev team👍 https://t.co/GaQIbBi3sC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UWP",
+						"indices": [
+							40,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 769259182117756900,
+						"id_str": "769259182117756929",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/Cqz1JoJWIAECY0X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cqz1JoJWIAECY0X.jpg",
+						"url": "https://t.co/GaQIbBi3sC",
+						"display_url": "pic.twitter.com/GaQIbBi3sC",
+						"expanded_url": "https://twitter.com/uwappsoldier/status/769259678865952768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 629,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 752,
+								"h": 813,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 752,
+								"h": 813,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 769259182117756900,
+						"id_str": "769259182117756929",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/Cqz1JoJWIAECY0X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cqz1JoJWIAECY0X.jpg",
+						"url": "https://t.co/GaQIbBi3sC",
+						"display_url": "pic.twitter.com/GaQIbBi3sC",
+						"expanded_url": "https://twitter.com/uwappsoldier/status/769259678865952768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 629,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 752,
+								"h": 813,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 752,
+								"h": 813,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 766714073903992800,
+			"in_reply_to_status_id_str": "766714073903992832",
+			"in_reply_to_user_id": 4236642393,
+			"in_reply_to_user_id_str": "4236642393",
+			"in_reply_to_screen_name": "uwappsoldier",
+			"user": {
+				"id": 4236642393,
+				"id_str": "4236642393",
+				"name": "Ⓜ️OEBEUS",
+				"screen_name": "uwappsoldier",
+				"location": "Barbate, Spain",
+				"description": "I'm a fast ring insider that bought in to the Universal Windows Platform (UWP) vision. Now I follow it. Also music. | Güiri, culo inquieto | ♛ ☁۝ • ͜ •",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 200,
+				"friends_count": 797,
+				"listed_count": 143,
+				"created_at": "Fri Nov 20 19:20:05 +0000 2015",
+				"favourites_count": 3430,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6142,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711181981602734080/zXkiVhKz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711181981602734080/zXkiVhKz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4236642393/1458394433",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 26 18:40:08 +0000 2016",
 		"id": 769243045321662500,
 		"id_str": "769243045321662464",
