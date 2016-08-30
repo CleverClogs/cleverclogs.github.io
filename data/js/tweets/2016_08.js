@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Tue Aug 30 06:20:12 +0000 2016",
+		"id": 770506387256467500,
+		"id_str": "770506387256467456",
+		"text": "Microsoft is combining @Office Twitter handles. Here's the announcement from @Sway.\nThanks for everything, team! https://t.co/V8vGeqAJxm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office",
+					"name": "Microsoft Office",
+					"id": 22209176,
+					"id_str": "22209176",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"screen_name": "sway",
+					"name": "Office Sway",
+					"id": 129937699,
+					"id_str": "129937699",
+					"indices": [
+						77,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V8vGeqAJxm",
+					"expanded_url": "https://twitter.com/sway/status/770289920816607232",
+					"display_url": "twitter.com/sway/status/77…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6998,
+			"friends_count": 3386,
+			"listed_count": 373,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11318,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12017,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 770289920816607200,
+		"quoted_status_id_str": "770289920816607232",
+		"quoted_status": {
+			"created_at": "Mon Aug 29 16:00:03 +0000 2016",
+			"id": 770289920816607200,
+			"id_str": "770289920816607232",
+			"text": "Our Sway handle is merging with @Office. Check out the all-inclusive Office handle here: https://t.co/6yAFuSFpz7 https://t.co/SpFS8vf4RK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Office",
+						"name": "Microsoft Office",
+						"id": 22209176,
+						"id_str": "22209176",
+						"indices": [
+							32,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6yAFuSFpz7",
+						"expanded_url": "http://www.twitter.com/Office",
+						"display_url": "twitter.com/Office",
+						"indices": [
+							89,
+							112
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 770289918413312000,
+						"id_str": "770289918413312002",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/CrCemYEXEAIn2Ej.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrCemYEXEAIn2Ej.jpg",
+						"url": "https://t.co/SpFS8vf4RK",
+						"display_url": "pic.twitter.com/SpFS8vf4RK",
+						"expanded_url": "https://twitter.com/sway/status/770289920816607232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 770289918413312000,
+						"id_str": "770289918413312002",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/CrCemYEXEAIn2Ej.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrCemYEXEAIn2Ej.jpg",
+						"url": "https://t.co/SpFS8vf4RK",
+						"display_url": "pic.twitter.com/SpFS8vf4RK",
+						"expanded_url": "https://twitter.com/sway/status/770289920816607232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 129937699,
+				"id_str": "129937699",
+				"name": "Office Sway",
+				"screen_name": "sway",
+				"location": "",
+				"description": "Sway, by Microsoft, is an intelligent digital storytelling app for creating and sharing interactive reports, presentations, personal stories, and more.",
+				"url": "http://t.co/608fbziDdz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/608fbziDdz",
+								"expanded_url": "http://www.sway.com",
+								"display_url": "sway.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31829,
+				"friends_count": 497,
+				"listed_count": 570,
+				"created_at": "Mon Apr 05 21:22:34 +0000 2010",
+				"favourites_count": 2543,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8937,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/517296564310511616/loxaCitW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/517296564310511616/loxaCitW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/129937699/1472486906",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 29 20:51:39 +0000 2016",
 		"id": 770363307844927500,
 		"id_str": "770363307844927488",
