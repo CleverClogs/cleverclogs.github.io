@@ -1,6 +1,708 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 16:56:27 +0000 2016",
+		"id": 771753668240703500,
+		"id_str": "771753668240703488",
+		"text": "Student @ExecutiveCorgi explains #dysgraphia and why he uses #OneNote on a #SurfaceBook \nhttps://t.co/2SPRROo6S5\nby @CMFaulconer : @Surface",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dysgraphia",
+					"indices": [
+						33,
+						44
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "SurfaceBook",
+					"indices": [
+						75,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ExecutiveCorgi",
+					"name": "Kody Peralta",
+					"id": 2741840910,
+					"id_str": "2741840910",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "cmfaulconer",
+					"name": "Clare Faulconer",
+					"id": 25268975,
+					"id_str": "25268975",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"screen_name": "surface",
+					"name": "Surface",
+					"id": 612076511,
+					"id_str": "612076511",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2SPRROo6S5",
+					"expanded_url": "http://onen.link/2bINHrN",
+					"display_url": "onen.link/2bINHrN",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7048,
+			"friends_count": 3389,
+			"listed_count": 374,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11372,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12076,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 02 16:55:00 +0000 2016",
+		"id": 771753303873032200,
+		"id_str": "771753303873032192",
+		"text": "Nice video tutorial how to use sub-pages and sub-sub-pages in #OneNote 2016\n[Dutch] by @JessyWinkels @work21  https://t.co/w8eVTfVXwg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JessyWinkels",
+					"name": "Jessy Winkels",
+					"id": 1241647010,
+					"id_str": "1241647010",
+					"indices": [
+						87,
+						100
+					]
+				},
+				{
+					"screen_name": "work21",
+					"name": "kracht van mensen",
+					"id": 53687700,
+					"id_str": "53687700",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/w8eVTfVXwg",
+					"expanded_url": "https://twitter.com/work21/status/771745103094374400",
+					"display_url": "twitter.com/work21/status/…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7048,
+			"friends_count": 3389,
+			"listed_count": 374,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11372,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12076,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 771745103094374400,
+		"quoted_status_id_str": "771745103094374400",
+		"quoted_status": {
+			"created_at": "Fri Sep 02 16:22:25 +0000 2016",
+			"id": 771745103094374400,
+			"id_str": "771745103094374400",
+			"text": "Fan van #OneNote maar je notities beter structureren? Maak gebruik van subpagina's! #worksmarter #Microsoft #adoptie https://t.co/wmRfXuRkto",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							8,
+							16
+						]
+					},
+					{
+						"text": "worksmarter",
+						"indices": [
+							84,
+							96
+						]
+					},
+					{
+						"text": "Microsoft",
+						"indices": [
+							97,
+							107
+						]
+					},
+					{
+						"text": "adoptie",
+						"indices": [
+							108,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 771744414205112300,
+						"id_str": "771744414205112320",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/771744414205112320/pu/img/wviJk59uRd7kD_zr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/771744414205112320/pu/img/wviJk59uRd7kD_zr.jpg",
+						"url": "https://t.co/wmRfXuRkto",
+						"display_url": "pic.twitter.com/wmRfXuRkto",
+						"expanded_url": "https://twitter.com/work21/status/771745103094374400/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 771744414205112300,
+						"id_str": "771744414205112320",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/771744414205112320/pu/img/wviJk59uRd7kD_zr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/771744414205112320/pu/img/wviJk59uRd7kD_zr.jpg",
+						"url": "https://t.co/wmRfXuRkto",
+						"display_url": "pic.twitter.com/wmRfXuRkto",
+						"expanded_url": "https://twitter.com/work21/status/771745103094374400/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/771744414205112320/pu/vid/320x180/0eUp84IvT6DBlY5p.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/771744414205112320/pu/vid/1280x720/3PvfASDYEUrjKy-d.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/771744414205112320/pu/pl/a9YTXO53lfxWK6J_.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/771744414205112320/pu/vid/640x360/zKn99V2nNEl5dGMq.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/771744414205112320/pu/pl/a9YTXO53lfxWK6J_.mpd"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53687700,
+				"id_str": "53687700",
+				"name": "kracht van mensen",
+				"screen_name": "work21",
+				"location": "Houten, NL",
+				"description": "Hoe kan je werk slimmer, vitaler en met meer werkgeluk? Wij helpen graag! | programma's | advies | coaching | trainingen | workshops",
+				"url": "http://t.co/0qsLELUIaK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0qsLELUIaK",
+								"expanded_url": "http://www.work21.nl",
+								"display_url": "work21.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 165,
+				"friends_count": 190,
+				"listed_count": 9,
+				"created_at": "Sat Jul 04 15:10:51 +0000 2009",
+				"favourites_count": 20,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 639,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F7F7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000087739283/a827159f71496cb3e8a286bcffd962e7.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000087739283/a827159f71496cb3e8a286bcffd962e7.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000574694780/f788359398b5e18e1bb2fd02336d5413_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000574694780/f788359398b5e18e1bb2fd02336d5413_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53687700/1380880666",
+				"profile_link_color": "616680",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 02 16:40:06 +0000 2016",
+		"id": 771749552139432000,
+		"id_str": "771749552139431937",
+		"text": "#OneNote for Business users: there's a Facebook page just for you: OneNote for Professionals\nhttps://t.co/DI9tuuTaSN https://t.co/bt0Q4eqKEY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DI9tuuTaSN",
+					"expanded_url": "http://onen.link/2c7oJRi",
+					"display_url": "onen.link/2c7oJRi",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 771749548469477400,
+					"id_str": "771749548469477376",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CrXOIBwXYAA5B2I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrXOIBwXYAA5B2I.jpg",
+					"url": "https://t.co/bt0Q4eqKEY",
+					"display_url": "pic.twitter.com/bt0Q4eqKEY",
+					"expanded_url": "https://twitter.com/OneNoteC/status/771749552139431937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 943,
+							"h": 792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 943,
+							"h": 792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 571,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 771749548469477400,
+					"id_str": "771749548469477376",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CrXOIBwXYAA5B2I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrXOIBwXYAA5B2I.jpg",
+					"url": "https://t.co/bt0Q4eqKEY",
+					"display_url": "pic.twitter.com/bt0Q4eqKEY",
+					"expanded_url": "https://twitter.com/OneNoteC/status/771749552139431937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 943,
+							"h": 792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 943,
+							"h": 792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 571,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7048,
+			"friends_count": 3389,
+			"listed_count": 374,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11372,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12076,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 02 16:02:17 +0000 2016",
 		"id": 771740036404482000,
 		"id_str": "771740036404482048",
