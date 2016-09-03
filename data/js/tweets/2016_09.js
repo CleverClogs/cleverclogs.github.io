@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 17:53:26 +0000 2016",
+		"id": 772130394158301200,
+		"id_str": "772130394158301185",
+		"text": "@DarrellCWebster @SkypeBusiness @Outlook @bradenroad24 Maybe submit a featreq for the #OneNote for #Windows10 version?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DarrellCWebster",
+					"name": "Darrell Webster",
+					"id": 401809242,
+					"id_str": "401809242",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "SkypeBusiness",
+					"name": "Skype for Business",
+					"id": 30770263,
+					"id_str": "30770263",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "Outlook",
+					"name": "Outlook",
+					"id": 605805760,
+					"id_str": "605805760",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"screen_name": "bradenroad24",
+					"name": "Noel Donnelly",
+					"id": 3040994974,
+					"id_str": "3040994974",
+					"indices": [
+						41,
+						54
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 772129836185768000,
+		"in_reply_to_status_id_str": "772129836185767936",
+		"in_reply_to_user_id": 401809242,
+		"in_reply_to_user_id_str": "401809242",
+		"in_reply_to_screen_name": "DarrellCWebster",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7068,
+			"friends_count": 3395,
+			"listed_count": 377,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11397,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12109,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 03 16:05:46 +0000 2016",
 		"id": 772103301408100400,
 		"id_str": "772103301408100353",
