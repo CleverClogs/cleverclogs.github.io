@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 14:17:53 +0000 2016",
+		"id": 772438537379704800,
+		"id_str": "772438537379704832",
+		"text": "RT @TomosProsser: The old planning vs the new... Revolutionised by #OneNote #MIEExpert https://t.co/HcnoG3iqml",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomosProsser",
+					"name": "Tomos Prosser",
+					"id": 2907686859,
+					"id_str": "2907686859",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 772437360990650400,
+					"id_str": "772437360990650368",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/Crg_r_EWgAADS_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Crg_r_EWgAADS_B.jpg",
+					"url": "https://t.co/HcnoG3iqml",
+					"display_url": "pic.twitter.com/HcnoG3iqml",
+					"expanded_url": "https://twitter.com/TomosProsser/status/772437390782767104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 185,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 327,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 772437390782767100,
+					"source_status_id_str": "772437390782767104",
+					"source_user_id": 2907686859,
+					"source_user_id_str": "2907686859"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 772437360990650400,
+					"id_str": "772437360990650368",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/Crg_r_EWgAADS_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Crg_r_EWgAADS_B.jpg",
+					"url": "https://t.co/HcnoG3iqml",
+					"display_url": "pic.twitter.com/HcnoG3iqml",
+					"expanded_url": "https://twitter.com/TomosProsser/status/772437390782767104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 559,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 185,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 327,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 772437390782767100,
+					"source_status_id_str": "772437390782767104",
+					"source_user_id": 2907686859,
+					"source_user_id_str": "2907686859"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7077,
+			"friends_count": 3397,
+			"listed_count": 377,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11413,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12118,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 04 14:13:19 +0000 2016",
+			"id": 772437390782767100,
+			"id_str": "772437390782767104",
+			"text": "The old planning vs the new... Revolutionised by #OneNote #MIEExpert https://t.co/HcnoG3iqml",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							49,
+							57
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							58,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 772437360990650400,
+						"id_str": "772437360990650368",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/Crg_r_EWgAADS_B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Crg_r_EWgAADS_B.jpg",
+						"url": "https://t.co/HcnoG3iqml",
+						"display_url": "pic.twitter.com/HcnoG3iqml",
+						"expanded_url": "https://twitter.com/TomosProsser/status/772437390782767104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 185,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 327,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 772437360990650400,
+						"id_str": "772437360990650368",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/Crg_r_EWgAADS_B.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Crg_r_EWgAADS_B.jpg",
+						"url": "https://t.co/HcnoG3iqml",
+						"display_url": "pic.twitter.com/HcnoG3iqml",
+						"expanded_url": "https://twitter.com/TomosProsser/status/772437390782767104/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 185,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 327,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2907686859,
+				"id_str": "2907686859",
+				"name": "Tomos Prosser",
+				"screen_name": "TomosProsser",
+				"location": "Northampton, England",
+				"description": "Loving life as a year 6 teacher at Simon de Senlis Primary, Northampton. MIEExpert.",
+				"url": "https://t.co/cnSk8ZfZ4Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cnSk8ZfZ4Y",
+								"expanded_url": "http://mandela.simondesenlisblogs.org",
+								"display_url": "mandela.simondesenlisblogs.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 287,
+				"friends_count": 310,
+				"listed_count": 22,
+				"created_at": "Sat Dec 06 13:13:41 +0000 2014",
+				"favourites_count": 65,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1050,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/710234008521539585/ptCTaRhu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/710234008521539585/ptCTaRhu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2907686859/1457909423",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 04 13:22:02 +0000 2016",
+		"id": 772424484573814800,
+		"id_str": "772424484573814784",
+		"text": "Imagine taking in your #OneNote news while relaxing with a @OneNoteC cup of coffee or tea:\n\ncourtesy of @Photofunia https://t.co/EOc9KlPaS7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"screen_name": "photofunia",
+					"name": "PhotoFunia",
+					"id": 21395669,
+					"id_str": "21395669",
+					"indices": [
+						104,
+						115
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 772424481621078000,
+					"id_str": "772424481621078016",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Crgz-TrW8AA5_ZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Crgz-TrW8AA5_ZE.jpg",
+					"url": "https://t.co/EOc9KlPaS7",
+					"display_url": "pic.twitter.com/EOc9KlPaS7",
+					"expanded_url": "https://twitter.com/OneNoteC/status/772424484573814784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 528,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 772424481621078000,
+					"id_str": "772424481621078016",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Crgz-TrW8AA5_ZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Crgz-TrW8AA5_ZE.jpg",
+					"url": "https://t.co/EOc9KlPaS7",
+					"display_url": "pic.twitter.com/EOc9KlPaS7",
+					"expanded_url": "https://twitter.com/OneNoteC/status/772424484573814784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 528,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7077,
+			"friends_count": 3397,
+			"listed_count": 377,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11413,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12118,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 04 12:18:45 +0000 2016",
 		"id": 772408555907477500,
 		"id_str": "772408555907477504",
