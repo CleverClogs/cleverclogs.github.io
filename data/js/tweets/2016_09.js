@@ -1,6 +1,599 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 17:59:13 +0000 2016",
+		"id": 773943788482035700,
+		"id_str": "773943788482035713",
+		"text": "First Release: guest access to Office 365 Groups!\nhttps://t.co/pvuqsoLafG\nby @CFiessinger @Office365\n#OneNote https://t.co/W3zQ1JScFw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfiessinger",
+					"name": "ChristopheFiessinger",
+					"id": 16018967,
+					"id_str": "16018967",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pvuqsoLafG",
+					"expanded_url": "http://onen.link/2csxmUW",
+					"display_url": "onen.link/2csxmUW",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 773943786858840000,
+					"id_str": "773943786858840064",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr2ZxgvXgAASJ7K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr2ZxgvXgAASJ7K.jpg",
+					"url": "https://t.co/W3zQ1JScFw",
+					"display_url": "pic.twitter.com/W3zQ1JScFw",
+					"expanded_url": "https://twitter.com/OneNoteC/status/773943788482035713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 912,
+							"h": 418,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 912,
+							"h": 418,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 773943786858840000,
+					"id_str": "773943786858840064",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr2ZxgvXgAASJ7K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr2ZxgvXgAASJ7K.jpg",
+					"url": "https://t.co/W3zQ1JScFw",
+					"display_url": "pic.twitter.com/W3zQ1JScFw",
+					"expanded_url": "https://twitter.com/OneNoteC/status/773943788482035713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 912,
+							"h": 418,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 912,
+							"h": 418,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7149,
+			"friends_count": 3426,
+			"listed_count": 384,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11532,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 08 17:29:11 +0000 2016",
+		"id": 773936232355229700,
+		"id_str": "773936232355229697",
+		"text": "RT @LMurphyMathTech: Review Student Work feature in Class Notebooks made checking AP summer work a breeze! #MIEExpert #onenote #MSFTEDU htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "onenote",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "MSFTEDU",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LMurphyMathTech",
+					"name": "Lindsey Murphy",
+					"id": 1482394550,
+					"id_str": "1482394550",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 773935922438078500,
+					"id_str": "773935922438078465",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr2SnvfWAAErOp5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr2SnvfWAAErOp5.jpg",
+					"url": "https://t.co/cj7WTU3nM5",
+					"display_url": "pic.twitter.com/cj7WTU3nM5",
+					"expanded_url": "https://twitter.com/LMurphyMathTech/status/773935926385016832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 644,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1031,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 773935926385016800,
+					"source_status_id_str": "773935926385016832",
+					"source_user_id": 1482394550,
+					"source_user_id_str": "1482394550"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 773935922438078500,
+					"id_str": "773935922438078465",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Cr2SnvfWAAErOp5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cr2SnvfWAAErOp5.jpg",
+					"url": "https://t.co/cj7WTU3nM5",
+					"display_url": "pic.twitter.com/cj7WTU3nM5",
+					"expanded_url": "https://twitter.com/LMurphyMathTech/status/773935926385016832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 644,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1031,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 773935926385016800,
+					"source_status_id_str": "773935926385016832",
+					"source_user_id": 1482394550,
+					"source_user_id_str": "1482394550"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7149,
+			"friends_count": 3426,
+			"listed_count": 384,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11532,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12218,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 08 17:27:58 +0000 2016",
+			"id": 773935926385016800,
+			"id_str": "773935926385016832",
+			"text": "Review Student Work feature in Class Notebooks made checking AP summer work a breeze! #MIEExpert #onenote #MSFTEDU https://t.co/cj7WTU3nM5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							86,
+							96
+						]
+					},
+					{
+						"text": "onenote",
+						"indices": [
+							97,
+							105
+						]
+					},
+					{
+						"text": "MSFTEDU",
+						"indices": [
+							106,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 773935922438078500,
+						"id_str": "773935922438078465",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr2SnvfWAAErOp5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr2SnvfWAAErOp5.jpg",
+						"url": "https://t.co/cj7WTU3nM5",
+						"display_url": "pic.twitter.com/cj7WTU3nM5",
+						"expanded_url": "https://twitter.com/LMurphyMathTech/status/773935926385016832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 644,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1031,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 773935922438078500,
+						"id_str": "773935922438078465",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr2SnvfWAAErOp5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr2SnvfWAAErOp5.jpg",
+						"url": "https://t.co/cj7WTU3nM5",
+						"display_url": "pic.twitter.com/cj7WTU3nM5",
+						"expanded_url": "https://twitter.com/LMurphyMathTech/status/773935926385016832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 644,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1031,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1482394550,
+				"id_str": "1482394550",
+				"name": "Lindsey Murphy",
+				"screen_name": "LMurphyMathTech",
+				"location": "Maryland",
+				"description": "Ed Tech Director. MIE Expert. Math teacher. Track Coach. Runner. Mom. Exploring meaningful ways to bring technology into every classroom.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 81,
+				"friends_count": 161,
+				"listed_count": 18,
+				"created_at": "Tue Jun 04 14:15:44 +0000 2013",
+				"favourites_count": 47,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 103,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/483608669808902144/E8Bb5MMR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/483608669808902144/E8Bb5MMR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1482394550/1404136296",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 08 14:52:11 +0000 2016",
 		"id": 773896720438665200,
 		"id_str": "773896720438665216",
