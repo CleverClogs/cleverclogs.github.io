@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 18:40:09 +0000 2016",
+		"id": 775403643105402900,
+		"id_str": "775403643105402880",
+		"text": "RT @harveychambers1: Mr. Bensley is on fire sharing the benefits of @msonenote.  #BCPSUN16 https://t.co/fZtbzCwGkI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BCPSUN16",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "harveychambers1",
+					"name": "Harvey Chambers",
+					"id": 274895327,
+					"id_str": "274895327",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 775379365123203100,
+					"id_str": "775379365123203072",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775379365123203072/pu/img/eAF5gtjqAVHqDrFC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775379365123203072/pu/img/eAF5gtjqAVHqDrFC.jpg",
+					"url": "https://t.co/fZtbzCwGkI",
+					"display_url": "pic.twitter.com/fZtbzCwGkI",
+					"expanded_url": "https://twitter.com/harveychambers1/status/775379503233241089/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 775379503233241100,
+					"source_status_id_str": "775379503233241089",
+					"source_user_id": 274895327,
+					"source_user_id_str": "274895327"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 775379365123203100,
+					"id_str": "775379365123203072",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775379365123203072/pu/img/eAF5gtjqAVHqDrFC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775379365123203072/pu/img/eAF5gtjqAVHqDrFC.jpg",
+					"url": "https://t.co/fZtbzCwGkI",
+					"display_url": "pic.twitter.com/fZtbzCwGkI",
+					"expanded_url": "https://twitter.com/harveychambers1/status/775379503233241089/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 775379503233241100,
+					"source_status_id_str": "775379503233241089",
+					"source_user_id": 274895327,
+					"source_user_id_str": "274895327",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29486,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/775379365123203072/pu/pl/eX_Gb-RjZHmb3OPc.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/775379365123203072/pu/vid/320x180/z38HKlDRFYl4Jfbp.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/775379365123203072/pu/vid/1280x720/E3a0wbe3lfhlBaBU.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/775379365123203072/pu/pl/eX_Gb-RjZHmb3OPc.mpd"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/775379365123203072/pu/vid/640x360/2fYS6sKprMT5E9U5.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 274895327,
+							"id_str": "274895327",
+							"name": "Harvey Chambers",
+							"screen_name": "harveychambers1",
+							"location": "Maryland",
+							"description": "Lifelong Learner | Tech Enthusiast | Big Dreamer | Optimist | Risk Taker | Out of the Box Thinker | Challenge the Status Quo-er",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 652,
+							"friends_count": 317,
+							"listed_count": 107,
+							"created_at": "Thu Mar 31 06:59:55 +0000 2011",
+							"favourites_count": 66,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2103,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "EBEBEB",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/733557792/4b9d2b5ca289e4da4a91e392d8f0726b.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/733557792/4b9d2b5ca289e4da4a91e392d8f0726b.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/727353906766950400/_p0OJ7xJ_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/727353906766950400/_p0OJ7xJ_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/274895327/1466178121",
+							"profile_link_color": "990000",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7202,
+			"friends_count": 3442,
+			"listed_count": 385,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11636,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12289,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 12 17:04:14 +0000 2016",
+			"id": 775379503233241100,
+			"id_str": "775379503233241089",
+			"text": "Mr. Bensley is on fire sharing the benefits of @msonenote.  #BCPSUN16 https://t.co/fZtbzCwGkI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BCPSUN16",
+						"indices": [
+							60,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							47,
+							57
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 775379365123203100,
+						"id_str": "775379365123203072",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775379365123203072/pu/img/eAF5gtjqAVHqDrFC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775379365123203072/pu/img/eAF5gtjqAVHqDrFC.jpg",
+						"url": "https://t.co/fZtbzCwGkI",
+						"display_url": "pic.twitter.com/fZtbzCwGkI",
+						"expanded_url": "https://twitter.com/harveychambers1/status/775379503233241089/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 775379365123203100,
+						"id_str": "775379365123203072",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775379365123203072/pu/img/eAF5gtjqAVHqDrFC.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775379365123203072/pu/img/eAF5gtjqAVHqDrFC.jpg",
+						"url": "https://t.co/fZtbzCwGkI",
+						"display_url": "pic.twitter.com/fZtbzCwGkI",
+						"expanded_url": "https://twitter.com/harveychambers1/status/775379503233241089/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 29486,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/775379365123203072/pu/pl/eX_Gb-RjZHmb3OPc.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/775379365123203072/pu/vid/320x180/z38HKlDRFYl4Jfbp.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/775379365123203072/pu/vid/1280x720/E3a0wbe3lfhlBaBU.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/775379365123203072/pu/pl/eX_Gb-RjZHmb3OPc.mpd"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/775379365123203072/pu/vid/640x360/2fYS6sKprMT5E9U5.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 274895327,
+				"id_str": "274895327",
+				"name": "Harvey Chambers",
+				"screen_name": "harveychambers1",
+				"location": "Maryland",
+				"description": "Lifelong Learner | Tech Enthusiast | Big Dreamer | Optimist | Risk Taker | Out of the Box Thinker | Challenge the Status Quo-er",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 652,
+				"friends_count": 317,
+				"listed_count": 107,
+				"created_at": "Thu Mar 31 06:59:55 +0000 2011",
+				"favourites_count": 66,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2103,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/733557792/4b9d2b5ca289e4da4a91e392d8f0726b.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/733557792/4b9d2b5ca289e4da4a91e392d8f0726b.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/727353906766950400/_p0OJ7xJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/727353906766950400/_p0OJ7xJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/274895327/1466178121",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 12 18:14:03 +0000 2016",
 		"id": 775397074212978700,
 		"id_str": "775397074212978690",
