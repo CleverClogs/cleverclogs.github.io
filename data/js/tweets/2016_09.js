@@ -1,6 +1,813 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 22:49:00 +0000 2016",
+		"id": 775828655473881100,
+		"id_str": "775828655473881088",
+		"text": "Quote: \"So, is the #SurfacePro4 worthy of opening your wallet?\" Extensive review\nhttps://t.co/vZ56Etblnx\nby @Joe_Osborne @TechRadar\n#OneNote",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SurfacePro4",
+					"indices": [
+						19,
+						31
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joe_osborne",
+					"name": "Joe Osborne",
+					"id": 19752468,
+					"id_str": "19752468",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"screen_name": "techradar",
+					"name": "TechRadar",
+					"id": 15560223,
+					"id_str": "15560223",
+					"indices": [
+						121,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vZ56Etblnx",
+					"expanded_url": "http://onen.link/2c7cQGP",
+					"display_url": "onen.link/2c7cQGP",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7222,
+			"friends_count": 3450,
+			"listed_count": 389,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11672,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 13 22:32:00 +0000 2016",
+		"id": 775824376889479200,
+		"id_str": "775824376889479168",
+		"text": "RT @mrzphd: #SurfaceEdu #digitalink @OneNoteEDU in 3rd grade! #MSFTSchool #MIEExpert #MSFTEdu @Microsoft_EDU @surface @sparvell https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SurfaceEdu",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"text": "digitalink",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"text": "MSFTSchool",
+					"indices": [
+						62,
+						73
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "MSFTEdu",
+					"indices": [
+						85,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrzphd",
+					"name": "Michelle Zimmerman",
+					"id": 887144389,
+					"id_str": "887144389",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"screen_name": "Microsoft_EDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						94,
+						108
+					]
+				},
+				{
+					"screen_name": "surface",
+					"name": "Surface",
+					"id": 612076511,
+					"id_str": "612076511",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"screen_name": "sparvell",
+					"name": "Mark Sparvell",
+					"id": 33184994,
+					"id_str": "33184994",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 775781589615648800,
+					"id_str": "775781589615648768",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775781589615648768/pu/img/l0WP2VHdDAWouQUX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775781589615648768/pu/img/l0WP2VHdDAWouQUX.jpg",
+					"url": "https://t.co/AAUwocaoTu",
+					"display_url": "pic.twitter.com/AAUwocaoTu",
+					"expanded_url": "https://twitter.com/mrzphd/status/775781654606385152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 775781654606385200,
+					"source_status_id_str": "775781654606385152",
+					"source_user_id": 887144389,
+					"source_user_id_str": "887144389"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 775781589615648800,
+					"id_str": "775781589615648768",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775781589615648768/pu/img/l0WP2VHdDAWouQUX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775781589615648768/pu/img/l0WP2VHdDAWouQUX.jpg",
+					"url": "https://t.co/AAUwocaoTu",
+					"display_url": "pic.twitter.com/AAUwocaoTu",
+					"expanded_url": "https://twitter.com/mrzphd/status/775781654606385152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 775781654606385200,
+					"source_status_id_str": "775781654606385152",
+					"source_user_id": 887144389,
+					"source_user_id_str": "887144389",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 4403,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/775781589615648768/pu/vid/1280x720/w6U-HlVaGKFKh-3z.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/775781589615648768/pu/vid/640x360/L5U1PRlkPWnQzuRv.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/775781589615648768/pu/pl/7GCl9GMJZV6eDaEh.mpd"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/775781589615648768/pu/pl/7GCl9GMJZV6eDaEh.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/775781589615648768/pu/vid/320x180/PthqirHJbmZk_zu9.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 887144389,
+							"id_str": "887144389",
+							"name": "Michelle Zimmerman",
+							"screen_name": "mrzphd",
+							"location": "",
+							"description": "To inspire passion, the unexpected, and learning from failure in a new generation • #MIEExpert • Lead #PBSDigitalInnovator • #ShowcaseSchool NCCE Trainer",
+							"url": "https://t.co/v9FTVPZkIN",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/v9FTVPZkIN",
+											"expanded_url": "https://docs.com/RentonPrep",
+											"display_url": "docs.com/RentonPrep",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1290,
+							"friends_count": 594,
+							"listed_count": 368,
+							"created_at": "Wed Oct 17 16:29:10 +0000 2012",
+							"favourites_count": 1014,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 5381,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "1A1B1F",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/696165793097080833/7D40H22X_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/696165793097080833/7D40H22X_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/887144389/1454826953",
+							"profile_link_color": "5B5375",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7222,
+			"friends_count": 3450,
+			"listed_count": 389,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11672,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 13 19:42:14 +0000 2016",
+			"id": 775781654606385200,
+			"id_str": "775781654606385152",
+			"text": "#SurfaceEdu #digitalink @OneNoteEDU in 3rd grade! #MSFTSchool #MIEExpert #MSFTEdu @Microsoft_EDU @surface @sparvell https://t.co/AAUwocaoTu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SurfaceEdu",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "digitalink",
+						"indices": [
+							12,
+							23
+						]
+					},
+					{
+						"text": "MSFTSchool",
+						"indices": [
+							50,
+							61
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							62,
+							72
+						]
+					},
+					{
+						"text": "MSFTEdu",
+						"indices": [
+							73,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							24,
+							35
+						]
+					},
+					{
+						"screen_name": "Microsoft_EDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							82,
+							96
+						]
+					},
+					{
+						"screen_name": "surface",
+						"name": "Surface",
+						"id": 612076511,
+						"id_str": "612076511",
+						"indices": [
+							97,
+							105
+						]
+					},
+					{
+						"screen_name": "sparvell",
+						"name": "Mark Sparvell",
+						"id": 33184994,
+						"id_str": "33184994",
+						"indices": [
+							106,
+							115
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 775781589615648800,
+						"id_str": "775781589615648768",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775781589615648768/pu/img/l0WP2VHdDAWouQUX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775781589615648768/pu/img/l0WP2VHdDAWouQUX.jpg",
+						"url": "https://t.co/AAUwocaoTu",
+						"display_url": "pic.twitter.com/AAUwocaoTu",
+						"expanded_url": "https://twitter.com/mrzphd/status/775781654606385152/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 775781589615648800,
+						"id_str": "775781589615648768",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/775781589615648768/pu/img/l0WP2VHdDAWouQUX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/775781589615648768/pu/img/l0WP2VHdDAWouQUX.jpg",
+						"url": "https://t.co/AAUwocaoTu",
+						"display_url": "pic.twitter.com/AAUwocaoTu",
+						"expanded_url": "https://twitter.com/mrzphd/status/775781654606385152/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 4403,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/775781589615648768/pu/vid/1280x720/w6U-HlVaGKFKh-3z.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/775781589615648768/pu/vid/640x360/L5U1PRlkPWnQzuRv.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/775781589615648768/pu/pl/7GCl9GMJZV6eDaEh.mpd"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/775781589615648768/pu/pl/7GCl9GMJZV6eDaEh.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/775781589615648768/pu/vid/320x180/PthqirHJbmZk_zu9.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 887144389,
+				"id_str": "887144389",
+				"name": "Michelle Zimmerman",
+				"screen_name": "mrzphd",
+				"location": "",
+				"description": "To inspire passion, the unexpected, and learning from failure in a new generation • #MIEExpert • Lead #PBSDigitalInnovator • #ShowcaseSchool NCCE Trainer",
+				"url": "https://t.co/v9FTVPZkIN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v9FTVPZkIN",
+								"expanded_url": "https://docs.com/RentonPrep",
+								"display_url": "docs.com/RentonPrep",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1290,
+				"friends_count": 594,
+				"listed_count": 368,
+				"created_at": "Wed Oct 17 16:29:10 +0000 2012",
+				"favourites_count": 1014,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5381,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/696165793097080833/7D40H22X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/696165793097080833/7D40H22X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/887144389/1454826953",
+				"profile_link_color": "5B5375",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "a96f188f5de647b5",
+				"url": "https://api.twitter.com/1.1/geo/id/a96f188f5de647b5.json",
+				"place_type": "city",
+				"name": "Renton",
+				"full_name": "Renton, WA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.253717,
+								47.423263
+							],
+							[
+								-122.135079,
+								47.423263
+							],
+							[
+								-122.135079,
+								47.539933
+							],
+							[
+								-122.253717,
+								47.539933
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 13 22:16:01 +0000 2016",
 		"id": 775820356082950100,
 		"id_str": "775820356082950144",
