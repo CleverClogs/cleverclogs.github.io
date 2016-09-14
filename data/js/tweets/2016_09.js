@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 12:31:57 +0000 2016",
+		"id": 776035759505678300,
+		"id_str": "776035759505678336",
+		"text": "Significant update to #OneNote for #Windows10 app. Text highlighter, clear formatting, embedding @Office365 Video! https://t.co/Fhrw7j6ACT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						35,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fhrw7j6ACT",
+					"expanded_url": "https://twitter.com/uwappsoldier/status/776032927645896704",
+					"display_url": "twitter.com/uwappsoldier/s…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7229,
+			"friends_count": 3452,
+			"listed_count": 388,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11681,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12320,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 776032927645896700,
+		"quoted_status_id_str": "776032927645896704",
+		"quoted_status": {
+			"created_at": "Wed Sep 14 12:20:42 +0000 2016",
+			"id": 776032927645896700,
+			"id_str": "776032927645896704",
+			"text": "⭐⭐⭐⭐Office OneNote Mobile v17.7369.5768 #UWP September 2016 Update. It's YUGE! 😀😎👍👍 https://t.co/yPlUifx9ON",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UWP",
+						"indices": [
+							40,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 776032406390317000,
+						"id_str": "776032406390317056",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/CsUFXK0WIAAIFLD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsUFXK0WIAAIFLD.jpg",
+						"url": "https://t.co/yPlUifx9ON",
+						"display_url": "pic.twitter.com/yPlUifx9ON",
+						"expanded_url": "https://twitter.com/uwappsoldier/status/776032927645896704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 869,
+								"h": 1108,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 869,
+								"h": 1108,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 533,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776032406390317000,
+						"id_str": "776032406390317056",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/CsUFXK0WIAAIFLD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsUFXK0WIAAIFLD.jpg",
+						"url": "https://t.co/yPlUifx9ON",
+						"display_url": "pic.twitter.com/yPlUifx9ON",
+						"expanded_url": "https://twitter.com/uwappsoldier/status/776032927645896704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 869,
+								"h": 1108,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 869,
+								"h": 1108,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 533,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 771438961545871400,
+			"in_reply_to_status_id_str": "771438961545871361",
+			"in_reply_to_user_id": 4236642393,
+			"in_reply_to_user_id_str": "4236642393",
+			"in_reply_to_screen_name": "uwappsoldier",
+			"user": {
+				"id": 4236642393,
+				"id_str": "4236642393",
+				"name": "Ⓜ️OΞBΞUS",
+				"screen_name": "uwappsoldier",
+				"location": "Barbate, Spain",
+				"description": "I'm a fast ring insider that bought in to the Universal Windows Platform (UWP) vision. Now I follow it. Also music. | Güiri, culo inquieto |  ☁🌐۝ • ͜ •  ♛",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 211,
+				"friends_count": 851,
+				"listed_count": 151,
+				"created_at": "Fri Nov 20 19:20:05 +0000 2015",
+				"favourites_count": 3898,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6561,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711181981602734080/zXkiVhKz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711181981602734080/zXkiVhKz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4236642393/1458394433",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 14 10:47:54 +0000 2016",
 		"id": 776009573194948600,
 		"id_str": "776009573194948608",
