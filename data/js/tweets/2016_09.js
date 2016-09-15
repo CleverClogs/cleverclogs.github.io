@@ -1,6 +1,516 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 20:55:00 +0000 2016",
+		"id": 776524743096893400,
+		"id_str": "776524743096893440",
+		"text": "RT @LBayne: Hope it's OK to vote 4 all #classhack entries! So many &amp; They're all fantastic. Thx #MIEExperts #hacktheclassroom https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "classhack",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "MIEExperts",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "hacktheclassroom",
+					"indices": [
+						112,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LBayne",
+					"name": "LBayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gT6M5ad9f2",
+					"expanded_url": "https://twitter.com/sdelafosse/status/776507411431469058",
+					"display_url": "twitter.com/sdelafosse/sta…",
+					"indices": [
+						130,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7249,
+			"friends_count": 3456,
+			"listed_count": 389,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11712,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 15 20:04:21 +0000 2016",
+			"id": 776511994375639000,
+			"id_str": "776511994375639040",
+			"text": "Hope it's OK to vote 4 all #classhack entries! So many &amp; They're all fantastic. Thx #MIEExperts #hacktheclassroom https://t.co/gT6M5ad9f2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "classhack",
+						"indices": [
+							27,
+							37
+						]
+					},
+					{
+						"text": "MIEExperts",
+						"indices": [
+							88,
+							99
+						]
+					},
+					{
+						"text": "hacktheclassroom",
+						"indices": [
+							100,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gT6M5ad9f2",
+						"expanded_url": "https://twitter.com/sdelafosse/status/776507411431469058",
+						"display_url": "twitter.com/sdelafosse/sta…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18954505,
+				"id_str": "18954505",
+				"name": "LBayne",
+				"screen_name": "LBayne",
+				"location": "Belltown, Seattle",
+				"description": "Triathlete, amateur artist, blind optimist, #EdTech and #OneNote Enthusiast on the #Microsoft in Education Marketing team-- Follow @OneNoteEDU & @Microsoft_EDU",
+				"url": "https://t.co/Yb8vnKWfz2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Yb8vnKWfz2",
+								"expanded_url": "http://microsoft.com/education",
+								"display_url": "microsoft.com/education",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 674,
+				"friends_count": 708,
+				"listed_count": 111,
+				"created_at": "Tue Jan 13 21:34:28 +0000 2009",
+				"favourites_count": 1417,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2185,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/766003468930658304/0GwAhCrO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766003468930658304/0GwAhCrO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18954505/1473207396",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 776507411431469000,
+			"quoted_status_id_str": "776507411431469058",
+			"quoted_status": {
+				"created_at": "Thu Sep 15 19:46:08 +0000 2016",
+				"id": 776507411431469000,
+				"id_str": "776507411431469058",
+				"text": "Help pick the #classhack winners for #hacktheclassroom today! https://t.co/2QAgkYOQTp #MIEExpert #edtech #edchat",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "classhack",
+							"indices": [
+								14,
+								24
+							]
+						},
+						{
+							"text": "hacktheclassroom",
+							"indices": [
+								37,
+								54
+							]
+						},
+						{
+							"text": "MIEExpert",
+							"indices": [
+								86,
+								96
+							]
+						},
+						{
+							"text": "edtech",
+							"indices": [
+								97,
+								104
+							]
+						},
+						{
+							"text": "edchat",
+							"indices": [
+								105,
+								112
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/2QAgkYOQTp",
+							"expanded_url": "https://education.microsoft.com/courses-and-resources/resources/class-hack-contest-voting",
+							"display_url": "education.microsoft.com/courses-and-re…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 111110878,
+					"id_str": "111110878",
+					"name": "Sonja Delafosse",
+					"screen_name": "sdelafosse",
+					"location": "Seattle, WA",
+					"description": "Microsoft Education: Educator Audience. 21 Years in Public Education, Striving to Support Innovative Teaching and Learning. All views here are my own!",
+					"url": "https://t.co/8pJUolNgwX",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/8pJUolNgwX",
+									"expanded_url": "https://about.me/sdelafosse",
+									"display_url": "about.me/sdelafosse",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1481,
+					"friends_count": 971,
+					"listed_count": 108,
+					"created_at": "Wed Feb 03 21:11:33 +0000 2010",
+					"favourites_count": 273,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1251,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "709397",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507558723401691136/S7PjcpP4.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507558723401691136/S7PjcpP4.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/583304490293415936/c82HZ4oz_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/583304490293415936/c82HZ4oz_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/111110878/1443213661",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "A0C5C7",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 776507411431469000,
+		"quoted_status_id_str": "776507411431469058",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 15 20:46:02 +0000 2016",
+		"id": 776522486850654200,
+		"id_str": "776522486850654208",
+		"text": "#Surface Does More. Just Like You. New 'Detachable Keyboard' musical promo video with nice cameo for #OneNote 2016 \nhttps://t.co/xSlvd5AWuK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Surface",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						101,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xSlvd5AWuK",
+					"expanded_url": "http://onen.link/2cqECPC",
+					"display_url": "onen.link/2cqECPC",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7249,
+			"friends_count": 3456,
+			"listed_count": 389,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11712,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12348,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 15 19:49:38 +0000 2016",
 		"id": 776508293560819700,
 		"id_str": "776508293560819712",
