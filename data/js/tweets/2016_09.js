@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 10:50:48 +0000 2016",
+		"id": 777822240847126500,
+		"id_str": "777822240847126528",
+		"text": "Always nice to see a screenshot of #OneNote 2016 in a @Surface tweet ;-) https://t.co/gdnGAwCVQ6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "surface",
+					"name": "Surface",
+					"id": 612076511,
+					"id_str": "612076511",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gdnGAwCVQ6",
+					"expanded_url": "https://twitter.com/surface/status/776473161722462208",
+					"display_url": "twitter.com/surface/status…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7309,
+			"friends_count": 3464,
+			"listed_count": 390,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11750,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12380,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 776473161722462200,
+		"quoted_status_id_str": "776473161722462208",
+		"quoted_status": {
+			"created_at": "Thu Sep 15 17:30:02 +0000 2016",
+			"id": 776473161722462200,
+			"id_str": "776473161722462208",
+			"text": "No ink, no smudges - same dry erase feel. https://t.co/7uUAlwkcRT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 776473157607850000,
+						"id_str": "776473157607849989",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/CsaWORDXgAUNq-0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsaWORDXgAUNq-0.jpg",
+						"url": "https://t.co/7uUAlwkcRT",
+						"display_url": "pic.twitter.com/7uUAlwkcRT",
+						"expanded_url": "https://twitter.com/surface/status/776473161722462208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776473157607850000,
+						"id_str": "776473157607849989",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/CsaWORDXgAUNq-0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsaWORDXgAUNq-0.jpg",
+						"url": "https://t.co/7uUAlwkcRT",
+						"display_url": "pic.twitter.com/7uUAlwkcRT",
+						"expanded_url": "https://twitter.com/surface/status/776473161722462208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 612076511,
+				"id_str": "612076511",
+				"name": "Surface",
+				"screen_name": "surface",
+				"location": "Redmond, WA",
+				"description": "Welcome to the official Twitter page for Microsoft Surface. For technical support, tweet @SurfaceSupport.",
+				"url": "http://t.co/Rj5kzgByd7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Rj5kzgByd7",
+								"expanded_url": "http://www.surface.com",
+								"display_url": "surface.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 518692,
+				"friends_count": 631,
+				"listed_count": 2874,
+				"created_at": "Mon Jun 18 23:04:13 +0000 2012",
+				"favourites_count": 4977,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 80232,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0084C9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/527603552546328576/ye1Vg0qG.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/527603552546328576/ye1Vg0qG.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/648882630612553728/D6YeA6Nt_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/648882630612553728/D6YeA6Nt_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/612076511/1470162145",
+				"profile_link_color": "0084C9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 82,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 18 20:58:18 +0000 2016",
 		"id": 777612738239627300,
 		"id_str": "777612738239627264",
