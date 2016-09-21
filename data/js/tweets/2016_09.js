@@ -1,6 +1,639 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 18:51:32 +0000 2016",
+		"id": 778667996948684800,
+		"id_str": "778667996948684800",
+		"text": "RT @LipEdTBK8: Identifying cause &amp; effect relationships to understand how roller coasters work. 🎢#teachTBK8 #OneNote #ClassNotebook https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "teachTBK8",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "ClassNotebook",
+					"indices": [
+						121,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LipEdTBK8",
+					"name": "Megan Lipinczyk",
+					"id": 2740080795,
+					"id_str": "2740080795",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7332,
+			"friends_count": 3470,
+			"listed_count": 399,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11834,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12420,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 21 18:16:53 +0000 2016",
+			"id": 778659277493993500,
+			"id_str": "778659277493993472",
+			"text": "Identifying cause &amp; effect relationships to understand how roller coasters work. 🎢#teachTBK8 #OneNote #ClassNotebook https://t.co/8KusIn5k9A",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "teachTBK8",
+						"indices": [
+							86,
+							96
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							97,
+							105
+						]
+					},
+					{
+						"text": "ClassNotebook",
+						"indices": [
+							106,
+							120
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 778659247634714600,
+						"id_str": "778659247634714624",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs5addBXEAAaGmI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs5addBXEAAaGmI.jpg",
+						"url": "https://t.co/8KusIn5k9A",
+						"display_url": "pic.twitter.com/8KusIn5k9A",
+						"expanded_url": "https://twitter.com/LipEdTBK8/status/778659277493993472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1770,
+								"h": 1770,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 778659247634714600,
+						"id_str": "778659247634714624",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs5addBXEAAaGmI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs5addBXEAAaGmI.jpg",
+						"url": "https://t.co/8KusIn5k9A",
+						"display_url": "pic.twitter.com/8KusIn5k9A",
+						"expanded_url": "https://twitter.com/LipEdTBK8/status/778659277493993472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1770,
+								"h": 1770,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2740080795,
+				"id_str": "2740080795",
+				"name": "Megan Lipinczyk",
+				"screen_name": "LipEdTBK8",
+				"location": "Tampa, Florida",
+				"description": "5th Grade Teacher, Microsoft Innovative Educator Expert @TurnerBartelsK8, a Microsoft Showcase School. #HCPSTeach #TeachTBK8",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 453,
+				"friends_count": 374,
+				"listed_count": 29,
+				"created_at": "Mon Aug 11 18:10:53 +0000 2014",
+				"favourites_count": 2385,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1251,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/727310999334711297/jOol1VlV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/727310999334711297/jOol1VlV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740080795/1463360359",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 21 18:22:54 +0000 2016",
+		"id": 778660791948025900,
+		"id_str": "778660791948025856",
+		"text": "Students need to do more than highlighting - video explaining how @Surface facilitates active reading\nby… https://t.co/VUI1zZezLA",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "surface",
+					"name": "Surface",
+					"id": 612076511,
+					"id_str": "612076511",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VUI1zZezLA",
+					"expanded_url": "https://twitter.com/i/web/status/778660791948025856",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7332,
+			"friends_count": 3470,
+			"listed_count": 399,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11834,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12420,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 775852545348476900,
+		"quoted_status_id_str": "775852545348476929",
+		"quoted_status": {
+			"created_at": "Wed Sep 14 00:23:56 +0000 2016",
+			"id": 775852545348476900,
+			"id_str": "775852545348476929",
+			"text": "Learn how you can engage your students in the classroom by annotating using a digital pen: https://t.co/XW06qgNZx2 https://t.co/0EvOMPHnUI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XW06qgNZx2",
+						"expanded_url": "https://www.microsoft.com/en-au/education/products/surface/default.aspx",
+						"display_url": "microsoft.com/en-au/educatio…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 747975481056604200,
+						"id_str": "747975481056604160",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/CqEvUZWVIAI5v_6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqEvUZWVIAI5v_6.jpg",
+						"url": "https://t.co/0EvOMPHnUI",
+						"display_url": "pic.twitter.com/0EvOMPHnUI",
+						"expanded_url": "https://twitter.com/MSAUedu/status/775852545348476929/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 747975481056604200,
+						"id_str": "747975481056604160",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/CqEvUZWVIAI5v_6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqEvUZWVIAI5v_6.jpg",
+						"url": "https://t.co/0EvOMPHnUI",
+						"display_url": "pic.twitter.com/0EvOMPHnUI",
+						"expanded_url": "https://twitter.com/MSAUedu/status/775852545348476929/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 75840,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/747975481056604160/pl/14T3sO6MFCynek8j.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/747975481056604160/vid/320x180/X656Fhyc7gh1gBCV.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/747975481056604160/vid/640x360/JIZ03LBBiX_gysLm.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/747975481056604160/vid/1280x720/-JEkom0Krmdu-qox.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/amplify_video/747975481056604160/pl/14T3sO6MFCynek8j.mpd"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Basic highlighting is not enough!",
+							"description": "",
+							"call_to_actions": {
+								"watch_now": {
+									"url": "https://www.microsoft.com/en-au/education/products/surface/default.aspx"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3666731533,
+				"id_str": "3666731533",
+				"name": "Microsoft Education",
+				"screen_name": "MSAUedu",
+				"location": "Australia",
+				"description": "Discovering, highlighting and enabling innovation and achievement among students, teachers and schools in Australia.",
+				"url": "https://t.co/NInNiHuhxr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NInNiHuhxr",
+								"expanded_url": "http://microsoft.com.au/education",
+								"display_url": "microsoft.com.au/education",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4100,
+				"friends_count": 1862,
+				"listed_count": 136,
+				"created_at": "Thu Sep 24 04:41:04 +0000 2015",
+				"favourites_count": 3288,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2554,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768648349092225024/tFKN7qkp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768648349092225024/tFKN7qkp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3666731533/1472093692",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 21 17:58:41 +0000 2016",
 		"id": 778654698052128800,
 		"id_str": "778654698052128768",
