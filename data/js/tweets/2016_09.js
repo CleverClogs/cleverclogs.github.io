@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 20:13:02 +0000 2016",
+		"id": 779413285527486500,
+		"id_str": "779413285527486464",
+		"text": "RT @tuckertech: Y'all ... I have the BEST team. They are #EMStechsperts for sure! @libraryclark @jlo731 #emsproud #OneNote @msonenote https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EMStechsperts",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"text": "emsproud",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tuckertech",
+					"name": "Cindy Tucker",
+					"id": 275608261,
+					"id_str": "275608261",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "libraryclark",
+					"name": "Sallee Clark",
+					"id": 2673808964,
+					"id_str": "2673808964",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"screen_name": "jlo731",
+					"name": "Jeni Long",
+					"id": 95272661,
+					"id_str": "95272661",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7369,
+			"friends_count": 3481,
+			"listed_count": 402,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11921,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12467,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			759703199574024200
+		],
+		"retweeted_status": {
+			"created_at": "Fri Sep 23 19:50:50 +0000 2016",
+			"id": 779407699804946400,
+			"id_str": "779407699804946432",
+			"text": "Y'all ... I have the BEST team. They are #EMStechsperts for sure! @libraryclark @jlo731 #emsproud #OneNote… https://t.co/eyrr6WpQZu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EMStechsperts",
+						"indices": [
+							41,
+							55
+						]
+					},
+					{
+						"text": "emsproud",
+						"indices": [
+							88,
+							97
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							98,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "libraryclark",
+						"name": "Sallee Clark",
+						"id": 2673808964,
+						"id_str": "2673808964",
+						"indices": [
+							66,
+							79
+						]
+					},
+					{
+						"screen_name": "jlo731",
+						"name": "Jeni Long",
+						"id": 95272661,
+						"id_str": "95272661",
+						"indices": [
+							80,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eyrr6WpQZu",
+						"expanded_url": "https://twitter.com/i/web/status/779407699804946432",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275608261,
+				"id_str": "275608261",
+				"name": "Cindy Tucker",
+				"screen_name": "tuckertech",
+				"location": "",
+				"description": "Instructional Technologist for growing K-12 TX district.My tweets represent my own thoughts & opinions and do not necessarily represent those of my district =).",
+				"url": "http://t.co/QlKoYrPky2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QlKoYrPky2",
+								"expanded_url": "http://www.tuckertechtalk.com",
+								"display_url": "tuckertechtalk.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 575,
+				"friends_count": 553,
+				"listed_count": 10,
+				"created_at": "Fri Apr 01 16:37:28 +0000 2011",
+				"favourites_count": 407,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 341,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/450403899887738880/Ra2ldd6r_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/450403899887738880/Ra2ldd6r_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275608261/1396220996",
+				"profile_link_color": "009BD4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "e0060cda70f5f341",
+				"url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json",
+				"place_type": "admin",
+				"name": "Texas",
+				"full_name": "Texas, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-106.645646,
+								25.837092
+							],
+							[
+								-93.508131,
+								25.837092
+							],
+							[
+								-93.508131,
+								36.500695
+							],
+							[
+								-106.645646,
+								36.500695
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 779405130416345100,
+			"quoted_status_id_str": "779405130416345088",
+			"quoted_status": {
+				"created_at": "Fri Sep 23 19:40:38 +0000 2016",
+				"id": 779405130416345100,
+				"id_str": "779405130416345088",
+				"text": "Thank you April for letting us show you how @msonenote can change your life!!! #EMStechsperts #emsproud https://t.co/PcXysv1Wzp",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "EMStechsperts",
+							"indices": [
+								79,
+								93
+							]
+						},
+						{
+							"text": "emsproud",
+							"indices": [
+								94,
+								103
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "msonenote",
+							"name": "Microsoft OneNote",
+							"id": 23735316,
+							"id_str": "23735316",
+							"indices": [
+								44,
+								54
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 779405110489210900,
+							"id_str": "779405110489210880",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/CtEA0YrVYAAUtJF.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CtEA0YrVYAAUtJF.jpg",
+							"url": "https://t.co/PcXysv1Wzp",
+							"display_url": "pic.twitter.com/PcXysv1Wzp",
+							"expanded_url": "https://twitter.com/emsisdits/status/779405130416345088/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 682,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 682,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 453,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 779405110489210900,
+							"id_str": "779405110489210880",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/CtEA0YrVYAAUtJF.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CtEA0YrVYAAUtJF.jpg",
+							"url": "https://t.co/PcXysv1Wzp",
+							"display_url": "pic.twitter.com/PcXysv1Wzp",
+							"expanded_url": "https://twitter.com/emsisdits/status/779405130416345088/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 682,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 682,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 453,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 275592120,
+					"id_str": "275592120",
+					"name": "emsisdits",
+					"screen_name": "emsisdits",
+					"location": "",
+					"description": "Instructional Technology for Eagle Mountain-Saginaw ISD",
+					"url": "http://t.co/ASX1RhQU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/ASX1RhQU",
+									"expanded_url": "http://emsisdits.blogspot.com/",
+									"display_url": "emsisdits.blogspot.com",
+									"indices": [
+										0,
+										20
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 280,
+					"friends_count": 57,
+					"listed_count": 7,
+					"created_at": "Fri Apr 01 15:58:13 +0000 2011",
+					"favourites_count": 41,
+					"utc_offset": -18000,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 257,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/660919187892637696/kJ1rnpTu_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/660919187892637696/kJ1rnpTu_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/275592120/1471397602",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 779405130416345100,
+		"quoted_status_id_str": "779405130416345088",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 23 19:06:35 +0000 2016",
 		"id": 779396561738620900,
 		"id_str": "779396561738620928",
