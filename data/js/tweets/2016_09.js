@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 00:27:14 +0000 2016",
+		"id": 779477254128726000,
+		"id_str": "779477254128726016",
+		"text": "RT @minniafeng: Behind the scenes at #hacktheclassroom rehearsal! #mieexpert https://t.co/g89fe8ntcC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hacktheclassroom",
+					"indices": [
+						37,
+						54
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						66,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "minniafeng",
+					"name": "Minnia Feng",
+					"id": 2755826660,
+					"id_str": "2755826660",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 779394006174150700,
+					"id_str": "779394006174150656",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/CtD2uB4UMAA4pbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtD2uB4UMAA4pbP.jpg",
+					"url": "https://t.co/g89fe8ntcC",
+					"display_url": "pic.twitter.com/g89fe8ntcC",
+					"expanded_url": "https://twitter.com/minniafeng/status/779394023869919232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 779394023869919200,
+					"source_status_id_str": "779394023869919232",
+					"source_user_id": 2755826660,
+					"source_user_id_str": "2755826660"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 779394006174150700,
+					"id_str": "779394006174150656",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/CtD2uB4UMAA4pbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtD2uB4UMAA4pbP.jpg",
+					"url": "https://t.co/g89fe8ntcC",
+					"display_url": "pic.twitter.com/g89fe8ntcC",
+					"expanded_url": "https://twitter.com/minniafeng/status/779394023869919232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 779394023869919200,
+					"source_status_id_str": "779394023869919232",
+					"source_user_id": 2755826660,
+					"source_user_id_str": "2755826660"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7380,
+			"friends_count": 3482,
+			"listed_count": 406,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11933,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 23 18:56:30 +0000 2016",
+			"id": 779394023869919200,
+			"id_str": "779394023869919232",
+			"text": "Behind the scenes at #hacktheclassroom rehearsal! #mieexpert https://t.co/g89fe8ntcC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hacktheclassroom",
+						"indices": [
+							21,
+							38
+						]
+					},
+					{
+						"text": "mieexpert",
+						"indices": [
+							50,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 779394006174150700,
+						"id_str": "779394006174150656",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/CtD2uB4UMAA4pbP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtD2uB4UMAA4pbP.jpg",
+						"url": "https://t.co/g89fe8ntcC",
+						"display_url": "pic.twitter.com/g89fe8ntcC",
+						"expanded_url": "https://twitter.com/minniafeng/status/779394023869919232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 779394006174150700,
+						"id_str": "779394006174150656",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/CtD2uB4UMAA4pbP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtD2uB4UMAA4pbP.jpg",
+						"url": "https://t.co/g89fe8ntcC",
+						"display_url": "pic.twitter.com/g89fe8ntcC",
+						"expanded_url": "https://twitter.com/minniafeng/status/779394023869919232/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2755826660,
+				"id_str": "2755826660",
+				"name": "Minnia Feng",
+				"screen_name": "minniafeng",
+				"location": "Seattle, WA",
+				"description": "Microsoft in Education Social + Community! Columnist @SBNation @CopperAndBlue. I eat. I write. I watch hockey. Fresh @Columbia grad. Words my own.",
+				"url": "https://t.co/m1PhmGPpQ1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m1PhmGPpQ1",
+								"expanded_url": "http://minniafeng.com",
+								"display_url": "minniafeng.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1696,
+				"friends_count": 795,
+				"listed_count": 74,
+				"created_at": "Fri Aug 22 17:48:24 +0000 2014",
+				"favourites_count": 837,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1233,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768856837902913536/26YQeSsy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768856837902913536/26YQeSsy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2755826660/1459810184",
+				"profile_link_color": "32145A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9c94684482001",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9c94684482001.json",
+				"place_type": "poi",
+				"name": "Microsoft Studio A",
+				"full_name": "Microsoft Studio A",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.13627576828003,
+								47.64510885264977
+							],
+							[
+								-122.13627576828003,
+								47.64510885264977
+							],
+							[
+								-122.13627576828003,
+								47.64510885264977
+							],
+							[
+								-122.13627576828003,
+								47.64510885264977
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 24 00:07:10 +0000 2016",
 		"id": 779472205847621600,
 		"id_str": "779472205847621632",
