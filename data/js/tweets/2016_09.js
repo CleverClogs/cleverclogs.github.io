@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 12:25:12 +0000 2016",
+		"id": 779657938008932400,
+		"id_str": "779657938008932356",
+		"text": "RT @l_whitmarsh: Fantastic Open Day, parents &amp; students loved learning about @surface &amp; @OneNoteEDU @OneNoteC #MIEExpert https://t.co/Bgfxs…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "l_whitmarsh",
+					"name": "Lee Whitmarsh",
+					"id": 4243119677,
+					"id_str": "4243119677",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "surface",
+					"name": "Surface",
+					"id": 612076511,
+					"id_str": "612076511",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						96,
+						107
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						108,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7387,
+			"friends_count": 3482,
+			"listed_count": 406,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11944,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12479,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 24 12:18:23 +0000 2016",
+			"id": 779656222303813600,
+			"id_str": "779656222303813632",
+			"text": "Fantastic Open Day, parents &amp; students loved learning about @surface &amp; @OneNoteEDU @OneNoteC #MIEExpert https://t.co/BgfxsQMLnI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							101,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "surface",
+						"name": "Surface",
+						"id": 612076511,
+						"id_str": "612076511",
+						"indices": [
+							64,
+							72
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							79,
+							90
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							91,
+							100
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 779656178217390100,
+						"id_str": "779656178217390080",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/CtHlKc2WEAAhv9Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtHlKc2WEAAhv9Y.jpg",
+						"url": "https://t.co/BgfxsQMLnI",
+						"display_url": "pic.twitter.com/BgfxsQMLnI",
+						"expanded_url": "https://twitter.com/l_whitmarsh/status/779656222303813632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 779656178217390100,
+						"id_str": "779656178217390080",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/CtHlKc2WEAAhv9Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtHlKc2WEAAhv9Y.jpg",
+						"url": "https://t.co/BgfxsQMLnI",
+						"display_url": "pic.twitter.com/BgfxsQMLnI",
+						"expanded_url": "https://twitter.com/l_whitmarsh/status/779656222303813632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 779656198635327500,
+						"id_str": "779656198635327488",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/CtHlLo6XEAAWXFP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtHlLo6XEAAWXFP.jpg",
+						"url": "https://t.co/BgfxsQMLnI",
+						"display_url": "pic.twitter.com/BgfxsQMLnI",
+						"expanded_url": "https://twitter.com/l_whitmarsh/status/779656222303813632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 779656218155556900,
+						"id_str": "779656218155556865",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/CtHlMxoWIAEFtAl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtHlMxoWIAEFtAl.jpg",
+						"url": "https://t.co/BgfxsQMLnI",
+						"display_url": "pic.twitter.com/BgfxsQMLnI",
+						"expanded_url": "https://twitter.com/l_whitmarsh/status/779656222303813632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 578,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4243119677,
+				"id_str": "4243119677",
+				"name": "Lee Whitmarsh",
+				"screen_name": "l_whitmarsh",
+				"location": "England, United Kingdom",
+				"description": "Curriculum Leader Creative Arts Faculty.  Art and Photography teacher. Microsoft Innovative Educator Expert.  Surface Expert. #MIEExpert #SurfaceEDU",
+				"url": "https://t.co/iTiKteqjg0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iTiKteqjg0",
+								"expanded_url": "https://lwhitmarshblog.wordpress.com/",
+								"display_url": "lwhitmarshblog.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 360,
+				"friends_count": 365,
+				"listed_count": 50,
+				"created_at": "Sat Nov 21 15:53:49 +0000 2015",
+				"favourites_count": 289,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 436,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/745356685267480576/FoLPsb6c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/745356685267480576/FoLPsb6c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4243119677/1467445917",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 24 07:08:10 +0000 2016",
 		"id": 779578152603553800,
 		"id_str": "779578152603553792",
@@ -195,7 +612,7 @@ Grailbird.data.tweets_2016_09 =
 				"name": "Ⓜ️OΞBΞUS",
 				"screen_name": "uwappsoldier",
 				"location": "Barbate, Spain",
-				"description": "I'm a fast ring insider that bought into the Universal Windows Platform (UWP) vision. Now I follow it. Also music. | Güiri, culo inquieto |  ☁🌐۝ • ͜ •  ♛",
+				"description": "I'm a fast ring insider that bought into the Universal Windows Platform (UWP) vision. Now I follow it. Also music. | Güiri, culo inquieto |  ☁🌐 • ͜ •  ♛",
 				"url": null,
 				"entities": {
 					"description": {
