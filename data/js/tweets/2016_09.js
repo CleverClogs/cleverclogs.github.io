@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 23:43:36 +0000 2016",
+		"id": 779828663189733400,
+		"id_str": "779828663189733376",
+		"text": "RT @bfoxtohickon: #hacktheclassroom Building Interactive OneNotes - I want that to be my job! #OneNote https://t.co/q0byr765zx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hacktheclassroom",
+					"indices": [
+						18,
+						35
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bfoxtohickon",
+					"name": "Bridget Fox",
+					"id": 741395978259996700,
+					"id_str": "741395978259996673",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 779709676057428000,
+					"id_str": "779709676057427968",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/CtIV0b1WgAAA-cD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtIV0b1WgAAA-cD.jpg",
+					"url": "https://t.co/q0byr765zx",
+					"display_url": "pic.twitter.com/q0byr765zx",
+					"expanded_url": "https://twitter.com/bfoxtohickon/status/779709699226763264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 916,
+							"h": 1009,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1009,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 779709699226763300,
+					"source_status_id_str": "779709699226763264",
+					"source_user_id": 741395978259996700,
+					"source_user_id_str": "741395978259996673"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 779709676057428000,
+					"id_str": "779709676057427968",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/CtIV0b1WgAAA-cD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtIV0b1WgAAA-cD.jpg",
+					"url": "https://t.co/q0byr765zx",
+					"display_url": "pic.twitter.com/q0byr765zx",
+					"expanded_url": "https://twitter.com/bfoxtohickon/status/779709699226763264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 916,
+							"h": 1009,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1009,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 779709699226763300,
+					"source_status_id_str": "779709699226763264",
+					"source_user_id": 741395978259996700,
+					"source_user_id_str": "741395978259996673"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7400,
+			"friends_count": 3482,
+			"listed_count": 404,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11985,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 24 15:50:53 +0000 2016",
+			"id": 779709699226763300,
+			"id_str": "779709699226763264",
+			"text": "#hacktheclassroom Building Interactive OneNotes - I want that to be my job! #OneNote https://t.co/q0byr765zx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hacktheclassroom",
+						"indices": [
+							0,
+							17
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							76,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 779709676057428000,
+						"id_str": "779709676057427968",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/CtIV0b1WgAAA-cD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtIV0b1WgAAA-cD.jpg",
+						"url": "https://t.co/q0byr765zx",
+						"display_url": "pic.twitter.com/q0byr765zx",
+						"expanded_url": "https://twitter.com/bfoxtohickon/status/779709699226763264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 916,
+								"h": 1009,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 617,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 916,
+								"h": 1009,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 779709676057428000,
+						"id_str": "779709676057427968",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/CtIV0b1WgAAA-cD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtIV0b1WgAAA-cD.jpg",
+						"url": "https://t.co/q0byr765zx",
+						"display_url": "pic.twitter.com/q0byr765zx",
+						"expanded_url": "https://twitter.com/bfoxtohickon/status/779709699226763264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 916,
+								"h": 1009,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 617,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 916,
+								"h": 1009,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 741395978259996700,
+				"id_str": "741395978259996673",
+				"name": "Bridget Fox",
+				"screen_name": "bfoxtohickon",
+				"location": "Doylestown, PA",
+				"description": "Tohickon Middle School Librarian - Central Bucks School District... ✌️Peace  ❤️‍Love ✒️Books",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73,
+				"friends_count": 155,
+				"listed_count": 8,
+				"created_at": "Fri Jun 10 22:25:50 +0000 2016",
+				"favourites_count": 261,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 114,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741397366213902341/u39ODb5v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741397366213902341/u39ODb5v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/741395978259996673/1465601343",
+				"profile_link_color": "2B7BB9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 24 23:13:56 +0000 2016",
 		"id": 779821198943322100,
 		"id_str": "779821198943322112",
