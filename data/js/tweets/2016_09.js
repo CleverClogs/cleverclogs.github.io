@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sun Sep 25 08:08:28 +0000 2016",
+		"id": 779955718065643500,
+		"id_str": "779955718065643520",
+		"text": "RT @JESS_AR_MFL: Y7Sp have been using @msonenote a great way to practice speaking! #mfltwitterati #spanish #speaking #hablamos https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mfltwitterati",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"text": "spanish",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "speaking",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "hablamos",
+					"indices": [
+						117,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JESS_AR_MFL",
+					"name": "@JESS_AR_MFL",
+					"id": 3869826077,
+					"id_str": "3869826077",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7405,
+			"friends_count": 3485,
+			"listed_count": 407,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 11988,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12483,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 24 17:15:42 +0000 2016",
+			"id": 779731043452674000,
+			"id_str": "779731043452674052",
+			"text": "Y7Sp have been using @msonenote a great way to practice speaking! #mfltwitterati #spanish #speaking #hablamos https://t.co/4sC2vpbjXS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mfltwitterati",
+						"indices": [
+							66,
+							80
+						]
+					},
+					{
+						"text": "spanish",
+						"indices": [
+							81,
+							89
+						]
+					},
+					{
+						"text": "speaking",
+						"indices": [
+							90,
+							99
+						]
+					},
+					{
+						"text": "hablamos",
+						"indices": [
+							100,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							21,
+							31
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 779730557353746400,
+						"id_str": "779730557353746432",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/779730557353746432/pu/img/tCwycZmc_6yl04M3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/779730557353746432/pu/img/tCwycZmc_6yl04M3.jpg",
+						"url": "https://t.co/4sC2vpbjXS",
+						"display_url": "pic.twitter.com/4sC2vpbjXS",
+						"expanded_url": "https://twitter.com/JESS_AR_MFL/status/779731043452674052/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 779730557353746400,
+						"id_str": "779730557353746432",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/779730557353746432/pu/img/tCwycZmc_6yl04M3.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/779730557353746432/pu/img/tCwycZmc_6yl04M3.jpg",
+						"url": "https://t.co/4sC2vpbjXS",
+						"display_url": "pic.twitter.com/4sC2vpbjXS",
+						"expanded_url": "https://twitter.com/JESS_AR_MFL/status/779731043452674052/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 12604,
+							"variants": [
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/779730557353746432/pu/pl/uR_syKxOJOeUcgDS.mpd"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/779730557353746432/pu/vid/360x640/a4jFo_mvI-g2Gbkp.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/779730557353746432/pu/vid/720x1280/qwBkdfOW82Sf6U9O.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/779730557353746432/pu/pl/uR_syKxOJOeUcgDS.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/779730557353746432/pu/vid/180x320/kYq2Yjey4koZuOB7.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3869826077,
+				"id_str": "3869826077",
+				"name": "@JESS_AR_MFL",
+				"screen_name": "JESS_AR_MFL",
+				"location": "Dubai, United Arab Emirates",
+				"description": "The Twitter account of the MFL department at JESS - Jumeirah English Speaking School in Dubai. Run by Miss Holland",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141,
+				"friends_count": 171,
+				"listed_count": 20,
+				"created_at": "Mon Oct 05 09:25:04 +0000 2015",
+				"favourites_count": 481,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 629,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675956088806776832/SbJqfaHL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675956088806776832/SbJqfaHL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3869826077/1449995583",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 24 23:43:36 +0000 2016",
 		"id": 779828663189733400,
 		"id_str": "779828663189733376",
@@ -311,7 +680,7 @@ Grailbird.data.tweets_2016_09 =
 				"name": "Bridget Fox",
 				"screen_name": "bfoxtohickon",
 				"location": "Doylestown, PA",
-				"description": "Tohickon Middle School Librarian - Central Bucks School District... ✌️Peace  ❤️‍Love ✒️Books",
+				"description": "Tohickon Middle School Librarian - Central Bucks School District... ✌️Peace  ❤️Love ✒️Books",
 				"url": null,
 				"entities": {
 					"description": {
