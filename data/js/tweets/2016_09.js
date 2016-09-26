@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Mon Sep 26 18:58:56 +0000 2016",
+		"id": 780481800862924800,
+		"id_str": "780481800862924800",
+		"text": "RT @Yammer: Hello upgrade! Office 365-connected Yammer groups enjoy a SharePoint site, OneNote, Planner, and more. See how: https://t.co/rG…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Yammer",
+					"name": "Yammer",
+					"id": 16049723,
+					"id_str": "16049723",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7437,
+			"friends_count": 3494,
+			"listed_count": 410,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12045,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 26 17:59:50 +0000 2016",
+			"id": 780466925541273600,
+			"id_str": "780466925541273601",
+			"text": "Hello upgrade! Office 365-connected Yammer groups enjoy a SharePoint site, OneNote, Planner, and more. See how:… https://t.co/8Y6X2nmz9b",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8Y6X2nmz9b",
+						"expanded_url": "https://twitter.com/i/web/status/780466925541273601",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16049723,
+				"id_str": "16049723",
+				"name": "Yammer",
+				"screen_name": "Yammer",
+				"location": "San Francisco",
+				"description": "Changing the way companies connect, communicate and collaborate - one Enterprise Social Network at a time.",
+				"url": "http://t.co/BAuuCZOZDr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BAuuCZOZDr",
+								"expanded_url": "http://yammer.com",
+								"display_url": "yammer.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 62226,
+				"friends_count": 1054,
+				"listed_count": 2103,
+				"created_at": "Sat Aug 30 01:27:51 +0000 2008",
+				"favourites_count": 3153,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15905,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1995C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/606587688850853888/UMBP2_au.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/606587688850853888/UMBP2_au.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555444567168675840/NWoiK8Kp_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555444567168675840/NWoiK8Kp_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16049723/1449166119",
+				"profile_link_color": "1995C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C7C7C3",
+				"profile_text_color": "7D7B7D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 26 18:55:23 +0000 2016",
+		"id": 780480907757154300,
+		"id_str": "780480907757154305",
+		"text": "RT @bbenishek: OneNote integration is coming to #Yammer! BRK2014 #MSIgnite https://t.co/N1qvuEyCme",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Yammer",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "MSIgnite",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bbenishek",
+					"name": "Becky B",
+					"id": 88983930,
+					"id_str": "88983930",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 780480619600048100,
+					"id_str": "780480619600048128",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/CtTS_QVWcAARQbI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtTS_QVWcAARQbI.jpg",
+					"url": "https://t.co/N1qvuEyCme",
+					"display_url": "pic.twitter.com/N1qvuEyCme",
+					"expanded_url": "https://twitter.com/bbenishek/status/780480639745331200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1725,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 780480639745331200,
+					"source_status_id_str": "780480639745331200",
+					"source_user_id": 88983930,
+					"source_user_id_str": "88983930"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 780480619600048100,
+					"id_str": "780480619600048128",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/CtTS_QVWcAARQbI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtTS_QVWcAARQbI.jpg",
+					"url": "https://t.co/N1qvuEyCme",
+					"display_url": "pic.twitter.com/N1qvuEyCme",
+					"expanded_url": "https://twitter.com/bbenishek/status/780480639745331200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1725,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 780480639745331200,
+					"source_status_id_str": "780480639745331200",
+					"source_user_id": 88983930,
+					"source_user_id_str": "88983930"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7437,
+			"friends_count": 3494,
+			"listed_count": 410,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12045,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 26 18:54:19 +0000 2016",
+			"id": 780480639745331200,
+			"id_str": "780480639745331200",
+			"text": "OneNote integration is coming to #Yammer! BRK2014 #MSIgnite https://t.co/N1qvuEyCme",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Yammer",
+						"indices": [
+							33,
+							40
+						]
+					},
+					{
+						"text": "MSIgnite",
+						"indices": [
+							50,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 780480619600048100,
+						"id_str": "780480619600048128",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/CtTS_QVWcAARQbI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtTS_QVWcAARQbI.jpg",
+						"url": "https://t.co/N1qvuEyCme",
+						"display_url": "pic.twitter.com/N1qvuEyCme",
+						"expanded_url": "https://twitter.com/bbenishek/status/780480639745331200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 573,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1011,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1725,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 780480619600048100,
+						"id_str": "780480619600048128",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/CtTS_QVWcAARQbI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtTS_QVWcAARQbI.jpg",
+						"url": "https://t.co/N1qvuEyCme",
+						"display_url": "pic.twitter.com/N1qvuEyCme",
+						"expanded_url": "https://twitter.com/bbenishek/status/780480639745331200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 573,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1011,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1725,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88983930,
+				"id_str": "88983930",
+				"name": "Becky B",
+				"screen_name": "bbenishek",
+				"location": "",
+				"description": "Writer. Social media & community manager by day. Microsoft MVP. Blogging about stuff at https://t.co/B5LDtjxdrw. I'm also @CPI_Training.",
+				"url": "http://t.co/GQPwj0fmOP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/GQPwj0fmOP",
+								"expanded_url": "http://www.linkedin.com/in/beckybenishek/",
+								"display_url": "linkedin.com/in/beckybenish…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/B5LDtjxdrw",
+								"expanded_url": "http://thehouseofbeck.com",
+								"display_url": "thehouseofbeck.com",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3019,
+				"friends_count": 2197,
+				"listed_count": 203,
+				"created_at": "Tue Nov 10 18:05:29 +0000 2009",
+				"favourites_count": 182,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14067,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "009AB9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/52849123/backgroundv1280.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/52849123/backgroundv1280.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/643196328609218561/Ev_zn6H2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/643196328609218561/Ev_zn6H2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88983930/1452380229",
+				"profile_link_color": "3D00E6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "009AB9",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 26 15:52:44 +0000 2016",
 		"id": 780434939753984000,
 		"id_str": "780434939753984000",
