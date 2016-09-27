@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 27 21:27:03 +0000 2016",
+		"id": 780881462623105000,
+		"id_str": "780881462623105024",
+		"text": "Find info about past &amp; future #OneNoteQ TweetMeets in this multi-level @MSDocscom collection… https://t.co/lICjjNThbY",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNoteQ",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msdocscom",
+					"name": "Docs .com",
+					"id": 3269981826,
+					"id_str": "3269981826",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lICjjNThbY",
+					"expanded_url": "https://twitter.com/i/web/status/780881462623105024",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7455,
+			"friends_count": 3497,
+			"listed_count": 410,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12095,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12531,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 27 21:22:44 +0000 2016",
+		"id": 780880375950237700,
+		"id_str": "780880375950237697",
+		"text": "RT @smcvay: LIVE on #Periscope: 2 minute tech tip-Onenote #517EdTech https://t.co/1xkNxYaBbz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Periscope",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"text": "517EdTech",
+					"indices": [
+						58,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "smcvay",
+					"name": "Sherry McVay",
+					"id": 20684452,
+					"id_str": "20684452",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1xkNxYaBbz",
+					"expanded_url": "https://www.periscope.tv/w/armIkjQ4NTQ4MzZ8MWpNSmdyZWFaRXlHTCE_NO2tKVM8YSvX0JjXSg5tpVMV8_hRE3cI3qohFwF0",
+					"display_url": "periscope.tv/w/armIkjQ4NTQ4…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7455,
+			"friends_count": 3497,
+			"listed_count": 410,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12095,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12531,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			759703199574024200
+		],
+		"retweeted_status": {
+			"created_at": "Tue Sep 27 21:20:19 +0000 2016",
+			"id": 780879768526786600,
+			"id_str": "780879768526786560",
+			"text": "LIVE on #Periscope: 2 minute tech tip-Onenote #517EdTech https://t.co/1xkNxYaBbz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Periscope",
+						"indices": [
+							8,
+							18
+						]
+					},
+					{
+						"text": "517EdTech",
+						"indices": [
+							46,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1xkNxYaBbz",
+						"expanded_url": "https://www.periscope.tv/w/armIkjQ4NTQ4MzZ8MWpNSmdyZWFaRXlHTCE_NO2tKVM8YSvX0JjXSg5tpVMV8_hRE3cI3qohFwF0",
+						"display_url": "periscope.tv/w/armIkjQ4NTQ4…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20684452,
+				"id_str": "20684452",
+				"name": "Sherry McVay",
+				"screen_name": "smcvay",
+				"location": "De Witt, MI",
+				"description": "Director of Technology, DeWitt Public Schools",
+				"url": "http://t.co/WSIV8l3a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WSIV8l3a",
+								"expanded_url": "http://www.dewittschools.net",
+								"display_url": "dewittschools.net",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 156,
+				"friends_count": 138,
+				"listed_count": 13,
+				"created_at": "Thu Feb 12 15:14:34 +0000 2009",
+				"favourites_count": 2,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 359,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/743667064/7486741553f43c05415ec0083a481d24.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/743667064/7486741553f43c05415ec0083a481d24.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/437576342670807040/zCl5AZ2f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/437576342670807040/zCl5AZ2f_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20684452/1452026445",
+				"profile_link_color": "3D1957",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "FF0000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 27 21:11:36 +0000 2016",
 		"id": 780877573878341600,
 		"id_str": "780877573878341633",
