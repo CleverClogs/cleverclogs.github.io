@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 27 09:04:41 +0000 2016",
+		"id": 780694641876275200,
+		"id_str": "780694641876275200",
+		"text": "Wow, so many people at @MicrosoftVan working on our favorite tool #OneNote!\ncc @OneNoteEDU @KamatMahesh https://t.co/ewkfjqHfSg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftVan",
+					"name": "Microsoft Vancouver",
+					"id": 702209069273079800,
+					"id_str": "702209069273079808",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"screen_name": "KamatMahesh",
+					"name": "Mahesh Kamat",
+					"id": 1173673321,
+					"id_str": "1173673321",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ewkfjqHfSg",
+					"expanded_url": "https://twitter.com/microsoftvan/status/778712715577569283",
+					"display_url": "twitter.com/microsoftvan/s…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7440,
+			"friends_count": 3495,
+			"listed_count": 410,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12058,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 778712715577569300,
+		"quoted_status_id_str": "778712715577569283",
+		"quoted_status": {
+			"created_at": "Wed Sep 21 21:49:13 +0000 2016",
+			"id": 778712715577569300,
+			"id_str": "778712715577569283",
+			"text": "That moment when you're sitting at your desk, working away on #OneNote and these guys drop by - @BillGates and… https://t.co/uChGj2FcTO",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							62,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BillGates",
+						"name": "Bill Gates",
+						"id": 50393960,
+						"id_str": "50393960",
+						"indices": [
+							96,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uChGj2FcTO",
+						"expanded_url": "https://twitter.com/i/web/status/778712715577569283",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 702209069273079800,
+				"id_str": "702209069273079808",
+				"name": "Microsoft Vancouver",
+				"screen_name": "MicrosoftVan",
+				"location": "Vancouver, British Columbia",
+				"description": "Innovation, training and software development centre at the corner of Granville and Georgia. Get to know us and our city.",
+				"url": "https://t.co/314vbqbw8b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/314vbqbw8b",
+								"expanded_url": "http://mcec.microsoft.ca",
+								"display_url": "mcec.microsoft.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 561,
+				"friends_count": 387,
+				"listed_count": 28,
+				"created_at": "Tue Feb 23 19:11:03 +0000 2016",
+				"favourites_count": 352,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 410,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705444225383428096/Gthew9ZY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705444225383428096/Gthew9ZY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/702209069273079808/1470160069",
+				"profile_link_color": "2B7BB9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 26 23:32:09 +0000 2016",
 		"id": 780550555492094000,
 		"id_str": "780550555492093958",
