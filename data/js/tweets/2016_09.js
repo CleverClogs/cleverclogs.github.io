@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 28 12:14:47 +0000 2016",
+		"id": 781104868295635000,
+		"id_str": "781104868295634944",
+		"text": "This seems new. Have you come across a chat feature in #OneNote Online yet? Apparently chats aren't being saved acr… https://t.co/O09tI04O5Z",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O09tI04O5Z",
+					"expanded_url": "https://twitter.com/i/web/status/781104868295634944",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7461,
+			"friends_count": 3499,
+			"listed_count": 410,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12096,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12536,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 781088514884636700,
+		"quoted_status_id_str": "781088514884636672",
+		"quoted_status": {
+			"created_at": "Wed Sep 28 11:09:48 +0000 2016",
+			"id": 781088514884636700,
+			"id_str": "781088514884636672",
+			"text": "Chat is available in OneNote Online. What a handy feature. https://t.co/6QaeQsqUjb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 781088510551978000,
+						"id_str": "781088510551977985",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctb73KmW8AEz0ot.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ctb73KmW8AEz0ot.png",
+						"url": "https://t.co/6QaeQsqUjb",
+						"display_url": "pic.twitter.com/6QaeQsqUjb",
+						"expanded_url": "https://twitter.com/vangampelaere/status/781088514884636672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 726,
+								"h": 1202,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 411,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 725,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 781088510551978000,
+						"id_str": "781088510551977985",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctb73KmW8AEz0ot.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ctb73KmW8AEz0ot.png",
+						"url": "https://t.co/6QaeQsqUjb",
+						"display_url": "pic.twitter.com/6QaeQsqUjb",
+						"expanded_url": "https://twitter.com/vangampelaere/status/781088514884636672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 726,
+								"h": 1202,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 411,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 725,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8376352,
+				"id_str": "8376352",
+				"name": "Gene Vangampelaere",
+				"screen_name": "vangampelaere",
+				"location": "Vlaams Gewest, Roeselare",
+				"description": "Office 365 consultant / Microsoft Innovative Educator Expert @howest. Podcaster @roeselize. Husband of @TeshaVanneste, father and urban cyclist.",
+				"url": "https://t.co/8kje7jEoHP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8kje7jEoHP",
+								"expanded_url": "http://www.vangampelaere.be",
+								"display_url": "vangampelaere.be",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1662,
+				"friends_count": 1037,
+				"listed_count": 190,
+				"created_at": "Thu Aug 23 06:17:26 +0000 2007",
+				"favourites_count": 704,
+				"utc_offset": 7200,
+				"time_zone": "Europe/Brussels",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29905,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/683540908340412417/RVPpYqmE_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/683540908340412417/RVPpYqmE_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8376352/1473933207",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 28 10:48:06 +0000 2016",
 		"id": 781083052520996900,
 		"id_str": "781083052520996864",
