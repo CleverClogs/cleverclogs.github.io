@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 28 13:22:26 +0000 2016",
+		"id": 781121893239812100,
+		"id_str": "781121893239812096",
+		"text": "Many congratulations to #MIEExpert @Zelfstudie for getting his Step-by-Step #OneNote book published!\n[Dutch] https://t.co/B2J2GMBqCV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						35,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B2J2GMBqCV",
+					"expanded_url": "https://twitter.com/zelfstudie/status/781121384512679936",
+					"display_url": "twitter.com/zelfstudie/sta…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7463,
+			"friends_count": 3500,
+			"listed_count": 412,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12096,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12539,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 781121384512680000,
+		"quoted_status_id_str": "781121384512679936",
+		"quoted_status": {
+			"created_at": "Wed Sep 28 13:20:25 +0000 2016",
+			"id": 781121384512680000,
+			"id_str": "781121384512679936",
+			"text": "Vanaf vandaag beschikbaar op @bol_com: mijn boek over OneNote, uitgegeven door @VisualSteps https://t.co/hHuneCpqg6… https://t.co/IHgFCZBgjz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bol_com",
+						"name": "bol.com",
+						"id": 18894593,
+						"id_str": "18894593",
+						"indices": [
+							29,
+							37
+						]
+					},
+					{
+						"screen_name": "VisualSteps",
+						"name": "VisualSteps",
+						"id": 382548354,
+						"id_str": "382548354",
+						"indices": [
+							79,
+							91
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hHuneCpqg6",
+						"expanded_url": "https://www.bol.com/nl/s/algemeen/zoekresultaten/Ntt/koen%2Btimmers/N/0/Nty/1/search/true/searchType/qck/suggestedFor/koen+timmers/originalSearchContext/media_all/originalSection/main/defaultSearchContext/media_all/sc/media_all/index.html",
+						"display_url": "bol.com/nl/s/algemeen/…",
+						"indices": [
+							92,
+							115
+						]
+					},
+					{
+						"url": "https://t.co/IHgFCZBgjz",
+						"expanded_url": "https://twitter.com/i/web/status/781121384512679936",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149593681,
+				"id_str": "149593681",
+				"name": "Koen Timmers",
+				"screen_name": "zelfstudie",
+				"location": "Belgium",
+				"description": "Teaching Kakuma Refugees via Skype | Author | Speaker | Technology Enhanced Learning | Founder zelfstudie.be | Web designer | Microsoft Expert Educator Fellow",
+				"url": "https://t.co/Emjb0vRgpr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Emjb0vRgpr",
+								"expanded_url": "http://www.zelfstudie.be",
+								"display_url": "zelfstudie.be",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2069,
+				"friends_count": 1313,
+				"listed_count": 262,
+				"created_at": "Sat May 29 17:52:29 +0000 2010",
+				"favourites_count": 2465,
+				"utc_offset": 7200,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4427,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D0D0D0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/375133972/bg-twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/375133972/bg-twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762647810303025160/YS-omUnp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762647810303025160/YS-omUnp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1469256056",
+				"profile_link_color": "D9650D",
+				"profile_sidebar_border_color": "0D0202",
+				"profile_sidebar_fill_color": "EDA426",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 28 12:32:10 +0000 2016",
 		"id": 781109244854698000,
 		"id_str": "781109244854697985",
