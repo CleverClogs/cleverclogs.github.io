@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 09:32:58 +0000 2016",
+		"id": 782876083859447800,
+		"id_str": "782876083859447809",
+		"text": "Worth following. #MSFTEduchat tweetchat is going on right now. Of course #OneNote comes up in the conversations ;-) https://t.co/JmrxophOUX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduchat",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JmrxophOUX",
+					"expanded_url": "https://twitter.com/MSAUedu/status/782763219475509249",
+					"display_url": "twitter.com/MSAUedu/status…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7570,
+			"friends_count": 3515,
+			"listed_count": 415,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12204,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12616,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 782763219475509200,
+		"quoted_status_id_str": "782763219475509249",
+		"quoted_status": {
+			"created_at": "Mon Oct 03 02:04:29 +0000 2016",
+			"id": 782763219475509200,
+			"id_str": "782763219475509249",
+			"text": "Wrap up the long weekend and join our #MSFTeduchat tonight from 8pm - we're talking about breaking down silo's https://t.co/9IwYdYlnj9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTeduchat",
+						"indices": [
+							38,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 782763203268792300,
+						"id_str": "782763203268792320",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctzu_HIVUAALjfi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ctzu_HIVUAALjfi.jpg",
+						"url": "https://t.co/9IwYdYlnj9",
+						"display_url": "pic.twitter.com/9IwYdYlnj9",
+						"expanded_url": "https://twitter.com/MSAUedu/status/782763219475509249/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 298,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 898,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 526,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 782763203268792300,
+						"id_str": "782763203268792320",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctzu_HIVUAALjfi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ctzu_HIVUAALjfi.jpg",
+						"url": "https://t.co/9IwYdYlnj9",
+						"display_url": "pic.twitter.com/9IwYdYlnj9",
+						"expanded_url": "https://twitter.com/MSAUedu/status/782763219475509249/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 298,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 898,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 526,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3666731533,
+				"id_str": "3666731533",
+				"name": "Microsoft Education",
+				"screen_name": "MSAUedu",
+				"location": "Australia",
+				"description": "Discovering, highlighting and enabling innovation and achievement among students, teachers and schools in Australia.",
+				"url": "https://t.co/NInNiHuhxr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NInNiHuhxr",
+								"expanded_url": "http://microsoft.com.au/education",
+								"display_url": "microsoft.com.au/education",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4218,
+				"friends_count": 1873,
+				"listed_count": 146,
+				"created_at": "Thu Sep 24 04:41:04 +0000 2015",
+				"favourites_count": 3548,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2656,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768648349092225024/tFKN7qkp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768648349092225024/tFKN7qkp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3666731533/1472093692",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 03 08:43:37 +0000 2016",
 		"id": 782863667868143600,
 		"id_str": "782863667868143616",
