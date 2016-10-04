@@ -1,6 +1,623 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 06:33:02 +0000 2016",
+		"id": 783193191675723800,
+		"id_str": "783193191675723776",
+		"text": "RT @MSFTEnable: New in OneNote: Find and fix issues using the Accessibility Checker on the Tools menu. https://t.co/9Mt4lgkt8Y #OfficeInsid…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSFTEnable",
+					"name": "MSFT Accessibility",
+					"id": 458619342,
+					"id_str": "458619342",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9Mt4lgkt8Y",
+					"expanded_url": "https://answers.microsoft.com/en-us/msoffice/forum/msoffice_officeinsider-mso_mac/announcing-october-insider-slow-update-for-office/0e2d9414-4a18-437e-93e5-0a483b806e88",
+					"display_url": "answers.microsoft.com/en-us/msoffice…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7583,
+			"friends_count": 3525,
+			"listed_count": 414,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12237,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 04 00:08:16 +0000 2016",
+			"id": 783096362267054100,
+			"id_str": "783096362267054080",
+			"text": "New in OneNote: Find and fix issues using the Accessibility Checker on the Tools menu. https://t.co/9Mt4lgkt8Y… https://t.co/vI026mKU5b",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9Mt4lgkt8Y",
+						"expanded_url": "https://answers.microsoft.com/en-us/msoffice/forum/msoffice_officeinsider-mso_mac/announcing-october-insider-slow-update-for-office/0e2d9414-4a18-437e-93e5-0a483b806e88",
+						"display_url": "answers.microsoft.com/en-us/msoffice…",
+						"indices": [
+							87,
+							110
+						]
+					},
+					{
+						"url": "https://t.co/vI026mKU5b",
+						"expanded_url": "https://twitter.com/i/web/status/783096362267054080",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 458619342,
+				"id_str": "458619342",
+				"name": "MSFT Accessibility",
+				"screen_name": "MSFTEnable",
+				"location": "Redmond, WA",
+				"description": "Hello! We're here with news, insights, and updates from Microsoft Accessibility.",
+				"url": "https://t.co/nyzY7wGZ7P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nyzY7wGZ7P",
+								"expanded_url": "http://www.microsoft.com/accessibility",
+								"display_url": "microsoft.com/accessibility",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13353,
+				"friends_count": 5983,
+				"listed_count": 413,
+				"created_at": "Sun Jan 08 19:26:40 +0000 2012",
+				"favourites_count": 16509,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5351,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/666836816377438208/iCq2fnjX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/666836816377438208/iCq2fnjX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/458619342/1447819852",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 783093761819680800,
+			"quoted_status_id_str": "783093761819680768",
+			"quoted_status": {
+				"created_at": "Mon Oct 03 23:57:56 +0000 2016",
+				"id": 783093761819680800,
+				"id_str": "783093761819680768",
+				"text": "A new Slow build 15.27 is rolling out now for #OfficeInsiders on Mac. Install today and see what's new: https://t.co/qHxyAFlpO8.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OfficeInsiders",
+							"indices": [
+								46,
+								61
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/qHxyAFlpO8",
+							"expanded_url": "http://off365.ms/jFKNQL",
+							"display_url": "off365.ms/jFKNQL",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4444936638,
+					"id_str": "4444936638",
+					"name": "Office Insider",
+					"screen_name": "OfficeInsider",
+					"location": "Redmond, WA",
+					"description": "Official Twitter of the Microsoft Office Insider Program, a community of PC experts, IT Pros & developers helping to shape the future of Office.",
+					"url": "https://t.co/NXLGTfUxgZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/NXLGTfUxgZ",
+									"expanded_url": "https://products.office.com/en-us/office-insider",
+									"display_url": "products.office.com/en-us/office-i…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4923,
+					"friends_count": 59,
+					"listed_count": 81,
+					"created_at": "Thu Dec 03 19:30:06 +0000 2015",
+					"favourites_count": 113,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 618,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/677570117450903553/I-MIfA14_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/677570117450903553/I-MIfA14_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4444936638/1464108922",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 5,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 0,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 783093761819680800,
+		"quoted_status_id_str": "783093761819680768",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 04 06:07:42 +0000 2016",
+		"id": 783186815276712000,
+		"id_str": "783186815276711936",
+		"text": "Wow, a #OneNote page dating back to 2007. What are your stories of discovering OneNote for the first time? https://t.co/AMtbyPZaCi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AMtbyPZaCi",
+					"expanded_url": "https://twitter.com/ianallanthomson/status/783117583255863296",
+					"display_url": "twitter.com/ianallanthomso…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7583,
+			"friends_count": 3525,
+			"listed_count": 414,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12237,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 783117583255863300,
+		"quoted_status_id_str": "783117583255863296",
+		"quoted_status": {
+			"created_at": "Tue Oct 04 01:32:36 +0000 2016",
+			"id": 783117583255863300,
+			"id_str": "783117583255863296",
+			"text": "@msonenote I love using inking for teaching high school math. My first OneNote page is dated Feb 4 2007 ! https://t.co/HVD2TlJ41c",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 783116381222953000,
+						"id_str": "783116381222952960",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct4wMxiVYAANYnR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct4wMxiVYAANYnR.jpg",
+						"url": "https://t.co/HVD2TlJ41c",
+						"display_url": "pic.twitter.com/HVD2TlJ41c",
+						"expanded_url": "https://twitter.com/ianallanthomson/status/783117583255863296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 583,
+								"h": 415,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 583,
+								"h": 415,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 583,
+								"h": 415,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 783116381222953000,
+						"id_str": "783116381222952960",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct4wMxiVYAANYnR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct4wMxiVYAANYnR.jpg",
+						"url": "https://t.co/HVD2TlJ41c",
+						"display_url": "pic.twitter.com/HVD2TlJ41c",
+						"expanded_url": "https://twitter.com/ianallanthomson/status/783117583255863296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 583,
+								"h": 415,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 583,
+								"h": 415,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 583,
+								"h": 415,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 783071883684175900,
+			"in_reply_to_status_id_str": "783071883684175872",
+			"in_reply_to_user_id": 23735316,
+			"in_reply_to_user_id_str": "23735316",
+			"in_reply_to_screen_name": "msonenote",
+			"user": {
+				"id": 1626946982,
+				"id_str": "1626946982",
+				"name": "Ian Thomson",
+				"screen_name": "ianallanthomson",
+				"location": "Ormiston",
+				"description": "#MIEExpert #OneNote #MATLAB https://t.co/CY307JRZJM",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CY307JRZJM",
+								"expanded_url": "http://www.ianallanthomson.com",
+								"display_url": "ianallanthomson.com",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 138,
+				"friends_count": 125,
+				"listed_count": 21,
+				"created_at": "Sun Jul 28 03:36:45 +0000 2013",
+				"favourites_count": 289,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 133,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/501194430255091713/R_FiBqKt_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/501194430255091713/R_FiBqKt_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 03 22:33:30 +0000 2016",
 		"id": 783072512666169300,
 		"id_str": "783072512666169348",
