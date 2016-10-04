@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 19:45:09 +0000 2016",
+		"id": 783392533053378600,
+		"id_str": "783392533053378560",
+		"text": "Gladly RT. This is all about raising awareness. https://t.co/0VZCTKXxMh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0VZCTKXxMh",
+					"expanded_url": "https://twitter.com/AbilityNet/status/783387171038359552",
+					"display_url": "twitter.com/AbilityNet/sta…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7598,
+			"friends_count": 3529,
+			"listed_count": 415,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12249,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 783387171038359600,
+		"quoted_status_id_str": "783387171038359552",
+		"quoted_status": {
+			"created_at": "Tue Oct 04 19:23:50 +0000 2016",
+			"id": 783387171038359600,
+			"id_str": "783387171038359552",
+			"text": "@MSFTEnable @OneNoteEDU @OneNoteC We can help dyslexic people make the most of their computer, inc Office &amp; other products. RT appreciated!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MSFTEnable",
+						"name": "MSFT Accessibility",
+						"id": 458619342,
+						"id_str": "458619342",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							12,
+							23
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							24,
+							33
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 783348615364436000,
+			"in_reply_to_status_id_str": "783348615364435968",
+			"in_reply_to_user_id": 458619342,
+			"in_reply_to_user_id_str": "458619342",
+			"in_reply_to_screen_name": "MSFTEnable",
+			"user": {
+				"id": 166975353,
+				"id_str": "166975353",
+				"name": "AbilityNet",
+				"screen_name": "AbilityNet",
+				"location": "United Kingdom",
+				"description": "UK charity with global reach: expert info and services about disability, assistive tech and digital accessibility. Ask anything or call free 0800 269 545",
+				"url": "https://t.co/0yXCBie685",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0yXCBie685",
+								"expanded_url": "http://www.abilitynet.org.uk",
+								"display_url": "abilitynet.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5303,
+				"friends_count": 1716,
+				"listed_count": 327,
+				"created_at": "Thu Jul 15 13:07:52 +0000 2010",
+				"favourites_count": 839,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4184,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3698184398/dd5a76f6dfa808c71959dd682e895c65_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3698184398/dd5a76f6dfa808c71959dd682e895c65_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/166975353/1462346509",
+				"profile_link_color": "00592E",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 04 18:01:24 +0000 2016",
 		"id": 783366425616457700,
 		"id_str": "783366425616457728",
