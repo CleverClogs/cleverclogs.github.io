@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 11:17:43 +0000 2016",
+		"id": 783264835685548000,
+		"id_str": "783264835685548032",
+		"text": "Very inspiring video about @MarkPollock and @Microsoft's data-driven efforts to find a cure for paralysis. Must-wat… https://t.co/5LLDXOpxLr",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "markpollock",
+					"name": "Mark Pollock",
+					"id": 22647845,
+					"id_str": "22647845",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						44,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5LLDXOpxLr",
+					"expanded_url": "https://twitter.com/i/web/status/783264835685548032",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7585,
+			"friends_count": 3528,
+			"listed_count": 414,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12239,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 783249477343834100,
+		"quoted_status_id_str": "783249477343834112",
+		"quoted_status": {
+			"created_at": "Tue Oct 04 10:16:42 +0000 2016",
+			"id": 783249477343834100,
+			"id_str": "783249477343834112",
+			"text": ".@MarkPollock meets @SatyaNadella to discuss #accessibility &amp; achievement. Watch: https://t.co/Jj9EtrlQHX https://t.co/8vOR14yzG8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "accessibility",
+						"indices": [
+							45,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "markpollock",
+						"name": "Mark Pollock",
+						"id": 22647845,
+						"id_str": "22647845",
+						"indices": [
+							1,
+							13
+						]
+					},
+					{
+						"screen_name": "satyanadella",
+						"name": "Satya Nadella",
+						"id": 20571756,
+						"id_str": "20571756",
+						"indices": [
+							20,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Jj9EtrlQHX",
+						"expanded_url": "http://spr.ly/6010BhITj",
+						"display_url": "spr.ly/6010BhITj",
+						"indices": [
+							86,
+							109
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 783249475460620300,
+						"id_str": "783249475460620288",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct6pP4NXYAA0yUn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct6pP4NXYAA0yUn.jpg",
+						"url": "https://t.co/8vOR14yzG8",
+						"display_url": "pic.twitter.com/8vOR14yzG8",
+						"expanded_url": "https://twitter.com/Microsoftirl/status/783249477343834112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 635,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 635,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 783249475460620300,
+						"id_str": "783249475460620288",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct6pP4NXYAA0yUn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct6pP4NXYAA0yUn.jpg",
+						"url": "https://t.co/8vOR14yzG8",
+						"display_url": "pic.twitter.com/8vOR14yzG8",
+						"expanded_url": "https://twitter.com/Microsoftirl/status/783249477343834112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 635,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 635,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2342240372,
+				"id_str": "2342240372",
+				"name": "Microsoft Ireland",
+				"screen_name": "Microsoftirl",
+				"location": "Sandyford, Dublin 18",
+				"description": "Your official place for news and updates about Microsoft in Ireland on Twitter",
+				"url": "http://t.co/RSBfJcRJvJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RSBfJcRJvJ",
+								"expanded_url": "http://www.microsoft.ie",
+								"display_url": "microsoft.ie",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3618,
+				"friends_count": 657,
+				"listed_count": 73,
+				"created_at": "Thu Feb 13 16:31:14 +0000 2014",
+				"favourites_count": 1179,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1356,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/661239711046987776/1_D0gJUN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/661239711046987776/1_D0gJUN_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 04 10:26:48 +0000 2016",
+		"id": 783252020031545300,
+		"id_str": "783252020031545344",
+		"text": "@RSLNmag Hi team, kind greetings. Could you fix the RSS feed for your website?\nhttps://t.co/qLgVUMIErS https://t.co/FJ6i7l2bEI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RSLNmag",
+					"name": "RSLN mag",
+					"id": 52345813,
+					"id_str": "52345813",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qLgVUMIErS",
+					"expanded_url": "https://rslnmag.fr/feed/",
+					"display_url": "rslnmag.fr/feed/",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 783251891652292600,
+					"id_str": "783251891652292608",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Ct6rchOWcAA9vIM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ct6rchOWcAA9vIM.jpg",
+					"url": "https://t.co/FJ6i7l2bEI",
+					"display_url": "pic.twitter.com/FJ6i7l2bEI",
+					"expanded_url": "https://twitter.com/OneNoteC/status/783252020031545344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 809,
+							"h": 278,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 783251891652292600,
+					"id_str": "783251891652292608",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Ct6rchOWcAA9vIM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ct6rchOWcAA9vIM.jpg",
+					"url": "https://t.co/FJ6i7l2bEI",
+					"display_url": "pic.twitter.com/FJ6i7l2bEI",
+					"expanded_url": "https://twitter.com/OneNoteC/status/783252020031545344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 809,
+							"h": 278,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 278,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 234,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 52345813,
+		"in_reply_to_user_id_str": "52345813",
+		"in_reply_to_screen_name": "RSLNmag",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7585,
+			"friends_count": 3528,
+			"listed_count": 414,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12239,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 04 10:15:15 +0000 2016",
 		"id": 783249113152356400,
 		"id_str": "783249113152356352",
