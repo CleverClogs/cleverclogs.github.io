@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 05 09:09:46 +0000 2016",
+		"id": 783595020716806100,
+		"id_str": "783595020716806144",
+		"text": "RT @uwappsoldier: Turn on Live Tile to see what appears to be a new graphical profile for OneNote. Looks great too! #UX Nice catch by @anid…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UX",
+					"indices": [
+						116,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uwappsoldier",
+					"name": "Ⓜ️OΞBΞUS",
+					"id": 4236642393,
+					"id_str": "4236642393",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7602,
+			"friends_count": 3532,
+			"listed_count": 418,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12265,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 05 07:53:19 +0000 2016",
+			"id": 783575783533113300,
+			"id_str": "783575783533113345",
+			"text": "Turn on Live Tile to see what appears to be a new graphical profile for OneNote. Looks great too! #UX Nice catch by… https://t.co/k2AVjSAkfU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UX",
+						"indices": [
+							98,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k2AVjSAkfU",
+						"expanded_url": "https://twitter.com/i/web/status/783575783533113345",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4236642393,
+				"id_str": "4236642393",
+				"name": "Ⓜ️OΞBΞUS",
+				"screen_name": "uwappsoldier",
+				"location": "Barbate, Spain",
+				"description": "I'm a fast ring insider that bought into the Universal Windows Platform (UWP) vision. Now I follow it. Also music. | Güiri, culo inquieto |  ☁🌐۝ • ͜ •  ♛",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251,
+				"friends_count": 905,
+				"listed_count": 168,
+				"created_at": "Fri Nov 20 19:20:05 +0000 2015",
+				"favourites_count": 4917,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7389,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711181981602734080/zXkiVhKz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711181981602734080/zXkiVhKz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4236642393/1474070991",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 783509244477931500,
+			"quoted_status_id_str": "783509244477931520",
+			"quoted_status": {
+				"created_at": "Wed Oct 05 03:28:55 +0000 2016",
+				"id": 783509244477931500,
+				"id_str": "783509244477931520",
+				"text": "OneNote got a new tile! (Fast ring) #WindowsInsiders https://t.co/L3CDNs03sc",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "WindowsInsiders",
+							"indices": [
+								36,
+								52
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 783509239075639300,
+							"id_str": "783509239075639296",
+							"indices": [
+								53,
+								76
+							],
+							"media_url": "http://pbs.twimg.com/media/Ct-VgHFXEAA7Lcw.png",
+							"media_url_https": "https://pbs.twimg.com/media/Ct-VgHFXEAA7Lcw.png",
+							"url": "https://t.co/L3CDNs03sc",
+							"display_url": "pic.twitter.com/L3CDNs03sc",
+							"expanded_url": "https://twitter.com/anidexlu/status/783509244477931520/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 674,
+									"h": 536,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 674,
+									"h": 536,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 674,
+									"h": 536,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 783509239075639300,
+							"id_str": "783509239075639296",
+							"indices": [
+								53,
+								76
+							],
+							"media_url": "http://pbs.twimg.com/media/Ct-VgHFXEAA7Lcw.png",
+							"media_url_https": "https://pbs.twimg.com/media/Ct-VgHFXEAA7Lcw.png",
+							"url": "https://t.co/L3CDNs03sc",
+							"display_url": "pic.twitter.com/L3CDNs03sc",
+							"expanded_url": "https://twitter.com/anidexlu/status/783509244477931520/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 674,
+									"h": 536,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 674,
+									"h": 536,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 674,
+									"h": 536,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 14098101,
+					"id_str": "14098101",
+					"name": "Anidexlu",
+					"screen_name": "anidexlu",
+					"location": "Quilmes, Buenos Aires",
+					"description": "Designer. Chispita.",
+					"url": "http://t.co/PY2eIKWVit",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/PY2eIKWVit",
+									"expanded_url": "http://anidexlu.tumblr.com/",
+									"display_url": "anidexlu.tumblr.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 300,
+					"friends_count": 251,
+					"listed_count": 26,
+					"created_at": "Sat Mar 08 00:14:56 +0000 2008",
+					"favourites_count": 2355,
+					"utc_offset": -10800,
+					"time_zone": "Buenos Aires",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 13160,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/617159905011744772/gORMFGpV_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/617159905011744772/gORMFGpV_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14098101/1472577390",
+					"profile_link_color": "E81C4F",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 783509244477931500,
+		"quoted_status_id_str": "783509244477931520",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 05 00:19:02 +0000 2016",
 		"id": 783461457023344600,
 		"id_str": "783461457023344640",
