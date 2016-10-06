@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 16:09:14 +0000 2016",
+		"id": 784062973048414200,
+		"id_str": "784062973048414209",
+		"text": "RT @B_E_AIG: Travel update @MattEngelbrecht 🤓@NewBridgeBears  report that it's a perfect weather day to travel the world through @OneNoteC…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "B_E_AIG",
+					"name": "Barbara Edwards",
+					"id": 727494721984155600,
+					"id_str": "727494721984155649",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "MattEngelbrecht",
+					"name": "Matt Engelbrecht",
+					"id": 247356820,
+					"id_str": "247356820",
+					"indices": [
+						27,
+						43
+					]
+				},
+				{
+					"screen_name": "NewBridgeBears",
+					"name": "New Bridge Middle",
+					"id": 324008304,
+					"id_str": "324008304",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						129,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7649,
+			"friends_count": 3533,
+			"listed_count": 418,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12277,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 06 14:28:27 +0000 2016",
+			"id": 784037610142494700,
+			"id_str": "784037610142494720",
+			"text": "Travel update @MattEngelbrecht 🤓@NewBridgeBears  report that it's a perfect weather day to travel the world through… https://t.co/YHHrWDKi6i",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MattEngelbrecht",
+						"name": "Matt Engelbrecht",
+						"id": 247356820,
+						"id_str": "247356820",
+						"indices": [
+							14,
+							30
+						]
+					},
+					{
+						"screen_name": "NewBridgeBears",
+						"name": "New Bridge Middle",
+						"id": 324008304,
+						"id_str": "324008304",
+						"indices": [
+							32,
+							47
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YHHrWDKi6i",
+						"expanded_url": "https://twitter.com/i/web/status/784037610142494720",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 727494721984155600,
+				"id_str": "727494721984155649",
+				"name": "Barbara Edwards",
+				"screen_name": "B_E_AIG",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 108,
+				"friends_count": 61,
+				"listed_count": 16,
+				"created_at": "Tue May 03 13:47:12 +0000 2016",
+				"favourites_count": 412,
+				"utc_offset": -14400,
+				"time_zone": "EDT",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 355,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/728709154790092801/HLcTV7GQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/728709154790092801/HLcTV7GQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/727494721984155649/1462574567",
+				"profile_link_color": "2B7BB9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3b98b02fba3f9753",
+				"url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json",
+				"place_type": "admin",
+				"name": "North Carolina",
+				"full_name": "North Carolina, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-84.3219475,
+								33.752879
+							],
+							[
+								-75.40012,
+								33.752879
+							],
+							[
+								-75.40012,
+								36.588118
+							],
+							[
+								-84.3219475,
+								36.588118
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 06 09:24:51 +0000 2016",
 		"id": 783961205773856800,
 		"id_str": "783961205773856768",
