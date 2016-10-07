@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 22:57:00 +0000 2016",
+		"id": 784527978214658000,
+		"id_str": "784527978214658048",
+		"text": "RT @Camtasia: The new Camtasia is coming soon!  Bringing even more power, ease, and fun to video production. https://t.co/T0zo174ggP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Camtasia",
+					"name": "Camtasia",
+					"id": 21398509,
+					"id_str": "21398509",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 775833246919602200,
+					"id_str": "775833246919602176",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/CsRQhw_UMAkk109.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsRQhw_UMAkk109.jpg",
+					"url": "https://t.co/T0zo174ggP",
+					"display_url": "pic.twitter.com/T0zo174ggP",
+					"expanded_url": "https://twitter.com/Camtasia/status/783824810270830592/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783824810270830600,
+					"source_status_id_str": "783824810270830592",
+					"source_user_id": 21398509,
+					"source_user_id_str": "21398509"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 775833246919602200,
+					"id_str": "775833246919602176",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/CsRQhw_UMAkk109.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsRQhw_UMAkk109.jpg",
+					"url": "https://t.co/T0zo174ggP",
+					"display_url": "pic.twitter.com/T0zo174ggP",
+					"expanded_url": "https://twitter.com/Camtasia/status/783824810270830592/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783824810270830600,
+					"source_status_id_str": "783824810270830592",
+					"source_user_id": 21398509,
+					"source_user_id_str": "21398509",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31750,
+						"variants": [
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/amplify_video/775833246919602176/pl/594_KD5fOVvu8eVZ.mpd"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/775833246919602176/vid/1280x720/6DkMXXvW8evb8RgQ.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/775833246919602176/pl/594_KD5fOVvu8eVZ.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/775833246919602176/vid/640x360/t4FePYX6QSuzYYRd.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/775833246919602176/vid/320x180/mZyXzdHRC96mVp6E.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Better Workflows, Improved Rendering",
+						"description": "Sign up to be notified when the new Camtasia is released: bit.ly/newcamtasia",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://discover.techsmith.com/new-camtasia-notification/?utm_source=twitter&utm_medium=Paid+Social&utm_campaign=Camtasia+9+Pre-Buzz+Videos+-+Video+Views"
+							}
+						},
+						"monetizable": false,
+						"source_user": {
+							"id": 21398509,
+							"id_str": "21398509",
+							"name": "Camtasia",
+							"screen_name": "Camtasia",
+							"location": "United States",
+							"description": "Camtasia is a screen recording & editing tool that allows you to capture & share anything on your screen. We're here to help w/ questions M-F, 8-5pm ET",
+							"url": "https://t.co/O1iQy4QSMW",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/O1iQy4QSMW",
+											"expanded_url": "https://www.techsmith.com/camtasia.html",
+											"display_url": "techsmith.com/camtasia.html",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 16933,
+							"friends_count": 1236,
+							"listed_count": 475,
+							"created_at": "Fri Feb 20 14:09:00 +0000 2009",
+							"favourites_count": 416,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 27392,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "446B1A",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443473781810405376/3HJZFhF2.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443473781810405376/3HJZFhF2.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/456093443857477632/GG-686sZ_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/456093443857477632/GG-686sZ_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/21398509/1436367394",
+							"profile_link_color": "446B1A",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "E6E5E5",
+							"profile_text_color": "777777",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7677,
+			"friends_count": 3536,
+			"listed_count": 418,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12329,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12728,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 06 00:22:52 +0000 2016",
+			"id": 783824810270830600,
+			"id_str": "783824810270830592",
+			"text": "The new Camtasia is coming soon!  Bringing even more power, ease, and fun to video production. https://t.co/T0zo174ggP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 775833246919602200,
+						"id_str": "775833246919602176",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/CsRQhw_UMAkk109.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsRQhw_UMAkk109.jpg",
+						"url": "https://t.co/T0zo174ggP",
+						"display_url": "pic.twitter.com/T0zo174ggP",
+						"expanded_url": "https://twitter.com/Camtasia/status/783824810270830592/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 775833246919602200,
+						"id_str": "775833246919602176",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/CsRQhw_UMAkk109.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsRQhw_UMAkk109.jpg",
+						"url": "https://t.co/T0zo174ggP",
+						"display_url": "pic.twitter.com/T0zo174ggP",
+						"expanded_url": "https://twitter.com/Camtasia/status/783824810270830592/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 31750,
+							"variants": [
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/amplify_video/775833246919602176/pl/594_KD5fOVvu8eVZ.mpd"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/775833246919602176/vid/1280x720/6DkMXXvW8evb8RgQ.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/775833246919602176/pl/594_KD5fOVvu8eVZ.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/775833246919602176/vid/640x360/t4FePYX6QSuzYYRd.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/775833246919602176/vid/320x180/mZyXzdHRC96mVp6E.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Better Workflows, Improved Rendering",
+							"description": "Sign up to be notified when the new Camtasia is released: bit.ly/newcamtasia",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "http://discover.techsmith.com/new-camtasia-notification/?utm_source=twitter&utm_medium=Paid+Social&utm_campaign=Camtasia+9+Pre-Buzz+Videos+-+Video+Views"
+								}
+							},
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21398509,
+				"id_str": "21398509",
+				"name": "Camtasia",
+				"screen_name": "Camtasia",
+				"location": "United States",
+				"description": "Camtasia is a screen recording & editing tool that allows you to capture & share anything on your screen. We're here to help w/ questions M-F, 8-5pm ET",
+				"url": "https://t.co/O1iQy4QSMW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O1iQy4QSMW",
+								"expanded_url": "https://www.techsmith.com/camtasia.html",
+								"display_url": "techsmith.com/camtasia.html",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16933,
+				"friends_count": 1236,
+				"listed_count": 475,
+				"created_at": "Fri Feb 20 14:09:00 +0000 2009",
+				"favourites_count": 416,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27392,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "446B1A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443473781810405376/3HJZFhF2.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443473781810405376/3HJZFhF2.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/456093443857477632/GG-686sZ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/456093443857477632/GG-686sZ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21398509/1436367394",
+				"profile_link_color": "446B1A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6E5E5",
+				"profile_text_color": "777777",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"scopes": {
+				"followers": false
+			},
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 07 21:35:52 +0000 2016",
 		"id": 784507561638756400,
 		"id_str": "784507561638756352",
