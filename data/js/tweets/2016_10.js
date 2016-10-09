@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 12:47:37 +0000 2016",
+		"id": 785099398703448000,
+		"id_str": "785099398703448064",
+		"text": "Liking this so much, happily retweeting\nYour #OneNote Can Hold Everything!\ncc @IceManTuck https://t.co/4g3Nf3aPLi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						45,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IceManTuck",
+					"name": "Mr. Tucker",
+					"id": 1620619921,
+					"id_str": "1620619921",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4g3Nf3aPLi",
+					"expanded_url": "https://twitter.com/sandiadams/status/783445053201145856",
+					"display_url": "twitter.com/sandiadams/sta…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7697,
+			"friends_count": 3537,
+			"listed_count": 421,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12375,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12750,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 783445053201145900,
+		"quoted_status_id_str": "783445053201145856",
+		"quoted_status": {
+			"created_at": "Tue Oct 04 23:13:51 +0000 2016",
+			"id": 783445053201145900,
+			"id_str": "783445053201145856",
+			"text": "Have to share this from #miegroupme Thanks @jeremytucker #OneNoteQ https://t.co/ZHIyQHJ9FL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "miegroupme",
+						"indices": [
+							24,
+							35
+						]
+					},
+					{
+						"text": "OneNoteQ",
+						"indices": [
+							57,
+							66
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jeremytucker",
+						"name": "jeremy tucker",
+						"id": 30426867,
+						"id_str": "30426867",
+						"indices": [
+							43,
+							56
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 783445044837613600,
+						"id_str": "783445044837613568",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct9bHg6WAAA4g0g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct9bHg6WAAA4g0g.jpg",
+						"url": "https://t.co/ZHIyQHJ9FL",
+						"display_url": "pic.twitter.com/ZHIyQHJ9FL",
+						"expanded_url": "https://twitter.com/sandiadams/status/783445053201145856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 541,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 541,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 783445044837613600,
+						"id_str": "783445044837613568",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct9bHg6WAAA4g0g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct9bHg6WAAA4g0g.jpg",
+						"url": "https://t.co/ZHIyQHJ9FL",
+						"display_url": "pic.twitter.com/ZHIyQHJ9FL",
+						"expanded_url": "https://twitter.com/sandiadams/status/783445053201145856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 541,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 541,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26064690,
+				"id_str": "26064690",
+				"name": "Sandi Adams",
+				"screen_name": "sandiadams",
+				"location": "Georgia",
+				"description": "Technology Project Specialist, Cherokee County District, Microsoft Innovative Educator Expert & Master Trainer, Techie, Backpacker and Hiker",
+				"url": "https://t.co/MsiyRDS3S3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MsiyRDS3S3",
+								"expanded_url": "https://sandiadams.wordpress.com/",
+								"display_url": "sandiadams.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2260,
+				"friends_count": 1583,
+				"listed_count": 162,
+				"created_at": "Mon Mar 23 19:00:46 +0000 2009",
+				"favourites_count": 12333,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4372,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747911193952583680/BdR5GFXy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747911193952583680/BdR5GFXy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26064690/1441530216",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 09 12:06:21 +0000 2016",
 		"id": 785089014265221100,
 		"id_str": "785089014265221123",
