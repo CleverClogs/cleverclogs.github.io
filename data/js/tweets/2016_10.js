@@ -1,6 +1,703 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 21:16:09 +0000 2016",
+		"id": 787039315096371200,
+		"id_str": "787039315096371200",
+		"text": "RT @MrsBrand3: The defense prepping for trial. Will The Big Bad Wolf be found innocent OR guilty!? #staytuned @msonenote @Microsoft_EDU #CC…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "staytuned",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsBrand3",
+					"name": "Erika Brand",
+					"id": 755889583527759900,
+					"id_str": "755889583527759873",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"screen_name": "Microsoft_EDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						121,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7779,
+			"friends_count": 3557,
+			"listed_count": 422,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12443,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12825,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 13 20:08:27 +0000 2016",
+			"id": 786659887510061000,
+			"id_str": "786659887510061056",
+			"text": "The defense prepping for trial. Will The Big Bad Wolf be found innocent OR guilty!? #staytuned @msonenote… https://t.co/k4JqAp1mzp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "staytuned",
+						"indices": [
+							84,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							95,
+							105
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/k4JqAp1mzp",
+						"expanded_url": "https://twitter.com/i/web/status/786659887510061056",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 755889583527759900,
+				"id_str": "755889583527759873",
+				"name": "Erika Brand",
+				"screen_name": "MrsBrand3",
+				"location": "Holly Springs, GA",
+				"description": "3rd grade teacher at Holly Springs Elementary STEM Academy",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44,
+				"friends_count": 106,
+				"listed_count": 2,
+				"created_at": "Wed Jul 20 22:18:15 +0000 2016",
+				"favourites_count": 52,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 67,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756523947290685440/p7OH-s34_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756523947290685440/p7OH-s34_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755889583527759873/1469055416",
+				"profile_link_color": "2B7BB9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9c9bd23480001",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9c9bd23480001.json",
+				"place_type": "poi",
+				"name": "Holly Springs Elementary",
+				"full_name": "Holly Springs Elementary",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-84.4711883342951,
+								34.1718372109206
+							],
+							[
+								-84.4711883342951,
+								34.1718372109206
+							],
+							[
+								-84.4711883342951,
+								34.1718372109206
+							],
+							[
+								-84.4711883342951,
+								34.1718372109206
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 14 21:13:33 +0000 2016",
+		"id": 787038658364862500,
+		"id_str": "787038658364862464",
+		"text": "@jawss @msonenote Hi Jocelyn, here's an example I made of a page from the much larger #OneNote Community notebook: https://t.co/UlBaCZL0pX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jawss",
+					"name": "jocelyn ♥",
+					"id": 3584151,
+					"id_str": "3584151",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UlBaCZL0pX",
+					"expanded_url": "http://onen.link/onenote-live-online-content-examples",
+					"display_url": "onen.link/onenote-live-o…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 786830821172744200,
+		"in_reply_to_status_id_str": "786830821172744192",
+		"in_reply_to_user_id": 3584151,
+		"in_reply_to_user_id_str": "3584151",
+		"in_reply_to_screen_name": "jawss",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7779,
+			"friends_count": 3557,
+			"listed_count": 422,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12443,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12825,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 14 20:51:43 +0000 2016",
+		"id": 787033166380929000,
+		"id_str": "787033166380929024",
+		"text": "RT @bealers: Love how the OneNote web clipper is smart enough to convert recipes, including adding to do tags for each step https://t.co/oe…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bealers",
+					"name": "Darren Beale",
+					"id": 13515602,
+					"id_str": "13515602",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7779,
+			"friends_count": 3557,
+			"listed_count": 422,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12443,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12825,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 14 17:10:48 +0000 2016",
+			"id": 786977567630909400,
+			"id_str": "786977567630909441",
+			"text": "Love how the OneNote web clipper is smart enough to convert recipes, including adding to do tags for each step https://t.co/oeRKqcKg1r",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 786977141950906400,
+						"id_str": "786977141950906368",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/CuvnioBWAAAOEJq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuvnioBWAAAOEJq.jpg",
+						"url": "https://t.co/oeRKqcKg1r",
+						"display_url": "pic.twitter.com/oeRKqcKg1r",
+						"expanded_url": "https://twitter.com/bealers/status/786977567630909441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 399,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1733,
+								"h": 1018,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 705,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786977141950906400,
+						"id_str": "786977141950906368",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/CuvnioBWAAAOEJq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuvnioBWAAAOEJq.jpg",
+						"url": "https://t.co/oeRKqcKg1r",
+						"display_url": "pic.twitter.com/oeRKqcKg1r",
+						"expanded_url": "https://twitter.com/bealers/status/786977567630909441/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 399,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1733,
+								"h": 1018,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 705,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13515602,
+				"id_str": "13515602",
+				"name": "Darren Beale",
+				"screen_name": "bealers",
+				"location": "Wem, Shropshire",
+				"description": "Developer, writer, runner and founder https://t.co/fecpyWvRv8. OneNote fan. Building https://t.co/3SsETKt66v. Knuckling Down podcast: https://t.co/zzfpVVCcYv",
+				"url": "https://t.co/Z2wJihIaeB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z2wJihIaeB",
+								"expanded_url": "http://bealers.com",
+								"display_url": "bealers.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fecpyWvRv8",
+								"expanded_url": "https://siftware.com",
+								"display_url": "siftware.com",
+								"indices": [
+									38,
+									61
+								]
+							},
+							{
+								"url": "https://t.co/3SsETKt66v",
+								"expanded_url": "http://notebud.com",
+								"display_url": "notebud.com",
+								"indices": [
+									85,
+									108
+								]
+							},
+							{
+								"url": "https://t.co/zzfpVVCcYv",
+								"expanded_url": "http://bealers.com/podcast",
+								"display_url": "bealers.com/podcast",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 983,
+				"friends_count": 572,
+				"listed_count": 63,
+				"created_at": "Fri Feb 15 14:09:09 +0000 2008",
+				"favourites_count": 1005,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9224,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7696C8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/801817528/a5e7c20b7f4f764f5b18a867d3655ffe.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/801817528/a5e7c20b7f4f764f5b18a867d3655ffe.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780358853183537152/LOxDFoOi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780358853183537152/LOxDFoOi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13515602/1399474429",
+				"profile_link_color": "316C94",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 14 19:55:05 +0000 2016",
 		"id": 787018911631933400,
 		"id_str": "787018911631933440",
@@ -543,7 +1240,7 @@ Grailbird.data.tweets_2016_10 =
 				"name": "Ⓜ️OΞBΞUS",
 				"screen_name": "uwappsoldier",
 				"location": "Barbate, Spain",
-				"description": "Fast ring insider. Like UWP enough to tweet (mostly) about it. Also music: https://t.co/R5zUgZaiAu | Güiri, culo inquieto |  ☁🌐۝ • ͜ •  ♛♪♫",
+				"description": "Fast ring insider. Like UWP enough to tweet (mostly) about it. Also music: https://t.co/R5zUgZaiAu | Güiri, culo inquieto |  ☁🌐 • ͜ •  ♛♪♫",
 				"url": null,
 				"entities": {
 					"description": {
