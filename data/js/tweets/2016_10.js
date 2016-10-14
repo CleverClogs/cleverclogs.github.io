@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 08:36:36 +0000 2016",
+		"id": 786848164804497400,
+		"id_str": "786848164804497408",
+		"text": "RT @uwappsoldier: 4th #OneNote Live Tile campaign spotted: \"Notes to go\" https://t.co/MrFi4WkQCY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uwappsoldier",
+					"name": "Ⓜ️OΞBΞUS",
+					"id": 4236642393,
+					"id_str": "4236642393",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 786839402307784700,
+					"id_str": "786839402307784704",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/CutqRH3WEAAiRw6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CutqRH3WEAAiRw6.jpg",
+					"url": "https://t.co/MrFi4WkQCY",
+					"display_url": "pic.twitter.com/MrFi4WkQCY",
+					"expanded_url": "https://twitter.com/uwappsoldier/status/786839563612332032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 542,
+							"h": 386,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 542,
+							"h": 386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 386,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786839563612332000,
+					"source_status_id_str": "786839563612332032",
+					"source_user_id": 4236642393,
+					"source_user_id_str": "4236642393"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 786839402307784700,
+					"id_str": "786839402307784704",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/CutqRH3WEAAiRw6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CutqRH3WEAAiRw6.jpg",
+					"url": "https://t.co/MrFi4WkQCY",
+					"display_url": "pic.twitter.com/MrFi4WkQCY",
+					"expanded_url": "https://twitter.com/uwappsoldier/status/786839563612332032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 542,
+							"h": 386,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 542,
+							"h": 386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 542,
+							"h": 386,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786839563612332000,
+					"source_status_id_str": "786839563612332032",
+					"source_user_id": 4236642393,
+					"source_user_id_str": "4236642393"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7771,
+			"friends_count": 3550,
+			"listed_count": 422,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12432,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12815,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 14 08:02:25 +0000 2016",
+			"id": 786839563612332000,
+			"id_str": "786839563612332032",
+			"text": "4th #OneNote Live Tile campaign spotted: \"Notes to go\" https://t.co/MrFi4WkQCY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							4,
+							12
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 786839402307784700,
+						"id_str": "786839402307784704",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/CutqRH3WEAAiRw6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CutqRH3WEAAiRw6.jpg",
+						"url": "https://t.co/MrFi4WkQCY",
+						"display_url": "pic.twitter.com/MrFi4WkQCY",
+						"expanded_url": "https://twitter.com/uwappsoldier/status/786839563612332032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 542,
+								"h": 386,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 542,
+								"h": 386,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 542,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786839402307784700,
+						"id_str": "786839402307784704",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/CutqRH3WEAAiRw6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CutqRH3WEAAiRw6.jpg",
+						"url": "https://t.co/MrFi4WkQCY",
+						"display_url": "pic.twitter.com/MrFi4WkQCY",
+						"expanded_url": "https://twitter.com/uwappsoldier/status/786839563612332032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 542,
+								"h": 386,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 542,
+								"h": 386,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 542,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 783947378458058800,
+			"in_reply_to_status_id_str": "783947378458058752",
+			"in_reply_to_user_id": 4236642393,
+			"in_reply_to_user_id_str": "4236642393",
+			"in_reply_to_screen_name": "uwappsoldier",
+			"user": {
+				"id": 4236642393,
+				"id_str": "4236642393",
+				"name": "Ⓜ️OΞBΞUS",
+				"screen_name": "uwappsoldier",
+				"location": "Barbate, Spain",
+				"description": "Fast ring insider. Like UWP enough to tweet (mostly) about it. Also music: https://t.co/R5zUgZaiAu | Güiri, culo inquieto |  ☁🌐۝ • ͜ •  ♛♪♫",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/R5zUgZaiAu",
+								"expanded_url": "https://open.spotify.com/user/moeberg71",
+								"display_url": "open.spotify.com/user/moeberg71",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 258,
+				"friends_count": 921,
+				"listed_count": 172,
+				"created_at": "Fri Nov 20 19:20:05 +0000 2015",
+				"favourites_count": 5412,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7635,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711181981602734080/zXkiVhKz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711181981602734080/zXkiVhKz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4236642393/1474070991",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 13 22:50:00 +0000 2016",
 		"id": 786700543490003000,
 		"id_str": "786700543490002944",
