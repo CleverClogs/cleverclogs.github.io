@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 17:00:19 +0000 2016",
+		"id": 787337318038405100,
+		"id_str": "787337318038405128",
+		"text": "Breaking up is not _that_ hard to do once you hook up with #OneNote's built-in calculator;-)\n#NapkinMath\nNice image… https://t.co/G1KDo4LNr5",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "NapkinMath",
+					"indices": [
+						93,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G1KDo4LNr5",
+					"expanded_url": "https://twitter.com/i/web/status/787337318038405128",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7793,
+			"friends_count": 3560,
+			"listed_count": 422,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12458,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12834,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 787335088077934600,
+		"quoted_status_id_str": "787335088077934593",
+		"quoted_status": {
+			"created_at": "Sat Oct 15 16:51:27 +0000 2016",
+			"id": 787335088077934600,
+			"id_str": "787335088077934593",
+			"text": "Dramatischer als jede Hollywood-Trennung: In #Office365 kannst du dir dank #OneNote den Rechner sparen:… https://t.co/BZPADg726N",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Office365",
+						"indices": [
+							45,
+							55
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							75,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BZPADg726N",
+						"expanded_url": "https://twitter.com/i/web/status/787335088077934593",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22749686,
+				"id_str": "22749686",
+				"name": "Microsoft Schweiz",
+				"screen_name": "microsoft_ch",
+				"location": "Zürich",
+				"description": "Offizieller Twitterkanal von Microsoft Schweiz (Impressum: http://t.co/MjAr1hVixB)",
+				"url": "http://t.co/pO14UJcMDw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/pO14UJcMDw",
+								"expanded_url": "http://www.microsoft.ch",
+								"display_url": "microsoft.ch",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/MjAr1hVixB",
+								"expanded_url": "http://bit.ly/Impressum_Microsoft-Schweiz",
+								"display_url": "bit.ly/Impressum_Micr…",
+								"indices": [
+									59,
+									81
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2653,
+				"friends_count": 154,
+				"listed_count": 172,
+				"created_at": "Wed Mar 04 08:39:42 +0000 2009",
+				"favourites_count": 801,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4118,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000121160040/0659fc5633a941e92469a4ce69028f70.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000121160040/0659fc5633a941e92469a4ce69028f70.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/532920066669436929/eLbf3glg_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/532920066669436929/eLbf3glg_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22749686/1469527809",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCD",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 15 14:51:52 +0000 2016",
 		"id": 787304995024695300,
 		"id_str": "787304995024695296",
