@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 17:14:59 +0000 2016",
+		"id": 788428171599310800,
+		"id_str": "788428171599310856",
+		"text": "@mrzphd We've started already, Michelle! Please join the conversation! @TeacherBeard just posted the first question\nhttps://t.co/FAItGDrJE4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrzphd",
+					"name": "Michelle Zimmerman",
+					"id": 887144389,
+					"id_str": "887144389",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "TeacherBeard",
+					"name": "Todd Beard",
+					"id": 267742435,
+					"id_str": "267742435",
+					"indices": [
+						71,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FAItGDrJE4",
+					"expanded_url": "https://twitter.com/TeacherBeard/status/788425757433303041",
+					"display_url": "twitter.com/TeacherBeard/s…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 788427701107331100,
+		"in_reply_to_status_id_str": "788427701107331073",
+		"in_reply_to_user_id": 887144389,
+		"in_reply_to_user_id_str": "887144389",
+		"in_reply_to_screen_name": "mrzphd",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7835,
+			"friends_count": 3573,
+			"listed_count": 421,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12495,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12867,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 788425757433303000,
+		"quoted_status_id_str": "788425757433303041",
+		"quoted_status": {
+			"created_at": "Tue Oct 18 17:05:23 +0000 2016",
+			"id": 788425757433303000,
+			"id_str": "788425757433303041",
+			"text": "Q1: Why is inclusion so important in your classroom? https://t.co/EBPAsQ4eoN #MSFTEduChat",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							77,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 786204051717357600,
+						"id_str": "786204051717357568",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+						"url": "https://t.co/EBPAsQ4eoN",
+						"display_url": "pic.twitter.com/EBPAsQ4eoN",
+						"expanded_url": "https://twitter.com/WhosTalking/status/786204078267174912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1820,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 786204078267174900,
+						"source_status_id_str": "786204078267174912",
+						"source_user_id": 18578140,
+						"source_user_id_str": "18578140"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786204051717357600,
+						"id_str": "786204051717357568",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+						"url": "https://t.co/EBPAsQ4eoN",
+						"display_url": "pic.twitter.com/EBPAsQ4eoN",
+						"expanded_url": "https://twitter.com/WhosTalking/status/786204078267174912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1820,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 786204078267174900,
+						"source_status_id_str": "786204078267174912",
+						"source_user_id": 18578140,
+						"source_user_id_str": "18578140"
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 267742435,
+				"id_str": "267742435",
+				"name": "Todd Beard",
+				"screen_name": "TeacherBeard",
+				"location": "Flint, Michigan",
+				"description": "Dad&K12TechTeacher, I #make #Edutainment! #PBSDigitalinnovators, #code #STEM2STEAM  #CSforAll #FIRSTrobotics #MIEExpert #MIEFellow @TeachtoLead #YouthSpark",
+				"url": "https://t.co/2ECwy7eTJ7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2ECwy7eTJ7",
+								"expanded_url": "http://about.me/Todd.Beard",
+								"display_url": "about.me/Todd.Beard",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11612,
+				"friends_count": 10936,
+				"listed_count": 505,
+				"created_at": "Thu Mar 17 13:17:07 +0000 2011",
+				"favourites_count": 13697,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6928,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786195878876942336/b4Yr9TY-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786195878876942336/b4Yr9TY-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/267742435/1471529262",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 18 17:07:14 +0000 2016",
+		"id": 788426224536326100,
+		"id_str": "788426224536326144",
+		"text": "RT @TeacherBeard: Q1: Why is inclusion so important in your classroom? https://t.co/EBPAsQ4eoN #MSFTEduChat",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						95,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeacherBeard",
+					"name": "Todd Beard",
+					"id": 267742435,
+					"id_str": "267742435",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 786204051717357600,
+					"id_str": "786204051717357568",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+					"url": "https://t.co/EBPAsQ4eoN",
+					"display_url": "pic.twitter.com/EBPAsQ4eoN",
+					"expanded_url": "https://twitter.com/WhosTalking/status/786204078267174912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 786204078267174900,
+					"source_status_id_str": "786204078267174912",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 786204051717357600,
+					"id_str": "786204051717357568",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+					"url": "https://t.co/EBPAsQ4eoN",
+					"display_url": "pic.twitter.com/EBPAsQ4eoN",
+					"expanded_url": "https://twitter.com/WhosTalking/status/786204078267174912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 786204078267174900,
+					"source_status_id_str": "786204078267174912",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7835,
+			"friends_count": 3573,
+			"listed_count": 421,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12495,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12867,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Oct 18 17:05:23 +0000 2016",
+			"id": 788425757433303000,
+			"id_str": "788425757433303041",
+			"text": "Q1: Why is inclusion so important in your classroom? https://t.co/EBPAsQ4eoN #MSFTEduChat",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							77,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 786204051717357600,
+						"id_str": "786204051717357568",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+						"url": "https://t.co/EBPAsQ4eoN",
+						"display_url": "pic.twitter.com/EBPAsQ4eoN",
+						"expanded_url": "https://twitter.com/WhosTalking/status/786204078267174912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1820,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 786204078267174900,
+						"source_status_id_str": "786204078267174912",
+						"source_user_id": 18578140,
+						"source_user_id_str": "18578140"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786204051717357600,
+						"id_str": "786204051717357568",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cukoa2eWAAA2jC4.jpg",
+						"url": "https://t.co/EBPAsQ4eoN",
+						"display_url": "pic.twitter.com/EBPAsQ4eoN",
+						"expanded_url": "https://twitter.com/WhosTalking/status/786204078267174912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1820,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 786204078267174900,
+						"source_status_id_str": "786204078267174912",
+						"source_user_id": 18578140,
+						"source_user_id_str": "18578140"
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 267742435,
+				"id_str": "267742435",
+				"name": "Todd Beard",
+				"screen_name": "TeacherBeard",
+				"location": "Flint, Michigan",
+				"description": "Dad&K12TechTeacher, I #make #Edutainment! #PBSDigitalinnovators, #code #STEM2STEAM  #CSforAll #FIRSTrobotics #MIEExpert #MIEFellow @TeachtoLead #YouthSpark",
+				"url": "https://t.co/2ECwy7eTJ7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2ECwy7eTJ7",
+								"expanded_url": "http://about.me/Todd.Beard",
+								"display_url": "about.me/Todd.Beard",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11612,
+				"friends_count": 10936,
+				"listed_count": 505,
+				"created_at": "Thu Mar 17 13:17:07 +0000 2011",
+				"favourites_count": 13697,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6928,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786195878876942336/b4Yr9TY-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786195878876942336/b4Yr9TY-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/267742435/1471529262",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 18 16:17:48 +0000 2016",
 		"id": 788413783152685000,
 		"id_str": "788413783152685056",
