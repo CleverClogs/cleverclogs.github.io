@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 17:12:48 +0000 2016",
+		"id": 789152398644248600,
+		"id_str": "789152398644248579",
+		"text": "RT @Alex_n_wndrlnd: What a fun idea to put in a #OneNote binder for students! #innovative #engagement https://t.co/wUF6qv0ybW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "innovative",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"text": "engagement",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Alex_n_wndrlnd",
+					"name": "Alexandra Larson",
+					"id": 3731840057,
+					"id_str": "3731840057",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wUF6qv0ybW",
+					"expanded_url": "https://twitter.com/teachermarija/status/788838249053691904",
+					"display_url": "twitter.com/teachermarija/…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7872,
+			"friends_count": 3582,
+			"listed_count": 424,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12554,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12922,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 20 16:35:19 +0000 2016",
+			"id": 789142968762568700,
+			"id_str": "789142968762568704",
+			"text": "What a fun idea to put in a #OneNote binder for students! #innovative #engagement https://t.co/wUF6qv0ybW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							28,
+							36
+						]
+					},
+					{
+						"text": "innovative",
+						"indices": [
+							58,
+							69
+						]
+					},
+					{
+						"text": "engagement",
+						"indices": [
+							70,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wUF6qv0ybW",
+						"expanded_url": "https://twitter.com/teachermarija/status/788838249053691904",
+						"display_url": "twitter.com/teachermarija/…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3731840057,
+				"id_str": "3731840057",
+				"name": "Alexandra Larson",
+				"screen_name": "Alex_n_wndrlnd",
+				"location": "Atlanta, GA",
+				"description": "@KSUiTeach Coach. Self-Proclaimed Nerd. Non-Fiction Junkie. 🎬 Lover. 🐶 Mom. Bride-to-Be. Vermonter at ❤. Future #MSFTEDU Beast. Proud @BearCreekMS Comrade.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 114,
+				"friends_count": 201,
+				"listed_count": 20,
+				"created_at": "Mon Sep 21 20:50:07 +0000 2015",
+				"favourites_count": 351,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 438,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768630846144348161/YLLqxbIU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768630846144348161/YLLqxbIU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3731840057/1472090850",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 788838249053691900,
+			"quoted_status_id_str": "788838249053691904",
+			"quoted_status": {
+				"created_at": "Wed Oct 19 20:24:29 +0000 2016",
+				"id": 788838249053691900,
+				"id_str": "788838249053691904",
+				"text": "Making board game in #OneNoteEdu for tomorrow's lesson @OneNoteEDU #edtech #Edapps #mieexpert don't miss… https://t.co/HRCQp6vYJP",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OneNoteEdu",
+							"indices": [
+								21,
+								32
+							]
+						},
+						{
+							"text": "edtech",
+							"indices": [
+								67,
+								74
+							]
+						},
+						{
+							"text": "Edapps",
+							"indices": [
+								75,
+								82
+							]
+						},
+						{
+							"text": "mieexpert",
+							"indices": [
+								83,
+								93
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "OneNoteEDU",
+							"name": "@OneNoteEDU",
+							"id": 3096566760,
+							"id_str": "3096566760",
+							"indices": [
+								55,
+								66
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/HRCQp6vYJP",
+							"expanded_url": "https://twitter.com/i/web/status/788838249053691904",
+							"display_url": "twitter.com/i/web/status/7…",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 521427482,
+					"id_str": "521427482",
+					"name": "Maria Petreska",
+					"screen_name": "teachermarija",
+					"location": "Macedonia",
+					"description": "EFL teacher, MIE Expert 15, MIE Fellow 16, Ed-tech blogger, Microsoft HotTopics columnist, E2 Award Winner",
+					"url": "https://t.co/HGtaioDKXs",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/HGtaioDKXs",
+									"expanded_url": "http://teachermarijaesl.blogspot.com/",
+									"display_url": "teachermarijaesl.blogspot.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1673,
+					"friends_count": 853,
+					"listed_count": 476,
+					"created_at": "Sun Mar 11 15:48:42 +0000 2012",
+					"favourites_count": 3403,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 29425,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/778254354411294720/iLu-v2X1_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/778254354411294720/iLu-v2X1_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/521427482/1428777683",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 788838249053691900,
+		"quoted_status_id_str": "788838249053691904",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 20 16:00:10 +0000 2016",
 		"id": 789134122501410800,
 		"id_str": "789134122501410816",
