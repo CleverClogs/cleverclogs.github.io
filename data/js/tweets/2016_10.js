@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 04:39:27 +0000 2016",
+		"id": 789687587543871500,
+		"id_str": "789687587543871488",
+		"text": "RT @shelly_sachdev: Am a proud #OneNote avenger...@DePedagogics @PathwaysSchools @mtholfsen @OneNoteC #msftedu #MIEExpert https://t.co/X8rl…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "msftedu",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shelly_sachdev",
+					"name": "Shelly",
+					"id": 3300547224,
+					"id_str": "3300547224",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "DePedagogics",
+					"name": "De Pedagogics",
+					"id": 2966033204,
+					"id_str": "2966033204",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"screen_name": "PathwaysSchools",
+					"name": "Pathways Schools",
+					"id": 151332299,
+					"id_str": "151332299",
+					"indices": [
+						64,
+						80
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						92,
+						101
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7901,
+			"friends_count": 3586,
+			"listed_count": 427,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12590,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 22 04:37:14 +0000 2016",
+			"id": 789687029302825000,
+			"id_str": "789687029302824960",
+			"text": "Am a proud #OneNote avenger...@DePedagogics @PathwaysSchools @mtholfsen @OneNoteC #msftedu #MIEExpert https://t.co/X8rlWa8l8M",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							11,
+							19
+						]
+					},
+					{
+						"text": "msftedu",
+						"indices": [
+							82,
+							90
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							91,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DePedagogics",
+						"name": "De Pedagogics",
+						"id": 2966033204,
+						"id_str": "2966033204",
+						"indices": [
+							30,
+							43
+						]
+					},
+					{
+						"screen_name": "PathwaysSchools",
+						"name": "Pathways Schools",
+						"id": 151332299,
+						"id_str": "151332299",
+						"indices": [
+							44,
+							60
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							61,
+							71
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							72,
+							81
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 789686912340467700,
+						"id_str": "789686912340467713",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/CvWIEBXUIAEEeec.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvWIEBXUIAEEeec.jpg",
+						"url": "https://t.co/X8rlWa8l8M",
+						"display_url": "pic.twitter.com/X8rlWa8l8M",
+						"expanded_url": "https://twitter.com/shelly_sachdev/status/789687029302824960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 789686912340467700,
+						"id_str": "789686912340467713",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/CvWIEBXUIAEEeec.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvWIEBXUIAEEeec.jpg",
+						"url": "https://t.co/X8rlWa8l8M",
+						"display_url": "pic.twitter.com/X8rlWa8l8M",
+						"expanded_url": "https://twitter.com/shelly_sachdev/status/789687029302824960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 789686959249645600,
+						"id_str": "789686959249645569",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/CvWIGwHVYAEIr3F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvWIGwHVYAEIr3F.jpg",
+						"url": "https://t.co/X8rlWa8l8M",
+						"display_url": "pic.twitter.com/X8rlWa8l8M",
+						"expanded_url": "https://twitter.com/shelly_sachdev/status/789687029302824960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 706,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 706,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 789686977213767700,
+						"id_str": "789686977213767680",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/CvWIHzCUIAAYy_F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvWIHzCUIAAYy_F.jpg",
+						"url": "https://t.co/X8rlWa8l8M",
+						"display_url": "pic.twitter.com/X8rlWa8l8M",
+						"expanded_url": "https://twitter.com/shelly_sachdev/status/789687029302824960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3300547224,
+				"id_str": "3300547224",
+				"name": "Shelly",
+				"screen_name": "shelly_sachdev",
+				"location": "Gurgaon, Haryana",
+				"description": "A passionate educator who believes in transformation\n#mieexpert",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 195,
+				"friends_count": 182,
+				"listed_count": 12,
+				"created_at": "Wed Jul 29 14:28:01 +0000 2015",
+				"favourites_count": 329,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 209,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/779335735895740417/uW-OqZZa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/779335735895740417/uW-OqZZa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3300547224/1447608433",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 21 22:59:00 +0000 2016",
 		"id": 789601912194728000,
 		"id_str": "789601912194727937",
