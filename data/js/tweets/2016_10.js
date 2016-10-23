@@ -1,6 +1,538 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 15:10:02 +0000 2016",
+		"id": 790208667345977300,
+		"id_str": "790208667345977344",
+		"text": "Happy to see Learning Tools for #OneNote is reaching such a wide audience. Get your free OneNote 2016 version on… https://t.co/WK33IPUG7o",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						32,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WK33IPUG7o",
+					"expanded_url": "https://twitter.com/i/web/status/790208667345977344",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7919,
+			"friends_count": 3590,
+			"listed_count": 426,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12608,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 790196498684272600,
+		"quoted_status_id_str": "790196498684272640",
+		"quoted_status": {
+			"created_at": "Sun Oct 23 14:21:41 +0000 2016",
+			"id": 790196498684272600,
+			"id_str": "790196498684272640",
+			"text": "Great features in OneNote for English Language Learners https://t.co/BDDZptWNJK via @techyturner #edchat #edtech… https://t.co/eFfuEGiE1L",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edchat",
+						"indices": [
+							97,
+							104
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							105,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "techyturner",
+						"name": "Rodney Turner, M.Ed",
+						"id": 28726036,
+						"id_str": "28726036",
+						"indices": [
+							84,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BDDZptWNJK",
+						"expanded_url": "http://www.onenote.com/learningtools",
+						"display_url": "onenote.com/learningtools",
+						"indices": [
+							56,
+							79
+						]
+					},
+					{
+						"url": "https://t.co/eFfuEGiE1L",
+						"expanded_url": "https://twitter.com/i/web/status/790196498684272640",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29655018,
+				"id_str": "29655018",
+				"name": "Shelly Sanchez",
+				"screen_name": "ShellTerrell",
+				"location": "Shelly Sanchez Terrell",
+				"description": "Global speaker, 30Goals Author https://t.co/KTv2vDpPl8, Founder of @EdSpeakersCo, @EdupassionsCon, #Edchat. #RoscothePug's ma. https://t.co/KIoFY2ixWR",
+				"url": "https://t.co/CHdFaTX9yR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CHdFaTX9yR",
+								"expanded_url": "http://edspeakers.com/shellyterrell",
+								"display_url": "edspeakers.com/shellyterrell",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KTv2vDpPl8",
+								"expanded_url": "http://30Goals.com",
+								"display_url": "30Goals.com",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/KIoFY2ixWR",
+								"expanded_url": "http://TeacherRebootCamp.com",
+								"display_url": "TeacherRebootCamp.com",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 74564,
+				"friends_count": 20475,
+				"listed_count": 4757,
+				"created_at": "Wed Apr 08 06:17:20 +0000 2009",
+				"favourites_count": 3736,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 115328,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "162718",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/32170164/twitbacks_background_2_.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/32170164/twitbacks_background_2_.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/662819148330733568/OOb7ol4U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/662819148330733568/OOb7ol4U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29655018/1445227010",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "2E1105",
+				"profile_sidebar_fill_color": "A79690",
+				"profile_text_color": "0E0B0B",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 23 14:25:33 +0000 2016",
+		"id": 790197473247629300,
+		"id_str": "790197473247629312",
+		"text": "Awesome indeed! Let's put #MSFTEduChat on our calendars now. Sign up for the @RemindHQ event notification service:… https://t.co/BQQdKINqSf",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RemindHQ",
+					"name": "Remind",
+					"id": 80880113,
+					"id_str": "80880113",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BQQdKINqSf",
+					"expanded_url": "https://twitter.com/i/web/status/790197473247629312",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7919,
+			"friends_count": 3590,
+			"listed_count": 426,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12608,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 790148207913361400,
+		"quoted_status_id_str": "790148207913361408",
+		"quoted_status": {
+			"created_at": "Sun Oct 23 11:09:47 +0000 2016",
+			"id": 790148207913361400,
+			"id_str": "790148207913361408",
+			"text": "Save the Date: The next #MSFTEduChat TweetMeet is on 11/15, AWESOME TOPIC: Global Learning &amp; this year's… https://t.co/3ATQzGgBtQ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							24,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3ATQzGgBtQ",
+						"expanded_url": "https://twitter.com/i/web/status/790148207913361408",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 495519949,
+				"id_str": "495519949",
+				"name": "Jennifer Williams",
+				"screen_name": "JenWilliamsEdu",
+				"location": "Clearwater, Florida, USA",
+				"description": "EdD. Advocate of Shared Stories & #globaled. Prof @SaintLeoUniv. @ILAToday Board of Directors. @Edutopia & @EducationWeek Writer. Questioning, dreaming, doing.",
+				"url": "https://t.co/XSGF0JMYC4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XSGF0JMYC4",
+								"expanded_url": "http://www.calliopeglobal.com",
+								"display_url": "calliopeglobal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26871,
+				"friends_count": 17283,
+				"listed_count": 1096,
+				"created_at": "Sat Feb 18 02:03:59 +0000 2012",
+				"favourites_count": 63854,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34283,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/703574140557639680/GfSOTYF0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/703574140557639680/GfSOTYF0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/495519949/1468757279",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "4ec01c9dbc693497",
+				"url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json",
+				"place_type": "admin",
+				"name": "Florida",
+				"full_name": "Florida, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-87.634643,
+								24.396308
+							],
+							[
+								-79.974307,
+								24.396308
+							],
+							[
+								-79.974307,
+								31.001056
+							],
+							[
+								-87.634643,
+								31.001056
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 23 09:07:25 +0000 2016",
 		"id": 790117413215952900,
 		"id_str": "790117413215952896",
