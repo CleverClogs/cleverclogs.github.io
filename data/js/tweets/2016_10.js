@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 15:46:56 +0000 2016",
+		"id": 790217954747121700,
+		"id_str": "790217954747121666",
+		"text": "Paperless staff meetings turn out to be an achievable goal, thanks to Microsoft hard- and software. Nice English/Du… https://t.co/kJCbcZueJQ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kJCbcZueJQ",
+					"expanded_url": "https://twitter.com/i/web/status/790217954747121666",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7924,
+			"friends_count": 3590,
+			"listed_count": 428,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12612,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12963,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 790211095000653800,
+		"quoted_status_id_str": "790211095000653824",
+		"quoted_status": {
+			"created_at": "Sun Oct 23 15:19:41 +0000 2016",
+			"id": 790211095000653800,
+			"id_str": "790211095000653824",
+			"text": "Net gemaakt! How our meetings became 'paperless' |  https://t.co/Shk7Gan2Pc #MIEExpert @Sway @Office365 @Microsoft_Edu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							76,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sway",
+						"name": "Office Sway",
+						"id": 129937699,
+						"id_str": "129937699",
+						"indices": [
+							87,
+							92
+						]
+					},
+					{
+						"screen_name": "Office365",
+						"name": "Office 365",
+						"id": 137365854,
+						"id_str": "137365854",
+						"indices": [
+							93,
+							103
+						]
+					},
+					{
+						"screen_name": "Microsoft_EDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							104,
+							118
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Shk7Gan2Pc",
+						"expanded_url": "https://sway.com/KSoRGalAbdqWXJkZ",
+						"display_url": "sway.com/KSoRGalAbdqWXJ…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22065539,
+				"id_str": "22065539",
+				"name": "Ronald Staal",
+				"screen_name": "RonaldStaal",
+				"location": "Aduard, The Netherlands",
+				"description": "Als leerkracht en ICT-er zeer betrokken bij de implementatie van ICT in het basisonderwijs. Eigenaar van Ronald Staal - Training & Advies.",
+				"url": "http://t.co/Zi2I2GHeus",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Zi2I2GHeus",
+								"expanded_url": "http://www.ronaldstaal.nl",
+								"display_url": "ronaldstaal.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 187,
+				"friends_count": 146,
+				"listed_count": 11,
+				"created_at": "Thu Feb 26 21:34:15 +0000 2009",
+				"favourites_count": 41,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 912,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "647687",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593318319593107456/YLkHMdFO.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593318319593107456/YLkHMdFO.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770212794809536514/zm7b7Ow-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770212794809536514/zm7b7Ow-_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22065539/1430292755",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 23 15:10:02 +0000 2016",
 		"id": 790208667345977300,
 		"id_str": "790208667345977344",
