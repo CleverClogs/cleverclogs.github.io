@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 11:58:27 +0000 2016",
+		"id": 790522844404936700,
+		"id_str": "790522844404936704",
+		"text": "@SanelyThinking @msonenote Hi Stoski, just curious: have you considered using an Excel table and embedding that?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SanelyThinking",
+					"name": "Stoski",
+					"id": 237255966,
+					"id_str": "237255966",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 790504342398697500,
+		"in_reply_to_status_id_str": "790504342398697472",
+		"in_reply_to_user_id": 237255966,
+		"in_reply_to_user_id_str": "237255966",
+		"in_reply_to_screen_name": "SanelyThinking",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7939,
+			"friends_count": 3591,
+			"listed_count": 429,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12623,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 24 11:57:20 +0000 2016",
+		"id": 790522562405163000,
+		"id_str": "790522562405163008",
+		"text": "RT @gisellehobbs: Marking is boring, but it's much, much quicker and easier with my @msonenote class notebook! https://t.co/WkIexvuVTg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gisellehobbs",
+					"name": "Giselle Hobbs",
+					"id": 375559361,
+					"id_str": "375559361",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						84,
+						94
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 790515860704198700,
+					"id_str": "790515860704198656",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Cvh5_KqWAAA2Wfk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cvh5_KqWAAA2Wfk.jpg",
+					"url": "https://t.co/WkIexvuVTg",
+					"display_url": "pic.twitter.com/WkIexvuVTg",
+					"expanded_url": "https://twitter.com/gisellehobbs/status/790516186836598786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 930,
+							"h": 520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 930,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 790516186836598800,
+					"source_status_id_str": "790516186836598786",
+					"source_user_id": 375559361,
+					"source_user_id_str": "375559361"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 790515860704198700,
+					"id_str": "790515860704198656",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/Cvh5_KqWAAA2Wfk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cvh5_KqWAAA2Wfk.jpg",
+					"url": "https://t.co/WkIexvuVTg",
+					"display_url": "pic.twitter.com/WkIexvuVTg",
+					"expanded_url": "https://twitter.com/gisellehobbs/status/790516186836598786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 930,
+							"h": 520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 930,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 790516186836598800,
+					"source_status_id_str": "790516186836598786",
+					"source_user_id": 375559361,
+					"source_user_id_str": "375559361"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7939,
+			"friends_count": 3591,
+			"listed_count": 429,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12623,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 24 11:32:00 +0000 2016",
+			"id": 790516186836598800,
+			"id_str": "790516186836598786",
+			"text": "Marking is boring, but it's much, much quicker and easier with my @msonenote class notebook! https://t.co/WkIexvuVTg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							66,
+							76
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 790515860704198700,
+						"id_str": "790515860704198656",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/Cvh5_KqWAAA2Wfk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cvh5_KqWAAA2Wfk.jpg",
+						"url": "https://t.co/WkIexvuVTg",
+						"display_url": "pic.twitter.com/WkIexvuVTg",
+						"expanded_url": "https://twitter.com/gisellehobbs/status/790516186836598786/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 930,
+								"h": 520,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 930,
+								"h": 520,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 790515860704198700,
+						"id_str": "790515860704198656",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/Cvh5_KqWAAA2Wfk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cvh5_KqWAAA2Wfk.jpg",
+						"url": "https://t.co/WkIexvuVTg",
+						"display_url": "pic.twitter.com/WkIexvuVTg",
+						"expanded_url": "https://twitter.com/gisellehobbs/status/790516186836598786/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 930,
+								"h": 520,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 930,
+								"h": 520,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 375559361,
+				"id_str": "375559361",
+				"name": "Giselle Hobbs",
+				"screen_name": "gisellehobbs",
+				"location": "Luton, England",
+				"description": "(Lucky to be a) Teacher, Future Leader and professional nerd. Views my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55,
+				"friends_count": 138,
+				"listed_count": 0,
+				"created_at": "Sun Sep 18 10:30:42 +0000 2011",
+				"favourites_count": 292,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 212,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/632566132516503552/nsHjKb6P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/632566132516503552/nsHjKb6P_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 23 19:27:31 +0000 2016",
 		"id": 790273467769823200,
 		"id_str": "790273467769823239",
