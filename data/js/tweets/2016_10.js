@@ -1,6 +1,671 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 05:11:11 +0000 2016",
+		"id": 791145126416482300,
+		"id_str": "791145126416482304",
+		"text": "RT @mrzphd: It's an #ELL #Hackathon #iNACOL16 Link for more: https://t.co/WB07NMkw97 @Tvanderark @BeLathram @IDEASchools @Mind_Research @mr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELL",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "Hackathon",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "iNACOL16",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrzphd",
+					"name": "Michelle Zimmerman",
+					"id": 887144389,
+					"id_str": "887144389",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "tvanderark",
+					"name": "Tom Vander Ark",
+					"id": 26928955,
+					"id_str": "26928955",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "belathram",
+					"name": "Bonnie Lathram",
+					"id": 29136196,
+					"id_str": "29136196",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "IDEAschools",
+					"name": "IDEA Public Schools",
+					"id": 189239945,
+					"id_str": "189239945",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"screen_name": "MIND_Research",
+					"name": "MIND Research",
+					"id": 224811897,
+					"id_str": "224811897",
+					"indices": [
+						121,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WB07NMkw97",
+					"expanded_url": "http://www.inacol.org/symposium/",
+					"display_url": "inacol.org/symposium/",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7979,
+			"friends_count": 3604,
+			"listed_count": 432,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12675,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13020,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 26 02:06:41 +0000 2016",
+			"id": 791098694984609800,
+			"id_str": "791098694984609792",
+			"text": "It's an #ELL #Hackathon #iNACOL16 Link for more: https://t.co/WB07NMkw97 @Tvanderark @BeLathram @IDEASchools… https://t.co/wVXPLt8EzP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ELL",
+						"indices": [
+							8,
+							12
+						]
+					},
+					{
+						"text": "Hackathon",
+						"indices": [
+							13,
+							23
+						]
+					},
+					{
+						"text": "iNACOL16",
+						"indices": [
+							24,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tvanderark",
+						"name": "Tom Vander Ark",
+						"id": 26928955,
+						"id_str": "26928955",
+						"indices": [
+							73,
+							84
+						]
+					},
+					{
+						"screen_name": "belathram",
+						"name": "Bonnie Lathram",
+						"id": 29136196,
+						"id_str": "29136196",
+						"indices": [
+							85,
+							95
+						]
+					},
+					{
+						"screen_name": "IDEAschools",
+						"name": "IDEA Public Schools",
+						"id": 189239945,
+						"id_str": "189239945",
+						"indices": [
+							96,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WB07NMkw97",
+						"expanded_url": "http://www.inacol.org/symposium/",
+						"display_url": "inacol.org/symposium/",
+						"indices": [
+							49,
+							72
+						]
+					},
+					{
+						"url": "https://t.co/wVXPLt8EzP",
+						"expanded_url": "https://twitter.com/i/web/status/791098694984609792",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 887144389,
+				"id_str": "887144389",
+				"name": "Michelle Zimmerman",
+				"screen_name": "mrzphd",
+				"location": "",
+				"description": "To inspire passion, the unexpected, and learning from failure in a new generation • #MIEExpert • Lead #PBSDigitalInnovator • #ShowcaseSchool NCCE Trainer",
+				"url": "https://t.co/J3Dw6edXWs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J3Dw6edXWs",
+								"expanded_url": "http://www.rentonprep.org",
+								"display_url": "rentonprep.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1389,
+				"friends_count": 626,
+				"listed_count": 396,
+				"created_at": "Wed Oct 17 16:29:10 +0000 2012",
+				"favourites_count": 1139,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5853,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/696165793097080833/7D40H22X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/696165793097080833/7D40H22X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/887144389/1454826953",
+				"profile_link_color": "5B5375",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 26 05:10:20 +0000 2016",
+		"id": 791144912481845200,
+		"id_str": "791144912481845248",
+		"text": "RT @nakulmadaan: We released image feature last week,you can now upload image to a question &amp; as a form logo in #microsoftforms @OneNoteC #…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "microsoftforms",
+					"indices": [
+						116,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakulmadaan",
+					"name": "nakul madaan",
+					"id": 81828200,
+					"id_str": "81828200",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						132,
+						141
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7979,
+			"friends_count": 3604,
+			"listed_count": 432,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12675,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13020,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 26 04:41:15 +0000 2016",
+			"id": 791137594931343400,
+			"id_str": "791137594931343361",
+			"text": "We released image feature last week,you can now upload image to a question &amp; as a form logo in #microsoftforms… https://t.co/dYXwJcbqNx",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "microsoftforms",
+						"indices": [
+							99,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dYXwJcbqNx",
+						"expanded_url": "https://twitter.com/i/web/status/791137594931343361",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 81828200,
+				"id_str": "81828200",
+				"name": "nakul madaan",
+				"screen_name": "nakulmadaan",
+				"location": "Beijing",
+				"description": "Program Manager for Microsoft Forms at Microsoft China",
+				"url": "https://t.co/FPk9zkiInh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FPk9zkiInh",
+								"expanded_url": "http://forms.microsoft.com",
+								"display_url": "forms.microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54,
+				"friends_count": 106,
+				"listed_count": 6,
+				"created_at": "Mon Oct 12 12:17:56 +0000 2009",
+				"favourites_count": 77,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/750336262800809984/Y_ZwK45I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/750336262800809984/Y_ZwK45I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/81828200/1467728887",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 791131180179619800,
+			"quoted_status_id_str": "791131180179619840",
+			"quoted_status": {
+				"created_at": "Wed Oct 26 04:15:46 +0000 2016",
+				"id": 791131180179619800,
+				"id_str": "791131180179619840",
+				"text": "Steps of inserting an image to #MicrosoftForms as question image. You can add image from Bing search, OneDrive or l… https://t.co/CTWgKYZ6wk",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "MicrosoftForms",
+							"indices": [
+								31,
+								46
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/CTWgKYZ6wk",
+							"expanded_url": "https://twitter.com/i/web/status/791131180179619840",
+							"display_url": "twitter.com/i/web/status/7…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2243294323,
+					"id_str": "2243294323",
+					"name": "Melinda Ma",
+					"screen_name": "chunglingma",
+					"location": "Beijing",
+					"description": "Program Manager of Microsoft Forms in Microsoft China",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 16,
+					"friends_count": 16,
+					"listed_count": 2,
+					"created_at": "Fri Dec 13 03:34:03 +0000 2013",
+					"favourites_count": 5,
+					"utc_offset": 21600,
+					"time_zone": "Urumqi",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/791115715759607809/incocLu2_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/791115715759607809/incocLu2_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2243294323/1477452181",
+					"profile_link_color": "91D2FA",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 791131180179619800,
+		"quoted_status_id_str": "791131180179619840",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 25 22:18:54 +0000 2016",
 		"id": 791041371368980500,
 		"id_str": "791041371368980481",
