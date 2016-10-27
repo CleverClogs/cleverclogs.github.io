@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 10:49:32 +0000 2016",
+		"id": 791592663233466400,
+		"id_str": "791592663233466368",
+		"text": "Mindblowing demo of a music composer's dream: the new #SurfaceDial puck combined with @StaffPad on the Microsoft Su… https://t.co/ZCa4c7nWKG",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SurfaceDial",
+					"indices": [
+						54,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StaffPad",
+					"name": "StaffPad",
+					"id": 1076914136,
+					"id_str": "1076914136",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZCa4c7nWKG",
+					"expanded_url": "https://twitter.com/i/web/status/791592663233466368",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8008,
+			"friends_count": 3604,
+			"listed_count": 432,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12692,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13036,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 791319442252791800,
+		"quoted_status_id_str": "791319442252791808",
+		"quoted_status": {
+			"created_at": "Wed Oct 26 16:43:51 +0000 2016",
+			"id": 791319442252791800,
+			"id_str": "791319442252791808",
+			"text": "See how #StaffPad integrates with the new #SurfaceDial. It’s a great accessory for writing music on StaffPad with. https://t.co/Ge9jJbbuA6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StaffPad",
+						"indices": [
+							8,
+							17
+						]
+					},
+					{
+						"text": "SurfaceDial",
+						"indices": [
+							42,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ge9jJbbuA6",
+						"expanded_url": "http://youtu.be/JR7HAKmAdhs",
+						"display_url": "youtu.be/JR7HAKmAdhs",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1076914136,
+				"id_str": "1076914136",
+				"name": "StaffPad",
+				"screen_name": "StaffPad",
+				"location": "London",
+				"description": "StaffPad is a revolutionary app for  handwriting music notation on Windows tablets, such as Surface.",
+				"url": "http://t.co/Vi3H7hhFoE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Vi3H7hhFoE",
+								"expanded_url": "http://www.staffpad.net",
+								"display_url": "staffpad.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 908,
+				"friends_count": 15,
+				"listed_count": 17,
+				"created_at": "Thu Jan 10 15:38:16 +0000 2013",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 105,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "494949",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3090965344/ae5f35eccb439e2c6075b77238f72e5b_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3090965344/ae5f35eccb439e2c6075b77238f72e5b_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1076914136/1427552150",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 27 09:45:40 +0000 2016",
 		"id": 791576591159726100,
 		"id_str": "791576591159726080",
