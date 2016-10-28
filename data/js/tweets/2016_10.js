@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 12:03:48 +0000 2016",
+		"id": 791973742104744000,
+		"id_str": "791973742104743937",
+		"text": "RT @mtholfsen: We love making dreams come true :-) @Geogebra now embeds in OneNote #edtech #mieexpert https://t.co/6QpdNzOgtS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "geogebra",
+					"name": "GeoGebra",
+					"id": 71234465,
+					"id_str": "71234465",
+					"indices": [
+						51,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6QpdNzOgtS",
+					"expanded_url": "https://twitter.com/kurtsoeser/status/791375874230722560",
+					"display_url": "twitter.com/kurtsoeser/sta…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8028,
+			"friends_count": 3605,
+			"listed_count": 433,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12716,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13054,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 27 00:25:58 +0000 2016",
+			"id": 791435738025824300,
+			"id_str": "791435738025824256",
+			"text": "We love making dreams come true :-) @Geogebra now embeds in OneNote #edtech #mieexpert https://t.co/6QpdNzOgtS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							68,
+							75
+						]
+					},
+					{
+						"text": "mieexpert",
+						"indices": [
+							76,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "geogebra",
+						"name": "GeoGebra",
+						"id": 71234465,
+						"id_str": "71234465",
+						"indices": [
+							36,
+							45
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6QpdNzOgtS",
+						"expanded_url": "https://twitter.com/kurtsoeser/status/791375874230722560",
+						"display_url": "twitter.com/kurtsoeser/sta…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #Microsoft #OneNote team focusing on #education, including Class Notebook & Learning Tools #edtech #elearning @OneNoteEDU @msonenote",
+				"url": "https://t.co/v8yPGsKQHN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v8yPGsKQHN",
+								"expanded_url": "http://blogs.office.com/onenote/education",
+								"display_url": "blogs.office.com/onenote/educat…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6058,
+				"friends_count": 2686,
+				"listed_count": 551,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 10496,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12462,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 791375874230722600,
+			"quoted_status_id_str": "791375874230722560",
+			"quoted_status": {
+				"created_at": "Wed Oct 26 20:28:06 +0000 2016",
+				"id": 791375874230722600,
+				"id_str": "791375874230722560",
+				"text": "Thank you @OneNoteEDU,  @msonenote and @geogebra  for making my dream come true : https://t.co/NQbGUgDYmh #empowerstudents #empowerteachers",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "empowerstudents",
+							"indices": [
+								106,
+								122
+							]
+						},
+						{
+							"text": "empowerteachers",
+							"indices": [
+								123,
+								139
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "OneNoteEDU",
+							"name": "@OneNoteEDU",
+							"id": 3096566760,
+							"id_str": "3096566760",
+							"indices": [
+								10,
+								21
+							]
+						},
+						{
+							"screen_name": "msonenote",
+							"name": "Microsoft OneNote",
+							"id": 23735316,
+							"id_str": "23735316",
+							"indices": [
+								24,
+								34
+							]
+						},
+						{
+							"screen_name": "geogebra",
+							"name": "GeoGebra",
+							"id": 71234465,
+							"id_str": "71234465",
+							"indices": [
+								39,
+								48
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/NQbGUgDYmh",
+							"expanded_url": "http://ln.is/www.kurtsoeser.at/20/Skem1",
+							"display_url": "ln.is/www.kurtsoeser…",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://linkis.com\" rel=\"nofollow\">Put your button on any page! </a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 55684861,
+					"id_str": "55684861",
+					"name": "Kurt Söser",
+					"screen_name": "kurtsoeser",
+					"location": "Steyr",
+					"description": "Teacherpreneur, #OneNote-Geek, #GeoGebra-Trainer, #MIEFellow, #msftedu Advisory Board member, Guitarist, Archery Fan | kurtsoeser.at | passion, vision, future",
+					"url": "https://t.co/YuXn55ybx6",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/YuXn55ybx6",
+									"expanded_url": "http://www.kurtsoeser.at",
+									"display_url": "kurtsoeser.at",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1817,
+					"friends_count": 1295,
+					"listed_count": 156,
+					"created_at": "Fri Jul 10 22:35:55 +0000 2009",
+					"favourites_count": 3138,
+					"utc_offset": 7200,
+					"time_zone": "Vienna",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 4191,
+					"lang": "de",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/586233617052868608/yY48Kf9z.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/586233617052868608/yY48Kf9z.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/781176789351669760/ZbZo_fNF_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/781176789351669760/ZbZo_fNF_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/55684861/1476743532",
+					"profile_link_color": "2F2F2F",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 11,
+				"favorite_count": 16,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 17,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 791375874230722600,
+		"quoted_status_id_str": "791375874230722560",
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 28 08:39:30 +0000 2016",
 		"id": 791922326350753800,
 		"id_str": "791922326350753792",
