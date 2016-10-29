@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 19:44:30 +0000 2016",
+		"id": 792452068355301400,
+		"id_str": "792452068355301378",
+		"text": "RT @Fernandezc4: Mark your calendar for our next #OneNoteQ TweetMeet: November 1st at 10am &amp; 4pm PDT! You won’t want to miss it. https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNoteQ",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Fernandezc4",
+					"name": "Carlos Fernandez",
+					"id": 63355629,
+					"id_str": "63355629",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8055,
+			"friends_count": 3608,
+			"listed_count": 433,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12733,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			759703199574024200
+		],
+		"retweeted_status": {
+			"created_at": "Sat Oct 29 16:10:12 +0000 2016",
+			"id": 792398136664784900,
+			"id_str": "792398136664784896",
+			"text": "Mark your calendar for our next #OneNoteQ TweetMeet: November 1st at 10am &amp; 4pm PDT! You won’t want to miss it. https://t.co/pWjgKoKLVT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNoteQ",
+						"indices": [
+							32,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 792398133959520300,
+						"id_str": "792398133959520256",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv8p549W8AAllVH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv8p549W8AAllVH.jpg",
+						"url": "https://t.co/pWjgKoKLVT",
+						"display_url": "pic.twitter.com/pWjgKoKLVT",
+						"expanded_url": "https://twitter.com/Fernandezc4/status/792398136664784896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 515,
+								"h": 293,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 515,
+								"h": 293,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 515,
+								"h": 293,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 792398133959520300,
+						"id_str": "792398133959520256",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/Cv8p549W8AAllVH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cv8p549W8AAllVH.jpg",
+						"url": "https://t.co/pWjgKoKLVT",
+						"display_url": "pic.twitter.com/pWjgKoKLVT",
+						"expanded_url": "https://twitter.com/Fernandezc4/status/792398136664784896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 515,
+								"h": 293,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 515,
+								"h": 293,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 515,
+								"h": 293,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63355629,
+				"id_str": "63355629",
+				"name": "Carlos Fernandez",
+				"screen_name": "Fernandezc4",
+				"location": "Windermere, FL, USA",
+				"description": "Mobility Team at Microsoft, Founder of 81Dash, MIE EXPERT, Love all things Minecraft, and EdTech Enthusiast. All opinions are my own.",
+				"url": "https://t.co/3TNndsPsOj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3TNndsPsOj",
+								"expanded_url": "http://fishingforedtech.com",
+								"display_url": "fishingforedtech.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2734,
+				"friends_count": 1700,
+				"listed_count": 329,
+				"created_at": "Thu Aug 06 03:26:24 +0000 2009",
+				"favourites_count": 1178,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11318,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000165661968/uMFkiRAQ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000165661968/uMFkiRAQ.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747392921251373056/T-IRRRFL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747392921251373056/T-IRRRFL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63355629/1476629184",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 29 17:09:35 +0000 2016",
 		"id": 792413079116116000,
 		"id_str": "792413079116115968",
