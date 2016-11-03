@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 03 17:08:59 +0000 2016",
+		"id": 794224870204833800,
+		"id_str": "794224870204833792",
+		"text": "This begs for a blog post or video, don't you think?\n#OneNote #Gamification #GaETC16 https://t.co/VAEZggW1V4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "Gamification",
+					"indices": [
+						62,
+						75
+					]
+				},
+				{
+					"text": "GaETC16",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VAEZggW1V4",
+					"expanded_url": "https://twitter.com/lmlougheed/status/794173838418477056",
+					"display_url": "twitter.com/lmlougheed/sta…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8148,
+			"friends_count": 3617,
+			"listed_count": 436,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12865,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13170,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 794173838418477000,
+		"quoted_status_id_str": "794173838418477056",
+		"quoted_status": {
+			"created_at": "Thu Nov 03 13:46:12 +0000 2016",
+			"id": 794173838418477000,
+			"id_str": "794173838418477056",
+			"text": "Gamify your class w/OneNote @lolleytchr  #MIEExpert filling up Salon4 @GaETConf #GaETC16 https://t.co/pXvSk3h22i",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							41,
+							51
+						]
+					},
+					{
+						"text": "GaETC16",
+						"indices": [
+							80,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lolleytchr",
+						"name": "Suzy Lolley",
+						"id": 210890979,
+						"id_str": "210890979",
+						"indices": [
+							28,
+							39
+						]
+					},
+					{
+						"screen_name": "GaETConf",
+						"name": "GaETC",
+						"id": 208439824,
+						"id_str": "208439824",
+						"indices": [
+							70,
+							79
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 794173827123212300,
+						"id_str": "794173827123212288",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/CwV441eXcAAAnjK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwV441eXcAAAnjK.jpg",
+						"url": "https://t.co/pXvSk3h22i",
+						"display_url": "pic.twitter.com/pXvSk3h22i",
+						"expanded_url": "https://twitter.com/lmlougheed/status/794173838418477056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1262,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 739,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 419,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 794173827123212300,
+						"id_str": "794173827123212288",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/CwV441eXcAAAnjK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwV441eXcAAAnjK.jpg",
+						"url": "https://t.co/pXvSk3h22i",
+						"display_url": "pic.twitter.com/pXvSk3h22i",
+						"expanded_url": "https://twitter.com/lmlougheed/status/794173838418477056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1262,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 739,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 419,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1141499882,
+				"id_str": "1141499882",
+				"name": "Lisa Lougheed",
+				"screen_name": "lmlougheed",
+				"location": "Holly Springs, GA",
+				"description": "A teacher and mom of two. #MIEExpert and proud OneNote Avenger.  I love football, especially the #GreenbayPackers. @LougheedsJedis 1st-5th gifted & LEGO Lab",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 294,
+				"friends_count": 367,
+				"listed_count": 40,
+				"created_at": "Sat Feb 02 04:45:38 +0000 2013",
+				"favourites_count": 2183,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 282,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793805757900853248/xpBD5Kyr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793805757900853248/xpBD5Kyr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141499882/1439742306",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1703b859c254a0f9",
+				"url": "https://api.twitter.com/1.1/geo/id/1703b859c254a0f9.json",
+				"place_type": "city",
+				"name": "College Park",
+				"full_name": "College Park, GA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-84.5129821,
+								33.5933183
+							],
+							[
+								-84.427795,
+								33.5933183
+							],
+							[
+								-84.427795,
+								33.669237
+							],
+							[
+								-84.5129821,
+								33.669237
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 03 14:49:28 +0000 2016",
 		"id": 794189757718941700,
 		"id_str": "794189757718941706",
