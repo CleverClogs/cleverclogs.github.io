@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 04 12:30:04 +0000 2016",
+		"id": 794517066602729500,
+		"id_str": "794517066602729474",
+		"text": "RT @aford78: Explained #Classnotebook add in &amp; how I change Ss names to have a code at the start so it's easy to mark by class @OneNoteC #M…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Classnotebook",
+					"indices": [
+						23,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aford78",
+					"name": "Amanda Ford",
+					"id": 65392256,
+					"id_str": "65392256",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						131,
+						140
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8163,
+			"friends_count": 3622,
+			"listed_count": 436,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12881,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 04 12:10:51 +0000 2016",
+			"id": 794512228401745900,
+			"id_str": "794512228401745920",
+			"text": "Explained #Classnotebook add in &amp; how I change Ss names to have a code at the start so it's easy to mark by class… https://t.co/DW8Tiakvgg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Classnotebook",
+						"indices": [
+							10,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DW8Tiakvgg",
+						"expanded_url": "https://twitter.com/i/web/status/794512228401745920",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65392256,
+				"id_str": "65392256",
+				"name": "Amanda Ford",
+				"screen_name": "aford78",
+				"location": "Glasgow",
+				"description": "Mum/FE Lecturer/PhD in progress, @MIniGameJam Organiser,  @CoderRoyston mentor  #MIEExpert #surfaceedu  @CASScot committee, Raspberry Pi Certified Educator",
+				"url": "https://t.co/5x6B4skpmr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5x6B4skpmr",
+								"expanded_url": "http://amandawilson.co/",
+								"display_url": "amandawilson.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 963,
+				"friends_count": 880,
+				"listed_count": 93,
+				"created_at": "Thu Aug 13 15:46:08 +0000 2009",
+				"favourites_count": 1340,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3282,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5BEF3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/126453495/xa44e966d9fa6cb6404441e3b18bc72e.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/126453495/xa44e966d9fa6cb6404441e3b18bc72e.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/724330677890617346/qVM1jnLR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/724330677890617346/qVM1jnLR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65392256/1467847463",
+				"profile_link_color": "4017D1",
+				"profile_sidebar_border_color": "DE6DF5",
+				"profile_sidebar_fill_color": "F5A8F4",
+				"profile_text_color": "1C1F23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 04 08:08:20 +0000 2016",
 		"id": 794451199609212900,
 		"id_str": "794451199609212928",
