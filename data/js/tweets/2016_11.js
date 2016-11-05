@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 05 08:37:18 +0000 2016",
+		"id": 794820876256604200,
+		"id_str": "794820876256604160",
+		"text": "RT @CPD_TTS: OneNote Heroes - changing people's IT habits one person at a time... @OneNoteEDU  https://t.co/bZvLZ4q9MJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CPD_TTS",
+					"name": "Tanglin CPD",
+					"id": 724763310919278600,
+					"id_str": "724763310919278592",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						82,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bZvLZ4q9MJ",
+					"expanded_url": "https://twitter.com/stevesingapore/status/794706477143367680",
+					"display_url": "twitter.com/stevesingapore…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8180,
+			"friends_count": 3629,
+			"listed_count": 436,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12900,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			759703199574024200
+		],
+		"retweeted_status": {
+			"created_at": "Sat Nov 05 01:16:52 +0000 2016",
+			"id": 794710037234991100,
+			"id_str": "794710037234991104",
+			"text": "OneNote Heroes - changing people's IT habits one person at a time... @OneNoteEDU  https://t.co/bZvLZ4q9MJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							69,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bZvLZ4q9MJ",
+						"expanded_url": "https://twitter.com/stevesingapore/status/794706477143367680",
+						"display_url": "twitter.com/stevesingapore…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 724763310919278600,
+				"id_str": "724763310919278592",
+				"name": "Tanglin CPD",
+				"screen_name": "CPD_TTS",
+				"location": "Singapore",
+				"description": "The official Twitter page for @tanglintrust Continuous Professional Development (CPD) Department.",
+				"url": "https://t.co/iUh5oiK8pm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iUh5oiK8pm",
+								"expanded_url": "http://www.tts.edu.sg",
+								"display_url": "tts.edu.sg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50,
+				"friends_count": 121,
+				"listed_count": 4,
+				"created_at": "Tue Apr 26 00:53:33 +0000 2016",
+				"favourites_count": 20,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 69,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/724763475520552960/xPDiA4xw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/724763475520552960/xPDiA4xw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/724763310919278592/1461632471",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 794706477143367700,
+			"quoted_status_id_str": "794706477143367680",
+			"quoted_status": {
+				"created_at": "Sat Nov 05 01:02:43 +0000 2016",
+				"id": 794706477143367700,
+				"id_str": "794706477143367680",
+				"text": "Ready for takeoff! About to present the wonders of OneNote @CPD_TTS https://t.co/tUhvMbp3FL",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "CPD_TTS",
+							"name": "Tanglin CPD",
+							"id": 724763310919278600,
+							"id_str": "724763310919278592",
+							"indices": [
+								59,
+								67
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 794706474467369000,
+							"id_str": "794706474467368961",
+							"indices": [
+								68,
+								91
+							],
+							"media_url": "http://pbs.twimg.com/media/CwddU_dUoAEutGG.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CwddU_dUoAEutGG.jpg",
+							"url": "https://t.co/tUhvMbp3FL",
+							"display_url": "pic.twitter.com/tUhvMbp3FL",
+							"expanded_url": "https://twitter.com/stevesingapore/status/794706477143367680/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 768,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 768,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 794706474467369000,
+							"id_str": "794706474467368961",
+							"indices": [
+								68,
+								91
+							],
+							"media_url": "http://pbs.twimg.com/media/CwddU_dUoAEutGG.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CwddU_dUoAEutGG.jpg",
+							"url": "https://t.co/tUhvMbp3FL",
+							"display_url": "pic.twitter.com/tUhvMbp3FL",
+							"expanded_url": "https://twitter.com/stevesingapore/status/794706477143367680/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 768,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 768,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 510,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 200186236,
+					"id_str": "200186236",
+					"name": "Steve Morgan",
+					"screen_name": "stevesingapore",
+					"location": "Singapore",
+					"description": "Head of Technology for Learning + French/Spanish teacher. Apple Foundations Trainer. Microsoft Innovative Educator. UK PGA/Golf Foundation Coach.",
+					"url": "https://t.co/RafoZoKsYQ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/RafoZoKsYQ",
+									"expanded_url": "http://www.stevesingapore.com",
+									"display_url": "stevesingapore.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 725,
+					"friends_count": 562,
+					"listed_count": 39,
+					"created_at": "Fri Oct 08 17:17:31 +0000 2010",
+					"favourites_count": 1400,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2145,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/708613999819010048/6Y3gLOgd_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/708613999819010048/6Y3gLOgd_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/200186236/1425900016",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 794706477143367700,
+		"quoted_status_id_str": "794706477143367680",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 05 00:45:11 +0000 2016",
 		"id": 794702062839857200,
 		"id_str": "794702062839857152",
