@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 19:55:02 +0000 2016",
+		"id": 796440984460652500,
+		"id_str": "796440984460652544",
+		"text": "Inspiring #SkypeintheClassroom event coming up. Join this global #MSFTEduChat TweetMeet, sharing ideas with educato… https://t.co/LRuKuquzYx",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SkypeintheClassroom",
+					"indices": [
+						10,
+						30
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						65,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LRuKuquzYx",
+					"expanded_url": "https://twitter.com/i/web/status/796440984460652544",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8277,
+			"friends_count": 3652,
+			"listed_count": 441,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12958,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13244,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 796427141474906100,
+		"quoted_status_id_str": "796427141474906114",
+		"quoted_status": {
+			"created_at": "Wed Nov 09 19:00:02 +0000 2016",
+			"id": 796427141474906100,
+			"id_str": "796427141474906114",
+			"text": "Save the date! Our next #MSFTEduChat TweetMeet is 11/15 with our very own #SkypeMT @mrdearybury1 who will discuss… https://t.co/M0xr8huxoJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							24,
+							36
+						]
+					},
+					{
+						"text": "SkypeMT",
+						"indices": [
+							74,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrdearybury1",
+						"name": "Jed Dearybury",
+						"id": 17188651,
+						"id_str": "17188651",
+						"indices": [
+							83,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/M0xr8huxoJ",
+						"expanded_url": "https://twitter.com/i/web/status/796427141474906114",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 214027732,
+				"id_str": "214027732",
+				"name": "Skype Classroom",
+				"screen_name": "SkypeClassroom",
+				"location": "Everywhere",
+				"description": "Skype in the Classroom is a free global community of teachers who are working together to create inspiring Skype lessons. @ or DM us anytime with your feedback.",
+				"url": "https://t.co/euSfsFEu8D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/euSfsFEu8D",
+								"expanded_url": "http://education.microsoft.com/skypeintheclassroom",
+								"display_url": "education.microsoft.com/skypeintheclas…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 96590,
+				"friends_count": 8539,
+				"listed_count": 1475,
+				"created_at": "Wed Nov 10 11:32:30 +0000 2010",
+				"favourites_count": 16948,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21377,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "25AFF0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/170155748/Twitter_background_people_1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/170155748/Twitter_background_people_1.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793199427980668928/QgUXKYkq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793199427980668928/QgUXKYkq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/214027732/1418915029",
+				"profile_link_color": "00B0F0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAF1FA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 09 18:29:47 +0000 2016",
 		"id": 796419530037731300,
 		"id_str": "796419530037731329",
