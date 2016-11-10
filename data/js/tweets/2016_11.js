@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 14:53:31 +0000 2016",
+		"id": 796727494632243200,
+		"id_str": "796727494632243200",
+		"text": "Online webinar about #OneNote on Monday Nov 21\nby #MIEExpert @BannonTOSA and @STANEKKristie https://t.co/buKULyNVtJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BannonTOSA",
+					"name": "Emily Bannon",
+					"id": 1937940493,
+					"id_str": "1937940493",
+					"indices": [
+						61,
+						72
+					]
+				},
+				{
+					"screen_name": "STANEKKristie",
+					"name": "Kristie STANEK",
+					"id": 1504269176,
+					"id_str": "1504269176",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/buKULyNVtJ",
+					"expanded_url": "https://twitter.com/bannontosa/status/796578898783834112",
+					"display_url": "twitter.com/bannontosa/sta…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8320,
+			"friends_count": 3653,
+			"listed_count": 442,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 12982,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13251,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 796578898783834100,
+		"quoted_status_id_str": "796578898783834112",
+		"quoted_status": {
+			"created_at": "Thu Nov 10 05:03:03 +0000 2016",
+			"id": 796578898783834100,
+			"id_str": "796578898783834112",
+			"text": "Thankful for OneNote! Join #MIEExperts on 11/21 to learn about 10 fav OneNote features. Details @ https://t.co/MEAyCmOEF2 @STANEKKristie",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExperts",
+						"indices": [
+							27,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "STANEKKristie",
+						"name": "Kristie STANEK",
+						"id": 1504269176,
+						"id_str": "1504269176",
+						"indices": [
+							122,
+							136
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MEAyCmOEF2",
+						"expanded_url": "http://bit.ly/Thankful4OneNote",
+						"display_url": "bit.ly/Thankful4OneNo…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1937940493,
+				"id_str": "1937940493",
+				"name": "Emily Bannon",
+				"screen_name": "BannonTOSA",
+				"location": "Tacoma, WA, USA",
+				"description": "Instructional Technology Facilitator, Tacoma Public Schools, WA Teacher Trainer",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150,
+				"friends_count": 37,
+				"listed_count": 20,
+				"created_at": "Sat Oct 05 15:06:00 +0000 2013",
+				"favourites_count": 136,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 164,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/719988049602457600/rY8USQ38_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/719988049602457600/rY8USQ38_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 10 14:09:45 +0000 2016",
 		"id": 796716476996710400,
 		"id_str": "796716476996710400",
