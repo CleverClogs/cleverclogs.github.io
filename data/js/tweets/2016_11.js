@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 04:29:01 +0000 2016",
+		"id": 796932722342170600,
+		"id_str": "796932722342170624",
+		"text": "Passionate way to describe the value of Microsoft #OneNote\ncc @OneNoteEDU @LBayne @arbar13 @ShapScott https://t.co/8Wvi15WaYA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						62,
+						73
+					]
+				},
+				{
+					"screen_name": "LBayne",
+					"name": "LBayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"screen_name": "arbar13",
+					"name": "Ari Schorr",
+					"id": 36726617,
+					"id_str": "36726617",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"screen_name": "shapscott",
+					"name": "(((Scott Shapiro)))",
+					"id": 241194422,
+					"id_str": "241194422",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8Wvi15WaYA",
+					"expanded_url": "https://twitter.com/c_bjellekjaer/status/796837714217893888",
+					"display_url": "twitter.com/c_bjellekjaer/…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8368,
+			"friends_count": 3657,
+			"listed_count": 443,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13005,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 796837714217893900,
+		"quoted_status_id_str": "796837714217893888",
+		"quoted_status": {
+			"created_at": "Thu Nov 10 22:11:30 +0000 2016",
+			"id": 796837714217893900,
+			"id_str": "796837714217893888",
+			"text": "The answer is OneNote but I forgot the question?! #💜 #love #OneNote #Office365 #MIEExpert #msftschool #MSFTEDU… https://t.co/28UciQGkal",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "love",
+						"indices": [
+							53,
+							58
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							59,
+							67
+						]
+					},
+					{
+						"text": "Office365",
+						"indices": [
+							68,
+							78
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							79,
+							89
+						]
+					},
+					{
+						"text": "msftschool",
+						"indices": [
+							90,
+							101
+						]
+					},
+					{
+						"text": "MSFTEDU",
+						"indices": [
+							102,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/28UciQGkal",
+						"expanded_url": "https://twitter.com/i/web/status/796837714217893888",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3131072770,
+				"id_str": "3131072770",
+				"name": "Caroline Matthiassen",
+				"screen_name": "C_Bjellekjaer",
+				"location": "Denmark",
+				"description": "Teacher at Skt Josefs Skole - Science talents, Physical education, English(ESL), Mathematics, Technology. #MIEExpert & #SurfaceExpert co-owner @isen_praktikant",
+				"url": "https://t.co/SgEw3TQeAv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SgEw3TQeAv",
+								"expanded_url": "http://www.isenogpraktikanten.com",
+								"display_url": "isenogpraktikanten.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25,
+				"friends_count": 83,
+				"listed_count": 5,
+				"created_at": "Wed Apr 01 12:38:53 +0000 2015",
+				"favourites_count": 16,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27,
+				"lang": "da",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/792016211588608001/AHm5vDi9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/792016211588608001/AHm5vDi9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3131072770/1475247307",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 10 22:33:54 +0000 2016",
 		"id": 796843352809504800,
 		"id_str": "796843352809504768",
