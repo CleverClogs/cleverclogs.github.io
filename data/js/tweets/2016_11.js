@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 15 10:24:06 +0000 2016",
+		"id": 798471631454793700,
+		"id_str": "798471631454793728",
+		"text": "Nice picture by @Melinda__Reed of students learning all about #OneNote. The version at hand seems to be OneNote Onl… https://t.co/ZbfA99tOE3",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Melinda__Reed",
+					"name": "TechKnowClassroom",
+					"id": 368438896,
+					"id_str": "368438896",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZbfA99tOE3",
+					"expanded_url": "https://twitter.com/i/web/status/798471631454793728",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8515,
+			"friends_count": 3680,
+			"listed_count": 448,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13104,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 798255547296325600,
+		"quoted_status_id_str": "798255547296325632",
+		"quoted_status": {
+			"created_at": "Mon Nov 14 20:05:28 +0000 2016",
+			"id": 798255547296325600,
+			"id_str": "798255547296325632",
+			"text": "Having a great day teaching OneNote to 7th Graders!  And the verdict is in, they love it!!  @OneNoteC @OMS_Chargers https://t.co/eDedO6L1sI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							92,
+							101
+						]
+					},
+					{
+						"screen_name": "OMS_Chargers",
+						"name": "Oakland Middle",
+						"id": 1172266339,
+						"id_str": "1172266339",
+						"indices": [
+							102,
+							115
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 798255511737090000,
+						"id_str": "798255511737090052",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CxP5KJkWQAQlnqJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxP5KJkWQAQlnqJ.jpg",
+						"url": "https://t.co/eDedO6L1sI",
+						"display_url": "pic.twitter.com/eDedO6L1sI",
+						"expanded_url": "https://twitter.com/Melinda__Reed/status/798255547296325632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798255511737090000,
+						"id_str": "798255511737090052",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CxP5KJkWQAQlnqJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxP5KJkWQAQlnqJ.jpg",
+						"url": "https://t.co/eDedO6L1sI",
+						"display_url": "pic.twitter.com/eDedO6L1sI",
+						"expanded_url": "https://twitter.com/Melinda__Reed/status/798255547296325632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 368438896,
+				"id_str": "368438896",
+				"name": "TechKnowClassroom",
+				"screen_name": "Melinda__Reed",
+				"location": "Murfreesboro, Tennessee",
+				"description": "Instructional Technology Coach, Microsoft Innovative Teacher Trainer, Intel Teach to the Future Master Teacher, Edmodo Certified Trainer",
+				"url": "http://t.co/RYh92G4HQ4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RYh92G4HQ4",
+								"expanded_url": "http://on.fb.me/1oNt5r4",
+								"display_url": "on.fb.me/1oNt5r4",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 237,
+				"friends_count": 264,
+				"listed_count": 5,
+				"created_at": "Mon Sep 05 16:55:38 +0000 2011",
+				"favourites_count": 44,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 254,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1645630584/Melinda_Reed_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1645630584/Melinda_Reed_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/368438896/1398792881",
+				"profile_link_color": "7A0A29",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 15 10:21:26 +0000 2016",
+		"id": 798470959896395800,
+		"id_str": "798470959896395776",
+		"text": "@brantb The add-ins I refer to are Windows-only, Brant: Onetastic and Gem for OneNote.\nhttps://t.co/tC7nisJXjg and https://t.co/s8UfmsY6e4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brantb",
+					"name": "Brant",
+					"id": 13726622,
+					"id_str": "13726622",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tC7nisJXjg",
+					"expanded_url": "http://getonetastic.com",
+					"display_url": "getonetastic.com",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/s8UfmsY6e4",
+					"expanded_url": "http://onenotegem.com",
+					"display_url": "onenotegem.com",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 798310337728675800,
+		"in_reply_to_status_id_str": "798310337728675840",
+		"in_reply_to_user_id": 13726622,
+		"in_reply_to_user_id_str": "13726622",
+		"in_reply_to_screen_name": "brantb",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8515,
+			"friends_count": 3680,
+			"listed_count": 448,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13104,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 15 01:00:07 +0000 2016",
 		"id": 798329699214577700,
 		"id_str": "798329699214577664",
