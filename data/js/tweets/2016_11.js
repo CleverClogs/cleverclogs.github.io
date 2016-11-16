@@ -1,6 +1,540 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 16 01:40:58 +0000 2016",
+		"id": 798702370553217000,
+		"id_str": "798702370553217025",
+		"text": "RT @mstranslator: Try and compare our new @MSTranslator #neuralnetwork translation at https://t.co/SH3ekaBbzL https://t.co/L2pwPAJdAR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "neuralnetwork",
+					"indices": [
+						56,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mstranslator",
+					"name": "Microsoft Translator",
+					"id": 77333869,
+					"id_str": "77333869",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "mstranslator",
+					"name": "Microsoft Translator",
+					"id": 77333869,
+					"id_str": "77333869",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SH3ekaBbzL",
+					"expanded_url": "http://translator.microsoft.com/neural",
+					"display_url": "translator.microsoft.com/neural",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 798695633116794900,
+					"id_str": "798695633116794880",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/CxWJcleVEAAfzB_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxWJcleVEAAfzB_.jpg",
+					"url": "https://t.co/L2pwPAJdAR",
+					"display_url": "pic.twitter.com/L2pwPAJdAR",
+					"expanded_url": "https://twitter.com/mstranslator/status/798695707288825856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 326,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1904,
+							"h": 913,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 575,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798695707288825900,
+					"source_status_id_str": "798695707288825856",
+					"source_user_id": 77333869,
+					"source_user_id_str": "77333869"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 798695633116794900,
+					"id_str": "798695633116794880",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/CxWJcleVEAAfzB_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxWJcleVEAAfzB_.jpg",
+					"url": "https://t.co/L2pwPAJdAR",
+					"display_url": "pic.twitter.com/L2pwPAJdAR",
+					"expanded_url": "https://twitter.com/mstranslator/status/798695707288825856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 326,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1904,
+							"h": 913,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 575,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798695707288825900,
+					"source_status_id_str": "798695707288825856",
+					"source_user_id": 77333869,
+					"source_user_id_str": "77333869"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8536,
+			"friends_count": 3681,
+			"listed_count": 449,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13135,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 01:14:30 +0000 2016",
+			"id": 798695707288825900,
+			"id_str": "798695707288825856",
+			"text": "Try and compare our new @MSTranslator #neuralnetwork translation at https://t.co/SH3ekaBbzL https://t.co/L2pwPAJdAR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "neuralnetwork",
+						"indices": [
+							38,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mstranslator",
+						"name": "Microsoft Translator",
+						"id": 77333869,
+						"id_str": "77333869",
+						"indices": [
+							24,
+							37
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SH3ekaBbzL",
+						"expanded_url": "http://translator.microsoft.com/neural",
+						"display_url": "translator.microsoft.com/neural",
+						"indices": [
+							68,
+							91
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 798695633116794900,
+						"id_str": "798695633116794880",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/CxWJcleVEAAfzB_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxWJcleVEAAfzB_.jpg",
+						"url": "https://t.co/L2pwPAJdAR",
+						"display_url": "pic.twitter.com/L2pwPAJdAR",
+						"expanded_url": "https://twitter.com/mstranslator/status/798695707288825856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 326,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1904,
+								"h": 913,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 575,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798695633116794900,
+						"id_str": "798695633116794880",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/CxWJcleVEAAfzB_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxWJcleVEAAfzB_.jpg",
+						"url": "https://t.co/L2pwPAJdAR",
+						"display_url": "pic.twitter.com/L2pwPAJdAR",
+						"expanded_url": "https://twitter.com/mstranslator/status/798695707288825856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 326,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1904,
+								"h": 913,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 575,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 77333869,
+				"id_str": "77333869",
+				"name": "Microsoft Translator",
+				"screen_name": "mstranslator",
+				"location": "Seattle, WA",
+				"description": "Microsoft's powerful automatic translation service powers translations in our phone and PC apps, Office, Bing, Skype, as well as on many partner apps and sites",
+				"url": "http://t.co/IKYEbvWi7U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IKYEbvWi7U",
+								"expanded_url": "http://www.microsoft.com/Translator",
+								"display_url": "microsoft.com/Translator",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27877,
+				"friends_count": 34,
+				"listed_count": 152,
+				"created_at": "Fri Sep 25 22:59:34 +0000 2009",
+				"favourites_count": 13,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 467,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F1F2C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/471712070358937600/xGHtE1xO.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/471712070358937600/xGHtE1xO.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/599262624996462592/N61dCOMr_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/599262624996462592/N61dCOMr_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/77333869/1470759690",
+				"profile_link_color": "226DC9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "8CCBEA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Nov 16 01:20:10 +0000 2016",
+		"id": 798697133624926200,
+		"id_str": "798697133624926208",
+		"text": "Be inspired by technology enthusiast @PaperlessDA, who's on a mission to eliminate paper largely thanks to #OneNote… https://t.co/C2SIMfuIUA",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PaperlessDA",
+					"name": "Luigi V. Monteleone",
+					"id": 3619418713,
+					"id_str": "3619418713",
+					"indices": [
+						37,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C2SIMfuIUA",
+					"expanded_url": "https://twitter.com/i/web/status/798697133624926208",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8536,
+			"friends_count": 3681,
+			"listed_count": 449,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13135,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 16 01:02:15 +0000 2016",
 		"id": 798692623162769400,
 		"id_str": "798692623162769408",
