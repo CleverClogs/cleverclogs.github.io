@@ -1,6 +1,511 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 15:42:39 +0000 2016",
+		"id": 802538061972312000,
+		"id_str": "802538061972312069",
+		"text": "RT @arbar13: Looks like all the the things @LBayne @OneNoteC @Microsoft_EDU @OneNoteEDU are doing for educators like #MIeexpert. #SkypeaTho…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIeexpert",
+					"indices": [
+						117,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arbar13",
+					"name": "Ari Schorr",
+					"id": 36726617,
+					"id_str": "36726617",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "LBayne",
+					"name": "LBayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "Microsoft_EDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8747,
+			"friends_count": 3725,
+			"listed_count": 457,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13339,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13543,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 26 15:36:49 +0000 2016",
+			"id": 802536596004163600,
+			"id_str": "802536596004163584",
+			"text": "Looks like all the the things @LBayne @OneNoteC @Microsoft_EDU @OneNoteEDU are doing for educators like #MIeexpert.… https://t.co/8OwDUcsmtQ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIeexpert",
+						"indices": [
+							104,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LBayne",
+						"name": "LBayne",
+						"id": 18954505,
+						"id_str": "18954505",
+						"indices": [
+							30,
+							37
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							38,
+							47
+						]
+					},
+					{
+						"screen_name": "Microsoft_EDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							48,
+							62
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							63,
+							74
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8OwDUcsmtQ",
+						"expanded_url": "https://twitter.com/i/web/status/802536596004163584",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36726617,
+				"id_str": "36726617",
+				"name": "Ari Schorr",
+				"screen_name": "arbar13",
+				"location": "Seattle, WA",
+				"description": "Education Product Marketing & OneNote Avenger at Microsoft, Michigan grad, and long distance runner",
+				"url": "https://t.co/p6eConkcqA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p6eConkcqA",
+								"expanded_url": "http://blogs.office.com/education",
+								"display_url": "blogs.office.com/education",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1900,
+				"friends_count": 1461,
+				"listed_count": 178,
+				"created_at": "Thu Apr 30 17:58:38 +0000 2009",
+				"favourites_count": 3152,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3753,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776145850862936064/RjP1e6pM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776145850862936064/RjP1e6pM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36726617/1422217748",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 802452280599453700,
+			"quoted_status_id_str": "802452280599453696",
+			"quoted_status": {
+				"created_at": "Sat Nov 26 10:01:47 +0000 2016",
+				"id": 802452280599453700,
+				"id_str": "802452280599453696",
+				"text": "How you too can become a 'Connected Educator'\n\n#satchat #leadupchat\n\nhttps://t.co/swQl43cWvN",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "satchat",
+							"indices": [
+								47,
+								55
+							]
+						},
+						{
+							"text": "leadupchat",
+							"indices": [
+								56,
+								67
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 701028624594575400,
+							"id_str": "701028624594575361",
+							"indices": [
+								69,
+								92
+							],
+							"media_url": "http://pbs.twimg.com/media/CbqN0eJXIAEUusT.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CbqN0eJXIAEUusT.jpg",
+							"url": "https://t.co/swQl43cWvN",
+							"display_url": "pic.twitter.com/swQl43cWvN",
+							"expanded_url": "http://twitter.com/urban_teacher/status/701028647260573696/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 701028647260573700,
+							"source_status_id_str": "701028647260573696",
+							"source_user_id": 218179230,
+							"source_user_id_str": "218179230"
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 701028624594575400,
+							"id_str": "701028624594575361",
+							"indices": [
+								69,
+								92
+							],
+							"media_url": "http://pbs.twimg.com/media/CbqN0eJXIAEUusT.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CbqN0eJXIAEUusT.jpg",
+							"url": "https://t.co/swQl43cWvN",
+							"display_url": "pic.twitter.com/swQl43cWvN",
+							"expanded_url": "http://twitter.com/urban_teacher/status/701028647260573696/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 701028647260573700,
+							"source_status_id_str": "701028647260573696",
+							"source_user_id": 218179230,
+							"source_user_id_str": "218179230"
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 218179230,
+					"id_str": "218179230",
+					"name": "Urban Teacher",
+					"screen_name": "urban_teacher",
+					"location": "London",
+					"description": "ICT Teacher | Ed-Tech Expert | Start-Up Mentor | MA in Education | @LFC FAN |\nSubscribe: https://t.co/p212a6r2YG",
+					"url": "https://t.co/P3UPy6Amv3",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/P3UPy6Amv3",
+									"expanded_url": "http://urbanteacher.co.uk",
+									"display_url": "urbanteacher.co.uk",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/p212a6r2YG",
+									"expanded_url": "https://www.youtube.com/channel/UC8b-unRVRbkS3OBOWHtItIA",
+									"display_url": "youtube.com/channel/UC8b-u…",
+									"indices": [
+										89,
+										112
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 21327,
+					"friends_count": 519,
+					"listed_count": 967,
+					"created_at": "Sun Nov 21 16:58:46 +0000 2010",
+					"favourites_count": 8993,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 18132,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/711212783426248704/oMI8OGtX_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/711212783426248704/oMI8OGtX_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/218179230/1439998413",
+					"profile_link_color": "FFA70F",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 802452280599453700,
+		"quoted_status_id_str": "802452280599453696",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 26 15:05:18 +0000 2016",
 		"id": 802528664474652700,
 		"id_str": "802528664474652672",
