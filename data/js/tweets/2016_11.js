@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 15:05:18 +0000 2016",
+		"id": 802528664474652700,
+		"id_str": "802528664474652672",
+		"text": "Christmas time becomes a lot easier to manage with Microsoft #OneNote check lists. Bonus: you can reuse them next y… https://t.co/YMuDYONEdr",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YMuDYONEdr",
+					"expanded_url": "https://twitter.com/i/web/status/802528664474652672",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8747,
+			"friends_count": 3725,
+			"listed_count": 457,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13339,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 802523495360069600,
+		"quoted_status_id_str": "802523495360069632",
+		"quoted_status": {
+			"created_at": "Sat Nov 26 14:44:46 +0000 2016",
+			"id": 802523495360069600,
+			"id_str": "802523495360069632",
+			"text": "#Weihnachtszeit mit #OneNote - macht die #Digitalisierung denn vor gar nichts halt? https://t.co/d8Ca24wD13 https://t.co/dAdzxI4bsA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Weihnachtszeit",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							20,
+							28
+						]
+					},
+					{
+						"text": "Digitalisierung",
+						"indices": [
+							41,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d8Ca24wD13",
+						"expanded_url": "http://bit.ly/2gwQOAX",
+						"display_url": "bit.ly/2gwQOAX",
+						"indices": [
+							84,
+							107
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 802523486950400000,
+						"id_str": "802523486950400000",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMi3AOWIAA3mp9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMi3AOWIAA3mp9.jpg",
+						"url": "https://t.co/dAdzxI4bsA",
+						"display_url": "pic.twitter.com/dAdzxI4bsA",
+						"expanded_url": "https://twitter.com/DiCreWo/status/802523495360069632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 615,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1240,
+								"h": 635,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 802523486950400000,
+						"id_str": "802523486950400000",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMi3AOWIAA3mp9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMi3AOWIAA3mp9.jpg",
+						"url": "https://t.co/dAdzxI4bsA",
+						"display_url": "pic.twitter.com/dAdzxI4bsA",
+						"expanded_url": "https://twitter.com/DiCreWo/status/802523495360069632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 615,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1240,
+								"h": 635,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 763675243873460200,
+				"id_str": "763675243873460224",
+				"name": "Marvin Schlieker",
+				"screen_name": "DiCreWo",
+				"location": "Deutschland",
+				"description": "#Digitale #Arbeitswelt ist #neu für Dich? Hier findest Du #Tipps & #Tricks die Dir beim Einstieg in die neue Welt helfen! #Digitalisierung #Arbeit #Büro #Kaizen",
+				"url": "https://t.co/JAzeBJErRR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JAzeBJErRR",
+								"expanded_url": "http://www.dicrewo.de",
+								"display_url": "dicrewo.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 401,
+				"friends_count": 400,
+				"listed_count": 41,
+				"created_at": "Thu Aug 11 09:55:41 +0000 2016",
+				"favourites_count": 283,
+				"utc_offset": 3600,
+				"time_zone": "Berlin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 558,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/766746457223335936/dc3NmK5L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766746457223335936/dc3NmK5L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/763675243873460224/1470909814",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 26 13:42:26 +0000 2016",
 		"id": 802507809652936700,
 		"id_str": "802507809652936704",
