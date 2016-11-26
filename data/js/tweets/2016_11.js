@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 22:51:01 +0000 2016",
+		"id": 802645866708340700,
+		"id_str": "802645866708340736",
+		"text": "Sending warmest congratulations to top #OneNote in Education specialist #MIEExpert @SamuelMcNeill on being hired by… https://t.co/iCWBhDmUCM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samuelmcneill",
+					"name": "Sam McNeill",
+					"id": 89340013,
+					"id_str": "89340013",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iCWBhDmUCM",
+					"expanded_url": "https://twitter.com/i/web/status/802645866708340736",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8751,
+			"friends_count": 3726,
+			"listed_count": 458,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13341,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13550,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 801973286594756600,
+		"quoted_status_id_str": "801973286594756608",
+		"quoted_status": {
+			"created_at": "Fri Nov 25 02:18:26 +0000 2016",
+			"id": 801973286594756600,
+			"id_str": "801973286594756608",
+			"text": "Thank you St Andrew’s College. Five years have gone so fast. I’ve loved it all. Over and Out. #StAC #StAClife https://t.co/CSJbkzz7Pf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StAC",
+						"indices": [
+							94,
+							99
+						]
+					},
+					{
+						"text": "StAClife",
+						"indices": [
+							100,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 801973273957253100,
+						"id_str": "801973273957253120",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/CyEucZGUQAA5zpH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyEucZGUQAA5zpH.jpg",
+						"url": "https://t.co/CSJbkzz7Pf",
+						"display_url": "pic.twitter.com/CSJbkzz7Pf",
+						"expanded_url": "https://twitter.com/samuelmcneill/status/801973286594756608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 420,
+								"h": 213,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 213,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 213,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 801973273957253100,
+						"id_str": "801973273957253120",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/CyEucZGUQAA5zpH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyEucZGUQAA5zpH.jpg",
+						"url": "https://t.co/CSJbkzz7Pf",
+						"display_url": "pic.twitter.com/CSJbkzz7Pf",
+						"expanded_url": "https://twitter.com/samuelmcneill/status/801973286594756608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 420,
+								"h": 213,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 213,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 420,
+								"h": 213,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89340013,
+				"id_str": "89340013",
+				"name": "Sam McNeill",
+				"screen_name": "samuelmcneill",
+				"location": "New Zealand",
+				"description": "Solution Specialist Professional (Devices) with Microsoft",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1685,
+				"friends_count": 1578,
+				"listed_count": 236,
+				"created_at": "Thu Nov 12 01:34:27 +0000 2009",
+				"favourites_count": 2798,
+				"utc_offset": 46800,
+				"time_zone": "Wellington",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8053,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802308636550643716/1GUZfcVs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802308636550643716/1GUZfcVs_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01555f9864b98f5d",
+				"url": "https://api.twitter.com/1.1/geo/id/01555f9864b98f5d.json",
+				"place_type": "neighborhood",
+				"name": "Strowan",
+				"full_name": "Strowan, Christchurch City",
+				"country_code": "NZ",
+				"country": "New Zealand",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								172.598709,
+								-43.51514
+							],
+							[
+								172.620865,
+								-43.51514
+							],
+							[
+								172.620865,
+								-43.499776
+							],
+							[
+								172.598709,
+								-43.499776
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 26 22:09:59 +0000 2016",
 		"id": 802635538025115600,
 		"id_str": "802635538025115648",
