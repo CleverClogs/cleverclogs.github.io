@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 08:53:39 +0000 2016",
+		"id": 802797524834783200,
+		"id_str": "802797524834783232",
+		"text": "RT @sophiasurath: \"Teaching with \"Problem Based Learning\" (PBL)\n#MSFTEDU #MIEExpert #MIEThailand #sway #onenote #sophaimathbanrao\nhttps://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEDU",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "MIEThailand",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "sway",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "onenote",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "sophaimathbanrao",
+					"indices": [
+						112,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sophiasurath",
+					"name": "Sophia Esa",
+					"id": 704883390621753300,
+					"id_str": "704883390621753345",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8761,
+			"friends_count": 3725,
+			"listed_count": 458,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13345,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13552,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 27 07:34:01 +0000 2016",
+			"id": 802777483212771300,
+			"id_str": "802777483212771328",
+			"text": "\"Teaching with \"Problem Based Learning\" (PBL)\n#MSFTEDU #MIEExpert #MIEThailand #sway #onenote #sophaimathbanrao\nhttps://t.co/ESZ7cKOD9l",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEDU",
+						"indices": [
+							46,
+							54
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							55,
+							65
+						]
+					},
+					{
+						"text": "MIEThailand",
+						"indices": [
+							66,
+							78
+						]
+					},
+					{
+						"text": "sway",
+						"indices": [
+							79,
+							84
+						]
+					},
+					{
+						"text": "onenote",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"text": "sophaimathbanrao",
+						"indices": [
+							94,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ESZ7cKOD9l",
+						"expanded_url": "https://sway.com/QhM0faer5MQXADjz",
+						"display_url": "sway.com/QhM0faer5MQXAD…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 704883390621753300,
+				"id_str": "704883390621753345",
+				"name": "Sophia Esa",
+				"screen_name": "sophiasurath",
+				"location": "จ.สุราษฎร์ธานี, ประเทศไทย",
+				"description": "mathematic teacher Maharat2 school Thailand",
+				"url": "https://t.co/b6T2PVsSXx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b6T2PVsSXx",
+								"expanded_url": "http://www.facebook.com/sophia.jopy",
+								"display_url": "facebook.com/sophia.jopy",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101,
+				"friends_count": 185,
+				"listed_count": 13,
+				"created_at": "Wed Mar 02 04:17:51 +0000 2016",
+				"favourites_count": 181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 185,
+				"lang": "th",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793096853331906560/Jk3dEJbO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793096853331906560/Jk3dEJbO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/704883390621753345/1456905199",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 26 22:51:01 +0000 2016",
 		"id": 802645866708340700,
 		"id_str": "802645866708340736",
