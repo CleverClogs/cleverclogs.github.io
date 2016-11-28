@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 28 19:25:07 +0000 2016",
+		"id": 803318826100281300,
+		"id_str": "803318826100281344",
+		"text": "@joebelfiore Any chance she'll add #OneNote socks? These may take off as virally as the capes ;-)\ncc @ShapScott @arbar13 @MTholfsen",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joebelfiore",
+					"name": "joebelfiore",
+					"id": 16930986,
+					"id_str": "16930986",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "shapscott",
+					"name": "(((Scott Shapiro)))",
+					"id": 241194422,
+					"id_str": "241194422",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"screen_name": "arbar13",
+					"name": "Ari Schorr",
+					"id": 36726617,
+					"id_str": "36726617",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						121,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 803290169424150500,
+		"in_reply_to_status_id_str": "803290169424150528",
+		"in_reply_to_user_id": 16930986,
+		"in_reply_to_user_id_str": "16930986",
+		"in_reply_to_screen_name": "joebelfiore",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8793,
+			"friends_count": 3727,
+			"listed_count": 457,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13375,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13582,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 28 19:24:58 +0000 2016",
+		"id": 803318788594761700,
+		"id_str": "803318788594761729",
+		"text": "RT @wrenchey: Ss using  #sketchnotes &amp; #digitalinking with @surface   @OneNoteEDU   #TSTEMHS #surfaceexpert #MIEexpert #csforall #Processin…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sketchnotes",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"text": "digitalinking",
+					"indices": [
+						43,
+						57
+					]
+				},
+				{
+					"text": "TSTEMHS",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "surfaceexpert",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"text": "MIEexpert",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "csforall",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wrenchey",
+					"name": "wrenchey",
+					"id": 16595002,
+					"id_str": "16595002",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "surface",
+					"name": "Surface",
+					"id": 612076511,
+					"id_str": "612076511",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						74,
+						85
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8793,
+			"friends_count": 3727,
+			"listed_count": 457,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13375,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13582,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 28 19:16:27 +0000 2016",
+			"id": 803316642012794900,
+			"id_str": "803316642012794880",
+			"text": "Ss using  #sketchnotes &amp; #digitalinking with @surface   @OneNoteEDU   #TSTEMHS #surfaceexpert #MIEexpert #csforall… https://t.co/FpsP3JVKcR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sketchnotes",
+						"indices": [
+							10,
+							22
+						]
+					},
+					{
+						"text": "digitalinking",
+						"indices": [
+							29,
+							43
+						]
+					},
+					{
+						"text": "TSTEMHS",
+						"indices": [
+							74,
+							82
+						]
+					},
+					{
+						"text": "surfaceexpert",
+						"indices": [
+							83,
+							97
+						]
+					},
+					{
+						"text": "MIEexpert",
+						"indices": [
+							98,
+							108
+						]
+					},
+					{
+						"text": "csforall",
+						"indices": [
+							109,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "surface",
+						"name": "Surface",
+						"id": 612076511,
+						"id_str": "612076511",
+						"indices": [
+							49,
+							57
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							60,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FpsP3JVKcR",
+						"expanded_url": "https://twitter.com/i/web/status/803316642012794880",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16595002,
+				"id_str": "16595002",
+				"name": "wrenchey",
+				"screen_name": "wrenchey",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 420,
+				"friends_count": 528,
+				"listed_count": 94,
+				"created_at": "Sat Oct 04 20:35:50 +0000 2008",
+				"favourites_count": 1558,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1101,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757749592834269184/mDyvKPBo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757749592834269184/mDyvKPBo_normal.jpg",
+				"profile_link_color": "80AAFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7291a25672e0d4b1",
+				"url": "https://api.twitter.com/1.1/geo/id/7291a25672e0d4b1.json",
+				"place_type": "city",
+				"name": "Redmond",
+				"full_name": "Redmond, WA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.1649,
+								47.626845
+							],
+							[
+								-121.958642,
+								47.626845
+							],
+							[
+								-121.958642,
+								47.73078
+							],
+							[
+								-122.1649,
+								47.73078
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 28 19:13:23 +0000 2016",
 		"id": 803315872714649600,
 		"id_str": "803315872714649600",
