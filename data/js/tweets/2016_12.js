@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 04 18:43:12 +0000 2016",
+		"id": 805482603763662800,
+		"id_str": "805482603763662849",
+		"text": "Easily overlooked, but indeed Page Versions is a great feature in #OneNote 2016 for Windows. What's your… https://t.co/TcEWctTaeR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TcEWctTaeR",
+					"expanded_url": "https://twitter.com/i/web/status/805482603763662849",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8927,
+			"friends_count": 3744,
+			"listed_count": 460,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13461,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13690,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 805470957452296200,
+		"quoted_status_id_str": "805470957452296192",
+		"quoted_status": {
+			"created_at": "Sun Dec 04 17:56:55 +0000 2016",
+			"id": 805470957452296200,
+			"id_str": "805470957452296192",
+			"text": "@OneNoteC - Shared Notebooks - great feature - the ability to see revision history. https://t.co/XFjd82rdZK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 805470891052302300,
+						"id_str": "805470891052302336",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/Cy2bggIXAAA0kDm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cy2bggIXAAA0kDm.jpg",
+						"url": "https://t.co/XFjd82rdZK",
+						"display_url": "pic.twitter.com/XFjd82rdZK",
+						"expanded_url": "https://twitter.com/ITTrainAtQUB/status/805470957452296192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 381,
+								"h": 186,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 381,
+								"h": 186,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 381,
+								"h": 186,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 805470891052302300,
+						"id_str": "805470891052302336",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/Cy2bggIXAAA0kDm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cy2bggIXAAA0kDm.jpg",
+						"url": "https://t.co/XFjd82rdZK",
+						"display_url": "pic.twitter.com/XFjd82rdZK",
+						"expanded_url": "https://twitter.com/ITTrainAtQUB/status/805470957452296192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 381,
+								"h": 186,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 381,
+								"h": 186,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 381,
+								"h": 186,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2582768738,
+			"in_reply_to_user_id_str": "2582768738",
+			"in_reply_to_screen_name": "OneNoteC",
+			"user": {
+				"id": 557817732,
+				"id_str": "557817732",
+				"name": "IT Training at QUB",
+				"screen_name": "ITTrainAtQUB",
+				"location": "Belfast, Northern Ireland",
+				"description": "The IT Training and Assessment Unit offers training courses in IT and Multimedia Skills; training resources plus the European Computer Driving Licence.",
+				"url": "http://t.co/4Okr7HgBNv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/4Okr7HgBNv",
+								"expanded_url": "http://go.qub.ac.uk/ittraining",
+								"display_url": "go.qub.ac.uk/ittraining",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 830,
+				"friends_count": 662,
+				"listed_count": 32,
+				"created_at": "Thu Apr 19 13:57:47 +0000 2012",
+				"favourites_count": 352,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1728,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2266093829/t9uqoooo14kuwenpft37_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2266093829/t9uqoooo14kuwenpft37_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/557817732/1444665677",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 04 17:34:24 +0000 2016",
 		"id": 805465288712089600,
 		"id_str": "805465288712089600",
