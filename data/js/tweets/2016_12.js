@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 04 22:12:57 +0000 2016",
+		"id": 805535388022480900,
+		"id_str": "805535388022480896",
+		"text": "Let's ask \n@LlewelynMorgan @MallyJohnsen @ReganWhite222 @mrzphd @LisaMPierre @NatBrusgaard @Lawrious… https://t.co/ZGNJfYgLQ1",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "llewelynmorgan",
+					"name": "Llewelyn Morgan",
+					"id": 430095044,
+					"id_str": "430095044",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "mallyjohnsen",
+					"name": "Mally Johnsen",
+					"id": 453127118,
+					"id_str": "453127118",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "ReganWhite222",
+					"name": "Regan White",
+					"id": 1661012485,
+					"id_str": "1661012485",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "mrzphd",
+					"name": "Michelle Zimmerman",
+					"id": 887144389,
+					"id_str": "887144389",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"screen_name": "LisaMPierre",
+					"name": "Lisa-Marie Pierre",
+					"id": 90325437,
+					"id_str": "90325437",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"screen_name": "natbrusgaard",
+					"name": "Nathalie Brusgaard",
+					"id": 3598154296,
+					"id_str": "3598154296",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"screen_name": "Lawrious",
+					"name": "Lawrence Bilton",
+					"id": 29704135,
+					"id_str": "29704135",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZGNJfYgLQ1",
+					"expanded_url": "https://twitter.com/i/web/status/805535388022480896",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8931,
+			"friends_count": 3745,
+			"listed_count": 460,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13462,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13696,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 805492192466915300,
+		"quoted_status_id_str": "805492192466915328",
+		"quoted_status": {
+			"created_at": "Sun Dec 04 19:21:18 +0000 2016",
+			"id": 805492192466915300,
+			"id_str": "805492192466915328",
+			"text": "Trying out OneNote for PhD organisational purposes. Do you use it? What's yer top tips?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 826003231,
+				"id_str": "826003231",
+				"name": "Zara Bain",
+				"screen_name": "zaranosaur",
+				"location": "",
+				"description": "making arguments, breaking arguments • (she/her) • midwifing philosophers @falasafaz • voicing postgrad disability in highered @PhDisabled (RT=/=endorsement)",
+				"url": "https://t.co/PIhs6noE1P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PIhs6noE1P",
+								"expanded_url": "http://phdisabled.wordpress.com",
+								"display_url": "phdisabled.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3975,
+				"friends_count": 2851,
+				"listed_count": 0,
+				"created_at": "Sat Sep 15 21:37:11 +0000 2012",
+				"favourites_count": 58510,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 121732,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793821318236037121/5K4j7X43_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793821318236037121/5K4j7X43_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/826003231/1474999705",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 04 20:55:03 +0000 2016",
 		"id": 805515785007407100,
 		"id_str": "805515785007407104",
