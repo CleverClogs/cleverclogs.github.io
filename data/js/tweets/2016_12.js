@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 21:37:16 +0000 2016",
+		"id": 806251182922600400,
+		"id_str": "806251182922600448",
+		"text": "RT @thurrott: Microsoft’s Cache App Is an Internet Clipboard for Everything - by @bdsams https://t.co/Y0UIR8EoBz https://t.co/UZuQMPvlQy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thurrott",
+					"name": "Paul Thurrott",
+					"id": 14964767,
+					"id_str": "14964767",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "bdsams",
+					"name": "Brad Sams",
+					"id": 102800191,
+					"id_str": "102800191",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y0UIR8EoBz",
+					"expanded_url": "https://www.thurrott.com/windows/windows-10/77343/microsofts-cache-app-internet-clipboard-everything",
+					"display_url": "thurrott.com/windows/window…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 768075184284794900,
+					"id_str": "768075184284794881",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/CqjAT4gWgAEMtGL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqjAT4gWgAEMtGL.jpg",
+					"url": "https://t.co/UZuQMPvlQy",
+					"display_url": "pic.twitter.com/UZuQMPvlQy",
+					"expanded_url": "https://twitter.com/thurrott/status/768075185798909952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 575,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768075185798910000,
+					"source_status_id_str": "768075185798909952",
+					"source_user_id": 14964767,
+					"source_user_id_str": "14964767"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 768075184284794900,
+					"id_str": "768075184284794881",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/CqjAT4gWgAEMtGL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CqjAT4gWgAEMtGL.jpg",
+					"url": "https://t.co/UZuQMPvlQy",
+					"display_url": "pic.twitter.com/UZuQMPvlQy",
+					"expanded_url": "https://twitter.com/thurrott/status/768075185798909952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 575,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 768075185798910000,
+					"source_status_id_str": "768075185798909952",
+					"source_user_id": 14964767,
+					"source_user_id_str": "14964767"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8959,
+			"friends_count": 3751,
+			"listed_count": 467,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13513,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13749,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 23 13:19:29 +0000 2016",
+			"id": 768075185798910000,
+			"id_str": "768075185798909952",
+			"text": "Microsoft’s Cache App Is an Internet Clipboard for Everything - by @bdsams https://t.co/Y0UIR8EoBz https://t.co/UZuQMPvlQy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bdsams",
+						"name": "Brad Sams",
+						"id": 102800191,
+						"id_str": "102800191",
+						"indices": [
+							67,
+							74
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Y0UIR8EoBz",
+						"expanded_url": "https://www.thurrott.com/windows/windows-10/77343/microsofts-cache-app-internet-clipboard-everything",
+						"display_url": "thurrott.com/windows/window…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 768075184284794900,
+						"id_str": "768075184284794881",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/CqjAT4gWgAEMtGL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqjAT4gWgAEMtGL.jpg",
+						"url": "https://t.co/UZuQMPvlQy",
+						"display_url": "pic.twitter.com/UZuQMPvlQy",
+						"expanded_url": "https://twitter.com/thurrott/status/768075185798909952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 575,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 575,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 768075184284794900,
+						"id_str": "768075184284794881",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/CqjAT4gWgAEMtGL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqjAT4gWgAEMtGL.jpg",
+						"url": "https://t.co/UZuQMPvlQy",
+						"display_url": "pic.twitter.com/UZuQMPvlQy",
+						"expanded_url": "https://twitter.com/thurrott/status/768075185798909952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 575,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 575,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.thurrott.com\" rel=\"nofollow\">Thurrott Dot Com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14964767,
+				"id_str": "14964767",
+				"name": "Paul Thurrott",
+				"screen_name": "thurrott",
+				"location": "Dedham, MA",
+				"description": "Paul Thurrott is an award-winning technology journalist and blogger and the author of over 25 books. He is the majordomo at http://t.co/DpuqUugruE.",
+				"url": "http://t.co/HTMQCSc0Np",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HTMQCSc0Np",
+								"expanded_url": "http://www.thurrott.com",
+								"display_url": "thurrott.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/DpuqUugruE",
+								"expanded_url": "http://Thurrott.com",
+								"display_url": "Thurrott.com",
+								"indices": [
+									124,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 115189,
+				"friends_count": 91,
+				"listed_count": 6429,
+				"created_at": "Sat May 31 17:47:07 +0000 2008",
+				"favourites_count": 20,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 82926,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/718435052779151360/s1niU-q7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/718435052779151360/s1niU-q7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14964767/1444060559",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 06 19:42:24 +0000 2016",
 		"id": 806222277478072300,
 		"id_str": "806222277478072322",
