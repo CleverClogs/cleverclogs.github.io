@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 01:38:59 +0000 2016",
+		"id": 806312015421669400,
+		"id_str": "806312015421669377",
+		"text": "RT @zapier: OneNote is so powerful. If you haven't tried it yet, take a look: https://t.co/4BSmVoWui2 https://t.co/M2yhALtFZ0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zapier",
+					"name": "Zapier",
+					"id": 383012058,
+					"id_str": "383012058",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4BSmVoWui2",
+					"expanded_url": "http://zpr.io/PtB5r",
+					"display_url": "zpr.io/PtB5r",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 806107677512364000,
+					"id_str": "806107677512364032",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Cy_eqWjW8AA8dYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cy_eqWjW8AA8dYQ.jpg",
+					"url": "https://t.co/M2yhALtFZ0",
+					"display_url": "pic.twitter.com/M2yhALtFZ0",
+					"expanded_url": "https://twitter.com/zapier/status/806107680532107264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 222,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1821,
+							"h": 595,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 392,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 806107680532107300,
+					"source_status_id_str": "806107680532107264",
+					"source_user_id": 383012058,
+					"source_user_id_str": "383012058"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 806107677512364000,
+					"id_str": "806107677512364032",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Cy_eqWjW8AA8dYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cy_eqWjW8AA8dYQ.jpg",
+					"url": "https://t.co/M2yhALtFZ0",
+					"display_url": "pic.twitter.com/M2yhALtFZ0",
+					"expanded_url": "https://twitter.com/zapier/status/806107680532107264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 222,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1821,
+							"h": 595,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 392,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 806107680532107300,
+					"source_status_id_str": "806107680532107264",
+					"source_user_id": 383012058,
+					"source_user_id_str": "383012058"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8956,
+			"friends_count": 3751,
+			"listed_count": 467,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13532,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13769,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 06 12:07:02 +0000 2016",
+			"id": 806107680532107300,
+			"id_str": "806107680532107264",
+			"text": "OneNote is so powerful. If you haven't tried it yet, take a look: https://t.co/4BSmVoWui2 https://t.co/M2yhALtFZ0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4BSmVoWui2",
+						"expanded_url": "http://zpr.io/PtB5r",
+						"display_url": "zpr.io/PtB5r",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 806107677512364000,
+						"id_str": "806107677512364032",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/Cy_eqWjW8AA8dYQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cy_eqWjW8AA8dYQ.jpg",
+						"url": "https://t.co/M2yhALtFZ0",
+						"display_url": "pic.twitter.com/M2yhALtFZ0",
+						"expanded_url": "https://twitter.com/zapier/status/806107680532107264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 222,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1821,
+								"h": 595,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 806107677512364000,
+						"id_str": "806107677512364032",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/Cy_eqWjW8AA8dYQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cy_eqWjW8AA8dYQ.jpg",
+						"url": "https://t.co/M2yhALtFZ0",
+						"display_url": "pic.twitter.com/M2yhALtFZ0",
+						"expanded_url": "https://twitter.com/zapier/status/806107680532107264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 222,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1821,
+								"h": 595,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 383012058,
+				"id_str": "383012058",
+				"name": "Zapier",
+				"screen_name": "zapier",
+				"location": "Mountain View, California",
+				"description": "Zapier gives you internet superpowers. Connect your apps and automate tasks. For support email contact@zapier.com.",
+				"url": "http://t.co/LPLg8L09vm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LPLg8L09vm",
+								"expanded_url": "http://zapier.com",
+								"display_url": "zapier.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23251,
+				"friends_count": 337,
+				"listed_count": 1152,
+				"created_at": "Sat Oct 01 03:18:15 +0000 2011",
+				"favourites_count": 10793,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15671,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/339296043/pattern.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/339296043/pattern.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/689159044284690432/TRWX8JsA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/689159044284690432/TRWX8JsA_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/383012058/1385018189",
+				"profile_link_color": "4199AD",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 07 01:03:43 +0000 2016",
 		"id": 806303140572262400,
 		"id_str": "806303140572262402",
