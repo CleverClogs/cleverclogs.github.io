@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 22:13:00 +0000 2016",
+		"id": 806622563703095300,
+		"id_str": "806622563703095300",
+		"text": "The English version of @ZelfStudie's much-anticipated book #OneNote 2016 and 2013 now available for pre-order:… https://t.co/9qdi5x8Nka",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9qdi5x8Nka",
+					"expanded_url": "https://twitter.com/i/web/status/806622563703095300",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8960,
+			"friends_count": 3753,
+			"listed_count": 466,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13542,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13776,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 806612066337509400,
+		"quoted_status_id_str": "806612066337509389",
+		"quoted_status": {
+			"created_at": "Wed Dec 07 21:31:17 +0000 2016",
+			"id": 806612066337509400,
+			"id_str": "806612066337509389",
+			"text": "Book #OneNote about to be published. No book without words of appreciation. https://t.co/xNzMWF1aCI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							5,
+							13
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 806612033324060700,
+						"id_str": "806612033324060672",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/CzGpXuXWEAAloqi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzGpXuXWEAAloqi.jpg",
+						"url": "https://t.co/xNzMWF1aCI",
+						"display_url": "pic.twitter.com/xNzMWF1aCI",
+						"expanded_url": "https://twitter.com/zelfstudie/status/806612066337509389/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1774,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 589,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1039,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 806612033324060700,
+						"id_str": "806612033324060672",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/CzGpXuXWEAAloqi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzGpXuXWEAAloqi.jpg",
+						"url": "https://t.co/xNzMWF1aCI",
+						"display_url": "pic.twitter.com/xNzMWF1aCI",
+						"expanded_url": "https://twitter.com/zelfstudie/status/806612066337509389/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1774,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 589,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1039,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 806612033328283600,
+						"id_str": "806612033328283648",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/CzGpXuYWgAAjKNQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzGpXuYWgAAjKNQ.jpg",
+						"url": "https://t.co/xNzMWF1aCI",
+						"display_url": "pic.twitter.com/xNzMWF1aCI",
+						"expanded_url": "https://twitter.com/zelfstudie/status/806612066337509389/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 740,
+								"h": 872,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 577,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 740,
+								"h": 872,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149593681,
+				"id_str": "149593681",
+				"name": "Koen Timmers",
+				"screen_name": "zelfstudie",
+				"location": "Belgium",
+				"description": "Teaching Kakuma Refugees via Skype | Author | Speaker | Technology Enhanced Learning | Founder zelfstudie.be | Web designer | Microsoft Expert Educator Fellow",
+				"url": "https://t.co/Emjb0vRgpr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Emjb0vRgpr",
+								"expanded_url": "http://www.zelfstudie.be",
+								"display_url": "zelfstudie.be",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2204,
+				"friends_count": 1439,
+				"listed_count": 287,
+				"created_at": "Sat May 29 17:52:29 +0000 2010",
+				"favourites_count": 2939,
+				"utc_offset": 3600,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4691,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D0D0D0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/375133972/bg-twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/375133972/bg-twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762647810303025160/YS-omUnp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762647810303025160/YS-omUnp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1481039659",
+				"profile_link_color": "D9650D",
+				"profile_sidebar_border_color": "0D0202",
+				"profile_sidebar_fill_color": "EDA426",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "86592634e53a5e3f",
+				"url": "https://api.twitter.com/1.1/geo/id/86592634e53a5e3f.json",
+				"place_type": "city",
+				"name": "Hasselt",
+				"full_name": "Hasselt, Belgium",
+				"country_code": "BE",
+				"country": "Belgium",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								5.2121062,
+								50.8677279
+							],
+							[
+								5.4145591,
+								50.8677279
+							],
+							[
+								5.4145591,
+								50.9815265
+							],
+							[
+								5.2121062,
+								50.9815265
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 07 21:06:13 +0000 2016",
 		"id": 806605758385311700,
 		"id_str": "806605758385311744",
