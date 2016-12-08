@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 12:36:06 +0000 2016",
+		"id": 806839770953424900,
+		"id_str": "806839770953424900",
+		"text": "Can someone please grab @LeoLaporte @Thurrott @MaryJoFoley by the hand and give them a decent intro in #OneNote… https://t.co/P2fBdR8dxP",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leolaporte",
+					"name": "Leo Laporte",
+					"id": 3829151,
+					"id_str": "3829151",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "thurrott",
+					"name": "Paul Thurrott",
+					"id": 14964767,
+					"id_str": "14964767",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "maryjofoley",
+					"name": "Mary Jo Foley",
+					"id": 49465463,
+					"id_str": "49465463",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P2fBdR8dxP",
+					"expanded_url": "https://twitter.com/i/web/status/806839770953424900",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8968,
+			"friends_count": 3755,
+			"listed_count": 465,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13547,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13778,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 806709523335577600,
+		"quoted_status_id_str": "806709523335577600",
+		"quoted_status": {
+			"created_at": "Thu Dec 08 03:58:32 +0000 2016",
+			"id": 806709523335577600,
+			"id_str": "806709523335577600",
+			"text": "watching @windowsweekly 495 Leo discovers #OneNote has #digital_ink who knew? https://t.co/AnlPuCXpnb #edtech 1/2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							42,
+							50
+						]
+					},
+					{
+						"text": "digital_ink",
+						"indices": [
+							55,
+							67
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							102,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "windowsweekly",
+						"name": "Windows Weekly",
+						"id": 17978179,
+						"id_str": "17978179",
+						"indices": [
+							9,
+							23
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AnlPuCXpnb",
+						"expanded_url": "https://youtu.be/cRUIaQJCtmw?t=1266",
+						"display_url": "youtu.be/cRUIaQJCtmw?t=…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15348616,
+				"id_str": "15348616",
+				"name": "Tom Grissom",
+				"screen_name": "tomgrissom",
+				"location": "Illinois",
+				"description": "Father, Educator, Thinker, Maker, Podcaster, Farmer, Co-founder edcampEIU, MIEExpert, Ph.D. Day Job: Growing Minds https://t.co/3BdK04V6H2",
+				"url": "http://t.co/BQMHLqzjG8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BQMHLqzjG8",
+								"expanded_url": "http://eiu.edu/itc",
+								"display_url": "eiu.edu/itc",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3BdK04V6H2",
+								"expanded_url": "https://docs.com/dr-grissom",
+								"display_url": "docs.com/dr-grissom",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2246,
+				"friends_count": 1881,
+				"listed_count": 358,
+				"created_at": "Tue Jul 08 01:20:29 +0000 2008",
+				"favourites_count": 12,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17883,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/561255864640630785/VSb1yh-8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/561255864640630785/VSb1yh-8_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 08 08:39:57 +0000 2016",
 		"id": 806780344317816800,
 		"id_str": "806780344317816832",
