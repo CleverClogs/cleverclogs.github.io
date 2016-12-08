@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 21:10:56 +0000 2016",
+		"id": 806969332064469000,
+		"id_str": "806969332064468993",
+		"text": "RT @mguhlin: 12 @Microsoft_EDU Holiday Creativity Gifts for Educators! via @tcea @mguhlin @diben |  #msftedu #MIEExpert #onenoteq #txed #ed…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "msftedu",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "onenoteq",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "txed",
+					"indices": [
+						130,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mguhlin",
+					"name": "Miguel Guhlin",
+					"id": 5700782,
+					"id_str": "5700782",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "Microsoft_EDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "TCEA",
+					"name": "TCEA",
+					"id": 44133359,
+					"id_str": "44133359",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"screen_name": "mguhlin",
+					"name": "Miguel Guhlin",
+					"id": 5700782,
+					"id_str": "5700782",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"screen_name": "diben",
+					"name": "Diana Benner",
+					"id": 20893740,
+					"id_str": "20893740",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8972,
+			"friends_count": 3756,
+			"listed_count": 465,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13548,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 08 20:48:11 +0000 2016",
+			"id": 806963607762255900,
+			"id_str": "806963607762255872",
+			"text": "12 @Microsoft_EDU Holiday Creativity Gifts for Educators! via @tcea @mguhlin @diben |  #msftedu #MIEExpert… https://t.co/TPOmiEVRyi",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "msftedu",
+						"indices": [
+							87,
+							95
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							96,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Microsoft_EDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							3,
+							17
+						]
+					},
+					{
+						"screen_name": "TCEA",
+						"name": "TCEA",
+						"id": 44133359,
+						"id_str": "44133359",
+						"indices": [
+							62,
+							67
+						]
+					},
+					{
+						"screen_name": "mguhlin",
+						"name": "Miguel Guhlin",
+						"id": 5700782,
+						"id_str": "5700782",
+						"indices": [
+							68,
+							76
+						]
+					},
+					{
+						"screen_name": "diben",
+						"name": "Diana Benner",
+						"id": 20893740,
+						"id_str": "20893740",
+						"indices": [
+							77,
+							83
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TPOmiEVRyi",
+						"expanded_url": "https://twitter.com/i/web/status/806963607762255872",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5700782,
+				"id_str": "5700782",
+				"name": "Miguel Guhlin",
+				"screen_name": "mguhlin",
+				"location": "Texas",
+				"description": "Sharing to connect, connecting to learn, learning to lead, leading to grow, growing to transform. GCT,GCI,GCA; MIET, MIEE, CCGA;M:EE See https://t.co/ZWtFw8ThVL",
+				"url": "https://t.co/WxBnLT6rzG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WxBnLT6rzG",
+								"expanded_url": "http://mguhlin.org",
+								"display_url": "mguhlin.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZWtFw8ThVL",
+								"expanded_url": "http://bit.ly/connectmg",
+								"display_url": "bit.ly/connectmg",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10961,
+				"friends_count": 11901,
+				"listed_count": 990,
+				"created_at": "Wed May 02 02:16:33 +0000 2007",
+				"favourites_count": 12479,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46803,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796856965649473537/daoBzQPI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796856965649473537/daoBzQPI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5700782/1479088313",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 08 20:19:44 +0000 2016",
+		"id": 806956448311812100,
+		"id_str": "806956448311812096",
+		"text": "@PieterCoree @rocvantwente @laurensvanlier @EduardLeusink Klinkt goed zeg! Is dat inclusief #OneNote Class notebook en de add-in, heren?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PieterCoree",
+					"name": "Pieter Coree",
+					"id": 54974914,
+					"id_str": "54974914",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "rocvantwente",
+					"name": "ROC van Twente",
+					"id": 116698816,
+					"id_str": "116698816",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "laurensvanlier",
+					"name": "Laurens van Lier",
+					"id": 39027169,
+					"id_str": "39027169",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "EduardLeusink",
+					"name": "Eduard Leusink",
+					"id": 78327435,
+					"id_str": "78327435",
+					"indices": [
+						43,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 806805807413149700,
+		"in_reply_to_status_id_str": "806805807413149697",
+		"in_reply_to_user_id": 54974914,
+		"in_reply_to_user_id_str": "54974914",
+		"in_reply_to_screen_name": "PieterCoree",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8972,
+			"friends_count": 3756,
+			"listed_count": 465,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13548,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Thu Dec 08 20:18:19 +0000 2016",
 		"id": 806956091154268200,
 		"id_str": "806956091154268161",
