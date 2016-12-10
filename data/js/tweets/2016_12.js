@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 10 14:57:58 +0000 2016",
+		"id": 807600250961719300,
+		"id_str": "807600250961719300",
+		"text": "RT @viralber: digital ink @surface  a graph to visualize tree diagram in a problem by my students @stefdeg9 #MIEExpert @OneNoteEDU https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						108,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "viralber",
+					"name": "Virginia Alberti",
+					"id": 13563352,
+					"id_str": "13563352",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "surface",
+					"name": "Surface",
+					"id": 612076511,
+					"id_str": "612076511",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "stefdeg9",
+					"name": "Stefano De Giorgi",
+					"id": 1443209334,
+					"id_str": "1443209334",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						119,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9004,
+			"friends_count": 3755,
+			"listed_count": 466,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13568,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13820,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 10 14:02:22 +0000 2016",
+			"id": 807586256460910600,
+			"id_str": "807586256460910592",
+			"text": "digital ink @surface  a graph to visualize tree diagram in a problem by my students @stefdeg9 #MIEExpert @OneNoteEDU https://t.co/QMeoBZZ5dP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							94,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "surface",
+						"name": "Surface",
+						"id": 612076511,
+						"id_str": "612076511",
+						"indices": [
+							12,
+							20
+						]
+					},
+					{
+						"screen_name": "stefdeg9",
+						"name": "Stefano De Giorgi",
+						"id": 1443209334,
+						"id_str": "1443209334",
+						"indices": [
+							84,
+							93
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							105,
+							116
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 807582359377821700,
+						"id_str": "807582359377821697",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CzUb4ImWQAEJo74.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzUb4ImWQAEJo74.jpg",
+						"url": "https://t.co/QMeoBZZ5dP",
+						"display_url": "pic.twitter.com/QMeoBZZ5dP",
+						"expanded_url": "https://twitter.com/viralber/status/807586256460910592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1148,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 672,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 807582359377821700,
+						"id_str": "807582359377821697",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/CzUb4ImWQAEJo74.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzUb4ImWQAEJo74.jpg",
+						"url": "https://t.co/QMeoBZZ5dP",
+						"display_url": "pic.twitter.com/QMeoBZZ5dP",
+						"expanded_url": "https://twitter.com/viralber/status/807586256460910592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1148,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 672,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13563352,
+				"id_str": "13563352",
+				"name": "Virginia Alberti",
+				"screen_name": "viralber",
+				"location": "Brescia- Italia",
+				"description": "math teacher, teacher trainer,  Future Classroom teacher, Microsoft Expert Educator and Microsoft Innovative Educator Fellow; Surface Expert educator",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1223,
+				"friends_count": 1479,
+				"listed_count": 350,
+				"created_at": "Sat Feb 16 20:29:56 +0000 2008",
+				"favourites_count": 13211,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7167,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/22669018/apophysis-frattali.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/22669018/apophysis-frattali.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/683050985875443712/K-DwHZzu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/683050985875443712/K-DwHZzu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13563352/1407359730",
+				"profile_link_color": "0027B3",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "d27e0fe618df1ea0",
+				"url": "https://api.twitter.com/1.1/geo/id/d27e0fe618df1ea0.json",
+				"place_type": "city",
+				"name": "Brescia",
+				"full_name": "Brescia, Lombardy",
+				"country_code": "IT",
+				"country": "Italy",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								10.1473035,
+								45.480594
+							],
+							[
+								10.3003246,
+								45.480594
+							],
+							[
+								10.3003246,
+								45.5899553
+							],
+							[
+								10.1473035,
+								45.5899553
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 10 10:01:34 +0000 2016",
 		"id": 807525657966157800,
 		"id_str": "807525657966157824",
