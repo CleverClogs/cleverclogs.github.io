@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 10 22:10:05 +0000 2016",
+		"id": 807708994009792500,
+		"id_str": "807708994009792512",
+		"text": "Very funny, Darrell. Definitely a @OneNoteEDU #FunNote candidate as far as I'm concerned.\n#OneNote #digitalink\ncc… https://t.co/3UemcA2cDq",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FunNote",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "digitalink",
+					"indices": [
+						99,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						34,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3UemcA2cDq",
+					"expanded_url": "https://twitter.com/i/web/status/807708994009792512",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9010,
+			"friends_count": 3755,
+			"listed_count": 467,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13576,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13832,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 807685336054669300,
+		"quoted_status_id_str": "807685336054669312",
+		"quoted_status": {
+			"created_at": "Sat Dec 10 20:36:04 +0000 2016",
+			"id": 807685336054669300,
+			"id_str": "807685336054669312",
+			"text": "Wanted: One Batman-like principal&gt; What would you add to a Principal Utility Belt kids? https://t.co/hBAt6tDNlf… https://t.co/UXsyBasRTP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hBAt6tDNlf",
+						"expanded_url": "http://nzh.tw/11763884",
+						"display_url": "nzh.tw/11763884",
+						"indices": [
+							91,
+							114
+						]
+					},
+					{
+						"url": "https://t.co/UXsyBasRTP",
+						"expanded_url": "https://twitter.com/i/web/status/807685336054669312",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 401809242,
+				"id_str": "401809242",
+				"name": "Darrell Webster",
+				"screen_name": "DarrellCWebster",
+				"location": "Auckland, New Zealand",
+				"description": "Microsoft MVP for #Office365, Father of 4, #OneNote Avenger, coffee roaster and cook. Work'n 4 @BitTitan | https://t.co/5BE10L5FEj #geekpride",
+				"url": "https://t.co/mhEFn4usZa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mhEFn4usZa",
+								"expanded_url": "https://docs.com/darrell-webster/about",
+								"display_url": "docs.com/darrell-webste…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5BE10L5FEj",
+								"expanded_url": "http://webster.tech",
+								"display_url": "webster.tech",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1871,
+				"friends_count": 599,
+				"listed_count": 232,
+				"created_at": "Mon Oct 31 03:39:26 +0000 2011",
+				"favourites_count": 1914,
+				"utc_offset": 46800,
+				"time_zone": "Auckland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11339,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045287059/b3354ebbe68ff5a497da97b1294fe261.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000045287059/b3354ebbe68ff5a497da97b1294fe261.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/806690472177504257/JdcBJpHu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/806690472177504257/JdcBJpHu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/401809242/1481167111",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Dec 10 22:05:09 +0000 2016",
+		"id": 807707752344731600,
+		"id_str": "807707752344731648",
+		"text": "@aq6722 So do these parents then sign in with their children's account credentials, Sarah? Are you using OneNote Class Notebook?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aq6722",
+					"name": "Sarah Henix",
+					"id": 45971503,
+					"id_str": "45971503",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 804132771912450000,
+		"in_reply_to_status_id_str": "804132771912450048",
+		"in_reply_to_user_id": 45971503,
+		"in_reply_to_user_id_str": "45971503",
+		"in_reply_to_screen_name": "aq6722",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9010,
+			"friends_count": 3755,
+			"listed_count": 467,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13576,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13832,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 10 21:18:47 +0000 2016",
 		"id": 807696086219558900,
 		"id_str": "807696086219558912",
