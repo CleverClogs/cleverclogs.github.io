@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 10 22:21:52 +0000 2016",
+		"id": 807711959881752600,
+		"id_str": "807711959881752576",
+		"text": "Questions about Microsoft? In the upcoming week @BoumanMichel will try answer them all. Great @MicrosoftNL initiati… https://t.co/7Q1JCVtuNi",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoumanMichel",
+					"name": "Michel Bouman",
+					"id": 1004834490,
+					"id_str": "1004834490",
+					"indices": [
+						48,
+						61
+					]
+				},
+				{
+					"screen_name": "microsoftnl",
+					"name": "Microsoft Nederland",
+					"id": 19016519,
+					"id_str": "19016519",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7Q1JCVtuNi",
+					"expanded_url": "https://twitter.com/i/web/status/807711959881752576",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9010,
+			"friends_count": 3755,
+			"listed_count": 467,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13578,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13833,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 807145235360993300,
+		"quoted_status_id_str": "807145235360993280",
+		"quoted_status": {
+			"created_at": "Fri Dec 09 08:49:54 +0000 2016",
+			"id": 807145235360993300,
+			"id_str": "807145235360993280",
+			"text": "Van 12-16dec ga ik proberen al jouw @microsoftnl vragen door de experts te laten beantwoorden. Stel je vraag vanaf… https://t.co/1CYzuKd2F4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "microsoftnl",
+						"name": "Microsoft Nederland",
+						"id": 19016519,
+						"id_str": "19016519",
+						"indices": [
+							36,
+							48
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1CYzuKd2F4",
+						"expanded_url": "https://twitter.com/i/web/status/807145235360993280",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1004834490,
+				"id_str": "1004834490",
+				"name": "Michel Bouman",
+				"screen_name": "BoumanMichel",
+				"location": "Nederland",
+				"description": "Medewerker Microsoft als Partner Sales Executive Cloud | Blog via @MicrosoftNL| Growth Mindset | Profitability | Social & Online Marketing | GTD | Genieten!",
+				"url": "https://t.co/7HBDqtWCkz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7HBDqtWCkz",
+								"expanded_url": "https://blogs.microsoft.nl/author/michelbouman",
+								"display_url": "blogs.microsoft.nl/author/michelb…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2840,
+				"friends_count": 2615,
+				"listed_count": 81,
+				"created_at": "Tue Dec 11 20:38:00 +0000 2012",
+				"favourites_count": 175,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2297,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796461288981463041/2CJcq3TP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796461288981463041/2CJcq3TP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1004834490/1461843471",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 10 22:10:05 +0000 2016",
 		"id": 807708994009792500,
 		"id_str": "807708994009792512",
