@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 13 10:10:25 +0000 2016",
+		"id": 808615049317273600,
+		"id_str": "808615049317273601",
+		"text": "@Sitho1983 @OneNoteDev @msonenote Hi Sean. Yes, there are many differences in functions and features between #OneNote clients.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						109,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sitho1983",
+					"name": "Sean Bouw",
+					"id": 304302643,
+					"id_str": "304302643",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "OneNoteDev",
+					"name": "OneNote API",
+					"id": 2350667635,
+					"id_str": "2350667635",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 808571790767358000,
+		"in_reply_to_status_id_str": "808571790767357952",
+		"in_reply_to_user_id": 304302643,
+		"in_reply_to_user_id_str": "304302643",
+		"in_reply_to_screen_name": "Sitho1983",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9053,
+			"friends_count": 3763,
+			"listed_count": 468,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13628,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13873,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 13 09:42:49 +0000 2016",
+		"id": 808608103302303700,
+		"id_str": "808608103302303744",
+		"text": "RT @sfallon96: Does mass affect thermal energy transfer?  With OneNote and Excel analyzing results are a breeze. #STEMed #onenote https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEMed",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "onenote",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sfallon96",
+					"name": "Shannon Fallon",
+					"id": 702705573783973900,
+					"id_str": "702705573783973888",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9053,
+			"friends_count": 3763,
+			"listed_count": 468,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13628,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13873,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 13 01:30:00 +0000 2016",
+			"id": 808484082531201000,
+			"id_str": "808484082531201024",
+			"text": "Does mass affect thermal energy transfer?  With OneNote and Excel analyzing results are a breeze. #STEMed #onenote https://t.co/rETvQldaMW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "STEMed",
+						"indices": [
+							98,
+							105
+						]
+					},
+					{
+						"text": "onenote",
+						"indices": [
+							106,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 808484079821733900,
+						"id_str": "808484079821733889",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/CzhP_LBVQAEVYna.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzhP_LBVQAEVYna.jpg",
+						"url": "https://t.co/rETvQldaMW",
+						"display_url": "pic.twitter.com/rETvQldaMW",
+						"expanded_url": "https://twitter.com/sfallon96/status/808484082531201024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 808484079821733900,
+						"id_str": "808484079821733889",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/CzhP_LBVQAEVYna.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzhP_LBVQAEVYna.jpg",
+						"url": "https://t.co/rETvQldaMW",
+						"display_url": "pic.twitter.com/rETvQldaMW",
+						"expanded_url": "https://twitter.com/sfallon96/status/808484082531201024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 702705573783973900,
+				"id_str": "702705573783973888",
+				"name": "Shannon Fallon",
+				"screen_name": "sfallon96",
+				"location": "Leavenworth, WA",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19,
+				"friends_count": 36,
+				"listed_count": 7,
+				"created_at": "Thu Feb 25 04:03:59 +0000 2016",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753209953368707072/YF3Y0Gua_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753209953368707072/YF3Y0Gua_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 12 23:27:15 +0000 2016",
 		"id": 808453188730945500,
 		"id_str": "808453188730945536",
