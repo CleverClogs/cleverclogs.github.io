@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Thu Dec 15 15:22:13 +0000 2016",
+		"id": 809418289449488400,
+		"id_str": "809418289449488384",
+		"text": "RT @MicrosoftUK: #OneNote decorates with delicious detail and #Excel’s measurements are always on point. Have more fun with the #Office #ap…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"text": "Excel",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "Office",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftUK",
+					"name": "Microsoft UK",
+					"id": 720474368,
+					"id_str": "720474368",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9094,
+			"friends_count": 3773,
+			"listed_count": 469,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13691,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13917,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 15 15:00:01 +0000 2016",
+			"id": 809412704582725600,
+			"id_str": "809412704582725632",
+			"text": "#OneNote decorates with delicious detail and #Excel’s measurements are always on point. Have more fun with the… https://t.co/zD9XFtJ55E",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "Excel",
+						"indices": [
+							45,
+							51
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zD9XFtJ55E",
+						"expanded_url": "https://twitter.com/i/web/status/809412704582725632",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 720474368,
+				"id_str": "720474368",
+				"name": "Microsoft UK",
+				"screen_name": "MicrosoftUK",
+				"location": "UK",
+				"description": "Info on new technologies & insights into the people working for Microsoft UK.\nM-F from 9-17:30 GMT. Get Support: https://t.co/cyqjaicpjN",
+				"url": "http://t.co/QEFrGTQ6Xp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QEFrGTQ6Xp",
+								"expanded_url": "http://www.microsoft.com/en-gb/default.aspx",
+								"display_url": "microsoft.com/en-gb/default.…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cyqjaicpjN",
+								"expanded_url": "https://support.microsoft.com/en-gb",
+								"display_url": "support.microsoft.com/en-gb",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 24449,
+				"friends_count": 350,
+				"listed_count": 349,
+				"created_at": "Fri Jul 27 16:44:09 +0000 2012",
+				"favourites_count": 1752,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9433,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0072C6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/511455609242144768/U813cWZJ.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/511455609242144768/U813cWZJ.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767663649859182592/AsOuZBx0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767663649859182592/AsOuZBx0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/720474368/1481626591",
+				"profile_link_color": "0072C6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 15 14:16:41 +0000 2016",
 		"id": 809401799425790000,
 		"id_str": "809401799425789952",
