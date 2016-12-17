@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 16 23:56:57 +0000 2016",
+		"id": 809910216921903100,
+		"id_str": "809910216921903105",
+		"text": "@technartist @msonenote Once you're ready for the next step, you may like to watch this in-depth video on same topic\nhttps://t.co/fdGWXgpKMk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "technartist",
+					"name": "Andre Soto",
+					"id": 912607363,
+					"id_str": "912607363",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fdGWXgpKMk",
+					"expanded_url": "https://vimeo.com/190200139",
+					"display_url": "vimeo.com/190200139",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 809846100391825400,
+		"in_reply_to_status_id_str": "809846100391825408",
+		"in_reply_to_user_id": 912607363,
+		"in_reply_to_user_id_str": "912607363",
+		"in_reply_to_screen_name": "technartist",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9117,
+			"friends_count": 3780,
+			"listed_count": 468,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13728,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13944,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 16 23:55:05 +0000 2016",
+		"id": 809909744987238400,
+		"id_str": "809909744987238400",
+		"text": "RT @sfallon96: Two brains- half the work- collaborating in OneNote on sleeping bag design. #stem #MIeexpert #ngss https://t.co/0q2yWYQImN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "stem",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "MIeexpert",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "ngss",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sfallon96",
+					"name": "Shannon Fallon",
+					"id": 702705573783973900,
+					"id_str": "702705573783973888",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 809847253850472400,
+					"id_str": "809847253850472448",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Cz0nyWAVQAAZwHh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cz0nyWAVQAAZwHh.jpg",
+					"url": "https://t.co/0q2yWYQImN",
+					"display_url": "pic.twitter.com/0q2yWYQImN",
+					"expanded_url": "https://twitter.com/sfallon96/status/809847258178985984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 809847258178986000,
+					"source_status_id_str": "809847258178985984",
+					"source_user_id": 702705573783973900,
+					"source_user_id_str": "702705573783973888"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 809847253850472400,
+					"id_str": "809847253850472448",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Cz0nyWAVQAAZwHh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cz0nyWAVQAAZwHh.jpg",
+					"url": "https://t.co/0q2yWYQImN",
+					"display_url": "pic.twitter.com/0q2yWYQImN",
+					"expanded_url": "https://twitter.com/sfallon96/status/809847258178985984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 809847258178986000,
+					"source_status_id_str": "809847258178985984",
+					"source_user_id": 702705573783973900,
+					"source_user_id_str": "702705573783973888"
+				},
+				{
+					"id": 809847253812658200,
+					"id_str": "809847253812658176",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Cz0nyV3UQAAHkpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cz0nyV3UQAAHkpy.jpg",
+					"url": "https://t.co/0q2yWYQImN",
+					"display_url": "pic.twitter.com/0q2yWYQImN",
+					"expanded_url": "https://twitter.com/sfallon96/status/809847258178985984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 809847258178986000,
+					"source_status_id_str": "809847258178985984",
+					"source_user_id": 702705573783973900,
+					"source_user_id_str": "702705573783973888"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9117,
+			"friends_count": 3780,
+			"listed_count": 468,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13728,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13944,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 16 19:46:47 +0000 2016",
+			"id": 809847258178986000,
+			"id_str": "809847258178985984",
+			"text": "Two brains- half the work- collaborating in OneNote on sleeping bag design. #stem #MIeexpert #ngss https://t.co/0q2yWYQImN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "stem",
+						"indices": [
+							76,
+							81
+						]
+					},
+					{
+						"text": "MIeexpert",
+						"indices": [
+							82,
+							92
+						]
+					},
+					{
+						"text": "ngss",
+						"indices": [
+							93,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 809847253850472400,
+						"id_str": "809847253850472448",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz0nyWAVQAAZwHh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz0nyWAVQAAZwHh.jpg",
+						"url": "https://t.co/0q2yWYQImN",
+						"display_url": "pic.twitter.com/0q2yWYQImN",
+						"expanded_url": "https://twitter.com/sfallon96/status/809847258178985984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 809847253850472400,
+						"id_str": "809847253850472448",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz0nyWAVQAAZwHh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz0nyWAVQAAZwHh.jpg",
+						"url": "https://t.co/0q2yWYQImN",
+						"display_url": "pic.twitter.com/0q2yWYQImN",
+						"expanded_url": "https://twitter.com/sfallon96/status/809847258178985984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 809847253812658200,
+						"id_str": "809847253812658176",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz0nyV3UQAAHkpy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz0nyV3UQAAHkpy.jpg",
+						"url": "https://t.co/0q2yWYQImN",
+						"display_url": "pic.twitter.com/0q2yWYQImN",
+						"expanded_url": "https://twitter.com/sfallon96/status/809847258178985984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 702705573783973900,
+				"id_str": "702705573783973888",
+				"name": "Shannon Fallon",
+				"screen_name": "sfallon96",
+				"location": "Leavenworth, WA",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20,
+				"friends_count": 36,
+				"listed_count": 8,
+				"created_at": "Thu Feb 25 04:03:59 +0000 2016",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753209953368707072/YF3Y0Gua_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753209953368707072/YF3Y0Gua_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 16 22:50:17 +0000 2016",
 		"id": 809893437860356100,
 		"id_str": "809893437860356096",
