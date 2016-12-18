@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 18 22:59:15 +0000 2016",
+		"id": 810620470299136000,
+		"id_str": "810620470299136001",
+		"text": "RT @FredaWilliams: This #OneNote Avenger wannabe has already blinged her Cape! #emojis #gbaby https://t.co/yE3RfXkABV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "emojis",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "gbaby",
+					"indices": [
+						87,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FredaWilliams",
+					"name": "Freda Williams",
+					"id": 14171153,
+					"id_str": "14171153",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 810617914931806200,
+					"id_str": "810617914931806209",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Cz_ksuQUAAEFAeB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cz_ksuQUAAEFAeB.jpg",
+					"url": "https://t.co/yE3RfXkABV",
+					"display_url": "pic.twitter.com/yE3RfXkABV",
+					"expanded_url": "https://twitter.com/FredaWilliams/status/810617928731291648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 810617928731291600,
+					"source_status_id_str": "810617928731291648",
+					"source_user_id": 14171153,
+					"source_user_id_str": "14171153"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 810617914931806200,
+					"id_str": "810617914931806209",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Cz_ksuQUAAEFAeB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cz_ksuQUAAEFAeB.jpg",
+					"url": "https://t.co/yE3RfXkABV",
+					"display_url": "pic.twitter.com/yE3RfXkABV",
+					"expanded_url": "https://twitter.com/FredaWilliams/status/810617928731291648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 810617928731291600,
+					"source_status_id_str": "810617928731291648",
+					"source_user_id": 14171153,
+					"source_user_id_str": "14171153"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9139,
+			"friends_count": 3780,
+			"listed_count": 468,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13766,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 18 22:49:09 +0000 2016",
+			"id": 810617928731291600,
+			"id_str": "810617928731291648",
+			"text": "This #OneNote Avenger wannabe has already blinged her Cape! #emojis #gbaby https://t.co/yE3RfXkABV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							5,
+							13
+						]
+					},
+					{
+						"text": "emojis",
+						"indices": [
+							60,
+							67
+						]
+					},
+					{
+						"text": "gbaby",
+						"indices": [
+							68,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 810617914931806200,
+						"id_str": "810617914931806209",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz_ksuQUAAEFAeB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz_ksuQUAAEFAeB.jpg",
+						"url": "https://t.co/yE3RfXkABV",
+						"display_url": "pic.twitter.com/yE3RfXkABV",
+						"expanded_url": "https://twitter.com/FredaWilliams/status/810617928731291648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 810617914931806200,
+						"id_str": "810617914931806209",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/Cz_ksuQUAAEFAeB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cz_ksuQUAAEFAeB.jpg",
+						"url": "https://t.co/yE3RfXkABV",
+						"display_url": "pic.twitter.com/yE3RfXkABV",
+						"expanded_url": "https://twitter.com/FredaWilliams/status/810617928731291648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14171153,
+				"id_str": "14171153",
+				"name": "Freda Williams",
+				"screen_name": "FredaWilliams",
+				"location": "Georgia",
+				"description": "Technology Project Specialist K-12 School District, #MIEExpert #MIEMasterTrainer #OneNoteAvenger",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1623,
+				"friends_count": 2178,
+				"listed_count": 132,
+				"created_at": "Tue Mar 18 17:29:26 +0000 2008",
+				"favourites_count": 2167,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2530,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "303030",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/70390584/twilk_background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/70390584/twilk_background.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773889500829351937/Iqg0TmY0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773889500829351937/Iqg0TmY0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14171153/1398206746",
+				"profile_link_color": "0B57A1",
+				"profile_sidebar_border_color": "303030",
+				"profile_sidebar_fill_color": "9FBAC9",
+				"profile_text_color": "303030",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 18 21:19:37 +0000 2016",
 		"id": 810595396804366300,
 		"id_str": "810595396804366336",
