@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 20 09:19:11 +0000 2016",
+		"id": 811138868129005600,
+		"id_str": "811138868129005568",
+		"text": "RT @Microsoft: What if language was never a barrier? Introducing Microsoft Translator: https://t.co/cXwYmD8QRE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 808839898245365800,
+					"id_str": "808839898245365760",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/808839898245365760/img/4OQnZflvfk3WKE7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/808839898245365760/img/4OQnZflvfk3WKE7o.jpg",
+					"url": "https://t.co/cXwYmD8QRE",
+					"display_url": "pic.twitter.com/cXwYmD8QRE",
+					"expanded_url": "https://twitter.com/Microsoft/status/808840167343595520/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 808840167343595500,
+					"source_status_id_str": "808840167343595520",
+					"source_user_id": 74286565,
+					"source_user_id_str": "74286565"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 808839898245365800,
+					"id_str": "808839898245365760",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/808839898245365760/img/4OQnZflvfk3WKE7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/808839898245365760/img/4OQnZflvfk3WKE7o.jpg",
+					"url": "https://t.co/cXwYmD8QRE",
+					"display_url": "pic.twitter.com/cXwYmD8QRE",
+					"expanded_url": "https://twitter.com/Microsoft/status/808840167343595520/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 808840167343595500,
+					"source_status_id_str": "808840167343595520",
+					"source_user_id": 74286565,
+					"source_user_id_str": "74286565",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 67943,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/808839898245365760/vid/640x360/3SWQXdYWRD43lH40.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/808839898245365760/vid/320x180/NAhxuWoZbNdpxw2c.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/808839898245365760/vid/1280x720/PHeq28hokc7cAFRx.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/808839898245365760/pl/Nn5CUADZqyzP4C3L.m3u8"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/amplify_video/808839898245365760/pl/Nn5CUADZqyzP4C3L.mpd"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 74286565,
+							"id_str": "74286565",
+							"name": "Microsoft",
+							"screen_name": "Microsoft",
+							"location": "Redmond, WA",
+							"description": "The official Twitter page for Microsoft consumer products and your source for major announcements and events.",
+							"url": "http://t.co/iIrGzB9fzr",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/iIrGzB9fzr",
+											"expanded_url": "http://www.facebook.com/Microsoft",
+											"display_url": "facebook.com/Microsoft",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 7845101,
+							"friends_count": 2000,
+							"listed_count": 20313,
+							"created_at": "Mon Sep 14 22:35:42 +0000 2009",
+							"favourites_count": 700,
+							"utc_offset": -28800,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 12025,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "00AEEF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/709852306632744960/zQ0xyGGK_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/709852306632744960/zQ0xyGGK_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1471020101",
+							"profile_link_color": "1570A6",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9171,
+			"friends_count": 3783,
+			"listed_count": 469,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13798,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 14 01:04:58 +0000 2016",
+			"id": 808840167343595500,
+			"id_str": "808840167343595520",
+			"text": "What if language was never a barrier? Introducing Microsoft Translator: https://t.co/cXwYmD8QRE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 808839898245365800,
+						"id_str": "808839898245365760",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/808839898245365760/img/4OQnZflvfk3WKE7o.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/808839898245365760/img/4OQnZflvfk3WKE7o.jpg",
+						"url": "https://t.co/cXwYmD8QRE",
+						"display_url": "pic.twitter.com/cXwYmD8QRE",
+						"expanded_url": "https://twitter.com/Microsoft/status/808840167343595520/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 808839898245365800,
+						"id_str": "808839898245365760",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/808839898245365760/img/4OQnZflvfk3WKE7o.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/808839898245365760/img/4OQnZflvfk3WKE7o.jpg",
+						"url": "https://t.co/cXwYmD8QRE",
+						"display_url": "pic.twitter.com/cXwYmD8QRE",
+						"expanded_url": "https://twitter.com/Microsoft/status/808840167343595520/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 67943,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/808839898245365760/vid/640x360/3SWQXdYWRD43lH40.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/808839898245365760/vid/320x180/NAhxuWoZbNdpxw2c.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/808839898245365760/vid/1280x720/PHeq28hokc7cAFRx.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/808839898245365760/pl/Nn5CUADZqyzP4C3L.m3u8"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/amplify_video/808839898245365760/pl/Nn5CUADZqyzP4C3L.mpd"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 74286565,
+				"id_str": "74286565",
+				"name": "Microsoft",
+				"screen_name": "Microsoft",
+				"location": "Redmond, WA",
+				"description": "The official Twitter page for Microsoft consumer products and your source for major announcements and events.",
+				"url": "http://t.co/iIrGzB9fzr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iIrGzB9fzr",
+								"expanded_url": "http://www.facebook.com/Microsoft",
+								"display_url": "facebook.com/Microsoft",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7845101,
+				"friends_count": 2000,
+				"listed_count": 20313,
+				"created_at": "Mon Sep 14 22:35:42 +0000 2009",
+				"favourites_count": 700,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12025,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00AEEF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/709852306632744960/zQ0xyGGK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/709852306632744960/zQ0xyGGK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1471020101",
+				"profile_link_color": "1570A6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 484,
+			"favorite_count": 876,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 484,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 20 09:12:03 +0000 2016",
+		"id": 811137072803225600,
+		"id_str": "811137072803225600",
+		"text": "@Twalz Yes, I read the conversations on Reddit about it, with the pop-up obfuscating the selected text and other complaints.\ncc @MasterDevWi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twalz",
+					"name": "Thomas Walz",
+					"id": 22251283,
+					"id_str": "22251283",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "MasterDevwi",
+					"name": "William Devereux",
+					"id": 5193261,
+					"id_str": "5193261",
+					"indices": [
+						128,
+						140
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 811099728092033000,
+		"in_reply_to_status_id_str": "811099728092033025",
+		"in_reply_to_user_id": 22251283,
+		"in_reply_to_user_id_str": "22251283",
+		"in_reply_to_screen_name": "Twalz",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9171,
+			"friends_count": 3783,
+			"listed_count": 469,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13798,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 19 23:37:22 +0000 2016",
 		"id": 810992450575667200,
 		"id_str": "810992450575667200",
