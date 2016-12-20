@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 20 10:18:55 +0000 2016",
+		"id": 811153902959730700,
+		"id_str": "811153902959730688",
+		"text": "\"#Accessibility needs to be our lens to innovation, helping _everyone_ to achieve more.\" Watch. \nby @ClintCo… https://t.co/jtrbkzS76g",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Accessibility",
+					"indices": [
+						1,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clintco",
+					"name": "Clint Covington",
+					"id": 20121555,
+					"id_str": "20121555",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jtrbkzS76g",
+					"expanded_url": "https://twitter.com/i/web/status/811153902959730688",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9174,
+			"friends_count": 3784,
+			"listed_count": 469,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13806,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 784424635001516000,
+		"quoted_status_id_str": "784424635001516032",
+		"quoted_status": {
+			"created_at": "Fri Oct 07 16:06:21 +0000 2016",
+			"id": 784424635001516000,
+			"id_str": "784424635001516032",
+			"text": "\"If we connect with broadest possible audience ... we just make better products.\" @michaelgough_ #InclusiveDesign https://t.co/0GvcJShgqW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InclusiveDesign",
+						"indices": [
+							97,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "michaelgough_",
+						"name": "Michael Gough",
+						"id": 13964852,
+						"id_str": "13964852",
+						"indices": [
+							82,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0GvcJShgqW",
+						"expanded_url": "https://youtu.be/HOyB68dfZ5s",
+						"display_url": "youtu.be/HOyB68dfZ5s",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 458619342,
+				"id_str": "458619342",
+				"name": "MSFT Accessibility",
+				"screen_name": "MSFTEnable",
+				"location": "Redmond, WA",
+				"description": "Hello! We're here with news, insights, and updates from Microsoft Accessibility.",
+				"url": "https://t.co/nyzY7wGZ7P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nyzY7wGZ7P",
+								"expanded_url": "http://www.microsoft.com/accessibility",
+								"display_url": "microsoft.com/accessibility",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14767,
+				"friends_count": 7015,
+				"listed_count": 487,
+				"created_at": "Sun Jan 08 19:26:40 +0000 2012",
+				"favourites_count": 22404,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6363,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/666836816377438208/iCq2fnjX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/666836816377438208/iCq2fnjX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/458619342/1447819852",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 20 09:19:11 +0000 2016",
 		"id": 811138868129005600,
 		"id_str": "811138868129005568",
