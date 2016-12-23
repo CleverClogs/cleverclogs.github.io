@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 23 13:19:26 +0000 2016",
+		"id": 812286494480199700,
+		"id_str": "812286494480199681",
+		"text": "Wearing her gorgeous #OneNote Santa Sweater with pride she is! Thanks @bfoxtohickon.\ncc @MTholfsen @LBayne… https://t.co/16kKr99hSF",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bfoxtohickon",
+					"name": "Bridget Fox",
+					"id": 741395978259996700,
+					"id_str": "741395978259996673",
+					"indices": [
+						70,
+						83
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"screen_name": "LBayne",
+					"name": "LBayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/16kKr99hSF",
+					"expanded_url": "https://twitter.com/i/web/status/812286494480199681",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9217,
+			"friends_count": 3791,
+			"listed_count": 467,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13879,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 812273584089468900,
+		"quoted_status_id_str": "812273584089468928",
+		"quoted_status": {
+			"created_at": "Fri Dec 23 12:28:08 +0000 2016",
+			"id": 812273584089468900,
+			"id_str": "812273584089468928",
+			"text": "OneNote man Christmas sweater.@OneNoteEDU @OneNoteC @BillGates #cbsdtech https://t.co/tXN6Gv7x5S",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "cbsdtech",
+						"indices": [
+							63,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							30,
+							41
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							42,
+							51
+						]
+					},
+					{
+						"screen_name": "BillGates",
+						"name": "Bill Gates",
+						"id": 50393960,
+						"id_str": "50393960",
+						"indices": [
+							52,
+							62
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 812273561960403000,
+						"id_str": "812273561960402944",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/C0XGgEEXUAARXto.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0XGgEEXUAARXto.jpg",
+						"url": "https://t.co/tXN6Gv7x5S",
+						"display_url": "pic.twitter.com/tXN6Gv7x5S",
+						"expanded_url": "https://twitter.com/bfoxtohickon/status/812273584089468928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1456,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 853,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 483,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 812273561960403000,
+						"id_str": "812273561960402944",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/C0XGgEEXUAARXto.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0XGgEEXUAARXto.jpg",
+						"url": "https://t.co/tXN6Gv7x5S",
+						"display_url": "pic.twitter.com/tXN6Gv7x5S",
+						"expanded_url": "https://twitter.com/bfoxtohickon/status/812273584089468928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1456,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 853,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 483,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 741395978259996700,
+				"id_str": "741395978259996673",
+				"name": "Bridget Fox",
+				"screen_name": "bfoxtohickon",
+				"location": "Doylestown, PA",
+				"description": "Tohickon Middle School Librarian - Central Bucks School District... ✌️Peace  ❤️‍Love ✒️Books",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 113,
+				"friends_count": 204,
+				"listed_count": 15,
+				"created_at": "Fri Jun 10 22:25:50 +0000 2016",
+				"favourites_count": 699,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 233,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741397366213902341/u39ODb5v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741397366213902341/u39ODb5v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/741395978259996673/1465601343",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "dd9c503d6c35364b",
+				"url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+				"place_type": "admin",
+				"name": "Pennsylvania",
+				"full_name": "Pennsylvania, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-80.519851,
+								39.719801
+							],
+							[
+								-74.689517,
+								39.719801
+							],
+							[
+								-74.689517,
+								42.516072
+							],
+							[
+								-80.519851,
+								42.516072
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 22 22:51:21 +0000 2016",
 		"id": 812068034898755600,
 		"id_str": "812068034898755584",
