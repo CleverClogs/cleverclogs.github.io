@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 25 11:22:35 +0000 2016",
+		"id": 812981863899926500,
+		"id_str": "812981863899926528",
+		"text": "What a generous Santa, @Dubai_Teachmeet!\nPlease let @StefanWischner and me know what you think, ok? Maybe leave a r… https://t.co/e29hnpxs4C",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dubai_Teachmeet",
+					"name": "Rachael Edgar 🇦🇪",
+					"id": 1275500911,
+					"id_str": "1275500911",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"screen_name": "StefanWischner",
+					"name": "Stefan Wischner",
+					"id": 246435670,
+					"id_str": "246435670",
+					"indices": [
+						52,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e29hnpxs4C",
+					"expanded_url": "https://twitter.com/i/web/status/812981863899926528",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9232,
+			"friends_count": 3793,
+			"listed_count": 467,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13899,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 812980375664361500,
+		"quoted_status_id_str": "812980375664361472",
+		"quoted_status": {
+			"created_at": "Sun Dec 25 11:16:40 +0000 2016",
+			"id": 812980375664361500,
+			"id_str": "812980375664361472",
+			"text": "Look what santa got me..🎅🏻@OneNoteEDU @OneNoteC @lucy_crehan https://t.co/YWMjR9pINB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							26,
+							37
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							38,
+							47
+						]
+					},
+					{
+						"screen_name": "lucy_crehan",
+						"name": "Lucy Crehan",
+						"id": 366238329,
+						"id_str": "366238329",
+						"indices": [
+							48,
+							60
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 812980361676390400,
+						"id_str": "812980361676390400",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/C0hJVOMXAAAXN8K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0hJVOMXAAAXN8K.jpg",
+						"url": "https://t.co/YWMjR9pINB",
+						"display_url": "pic.twitter.com/YWMjR9pINB",
+						"expanded_url": "https://twitter.com/Dubai_Teachmeet/status/812980375664361472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 812980361676390400,
+						"id_str": "812980361676390400",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/C0hJVOMXAAAXN8K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0hJVOMXAAAXN8K.jpg",
+						"url": "https://t.co/YWMjR9pINB",
+						"display_url": "pic.twitter.com/YWMjR9pINB",
+						"expanded_url": "https://twitter.com/Dubai_Teachmeet/status/812980375664361472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1275500911,
+				"id_str": "1275500911",
+				"name": "Rachael Edgar 🇦🇪",
+				"screen_name": "Dubai_Teachmeet",
+				"location": "Dubai UAE",
+				"description": "T&L Team @DESCTandL|Leads @SPARKeducators|Organiser @Dubai_Leadmeet|Passions:PD,Tech,Evidence informed practice &Collaboration|GESS Award 2016 Innovation in Edu",
+				"url": "https://t.co/CN6TWSsPuK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CN6TWSsPuK",
+								"expanded_url": "http://www.dubai-teachmeet.com",
+								"display_url": "dubai-teachmeet.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3126,
+				"friends_count": 2294,
+				"listed_count": 142,
+				"created_at": "Sun Mar 17 17:09:50 +0000 2013",
+				"favourites_count": 5406,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8559,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762947522826502144/9OjVVYbS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762947522826502144/9OjVVYbS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1275500911/1466508972",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 25 07:49:07 +0000 2016",
 		"id": 812928141845000200,
 		"id_str": "812928141845000192",
