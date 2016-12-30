@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 30 07:46:41 +0000 2016",
+		"id": 814739470369046500,
+		"id_str": "814739470369046528",
+		"text": "Look at these attention-drawing custom bullets in #OneNote. Nice work, @Lauwree! https://t.co/ETyGDlO4Xh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lauwree",
+					"name": "Lori Marshall",
+					"id": 31319938,
+					"id_str": "31319938",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ETyGDlO4Xh",
+					"expanded_url": "https://twitter.com/lauwree/status/814655819278974977",
+					"display_url": "twitter.com/lauwree/status…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9289,
+			"friends_count": 3795,
+			"listed_count": 471,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13942,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14131,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 814655819278975000,
+		"quoted_status_id_str": "814655819278974977",
+		"quoted_status": {
+			"created_at": "Fri Dec 30 02:14:17 +0000 2016",
+			"id": 814655819278975000,
+			"id_str": "814655819278974977",
+			"text": "@OneNoteC @SkoolerUK \nHow about these for custom, individually colorized bullet points in #OneNote ? https://t.co/4tOMEskHV7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							90,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "SkoolerUK",
+						"name": "SkoolerUK",
+						"id": 745566883563315200,
+						"id_str": "745566883563315200",
+						"indices": [
+							10,
+							20
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 814654426795249700,
+						"id_str": "814654426795249665",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/C0474ovUkAEn063.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0474ovUkAEn063.jpg",
+						"url": "https://t.co/4tOMEskHV7",
+						"display_url": "pic.twitter.com/4tOMEskHV7",
+						"expanded_url": "https://twitter.com/lauwree/status/814655819278974977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 74,
+								"h": 183,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 74,
+								"h": 183,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 74,
+								"h": 74,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 74,
+								"h": 183,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 814654426795249700,
+						"id_str": "814654426795249665",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/C0474ovUkAEn063.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0474ovUkAEn063.jpg",
+						"url": "https://t.co/4tOMEskHV7",
+						"display_url": "pic.twitter.com/4tOMEskHV7",
+						"expanded_url": "https://twitter.com/lauwree/status/814655819278974977/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 74,
+								"h": 183,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 74,
+								"h": 183,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 74,
+								"h": 74,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 74,
+								"h": 183,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 813495462032457700,
+			"in_reply_to_status_id_str": "813495462032457728",
+			"in_reply_to_user_id": 2582768738,
+			"in_reply_to_user_id_str": "2582768738",
+			"in_reply_to_screen_name": "OneNoteC",
+			"user": {
+				"id": 31319938,
+				"id_str": "31319938",
+				"name": "Lori Marshall",
+				"screen_name": "lauwree",
+				"location": "PVPUSD",
+				"description": "District Instructional Coach for Technology | Microsoft Innovative Educator Trainer | Teacher & Learner | Book Lover | Genealogist | International Student Host",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1665,
+				"friends_count": 1658,
+				"listed_count": 38,
+				"created_at": "Wed Apr 15 03:01:24 +0000 2009",
+				"favourites_count": 5821,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1067,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788189537474228225/uxfOSajW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788189537474228225/uxfOSajW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31319938/1472616702",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 30 07:40:56 +0000 2016",
+		"id": 814738023103529000,
+		"id_str": "814738023103528961",
+		"text": "@lauwree @SkoolerUK You did it! They're looking awesome. Thank you for sharing, Lori!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lauwree",
+					"name": "Lori Marshall",
+					"id": 31319938,
+					"id_str": "31319938",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "SkoolerUK",
+					"name": "SkoolerUK",
+					"id": 745566883563315200,
+					"id_str": "745566883563315200",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 814655819278975000,
+		"in_reply_to_status_id_str": "814655819278974977",
+		"in_reply_to_user_id": 31319938,
+		"in_reply_to_user_id_str": "31319938",
+		"in_reply_to_screen_name": "lauwree",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9289,
+			"friends_count": 3795,
+			"listed_count": 471,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 13942,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14131,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 29 22:24:44 +0000 2016",
 		"id": 814598048911331300,
 		"id_str": "814598048911331328",
