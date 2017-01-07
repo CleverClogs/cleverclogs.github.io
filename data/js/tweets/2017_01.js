@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 07 13:52:25 +0000 2017",
+		"id": 817730614094872600,
+		"id_str": "817730614094872576",
+		"text": "#SurfacePro owners, you now have a choice. @BrydgeKeyboards announces 12.3\" BT keyboard at #CES2017\nhttps://t.co/igsv1MOsFW\nby #MVP @WinObs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SurfacePro",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "CES2017",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "MVP",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrydgeKeyboards",
+					"name": "Brydge Keyboards",
+					"id": 2414179370,
+					"id_str": "2414179370",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"screen_name": "WinObs",
+					"name": "Richard Hay",
+					"id": 15434432,
+					"id_str": "15434432",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/igsv1MOsFW",
+					"expanded_url": "http://onen.link/2jmYoCG",
+					"display_url": "onen.link/2jmYoCG",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9411,
+			"friends_count": 3828,
+			"listed_count": 471,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14059,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 06 22:40:00 +0000 2017",
 		"id": 817500997442502700,
 		"id_str": "817500997442502656",
