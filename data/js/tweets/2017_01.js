@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 08 17:51:11 +0000 2017",
+		"id": 818153086661304300,
+		"id_str": "818153086661304320",
+		"text": "So much to learn about #dyslexia from this interview. @DrKateSaunders is an incredible speaker.… https://t.co/Ce3qq20v6V",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dyslexia",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrKateSaunders",
+					"name": "Dr Kate Saunders",
+					"id": 1545598086,
+					"id_str": "1545598086",
+					"indices": [
+						54,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ce3qq20v6V",
+					"expanded_url": "https://twitter.com/i/web/status/818153086661304320",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9437,
+			"friends_count": 3831,
+			"listed_count": 471,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14070,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14265,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 818152480840319000,
+		"quoted_status_id_str": "818152480840318978",
+		"quoted_status": {
+			"created_at": "Sun Jan 08 17:48:46 +0000 2017",
+			"id": 818152480840319000,
+			"id_str": "818152480840318978",
+			"text": "@OneNoteC @MSFTEnable thanks for featuring!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "MSFTEnable",
+						"name": "MSFT Accessibility",
+						"id": 458619342,
+						"id_str": "458619342",
+						"indices": [
+							10,
+							21
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 818146236872196100,
+			"in_reply_to_status_id_str": "818146236872196096",
+			"in_reply_to_user_id": 2582768738,
+			"in_reply_to_user_id_str": "2582768738",
+			"in_reply_to_screen_name": "OneNoteC",
+			"user": {
+				"id": 4907924963,
+				"id_str": "4907924963",
+				"name": "The Edtech Podcast",
+				"screen_name": "PodcastEdtech",
+				"location": "GLOBAL BABY YEAH! ",
+				"description": "Improving the dialogue between 'ed' & 'tech' through #storytelling, for better innovation. Join @soph_bailey #edchat #edtech #edtechpod #startup Subscribe & RT",
+				"url": "https://t.co/4L5GVzMHK2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4L5GVzMHK2",
+								"expanded_url": "https://itunes.apple.com/gb/podcast/the-edtech-podcast/id1107282759?mt=2",
+								"display_url": "itunes.apple.com/gb/podcast/the…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2278,
+				"friends_count": 1934,
+				"listed_count": 327,
+				"created_at": "Sun Feb 14 06:30:51 +0000 2016",
+				"favourites_count": 5111,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2739,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/720964496664182785/3EP0EGOF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/720964496664182785/3EP0EGOF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4907924963/1460726287",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 08 17:23:57 +0000 2017",
+		"id": 818146236872196100,
+		"id_str": "818146236872196096",
+		"text": "Today's interview with @MTholfsen on #Dyslexia and #OneNote Learning Tools is out:\nhttps://t.co/3mBkCarW1e\nwith… https://t.co/TpfrbMVqnl",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dyslexia",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3mBkCarW1e",
+					"expanded_url": "http://theedtechpodcast.libsyn.com/47-dyslexia-technology-with-dr-kate-saunders-of-the-british-dyslexia-association-and-mike-tholfsen-microsoft",
+					"display_url": "theedtechpodcast.libsyn.com/47-dyslexia-te…",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/TpfrbMVqnl",
+					"expanded_url": "https://twitter.com/i/web/status/818146236872196096",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9437,
+			"friends_count": 3831,
+			"listed_count": 471,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14070,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14265,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 818136342232256500,
+		"quoted_status_id_str": "818136342232256515",
+		"quoted_status": {
+			"created_at": "Sun Jan 08 16:44:38 +0000 2017",
+			"id": 818136342232256500,
+			"id_str": "818136342232256515",
+			"text": "@PodcastEdtech is out w/ @bdadyslexia @microsofteduk @Microsoft_EDU @mtholfsen @BDATechnology @Bett_show… https://t.co/Ram8NCsLe7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PodcastEdtech",
+						"name": "The Edtech Podcast",
+						"id": 4907924963,
+						"id_str": "4907924963",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "BDAdyslexia",
+						"name": "British Dyslexia",
+						"id": 61512760,
+						"id_str": "61512760",
+						"indices": [
+							25,
+							37
+						]
+					},
+					{
+						"screen_name": "microsofteduk",
+						"name": "Microsoft Education",
+						"id": 48661542,
+						"id_str": "48661542",
+						"indices": [
+							38,
+							52
+						]
+					},
+					{
+						"screen_name": "Microsoft_EDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							53,
+							67
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							68,
+							78
+						]
+					},
+					{
+						"screen_name": "BDATechnology",
+						"name": "BDA New Technology",
+						"id": 948575754,
+						"id_str": "948575754",
+						"indices": [
+							79,
+							93
+						]
+					},
+					{
+						"screen_name": "Bett_show",
+						"name": "Bett",
+						"id": 28354758,
+						"id_str": "28354758",
+						"indices": [
+							94,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ram8NCsLe7",
+						"expanded_url": "https://twitter.com/i/web/status/818136342232256515",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 4907924963,
+			"in_reply_to_user_id_str": "4907924963",
+			"in_reply_to_screen_name": "PodcastEdtech",
+			"user": {
+				"id": 4907924963,
+				"id_str": "4907924963",
+				"name": "The Edtech Podcast",
+				"screen_name": "PodcastEdtech",
+				"location": "GLOBAL BABY YEAH! ",
+				"description": "Improving the dialogue between 'ed' & 'tech' through #storytelling, for better innovation. Join @soph_bailey #edchat #edtech #edtechpod #startup Subscribe & RT",
+				"url": "https://t.co/4L5GVzMHK2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4L5GVzMHK2",
+								"expanded_url": "https://itunes.apple.com/gb/podcast/the-edtech-podcast/id1107282759?mt=2",
+								"display_url": "itunes.apple.com/gb/podcast/the…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2278,
+				"friends_count": 1934,
+				"listed_count": 327,
+				"created_at": "Sun Feb 14 06:30:51 +0000 2016",
+				"favourites_count": 5111,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2739,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/720964496664182785/3EP0EGOF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/720964496664182785/3EP0EGOF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4907924963/1460726287",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jan 07 23:00:11 +0000 2017",
 		"id": 817868463687561200,
 		"id_str": "817868463687561221",
