@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 16:15:32 +0000 2017",
+		"id": 819578569911373800,
+		"id_str": "819578569911373824",
+		"text": "Nice intro video to #OneNote Class Notebook by Microsoft Teacher Ambassador @morg3nm on @HP_NewZealand's YouTube ch… https://t.co/0af33XP5wB",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						20,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "morg3nm",
+					"name": "Morgan",
+					"id": 1420249172,
+					"id_str": "1420249172",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"screen_name": "HP_NewZealand",
+					"name": "HP_New Zealand",
+					"id": 321745716,
+					"id_str": "321745716",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0af33XP5wB",
+					"expanded_url": "https://twitter.com/i/web/status/819578569911373824",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9500,
+			"friends_count": 3835,
+			"listed_count": 470,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14132,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14323,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 819386435035762700,
+		"quoted_status_id_str": "819386435035762688",
+		"quoted_status": {
+			"created_at": "Thu Jan 12 03:32:04 +0000 2017",
+			"id": 819386435035762700,
+			"id_str": "819386435035762688",
+			"text": "Good overview of @msonenote by a @MicrosoftNZ Teacher Ambassador https://t.co/tcod6PsiRT @OneNoteC @WiljDekkers #edchatnz #MSFTEdu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edchatnz",
+						"indices": [
+							112,
+							121
+						]
+					},
+					{
+						"text": "MSFTEdu",
+						"indices": [
+							122,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							17,
+							27
+						]
+					},
+					{
+						"screen_name": "MicrosoftNZ",
+						"name": "Microsoft NZ",
+						"id": 76488342,
+						"id_str": "76488342",
+						"indices": [
+							33,
+							45
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							89,
+							98
+						]
+					},
+					{
+						"screen_name": "WiljDekkers",
+						"name": "wilj dekkers",
+						"id": 797813701,
+						"id_str": "797813701",
+						"indices": [
+							99,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tcod6PsiRT",
+						"expanded_url": "https://www.youtube.com/watch?v=PFrXC1Lo8zY&feature=youtu.be",
+						"display_url": "youtube.com/watch?v=PFrXC1…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89340013,
+				"id_str": "89340013",
+				"name": "Sam McNeill",
+				"screen_name": "samuelmcneill",
+				"location": "New Zealand",
+				"description": "Solution Specialist Professional with Microsoft",
+				"url": "https://t.co/iqIexprOtV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iqIexprOtV",
+								"expanded_url": "http://www.samuelmcneill.com",
+								"display_url": "samuelmcneill.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1718,
+				"friends_count": 1637,
+				"listed_count": 255,
+				"created_at": "Thu Nov 12 01:34:27 +0000 2009",
+				"favourites_count": 2863,
+				"utc_offset": 46800,
+				"time_zone": "Wellington",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8208,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802308636550643716/1GUZfcVs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802308636550643716/1GUZfcVs_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 12 14:08:12 +0000 2017",
 		"id": 819546522991923200,
 		"id_str": "819546522991923200",
