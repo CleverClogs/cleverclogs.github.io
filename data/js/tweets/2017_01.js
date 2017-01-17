@@ -1,6 +1,2613 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Tue Jan 17 19:11:26 +0000 2017",
+		"id": 821434774610964500,
+		"id_str": "821434774610964480",
+		"text": "Educators, keep an eye on your #OneNote Class Notebook add-in and keep it up to date. Solid advice and video from… https://t.co/5Mj9dulhL9",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						31,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Mj9dulhL9",
+					"expanded_url": "https://twitter.com/i/web/status/821434774610964480",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9574,
+			"friends_count": 3844,
+			"listed_count": 473,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14221,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 821371631444455400,
+		"quoted_status_id_str": "821371631444455425",
+		"quoted_status": {
+			"created_at": "Tue Jan 17 15:00:31 +0000 2017",
+			"id": 821371631444455400,
+			"id_str": "821371631444455425",
+			"text": "Hey @OneNoteEDU schools, make sure you're getting updates to the #OneNote Class Notebook add-in. Here's how https://t.co/SS6gjo6wCz #MSFTEDU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							65,
+							73
+						]
+					},
+					{
+						"text": "MSFTEDU",
+						"indices": [
+							132,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							4,
+							15
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SS6gjo6wCz",
+						"expanded_url": "https://www.youtube.com/watch?v=38Dz2EitHzQ",
+						"display_url": "youtube.com/watch?v=38Dz2E…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 401809242,
+				"id_str": "401809242",
+				"name": "Darrell as a Service",
+				"screen_name": "DarrellCWebster",
+				"location": "Auckland, New Zealand",
+				"description": "Microsoft MVP for #Office365, Father of 4, #OneNote Avenger, coffee roaster and cook. Work'n 4 @BitTitan | #geekpride",
+				"url": "https://t.co/GFStyOHR14",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GFStyOHR14",
+								"expanded_url": "http://webster.net.nz",
+								"display_url": "webster.net.nz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1929,
+				"friends_count": 615,
+				"listed_count": 235,
+				"created_at": "Mon Oct 31 03:39:26 +0000 2011",
+				"favourites_count": 2022,
+				"utc_offset": 46800,
+				"time_zone": "Auckland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11586,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045287059/b3354ebbe68ff5a497da97b1294fe261.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000045287059/b3354ebbe68ff5a497da97b1294fe261.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/806690472177504257/JdcBJpHu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/806690472177504257/JdcBJpHu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/401809242/1482878044",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 17 19:00:16 +0000 2017",
+		"id": 821431964901240800,
+		"id_str": "821431964901240832",
+		"text": "Want more? No worries, there's a second #MSFTEduChat TweetMeet lined up for 4PM PST. So, quote this and @ tag the p… https://t.co/n0p0Oh6PXQ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						40,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n0p0Oh6PXQ",
+					"expanded_url": "https://twitter.com/i/web/status/821431964901240832",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9574,
+			"friends_count": 3844,
+			"listed_count": 473,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14221,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 17 18:52:40 +0000 2017",
+		"id": 821430051157721100,
+		"id_str": "821430051157721088",
+		"text": "RT @mraspinall: Q7 How can #MSFTEdu &amp; @Hacking_STEM teams help you introduce more #STEM content to Ss? #MSFTEduChat https://t.co/sP8cUZxgcg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEdu",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mraspinall",
+					"name": "Brian Aspinall",
+					"id": 42602780,
+					"id_str": "42602780",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Hacking_STEM",
+					"name": "Hacking STEM",
+					"id": 806619118539444200,
+					"id_str": "806619118539444224",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 821428123132538900,
+					"id_str": "821428123132538880",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/C2ZMhp_UsAAKQ1P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2ZMhp_UsAAKQ1P.jpg",
+					"url": "https://t.co/sP8cUZxgcg",
+					"display_url": "pic.twitter.com/sP8cUZxgcg",
+					"expanded_url": "https://twitter.com/mraspinall/status/821429651604205568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 677,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 677,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 821429651604205600,
+					"source_status_id_str": "821429651604205568",
+					"source_user_id": 42602780,
+					"source_user_id_str": "42602780"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 821428123132538900,
+					"id_str": "821428123132538880",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/C2ZMhp_UsAAKQ1P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2ZMhp_UsAAKQ1P.jpg",
+					"url": "https://t.co/sP8cUZxgcg",
+					"display_url": "pic.twitter.com/sP8cUZxgcg",
+					"expanded_url": "https://twitter.com/mraspinall/status/821429651604205568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 677,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 677,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 821429651604205600,
+					"source_status_id_str": "821429651604205568",
+					"source_user_id": 42602780,
+					"source_user_id_str": "42602780"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9574,
+			"friends_count": 3844,
+			"listed_count": 473,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14221,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Jan 17 18:51:05 +0000 2017",
+			"id": 821429651604205600,
+			"id_str": "821429651604205568",
+			"text": "Q7 How can #MSFTEdu &amp; @Hacking_STEM teams help you introduce more #STEM content to Ss? #MSFTEduChat https://t.co/sP8cUZxgcg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEdu",
+						"indices": [
+							11,
+							19
+						]
+					},
+					{
+						"text": "STEM",
+						"indices": [
+							70,
+							75
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							91,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Hacking_STEM",
+						"name": "Hacking STEM",
+						"id": 806619118539444200,
+						"id_str": "806619118539444224",
+						"indices": [
+							26,
+							39
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 821428123132538900,
+						"id_str": "821428123132538880",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZMhp_UsAAKQ1P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZMhp_UsAAKQ1P.jpg",
+						"url": "https://t.co/sP8cUZxgcg",
+						"display_url": "pic.twitter.com/sP8cUZxgcg",
+						"expanded_url": "https://twitter.com/mraspinall/status/821429651604205568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 677,
+								"h": 373,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 677,
+								"h": 373,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 677,
+								"h": 373,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821428123132538900,
+						"id_str": "821428123132538880",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZMhp_UsAAKQ1P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZMhp_UsAAKQ1P.jpg",
+						"url": "https://t.co/sP8cUZxgcg",
+						"display_url": "pic.twitter.com/sP8cUZxgcg",
+						"expanded_url": "https://twitter.com/mraspinall/status/821429651604205568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 677,
+								"h": 373,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 677,
+								"h": 373,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 677,
+								"h": 373,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42602780,
+				"id_str": "42602780",
+				"name": "Brian Aspinall",
+				"screen_name": "mraspinall",
+				"location": "Harrow & Chatham, Ont., Canada",
+				"description": "Teacher | Trying to spark curiosity with coding, math & makerspace. Program Director of STEM Education @fcledu, MPed Student, TEDx Speaker, App Developer",
+				"url": "https://t.co/4hyzhSZv2n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4hyzhSZv2n",
+								"expanded_url": "http://www.mraspinall.com",
+								"display_url": "mraspinall.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29189,
+				"friends_count": 20714,
+				"listed_count": 1019,
+				"created_at": "Tue May 26 10:55:33 +0000 2009",
+				"favourites_count": 27367,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48040,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780544467258310656/A2M-EnZ2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780544467258310656/A2M-EnZ2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42602780/1451238331",
+				"profile_link_color": "444444",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "246439ffd8801ae2",
+				"url": "https://api.twitter.com/1.1/geo/id/246439ffd8801ae2.json",
+				"place_type": "city",
+				"name": "Red Deer",
+				"full_name": "Red Deer, Alberta",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-113.8968062,
+								52.215426
+							],
+							[
+								-113.718722,
+								52.215426
+							],
+							[
+								-113.718722,
+								52.343178
+							],
+							[
+								-113.8968062,
+								52.343178
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 17 18:45:51 +0000 2017",
+		"id": 821428338174656500,
+		"id_str": "821428338174656514",
+		"text": "RT @mraspinall: Q6 Who inspires you to incorporate #STEM in your curriculum? #MSFTEduChat https://t.co/Bat7O8QAbd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEM",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						77,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mraspinall",
+					"name": "Brian Aspinall",
+					"id": 42602780,
+					"id_str": "42602780",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 821427339124830200,
+					"id_str": "821427339124830208",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/C2ZL0BVUcAAC5Aq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2ZL0BVUcAAC5Aq.jpg",
+					"url": "https://t.co/Bat7O8QAbd",
+					"display_url": "pic.twitter.com/Bat7O8QAbd",
+					"expanded_url": "https://twitter.com/mraspinall/status/821427632059416577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 676,
+							"h": 379,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 676,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 676,
+							"h": 379,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821427632059416600,
+					"source_status_id_str": "821427632059416577",
+					"source_user_id": 42602780,
+					"source_user_id_str": "42602780"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 821427339124830200,
+					"id_str": "821427339124830208",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/C2ZL0BVUcAAC5Aq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2ZL0BVUcAAC5Aq.jpg",
+					"url": "https://t.co/Bat7O8QAbd",
+					"display_url": "pic.twitter.com/Bat7O8QAbd",
+					"expanded_url": "https://twitter.com/mraspinall/status/821427632059416577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 676,
+							"h": 379,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 676,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 676,
+							"h": 379,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821427632059416600,
+					"source_status_id_str": "821427632059416577",
+					"source_user_id": 42602780,
+					"source_user_id_str": "42602780"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9574,
+			"friends_count": 3844,
+			"listed_count": 473,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14221,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Jan 17 18:43:03 +0000 2017",
+			"id": 821427632059416600,
+			"id_str": "821427632059416577",
+			"text": "Q6 Who inspires you to incorporate #STEM in your curriculum? #MSFTEduChat https://t.co/Bat7O8QAbd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "STEM",
+						"indices": [
+							35,
+							40
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							61,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 821427339124830200,
+						"id_str": "821427339124830208",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZL0BVUcAAC5Aq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZL0BVUcAAC5Aq.jpg",
+						"url": "https://t.co/Bat7O8QAbd",
+						"display_url": "pic.twitter.com/Bat7O8QAbd",
+						"expanded_url": "https://twitter.com/mraspinall/status/821427632059416577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 676,
+								"h": 379,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 676,
+								"h": 379,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 676,
+								"h": 379,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821427339124830200,
+						"id_str": "821427339124830208",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZL0BVUcAAC5Aq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZL0BVUcAAC5Aq.jpg",
+						"url": "https://t.co/Bat7O8QAbd",
+						"display_url": "pic.twitter.com/Bat7O8QAbd",
+						"expanded_url": "https://twitter.com/mraspinall/status/821427632059416577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 676,
+								"h": 379,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 676,
+								"h": 379,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 676,
+								"h": 379,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42602780,
+				"id_str": "42602780",
+				"name": "Brian Aspinall",
+				"screen_name": "mraspinall",
+				"location": "Harrow & Chatham, Ont., Canada",
+				"description": "Teacher | Trying to spark curiosity with coding, math & makerspace. Program Director of STEM Education @fcledu, MPed Student, TEDx Speaker, App Developer",
+				"url": "https://t.co/4hyzhSZv2n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4hyzhSZv2n",
+								"expanded_url": "http://www.mraspinall.com",
+								"display_url": "mraspinall.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29189,
+				"friends_count": 20714,
+				"listed_count": 1019,
+				"created_at": "Tue May 26 10:55:33 +0000 2009",
+				"favourites_count": 27367,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48040,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780544467258310656/A2M-EnZ2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780544467258310656/A2M-EnZ2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42602780/1451238331",
+				"profile_link_color": "444444",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "550393b2ef425bbb",
+				"url": "https://api.twitter.com/1.1/geo/id/550393b2ef425bbb.json",
+				"place_type": "city",
+				"name": "Chatham-Kent",
+				"full_name": "Chatham-Kent, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-82.500115,
+								41.676525
+							],
+							[
+								-81.416287,
+								41.676525
+							],
+							[
+								-81.416287,
+								42.651457
+							],
+							[
+								-82.500115,
+								42.651457
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 17 18:38:24 +0000 2017",
+		"id": 821426460619640800,
+		"id_str": "821426460619640832",
+		"text": "We'll aggregate the most helpful #STEM resources to share these out with everyone on @MSDocscom together with Stori… https://t.co/yATMH4UmV5",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEM",
+					"indices": [
+						33,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msdocscom",
+					"name": "Docs .com",
+					"id": 3269981826,
+					"id_str": "3269981826",
+					"indices": [
+						85,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yATMH4UmV5",
+					"expanded_url": "https://twitter.com/i/web/status/821426460619640832",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9574,
+			"friends_count": 3844,
+			"listed_count": 473,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14221,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 821425888604651500,
+		"quoted_status_id_str": "821425888604651524",
+		"quoted_status": {
+			"created_at": "Tue Jan 17 18:36:07 +0000 2017",
+			"id": 821425888604651500,
+			"id_str": "821425888604651524",
+			"text": "Q5 What #STEM resources do you recommend? #MSFTEduChat #EdTech https://t.co/Py60gmPzyj https://t.co/oXXtqeOtGB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "STEM",
+						"indices": [
+							8,
+							13
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							42,
+							54
+						]
+					},
+					{
+						"text": "EdTech",
+						"indices": [
+							55,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Py60gmPzyj",
+						"expanded_url": "http://aka.ms/HackingSTEM",
+						"display_url": "aka.ms/HackingSTEM",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 821425830345588700,
+						"id_str": "821425830345588737",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZKcMsUQAEl8Vm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZKcMsUQAEl8Vm.jpg",
+						"url": "https://t.co/oXXtqeOtGB",
+						"display_url": "pic.twitter.com/oXXtqeOtGB",
+						"expanded_url": "https://twitter.com/mraspinall/status/821425888604651524/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 670,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 670,
+								"h": 375,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 670,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821425830345588700,
+						"id_str": "821425830345588737",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZKcMsUQAEl8Vm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZKcMsUQAEl8Vm.jpg",
+						"url": "https://t.co/oXXtqeOtGB",
+						"display_url": "pic.twitter.com/oXXtqeOtGB",
+						"expanded_url": "https://twitter.com/mraspinall/status/821425888604651524/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 670,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 670,
+								"h": 375,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 670,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42602780,
+				"id_str": "42602780",
+				"name": "Brian Aspinall",
+				"screen_name": "mraspinall",
+				"location": "Harrow & Chatham, Ont., Canada",
+				"description": "Teacher | Trying to spark curiosity with coding, math & makerspace. Program Director of STEM Education @fcledu, MPed Student, TEDx Speaker, App Developer",
+				"url": "https://t.co/4hyzhSZv2n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4hyzhSZv2n",
+								"expanded_url": "http://www.mraspinall.com",
+								"display_url": "mraspinall.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29189,
+				"friends_count": 20714,
+				"listed_count": 1019,
+				"created_at": "Tue May 26 10:55:33 +0000 2009",
+				"favourites_count": 27367,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48040,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780544467258310656/A2M-EnZ2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780544467258310656/A2M-EnZ2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42602780/1451238331",
+				"profile_link_color": "444444",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "550393b2ef425bbb",
+				"url": "https://api.twitter.com/1.1/geo/id/550393b2ef425bbb.json",
+				"place_type": "city",
+				"name": "Chatham-Kent",
+				"full_name": "Chatham-Kent, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-82.500115,
+								41.676525
+							],
+							[
+								-81.416287,
+								41.676525
+							],
+							[
+								-81.416287,
+								42.651457
+							],
+							[
+								-82.500115,
+								42.651457
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 17 18:31:41 +0000 2017",
+		"id": 821424771019735000,
+		"id_str": "821424771019735047",
+		"text": "Such a useful question about #STEM examples, especially of interest to educators who are just starting out with it… https://t.co/ZD8lWufUqq",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEM",
+					"indices": [
+						29,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZD8lWufUqq",
+					"expanded_url": "https://twitter.com/i/web/status/821424771019735047",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9574,
+			"friends_count": 3844,
+			"listed_count": 473,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14221,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 821423750323327000,
+		"quoted_status_id_str": "821423750323326976",
+		"quoted_status": {
+			"created_at": "Tue Jan 17 18:27:38 +0000 2017",
+			"id": 821423750323327000,
+			"id_str": "821423750323326976",
+			"text": "Q4 Can you share classroom examples incorporating #STEM? #MSFTEduChat @Hacking_STEM https://t.co/rLO6L3lPG4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "STEM",
+						"indices": [
+							50,
+							55
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							57,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Hacking_STEM",
+						"name": "Hacking STEM",
+						"id": 806619118539444200,
+						"id_str": "806619118539444224",
+						"indices": [
+							70,
+							83
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 821423707880988700,
+						"id_str": "821423707880988672",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZIgp5UoAAF5Oq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZIgp5UoAAF5Oq.jpg",
+						"url": "https://t.co/rLO6L3lPG4",
+						"display_url": "pic.twitter.com/rLO6L3lPG4",
+						"expanded_url": "https://twitter.com/mraspinall/status/821423750323326976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 552,
+								"h": 306,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 552,
+								"h": 306,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 552,
+								"h": 306,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821423707880988700,
+						"id_str": "821423707880988672",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZIgp5UoAAF5Oq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZIgp5UoAAF5Oq.jpg",
+						"url": "https://t.co/rLO6L3lPG4",
+						"display_url": "pic.twitter.com/rLO6L3lPG4",
+						"expanded_url": "https://twitter.com/mraspinall/status/821423750323326976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 552,
+								"h": 306,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 552,
+								"h": 306,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 552,
+								"h": 306,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42602780,
+				"id_str": "42602780",
+				"name": "Brian Aspinall",
+				"screen_name": "mraspinall",
+				"location": "Harrow & Chatham, Ont., Canada",
+				"description": "Teacher | Trying to spark curiosity with coding, math & makerspace. Program Director of STEM Education @fcledu, MPed Student, TEDx Speaker, App Developer",
+				"url": "https://t.co/4hyzhSZv2n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4hyzhSZv2n",
+								"expanded_url": "http://www.mraspinall.com",
+								"display_url": "mraspinall.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29189,
+				"friends_count": 20714,
+				"listed_count": 1019,
+				"created_at": "Tue May 26 10:55:33 +0000 2009",
+				"favourites_count": 27367,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48040,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780544467258310656/A2M-EnZ2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780544467258310656/A2M-EnZ2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42602780/1451238331",
+				"profile_link_color": "444444",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "550393b2ef425bbb",
+				"url": "https://api.twitter.com/1.1/geo/id/550393b2ef425bbb.json",
+				"place_type": "city",
+				"name": "Chatham-Kent",
+				"full_name": "Chatham-Kent, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-82.500115,
+								41.676525
+							],
+							[
+								-81.416287,
+								41.676525
+							],
+							[
+								-81.416287,
+								42.651457
+							],
+							[
+								-82.500115,
+								42.651457
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 17 18:27:35 +0000 2017",
+		"id": 821423738830913500,
+		"id_str": "821423738830913537",
+		"text": "RT @mr_isaacs: oooooh #STEMpathy - I like it! #MSFTEduChat https://t.co/uckQPa4YJm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEMpathy",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mr_isaacs",
+					"name": "Steven Isaacs",
+					"id": 216900952,
+					"id_str": "216900952",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uckQPa4YJm",
+					"expanded_url": "https://twitter.com/TeacherBeard/status/821423097991614467",
+					"display_url": "twitter.com/TeacherBeard/s…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9574,
+			"friends_count": 3844,
+			"listed_count": 473,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14221,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Jan 17 18:25:58 +0000 2017",
+			"id": 821423331496853500,
+			"id_str": "821423331496853506",
+			"text": "oooooh #STEMpathy - I like it! #MSFTEduChat https://t.co/uckQPa4YJm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "STEMpathy",
+						"indices": [
+							7,
+							17
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							31,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uckQPa4YJm",
+						"expanded_url": "https://twitter.com/TeacherBeard/status/821423097991614467",
+						"display_url": "twitter.com/TeacherBeard/s…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.participate.com\" rel=\"nofollow\">Participate Learning</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216900952,
+				"id_str": "216900952",
+				"name": "Steven Isaacs",
+				"screen_name": "mr_isaacs",
+				"location": "New Jersey",
+				"description": "Teacher|Video Game Development|#ISTE2016 Outstanding Teacher |PBS Lead Digital Innovator NJ|@brainpop CBE | #MIE | #minecraft mentor | @minefaire producer",
+				"url": "https://t.co/HbmmPU01tL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HbmmPU01tL",
+								"expanded_url": "http://gamesandlearning1.blogspot.com",
+								"display_url": "gamesandlearning1.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12725,
+				"friends_count": 9670,
+				"listed_count": 1050,
+				"created_at": "Thu Nov 18 01:06:50 +0000 2010",
+				"favourites_count": 29683,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60240,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799813570011664384/5N3X2RMM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799813570011664384/5N3X2RMM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216900952/1449620005",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 821423097991614500,
+			"quoted_status_id_str": "821423097991614467",
+			"quoted_status": {
+				"created_at": "Tue Jan 17 18:25:02 +0000 2017",
+				"id": 821423097991614500,
+				"id_str": "821423097991614467",
+				"text": "Falling into the \"ST-Empathy\" category, that it's not about winning but collaboration &amp; learning together… https://t.co/UT2X9rssin",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/UT2X9rssin",
+							"expanded_url": "https://twitter.com/i/web/status/821423097991614467",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 267742435,
+					"id_str": "267742435",
+					"name": "Todd Beard",
+					"screen_name": "TeacherBeard",
+					"location": "Flint, Michigan",
+					"description": "Dad&K12TechTeacher, #make #Edutainment! #PBSDigitalinnovators, #code #STEM2STEAM  #CSforAll #FIRSTrobotics #MIEExpert #MIEFellow @TeachtoLead #YouthSpark #FETC",
+					"url": "https://t.co/KGoKDij2Dh",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/KGoKDij2Dh",
+									"expanded_url": "http://www.EdutainmentTeacher.com",
+									"display_url": "EdutainmentTeacher.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 12514,
+					"friends_count": 12244,
+					"listed_count": 538,
+					"created_at": "Thu Mar 17 13:17:07 +0000 2011",
+					"favourites_count": 15368,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 7744,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/786195878876942336/b4Yr9TY-_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/786195878876942336/b4Yr9TY-_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/267742435/1471529262",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 821421729801273300,
+				"quoted_status_id_str": "821421729801273344",
+				"retweet_count": 3,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 821423097991614500,
+		"quoted_status_id_str": "821423097991614467",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 17 18:22:46 +0000 2017",
+		"id": 821422526161109000,
+		"id_str": "821422526161108992",
+		"text": "Gotta love these questions the #MSFTEduChat hosts are putting out, such as this one about what students gain from… https://t.co/JyBXrnk2qg",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JyBXrnk2qg",
+					"expanded_url": "https://twitter.com/i/web/status/821422526161108992",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Home to OneNote Community Notebook.\nCuration: Marjolein Hoekstra – OneNote MVP and Microsoft Partner Product Expert",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9574,
+			"friends_count": 3844,
+			"listed_count": 473,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14221,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"is_quote_status": true,
+		"quoted_status_id": 821421889746833400,
+		"quoted_status_id_str": "821421889746833409",
+		"quoted_status": {
+			"created_at": "Tue Jan 17 18:20:14 +0000 2017",
+			"id": 821421889746833400,
+			"id_str": "821421889746833409",
+			"text": "Q3 What skills do your students gain through #STEM curriculum? #MSFTEduChat https://t.co/G3HegGifw4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "STEM",
+						"indices": [
+							45,
+							50
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							63,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 821421856850735100,
+						"id_str": "821421856850735104",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZG06RUcAAAmzK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZG06RUcAAAmzK.jpg",
+						"url": "https://t.co/G3HegGifw4",
+						"display_url": "pic.twitter.com/G3HegGifw4",
+						"expanded_url": "https://twitter.com/mraspinall/status/821421889746833409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 552,
+								"h": 310,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 552,
+								"h": 310,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 552,
+								"h": 310,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821421856850735100,
+						"id_str": "821421856850735104",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZG06RUcAAAmzK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZG06RUcAAAmzK.jpg",
+						"url": "https://t.co/G3HegGifw4",
+						"display_url": "pic.twitter.com/G3HegGifw4",
+						"expanded_url": "https://twitter.com/mraspinall/status/821421889746833409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 552,
+								"h": 310,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 552,
+								"h": 310,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 552,
+								"h": 310,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42602780,
+				"id_str": "42602780",
+				"name": "Brian Aspinall",
+				"screen_name": "mraspinall",
+				"location": "Harrow & Chatham, Ont., Canada",
+				"description": "Teacher | Trying to spark curiosity with coding, math & makerspace. Program Director of STEM Education @fcledu, MPed Student, TEDx Speaker, App Developer",
+				"url": "https://t.co/4hyzhSZv2n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4hyzhSZv2n",
+								"expanded_url": "http://www.mraspinall.com",
+								"display_url": "mraspinall.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29189,
+				"friends_count": 20714,
+				"listed_count": 1019,
+				"created_at": "Tue May 26 10:55:33 +0000 2009",
+				"favourites_count": 27367,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48040,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780544467258310656/A2M-EnZ2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780544467258310656/A2M-EnZ2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42602780/1451238331",
+				"profile_link_color": "444444",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "550393b2ef425bbb",
+				"url": "https://api.twitter.com/1.1/geo/id/550393b2ef425bbb.json",
+				"place_type": "city",
+				"name": "Chatham-Kent",
+				"full_name": "Chatham-Kent, Ontario",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-82.500115,
+								41.676525
+							],
+							[
+								-81.416287,
+								41.676525
+							],
+							[
+								-81.416287,
+								42.651457
+							],
+							[
+								-82.500115,
+								42.651457
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 17 18:15:41 +0000 2017",
 		"id": 821420743040921600,
 		"id_str": "821420743040921604",
