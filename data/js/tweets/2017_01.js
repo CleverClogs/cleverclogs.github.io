@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Mon Jan 23 16:12:54 +0000 2017",
+		"id": 823564170880843800,
+		"id_str": "823564170880843776",
+		"text": "RT @kburtonr: Created a fill in the blanks inheritance assignment for #APCS using @wizerme in #OneNote today.  #MIEExpert https://t.co/QtvX…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "APCS",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kburtonr",
+					"name": "Kim Burton",
+					"id": 632303226,
+					"id_str": "632303226",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "wizerme",
+					"name": "Wizer.Me",
+					"id": 2392292413,
+					"id_str": "2392292413",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9658,
+			"friends_count": 3853,
+			"listed_count": 472,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14314,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14476,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 23 15:54:09 +0000 2017",
+			"id": 823559452750213100,
+			"id_str": "823559452750213120",
+			"text": "Created a fill in the blanks inheritance assignment for #APCS using @wizerme in #OneNote today.  #MIEExpert https://t.co/QtvXWTb56b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "APCS",
+						"indices": [
+							56,
+							61
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							80,
+							88
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							97,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wizerme",
+						"name": "Wizer.Me",
+						"id": 2392292413,
+						"id_str": "2392292413",
+						"indices": [
+							68,
+							76
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 823558820953788400,
+						"id_str": "823558820953788416",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C23eYl6XEAA9DT3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C23eYl6XEAA9DT3.jpg",
+						"url": "https://t.co/QtvXWTb56b",
+						"display_url": "pic.twitter.com/QtvXWTb56b",
+						"expanded_url": "https://twitter.com/kburtonr/status/823559452750213120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1635,
+								"h": 845,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 351,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 823558820953788400,
+						"id_str": "823558820953788416",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/C23eYl6XEAA9DT3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C23eYl6XEAA9DT3.jpg",
+						"url": "https://t.co/QtvXWTb56b",
+						"display_url": "pic.twitter.com/QtvXWTb56b",
+						"expanded_url": "https://twitter.com/kburtonr/status/823559452750213120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1635,
+								"h": 845,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 351,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 632303226,
+				"id_str": "632303226",
+				"name": "Kim Burton",
+				"screen_name": "kburtonr",
+				"location": "Eastern Technical High",
+				"description": "Mathematics Department Chairman, AP Computer Science and AP Calculus AB Teacher, wife, mother and I-Lab Makerspace Innovation Coordinator",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 181,
+				"friends_count": 281,
+				"listed_count": 32,
+				"created_at": "Tue Jul 10 18:52:31 +0000 2012",
+				"favourites_count": 283,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 739,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/782740000463093760/WpQZ6-R7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/782740000463093760/WpQZ6-R7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/632303226/1471183821",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 23 14:53:27 +0000 2017",
 		"id": 823544178303008800,
 		"id_str": "823544178303008768",
