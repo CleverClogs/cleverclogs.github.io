@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 26 20:23:36 +0000 2017",
+		"id": 824714427597480000,
+		"id_str": "824714427597479938",
+		"text": "RT @LBayne: Don't miss the incredible #MIEExpert @pittmansplace speaking tomorrow at #FETC on #OneNote and Microsoft Learning Tools https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"text": "FETC",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LBayne",
+					"name": "LBayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "pittmansplace",
+					"name": "Lauren Pittman",
+					"id": 3294396287,
+					"id_str": "3294396287",
+					"indices": [
+						49,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9733,
+			"friends_count": 3862,
+			"listed_count": 475,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14389,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14522,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 26 19:55:36 +0000 2017",
+			"id": 824707380403404800,
+			"id_str": "824707380403404801",
+			"text": "Don't miss the incredible #MIEExpert @pittmansplace speaking tomorrow at #FETC on #OneNote and Microsoft Learning T… https://t.co/EhbXDDdE5n",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							26,
+							36
+						]
+					},
+					{
+						"text": "FETC",
+						"indices": [
+							73,
+							78
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							82,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pittmansplace",
+						"name": "Lauren Pittman",
+						"id": 3294396287,
+						"id_str": "3294396287",
+						"indices": [
+							37,
+							51
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EhbXDDdE5n",
+						"expanded_url": "https://twitter.com/i/web/status/824707380403404801",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18954505,
+				"id_str": "18954505",
+				"name": "LBayne",
+				"screen_name": "LBayne",
+				"location": "Belltown, Seattle",
+				"description": "Triathlete, amateur artist, blind optimist, #EdTech and #OneNote Enthusiast on the #Microsoft in Education Marketing team-- Follow @OneNoteEDU & @Microsoft_EDU",
+				"url": "https://t.co/Yb8vnKWfz2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Yb8vnKWfz2",
+								"expanded_url": "http://microsoft.com/education",
+								"display_url": "microsoft.com/education",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 898,
+				"friends_count": 865,
+				"listed_count": 156,
+				"created_at": "Tue Jan 13 21:34:28 +0000 2009",
+				"favourites_count": 2878,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3300,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783460583500832768/GWgckXxd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783460583500832768/GWgckXxd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18954505/1473207396",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 824693912866553900,
+			"quoted_status_id_str": "824693912866553856",
+			"quoted_status": {
+				"created_at": "Thu Jan 26 19:02:05 +0000 2017",
+				"id": 824693912866553900,
+				"id_str": "824693912866553856",
+				"text": "Let's do this peeps!! My session is tomorrow at 12:00 in South 329...talking about @OneNoteEDU and #LearningTools… https://t.co/WNW9ZPJIC4",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "LearningTools",
+							"indices": [
+								99,
+								113
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "OneNoteEDU",
+							"name": "@OneNoteEDU",
+							"id": 3096566760,
+							"id_str": "3096566760",
+							"indices": [
+								83,
+								94
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/WNW9ZPJIC4",
+							"expanded_url": "https://twitter.com/i/web/status/824693912866553856",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3294396287,
+					"id_str": "3294396287",
+					"name": "Lauren Pittman",
+					"screen_name": "pittmansplace",
+					"location": "",
+					"description": "SPED Teacher-#MIEExpert-Microsoft Surface Expert-Marvel Fanatic-OneNote Level 20 Warrior-Microsoft Certified Educator-Southern Belle with a Flare & #Vol4Life",
+					"url": "https://digitalintheclassroom.wordpress.com/",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://digitalintheclassroom.wordpress.com/",
+									"expanded_url": null,
+									"indices": [
+										0,
+										44
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 877,
+					"friends_count": 440,
+					"listed_count": 52,
+					"created_at": "Fri May 22 19:50:06 +0000 2015",
+					"favourites_count": 555,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 717,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/772891406457303041/ExEcMjw-_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/772891406457303041/ExEcMjw-_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3294396287/1475188630",
+					"profile_link_color": "DD2E44",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 824693912866553900,
+		"quoted_status_id_str": "824693912866553856",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 26 19:39:42 +0000 2017",
 		"id": 824703380140552200,
 		"id_str": "824703380140552193",
