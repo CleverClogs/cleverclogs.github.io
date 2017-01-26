@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 26 17:15:04 +0000 2017",
+		"id": 824666979067797500,
+		"id_str": "824666979067797504",
+		"text": "RT @cawley_brendan: A fantastic example of using @MS_eduIRL #OneNote with #Surface to enhance the learning experience for S's #MIEExpert ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "Surface",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cawley_brendan",
+					"name": "Brendan Cawley",
+					"id": 734743558805172200,
+					"id_str": "734743558805172224",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "MS_eduIRL",
+					"name": "Microsoft Edu IRL",
+					"id": 1418497789,
+					"id_str": "1418497789",
+					"indices": [
+						49,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9728,
+			"friends_count": 3860,
+			"listed_count": 475,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14380,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 26 17:13:32 +0000 2017",
+			"id": 824666596157362200,
+			"id_str": "824666596157362177",
+			"text": "A fantastic example of using @MS_eduIRL #OneNote with #Surface to enhance the learning experience for S's #MIEExpert https://t.co/3Z7kZuj01h",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							40,
+							48
+						]
+					},
+					{
+						"text": "Surface",
+						"indices": [
+							54,
+							62
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							106,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MS_eduIRL",
+						"name": "Microsoft Edu IRL",
+						"id": 1418497789,
+						"id_str": "1418497789",
+						"indices": [
+							29,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3Z7kZuj01h",
+						"expanded_url": "https://twitter.com/msajolliffe/status/824616916270649344",
+						"display_url": "twitter.com/msajolliffe/st…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 734743558805172200,
+				"id_str": "734743558805172224",
+				"name": "Brendan Cawley",
+				"screen_name": "cawley_brendan",
+				"location": "Dublin City, Ireland",
+				"description": "Teacher Engagement Manager: Microsoft|Wriggle. Leading schools journey to transforming teaching & learning with technology. Professional account.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115,
+				"friends_count": 112,
+				"listed_count": 8,
+				"created_at": "Mon May 23 13:51:30 +0000 2016",
+				"favourites_count": 161,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 121,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783752833996820483/qNFxUSsc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783752833996820483/qNFxUSsc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/734743558805172224/1464012004",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 824616916270649300,
+			"quoted_status_id_str": "824616916270649344",
+			"quoted_status": {
+				"created_at": "Thu Jan 26 13:56:08 +0000 2017",
+				"id": 824616916270649300,
+				"id_str": "824616916270649344",
+				"text": "Ss able to take a photo and annotate over today's Science results which will now be in their book! @OneNoteEDU… https://t.co/aUfwqXzeoi",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "OneNoteEDU",
+							"name": "@OneNoteEDU",
+							"id": 3096566760,
+							"id_str": "3096566760",
+							"indices": [
+								99,
+								110
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/aUfwqXzeoi",
+							"expanded_url": "https://twitter.com/i/web/status/824616916270649344",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3372105101,
+					"id_str": "3372105101",
+					"name": "Amanda Jolliffe",
+					"screen_name": "msajolliffe",
+					"location": "Dublin, Ireland",
+					"description": "PE,Science&Biology T & ICT coordinator @cpsetanta |MIE Fellow|DCU PEB graduate|Class Tutor |PDST ICT Tutor |Lifelong Learner|Coach |GWG footballer|Sportswoman❤️",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 436,
+					"friends_count": 943,
+					"listed_count": 31,
+					"created_at": "Sun Jul 12 10:44:24 +0000 2015",
+					"favourites_count": 1398,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 503,
+					"lang": "en-GB",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/817197301609459712/c-0Wuuh__normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/817197301609459712/c-0Wuuh__normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3372105101/1457205825",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 824616916270649300,
+		"quoted_status_id_str": "824616916270649344",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 24 23:09:53 +0000 2017",
 		"id": 824031497766191100,
 		"id_str": "824031497766191104",
