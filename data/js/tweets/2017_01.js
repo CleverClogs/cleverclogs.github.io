@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 26 22:24:17 +0000 2017",
+		"id": 824744798028447700,
+		"id_str": "824744798028447746",
+		"text": "Wonderful interview by @Arbar13 with @Zelfstudie, live at #BETT2017, about his @TeacherPrize nomination and why… https://t.co/EblCLQaCHM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BETT2017",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arbar13",
+					"name": "Ari Schorr",
+					"id": 36726617,
+					"id_str": "36726617",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"screen_name": "TeacherPrize",
+					"name": "Global Teacher Prize",
+					"id": 2345263466,
+					"id_str": "2345263466",
+					"indices": [
+						79,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EblCLQaCHM",
+					"expanded_url": "https://twitter.com/i/web/status/824744798028447746",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9736,
+			"friends_count": 3862,
+			"listed_count": 476,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14390,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14523,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 824636652459094000,
+		"quoted_status_id_str": "824636652459094018",
+		"quoted_status": {
+			"created_at": "Thu Jan 26 15:14:33 +0000 2017",
+			"id": 824636652459094000,
+			"id_str": "824636652459094018",
+			"text": "WATCH THIS! An honor to interview a friend and globally recognized #MIEExpert @zelfstudie - Met last year and now h… https://t.co/wu5lPaz91I",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							67,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "zelfstudie",
+						"name": "Koen Timmers",
+						"id": 149593681,
+						"id_str": "149593681",
+						"indices": [
+							78,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wu5lPaz91I",
+						"expanded_url": "https://twitter.com/i/web/status/824636652459094018",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36726617,
+				"id_str": "36726617",
+				"name": "Ari Schorr",
+				"screen_name": "arbar13",
+				"location": "Seattle, WA",
+				"description": "Education Product Marketing & OneNote Avenger at Microsoft, Michigan grad, and long distance runner",
+				"url": "https://t.co/p6eConkcqA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p6eConkcqA",
+								"expanded_url": "http://blogs.office.com/education",
+								"display_url": "blogs.office.com/education",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2090,
+				"friends_count": 1531,
+				"listed_count": 184,
+				"created_at": "Thu Apr 30 17:58:38 +0000 2009",
+				"favourites_count": 3334,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3932,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803094468903649280/-UAIl5Ji_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803094468903649280/-UAIl5Ji_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36726617/1422217748",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 824626582975246300,
+			"quoted_status_id_str": "824626582975246338",
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 26 20:23:36 +0000 2017",
 		"id": 824714427597480000,
 		"id_str": "824714427597479938",
