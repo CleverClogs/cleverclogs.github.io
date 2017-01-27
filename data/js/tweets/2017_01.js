@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Fri Jan 27 08:40:14 +0000 2017",
+		"id": 824899806422184000,
+		"id_str": "824899806422183939",
+		"text": "Brand-new #OneNote blog, entirely focused on beginners. This is its inaugural post:\n[German] by #MVP and #MIEExpert… https://t.co/JVSlNXMzcE",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "MVP",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JVSlNXMzcE",
+					"expanded_url": "https://twitter.com/i/web/status/824899806422183939",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9740,
+			"friends_count": 3862,
+			"listed_count": 477,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14392,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14524,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 824747924928229400,
+		"quoted_status_id_str": "824747924928229376",
+		"quoted_status": {
+			"created_at": "Thu Jan 26 22:36:43 +0000 2017",
+			"id": 824747924928229400,
+			"id_str": "824747924928229376",
+			"text": "Was ist #OneNote eigentlich? Für Einsteiger geht's im brandneuen Blog jetzt richtig los: https://t.co/nzOgtP1mZV @MicrosoftDE @OneNoteC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							8,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftDE",
+						"name": "Microsoft Germany",
+						"id": 29719618,
+						"id_str": "29719618",
+						"indices": [
+							113,
+							125
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							126,
+							135
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nzOgtP1mZV",
+						"expanded_url": "http://onenote-fuer-einsteiger.de/was-ist-onenote",
+						"display_url": "onenote-fuer-einsteiger.de/was-ist-onenote",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3883996702,
+				"id_str": "3883996702",
+				"name": "OneNoteDE",
+				"screen_name": "OneNoteDE",
+				"location": "Deutschland",
+				"description": "Praxis-Tipps für #Microsoft #OneNote | Unabhängiges Web-Projekt von @StefanMalter, #MVP + #MIEExpert | Buch zum Blog: https://t.co/3QSDkADZAv",
+				"url": "https://t.co/oARVyH6RzJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oARVyH6RzJ",
+								"expanded_url": "http://onenote-fuer-lehrer.de",
+								"display_url": "onenote-fuer-lehrer.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3QSDkADZAv",
+								"expanded_url": "http://amzn.to/2hxZcTl",
+								"display_url": "amzn.to/2hxZcTl",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 418,
+				"friends_count": 216,
+				"listed_count": 68,
+				"created_at": "Tue Oct 06 21:10:16 +0000 2015",
+				"favourites_count": 678,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1092,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/651510554813693952/ZoDZdELF_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/651510554813693952/ZoDZdELF_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3883996702/1475343694",
+				"profile_link_color": "80397B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 26 22:24:17 +0000 2017",
 		"id": 824744798028447700,
 		"id_str": "824744798028447746",
