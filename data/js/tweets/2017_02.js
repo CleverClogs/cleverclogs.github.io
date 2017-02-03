@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 03 20:37:25 +0000 2017",
+		"id": 827617005557645300,
+		"id_str": "827617005557645312",
+		"text": "@StacieBTX @SugarLandMS @KHS_Cougars @GarciaMS_Gators Hi Stacie, did you make this #OfficeMix private to your organization on purpose?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OfficeMix",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StacieBTX",
+					"name": "Stacie Boudrie",
+					"id": 80344587,
+					"id_str": "80344587",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SugarLandMS",
+					"name": "Sugar Land MS",
+					"id": 858108360,
+					"id_str": "858108360",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "KHS_Cougars",
+					"name": "Kempner High School",
+					"id": 48864408,
+					"id_str": "48864408",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "GarciaMS_Gators",
+					"name": "Garcia Middle School",
+					"id": 408077053,
+					"id_str": "408077053",
+					"indices": [
+						37,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 827257788019531800,
+		"in_reply_to_status_id_str": "827257788019531778",
+		"in_reply_to_user_id": 80344587,
+		"in_reply_to_user_id_str": "80344587",
+		"in_reply_to_screen_name": "StacieBTX",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9834,
+			"friends_count": 3874,
+			"listed_count": 478,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14510,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14592,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 03 19:40:12 +0000 2017",
 		"id": 827602606059094000,
 		"id_str": "827602606059094016",
