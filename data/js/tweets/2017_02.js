@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Wed Feb 08 20:55:08 +0000 2017",
+		"id": 829433402982019100,
+		"id_str": "829433402982019072",
+		"text": "RT @tomgrissom: The more you learn about #OneNote the more you discover that it's one of the best teaching &amp; learning tools available today…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomgrissom",
+					"name": "Tom Grissom",
+					"id": 15348616,
+					"id_str": "15348616",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9965,
+			"friends_count": 3885,
+			"listed_count": 480,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14643,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 08 18:09:15 +0000 2017",
+			"id": 829391657628028900,
+			"id_str": "829391657628028932",
+			"text": "The more you learn about #OneNote the more you discover that it's one of the best teaching &amp; learning tools availab… https://t.co/Ft9s0Evf5N",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							25,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ft9s0Evf5N",
+						"expanded_url": "https://twitter.com/i/web/status/829391657628028932",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15348616,
+				"id_str": "15348616",
+				"name": "Tom Grissom",
+				"screen_name": "tomgrissom",
+				"location": "Illinois",
+				"description": "Father, Educator, Thinker, Maker, Podcaster, Farmer, Co-founder edcampEIU, MIEExpert, Ph.D. Day Job: Growing Minds https://t.co/3BdK04V6H2",
+				"url": "http://t.co/BQMHLqzjG8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BQMHLqzjG8",
+								"expanded_url": "http://eiu.edu/itc",
+								"display_url": "eiu.edu/itc",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3BdK04V6H2",
+								"expanded_url": "https://docs.com/dr-grissom",
+								"display_url": "docs.com/dr-grissom",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2319,
+				"friends_count": 1887,
+				"listed_count": 370,
+				"created_at": "Tue Jul 08 01:20:29 +0000 2008",
+				"favourites_count": 12,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18375,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815572810655354880/9Lf2rt2k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815572810655354880/9Lf2rt2k_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 829385712315273200,
+			"quoted_status_id_str": "829385712315273216",
+			"quoted_status": {
+				"created_at": "Wed Feb 08 17:45:37 +0000 2017",
+				"id": 829385712315273200,
+				"id_str": "829385712315273216",
+				"text": "MT In #OneNote training w MGuhlin at #TCEA17 https://t.co/hkeNobNDRV https://t.co/hkeNobNDRV via https://t.co/45BE27Z0Pk",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OneNote",
+							"indices": [
+								6,
+								14
+							]
+						},
+						{
+							"text": "TCEA17",
+							"indices": [
+								37,
+								44
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/hkeNobNDRV",
+							"expanded_url": "https://twitter.com/akajim/status/829383410141560832/photo/1",
+							"display_url": "pic.twitter.com/hkeNobNDRV",
+							"indices": [
+								69,
+								92
+							]
+						},
+						{
+							"url": "https://t.co/45BE27Z0Pk",
+							"expanded_url": "https://twitter.com/akajim/status/829383410141560832",
+							"display_url": "twitter.com/akajim/status/…",
+							"indices": [
+								97,
+								120
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 829383383096520700,
+							"id_str": "829383383096520704",
+							"indices": [
+								45,
+								68
+							],
+							"media_url": "http://pbs.twimg.com/media/C4KPyuwUcAAd86T.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C4KPyuwUcAAd86T.jpg",
+							"url": "https://t.co/hkeNobNDRV",
+							"display_url": "pic.twitter.com/hkeNobNDRV",
+							"expanded_url": "https://twitter.com/akajim/status/829383410141560832/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 2048,
+									"h": 1536,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 829383410141560800,
+							"source_status_id_str": "829383410141560832",
+							"source_user_id": 41212351,
+							"source_user_id_str": "41212351"
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 829383383096520700,
+							"id_str": "829383383096520704",
+							"indices": [
+								45,
+								68
+							],
+							"media_url": "http://pbs.twimg.com/media/C4KPyuwUcAAd86T.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C4KPyuwUcAAd86T.jpg",
+							"url": "https://t.co/hkeNobNDRV",
+							"display_url": "pic.twitter.com/hkeNobNDRV",
+							"expanded_url": "https://twitter.com/akajim/status/829383410141560832/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 2048,
+									"h": 1536,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 829383410141560800,
+							"source_status_id_str": "829383410141560832",
+							"source_user_id": 41212351,
+							"source_user_id_str": "41212351"
+						}
+					]
+				},
+				"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 5700782,
+					"id_str": "5700782",
+					"name": "Miguel Guhlin",
+					"screen_name": "mguhlin",
+					"location": "Texas",
+					"description": "Sharing to connect, connecting to learn, learning to lead, leading to grow, growing to transform. GCT,GCI,GCA; MIET, MIEE, CCGA;M:EE See https://t.co/ZWtFw8ThVL",
+					"url": "https://t.co/WxBnLT6rzG",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/WxBnLT6rzG",
+									"expanded_url": "http://mguhlin.org",
+									"display_url": "mguhlin.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/ZWtFw8ThVL",
+									"expanded_url": "http://bit.ly/connectmg",
+									"display_url": "bit.ly/connectmg",
+									"indices": [
+										137,
+										160
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 11342,
+					"friends_count": 11191,
+					"listed_count": 1038,
+					"created_at": "Wed May 02 02:16:33 +0000 2007",
+					"favourites_count": 13587,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 48907,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/796856965649473537/daoBzQPI_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/796856965649473537/daoBzQPI_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/5700782/1482077734",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "A8C7F7",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 829383410141560800,
+				"quoted_status_id_str": "829383410141560832",
+				"retweet_count": 0,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 829385712315273200,
+		"quoted_status_id_str": "829385712315273216",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 08 20:07:02 +0000 2017",
 		"id": 829421299852312600,
 		"id_str": "829421299852312584",
