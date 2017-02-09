@@ -1,6 +1,614 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Wed Feb 08 23:47:29 +0000 2017",
+		"id": 829476776673939500,
+		"id_str": "829476776673939457",
+		"text": "So nice to see @MissGEnrique's #OneNote interactive game design being featured on @MicrosoftEduCA's Twitter channel… https://t.co/lnTR53fLkY",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						31,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MissGEnrique",
+					"name": "G Enrique",
+					"id": 4120721403,
+					"id_str": "4120721403",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "MicrosoftEduCA",
+					"name": "Microsoft EDU Canada",
+					"id": 405043996,
+					"id_str": "405043996",
+					"indices": [
+						82,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lnTR53fLkY",
+					"expanded_url": "https://twitter.com/i/web/status/829476776673939457",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9969,
+			"friends_count": 3886,
+			"listed_count": 480,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14654,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 829476145229860900,
+		"quoted_status_id_str": "829476145229860867",
+		"quoted_status": {
+			"created_at": "Wed Feb 08 23:44:58 +0000 2017",
+			"id": 829476145229860900,
+			"id_str": "829476145229860867",
+			"text": "This lesson includes a video tutorial and a #OneNote template to help your class learn by creating! #GameDev… https://t.co/5fE5sTALUf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							44,
+							52
+						]
+					},
+					{
+						"text": "GameDev",
+						"indices": [
+							100,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5fE5sTALUf",
+						"expanded_url": "https://twitter.com/i/web/status/829476145229860867",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 405043996,
+				"id_str": "405043996",
+				"name": "Microsoft EDU Canada",
+				"screen_name": "MicrosoftEduCA",
+				"location": "",
+				"description": "Microsoft in Education Canada's official Twitter handle. Contact us at https://t.co/FGZNOGkVYL",
+				"url": "https://t.co/Kff3Pei3uz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Kff3Pei3uz",
+								"expanded_url": "https://education.microsoft.com/",
+								"display_url": "education.microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FGZNOGkVYL",
+								"expanded_url": "http://aka.ms/contact-ca",
+								"display_url": "aka.ms/contact-ca",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12806,
+				"friends_count": 2591,
+				"listed_count": 237,
+				"created_at": "Fri Nov 04 19:36:53 +0000 2011",
+				"favourites_count": 4430,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5085,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/360529013/CLC_BG.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/360529013/CLC_BG.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802266751429816320/BCqu0Af1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802266751429816320/BCqu0Af1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/405043996/1485225984",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Feb 08 23:22:10 +0000 2017",
+		"id": 829470406767677400,
+		"id_str": "829470406767677443",
+		"text": "RT @SummerWinrotte: Put us on your schedule for 9:15am Thurs @TCEA #DigitalInk in the 1:1 Clsrm w/#OneNote &amp; #Surface #tcea17 #MSFTedu http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalInk",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "Surface",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "tcea17",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "MSFTedu",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SummerWinrotte",
+					"name": "Ms Winrotte",
+					"id": 2312953676,
+					"id_str": "2312953676",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "TCEA",
+					"name": "TCEA",
+					"id": 44133359,
+					"id_str": "44133359",
+					"indices": [
+						61,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9969,
+			"friends_count": 3886,
+			"listed_count": 480,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 14654,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 08 22:58:55 +0000 2017",
+			"id": 829464555021541400,
+			"id_str": "829464555021541378",
+			"text": "Put us on your schedule for 9:15am Thurs @TCEA #DigitalInk in the 1:1 Clsrm w/#OneNote &amp; #Surface #tcea17 #MSFTedu https://t.co/ywdV1h5A1k",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigitalInk",
+						"indices": [
+							47,
+							58
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							78,
+							86
+						]
+					},
+					{
+						"text": "Surface",
+						"indices": [
+							93,
+							101
+						]
+					},
+					{
+						"text": "tcea17",
+						"indices": [
+							102,
+							109
+						]
+					},
+					{
+						"text": "MSFTedu",
+						"indices": [
+							110,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TCEA",
+						"name": "TCEA",
+						"id": 44133359,
+						"id_str": "44133359",
+						"indices": [
+							41,
+							46
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 829464547308089300,
+						"id_str": "829464547308089345",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/C4LZnHAUMAEXp3A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4LZnHAUMAEXp3A.jpg",
+						"url": "https://t.co/ywdV1h5A1k",
+						"display_url": "pic.twitter.com/ywdV1h5A1k",
+						"expanded_url": "https://twitter.com/SummerWinrotte/status/829464555021541378/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 829464547308089300,
+						"id_str": "829464547308089345",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/C4LZnHAUMAEXp3A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4LZnHAUMAEXp3A.jpg",
+						"url": "https://t.co/ywdV1h5A1k",
+						"display_url": "pic.twitter.com/ywdV1h5A1k",
+						"expanded_url": "https://twitter.com/SummerWinrotte/status/829464555021541378/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2312953676,
+				"id_str": "2312953676",
+				"name": "Ms Winrotte",
+				"screen_name": "SummerWinrotte",
+				"location": "",
+				"description": "Listener, Encourager, Digital Instructional Coach/Math Teacher, #MIEExpert, #Microsoft Certified Educator, Surface Expert, #OneNote FAN! Statements are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 465,
+				"friends_count": 332,
+				"listed_count": 171,
+				"created_at": "Mon Jan 27 03:50:15 +0000 2014",
+				"favourites_count": 1890,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1675,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/828720936744427520/xl97EN6o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/828720936744427520/xl97EN6o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2312953676/1486417993",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 08 22:43:45 +0000 2017",
 		"id": 829460737198264300,
 		"id_str": "829460737198264320",
