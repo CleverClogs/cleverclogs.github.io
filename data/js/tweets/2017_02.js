@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 25 12:17:11 +0000 2017",
+		"id": 835463651226169300,
+		"id_str": "835463651226169344",
+		"text": "Look how a student is using #OneNote on the iPad to describe and illustrate the setting of a story.\nKeep sharing th… https://t.co/HVN9vsjGYC",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						28,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HVN9vsjGYC",
+					"expanded_url": "https://twitter.com/i/web/status/835463651226169344",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10217,
+			"friends_count": 3955,
+			"listed_count": 478,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15113,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 835308228015755300,
+		"quoted_status_id_str": "835308228015755264",
+		"quoted_status": {
+			"created_at": "Sat Feb 25 01:59:35 +0000 2017",
+			"id": 835308228015755300,
+			"id_str": "835308228015755264",
+			"text": "Fri. Night paper grading via OneNote. This kid is a genius with an iPad. 😂#ruffpups #Turner202Strong #junctionproud… https://t.co/CPKCpQzBp1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ruffpups",
+						"indices": [
+							74,
+							83
+						]
+					},
+					{
+						"text": "Turner202Strong",
+						"indices": [
+							84,
+							100
+						]
+					},
+					{
+						"text": "junctionproud",
+						"indices": [
+							101,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CPKCpQzBp1",
+						"expanded_url": "https://twitter.com/i/web/status/835308228015755264",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18429498,
+				"id_str": "18429498",
+				"name": "Glenda Ruff",
+				"screen_name": "ruffteacher",
+				"location": "Kansas City, KS",
+				"description": "I teach 5 grade students at Junction Elementary in Turner School district in Kansas City, KS",
+				"url": "https://t.co/L0InhYVS8E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L0InhYVS8E",
+								"expanded_url": "http://www.turnerusd202.org/page.cfm?p=1987",
+								"display_url": "turnerusd202.org/page.cfm?p=1987",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107,
+				"friends_count": 152,
+				"listed_count": 6,
+				"created_at": "Sun Dec 28 16:32:02 +0000 2008",
+				"favourites_count": 32,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 73,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F4FE39",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/832868109493104641/9w2GdlJq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/832868109493104641/9w2GdlJq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18429498/1439581688",
+				"profile_link_color": "E6640A",
+				"profile_sidebar_border_color": "CCC433",
+				"profile_sidebar_fill_color": "F2E10D",
+				"profile_text_color": "362720",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 25 10:53:00 +0000 2017",
 		"id": 835442466564235300,
 		"id_str": "835442466564235264",
