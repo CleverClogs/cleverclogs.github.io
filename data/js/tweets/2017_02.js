@@ -1,6 +1,827 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 27 21:15:49 +0000 2017",
+		"id": 836323981355515900,
+		"id_str": "836323981355515904",
+		"text": "RT @BillGates: I’ll be joining @reddit for an #AMA today at 9 AM PST... Any questions? https://t.co/OqkmxWQVik",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AMA",
+					"indices": [
+						46,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BillGates",
+					"name": "Bill Gates",
+					"id": 50393960,
+					"id_str": "50393960",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "reddit",
+					"name": "Reddit",
+					"id": 811377,
+					"id_str": "811377",
+					"indices": [
+						31,
+						38
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 835710911365144600,
+					"id_str": "835710911365144577",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C5pRFRhUwAEhw60.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5pRFRhUwAEhw60.jpg",
+					"url": "https://t.co/OqkmxWQVik",
+					"display_url": "pic.twitter.com/OqkmxWQVik",
+					"expanded_url": "https://twitter.com/BillGates/status/836201512632119297/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836201512632119300,
+					"source_status_id_str": "836201512632119297",
+					"source_user_id": 50393960,
+					"source_user_id_str": "50393960"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 835710911365144600,
+					"id_str": "835710911365144577",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C5pRFRhUwAEhw60.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5pRFRhUwAEhw60.jpg",
+					"url": "https://t.co/OqkmxWQVik",
+					"display_url": "pic.twitter.com/OqkmxWQVik",
+					"expanded_url": "https://twitter.com/BillGates/status/836201512632119297/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 836201512632119300,
+					"source_status_id_str": "836201512632119297",
+					"source_user_id": 50393960,
+					"source_user_id_str": "50393960",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 51852,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/835710911365144577/pl/QFVl3k_19SNGohww.m3u8"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/amplify_video/835710911365144577/pl/QFVl3k_19SNGohww.mpd"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/835710911365144577/vid/640x360/ACGe6sH-r0rjAUD3.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/835710911365144577/vid/320x180/TVzJq4S70J1FYZr5.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/835710911365144577/vid/1280x720/fbmrHlhLMr2I2AkC.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Any Questions? Ask Bill Gates Anything",
+						"description": "Bill Gates will be joining Reddit for his fifth Ask Me Anything today at 9 AM PST.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.gatesnotes.com/2017-Annual-Letter?WT.mc_id=02_27_2017_05_AL2017_BG-TW_&WT.tsrc=BGTW"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 50393960,
+							"id_str": "50393960",
+							"name": "Bill Gates",
+							"screen_name": "BillGates",
+							"location": "Seattle, WA",
+							"description": "Sharing things I'm learning through my foundation work and other interests...",
+							"url": "https://t.co/OyPElfZcqm",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/OyPElfZcqm",
+											"expanded_url": "http://www.gatesletter.com",
+											"display_url": "gatesletter.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 33470602,
+							"friends_count": 183,
+							"listed_count": 120854,
+							"created_at": "Wed Jun 24 18:44:10 +0000 2009",
+							"favourites_count": 18,
+							"utc_offset": -28800,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 2278,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/542018712627187712/0AenG_nz.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/542018712627187712/0AenG_nz.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/558109954561679360/j1f9DiJi_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/558109954561679360/j1f9DiJi_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/50393960/1487067131",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10236,
+			"friends_count": 3959,
+			"listed_count": 478,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15137,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15061,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 27 13:09:11 +0000 2017",
+			"id": 836201512632119300,
+			"id_str": "836201512632119297",
+			"text": "I’ll be joining @reddit for an #AMA today at 9 AM PST... Any questions? https://t.co/OqkmxWQVik",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AMA",
+						"indices": [
+							31,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "reddit",
+						"name": "Reddit",
+						"id": 811377,
+						"id_str": "811377",
+						"indices": [
+							16,
+							23
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 835710911365144600,
+						"id_str": "835710911365144577",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/C5pRFRhUwAEhw60.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5pRFRhUwAEhw60.jpg",
+						"url": "https://t.co/OqkmxWQVik",
+						"display_url": "pic.twitter.com/OqkmxWQVik",
+						"expanded_url": "https://twitter.com/BillGates/status/836201512632119297/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 835710911365144600,
+						"id_str": "835710911365144577",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/C5pRFRhUwAEhw60.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5pRFRhUwAEhw60.jpg",
+						"url": "https://t.co/OqkmxWQVik",
+						"display_url": "pic.twitter.com/OqkmxWQVik",
+						"expanded_url": "https://twitter.com/BillGates/status/836201512632119297/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 51852,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/835710911365144577/pl/QFVl3k_19SNGohww.m3u8"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/amplify_video/835710911365144577/pl/QFVl3k_19SNGohww.mpd"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/835710911365144577/vid/640x360/ACGe6sH-r0rjAUD3.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/835710911365144577/vid/320x180/TVzJq4S70J1FYZr5.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/835710911365144577/vid/1280x720/fbmrHlhLMr2I2AkC.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Any Questions? Ask Bill Gates Anything",
+							"description": "Bill Gates will be joining Reddit for his fifth Ask Me Anything today at 9 AM PST.",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.gatesnotes.com/2017-Annual-Letter?WT.mc_id=02_27_2017_05_AL2017_BG-TW_&WT.tsrc=BGTW"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50393960,
+				"id_str": "50393960",
+				"name": "Bill Gates",
+				"screen_name": "BillGates",
+				"location": "Seattle, WA",
+				"description": "Sharing things I'm learning through my foundation work and other interests...",
+				"url": "https://t.co/OyPElfZcqm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OyPElfZcqm",
+								"expanded_url": "http://www.gatesletter.com",
+								"display_url": "gatesletter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33470602,
+				"friends_count": 183,
+				"listed_count": 120854,
+				"created_at": "Wed Jun 24 18:44:10 +0000 2009",
+				"favourites_count": 18,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2278,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/542018712627187712/0AenG_nz.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/542018712627187712/0AenG_nz.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/558109954561679360/j1f9DiJi_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/558109954561679360/j1f9DiJi_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50393960/1487067131",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 801,
+			"favorite_count": 2998,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 801,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 27 20:37:32 +0000 2017",
+		"id": 836314344006758400,
+		"id_str": "836314344006758401",
+		"text": "Nederlands, Svenska, Suomi, Dansk, Norsk Bokmål, Catalán, Português, Türk and many more languages now supported in… https://t.co/d4pIN4KIEi",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d4pIN4KIEi",
+					"expanded_url": "https://twitter.com/i/web/status/836314344006758401",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10236,
+			"friends_count": 3959,
+			"listed_count": 478,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15137,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15061,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 836312475213697000,
+		"quoted_status_id_str": "836312475213697024",
+		"quoted_status": {
+			"created_at": "Mon Feb 27 20:30:06 +0000 2017",
+			"id": 836312475213697000,
+			"id_str": "836312475213697024",
+			"text": "Nederlands nu ook beschikbaar bij Learning tools! @BramFaems @wingkanlai @MKnoppert @OneNoteC https://t.co/2PuaKIpd7P",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BramFaems",
+						"name": "Bram Faems",
+						"id": 16497352,
+						"id_str": "16497352",
+						"indices": [
+							50,
+							60
+						]
+					},
+					{
+						"screen_name": "wingkanlai",
+						"name": "Wing Kan Lai",
+						"id": 2374244311,
+						"id_str": "2374244311",
+						"indices": [
+							61,
+							72
+						]
+					},
+					{
+						"screen_name": "MKnoppert",
+						"name": "Maurits Knoppert",
+						"id": 21379189,
+						"id_str": "21379189",
+						"indices": [
+							73,
+							83
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							84,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2PuaKIpd7P",
+						"expanded_url": "https://twitter.com/mtholfsen/status/836261616295399424",
+						"display_url": "twitter.com/mtholfsen/stat…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149593681,
+				"id_str": "149593681",
+				"name": "Koen Timmers",
+				"screen_name": "zelfstudie",
+				"location": "Belgium",
+				"description": "@TeacherPrize Top 50 teacher | Teaching Kakuma Refugees via Skype | Author | Speaker | Technology Enhanced Learning | Founder zelfstudie.be | MIE Fellow",
+				"url": "https://t.co/CMArT0rZSU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CMArT0rZSU",
+								"expanded_url": "http://www.timmers.me",
+								"display_url": "timmers.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2523,
+				"friends_count": 1681,
+				"listed_count": 305,
+				"created_at": "Sat May 29 17:52:29 +0000 2010",
+				"favourites_count": 3735,
+				"utc_offset": 3600,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5084,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D0D0D0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/375133972/bg-twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/375133972/bg-twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/808926736851357696/_LIvoZ7Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/808926736851357696/_LIvoZ7Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1481749724",
+				"profile_link_color": "D9650D",
+				"profile_sidebar_border_color": "0D0202",
+				"profile_sidebar_fill_color": "EDA426",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "86592634e53a5e3f",
+				"url": "https://api.twitter.com/1.1/geo/id/86592634e53a5e3f.json",
+				"place_type": "city",
+				"name": "Hasselt",
+				"full_name": "Hasselt, Belgium",
+				"country_code": "BE",
+				"country": "Belgium",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								5.2121062,
+								50.8677279
+							],
+							[
+								5.4145591,
+								50.8677279
+							],
+							[
+								5.4145591,
+								50.9815265
+							],
+							[
+								5.2121062,
+								50.9815265
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 836261616295399400,
+			"quoted_status_id_str": "836261616295399424",
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "da"
+	},
+	{
 		"created_at": "Mon Feb 27 18:21:46 +0000 2017",
 		"id": 836280177235722200,
 		"id_str": "836280177235722244",
