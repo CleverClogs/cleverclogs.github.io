@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Tue Feb 28 16:30:07 +0000 2017",
+		"id": 836614467509170200,
+		"id_str": "836614467509170176",
+		"text": "Now here's some serious handwriting in #OneNote for iPad. Bonus tip: sync your #Digitalink and it becomes searchabl… https://t.co/q6WtUgwq69",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "Digitalink",
+					"indices": [
+						79,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q6WtUgwq69",
+					"expanded_url": "https://twitter.com/i/web/status/836614467509170176",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10247,
+			"friends_count": 3961,
+			"listed_count": 478,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15157,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 836605575144296400,
+		"quoted_status_id_str": "836605575144296448",
+		"quoted_status": {
+			"created_at": "Tue Feb 28 15:54:47 +0000 2017",
+			"id": 836605575144296400,
+			"id_str": "836605575144296448",
+			"text": "Thought you'd like some of my notes...\nI use OneNote to handwrite my thoughts.\nOR...Dictate via\nDragon Anywhere App https://t.co/PhaQecHPkW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 836605572610936800,
+						"id_str": "836605572610936832",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/C5w4VfSWUAAs5eT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5w4VfSWUAAs5eT.jpg",
+						"url": "https://t.co/PhaQecHPkW",
+						"display_url": "pic.twitter.com/PhaQecHPkW",
+						"expanded_url": "https://twitter.com/drmikemurdock/status/836605575144296448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 767,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 767,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 509,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 836605572610936800,
+						"id_str": "836605572610936832",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/C5w4VfSWUAAs5eT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5w4VfSWUAAs5eT.jpg",
+						"url": "https://t.co/PhaQecHPkW",
+						"display_url": "pic.twitter.com/PhaQecHPkW",
+						"expanded_url": "https://twitter.com/drmikemurdock/status/836605575144296448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 767,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 767,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 509,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 67547268,
+				"id_str": "67547268",
+				"name": "Dr. Mike Murdock",
+				"screen_name": "drmikemurdock",
+				"location": "POBox 37047 Ft Worth,Tx 76117",
+				"description": "Watch Me L-I-V-E Tonight..!. Daily at 6p/CST/ Facebook/Periscope /TheWisdomCenter.tv #15PT..Ck out..FreeBook.tv !!!!!!!",
+				"url": "https://t.co/Yx7jiIzptu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Yx7jiIzptu",
+								"expanded_url": "http://www.MikeMurdockBooks.com",
+								"display_url": "MikeMurdockBooks.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 254327,
+				"friends_count": 5767,
+				"listed_count": 1900,
+				"created_at": "Fri Aug 21 06:51:24 +0000 2009",
+				"favourites_count": 762,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 69973,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2D4C14",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/103498893/TWC-TwitterBack-02.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/103498893/TWC-TwitterBack-02.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803163548784492544/HnEsjjAx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803163548784492544/HnEsjjAx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/67547268/1487578994",
+				"profile_link_color": "293915",
+				"profile_sidebar_border_color": "F6F63F",
+				"profile_sidebar_fill_color": "F6FABE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 28 16:10:07 +0000 2017",
 		"id": 836609435367768000,
 		"id_str": "836609435367768066",
