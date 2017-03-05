@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 05 09:56:48 +0000 2017",
+		"id": 838327427508146200,
+		"id_str": "838327427508146176",
+		"text": "#OneNote webinar by @Microsoft_Saudi Teacher Engagement Manager @abs1331\n#MIEExpert\n[Arabic] https://t.co/GQlzmQUg9p",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft_Saudi",
+					"name": "Microsoft Saudi",
+					"id": 116551839,
+					"id_str": "116551839",
+					"indices": [
+						20,
+						36
+					]
+				},
+				{
+					"screen_name": "abs1331",
+					"name": "Abdulelah Alfouzan",
+					"id": 208708417,
+					"id_str": "208708417",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GQlzmQUg9p",
+					"expanded_url": "https://twitter.com/Microsoft_Saudi/status/838324814851031040",
+					"display_url": "twitter.com/Microsoft_Saud…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10327,
+			"friends_count": 3977,
+			"listed_count": 482,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15191,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15119,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 838324814851031000,
+		"quoted_status_id_str": "838324814851031040",
+		"quoted_status": {
+			"created_at": "Sun Mar 05 09:46:25 +0000 2017",
+			"id": 838324814851031000,
+			"id_str": "838324814851031040",
+			"text": "Take a quick note in an organized way with #OneNote. Don’t miss our free webinar this Monday 6 March… https://t.co/9hKFb52iVo",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							43,
+							51
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9hKFb52iVo",
+						"expanded_url": "https://twitter.com/i/web/status/838324814851031040",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 116551839,
+				"id_str": "116551839",
+				"name": "Microsoft Saudi",
+				"screen_name": "Microsoft_Saudi",
+				"location": "Riyadh, Saudi Arabia",
+				"description": "المصدر الرئيسي للإعلان عن أحدث المنتجات والنشاطات لمايكروسوفت السعودية https://t.co/RRjIh9zWDJ",
+				"url": "http://t.co/c3rZ1agevC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/c3rZ1agevC",
+								"expanded_url": "http://www.microsoft.com/saudi",
+								"display_url": "microsoft.com/saudi",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RRjIh9zWDJ",
+								"expanded_url": "https://www.facebook.com/MicrosoftSaudi",
+								"display_url": "facebook.com/MicrosoftSaudi",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 246235,
+				"friends_count": 102,
+				"listed_count": 308,
+				"created_at": "Mon Feb 22 21:50:07 +0000 2010",
+				"favourites_count": 368,
+				"utc_offset": 10800,
+				"time_zone": "Riyadh",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11642,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5AB55A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000094436857/c319c52ccd463f19d35512e6b5aedd7c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000094436857/c319c52ccd463f19d35512e6b5aedd7c.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/651339531078135808/SDOrtnEo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/651339531078135808/SDOrtnEo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/116551839/1488367272",
+				"profile_link_color": "5AB55A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 04 22:57:47 +0000 2017",
 		"id": 838161579879321600,
 		"id_str": "838161579879321601",
