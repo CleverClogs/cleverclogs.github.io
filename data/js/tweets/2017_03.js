@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 15 15:47:19 +0000 2017",
+		"id": 842039515074170900,
+		"id_str": "842039515074170885",
+		"text": "Dutch educators: op donderdag 23 maart geeft @Sig225 bij Helen Parkhurst in Almere een gratis inspiratiesessie… https://t.co/98JlJqihh6",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sig225",
+					"name": "Cal Armstrong",
+					"id": 12895782,
+					"id_str": "12895782",
+					"indices": [
+						45,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/98JlJqihh6",
+					"expanded_url": "https://twitter.com/i/web/status/842039515074170885",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10506,
+			"friends_count": 4005,
+			"listed_count": 483,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15328,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 841717612056858600,
+		"quoted_status_id_str": "841717612056858626",
+		"quoted_status": {
+			"created_at": "Tue Mar 14 18:28:11 +0000 2017",
+			"id": 841717612056858600,
+			"id_str": "841717612056858626",
+			"text": "Wie doet er mee?\n#OneNote #NotitieKlasseboek 23/3 in Almere\n\nhttps://t.co/xxy4DwRw3N met\n@sig225 @OneNoteC \n\njij @mathpaul?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							17,
+							25
+						]
+					},
+					{
+						"text": "NotitieKlasseboek",
+						"indices": [
+							26,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sig225",
+						"name": "Cal Armstrong",
+						"id": 12895782,
+						"id_str": "12895782",
+						"indices": [
+							89,
+							96
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							97,
+							106
+						]
+					},
+					{
+						"screen_name": "mathpaul",
+						"name": "paul ket",
+						"id": 45334593,
+						"id_str": "45334593",
+						"indices": [
+							113,
+							122
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xxy4DwRw3N",
+						"expanded_url": "https://1drv.ms/w/s!ApP7GQZT5sq6h817WAItCsB0XtADLw",
+						"display_url": "1drv.ms/w/s!ApP7GQZT5s…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36314074,
+				"id_str": "36314074",
+				"name": "Karel Hermans",
+				"screen_name": "betakarel",
+				"location": "Almere",
+				"description": "Educational Designer | Dalton | School leader | Educator | Photography | TheCrowdNL | Master of Educational Management | Coach | https://t.co/Qq43GJ01vW |",
+				"url": "https://t.co/5HOaC2nI34",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5HOaC2nI34",
+								"expanded_url": "http://about.me/karelhermans",
+								"display_url": "about.me/karelhermans",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Qq43GJ01vW",
+								"expanded_url": "http://blog.karelhermans.com",
+								"display_url": "blog.karelhermans.com",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 810,
+				"friends_count": 933,
+				"listed_count": 38,
+				"created_at": "Wed Apr 29 07:55:28 +0000 2009",
+				"favourites_count": 538,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9427,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0066CB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/385141009/xa28d4ecb69afe93c4274aba8132f8e1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/385141009/xa28d4ecb69afe93c4274aba8132f8e1.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3515176891/50b198af91c52cc6d2ae05e1e9508efd_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3515176891/50b198af91c52cc6d2ae05e1e9508efd_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36314074/1365861794",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "0E0E0E",
+				"profile_text_color": "B8C5C6",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Wed Mar 15 10:08:54 +0000 2017",
 		"id": 841954348905164800,
 		"id_str": "841954348905164800",
