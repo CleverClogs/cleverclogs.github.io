@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 15:55:14 +0000 2017",
+		"id": 849651652479025200,
+		"id_str": "849651652479025154",
+		"text": "@PBL_JBES @MauryCoSchools @DiscoveryEd @cjmarczak @JBESBears Nice share, Christina. Are your students using… https://t.co/S4p4SHgUpG",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PBL_JBES",
+					"name": "Christina Davidson",
+					"id": 836617873850314800,
+					"id_str": "836617873850314752",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MauryCoSchools",
+					"name": "MauryCoPublicSchools",
+					"id": 4708408600,
+					"id_str": "4708408600",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "DiscoveryEd",
+					"name": "Discovery Education",
+					"id": 1665531,
+					"id_str": "1665531",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "cjmarczak",
+					"name": "Dr. Chris Marczak",
+					"id": 2189886021,
+					"id_str": "2189886021",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"screen_name": "JBESBears",
+					"name": "J Brown Elementary",
+					"id": 735174954665279500,
+					"id_str": "735174954665279488",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/S4p4SHgUpG",
+					"expanded_url": "https://twitter.com/i/web/status/849651652479025154",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 849649752589430800,
+		"in_reply_to_status_id_str": "849649752589430784",
+		"in_reply_to_user_id": 836617873850314800,
+		"in_reply_to_user_id_str": "836617873850314752",
+		"in_reply_to_screen_name": "PBL_JBES",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10900,
+			"friends_count": 4094,
+			"listed_count": 487,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15687,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 05 14:08:12 +0000 2017",
 		"id": 849624719133470700,
 		"id_str": "849624719133470720",
