@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 20:38:43 +0000 2017",
+		"id": 850085381227806700,
+		"id_str": "850085381227806721",
+		"text": "RT @ClintonFitch: Microsoft OneNote for Android Updates Adds Page Sharing Feature #Microsoft #OneNote #Android #AppUpdate https://t.co/mnyx…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "Android",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "AppUpdate",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClintonFitch",
+					"name": "Clinton Fitch",
+					"id": 2731593154,
+					"id_str": "2731593154",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10918,
+			"friends_count": 4099,
+			"listed_count": 486,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15726,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 06 12:39:16 +0000 2017",
+			"id": 849964723756032000,
+			"id_str": "849964723756032000",
+			"text": "Microsoft OneNote for Android Updates Adds Page Sharing Feature #Microsoft #OneNote #Android #AppUpdate https://t.co/mnyxjLM0yh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Microsoft",
+						"indices": [
+							64,
+							74
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							75,
+							83
+						]
+					},
+					{
+						"text": "Android",
+						"indices": [
+							84,
+							92
+						]
+					},
+					{
+						"text": "AppUpdate",
+						"indices": [
+							93,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mnyxjLM0yh",
+						"expanded_url": "https://goo.gl/ejZ8Dv",
+						"display_url": "goo.gl/ejZ8Dv",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2731593154,
+				"id_str": "2731593154",
+				"name": "Clinton Fitch",
+				"screen_name": "ClintonFitch",
+				"location": "Vail, CO",
+				"description": "Editor of https://t.co/AINepU3I2I. Writing since 1998 on all things Android & ChromeOS Google Photos Top Contributor.  On Google+ https://t.co/mgSg7uLFOh…",
+				"url": "https://t.co/oOFCvRMCtd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oOFCvRMCtd",
+								"expanded_url": "http://www.clintonfitch.com",
+								"display_url": "clintonfitch.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AINepU3I2I",
+								"expanded_url": "http://ClintonFitch.com",
+								"display_url": "ClintonFitch.com",
+								"indices": [
+									10,
+									33
+								]
+							},
+							{
+								"url": "https://t.co/mgSg7uLFOh",
+								"expanded_url": "http://plus.google.com/u/0/+ClintonFi",
+								"display_url": "plus.google.com/u/0/+ClintonFi",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 607,
+				"friends_count": 843,
+				"listed_count": 81,
+				"created_at": "Sat Aug 02 12:36:32 +0000 2014",
+				"favourites_count": 603,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6606,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690583317121339392/kZRaFhhI.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690583317121339392/kZRaFhhI.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/591596346949251072/X3p5737t_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/591596346949251072/X3p5737t_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2731593154/1485266167",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 06 19:32:32 +0000 2017",
 		"id": 850068726254895100,
 		"id_str": "850068726254895108",
