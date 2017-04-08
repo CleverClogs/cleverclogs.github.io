@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 08 17:55:04 +0000 2017",
+		"id": 850768972307992600,
+		"id_str": "850768972307992577",
+		"text": "What a gorgeous #FunNote of #OneNote #Digitalink\nby @MatthiasHeil\nTry this in OneNote for #Windows10, with even mor… https://t.co/brjFqCSgZ8",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FunNote",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "Digitalink",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthiasHeil",
+					"name": "Matthias Heil",
+					"id": 793681,
+					"id_str": "793681",
+					"indices": [
+						52,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/brjFqCSgZ8",
+					"expanded_url": "https://twitter.com/i/web/status/850768972307992577",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10950,
+			"friends_count": 4099,
+			"listed_count": 487,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15759,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 850619675797065700,
+		"quoted_status_id_str": "850619675797065729",
+		"quoted_status": {
+			"created_at": "Sat Apr 08 08:01:49 +0000 2017",
+			"id": 850619675797065700,
+			"id_str": "850619675797065729",
+			"text": "#OneNote #justsayin https://t.co/oKyxahH9bp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "justsayin",
+						"indices": [
+							9,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 850619534868394000,
+						"id_str": "850619534868393984",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/C84B9c7WsAAxEZw.png",
+						"media_url_https": "https://pbs.twimg.com/media/C84B9c7WsAAxEZw.png",
+						"url": "https://t.co/oKyxahH9bp",
+						"display_url": "pic.twitter.com/oKyxahH9bp",
+						"expanded_url": "https://twitter.com/MatthiasHeil/status/850619675797065729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1628,
+								"h": 1296,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 955,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 541,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 850619534868394000,
+						"id_str": "850619534868393984",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/C84B9c7WsAAxEZw.png",
+						"media_url_https": "https://pbs.twimg.com/media/C84B9c7WsAAxEZw.png",
+						"url": "https://t.co/oKyxahH9bp",
+						"display_url": "pic.twitter.com/oKyxahH9bp",
+						"expanded_url": "https://twitter.com/MatthiasHeil/status/850619675797065729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1628,
+								"h": 1296,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 955,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 541,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 793681,
+				"id_str": "793681",
+				"name": "Matthias Heil",
+				"screen_name": "MatthiasHeil",
+				"location": "Germany",
+				"description": "I'm a God-loving, tech-driven, life-enjoying teacher of English and Religious Education in Germany... married with two children",
+				"url": "http://t.co/AVOBL74jfC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AVOBL74jfC",
+								"expanded_url": "http://about.me/matthias.heil",
+								"display_url": "about.me/matthias.heil",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2023,
+				"friends_count": 980,
+				"listed_count": 199,
+				"created_at": "Sun Feb 25 12:57:17 +0000 2007",
+				"favourites_count": 1891,
+				"utc_offset": 7200,
+				"time_zone": "Berlin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46176,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6A90B7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/500288251060428802/_461Pyem.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/500288251060428802/_461Pyem.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630305437016059904/csJcQhWW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630305437016059904/csJcQhWW_normal.jpg",
+				"profile_link_color": "0A2817",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "BA0000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 08 17:11:19 +0000 2017",
 		"id": 850757962712965100,
 		"id_str": "850757962712965121",
