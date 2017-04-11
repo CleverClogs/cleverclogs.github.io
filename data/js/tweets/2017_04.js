@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 11 18:07:07 +0000 2017",
+		"id": 851859171494572000,
+		"id_str": "851859171494572034",
+		"text": "#edtech specialist Jane Hart opened voting for her Top 200 Tools for Learning of 2017 today. Submit your favorite t… https://t.co/HLGY38KSho",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HLGY38KSho",
+					"expanded_url": "https://twitter.com/i/web/status/851859171494572034",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10991,
+			"friends_count": 4103,
+			"listed_count": 486,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15806,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15594,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 851450781500944400,
+		"quoted_status_id_str": "851450781500944386",
+		"quoted_status": {
+			"created_at": "Mon Apr 10 15:04:20 +0000 2017",
+			"id": 851450781500944400,
+			"id_str": "851450781500944386",
+			"text": "Voting for the Top 200 Tools for Learning 2017 is now open https://t.co/ojcwEOE9dG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ojcwEOE9dG",
+						"expanded_url": "http://c4lpt.co.uk/top100tools/voting/",
+						"display_url": "c4lpt.co.uk/top100tools/vo…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14192174,
+				"id_str": "14192174",
+				"name": "Jane Hart",
+				"screen_name": "C4LPT",
+				"location": "Corsham, Wiltshire, England",
+				"description": "Inspiring and effecting Modern Workplace Learning practices in organisations worldwide. Founder, C4LPT and C4MWL",
+				"url": "https://t.co/RSgpFRmuSc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RSgpFRmuSc",
+								"expanded_url": "http://www.C4LPT.co.uk",
+								"display_url": "C4LPT.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31435,
+				"friends_count": 195,
+				"listed_count": 2495,
+				"created_at": "Fri Mar 21 16:35:23 +0000 2008",
+				"favourites_count": 672,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18137,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "808000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/558286531459162112/q7VAUj4x.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/558286531459162112/q7VAUj4x.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/635396281641340928/qOqqMYNe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/635396281641340928/qOqqMYNe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14192174/1488037792",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "87313F",
+				"profile_text_color": "FA154B",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 11 12:59:35 +0000 2017",
 		"id": 851781775445684200,
 		"id_str": "851781775445684224",
