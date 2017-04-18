@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 13:03:59 +0000 2017",
+		"id": 854319598266703900,
+		"id_str": "854319598266703872",
+		"text": "Awesome Spanish video on #MSFTEduChat #OneNoteQ TweetMeets\ncc @MSEducacion @Office365EduMx @sergiotic… https://t.co/IaACJrNeDA",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"text": "OneNoteQ",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSEducacion",
+					"name": "Microsoft Educación",
+					"id": 179537791,
+					"id_str": "179537791",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "Office365EduMx",
+					"name": "Office365EducaciónMX",
+					"id": 3193503942,
+					"id_str": "3193503942",
+					"indices": [
+						75,
+						90
+					]
+				},
+				{
+					"screen_name": "sergiotic",
+					"name": "Sergio G Cabezas",
+					"id": 79811421,
+					"id_str": "79811421",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IaACJrNeDA",
+					"expanded_url": "https://twitter.com/i/web/status/854319598266703872",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11117,
+			"friends_count": 4127,
+			"listed_count": 485,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15902,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15680,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 854308922383093800,
+		"quoted_status_id_str": "854308922383093760",
+		"quoted_status": {
+			"created_at": "Tue Apr 18 12:21:34 +0000 2017",
+			"id": 854308922383093800,
+			"id_str": "854308922383093760",
+			"text": "El #Super #MSFTEDUChat es esta tarde a las 7! Aquì tienes un video que te ayudarà en tu primer #Tweetmeet https://t.co/acNqZx1ow9 #edtech",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Super",
+						"indices": [
+							3,
+							9
+						]
+					},
+					{
+						"text": "MSFTEDUChat",
+						"indices": [
+							10,
+							22
+						]
+					},
+					{
+						"text": "Tweetmeet",
+						"indices": [
+							95,
+							105
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							130,
+							137
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/acNqZx1ow9",
+						"expanded_url": "https://youtu.be/W-Oz5a_ZrA4",
+						"display_url": "youtu.be/W-Oz5a_ZrA4",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4120721403,
+				"id_str": "4120721403",
+				"name": "Gloria Enrique",
+				"screen_name": "MissGEnrique",
+				"location": "Ireland",
+				"description": "Business & Spanish Teacher | Microsoft Teacher Ambassador | Microsoft Innovative Educator Expert #MIEExpert | MIE Master Trainer | #edtech | #OneNote",
+				"url": "https://t.co/qyLp3cRYgv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qyLp3cRYgv",
+								"expanded_url": "https://docs.com/g-enrique",
+								"display_url": "docs.com/g-enrique",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2641,
+				"friends_count": 2330,
+				"listed_count": 455,
+				"created_at": "Thu Nov 05 17:14:25 +0000 2015",
+				"favourites_count": 7674,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8927,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851456901896433666/xTQZI5on_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851456901896433666/xTQZI5on_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4120721403/1447149534",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 12:27:42 +0000 2017",
+		"id": 854310468592308200,
+		"id_str": "854310468592308224",
+		"text": "Excellent introduction to @MicrosoftEDU TweetMeets in Spanish\ncc @ovibarcelo @vicentgadea @GarciaBrull… https://t.co/lSgvLJC5RR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "ovibarcelo",
+					"name": "Ovi Barceló",
+					"id": 33940579,
+					"id_str": "33940579",
+					"indices": [
+						65,
+						76
+					]
+				},
+				{
+					"screen_name": "vicentgadea",
+					"name": "Vicent Gadea",
+					"id": 462752734,
+					"id_str": "462752734",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"screen_name": "GarciaBrull",
+					"name": "Pablo García Brull",
+					"id": 2899000461,
+					"id_str": "2899000461",
+					"indices": [
+						90,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lSgvLJC5RR",
+					"expanded_url": "https://twitter.com/i/web/status/854310468592308224",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11117,
+			"friends_count": 4127,
+			"listed_count": 485,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15902,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15680,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 854308922383093800,
+		"quoted_status_id_str": "854308922383093760",
+		"quoted_status": {
+			"created_at": "Tue Apr 18 12:21:34 +0000 2017",
+			"id": 854308922383093800,
+			"id_str": "854308922383093760",
+			"text": "El #Super #MSFTEDUChat es esta tarde a las 7! Aquì tienes un video que te ayudarà en tu primer #Tweetmeet https://t.co/acNqZx1ow9 #edtech",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Super",
+						"indices": [
+							3,
+							9
+						]
+					},
+					{
+						"text": "MSFTEDUChat",
+						"indices": [
+							10,
+							22
+						]
+					},
+					{
+						"text": "Tweetmeet",
+						"indices": [
+							95,
+							105
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							130,
+							137
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/acNqZx1ow9",
+						"expanded_url": "https://youtu.be/W-Oz5a_ZrA4",
+						"display_url": "youtu.be/W-Oz5a_ZrA4",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4120721403,
+				"id_str": "4120721403",
+				"name": "Gloria Enrique",
+				"screen_name": "MissGEnrique",
+				"location": "Ireland",
+				"description": "Business & Spanish Teacher | Microsoft Teacher Ambassador | Microsoft Innovative Educator Expert #MIEExpert | MIE Master Trainer | #edtech | #OneNote",
+				"url": "https://t.co/qyLp3cRYgv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qyLp3cRYgv",
+								"expanded_url": "https://docs.com/g-enrique",
+								"display_url": "docs.com/g-enrique",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2641,
+				"friends_count": 2330,
+				"listed_count": 455,
+				"created_at": "Thu Nov 05 17:14:25 +0000 2015",
+				"favourites_count": 7674,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8927,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/851456901896433666/xTQZI5on_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/851456901896433666/xTQZI5on_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4120721403/1447149534",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 18 08:12:19 +0000 2017",
 		"id": 854246200203243500,
 		"id_str": "854246200203243520",
