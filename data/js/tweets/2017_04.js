@@ -1,6 +1,1797 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 00:00:13 +0000 2017",
+		"id": 854484744830160900,
+		"id_str": "854484744830160896",
+		"text": "What - is this over already? Time flies, seriously. Thanks so much to our hosts and everyone! There will be a new… https://t.co/fQhOLYn8sf",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fQhOLYn8sf",
+					"expanded_url": "https://twitter.com/i/web/status/854484744830160896",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11132,
+			"friends_count": 4128,
+			"listed_count": 486,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15931,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 23:53:12 +0000 2017",
+		"id": 854482977878929400,
+		"id_str": "854482977878929408",
+		"text": "RT @gayeblooms: A5 Digitaljourneys need a map, first aid kit, good gear, some trailmix and a kind 'tail-end charlie' get walking  #MSFTEduc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gayeblooms",
+					"name": "gaye bloomfield",
+					"id": 252001533,
+					"id_str": "252001533",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11132,
+			"friends_count": 4128,
+			"listed_count": 486,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15931,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 23:51:35 +0000 2017",
+			"id": 854482571693932500,
+			"id_str": "854482571693932544",
+			"text": "A5 Digitaljourneys need a map, first aid kit, good gear, some trailmix and a kind 'tail-end charlie' get walking  #MSFTEduchat #MicrosoftEDU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduchat",
+						"indices": [
+							114,
+							126
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							127,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252001533,
+				"id_str": "252001533",
+				"name": "gaye bloomfield",
+				"screen_name": "gayeblooms",
+				"location": "New Zealand",
+				"description": "#teachpsych at Nayland College, New Zealand. Coffee drinker, blended learning enthusiast. Microsoft Innovative Educator Expert",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 226,
+				"friends_count": 315,
+				"listed_count": 39,
+				"created_at": "Mon Feb 14 08:27:42 +0000 2011",
+				"favourites_count": 240,
+				"utc_offset": 43200,
+				"time_zone": "Wellington",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 359,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/710395601515446272/Ic1zTk5m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/710395601515446272/Ic1zTk5m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/252001533/1372849164",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 23:45:08 +0000 2017",
+		"id": 854480948179734500,
+		"id_str": "854480948179734528",
+		"text": "RT @noisyteacher: Q6. How important is access to #Digitialink for your learning environment? \n#MSFTEduChat https://t.co/WhejcgA5TE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Digitialink",
+					"indices": [
+						49,
+						61
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noisyteacher",
+					"name": "Nikkie",
+					"id": 2481582889,
+					"id_str": "2481582889",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 854461146367000600,
+					"id_str": "854461146367000576",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/C9un4q-UAAA_T1o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9un4q-UAAA_T1o.jpg",
+					"url": "https://t.co/WhejcgA5TE",
+					"display_url": "pic.twitter.com/WhejcgA5TE",
+					"expanded_url": "https://twitter.com/noisyteacher/status/854480667442372608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 911,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 911,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854480667442372600,
+					"source_status_id_str": "854480667442372608",
+					"source_user_id": 2481582889,
+					"source_user_id_str": "2481582889"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 854461146367000600,
+					"id_str": "854461146367000576",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/C9un4q-UAAA_T1o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9un4q-UAAA_T1o.jpg",
+					"url": "https://t.co/WhejcgA5TE",
+					"display_url": "pic.twitter.com/WhejcgA5TE",
+					"expanded_url": "https://twitter.com/noisyteacher/status/854480667442372608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 911,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 911,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854480667442372600,
+					"source_status_id_str": "854480667442372608",
+					"source_user_id": 2481582889,
+					"source_user_id_str": "2481582889"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11132,
+			"friends_count": 4128,
+			"listed_count": 486,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15931,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 23:44:01 +0000 2017",
+			"id": 854480667442372600,
+			"id_str": "854480667442372608",
+			"text": "Q6. How important is access to #Digitialink for your learning environment? \n#MSFTEduChat https://t.co/WhejcgA5TE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Digitialink",
+						"indices": [
+							31,
+							43
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							76,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 854461146367000600,
+						"id_str": "854461146367000576",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/C9un4q-UAAA_T1o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9un4q-UAAA_T1o.jpg",
+						"url": "https://t.co/WhejcgA5TE",
+						"display_url": "pic.twitter.com/WhejcgA5TE",
+						"expanded_url": "https://twitter.com/noisyteacher/status/854480667442372608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854461146367000600,
+						"id_str": "854461146367000576",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/C9un4q-UAAA_T1o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9un4q-UAAA_T1o.jpg",
+						"url": "https://t.co/WhejcgA5TE",
+						"display_url": "pic.twitter.com/WhejcgA5TE",
+						"expanded_url": "https://twitter.com/noisyteacher/status/854480667442372608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2481582889,
+				"id_str": "2481582889",
+				"name": "Nikkie",
+				"screen_name": "noisyteacher",
+				"location": "Auckland, NZ",
+				"description": "Teacher who loves making things easier with tech. Wife, Mum to 3 cool kids. Always ready to laugh and learn some more. MIE Fellow.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 478,
+				"friends_count": 464,
+				"listed_count": 110,
+				"created_at": "Wed May 07 07:07:33 +0000 2014",
+				"favourites_count": 1981,
+				"utc_offset": 43200,
+				"time_zone": "Auckland",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1847,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853210027548594176/tIUtQyA4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853210027548594176/tIUtQyA4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2481582889/1399454274",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 23:35:58 +0000 2017",
+		"id": 854478642201718800,
+		"id_str": "854478642201718784",
+		"text": "RT @SummerWinrotte: Q5. What advice would you give a school embarking on a digital journey?\n#MSFTEduChat https://t.co/XBNgVc5mj9 https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						92,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SummerWinrotte",
+					"name": "Ms Winrotte",
+					"id": 2312953676,
+					"id_str": "2312953676",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XBNgVc5mj9",
+					"expanded_url": "http://buff.ly/2oL47ln",
+					"display_url": "buff.ly/2oL47ln",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11132,
+			"friends_count": 4128,
+			"listed_count": 486,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15931,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 23:35:04 +0000 2017",
+			"id": 854478416615178200,
+			"id_str": "854478416615178241",
+			"text": "Q5. What advice would you give a school embarking on a digital journey?\n#MSFTEduChat https://t.co/XBNgVc5mj9 https://t.co/C3GYanO5PB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							72,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XBNgVc5mj9",
+						"expanded_url": "http://buff.ly/2oL47ln",
+						"display_url": "buff.ly/2oL47ln",
+						"indices": [
+							85,
+							108
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 854478413733781500,
+						"id_str": "854478413733781504",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C9u3lw7XYAAe-C7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9u3lw7XYAAe-C7.jpg",
+						"url": "https://t.co/C3GYanO5PB",
+						"display_url": "pic.twitter.com/C3GYanO5PB",
+						"expanded_url": "https://twitter.com/SummerWinrotte/status/854478416615178241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854478413733781500,
+						"id_str": "854478413733781504",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C9u3lw7XYAAe-C7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9u3lw7XYAAe-C7.jpg",
+						"url": "https://t.co/C3GYanO5PB",
+						"display_url": "pic.twitter.com/C3GYanO5PB",
+						"expanded_url": "https://twitter.com/SummerWinrotte/status/854478416615178241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2312953676,
+				"id_str": "2312953676",
+				"name": "Ms Winrotte",
+				"screen_name": "SummerWinrotte",
+				"location": "",
+				"description": "Listener, Encourager, Digital Instructional Coach/Math Teacher, #MIEExpert, #Microsoft Certified Educator, Surface Expert, #OneNote FAN! Statements are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 587,
+				"friends_count": 362,
+				"listed_count": 169,
+				"created_at": "Mon Jan 27 03:50:15 +0000 2014",
+				"favourites_count": 2319,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1967,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852625033554014208/SzRnVJJX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852625033554014208/SzRnVJJX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2312953676/1487271069",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 23:28:50 +0000 2017",
+		"id": 854476845923917800,
+		"id_str": "854476845923917824",
+		"text": "RT @noisyteacher: Q4. How does technology help all students access lesson content? #equity #accessibility\n#MSFTEduChat https://t.co/EW8uKXI…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "equity",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						106,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noisyteacher",
+					"name": "Nikkie",
+					"id": 2481582889,
+					"id_str": "2481582889",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11132,
+			"friends_count": 4128,
+			"listed_count": 486,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15931,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 23:28:01 +0000 2017",
+			"id": 854476640633495600,
+			"id_str": "854476640633495552",
+			"text": "Q4. How does technology help all students access lesson content? #equity #accessibility\n#MSFTEduChat https://t.co/EW8uKXI5yi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "equity",
+						"indices": [
+							65,
+							72
+						]
+					},
+					{
+						"text": "accessibility",
+						"indices": [
+							73,
+							87
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							88,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 854460413932560400,
+						"id_str": "854460413932560384",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/C9unOCcVYAA8a31.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9unOCcVYAA8a31.jpg",
+						"url": "https://t.co/EW8uKXI5yi",
+						"display_url": "pic.twitter.com/EW8uKXI5yi",
+						"expanded_url": "https://twitter.com/noisyteacher/status/854476640633495552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854460413932560400,
+						"id_str": "854460413932560384",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/C9unOCcVYAA8a31.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9unOCcVYAA8a31.jpg",
+						"url": "https://t.co/EW8uKXI5yi",
+						"display_url": "pic.twitter.com/EW8uKXI5yi",
+						"expanded_url": "https://twitter.com/noisyteacher/status/854476640633495552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2481582889,
+				"id_str": "2481582889",
+				"name": "Nikkie",
+				"screen_name": "noisyteacher",
+				"location": "Auckland, NZ",
+				"description": "Teacher who loves making things easier with tech. Wife, Mum to 3 cool kids. Always ready to laugh and learn some more. MIE Fellow.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 478,
+				"friends_count": 464,
+				"listed_count": 110,
+				"created_at": "Wed May 07 07:07:33 +0000 2014",
+				"favourites_count": 1981,
+				"utc_offset": 43200,
+				"time_zone": "Auckland",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1847,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853210027548594176/tIUtQyA4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853210027548594176/tIUtQyA4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2481582889/1399454274",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 23:28:34 +0000 2017",
+		"id": 854476781956497400,
+		"id_str": "854476781956497408",
+		"text": "RT @sig225: @noisyteacher A3: School devices should be chosen by Educators &amp; Students after test-driven in educational spaces - not an IT c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sig225",
+					"name": "Cal Armstrong",
+					"id": 12895782,
+					"id_str": "12895782",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "noisyteacher",
+					"name": "Nikkie",
+					"id": 2481582889,
+					"id_str": "2481582889",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11132,
+			"friends_count": 4128,
+			"listed_count": 486,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15931,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 23:27:08 +0000 2017",
+			"id": 854476421342822400,
+			"id_str": "854476421342822400",
+			"text": "@noisyteacher A3: School devices should be chosen by Educators &amp; Students after test-driven in educational spaces -… https://t.co/LlZtTydTo5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "noisyteacher",
+						"name": "Nikkie",
+						"id": 2481582889,
+						"id_str": "2481582889",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LlZtTydTo5",
+						"expanded_url": "https://twitter.com/i/web/status/854476421342822400",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 854474876479918100,
+			"in_reply_to_status_id_str": "854474876479918080",
+			"in_reply_to_user_id": 2481582889,
+			"in_reply_to_user_id_str": "2481582889",
+			"in_reply_to_screen_name": "noisyteacher",
+			"user": {
+				"id": 12895782,
+				"id_str": "12895782",
+				"name": "Cal Armstrong",
+				"screen_name": "sig225",
+				"location": "Canada",
+				"description": "I learn; I help others learn / Microsoft Education Fellow / Mathematics Educator /  PCMI - Institute for Advanced Study Instructor  / Aux Police Constable",
+				"url": "https://t.co/kozg07JVuT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kozg07JVuT",
+								"expanded_url": "http://about.me/armstrongc",
+								"display_url": "about.me/armstrongc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3421,
+				"friends_count": 2585,
+				"listed_count": 328,
+				"created_at": "Thu Jan 31 01:40:55 +0000 2008",
+				"favourites_count": 2521,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18394,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4023787/Bike22a.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4023787/Bike22a.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12895782/1473640973",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "ABD9FC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 23:20:54 +0000 2017",
+		"id": 854474850320228400,
+		"id_str": "854474850320228353",
+		"text": "RT @SummerWinrotte: Q3. Which pedagogical criteria should influence the device choice? \n#MSFTEduChat https://t.co/JJLChxGtgb https://t.co/b…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SummerWinrotte",
+					"name": "Ms Winrotte",
+					"id": 2312953676,
+					"id_str": "2312953676",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JJLChxGtgb",
+					"expanded_url": "http://buff.ly/2oLcTjE",
+					"display_url": "buff.ly/2oLcTjE",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11132,
+			"friends_count": 4128,
+			"listed_count": 486,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15931,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 23:20:08 +0000 2017",
+			"id": 854474655943536600,
+			"id_str": "854474655943536644",
+			"text": "Q3. Which pedagogical criteria should influence the device choice? \n#MSFTEduChat https://t.co/JJLChxGtgb https://t.co/bLm7F0p0Ol",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							68,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JJLChxGtgb",
+						"expanded_url": "http://buff.ly/2oLcTjE",
+						"display_url": "buff.ly/2oLcTjE",
+						"indices": [
+							81,
+							104
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 854474653808693200,
+						"id_str": "854474653808693248",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C9u0K6HXkAAP81e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9u0K6HXkAAP81e.jpg",
+						"url": "https://t.co/bLm7F0p0Ol",
+						"display_url": "pic.twitter.com/bLm7F0p0Ol",
+						"expanded_url": "https://twitter.com/SummerWinrotte/status/854474655943536644/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854474653808693200,
+						"id_str": "854474653808693248",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/C9u0K6HXkAAP81e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9u0K6HXkAAP81e.jpg",
+						"url": "https://t.co/bLm7F0p0Ol",
+						"display_url": "pic.twitter.com/bLm7F0p0Ol",
+						"expanded_url": "https://twitter.com/SummerWinrotte/status/854474655943536644/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 911,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2312953676,
+				"id_str": "2312953676",
+				"name": "Ms Winrotte",
+				"screen_name": "SummerWinrotte",
+				"location": "",
+				"description": "Listener, Encourager, Digital Instructional Coach/Math Teacher, #MIEExpert, #Microsoft Certified Educator, Surface Expert, #OneNote FAN! Statements are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 587,
+				"friends_count": 362,
+				"listed_count": 169,
+				"created_at": "Mon Jan 27 03:50:15 +0000 2014",
+				"favourites_count": 2319,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1967,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852625033554014208/SzRnVJJX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852625033554014208/SzRnVJJX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2312953676/1487271069",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 18 23:14:32 +0000 2017",
 		"id": 854473250105172000,
 		"id_str": "854473250105171968",
