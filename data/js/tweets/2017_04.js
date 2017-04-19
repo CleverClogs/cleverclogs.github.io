@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 11:12:08 +0000 2017",
+		"id": 854653840372764700,
+		"id_str": "854653840372764672",
+		"text": "RT @kurtsoeser: The power of #digitalink in #OneNote: I love when students work their math assignments this way: @OneNoteEDU @MicrosoftEDU…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalink",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kurtsoeser",
+					"name": "Kurt Söser",
+					"id": 55684861,
+					"id_str": "55684861",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						125,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11140,
+			"friends_count": 4131,
+			"listed_count": 485,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15935,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15733,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 19 09:33:03 +0000 2017",
+			"id": 854628904769859600,
+			"id_str": "854628904769859585",
+			"text": "The power of #digitalink in #OneNote: I love when students work their math assignments this way: @OneNoteEDU… https://t.co/Q3HGUaNJuX",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digitalink",
+						"indices": [
+							13,
+							24
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							28,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "@OneNoteEDU",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							97,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Q3HGUaNJuX",
+						"expanded_url": "https://twitter.com/i/web/status/854628904769859585",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55684861,
+				"id_str": "55684861",
+				"name": "Kurt Söser",
+				"screen_name": "kurtsoeser",
+				"location": "Steyr",
+				"description": "Teacherpreneur, Founder #kurtrocks https://t.co/jMbDivkS2g, Founder #o365school, #OneNote-Geek, #GeoGebra-Trainer, #MIEFellow, more at kurtsoeser.at",
+				"url": "https://t.co/YuXn55ybx6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YuXn55ybx6",
+								"expanded_url": "http://www.kurtsoeser.at",
+								"display_url": "kurtsoeser.at",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jMbDivkS2g",
+								"expanded_url": "http://edu.innovation.consulting",
+								"display_url": "edu.innovation.consulting",
+								"indices": [
+									35,
+									58
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2363,
+				"friends_count": 1587,
+				"listed_count": 193,
+				"created_at": "Fri Jul 10 22:35:55 +0000 2009",
+				"favourites_count": 4363,
+				"utc_offset": 7200,
+				"time_zone": "Vienna",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5206,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/586233617052868608/yY48Kf9z.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/586233617052868608/yY48Kf9z.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826042234810269696/wWfFtCMd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826042234810269696/wWfFtCMd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55684861/1492111483",
+				"profile_link_color": "2F2F2F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 19 00:00:13 +0000 2017",
 		"id": 854484744830160900,
 		"id_str": "854484744830160896",
