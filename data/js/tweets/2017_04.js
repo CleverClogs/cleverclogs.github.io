@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 20 07:45:04 +0000 2017",
+		"id": 854964114468331500,
+		"id_str": "854964114468331521",
+		"text": "Look at how these students show off their language skills in #OneNote #Digitalink on an interactive whiteboard. \nTh… https://t.co/KoT4QbvQ2j",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "Digitalink",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KoT4QbvQ2j",
+					"expanded_url": "https://twitter.com/i/web/status/854964114468331521",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11161,
+			"friends_count": 4135,
+			"listed_count": 487,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 15946,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15751,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 854953330522697700,
+		"quoted_status_id_str": "854953330522697728",
+		"quoted_status": {
+			"created_at": "Thu Apr 20 07:02:12 +0000 2017",
+			"id": 854953330522697700,
+			"id_str": "854953330522697728",
+			"text": "Students practising the simple present #onenote #msedu #proudteacher https://t.co/wp5AfDyegn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "onenote",
+						"indices": [
+							39,
+							47
+						]
+					},
+					{
+						"text": "msedu",
+						"indices": [
+							48,
+							54
+						]
+					},
+					{
+						"text": "proudteacher",
+						"indices": [
+							55,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 854953234129199100,
+						"id_str": "854953234129199105",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C91nb8vXoAEvifH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C91nb8vXoAEvifH.jpg",
+						"url": "https://t.co/wp5AfDyegn",
+						"display_url": "pic.twitter.com/wp5AfDyegn",
+						"expanded_url": "https://twitter.com/pmimmy69/status/854953330522697728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854953234129199100,
+						"id_str": "854953234129199105",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C91nb8vXoAEvifH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C91nb8vXoAEvifH.jpg",
+						"url": "https://t.co/wp5AfDyegn",
+						"display_url": "pic.twitter.com/wp5AfDyegn",
+						"expanded_url": "https://twitter.com/pmimmy69/status/854953330522697728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 854953258464530400,
+						"id_str": "854953258464530432",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C91ndXZXUAAZ-tU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C91ndXZXUAAZ-tU.jpg",
+						"url": "https://t.co/wp5AfDyegn",
+						"display_url": "pic.twitter.com/wp5AfDyegn",
+						"expanded_url": "https://twitter.com/pmimmy69/status/854953330522697728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 854953281826771000,
+						"id_str": "854953281826770944",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C91neubW0AAlz6_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C91neubW0AAlz6_.jpg",
+						"url": "https://t.co/wp5AfDyegn",
+						"display_url": "pic.twitter.com/wp5AfDyegn",
+						"expanded_url": "https://twitter.com/pmimmy69/status/854953330522697728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 854953309710553100,
+						"id_str": "854953309710553088",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C91ngWTXkAAqcaQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C91ngWTXkAAqcaQ.jpg",
+						"url": "https://t.co/wp5AfDyegn",
+						"display_url": "pic.twitter.com/wp5AfDyegn",
+						"expanded_url": "https://twitter.com/pmimmy69/status/854953330522697728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42444286,
+				"id_str": "42444286",
+				"name": "Katja de Jong",
+				"screen_name": "pmimmy69",
+				"location": "",
+				"description": "English teacher, master student, love literature, all things digital and of course my family 🤓",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 122,
+				"friends_count": 181,
+				"listed_count": 4,
+				"created_at": "Mon May 25 17:17:52 +0000 2009",
+				"favourites_count": 303,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 944,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2506972122/9x2k0c7t03tq2g7dk1ta_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2506972122/9x2k0c7t03tq2g7dk1ta_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42444286/1492268129",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "6c9cd60a2e208ad1",
+				"url": "https://api.twitter.com/1.1/geo/id/6c9cd60a2e208ad1.json",
+				"place_type": "city",
+				"name": "Wijchen",
+				"full_name": "Wijchen, Nederland",
+				"country_code": "NL",
+				"country": "The Netherlands",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								5.5978243,
+								51.7732681
+							],
+							[
+								5.8008635,
+								51.7732681
+							],
+							[
+								5.8008635,
+								51.867497
+							],
+							[
+								5.5978243,
+								51.867497
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 20 07:02:54 +0000 2017",
 		"id": 854953503755784200,
 		"id_str": "854953503755784192",
