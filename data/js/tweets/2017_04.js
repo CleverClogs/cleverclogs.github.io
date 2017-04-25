@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 25 16:41:34 +0000 2017",
+		"id": 856911068538556400,
+		"id_str": "856911068538556416",
+		"text": "RT @mrnamvas: My project is growing up with educators around the world https://t.co/eI5WsXx8gy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrnamvas",
+					"name": "Nam Ngo Thanh",
+					"id": 2880776341,
+					"id_str": "2880776341",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 856904319655788500,
+					"id_str": "856904319655788544",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C-RV8EuUwAAsBam.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-RV8EuUwAAsBam.jpg",
+					"url": "https://t.co/eI5WsXx8gy",
+					"display_url": "pic.twitter.com/eI5WsXx8gy",
+					"expanded_url": "https://twitter.com/mrnamvas/status/856905872835989504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 609,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1608,
+							"h": 1439,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 856905872835989500,
+					"source_status_id_str": "856905872835989504",
+					"source_user_id": 2880776341,
+					"source_user_id_str": "2880776341"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 856904319655788500,
+					"id_str": "856904319655788544",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C-RV8EuUwAAsBam.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-RV8EuUwAAsBam.jpg",
+					"url": "https://t.co/eI5WsXx8gy",
+					"display_url": "pic.twitter.com/eI5WsXx8gy",
+					"expanded_url": "https://twitter.com/mrnamvas/status/856905872835989504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 609,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1608,
+							"h": 1439,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 856905872835989500,
+					"source_status_id_str": "856905872835989504",
+					"source_user_id": 2880776341,
+					"source_user_id_str": "2880776341"
+				},
+				{
+					"id": 856905103466389500,
+					"id_str": "856905103466389505",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C-RWpspVYAE09bM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-RWpspVYAE09bM.jpg",
+					"url": "https://t.co/eI5WsXx8gy",
+					"display_url": "pic.twitter.com/eI5WsXx8gy",
+					"expanded_url": "https://twitter.com/mrnamvas/status/856905872835989504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1483,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 869,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 856905872835989500,
+					"source_status_id_str": "856905872835989504",
+					"source_user_id": 2880776341,
+					"source_user_id_str": "2880776341"
+				},
+				{
+					"id": 856905140871209000,
+					"id_str": "856905140871208961",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C-RWr3_VoAEB5XL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-RWr3_VoAEB5XL.jpg",
+					"url": "https://t.co/eI5WsXx8gy",
+					"display_url": "pic.twitter.com/eI5WsXx8gy",
+					"expanded_url": "https://twitter.com/mrnamvas/status/856905872835989504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1750,
+							"h": 912,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 625,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 856905872835989500,
+					"source_status_id_str": "856905872835989504",
+					"source_user_id": 2880776341,
+					"source_user_id_str": "2880776341"
+				},
+				{
+					"id": 856905494933364700,
+					"id_str": "856905494933364736",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C-RXAe-VYAADKYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C-RXAe-VYAADKYx.jpg",
+					"url": "https://t.co/eI5WsXx8gy",
+					"display_url": "pic.twitter.com/eI5WsXx8gy",
+					"expanded_url": "https://twitter.com/mrnamvas/status/856905872835989504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 570,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1938,
+							"h": 920,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 856905872835989500,
+					"source_status_id_str": "856905872835989504",
+					"source_user_id": 2880776341,
+					"source_user_id_str": "2880776341"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11251,
+			"friends_count": 4174,
+			"listed_count": 487,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16055,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15807,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 25 16:20:55 +0000 2017",
+			"id": 856905872835989500,
+			"id_str": "856905872835989504",
+			"text": "My project is growing up with educators around the world https://t.co/eI5WsXx8gy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 856904319655788500,
+						"id_str": "856904319655788544",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C-RV8EuUwAAsBam.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-RV8EuUwAAsBam.jpg",
+						"url": "https://t.co/eI5WsXx8gy",
+						"display_url": "pic.twitter.com/eI5WsXx8gy",
+						"expanded_url": "https://twitter.com/mrnamvas/status/856905872835989504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 609,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1074,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1608,
+								"h": 1439,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 856904319655788500,
+						"id_str": "856904319655788544",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C-RV8EuUwAAsBam.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-RV8EuUwAAsBam.jpg",
+						"url": "https://t.co/eI5WsXx8gy",
+						"display_url": "pic.twitter.com/eI5WsXx8gy",
+						"expanded_url": "https://twitter.com/mrnamvas/status/856905872835989504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 609,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1074,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1608,
+								"h": 1439,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 856905103466389500,
+						"id_str": "856905103466389505",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C-RWpspVYAE09bM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-RWpspVYAE09bM.jpg",
+						"url": "https://t.co/eI5WsXx8gy",
+						"display_url": "pic.twitter.com/eI5WsXx8gy",
+						"expanded_url": "https://twitter.com/mrnamvas/status/856905872835989504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1483,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 869,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 856905140871209000,
+						"id_str": "856905140871208961",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C-RWr3_VoAEB5XL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-RWr3_VoAEB5XL.jpg",
+						"url": "https://t.co/eI5WsXx8gy",
+						"display_url": "pic.twitter.com/eI5WsXx8gy",
+						"expanded_url": "https://twitter.com/mrnamvas/status/856905872835989504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1750,
+								"h": 912,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 354,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 625,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 856905494933364700,
+						"id_str": "856905494933364736",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/C-RXAe-VYAADKYx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-RXAe-VYAADKYx.jpg",
+						"url": "https://t.co/eI5WsXx8gy",
+						"display_url": "pic.twitter.com/eI5WsXx8gy",
+						"expanded_url": "https://twitter.com/mrnamvas/status/856905872835989504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 323,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 570,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1938,
+								"h": 920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2880776341,
+				"id_str": "2880776341",
+				"name": "Nam Ngo Thanh",
+				"screen_name": "mrnamvas",
+				"location": "Vietnam",
+				"description": "Microsoft Innovative Educator Fellow| MIE Master Trainer | Microsoft columnist|Skype Master Teacher | Vietnam Australia International School.",
+				"url": "https://t.co/bmT2VHkFid",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bmT2VHkFid",
+								"expanded_url": "http://namngovas.wordpress.com/",
+								"display_url": "namngovas.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1440,
+				"friends_count": 2151,
+				"listed_count": 280,
+				"created_at": "Tue Oct 28 12:27:46 +0000 2014",
+				"favourites_count": 3254,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10255,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/779343416299630593/KwZrswhh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/779343416299630593/KwZrswhh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2880776341/1486436919",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 25 13:06:07 +0000 2017",
 		"id": 856856849647378400,
 		"id_str": "856856849647378433",
