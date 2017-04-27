@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 27 08:14:41 +0000 2017",
+		"id": 857508282822426600,
+		"id_str": "857508282822426624",
+		"text": "@Mr_STPark May 2nd will be all about this live-streamed event:\nhttps://t.co/Gc5MDd9Yqu\nWill you join the #MSFTEduChat TweetMeet on May 16?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mr_STPark",
+					"name": "Mr Park",
+					"id": 812263995700875300,
+					"id_str": "812263995700875264",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Gc5MDd9Yqu",
+					"expanded_url": "http://event.microsoft.com/MayEvent/",
+					"display_url": "event.microsoft.com/MayEvent/",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 857504239194705900,
+		"in_reply_to_status_id_str": "857504239194705920",
+		"in_reply_to_user_id": 812263995700875300,
+		"in_reply_to_user_id_str": "812263995700875264",
+		"in_reply_to_screen_name": "Mr_STPark",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11264,
+			"friends_count": 4182,
+			"listed_count": 487,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16080,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15823,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 27 07:42:28 +0000 2017",
+		"id": 857500179066441700,
+		"id_str": "857500179066441728",
+		"text": "RT @AmirNetz: #PowerBI and #OneNote spent the night together. 9 months later... Congrats! \nWe called him Cool after the father. \nhttps://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PowerBI",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmirNetz",
+					"name": "Amir Netz",
+					"id": 39329153,
+					"id_str": "39329153",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11264,
+			"friends_count": 4182,
+			"listed_count": 487,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16080,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15823,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 05 21:37:02 +0000 2017",
+			"id": 849737669303181300,
+			"id_str": "849737669303181312",
+			"text": "#PowerBI and #OneNote spent the night together. 9 months later... Congrats! \nWe called him Cool after the father.… https://t.co/hvRpcrNLsm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PowerBI",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							13,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hvRpcrNLsm",
+						"expanded_url": "https://twitter.com/i/web/status/849737669303181312",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39329153,
+				"id_str": "39329153",
+				"name": "Amir Netz",
+				"screen_name": "AmirNetz",
+				"location": "Bellevue, WA",
+				"description": "Technical Fellow at Microsoft, passionate on everything BI - Power BI, VertiPaq,  MOLAP, SSAS passions. I read everything, love games.",
+				"url": "http://t.co/ZXPKG6B5kk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZXPKG6B5kk",
+								"expanded_url": "http://www.microsoft.com/presspass/exec/de/netz/default.mspx",
+								"display_url": "microsoft.com/presspass/exec…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2608,
+				"friends_count": 63,
+				"listed_count": 160,
+				"created_at": "Mon May 11 20:07:46 +0000 2009",
+				"favourites_count": 8,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/115074330/Amir.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/115074330/Amir.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/208716608/Amir_Thinking_Twitter_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/208716608/Amir_Thinking_Twitter_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 849128424048218100,
+			"quoted_status_id_str": "849128424048218112",
+			"quoted_status": {
+				"created_at": "Tue Apr 04 05:16:06 +0000 2017",
+				"id": 849128424048218100,
+				"id_str": "849128424048218112",
+				"text": "Yes! @MSPowerBI and @OneNoteEDU work together! Love this! #MIEExpert #SurfaceEDU #MusicEd #edtech #O365 https://t.co/gMlUzgdtmV",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "MIEExpert",
+							"indices": [
+								58,
+								68
+							]
+						},
+						{
+							"text": "SurfaceEDU",
+							"indices": [
+								69,
+								80
+							]
+						},
+						{
+							"text": "MusicEd",
+							"indices": [
+								81,
+								89
+							]
+						},
+						{
+							"text": "edtech",
+							"indices": [
+								90,
+								97
+							]
+						},
+						{
+							"text": "O365",
+							"indices": [
+								98,
+								103
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "MSPowerBI",
+							"name": "Power BI",
+							"id": 227829587,
+							"id_str": "227829587",
+							"indices": [
+								5,
+								15
+							]
+						},
+						{
+							"screen_name": "OneNoteEDU",
+							"name": "@OneNoteEDU",
+							"id": 3096566760,
+							"id_str": "3096566760",
+							"indices": [
+								20,
+								31
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 849128420873089000,
+							"id_str": "849128420873089024",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/C8i1zMbUMAA3Y43.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C8i1zMbUMAA3Y43.jpg",
+							"url": "https://t.co/gMlUzgdtmV",
+							"display_url": "pic.twitter.com/gMlUzgdtmV",
+							"expanded_url": "https://twitter.com/AndrewNRoxanna/status/849128424048218112/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 767,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1310,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 435,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 849128420873089000,
+							"id_str": "849128420873089024",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/C8i1zMbUMAA3Y43.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C8i1zMbUMAA3Y43.jpg",
+							"url": "https://t.co/gMlUzgdtmV",
+							"display_url": "pic.twitter.com/gMlUzgdtmV",
+							"expanded_url": "https://twitter.com/AndrewNRoxanna/status/849128424048218112/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1200,
+									"h": 767,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1310,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 435,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 111623847,
+					"id_str": "111623847",
+					"name": "Andrew Fitzgerald",
+					"screen_name": "AndrewNRoxanna",
+					"location": "Southern California",
+					"description": "Husband/Father. Middle School Band & Orchestra (& Multimedia) Teacher. M.A. in Ed Tech Leadership, CSULB. MIE Expert, Surface Expert, CUE Rockstar Teacher",
+					"url": "http://t.co/4R3vBlwckD",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/4R3vBlwckD",
+									"expanded_url": "http://andrewfitz.net",
+									"display_url": "andrewfitz.net",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 473,
+					"friends_count": 328,
+					"listed_count": 124,
+					"created_at": "Fri Feb 05 15:47:00 +0000 2010",
+					"favourites_count": 67,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1966,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/682410856441753600/AxVURaYS_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/682410856441753600/AxVURaYS_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/111623847/1372042619",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 29,
+				"favorite_count": 36,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 56,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 849128424048218100,
+		"quoted_status_id_str": "849128424048218112",
+		"retweet_count": 56,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 27 06:33:46 +0000 2017",
 		"id": 857482888857743400,
 		"id_str": "857482888857743360",
