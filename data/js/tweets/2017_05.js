@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 02 19:03:09 +0000 2017",
+		"id": 859483418106703900,
+		"id_str": "859483418106703874",
+		"text": "RT @sandiadams: Our beautiful @CherokeeSchools students sharing @MicrosoftEDU and their reading success with Learning Tools and @OneNoteEDU…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sandiadams",
+					"name": "Sandi Adams",
+					"id": 26064690,
+					"id_str": "26064690",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "CherokeeSchools",
+					"name": "Cherokee Co. Schools",
+					"id": 342887084,
+					"id_str": "342887084",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						64,
+						77
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "@OneNoteEDU",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11324,
+			"friends_count": 4191,
+			"listed_count": 490,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16147,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15882,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 02 16:14:28 +0000 2017",
+			"id": 859440964397654000,
+			"id_str": "859440964397654018",
+			"text": "Our beautiful @CherokeeSchools students sharing @MicrosoftEDU and their reading success with Learning Tools and… https://t.co/qk35rRfiXH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CherokeeSchools",
+						"name": "Cherokee Co. Schools",
+						"id": 342887084,
+						"id_str": "342887084",
+						"indices": [
+							14,
+							30
+						]
+					},
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							48,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qk35rRfiXH",
+						"expanded_url": "https://twitter.com/i/web/status/859440964397654018",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26064690,
+				"id_str": "26064690",
+				"name": "Sandi Adams",
+				"screen_name": "sandiadams",
+				"location": "Georgia",
+				"description": "Technology Project Specialist, Cherokee County District, Microsoft Innovative Educator Expert & Master Trainer, Techie, Backpacker and Hiker",
+				"url": "https://t.co/MsiyRDS3S3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MsiyRDS3S3",
+								"expanded_url": "https://sandiadams.wordpress.com/",
+								"display_url": "sandiadams.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2885,
+				"friends_count": 1800,
+				"listed_count": 179,
+				"created_at": "Mon Mar 23 19:00:46 +0000 2009",
+				"favourites_count": 16758,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5408,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/747911193952583680/BdR5GFXy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/747911193952583680/BdR5GFXy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26064690/1441530216",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 859403893242855400,
+			"quoted_status_id_str": "859403893242855425",
+			"quoted_status": {
+				"created_at": "Tue May 02 13:47:09 +0000 2017",
+				"id": 859403893242855400,
+				"id_str": "859403893242855425",
+				"text": "When technology and education come together, possibility becomes reality. #MicrosoftEDU https://t.co/gEo8Volfr1",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "MicrosoftEDU",
+							"indices": [
+								74,
+								87
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 859240046221824000,
+							"id_str": "859240046221824000",
+							"indices": [
+								88,
+								111
+							],
+							"media_url": "http://pbs.twimg.com/media/C-03OpRXoAAL_sa.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C-03OpRXoAAL_sa.jpg",
+							"url": "https://t.co/gEo8Volfr1",
+							"display_url": "pic.twitter.com/gEo8Volfr1",
+							"expanded_url": "https://twitter.com/Microsoft/status/859403893242855425/video/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1061,
+									"h": 596,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1061,
+									"h": 596,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 382,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 859240046221824000,
+							"id_str": "859240046221824000",
+							"indices": [
+								88,
+								111
+							],
+							"media_url": "http://pbs.twimg.com/media/C-03OpRXoAAL_sa.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C-03OpRXoAAL_sa.jpg",
+							"url": "https://t.co/gEo8Volfr1",
+							"display_url": "pic.twitter.com/gEo8Volfr1",
+							"expanded_url": "https://twitter.com/Microsoft/status/859403893242855425/video/1",
+							"type": "video",
+							"sizes": {
+								"large": {
+									"w": 1061,
+									"h": 596,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1061,
+									"h": 596,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 382,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 60060,
+								"variants": [
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/859240046221824000/vid/1280x720/NagslMxIq9ey4gF_.mp4"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/859240046221824000/vid/640x360/sEZshMwwwVT4B6fX.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/859240046221824000/pl/lRkCXKDs3hWm9t8a.m3u8"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/859240046221824000/vid/320x180/cjjo9MuQFkMVcJJS.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "Education and Technology: Helping students read in a new way",
+								"description": "1 in 5 students struggle with dyslexia. See how Microsoft Learning Tools empower students of every ability to improve their reading skills.",
+								"embeddable": true,
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 74286565,
+					"id_str": "74286565",
+					"name": "Microsoft",
+					"screen_name": "Microsoft",
+					"location": "Redmond, WA",
+					"description": "The official Twitter page for Microsoft consumer products and your source for major announcements and events.",
+					"url": "http://t.co/iIrGzB9fzr",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/iIrGzB9fzr",
+									"expanded_url": "http://www.facebook.com/Microsoft",
+									"display_url": "facebook.com/Microsoft",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8009977,
+					"friends_count": 2127,
+					"listed_count": 20830,
+					"created_at": "Mon Sep 14 22:35:42 +0000 2009",
+					"favourites_count": 754,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 12417,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "00AEEF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/709852306632744960/zQ0xyGGK_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/709852306632744960/zQ0xyGGK_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1493644855",
+					"profile_link_color": "1570A6",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 389,
+				"favorite_count": 612,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 859403893242855400,
+		"quoted_status_id_str": "859403893242855425",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 02 15:59:59 +0000 2017",
 		"id": 859437321996959700,
 		"id_str": "859437321996959747",
