@@ -1,6 +1,681 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 09 18:05:00 +0000 2017",
+		"id": 862005495950913500,
+		"id_str": "862005495950913536",
+		"text": "@dscammell @OfficeInsider Yes, but we're looking for new features in the #InsiderFast ring of the #OneNote app for… https://t.co/mg7VuB1Pv7",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InsiderFast",
+					"indices": [
+						73,
+						85
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dscammell",
+					"name": "dscammell",
+					"id": 17464279,
+					"id_str": "17464279",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "OfficeInsider",
+					"name": "MS Office Insiders",
+					"id": 4444936638,
+					"id_str": "4444936638",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mg7VuB1Pv7",
+					"expanded_url": "https://twitter.com/i/web/status/862005495950913536",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 862004261525348400,
+		"in_reply_to_status_id_str": "862004261525348352",
+		"in_reply_to_user_id": 17464279,
+		"in_reply_to_user_id_str": "17464279",
+		"in_reply_to_screen_name": "dscammell",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11412,
+			"friends_count": 4208,
+			"listed_count": 490,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16237,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 09 17:57:22 +0000 2017",
+		"id": 862003576993984500,
+		"id_str": "862003576993984512",
+		"text": "Speaking of #OneNote tables, @OfficeInsider @MasterDevWi, it'd be awesome if #Windows10 version would support creat… https://t.co/539YUO15EK",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OfficeInsider",
+					"name": "MS Office Insiders",
+					"id": 4444936638,
+					"id_str": "4444936638",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "MasterDevwi",
+					"name": "William Devereux",
+					"id": 5193261,
+					"id_str": "5193261",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/539YUO15EK",
+					"expanded_url": "https://twitter.com/i/web/status/862003576993984512",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11412,
+			"friends_count": 4208,
+			"listed_count": 490,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16237,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 09 17:41:22 +0000 2017",
+		"id": 861999549501583400,
+		"id_str": "861999549501583361",
+		"text": "RT @donasarkar: Our #WindowsInsiders have expressed interest in @OfficeInsider 'ing as well. Check this scavenger hunt out! https://t.co/jD…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WindowsInsiders",
+					"indices": [
+						20,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "donasarkar",
+					"name": "Dona Sarkar",
+					"id": 55588874,
+					"id_str": "55588874",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "OfficeInsider",
+					"name": "MS Office Insiders",
+					"id": 4444936638,
+					"id_str": "4444936638",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11412,
+			"friends_count": 4208,
+			"listed_count": 490,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16237,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15972,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 09 17:35:29 +0000 2017",
+			"id": 861998067616104400,
+			"id_str": "861998067616104449",
+			"text": "Our #WindowsInsiders have expressed interest in @OfficeInsider 'ing as well. Check this scavenger hunt out! https://t.co/jDTPtCLRkN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WindowsInsiders",
+						"indices": [
+							4,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OfficeInsider",
+						"name": "MS Office Insiders",
+						"id": 4444936638,
+						"id_str": "4444936638",
+						"indices": [
+							48,
+							62
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jDTPtCLRkN",
+						"expanded_url": "https://twitter.com/officeinsider/status/861974436181704704",
+						"display_url": "twitter.com/officeinsider/…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55588874,
+				"id_str": "55588874",
+				"name": "Dona Sarkar",
+				"screen_name": "donasarkar",
+				"location": "Everywhere",
+				"description": "Chief #NinjaCat #WindowsInsiders Community @microsoft | I create tech/books/fashion/chaos & tweet about it | Declare var not war | https://t.co/TmVjJLttne",
+				"url": "https://t.co/6D6oayhemZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6D6oayhemZ",
+								"expanded_url": "http://donasarkar.com",
+								"display_url": "donasarkar.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TmVjJLttne",
+								"expanded_url": "http://aka.ms/windowsinsider",
+								"display_url": "aka.ms/windowsinsider",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 60013,
+				"friends_count": 1642,
+				"listed_count": 808,
+				"created_at": "Fri Jul 10 15:26:11 +0000 2009",
+				"favourites_count": 7362,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8299,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FBFE7D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/231274616/twitterback.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/231274616/twitterback.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793677732290834432/N1PR37By_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793677732290834432/N1PR37By_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55588874/1475383784",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "09080E",
+				"profile_sidebar_fill_color": "3A1E2A",
+				"profile_text_color": "D6C6EB",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0073b76548e5984f",
+				"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+				"place_type": "city",
+				"name": "Sydney",
+				"full_name": "Sydney, New South Wales",
+				"country_code": "AU",
+				"country": "Australia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								150.520928608,
+								-34.1183470085
+							],
+							[
+								151.343020992,
+								-34.1183470085
+							],
+							[
+								151.343020992,
+								-33.578140996
+							],
+							[
+								150.520928608,
+								-33.578140996
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 861974436181704700,
+			"quoted_status_id_str": "861974436181704704",
+			"quoted_status": {
+				"created_at": "Tue May 09 16:01:34 +0000 2017",
+				"id": 861974436181704700,
+				"id_str": "861974436181704704",
+				"text": "If you find a new feature, let me know (include #OneNoteQuest &amp; #contest) and you could win! See rules for details:… https://t.co/dfZ5jQAtmb",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OneNoteQuest",
+							"indices": [
+								48,
+								61
+							]
+						},
+						{
+							"text": "contest",
+							"indices": [
+								68,
+								76
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/dfZ5jQAtmb",
+							"expanded_url": "https://twitter.com/i/web/status/861974436181704704",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4444936638,
+					"id_str": "4444936638",
+					"name": "MS Office Insiders",
+					"screen_name": "OfficeInsider",
+					"location": "Redmond, WA",
+					"description": "Join a growing community of experts and enthusiasts who are helping shape the future of Microsoft Office.",
+					"url": "https://t.co/5zCfJcacyb",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/5zCfJcacyb",
+									"expanded_url": "http://off365.ms/vOIO8F",
+									"display_url": "off365.ms/vOIO8F",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8749,
+					"friends_count": 96,
+					"listed_count": 131,
+					"created_at": "Thu Dec 03 19:30:06 +0000 2015",
+					"favourites_count": 215,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 1262,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/861875312971218944/yrN7QyT6_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/861875312971218944/yrN7QyT6_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4444936638/1479325626",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 9,
+				"favorite_count": 8,
+				"favorited": true,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 26,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 861974436181704700,
+		"quoted_status_id_str": "861974436181704704",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 09 17:10:38 +0000 2017",
 		"id": 861991813665763300,
 		"id_str": "861991813665763328",
