@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 11 17:36:22 +0000 2017",
+		"id": 862723067226849300,
+		"id_str": "862723067226849281",
+		"text": "RT @MasterDevwi: Here's the full recap of today's announcements. #MSBuild https://t.co/JCDvsLuGCW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSBuild",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MasterDevwi",
+					"name": "William Devereux",
+					"id": 5193261,
+					"id_str": "5193261",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JCDvsLuGCW",
+					"expanded_url": "https://twitter.com/windowsblog/status/862721973062737921",
+					"display_url": "twitter.com/windowsblog/st…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11439,
+			"friends_count": 4210,
+			"listed_count": 490,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16287,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 17:35:56 +0000 2017",
+			"id": 862722957604298800,
+			"id_str": "862722957604298752",
+			"text": "Here's the full recap of today's announcements. #MSBuild https://t.co/JCDvsLuGCW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSBuild",
+						"indices": [
+							48,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JCDvsLuGCW",
+						"expanded_url": "https://twitter.com/windowsblog/status/862721973062737921",
+						"display_url": "twitter.com/windowsblog/st…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5193261,
+				"id_str": "5193261",
+				"name": "William Devereux",
+				"screen_name": "MasterDevwi",
+				"location": "Redmond, WA",
+				"description": "Product Manager Lead for @MSOneNote apps at Microsoft. Host of @IonCannonCast. Xbox/Zune MVP alumni. Star Wars fan. Opinions are my own.",
+				"url": "https://t.co/kJMpFWdNgm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kJMpFWdNgm",
+								"expanded_url": "http://ioncannoncast.com",
+								"display_url": "ioncannoncast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1604,
+				"friends_count": 709,
+				"listed_count": 143,
+				"created_at": "Thu Apr 19 06:02:04 +0000 2007",
+				"favourites_count": 7434,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25290,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/830325230/37dd18c98892fee17e6025d93a18d83b.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/830325230/37dd18c98892fee17e6025d93a18d83b.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802748653324496896/eUIT0oWr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802748653324496896/eUIT0oWr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5193261/1485670255",
+				"profile_link_color": "015873",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "0F0F0F",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 862721973062737900,
+			"quoted_status_id_str": "862721973062737921",
+			"quoted_status": {
+				"created_at": "Thu May 11 17:32:01 +0000 2017",
+				"id": 862721973062737900,
+				"id_str": "862721973062737921",
+				"text": "Build 2017: Sparking the next wave of creativity with the Windows 10 Fall Creators Update #MSBuild… https://t.co/eXIu4xjBRj",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "MSBuild",
+							"indices": [
+								90,
+								98
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/eXIu4xjBRj",
+							"expanded_url": "https://twitter.com/i/web/status/862721973062737921",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 17034634,
+					"id_str": "17034634",
+					"name": "Windows Blogs",
+					"screen_name": "windowsblog",
+					"location": "Redmond, WA",
+					"description": "The official blog for Windows and Devices at Microsoft. This is an automated account.",
+					"url": "http://t.co/beu7CVe6",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/beu7CVe6",
+									"expanded_url": "http://blogs.windows.com",
+									"display_url": "blogs.windows.com",
+									"indices": [
+										0,
+										20
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 470028,
+					"friends_count": 99,
+					"listed_count": 3390,
+					"created_at": "Wed Oct 29 03:00:57 +0000 2008",
+					"favourites_count": 11,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 8418,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "7700AC",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/19784772/blue2.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/19784772/blue2.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/3176605559/9ff8042d7c8706d5e515578108df9654_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/3176605559/9ff8042d7c8706d5e515578108df9654_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/17034634/1478579866",
+					"profile_link_color": "00CCFF",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "59B3F7",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 23,
+				"favorite_count": 39,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 862721973062737900,
+		"quoted_status_id_str": "862721973062737921",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 11 17:23:14 +0000 2017",
+		"id": 862719762660511700,
+		"id_str": "862719762660511745",
+		"text": "RT @michelelfreed: Last week we announced our new MS Teams for EDU, a lot of Teachers wanting to lean more. Check out https://t.co/GfPc0bxU…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michelelfreed",
+					"name": "michelelfreed",
+					"id": 12339502,
+					"id_str": "12339502",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11439,
+			"friends_count": 4210,
+			"listed_count": 490,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16287,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16010,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 16:18:00 +0000 2017",
+			"id": 862703345189793800,
+			"id_str": "862703345189793792",
+			"text": "Last week we announced our new MS Teams for EDU, a lot of Teachers wanting to lean more. Check out https://t.co/GfPc0bxU14 #MicrosoftEDU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							123,
+							136
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GfPc0bxU14",
+						"expanded_url": "https://aka.ms/meetteamsedu",
+						"display_url": "aka.ms/meetteamsedu",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12339502,
+				"id_str": "12339502",
+				"name": "michelelfreed",
+				"screen_name": "michelelfreed",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/px9CfyjYTC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/px9CfyjYTC",
+								"expanded_url": "https://www.linkedin.com/in/michelefreed",
+								"display_url": "linkedin.com/in/michelefreed",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 183,
+				"friends_count": 426,
+				"listed_count": 12,
+				"created_at": "Thu Jan 17 00:37:04 +0000 2008",
+				"favourites_count": 389,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2989,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/742803064331997184/LT47HJQZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/742803064331997184/LT47HJQZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12339502/1466271392",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 11 17:16:07 +0000 2017",
 		"id": 862717971621400600,
 		"id_str": "862717971621400576",
