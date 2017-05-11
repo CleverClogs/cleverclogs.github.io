@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 11 21:31:58 +0000 2017",
+		"id": 862782357258084400,
+		"id_str": "862782357258084353",
+		"text": "RT @zacbowden: OneNote with Fluent Design https://t.co/t3yyiOlTsi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zacbowden",
+					"name": "Zac Bowden",
+					"id": 50291866,
+					"id_str": "50291866",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 862765275837485000,
+					"id_str": "862765275837485056",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/C_kocn7V0AAZ2ps.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_kocn7V0AAZ2ps.jpg",
+					"url": "https://t.co/t3yyiOlTsi",
+					"display_url": "pic.twitter.com/t3yyiOlTsi",
+					"expanded_url": "https://twitter.com/zacbowden/status/862765298104942592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 862765298104942600,
+					"source_status_id_str": "862765298104942592",
+					"source_user_id": 50291866,
+					"source_user_id_str": "50291866"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 862765275837485000,
+					"id_str": "862765275837485056",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/C_kocn7V0AAZ2ps.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_kocn7V0AAZ2ps.jpg",
+					"url": "https://t.co/t3yyiOlTsi",
+					"display_url": "pic.twitter.com/t3yyiOlTsi",
+					"expanded_url": "https://twitter.com/zacbowden/status/862765298104942592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 862765298104942600,
+					"source_status_id_str": "862765298104942592",
+					"source_user_id": 50291866,
+					"source_user_id_str": "50291866"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11444,
+			"friends_count": 4210,
+			"listed_count": 490,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16295,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16022,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 11 20:24:11 +0000 2017",
+			"id": 862765298104942600,
+			"id_str": "862765298104942592",
+			"text": "OneNote with Fluent Design https://t.co/t3yyiOlTsi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 862765275837485000,
+						"id_str": "862765275837485056",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/C_kocn7V0AAZ2ps.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_kocn7V0AAZ2ps.jpg",
+						"url": "https://t.co/t3yyiOlTsi",
+						"display_url": "pic.twitter.com/t3yyiOlTsi",
+						"expanded_url": "https://twitter.com/zacbowden/status/862765298104942592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862765275837485000,
+						"id_str": "862765275837485056",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/C_kocn7V0AAZ2ps.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_kocn7V0AAZ2ps.jpg",
+						"url": "https://t.co/t3yyiOlTsi",
+						"display_url": "pic.twitter.com/t3yyiOlTsi",
+						"expanded_url": "https://twitter.com/zacbowden/status/862765298104942592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50291866,
+				"id_str": "50291866",
+				"name": "Zac Bowden",
+				"screen_name": "zacbowden",
+				"location": "London, United Kingdom",
+				"description": "Senior Editor at @WindowsCentral | https://t.co/jWciU60Dse | Got a tip? Email: zac@windowscentral.com | DM's open for tips only!",
+				"url": "https://t.co/VCp5PW1wRw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VCp5PW1wRw",
+								"expanded_url": "http://windowscentral.com",
+								"display_url": "windowscentral.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jWciU60Dse",
+								"expanded_url": "http://about.me/zac_bowden",
+								"display_url": "about.me/zac_bowden",
+								"indices": [
+									35,
+									58
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12947,
+				"friends_count": 462,
+				"listed_count": 159,
+				"created_at": "Wed Jun 24 12:34:22 +0000 2009",
+				"favourites_count": 4550,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23311,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/548055052162588672/XakdKnuW.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/548055052162588672/XakdKnuW.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/841298511031357440/vTtBjnQL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/841298511031357440/vTtBjnQL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50291866/1494395604",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 11 21:12:03 +0000 2017",
 		"id": 862777347086446600,
 		"id_str": "862777347086446593",
