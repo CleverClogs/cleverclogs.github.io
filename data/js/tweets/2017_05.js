@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 12 17:40:07 +0000 2017",
+		"id": 863086399762960400,
+		"id_str": "863086399762960385",
+		"text": "Another #Onederful and hilarious #OneNote #FunNote by @SummerWinrotte and her OneNote Avengers!\n#MIEExpert https://t.co/rK29EjpqXQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onederful",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "FunNote",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SummerWinrotte",
+					"name": "Ms Winrotte",
+					"id": 2312953676,
+					"id_str": "2312953676",
+					"indices": [
+						54,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rK29EjpqXQ",
+					"expanded_url": "https://twitter.com/SummerWinrotte/status/863085728925921280",
+					"display_url": "twitter.com/SummerWinrotte…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11446,
+			"friends_count": 4212,
+			"listed_count": 490,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16302,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16027,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 863085728925921300,
+		"quoted_status_id_str": "863085728925921280",
+		"quoted_status": {
+			"created_at": "Fri May 12 17:37:27 +0000 2017",
+			"id": 863085728925921300,
+			"id_str": "863085728925921280",
+			"text": ".@TecumsehJrHigh #OneNote Avengers running to take over the Education world! @OneNoteEDU @OneNoteC @mtholfsen… https://t.co/4seuWWF9if",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							17,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TecumsehJrHigh",
+						"name": "Tecumseh Junior High",
+						"id": 2359355202,
+						"id_str": "2359355202",
+						"indices": [
+							1,
+							16
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							77,
+							88
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							89,
+							98
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							99,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4seuWWF9if",
+						"expanded_url": "https://twitter.com/i/web/status/863085728925921280",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2312953676,
+				"id_str": "2312953676",
+				"name": "Ms Winrotte",
+				"screen_name": "SummerWinrotte",
+				"location": "",
+				"description": "Listener, Encourager, Digital Instructional Coach/Math Teacher, #MIEExpert, #Microsoft Certified Educator, Surface Expert, #OneNote FAN! Statements are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 627,
+				"friends_count": 386,
+				"listed_count": 171,
+				"created_at": "Mon Jan 27 03:50:15 +0000 2014",
+				"favourites_count": 2500,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2071,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855039450019229698/hEQMG33d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855039450019229698/hEQMG33d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2312953676/1493659768",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 12 15:56:52 +0000 2017",
 		"id": 863060417169559600,
 		"id_str": "863060417169559553",
