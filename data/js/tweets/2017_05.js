@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 16 10:04:44 +0000 2017",
+		"id": 864421350722736100,
+		"id_str": "864421350722736128",
+		"text": "RT @PBJellyGames: Ep1 Intro - New TUTORIAL Series #MinecraftEdu #CodeBuilder - Let's all learn how to code. #MSFTEduChat https://t.co/WXoiL…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MinecraftEdu",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"text": "CodeBuilder",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PBJellyGames",
+					"name": "Garrett.Z - PBJGames",
+					"id": 2364688028,
+					"id_str": "2364688028",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11481,
+			"friends_count": 4214,
+			"listed_count": 491,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16345,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue May 16 09:30:27 +0000 2017",
+			"id": 864412722380845000,
+			"id_str": "864412722380845057",
+			"text": "Ep1 Intro - New TUTORIAL Series #MinecraftEdu #CodeBuilder - Let's all learn how to code. #MSFTEduChat https://t.co/WXoiLlzhCF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MinecraftEdu",
+						"indices": [
+							32,
+							45
+						]
+					},
+					{
+						"text": "CodeBuilder",
+						"indices": [
+							46,
+							58
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							90,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WXoiLlzhCF",
+						"expanded_url": "http://youtu.be/2CHSXcJA1Ww?a",
+						"display_url": "youtu.be/2CHSXcJA1Ww?a",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2364688028,
+				"id_str": "2364688028",
+				"name": "Garrett.Z - PBJGames",
+				"screen_name": "PBJellyGames",
+				"location": "Toronto, Ontario",
+				"description": "2017 Minecraft Mentor| MIE Trainer | MinecraftEdu Consultant #GBL #Education & Game Design | #Startup Founder @MineGageEdu | Co-Founder #MineCraftEDU Chat",
+				"url": "https://t.co/bvhr4VBE8T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bvhr4VBE8T",
+								"expanded_url": "http://www.minegage.com",
+								"display_url": "minegage.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24334,
+				"friends_count": 2385,
+				"listed_count": 366,
+				"created_at": "Thu Feb 27 21:56:17 +0000 2014",
+				"favourites_count": 30623,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41493,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860227430203699207/w9F2RuoW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860227430203699207/w9F2RuoW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2364688028/1394583754",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 16 06:43:02 +0000 2017",
 		"id": 864370591322615800,
 		"id_str": "864370591322615808",
