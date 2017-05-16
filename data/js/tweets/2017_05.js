@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 16 23:00:40 +0000 2017",
+		"id": 864616621045936100,
+		"id_str": "864616621045936129",
+		"text": "Showtime! We're thrilled to have you at #MSFTEduChat. What brings YOU to this TweetMeet about #CodeBuilder for… https://t.co/ck5ULbX732",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"text": "CodeBuilder",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ck5ULbX732",
+					"expanded_url": "https://twitter.com/i/web/status/864616621045936129",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11492,
+			"friends_count": 4214,
+			"listed_count": 491,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16366,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 16 22:49:14 +0000 2017",
+		"id": 864613741173846000,
+		"id_str": "864613741173846016",
+		"text": "RT @MicrosoftEDU: What is your experience with Minecraft for learning? #MSFTEduChat #MinecraftEdu #MicrosoftEDU #MIEExpert",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"text": "MinecraftEdu",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11492,
+			"friends_count": 4214,
+			"listed_count": 491,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16366,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 15 13:50:35 +0000 2017",
+			"id": 864115798297661400,
+			"id_str": "864115798297661440",
+			"text": "What is your experience with Minecraft for learning? #MSFTEduChat #MinecraftEdu #MicrosoftEDU #MIEExpert",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							53,
+							65
+						]
+					},
+					{
+						"text": "MinecraftEdu",
+						"indices": [
+							66,
+							79
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							80,
+							93
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							94,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17826187,
+				"id_str": "17826187",
+				"name": "Microsoft Education",
+				"screen_name": "MicrosoftEDU",
+				"location": "Redmond, WA",
+				"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+				"url": "http://t.co/7FJ4W59tTX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7FJ4W59tTX",
+								"expanded_url": "http://www.microsoft.com/education",
+								"display_url": "microsoft.com/education",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 229272,
+				"friends_count": 3889,
+				"listed_count": 2986,
+				"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+				"favourites_count": 7851,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16958,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00BCF2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461932094302605312/4PbCjFqM.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461932094302605312/4PbCjFqM.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859436520054370309/mdbWzhp7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859436520054370309/mdbWzhp7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1494280528",
+				"profile_link_color": "0078D7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 16 22:49:03 +0000 2017",
+		"id": 864613697842544600,
+		"id_str": "864613697842544640",
+		"text": "Look at these energetic, fearless #MSFTEduChat hosts: they've got #MinecraftEdu and #CodeBuilder written all over t… https://t.co/lWsOwUi4Z4",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"text": "MinecraftEdu",
+					"indices": [
+						66,
+						79
+					]
+				},
+				{
+					"text": "CodeBuilder",
+					"indices": [
+						84,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lWsOwUi4Z4",
+					"expanded_url": "https://twitter.com/i/web/status/864613697842544640",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11492,
+			"friends_count": 4214,
+			"listed_count": 491,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16366,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16085,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 16 22:19:10 +0000 2017",
 		"id": 864606176604028900,
 		"id_str": "864606176604028928",
