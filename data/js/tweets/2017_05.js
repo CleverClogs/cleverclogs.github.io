@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 19 15:16:43 +0000 2017",
+		"id": 865587026413977600,
+		"id_str": "865587026413977604",
+		"text": "@thenitai Are you talking about import from Evernote, Nital?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thenitai",
+					"name": "Nitai",
+					"id": 19368293,
+					"id_str": "19368293",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 865585409350402000,
+		"in_reply_to_status_id_str": "865585409350402049",
+		"in_reply_to_user_id": 19368293,
+		"in_reply_to_user_id_str": "19368293",
+		"in_reply_to_screen_name": "thenitai",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11561,
+			"friends_count": 4241,
+			"listed_count": 494,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16548,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16162,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 19 14:25:11 +0000 2017",
+		"id": 865574055499444200,
+		"id_str": "865574055499444224",
+		"text": "Dutch #MIEExpert @WingKanLai promoting #OneNote at @microsoftnl HQ #kdo365. See also\nhttps://t.co/JLhnk71fdt\nby… https://t.co/7vRzPSNu6o",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "kdo365",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wingkanlai",
+					"name": "Wing Kan Lai",
+					"id": 2374244311,
+					"id_str": "2374244311",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "microsoftnl",
+					"name": "Microsoft Nederland",
+					"id": 19016519,
+					"id_str": "19016519",
+					"indices": [
+						51,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JLhnk71fdt",
+					"expanded_url": "https://blogisch.nl/2017/05/19/onenote-class-notebook-op-kdo365/",
+					"display_url": "blogisch.nl/2017/05/19/one…",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/7vRzPSNu6o",
+					"expanded_url": "https://twitter.com/i/web/status/865574055499444224",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11561,
+			"friends_count": 4241,
+			"listed_count": 494,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16548,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16162,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 865502100746149900,
+		"quoted_status_id_str": "865502100746149888",
+		"quoted_status": {
+			"created_at": "Fri May 19 09:39:15 +0000 2017",
+			"id": 865502100746149900,
+			"id_str": "865502100746149888",
+			"text": "Tijdens de kennisdelingsbijeenkomst #kdo365 ook een handson sessie #OneNote , verzorgd door @wingkanlai https://t.co/CmmBGplgzA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "kdo365",
+						"indices": [
+							36,
+							43
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							67,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wingkanlai",
+						"name": "Wing Kan Lai",
+						"id": 2374244311,
+						"id_str": "2374244311",
+						"indices": [
+							92,
+							103
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 865502077824385000,
+						"id_str": "865502077824385025",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DALhjd0VwAEYAWz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DALhjd0VwAEYAWz.jpg",
+						"url": "https://t.co/CmmBGplgzA",
+						"display_url": "pic.twitter.com/CmmBGplgzA",
+						"expanded_url": "https://twitter.com/trendmatcher/status/865502100746149888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 865502077824385000,
+						"id_str": "865502077824385025",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/DALhjd0VwAEYAWz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DALhjd0VwAEYAWz.jpg",
+						"url": "https://t.co/CmmBGplgzA",
+						"display_url": "pic.twitter.com/CmmBGplgzA",
+						"expanded_url": "https://twitter.com/trendmatcher/status/865502100746149888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10781,
+				"id_str": "10781",
+				"name": "Willem Karssenberg‽",
+				"screen_name": "trendmatcher",
+				"location": "Emmen NL",
+				"description": "Trendmatcher tussen ICT en Onderwijs ™. MBO saMBO-ICT | EDUblogger | Google Certified Innovator | Microsoft Innovation Expert",
+				"url": "http://t.co/P4Q6xu989H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/P4Q6xu989H",
+								"expanded_url": "http://www.trendmatcher.nl",
+								"display_url": "trendmatcher.nl",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8213,
+				"friends_count": 3575,
+				"listed_count": 423,
+				"created_at": "Fri Oct 27 12:10:08 +0000 2006",
+				"favourites_count": 2290,
+				"utc_offset": 7200,
+				"time_zone": "Europe/Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 56718,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "16499A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/879321997/635ee3282ba3181015a5eb3aaf844a99.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/879321997/635ee3282ba3181015a5eb3aaf844a99.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823651326370451460/CzBnObFn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823651326370451460/CzBnObFn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10781/1415136444",
+				"profile_link_color": "084FDD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 19 14:07:54 +0000 2017",
 		"id": 865569707168059400,
 		"id_str": "865569707168059392",
