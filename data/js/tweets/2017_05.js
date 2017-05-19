@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 19 21:16:28 +0000 2017",
+		"id": 865677558418985000,
+		"id_str": "865677558418984960",
+		"text": "RT @Nykke_IT: Collaborating and recording  #visiblelearning with #OneNote #MIEExpert #digitaltechnologies https://t.co/uHWZDC5gzj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "visiblelearning",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "digitaltechnologies",
+					"indices": [
+						85,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nykke_IT",
+					"name": "Tim Nykke",
+					"id": 595240405,
+					"id_str": "595240405",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 865673470230773800,
+					"id_str": "865673470230773760",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/865673470230773760/pu/img/Bsh2f-Yk4cXh7jIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/865673470230773760/pu/img/Bsh2f-Yk4cXh7jIs.jpg",
+					"url": "https://t.co/uHWZDC5gzj",
+					"display_url": "pic.twitter.com/uHWZDC5gzj",
+					"expanded_url": "https://twitter.com/Nykke_IT/status/865673855011913732/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865673855011913700,
+					"source_status_id_str": "865673855011913732",
+					"source_user_id": 595240405,
+					"source_user_id_str": "595240405"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 865673470230773800,
+					"id_str": "865673470230773760",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/865673470230773760/pu/img/Bsh2f-Yk4cXh7jIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/865673470230773760/pu/img/Bsh2f-Yk4cXh7jIs.jpg",
+					"url": "https://t.co/uHWZDC5gzj",
+					"display_url": "pic.twitter.com/uHWZDC5gzj",
+					"expanded_url": "https://twitter.com/Nykke_IT/status/865673855011913732/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 865673855011913700,
+					"source_status_id_str": "865673855011913732",
+					"source_user_id": 595240405,
+					"source_user_id_str": "595240405",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 7065,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/865673470230773760/pu/pl/FlKQPREQ7r1U_rJN.m3u8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/865673470230773760/pu/vid/1280x720/3x3so8MhpG7s0X6N.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/865673470230773760/pu/vid/640x360/2KSv-u9ORcXtZgLr.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/865673470230773760/pu/vid/320x180/HrMlHdxyxRXF1TrJ.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 595240405,
+							"id_str": "595240405",
+							"name": "Tim Nykke",
+							"screen_name": "Nykke_IT",
+							"location": "Adelaide",
+							"description": "IT Teacher & eLearning Coordinator @ 8-12 school | MIE Trainer | 1:1, BYOD | Pedagogy | OneNote | STEM | Robotics | MIE Expert",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 121,
+							"friends_count": 124,
+							"listed_count": 37,
+							"created_at": "Thu May 31 06:37:43 +0000 2012",
+							"favourites_count": 111,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 547,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/766427449437528064/xfEmNp8y_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/766427449437528064/xfEmNp8y_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/595240405/1426027923",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11565,
+			"friends_count": 4243,
+			"listed_count": 499,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16563,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16172,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 19 21:01:45 +0000 2017",
+			"id": 865673855011913700,
+			"id_str": "865673855011913732",
+			"text": "Collaborating and recording  #visiblelearning with #OneNote #MIEExpert #digitaltechnologies https://t.co/uHWZDC5gzj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "visiblelearning",
+						"indices": [
+							29,
+							45
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							51,
+							59
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							60,
+							70
+						]
+					},
+					{
+						"text": "digitaltechnologies",
+						"indices": [
+							71,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 865673470230773800,
+						"id_str": "865673470230773760",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/865673470230773760/pu/img/Bsh2f-Yk4cXh7jIs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/865673470230773760/pu/img/Bsh2f-Yk4cXh7jIs.jpg",
+						"url": "https://t.co/uHWZDC5gzj",
+						"display_url": "pic.twitter.com/uHWZDC5gzj",
+						"expanded_url": "https://twitter.com/Nykke_IT/status/865673855011913732/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 865673470230773800,
+						"id_str": "865673470230773760",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/865673470230773760/pu/img/Bsh2f-Yk4cXh7jIs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/865673470230773760/pu/img/Bsh2f-Yk4cXh7jIs.jpg",
+						"url": "https://t.co/uHWZDC5gzj",
+						"display_url": "pic.twitter.com/uHWZDC5gzj",
+						"expanded_url": "https://twitter.com/Nykke_IT/status/865673855011913732/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 7065,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/865673470230773760/pu/pl/FlKQPREQ7r1U_rJN.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/865673470230773760/pu/vid/1280x720/3x3so8MhpG7s0X6N.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/865673470230773760/pu/vid/640x360/2KSv-u9ORcXtZgLr.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/865673470230773760/pu/vid/320x180/HrMlHdxyxRXF1TrJ.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595240405,
+				"id_str": "595240405",
+				"name": "Tim Nykke",
+				"screen_name": "Nykke_IT",
+				"location": "Adelaide",
+				"description": "IT Teacher & eLearning Coordinator @ 8-12 school | MIE Trainer | 1:1, BYOD | Pedagogy | OneNote | STEM | Robotics | MIE Expert",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121,
+				"friends_count": 124,
+				"listed_count": 37,
+				"created_at": "Thu May 31 06:37:43 +0000 2012",
+				"favourites_count": 111,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 547,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/766427449437528064/xfEmNp8y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766427449437528064/xfEmNp8y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595240405/1426027923",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 19 19:53:39 +0000 2017",
 		"id": 865656720449777700,
 		"id_str": "865656720449777664",
