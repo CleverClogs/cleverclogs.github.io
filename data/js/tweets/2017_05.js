@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 20 19:03:34 +0000 2017",
+		"id": 866006503442059300,
+		"id_str": "866006503442059265",
+		"text": "RT @IanMikutel: This is why I invented Ink Effects for OneNote—to see awesome happy fans say things like this. 😎🔥 https://t.co/lTbS2coA8f",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanMikutel",
+					"name": "Ian Mikutel",
+					"id": 2157421,
+					"id_str": "2157421",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lTbS2coA8f",
+					"expanded_url": "https://twitter.com/mattatxbox/status/865627800388067328",
+					"display_url": "twitter.com/mattatxbox/sta…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11578,
+			"friends_count": 4251,
+			"listed_count": 494,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16590,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758744402277732352/m_WyaiYK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1470234076",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 20 17:48:28 +0000 2017",
+			"id": 865987603056676900,
+			"id_str": "865987603056676864",
+			"text": "This is why I invented Ink Effects for OneNote—to see awesome happy fans say things like this. 😎🔥 https://t.co/lTbS2coA8f",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lTbS2coA8f",
+						"expanded_url": "https://twitter.com/mattatxbox/status/865627800388067328",
+						"display_url": "twitter.com/mattatxbox/sta…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2157421,
+				"id_str": "2157421",
+				"name": "Ian Mikutel",
+				"screen_name": "IanMikutel",
+				"location": "Redmond, WA",
+				"description": "Sr Product Lead, Ink @MSOneNote, Whiteboard. Investor in @ReadMeIO (YC W15), @SeeLaforge & @AmpleMeal. Lover of food, health, podcasts & life.",
+				"url": "https://t.co/sqUvpCtx8b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sqUvpCtx8b",
+								"expanded_url": "http://about.me/ianmk",
+								"display_url": "about.me/ianmk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1957,
+				"friends_count": 877,
+				"listed_count": 133,
+				"created_at": "Sun Mar 25 05:25:59 +0000 2007",
+				"favourites_count": 9252,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9893,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433828041412730880/eUKR4sqG.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433828041412730880/eUKR4sqG.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2157421/1404893964",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01a20da949498784",
+				"url": "https://api.twitter.com/1.1/geo/id/01a20da949498784.json",
+				"place_type": "admin",
+				"name": "Shanghai",
+				"full_name": "Shanghai, People's Republic of China",
+				"country_code": "CN",
+				"country": "People's Republic of China",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								120.858322,
+								30.69094
+							],
+							[
+								121.9733,
+								30.69094
+							],
+							[
+								121.9733,
+								31.86889
+							],
+							[
+								120.858322,
+								31.86889
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 865627800388067300,
+			"quoted_status_id_str": "865627800388067328",
+			"quoted_status": {
+				"created_at": "Fri May 19 17:58:44 +0000 2017",
+				"id": 865627800388067300,
+				"id_str": "865627800388067328",
+				"text": "O_O  OneNote has a rainbow sparkle ink.  ALL OF MY MEETING NOTES FROM THIS POINT FORWARD WILL BE RAINBOW SPARKLY... https://t.co/Y9gkrtIDme",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 865627735401431000,
+							"id_str": "865627735401431040",
+							"indices": [
+								116,
+								139
+							],
+							"media_url": "http://pbs.twimg.com/media/DANT1sxUAAAV-VD.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DANT1sxUAAAV-VD.jpg",
+							"url": "https://t.co/Y9gkrtIDme",
+							"display_url": "pic.twitter.com/Y9gkrtIDme",
+							"expanded_url": "https://twitter.com/mattatxbox/status/865627800388067328/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 407,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 230,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1986,
+									"h": 673,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 865627735401431000,
+							"id_str": "865627735401431040",
+							"indices": [
+								116,
+								139
+							],
+							"media_url": "http://pbs.twimg.com/media/DANT1sxUAAAV-VD.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DANT1sxUAAAV-VD.jpg",
+							"url": "https://t.co/Y9gkrtIDme",
+							"display_url": "pic.twitter.com/Y9gkrtIDme",
+							"expanded_url": "https://twitter.com/mattatxbox/status/865627800388067328/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 407,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 230,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1986,
+									"h": 673,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2342607517,
+					"id_str": "2342607517",
+					"name": "Matt Wilson",
+					"screen_name": "mattatxbox",
+					"location": "Redmond WA",
+					"description": "I'm a human.  I swear.  Definitely not a robot.  Friendly neighborhood HTCPCP guru.",
+					"url": "http://t.co/4kwJQJ06Qf",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/4kwJQJ06Qf",
+									"expanded_url": "http://about.me/mattjwilson",
+									"display_url": "about.me/mattjwilson",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 215,
+					"friends_count": 334,
+					"listed_count": 3,
+					"created_at": "Thu Feb 13 21:28:07 +0000 2014",
+					"favourites_count": 274,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1058,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/434457986459660288/iM_0ZWsA_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/434457986459660288/iM_0ZWsA_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2342607517/1397763486",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 17,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 865627800388067300,
+		"quoted_status_id_str": "865627800388067328",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 20 17:44:02 +0000 2017",
 		"id": 865986486788915200,
 		"id_str": "865986486788915200",
