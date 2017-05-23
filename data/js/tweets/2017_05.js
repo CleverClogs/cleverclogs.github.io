@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 23 18:44:58 +0000 2017",
+		"id": 867088985805508600,
+		"id_str": "867088985805508608",
+		"text": "Inspiring, multi-level #Sway about successfully using Microsoft in the classroom\nhttps://t.co/4rFEDzgdGX\nby @PiiaMartikainen\n#OneNote",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sway",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PiiaMartikainen",
+					"name": "Piia Martikainen",
+					"id": 1192860216,
+					"id_str": "1192860216",
+					"indices": [
+						108,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4rFEDzgdGX",
+					"expanded_url": "https://sway.com/GGDzw46rm8BfuFIH",
+					"display_url": "sway.com/GGDzw46rm8BfuF…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11616,
+			"friends_count": 4255,
+			"listed_count": 495,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16637,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16226,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 23 18:22:53 +0000 2017",
+		"id": 867083427312529400,
+		"id_str": "867083427312529414",
+		"text": "@evelienmoes @schoolvoorAD @ADDenHaag @msonenote @JelleMarchand @wingkanlai Leuk artikel, zeg. Dit dwingt respect a… https://t.co/nKLpEjA5VK",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "evelienmoes",
+					"name": "Evelijns🍀",
+					"id": 213774133,
+					"id_str": "213774133",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "schoolvoorAD",
+					"name": "SchoolvoorAD",
+					"id": 4058449276,
+					"id_str": "4058449276",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "ADDenHaag",
+					"name": "AD Den Haag",
+					"id": 494094311,
+					"id_str": "494094311",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "JelleMarchand",
+					"name": "Jelle Marchand",
+					"id": 36378618,
+					"id_str": "36378618",
+					"indices": [
+						49,
+						63
+					]
+				},
+				{
+					"screen_name": "wingkanlai",
+					"name": "Wing Kan Lai",
+					"id": 2374244311,
+					"id_str": "2374244311",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nKLpEjA5VK",
+					"expanded_url": "https://twitter.com/i/web/status/867083427312529414",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 867080465714487300,
+		"in_reply_to_status_id_str": "867080465714487297",
+		"in_reply_to_user_id": 213774133,
+		"in_reply_to_user_id_str": "213774133",
+		"in_reply_to_screen_name": "evelienmoes",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11616,
+			"friends_count": 4255,
+			"listed_count": 495,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16637,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16226,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Tue May 23 18:04:25 +0000 2017",
 		"id": 867078780371841000,
 		"id_str": "867078780371841025",
