@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 23 09:12:16 +0000 2017",
+		"id": 866944861039185900,
+		"id_str": "866944861039185921",
+		"text": "RT @panos_panay: I love our fans. Here's to you. #Surface https://t.co/fgTMSUQ1qX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Surface",
+					"indices": [
+						49,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "panos_panay",
+					"name": "Panos Panay",
+					"id": 20416077,
+					"id_str": "20416077",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 866858393570615300,
+					"id_str": "866858393570615296",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/866858393570615296/pu/img/0Rfkxu2dUNbwbmJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/866858393570615296/pu/img/0Rfkxu2dUNbwbmJr.jpg",
+					"url": "https://t.co/fgTMSUQ1qX",
+					"display_url": "pic.twitter.com/fgTMSUQ1qX",
+					"expanded_url": "https://twitter.com/panos_panay/status/866860011099750400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866860011099750400,
+					"source_status_id_str": "866860011099750400",
+					"source_user_id": 20416077,
+					"source_user_id_str": "20416077"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 866858393570615300,
+					"id_str": "866858393570615296",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/866858393570615296/pu/img/0Rfkxu2dUNbwbmJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/866858393570615296/pu/img/0Rfkxu2dUNbwbmJr.jpg",
+					"url": "https://t.co/fgTMSUQ1qX",
+					"display_url": "pic.twitter.com/fgTMSUQ1qX",
+					"expanded_url": "https://twitter.com/panos_panay/status/866860011099750400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 866860011099750400,
+					"source_status_id_str": "866860011099750400",
+					"source_user_id": 20416077,
+					"source_user_id_str": "20416077",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 51084,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/866858393570615296/pu/vid/320x180/TiIx_tdeakezzclt.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/866858393570615296/pu/vid/640x360/y9rREGpDqcsQfOLt.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/866858393570615296/pu/pl/Yqqj9S4s4E9kVpJL.m3u8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/866858393570615296/pu/vid/1280x720/tonU6LUXYQRBg_f6.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 20416077,
+							"id_str": "20416077",
+							"name": "Panos Panay",
+							"screen_name": "panos_panay",
+							"location": "Redmond, WA",
+							"description": "Corporate VP of Devices @Microsoft\nwith a passion for innovation. @Surface creator. Husband and father of 4.",
+							"url": "https://t.co/RJP3LwQmNp",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/RJP3LwQmNp",
+											"expanded_url": "http://blogs.windows.com/devices/",
+											"display_url": "blogs.windows.com/devices/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 38497,
+							"friends_count": 203,
+							"listed_count": 587,
+							"created_at": "Mon Feb 09 04:34:41 +0000 2009",
+							"favourites_count": 582,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 629,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/711129415/44feaa9e0f98e0063cb393d754b620be.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/711129415/44feaa9e0f98e0063cb393d754b620be.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/588842567707414528/57TbXQqR_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/588842567707414528/57TbXQqR_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/20416077/1463784150",
+							"profile_link_color": "666666",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "252429",
+							"profile_text_color": "0084B4",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11607,
+			"friends_count": 4254,
+			"listed_count": 495,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 16617,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16205,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 23 03:35:06 +0000 2017",
+			"id": 866860011099750400,
+			"id_str": "866860011099750400",
+			"text": "I love our fans. Here's to you. #Surface https://t.co/fgTMSUQ1qX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Surface",
+						"indices": [
+							32,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 866858393570615300,
+						"id_str": "866858393570615296",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/866858393570615296/pu/img/0Rfkxu2dUNbwbmJr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/866858393570615296/pu/img/0Rfkxu2dUNbwbmJr.jpg",
+						"url": "https://t.co/fgTMSUQ1qX",
+						"display_url": "pic.twitter.com/fgTMSUQ1qX",
+						"expanded_url": "https://twitter.com/panos_panay/status/866860011099750400/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 866858393570615300,
+						"id_str": "866858393570615296",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/866858393570615296/pu/img/0Rfkxu2dUNbwbmJr.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/866858393570615296/pu/img/0Rfkxu2dUNbwbmJr.jpg",
+						"url": "https://t.co/fgTMSUQ1qX",
+						"display_url": "pic.twitter.com/fgTMSUQ1qX",
+						"expanded_url": "https://twitter.com/panos_panay/status/866860011099750400/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 51084,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/866858393570615296/pu/vid/320x180/TiIx_tdeakezzclt.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/866858393570615296/pu/vid/640x360/y9rREGpDqcsQfOLt.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/866858393570615296/pu/pl/Yqqj9S4s4E9kVpJL.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/866858393570615296/pu/vid/1280x720/tonU6LUXYQRBg_f6.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20416077,
+				"id_str": "20416077",
+				"name": "Panos Panay",
+				"screen_name": "panos_panay",
+				"location": "Redmond, WA",
+				"description": "Corporate VP of Devices @Microsoft\nwith a passion for innovation. @Surface creator. Husband and father of 4.",
+				"url": "https://t.co/RJP3LwQmNp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RJP3LwQmNp",
+								"expanded_url": "http://blogs.windows.com/devices/",
+								"display_url": "blogs.windows.com/devices/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38497,
+				"friends_count": 203,
+				"listed_count": 587,
+				"created_at": "Mon Feb 09 04:34:41 +0000 2009",
+				"favourites_count": 582,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 629,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/711129415/44feaa9e0f98e0063cb393d754b620be.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/711129415/44feaa9e0f98e0063cb393d754b620be.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/588842567707414528/57TbXQqR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/588842567707414528/57TbXQqR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20416077/1463784150",
+				"profile_link_color": "666666",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "0084B4",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 205,
+			"favorite_count": 490,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 22 21:17:48 +0000 2017",
 		"id": 866765057228668900,
 		"id_str": "866765057228668930",
