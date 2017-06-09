@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 09 16:39:07 +0000 2017",
+		"id": 873217909438414800,
+		"id_str": "873217909438414848",
+		"text": "RT @zuzanamol: Conference #ELTforum #Slovakia and #OneNoteAvenger is here! 💜💜 #MIEExpert #microsoftedu @OneNoteC @MicrosoftSK @MicrosoftEDU…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELTforum",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "Slovakia",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"text": "OneNoteAvenger",
+					"indices": [
+						50,
+						65
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "microsoftedu",
+					"indices": [
+						89,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zuzanamol",
+					"name": "Zuzana Molčanová",
+					"id": 439486473,
+					"id_str": "439486473",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"screen_name": "MicrosoftSK",
+					"name": "Microsoft Slovakia",
+					"id": 96565646,
+					"id_str": "96565646",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						126,
+						139
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11875,
+			"friends_count": 4299,
+			"listed_count": 498,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17014,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 09 14:22:44 +0000 2017",
+			"id": 873183586635182100,
+			"id_str": "873183586635182080",
+			"text": "Conference #ELTforum #Slovakia and #OneNoteAvenger is here! 💜💜 #MIEExpert #microsoftedu @OneNoteC @MicrosoftSK… https://t.co/zuuCF39bJR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ELTforum",
+						"indices": [
+							11,
+							20
+						]
+					},
+					{
+						"text": "Slovakia",
+						"indices": [
+							21,
+							30
+						]
+					},
+					{
+						"text": "OneNoteAvenger",
+						"indices": [
+							35,
+							50
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							63,
+							73
+						]
+					},
+					{
+						"text": "microsoftedu",
+						"indices": [
+							74,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							88,
+							97
+						]
+					},
+					{
+						"screen_name": "MicrosoftSK",
+						"name": "Microsoft Slovakia",
+						"id": 96565646,
+						"id_str": "96565646",
+						"indices": [
+							98,
+							110
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zuuCF39bJR",
+						"expanded_url": "https://twitter.com/i/web/status/873183586635182080",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 439486473,
+				"id_str": "439486473",
+				"name": "Zuzana Molčanová",
+				"screen_name": "zuzanamol",
+				"location": "Bratislava",
+				"description": "#Microsoft former teacher trying to make education more attractive :) freelance photographer in love with music #MIEExpert15",
+				"url": "https://t.co/NBrWQQjdJD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NBrWQQjdJD",
+								"expanded_url": "http://www.fotozuzana.com",
+								"display_url": "fotozuzana.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 130,
+				"friends_count": 162,
+				"listed_count": 20,
+				"created_at": "Sat Dec 17 21:02:39 +0000 2011",
+				"favourites_count": 212,
+				"utc_offset": 7200,
+				"time_zone": "Bratislava",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 615,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/442753076680613888/pO27ytHb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/442753076680613888/pO27ytHb.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000120777574/711e5e0025f3cc8aef7bf7dc1b491fb2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000120777574/711e5e0025f3cc8aef7bf7dc1b491fb2_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/439486473/1394395379",
+				"profile_link_color": "642D8B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 09 11:55:02 +0000 2017",
 		"id": 873146416767672300,
 		"id_str": "873146416767672320",
