@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 11 14:03:51 +0000 2017",
+		"id": 873903610643574800,
+		"id_str": "873903610643574784",
+		"text": "RT @Mel_Cahill: Edge is awesome for educators, students can annotate any webpage and send notes directly to #OneNote #thinkwithink #MSAUedu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "thinkwithink",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "MSAUedu",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mel_Cahill",
+					"name": "Mel Cahill",
+					"id": 402521912,
+					"id_str": "402521912",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11897,
+			"friends_count": 4303,
+			"listed_count": 499,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17021,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16556,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Sun Jun 11 06:20:13 +0000 2017",
+			"id": 873786932228116500,
+			"id_str": "873786932228116480",
+			"text": "Edge is awesome for educators, students can annotate any webpage and send notes directly to #OneNote #thinkwithink… https://t.co/p3emXoyNCH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							92,
+							100
+						]
+					},
+					{
+						"text": "thinkwithink",
+						"indices": [
+							101,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/p3emXoyNCH",
+						"expanded_url": "https://twitter.com/i/web/status/873786932228116480",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 402521912,
+				"id_str": "402521912",
+				"name": "Mel Cahill",
+				"screen_name": "Mel_Cahill",
+				"location": "Australia",
+				"description": "Education Consultant, Microsoft Innovative Educator Expert, Microsoft Innovative Educator Master Trainer, always looking for ways to make the classroom fun.",
+				"url": "https://t.co/h5vzmMJTWt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h5vzmMJTWt",
+								"expanded_url": "http://standouteducation.com.au/",
+								"display_url": "standouteducation.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 642,
+				"friends_count": 1062,
+				"listed_count": 43,
+				"created_at": "Tue Nov 01 06:14:44 +0000 2011",
+				"favourites_count": 847,
+				"utc_offset": 28800,
+				"time_zone": "Perth",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 994,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1616788569/untitled_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1616788569/untitled_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/402521912/1479173225",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 871758604910698500,
+			"quoted_status_id_str": "871758604910698496",
+			"quoted_status": {
+				"created_at": "Mon Jun 05 16:00:22 +0000 2017",
+				"id": 871758604910698500,
+				"id_str": "871758604910698496",
+				"text": "Ink. Share. Planning your perfect garden is easier and more fun when you can illustrate your vision. https://t.co/pEXu5AtNPg",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 871758521930584000,
+							"id_str": "871758521930584064",
+							"indices": [
+								101,
+								124
+							],
+							"media_url": "http://pbs.twimg.com/media/DBkdMGCUQAAO9eg.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DBkdMGCUQAAO9eg.jpg",
+							"url": "https://t.co/pEXu5AtNPg",
+							"display_url": "pic.twitter.com/pEXu5AtNPg",
+							"expanded_url": "https://twitter.com/MicrosoftEdge/status/871758604910698496/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 382,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1920,
+									"h": 1079,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 674,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 871758521930584000,
+							"id_str": "871758521930584064",
+							"indices": [
+								101,
+								124
+							],
+							"media_url": "http://pbs.twimg.com/media/DBkdMGCUQAAO9eg.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DBkdMGCUQAAO9eg.jpg",
+							"url": "https://t.co/pEXu5AtNPg",
+							"display_url": "pic.twitter.com/pEXu5AtNPg",
+							"expanded_url": "https://twitter.com/MicrosoftEdge/status/871758604910698496/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 382,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1920,
+									"h": 1079,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 674,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 27542,
+								"variants": [
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/871758521930584064/vid/640x360/yRDSMPViCbE2S9ru.mp4"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/871758521930584064/vid/320x180/aUQpN3hX_cd1oFbz.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/871758521930584064/pl/w4phs7aGCD4jdsz8.m3u8"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/871758521930584064/vid/1280x720/-pxLZd7dc6pDoIDT.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 19315174,
+					"id_str": "19315174",
+					"name": "Microsoft Edge",
+					"screen_name": "MicrosoftEdge",
+					"location": "Redmond, WA",
+					"description": "The official Twitter handle for Microsoft Edge, the new browser from Microsoft.",
+					"url": "https://t.co/yB34FzF4Nh",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/yB34FzF4Nh",
+									"expanded_url": "https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge#x2QP2K1csjiH2CwS.97",
+									"display_url": "microsoft.com/en-us/windows/…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 790273,
+					"friends_count": 127,
+					"listed_count": 5894,
+					"created_at": "Wed Jan 21 23:42:14 +0000 2009",
+					"favourites_count": 95,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 4075,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "3B94D9",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000157221152/Pto1E_cS.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000157221152/Pto1E_cS.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/626182170575421441/rEo9xeQt_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/626182170575421441/rEo9xeQt_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/19315174/1494286774",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "96C6ED",
+					"profile_text_color": "453C3C",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 17,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 871758604910698500,
+		"quoted_status_id_str": "871758604910698496",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 11 11:40:42 +0000 2017",
 		"id": 873867583052820500,
 		"id_str": "873867583052820480",
