@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 14 11:07:59 +0000 2017",
+		"id": 874946516636627000,
+		"id_str": "874946516636626945",
+		"text": "RT @selvinrivas76: Having amazing experiences at #VirtualEduca Bogotá 2017. \n#MIEExpert #MIEExpertLatam #MSFTEDU #GlobalGoals #EdTech #OEA…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VirtualEduca",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "MIEExpertLatam",
+					"indices": [
+						88,
+						103
+					]
+				},
+				{
+					"text": "MSFTEDU",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "GlobalGoals",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "EdTech",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "OEA",
+					"indices": [
+						134,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "selvinrivas76",
+					"name": "Selvin Rivas",
+					"id": 2496101189,
+					"id_str": "2496101189",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11944,
+			"friends_count": 4305,
+			"listed_count": 502,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17101,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16599,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 14 11:06:20 +0000 2017",
+			"id": 874946098384785400,
+			"id_str": "874946098384785409",
+			"text": "Having amazing experiences at #VirtualEduca Bogotá 2017. \n#MIEExpert #MIEExpertLatam #MSFTEDU #GlobalGoals #EdTech… https://t.co/gkwN9gzGhN",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VirtualEduca",
+						"indices": [
+							30,
+							43
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							58,
+							68
+						]
+					},
+					{
+						"text": "MIEExpertLatam",
+						"indices": [
+							69,
+							84
+						]
+					},
+					{
+						"text": "MSFTEDU",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"text": "GlobalGoals",
+						"indices": [
+							94,
+							106
+						]
+					},
+					{
+						"text": "EdTech",
+						"indices": [
+							107,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gkwN9gzGhN",
+						"expanded_url": "https://twitter.com/i/web/status/874946098384785409",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2496101189,
+				"id_str": "2496101189",
+				"name": "Selvin Rivas",
+				"screen_name": "selvinrivas76",
+				"location": "San Salvador, El Salvador.",
+				"description": "English and French Educator, Edtech Evangelist, MIEExpert, MIE Certified, MIE Contributor, MIE Influencer, MIE Trainer, MIE Fellow. Entrepreneur. Dreamer.",
+				"url": "https://t.co/P3btcr04De",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P3btcr04De",
+								"expanded_url": "https://sv.linkedin.com/in/selvin-rivas-620342b9",
+								"display_url": "sv.linkedin.com/in/selvin-riva…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 326,
+				"friends_count": 447,
+				"listed_count": 148,
+				"created_at": "Sun Apr 20 01:46:59 +0000 2014",
+				"favourites_count": 10253,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5257,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874848898874998787/HUr2Pcdn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874848898874998787/HUr2Pcdn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2496101189/1492120538",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0161be1b3f98d6c3",
+				"url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+				"place_type": "city",
+				"name": "Bogotá, D.C.",
+				"full_name": "Bogotá, D.C., Colombia",
+				"country_code": "CO",
+				"country": "Colombia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.483288999243,
+								3.71743200175304
+							],
+							[
+								-74.0040529979154,
+								3.71743200175304
+							],
+							[
+								-74.0040529979154,
+								4.80713500387127
+							],
+							[
+								-74.483288999243,
+								4.80713500387127
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "cs"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "cs"
+	},
+	{
+		"created_at": "Wed Jun 14 10:22:30 +0000 2017",
+		"id": 874935070540390400,
+		"id_str": "874935070540390401",
+		"text": "RT @brainywizards: Make the most of your time while you wait for 6/20. Take the #TweetMeet course. https://t.co/5aC6yUTSDQ #MIEExpert @Micr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TweetMeet",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brainywizards",
+					"name": "Jason Davis",
+					"id": 1450574599,
+					"id_str": "1450574599",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5aC6yUTSDQ",
+					"expanded_url": "http://bit.ly/2sXPzRf",
+					"display_url": "bit.ly/2sXPzRf",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11944,
+			"friends_count": 4305,
+			"listed_count": 502,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17101,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16599,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Jun 13 18:06:01 +0000 2017",
+			"id": 874689327598587900,
+			"id_str": "874689327598587908",
+			"text": "Make the most of your time while you wait for 6/20. Take the #TweetMeet course. https://t.co/5aC6yUTSDQ #MIEExpert @MicrosoftEDU #GAMIEE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TweetMeet",
+						"indices": [
+							61,
+							71
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							104,
+							114
+						]
+					},
+					{
+						"text": "GAMIEE",
+						"indices": [
+							129,
+							136
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							115,
+							128
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5aC6yUTSDQ",
+						"expanded_url": "http://bit.ly/2sXPzRf",
+						"display_url": "bit.ly/2sXPzRf",
+						"indices": [
+							80,
+							103
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1450574599,
+				"id_str": "1450574599",
+				"name": "Jason Davis",
+				"screen_name": "brainywizards",
+				"location": "Atlanta, GA",
+				"description": "5th Grade Teacher | Campbell ES | STEM | #BrainyWizards #MIE #Teacher #EngineeringGreatness #FCSVangaurd **Engineer turned Educator",
+				"url": "https://t.co/cc9lKqGZNT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cc9lKqGZNT",
+								"expanded_url": "http://www.brainywizards.com",
+								"display_url": "brainywizards.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 397,
+				"friends_count": 991,
+				"listed_count": 50,
+				"created_at": "Thu May 23 04:41:15 +0000 2013",
+				"favourites_count": 851,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1255,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874580591378694144/73g3NE18_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874580591378694144/73g3NE18_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1450574599/1497236437",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 14 08:31:00 +0000 2017",
 		"id": 874907008461414400,
 		"id_str": "874907008461414401",
