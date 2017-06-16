@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 16 21:40:00 +0000 2017",
+		"id": 875830344129368000,
+		"id_str": "875830344129368064",
+		"text": "Speaking of excitement: watch @MegaHoch's video and you know how eager all #MSFTEduChat hosts are to talk to you ab… https://t.co/hit0A1WDby",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						75,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "megahoch",
+					"name": "Megan Hochstatter",
+					"id": 3308919511,
+					"id_str": "3308919511",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hit0A1WDby",
+					"expanded_url": "https://twitter.com/i/web/status/875830344129368064",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11987,
+			"friends_count": 4315,
+			"listed_count": 503,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17123,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 875818683859255300,
+		"quoted_status_id_str": "875818683859255297",
+		"quoted_status": {
+			"created_at": "Fri Jun 16 20:53:40 +0000 2017",
+			"id": 875818683859255300,
+			"id_str": "875818683859255297",
+			"text": "Catch me in action on June 20th for the #MSFTEduChat TweetMeet. https://t.co/WxPLr3z2IM\nhttps://t.co/MYxJP1p5Cb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							40,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WxPLr3z2IM",
+						"expanded_url": "https://youtu.be/ilEAElOa8DA",
+						"display_url": "youtu.be/ilEAElOa8DA",
+						"indices": [
+							64,
+							87
+						]
+					},
+					{
+						"url": "https://t.co/MYxJP1p5Cb",
+						"expanded_url": "https://educationblog.microsoft.com/2017/06/tweetmeet-on-hack-the-classroom-join-msfteduchat-on-june-20th/",
+						"display_url": "educationblog.microsoft.com/2017/06/tweetm…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3308919511,
+				"id_str": "3308919511",
+				"name": "Megan Hochstatter",
+				"screen_name": "megahoch",
+				"location": "Seattle, WA",
+				"description": "MegaEverything- @MicrosoftEdu, #STEM, #MIEExpert and #EdTech. MOS, MTA and MCE certified. Tweets often reflect my work, but opinions are always my own.",
+				"url": "https://t.co/NCd1RYzStN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NCd1RYzStN",
+								"expanded_url": "http://education.microsoft.com",
+								"display_url": "education.microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 603,
+				"friends_count": 1008,
+				"listed_count": 50,
+				"created_at": "Fri Aug 07 15:28:05 +0000 2015",
+				"favourites_count": 2418,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2031,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874650080107569152/zmhHhHiy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874650080107569152/zmhHhHiy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308919511/1438985437",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jun 16 21:25:06 +0000 2017",
+		"id": 875826592857161700,
+		"id_str": "875826592857161728",
+		"text": "Any question you ever wanted to ask about #Surface. Great fun interview with @Panos_Panay\nhttps://t.co/lgnW6nUukO\nb… https://t.co/yMKmzxNXeW",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Surface",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "panos_panay",
+					"name": "Panos Panay",
+					"id": 20416077,
+					"id_str": "20416077",
+					"indices": [
+						77,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lgnW6nUukO",
+					"expanded_url": "http://mashable.com/2017/06/16/panos-panay-surface-interview-mashtalk/",
+					"display_url": "mashable.com/2017/06/16/pan…",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/yMKmzxNXeW",
+					"expanded_url": "https://twitter.com/i/web/status/875826592857161728",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11987,
+			"friends_count": 4315,
+			"listed_count": 503,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17123,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 16 21:10:12 +0000 2017",
 		"id": 875822841882652700,
 		"id_str": "875822841882652672",
