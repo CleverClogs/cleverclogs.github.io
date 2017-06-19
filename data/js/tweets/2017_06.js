@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 19 11:32:52 +0000 2017",
+		"id": 876764714352685000,
+		"id_str": "876764714352685056",
+		"text": "Just in: #OneNote for #macOS now lets you open multiple windows. Use Ribbon &gt; View &gt; New Window, or Ctrl+M.\nGreat s… https://t.co/Xgr1Dphiot",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "macOS",
+					"indices": [
+						22,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xgr1Dphiot",
+					"expanded_url": "https://twitter.com/i/web/status/876764714352685056",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12004,
+			"friends_count": 4318,
+			"listed_count": 509,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17121,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16626,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 875985302220820500,
+		"quoted_status_id_str": "875985302220820480",
+		"quoted_status": {
+			"created_at": "Sat Jun 17 07:55:45 +0000 2017",
+			"id": 875985302220820500,
+			"id_str": "875985302220820480",
+			"text": "New! Open and edit multiple OneNote books on a Mac. #OneNoteEdu #MSFTEDU 😄 https://t.co/FvvbxtZWhR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNoteEdu",
+						"indices": [
+							52,
+							63
+						]
+					},
+					{
+						"text": "MSFTEDU",
+						"indices": [
+							64,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 875982075924324400,
+						"id_str": "875982075924324352",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/DCgdDpEUIAAAZ9p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCgdDpEUIAAAZ9p.jpg",
+						"url": "https://t.co/FvvbxtZWhR",
+						"display_url": "pic.twitter.com/FvvbxtZWhR",
+						"expanded_url": "https://twitter.com/standouted/status/875985302220820480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 522,
+								"h": 145,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 522,
+								"h": 145,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 145,
+								"h": 145,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 522,
+								"h": 145,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 875982075924324400,
+						"id_str": "875982075924324352",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/DCgdDpEUIAAAZ9p.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCgdDpEUIAAAZ9p.jpg",
+						"url": "https://t.co/FvvbxtZWhR",
+						"display_url": "pic.twitter.com/FvvbxtZWhR",
+						"expanded_url": "https://twitter.com/standouted/status/875985302220820480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 522,
+								"h": 145,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 522,
+								"h": 145,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 145,
+								"h": 145,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 522,
+								"h": 145,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 875985044266811400,
+						"id_str": "875985044266811392",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/DCgfwbAUAAAZOys.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCgfwbAUAAAZOys.jpg",
+						"url": "https://t.co/FvvbxtZWhR",
+						"display_url": "pic.twitter.com/FvvbxtZWhR",
+						"expanded_url": "https://twitter.com/standouted/status/875985302220820480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 874,
+								"h": 488,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 874,
+								"h": 488,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2212322413,
+				"id_str": "2212322413",
+				"name": "Steven Payne",
+				"screen_name": "standouted",
+				"location": "Perth, Western Australia",
+				"description": "Educator. Digital Technologies Project Officer @cserAdelaide. Microsoft Learning Consultant @MSAUedu. Standout Education https://t.co/rd3TyhyyXz",
+				"url": "https://t.co/yIIxejS5i9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yIIxejS5i9",
+								"expanded_url": "http://stevenpayne.com",
+								"display_url": "stevenpayne.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rd3TyhyyXz",
+								"expanded_url": "http://standouteducation.com.au",
+								"display_url": "standouteducation.com.au",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1675,
+				"friends_count": 1270,
+				"listed_count": 133,
+				"created_at": "Sun Nov 24 11:16:47 +0000 2013",
+				"favourites_count": 6323,
+				"utc_offset": 28800,
+				"time_zone": "Perth",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3303,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439973986139512832/yIQ_9GP4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439973986139512832/yIQ_9GP4.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/862297679463829504/kWUGlwJZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/862297679463829504/kWUGlwJZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2212322413/1470904300",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jun 19 08:41:15 +0000 2017",
 		"id": 876721527596757000,
 		"id_str": "876721527596756993",
