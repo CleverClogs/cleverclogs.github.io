@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Tue Jun 20 15:15:04 +0000 2017",
+		"id": 877183020847030300,
+		"id_str": "877183020847030272",
+		"text": "This all-star team of #MSFTEduChat hosts is more than ready to rock and #HackTheClassroom with you!\n#MicrosoftEdu https://t.co/ofTZeQXAw5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"text": "HackTheClassroom",
+					"indices": [
+						72,
+						89
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						100,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 876167809826508800,
+					"id_str": "876167809826508801",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DCjF-xxXUAE9p-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCjF-xxXUAE9p-b.jpg",
+					"url": "https://t.co/ofTZeQXAw5",
+					"display_url": "pic.twitter.com/ofTZeQXAw5",
+					"expanded_url": "https://twitter.com/WhosTalking/status/876167861047361536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1527,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 895,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876167861047361500,
+					"source_status_id_str": "876167861047361536",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 876167809826508800,
+					"id_str": "876167809826508801",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/DCjF-xxXUAE9p-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCjF-xxXUAE9p-b.jpg",
+					"url": "https://t.co/ofTZeQXAw5",
+					"display_url": "pic.twitter.com/ofTZeQXAw5",
+					"expanded_url": "https://twitter.com/WhosTalking/status/876167861047361536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1527,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 895,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876167861047361500,
+					"source_status_id_str": "876167861047361536",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12029,
+			"friends_count": 4318,
+			"listed_count": 504,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17128,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 20 12:25:04 +0000 2017",
 		"id": 877140238627471400,
 		"id_str": "877140238627471360",
