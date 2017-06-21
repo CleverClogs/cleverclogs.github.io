@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Wed Jun 21 17:58:52 +0000 2017",
+		"id": 877586631850471400,
+		"id_str": "877586631850471424",
+		"text": "RT @LipEdTech: Love learning from @RichwineM ! Breakout from OneNote training has been super fun so far! #MIEExpert #MicrosoftEDU @noblecob…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						116,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LipEdTech",
+					"name": "Megan Lipinczyk",
+					"id": 2740080795,
+					"id_str": "2740080795",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "RichwineM",
+					"name": "Melinda",
+					"id": 3403549468,
+					"id_str": "3403549468",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12053,
+			"friends_count": 4327,
+			"listed_count": 504,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17179,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16696,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Wed Jun 21 17:40:36 +0000 2017",
+			"id": 877582034905976800,
+			"id_str": "877582034905976832",
+			"text": "Love learning from @RichwineM ! Breakout from OneNote training has been super fun so far! #MIEExpert #MicrosoftEDU… https://t.co/oBrE2EDOSb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							90,
+							100
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							101,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RichwineM",
+						"name": "Melinda",
+						"id": 3403549468,
+						"id_str": "3403549468",
+						"indices": [
+							19,
+							29
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oBrE2EDOSb",
+						"expanded_url": "https://twitter.com/i/web/status/877582034905976832",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2740080795,
+				"id_str": "2740080795",
+				"name": "Megan Lipinczyk",
+				"screen_name": "LipEdTech",
+				"location": "Florida, USA",
+				"description": "Hillsborough County Teacher | Microsoft Innovative Educator | MIEExpert | Skype Master Teacher | Professional Learning Specialist",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 722,
+				"friends_count": 432,
+				"listed_count": 34,
+				"created_at": "Mon Aug 11 18:10:53 +0000 2014",
+				"favourites_count": 3287,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1497,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867207029806518272/FpYu4W6P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867207029806518272/FpYu4W6P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740080795/1463360359",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 21 17:04:50 +0000 2017",
 		"id": 877573035020210200,
 		"id_str": "877573035020210176",
