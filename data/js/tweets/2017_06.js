@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 23 09:34:07 +0000 2017",
+		"id": 878184384158978000,
+		"id_str": "878184384158978049",
+		"text": ".future is a new Microsoft podcast on the Future of Tech. It's hosted by science &amp; technology reporter… https://t.co/4jCwmi0x3k",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4jCwmi0x3k",
+					"expanded_url": "https://twitter.com/i/web/status/878184384158978049",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12082,
+			"friends_count": 4332,
+			"listed_count": 507,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17193,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16713,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 877937685016461300,
+		"quoted_status_id_str": "877937685016461312",
+		"quoted_status": {
+			"created_at": "Thu Jun 22 17:13:50 +0000 2017",
+			"id": 877937685016461300,
+			"id_str": "877937685016461312",
+			"text": "Very excited to see this come to life. https://t.co/FwVqNaGDZr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FwVqNaGDZr",
+						"expanded_url": "https://twitter.com/FastCompany/status/877930444649627648",
+						"display_url": "twitter.com/FastCompany/st…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 8481782,
+				"id_str": "8481782",
+				"name": "Doug Dawson",
+				"screen_name": "theDougDawson",
+				"location": "Redmond, WA",
+				"description": "Life-long Winnipeg Jets fan and Head of Influencer Relations at Microsoft. Opinions here are my own.",
+				"url": "https://t.co/SXBNjhB3Mz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SXBNjhB3Mz",
+								"expanded_url": "http://news.microsoft.com/",
+								"display_url": "news.microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3530,
+				"friends_count": 945,
+				"listed_count": 122,
+				"created_at": "Tue Aug 28 08:50:07 +0000 2007",
+				"favourites_count": 926,
+				"utc_offset": 10800,
+				"time_zone": "Helsinki",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2891,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "100E11",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6994156/jets_logo.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6994156/jets_logo.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/519430968994586625/rIAFF6NQ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/519430968994586625/rIAFF6NQ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8481782/1475253723",
+				"profile_link_color": "C5AFAF",
+				"profile_sidebar_border_color": "071F2C",
+				"profile_sidebar_fill_color": "616A70",
+				"profile_text_color": "010509",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 877930444649627600,
+			"quoted_status_id_str": "877930444649627648",
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 23 09:01:32 +0000 2017",
 		"id": 878176181324922900,
 		"id_str": "878176181324922880",
