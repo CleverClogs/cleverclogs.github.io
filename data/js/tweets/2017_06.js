@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 30 16:27:55 +0000 2017",
+		"id": 880825236052205600,
+		"id_str": "880825236052205568",
+		"text": "RT @Microsoft: The 12-year-old CEO of @MikailasBees \"believed in the impossible\" to turn her fear into passion and build an extraordinary s…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "MikailasBees",
+					"name": "Me & the Bees",
+					"id": 1715229973,
+					"id_str": "1715229973",
+					"indices": [
+						38,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12204,
+			"friends_count": 4383,
+			"listed_count": 506,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17450,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16862,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Thu Jun 01 22:29:27 +0000 2017",
+			"id": 870406971152769000,
+			"id_str": "870406971152769024",
+			"text": "The 12-year-old CEO of @MikailasBees \"believed in the impossible\" to turn her fear into passion and build an extrao… https://t.co/A14n6MLExO",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MikailasBees",
+						"name": "Me & the Bees",
+						"id": 1715229973,
+						"id_str": "1715229973",
+						"indices": [
+							23,
+							36
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/A14n6MLExO",
+						"expanded_url": "https://twitter.com/i/web/status/870406971152769024",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 74286565,
+				"id_str": "74286565",
+				"name": "Microsoft",
+				"screen_name": "Microsoft",
+				"location": "Redmond, WA",
+				"description": "The official Twitter page for Microsoft consumer products and your source for major announcements and events.",
+				"url": "http://t.co/iIrGzB9fzr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iIrGzB9fzr",
+								"expanded_url": "http://www.facebook.com/Microsoft",
+								"display_url": "facebook.com/Microsoft",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8095176,
+				"friends_count": 2274,
+				"listed_count": 20954,
+				"created_at": "Mon Sep 14 22:35:42 +0000 2009",
+				"favourites_count": 801,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12727,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00AEEF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1493928710",
+				"profile_link_color": "1570A6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1075,
+			"favorite_count": 2592,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1075,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 30 10:49:23 +0000 2017",
 		"id": 880740038853754900,
 		"id_str": "880740038853754882",
