@@ -1,6 +1,487 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 05 13:48:22 +0000 2017",
+		"id": 882597022053929000,
+		"id_str": "882597022053928960",
+		"text": "RT @alward990: 7💡all - star OneNote features for the classroom 📒\n@OneNoteC @Microsoft_Saudi @MicrosoftEDU https://t.co/z4OZJgREmy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alward990",
+					"name": "souad alghamdi",
+					"id": 1188960290,
+					"id_str": "1188960290",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"screen_name": "Microsoft_Saudi",
+					"name": "Microsoft Saudi",
+					"id": 116551839,
+					"id_str": "116551839",
+					"indices": [
+						75,
+						91
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						92,
+						105
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 882438872768098300,
+					"id_str": "882438872768098305",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DD8NertWsAEIlLl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DD8NertWsAEIlLl.jpg",
+					"url": "https://t.co/z4OZJgREmy",
+					"display_url": "pic.twitter.com/z4OZJgREmy",
+					"expanded_url": "https://twitter.com/alward990/status/882438905718550528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 666,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1103,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1103,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 882438905718550500,
+					"source_status_id_str": "882438905718550528",
+					"source_user_id": 1188960290,
+					"source_user_id_str": "1188960290"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 882438872768098300,
+					"id_str": "882438872768098305",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DD8NertWsAEIlLl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DD8NertWsAEIlLl.jpg",
+					"url": "https://t.co/z4OZJgREmy",
+					"display_url": "pic.twitter.com/z4OZJgREmy",
+					"expanded_url": "https://twitter.com/alward990/status/882438905718550528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 666,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1103,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1103,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 882438905718550500,
+					"source_status_id_str": "882438905718550528",
+					"source_user_id": 1188960290,
+					"source_user_id_str": "1188960290"
+				},
+				{
+					"id": 882438888106668000,
+					"id_str": "882438888106668032",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DD8Nfk2WsAADntd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DD8Nfk2WsAADntd.jpg",
+					"url": "https://t.co/z4OZJgREmy",
+					"display_url": "pic.twitter.com/z4OZJgREmy",
+					"expanded_url": "https://twitter.com/alward990/status/882438905718550528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 832,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 832,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 882438905718550500,
+					"source_status_id_str": "882438905718550528",
+					"source_user_id": 1188960290,
+					"source_user_id_str": "1188960290"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12297,
+			"friends_count": 4422,
+			"listed_count": 508,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17530,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16906,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 05 03:20:04 +0000 2017",
+			"id": 882438905718550500,
+			"id_str": "882438905718550528",
+			"text": "7💡all - star OneNote features for the classroom 📒\n@OneNoteC @Microsoft_Saudi @MicrosoftEDU https://t.co/z4OZJgREmy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							50,
+							59
+						]
+					},
+					{
+						"screen_name": "Microsoft_Saudi",
+						"name": "Microsoft Saudi",
+						"id": 116551839,
+						"id_str": "116551839",
+						"indices": [
+							60,
+							76
+						]
+					},
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							77,
+							90
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 882438872768098300,
+						"id_str": "882438872768098305",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DD8NertWsAEIlLl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD8NertWsAEIlLl.jpg",
+						"url": "https://t.co/z4OZJgREmy",
+						"display_url": "pic.twitter.com/z4OZJgREmy",
+						"expanded_url": "https://twitter.com/alward990/status/882438905718550528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 666,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1103,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1103,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 882438872768098300,
+						"id_str": "882438872768098305",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DD8NertWsAEIlLl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD8NertWsAEIlLl.jpg",
+						"url": "https://t.co/z4OZJgREmy",
+						"display_url": "pic.twitter.com/z4OZJgREmy",
+						"expanded_url": "https://twitter.com/alward990/status/882438905718550528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 666,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1103,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1103,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 882438888106668000,
+						"id_str": "882438888106668032",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DD8Nfk2WsAADntd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD8Nfk2WsAADntd.jpg",
+						"url": "https://t.co/z4OZJgREmy",
+						"display_url": "pic.twitter.com/z4OZJgREmy",
+						"expanded_url": "https://twitter.com/alward990/status/882438905718550528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 524,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 832,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 832,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1188960290,
+				"id_str": "1188960290",
+				"name": "souad alghamdi",
+				"screen_name": "alward990",
+				"location": "",
+				"description": "‏الحمدلله 🏷\nMicrosoft's expert teacher🎗\n\nPhysics teacher🔍",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 290,
+				"friends_count": 219,
+				"listed_count": 2,
+				"created_at": "Sun Feb 17 09:43:53 +0000 2013",
+				"favourites_count": 362,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 455,
+				"lang": "ar",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBC1C1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/793498682/514a95f779e7fb111bd1caf975370adc.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/793498682/514a95f779e7fb111bd1caf975370adc.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798157388897546240/hKTowErp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798157388897546240/hKTowErp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1188960290/1481227726",
+				"profile_link_color": "E01010",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 04 20:00:24 +0000 2017",
 		"id": 882328259706462200,
 		"id_str": "882328259706462208",
