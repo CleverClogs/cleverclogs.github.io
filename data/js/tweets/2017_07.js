@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 13 15:15:21 +0000 2017",
+		"id": 885518016523497500,
+		"id_str": "885518016523497472",
+		"text": "Just in: awesome #MSFTEduChat video. @DarrenClayEDU is one of our amazing hosts for the July 18/19 TweetMeet on… https://t.co/4bJ6YwRWEl",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DarrenClayEDU",
+					"name": "Darren Clay",
+					"id": 3062905985,
+					"id_str": "3062905985",
+					"indices": [
+						37,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4bJ6YwRWEl",
+					"expanded_url": "https://twitter.com/i/web/status/885518016523497472",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12388,
+			"friends_count": 4465,
+			"listed_count": 507,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17683,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17012,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1495313088",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 885300591458754600,
+		"quoted_status_id_str": "885300591458754560",
+		"quoted_status": {
+			"created_at": "Thu Jul 13 00:51:23 +0000 2017",
+			"id": 885300591458754600,
+			"id_str": "885300591458754560",
+			"text": "Are you not entertained?! Live #MSFTEduChat tweetmeet check-in from the Ancient Roman Colosseum. #MIEExpert… https://t.co/M1XxRz9rKE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							31,
+							43
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							97,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/M1XxRz9rKE",
+						"expanded_url": "https://twitter.com/i/web/status/885300591458754560",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3062905985,
+				"id_str": "3062905985",
+				"name": "Darren Clay",
+				"screen_name": "DarrenClayEDU",
+				"location": "Atlanta, GA",
+				"description": "1/3 of @Edumigos, #MIEExpert, @NCCE_Edtech PL Specialist, @fcsvanguard, @boyscouts Whitney M. Young Nat'l Award Winner, Creator of https://t.co/IUTSEzxonZ",
+				"url": "https://t.co/ia7nPp7myz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ia7nPp7myz",
+								"expanded_url": "http://www.darrenclay.com",
+								"display_url": "darrenclay.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IUTSEzxonZ",
+								"expanded_url": "http://bearcreekpd.com",
+								"display_url": "bearcreekpd.com",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 799,
+				"friends_count": 473,
+				"listed_count": 32,
+				"created_at": "Wed Feb 25 18:37:13 +0000 2015",
+				"favourites_count": 2460,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 683,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/570768813776310272/dlvl8E6s.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/570768813776310272/dlvl8E6s.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883766464905224192/5vhQ2ljI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883766464905224192/5vhQ2ljI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3062905985/1499541217",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "c799e2d3a79f810e",
+				"url": "https://api.twitter.com/1.1/geo/id/c799e2d3a79f810e.json",
+				"place_type": "country",
+				"name": "Italy",
+				"full_name": "Italy",
+				"country_code": "IT",
+				"country": "Italy",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								6.6266397,
+								35.4928765
+							],
+							[
+								18.5203619,
+								35.4928765
+							],
+							[
+								18.5203619,
+								47.0924248
+							],
+							[
+								6.6266397,
+								47.0924248
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 13 14:13:24 +0000 2017",
 		"id": 885502423380488200,
 		"id_str": "885502423380488193",
