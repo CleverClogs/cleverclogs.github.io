@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 22 18:18:00 +0000 2017",
+		"id": 888825472381071400,
+		"id_str": "888825472381071360",
+		"text": "RT @showmerob: Typical Saturday Morning: read, work, reflect #productivity #CoffeeIsNecessary so is #OneNote https://t.co/oWtAVJQpwF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "productivity",
+					"indices": [
+						61,
+						74
+					]
+				},
+				{
+					"text": "CoffeeIsNecessary",
+					"indices": [
+						75,
+						93
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "showmerob",
+					"name": "Rob Dickson",
+					"id": 38084709,
+					"id_str": "38084709",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 888754477217349600,
+					"id_str": "888754477217349632",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DFV9fPsUAAARnuU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFV9fPsUAAARnuU.jpg",
+					"url": "https://t.co/oWtAVJQpwF",
+					"display_url": "pic.twitter.com/oWtAVJQpwF",
+					"expanded_url": "https://twitter.com/showmerob/status/888754483940995072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 888754483940995100,
+					"source_status_id_str": "888754483940995072",
+					"source_user_id": 38084709,
+					"source_user_id_str": "38084709"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 888754477217349600,
+					"id_str": "888754477217349632",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DFV9fPsUAAARnuU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFV9fPsUAAARnuU.jpg",
+					"url": "https://t.co/oWtAVJQpwF",
+					"display_url": "pic.twitter.com/oWtAVJQpwF",
+					"expanded_url": "https://twitter.com/showmerob/status/888754483940995072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 888754483940995100,
+					"source_status_id_str": "888754483940995072",
+					"source_user_id": 38084709,
+					"source_user_id_str": "38084709"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12515,
+			"friends_count": 4510,
+			"listed_count": 507,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17988,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 22 13:35:55 +0000 2017",
+			"id": 888754483940995100,
+			"id_str": "888754483940995072",
+			"text": "Typical Saturday Morning: read, work, reflect #productivity #CoffeeIsNecessary so is #OneNote https://t.co/oWtAVJQpwF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "productivity",
+						"indices": [
+							46,
+							59
+						]
+					},
+					{
+						"text": "CoffeeIsNecessary",
+						"indices": [
+							60,
+							78
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							85,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 888754477217349600,
+						"id_str": "888754477217349632",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DFV9fPsUAAARnuU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFV9fPsUAAARnuU.jpg",
+						"url": "https://t.co/oWtAVJQpwF",
+						"display_url": "pic.twitter.com/oWtAVJQpwF",
+						"expanded_url": "https://twitter.com/showmerob/status/888754483940995072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 888754477217349600,
+						"id_str": "888754477217349632",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/DFV9fPsUAAARnuU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFV9fPsUAAARnuU.jpg",
+						"url": "https://t.co/oWtAVJQpwF",
+						"display_url": "pic.twitter.com/oWtAVJQpwF",
+						"expanded_url": "https://twitter.com/showmerob/status/888754483940995072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38084709,
+				"id_str": "38084709",
+				"name": "Rob Dickson",
+				"screen_name": "showmerob",
+				"location": "Omaha, NE",
+				"description": "Executive Director for OPS - and father of 3 great girls. 2014 #20toWatch by NSBA - 2016 CDE Top 30 - 2017 ISTE PLN Administrator Award for Exemplary Leadership",
+				"url": "https://t.co/XBYocuxzv0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XBYocuxzv0",
+								"expanded_url": "http://showmerob.com",
+								"display_url": "showmerob.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13314,
+				"friends_count": 2372,
+				"listed_count": 361,
+				"created_at": "Wed May 06 01:58:06 +0000 2009",
+				"favourites_count": 4184,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10423,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2A5FAD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/823508270/ce196901c8c56593c653b0a254afa064.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/823508270/ce196901c8c56593c653b0a254afa064.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/887040590013227008/WYHKErR__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/887040590013227008/WYHKErR__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38084709/1498750072",
+				"profile_link_color": "2B4085",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "a84b808ce3f11719",
+				"url": "https://api.twitter.com/1.1/geo/id/a84b808ce3f11719.json",
+				"place_type": "city",
+				"name": "Omaha",
+				"full_name": "Omaha, NE",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-96.234587,
+								41.175884
+							],
+							[
+								-95.872275,
+								41.175884
+							],
+							[
+								-95.872275,
+								41.375558
+							],
+							[
+								-96.234587,
+								41.375558
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 21,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 22 18:13:29 +0000 2017",
+		"id": 888824334084657200,
+		"id_str": "888824334084657154",
+		"text": "@MNStroh Thank you for sharing @EmilyAkin's post, Melissa. Looking forward to read her follow-up article with more… https://t.co/CTvRDOEJxN",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MNStroh",
+					"name": "Melissa Stroh",
+					"id": 2401989842,
+					"id_str": "2401989842",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "emilyakin",
+					"name": "emilyakin",
+					"id": 16389903,
+					"id_str": "16389903",
+					"indices": [
+						31,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CTvRDOEJxN",
+					"expanded_url": "https://twitter.com/i/web/status/888824334084657154",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 888804982564294700,
+		"in_reply_to_status_id_str": "888804982564294656",
+		"in_reply_to_user_id": 2401989842,
+		"in_reply_to_user_id_str": "2401989842",
+		"in_reply_to_screen_name": "MNStroh",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12515,
+			"friends_count": 4510,
+			"listed_count": 507,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 17988,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 22 16:47:16 +0000 2017",
 		"id": 888802637138853900,
 		"id_str": "888802637138853888",
