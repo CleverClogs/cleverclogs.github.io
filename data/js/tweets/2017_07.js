@@ -1,6 +1,761 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 24 22:06:10 +0000 2017",
+		"id": 889607666133336000,
+		"id_str": "889607666133336065",
+		"text": "RT @Microsoft: \"By doing good, good follows.\" - @EastonLaChappel https://t.co/cR7uRcaYDw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "EastonLaChappel",
+					"name": "Easton LaChappelle",
+					"id": 1447415713,
+					"id_str": "1447415713",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 889554756988846100,
+					"id_str": "889554756988846081",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DFhdjzzUwAABSzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFhdjzzUwAABSzQ.jpg",
+					"url": "https://t.co/cR7uRcaYDw",
+					"display_url": "pic.twitter.com/cR7uRcaYDw",
+					"expanded_url": "https://twitter.com/Microsoft/status/889583270769303552/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 889583270769303600,
+					"source_status_id_str": "889583270769303552",
+					"source_user_id": 74286565,
+					"source_user_id_str": "74286565"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 889554756988846100,
+					"id_str": "889554756988846081",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DFhdjzzUwAABSzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFhdjzzUwAABSzQ.jpg",
+					"url": "https://t.co/cR7uRcaYDw",
+					"display_url": "pic.twitter.com/cR7uRcaYDw",
+					"expanded_url": "https://twitter.com/Microsoft/status/889583270769303552/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 889583270769303600,
+					"source_status_id_str": "889583270769303552",
+					"source_user_id": 74286565,
+					"source_user_id_str": "74286565",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 419836,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/889554756988846081/vid/320x180/RjkJNqtpIGUR1ZzZ.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/889554756988846081/vid/640x360/XTq92Yi996ltpoc-.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/889554756988846081/vid/1280x720/LdkDybAGvsgzICWf.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/889554756988846081/pl/-nuMW4mCgZde3QJ2.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Easton and Momo Meet",
+						"description": "Watch Easton LaChappelle share his first fully functioning robotic arm prototype with a young girl named Momo. ",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.microsoft.com/inculture/peoplewhoinspire/easton/?wt.mc_id=AID631239_QSG_SCL_174951"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 74286565,
+							"id_str": "74286565",
+							"name": "Microsoft",
+							"screen_name": "Microsoft",
+							"location": "Redmond, WA",
+							"description": "The official Twitter page for Microsoft consumer products and your source for major announcements and events.",
+							"url": "http://t.co/iIrGzB9fzr",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/iIrGzB9fzr",
+											"expanded_url": "http://www.facebook.com/Microsoft",
+											"display_url": "facebook.com/Microsoft",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8128646,
+							"friends_count": 2329,
+							"listed_count": 21026,
+							"created_at": "Mon Sep 14 22:35:42 +0000 2009",
+							"favourites_count": 823,
+							"utc_offset": -25200,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 12881,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "00AEEF",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1493928710",
+							"profile_link_color": "1570A6",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12531,
+			"friends_count": 4519,
+			"listed_count": 509,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18047,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 24 20:29:14 +0000 2017",
+			"id": 889583270769303600,
+			"id_str": "889583270769303552",
+			"text": "\"By doing good, good follows.\" - @EastonLaChappel https://t.co/cR7uRcaYDw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EastonLaChappel",
+						"name": "Easton LaChappelle",
+						"id": 1447415713,
+						"id_str": "1447415713",
+						"indices": [
+							33,
+							49
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 889554756988846100,
+						"id_str": "889554756988846081",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DFhdjzzUwAABSzQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFhdjzzUwAABSzQ.jpg",
+						"url": "https://t.co/cR7uRcaYDw",
+						"display_url": "pic.twitter.com/cR7uRcaYDw",
+						"expanded_url": "https://twitter.com/Microsoft/status/889583270769303552/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 889554756988846100,
+						"id_str": "889554756988846081",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DFhdjzzUwAABSzQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFhdjzzUwAABSzQ.jpg",
+						"url": "https://t.co/cR7uRcaYDw",
+						"display_url": "pic.twitter.com/cR7uRcaYDw",
+						"expanded_url": "https://twitter.com/Microsoft/status/889583270769303552/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 419836,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/889554756988846081/vid/320x180/RjkJNqtpIGUR1ZzZ.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/889554756988846081/vid/640x360/XTq92Yi996ltpoc-.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/889554756988846081/vid/1280x720/LdkDybAGvsgzICWf.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/889554756988846081/pl/-nuMW4mCgZde3QJ2.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Easton and Momo Meet",
+							"description": "Watch Easton LaChappelle share his first fully functioning robotic arm prototype with a young girl named Momo. ",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.microsoft.com/inculture/peoplewhoinspire/easton/?wt.mc_id=AID631239_QSG_SCL_174951"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 74286565,
+				"id_str": "74286565",
+				"name": "Microsoft",
+				"screen_name": "Microsoft",
+				"location": "Redmond, WA",
+				"description": "The official Twitter page for Microsoft consumer products and your source for major announcements and events.",
+				"url": "http://t.co/iIrGzB9fzr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iIrGzB9fzr",
+								"expanded_url": "http://www.facebook.com/Microsoft",
+								"display_url": "facebook.com/Microsoft",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8128646,
+				"friends_count": 2329,
+				"listed_count": 21026,
+				"created_at": "Mon Sep 14 22:35:42 +0000 2009",
+				"favourites_count": 823,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12881,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00AEEF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561955703753957377/JINi1-sJ.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1493928710",
+				"profile_link_color": "1570A6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 128,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 24 21:23:33 +0000 2017",
+		"id": 889596942283616300,
+		"id_str": "889596942283616258",
+		"text": "RT @OneNoteC: Designing a first-run experience for #OneNote Online - such an insightful post and video!\nhttps://t.co/NKMwpwyv4J\nby @beendra…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NKMwpwyv4J",
+					"expanded_url": "http://yubeen-lee.com/#/onenote-first-run-experience/",
+					"display_url": "yubeen-lee.com/#/onenote-firs…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12531,
+			"friends_count": 4519,
+			"listed_count": 509,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18047,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17230,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 22 21:33:44 +0000 2017",
+			"id": 888874729293193200,
+			"id_str": "888874729293193216",
+			"text": "Designing a first-run experience for #OneNote Online - such an insightful post and video!\nhttps://t.co/NKMwpwyv4J\nb… https://t.co/8I0CU0QCOq",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							37,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NKMwpwyv4J",
+						"expanded_url": "http://yubeen-lee.com/#/onenote-first-run-experience/",
+						"display_url": "yubeen-lee.com/#/onenote-firs…",
+						"indices": [
+							90,
+							113
+						]
+					},
+					{
+						"url": "https://t.co/8I0CU0QCOq",
+						"expanded_url": "https://twitter.com/i/web/status/888874729293193216",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2582768738,
+				"id_str": "2582768738",
+				"name": "OneNote Central",
+				"screen_name": "OneNoteC",
+				"location": "World",
+				"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+				"url": "https://t.co/Udn06tcMta",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Udn06tcMta",
+								"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+								"display_url": "onen.link/onenote-commun…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12531,
+				"friends_count": 4519,
+				"listed_count": 509,
+				"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+				"favourites_count": 18047,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17230,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+				"profile_link_color": "7719AA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 24 21:12:05 +0000 2017",
 		"id": 889594056040476700,
 		"id_str": "889594056040476674",
