@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 26 18:34:48 +0000 2017",
+		"id": 890279251165032400,
+		"id_str": "890279251165032448",
+		"text": "Here's @MoorePiPlease's wishful version of \"If #OneNote ...., it would make my life complete!\" \nWhat's yours?\ncc… https://t.co/qh0oq7Gh5c",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MoorePiPlease",
+					"name": "Michelle Weekley",
+					"id": 3485313377,
+					"id_str": "3485313377",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qh0oq7Gh5c",
+					"expanded_url": "https://twitter.com/i/web/status/890279251165032448",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12570,
+			"friends_count": 4523,
+			"listed_count": 507,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18095,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 890275463649742800,
+		"quoted_status_id_str": "890275463649742848",
+		"quoted_status": {
+			"created_at": "Wed Jul 26 18:19:45 +0000 2017",
+			"id": 890275463649742800,
+			"id_str": "890275463649742848",
+			"text": "@OneNoteC @Edk8R @LBayne @arbar13 If OneNote could allow teachers to lock \"graded\" pages, it would make my life complete!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "Edk8R",
+						"name": "Ximena",
+						"id": 725212714629369900,
+						"id_str": "725212714629369856",
+						"indices": [
+							10,
+							16
+						]
+					},
+					{
+						"screen_name": "LBayne",
+						"name": "LBayne",
+						"id": 18954505,
+						"id_str": "18954505",
+						"indices": [
+							17,
+							24
+						]
+					},
+					{
+						"screen_name": "arbar13",
+						"name": "Ari Schorr",
+						"id": 36726617,
+						"id_str": "36726617",
+						"indices": [
+							25,
+							33
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 889582318251384800,
+			"in_reply_to_status_id_str": "889582318251384832",
+			"in_reply_to_user_id": 2582768738,
+			"in_reply_to_user_id_str": "2582768738",
+			"in_reply_to_screen_name": "OneNoteC",
+			"user": {
+				"id": 3485313377,
+				"id_str": "3485313377",
+				"name": "Michelle Weekley",
+				"screen_name": "MoorePiPlease",
+				"location": "",
+				"description": "I am a middle and high school TIS, married to a TSS in a small county in West Virginia. The views on this page are my personal views, not that of my employer.",
+				"url": "https://t.co/rKJ4cuecX0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rKJ4cuecX0",
+								"expanded_url": "http://techthatclassup.blogspot.com",
+								"display_url": "techthatclassup.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 113,
+				"friends_count": 226,
+				"listed_count": 8,
+				"created_at": "Sat Aug 29 23:48:42 +0000 2015",
+				"favourites_count": 662,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 314,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768889002153877504/ZFI8g-h__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768889002153877504/ZFI8g-h__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3485313377/1500471658",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 26 16:30:17 +0000 2017",
 		"id": 890247912894189600,
 		"id_str": "890247912894189568",
