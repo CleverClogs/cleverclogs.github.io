@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 30 08:10:10 +0000 2017",
+		"id": 891571607197667300,
+		"id_str": "891571607197667328",
+		"text": "#ContinueOnPC is coming to #Windows10. Use your Android / iOS device to open a web page in @MicrosoftEdge on PC:… https://t.co/WYqnZqa5us",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ContinueOnPC",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						27,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEdge",
+					"name": "Microsoft Edge",
+					"id": 19315174,
+					"id_str": "19315174",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WYqnZqa5us",
+					"expanded_url": "https://twitter.com/i/web/status/891571607197667328",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12615,
+			"friends_count": 4532,
+			"listed_count": 506,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18184,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17311,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 891019356561317900,
+		"quoted_status_id_str": "891019356561317888",
+		"quoted_status": {
+			"created_at": "Fri Jul 28 19:35:43 +0000 2017",
+			"id": 891019356561317900,
+			"id_str": "891019356561317888",
+			"text": "Hey #WindowsInsiders 'Continue on PC' for iPhone is now available! Send web browsing sessions from iPhone to PC!\nhttps://t.co/5oI90KfBKj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WindowsInsiders",
+						"indices": [
+							4,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5oI90KfBKj",
+						"expanded_url": "https://appsto.re/us/SV8Xkb.i",
+						"display_url": "appsto.re/us/SV8Xkb.i",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47159786,
+				"id_str": "47159786",
+				"name": "Vishnu Nath",
+				"screen_name": "VishnuNath",
+				"location": "Bellevue, WA",
+				"description": "Principal PM Manager Lead for #Microsoft #Windows #ContinueOnPC #ArrowLauncher #WindowsOOBE My views are my views alone, not that of my company.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 463,
+				"friends_count": 671,
+				"listed_count": 31,
+				"created_at": "Sun Jun 14 19:50:13 +0000 2009",
+				"favourites_count": 368,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6684,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/745864062714716160/KsknQ5-8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/745864062714716160/KsknQ5-8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47159786/1465662189",
+				"profile_link_color": "20AAD4",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 30 07:29:34 +0000 2017",
+		"id": 891561389076172800,
+		"id_str": "891561389076172800",
+		"text": "RT @TheWindowsClub: OneNote features you may not be using, but should be using! - Microsoft OneNote is an excellent tool for gather... http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheWindowsClub",
+					"name": "The Windows Club",
+					"id": 25825382,
+					"id_str": "25825382",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12615,
+			"friends_count": 4532,
+			"listed_count": 506,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18184,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17311,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 30 06:01:10 +0000 2017",
+			"id": 891539145373478900,
+			"id_str": "891539145373478912",
+			"text": "OneNote features you may not be using, but should be using! - Microsoft OneNote is an excellent tool for gather... https://t.co/Is04ciW0MX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Is04ciW0MX",
+						"expanded_url": "http://ow.ly/sOAR50d6Z1A",
+						"display_url": "ow.ly/sOAR50d6Z1A",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25825382,
+				"id_str": "25825382",
+				"name": "The Windows Club",
+				"screen_name": "TheWindowsClub",
+				"location": "",
+				"description": "Windows 10 Tips, Features, Downloads,  News | Anand Khanse",
+				"url": "http://t.co/8eEVZXTLjo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8eEVZXTLjo",
+								"expanded_url": "http://www.TheWindowsClub.com/",
+								"display_url": "TheWindowsClub.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14343,
+				"friends_count": 67,
+				"listed_count": 473,
+				"created_at": "Sun Mar 22 14:47:09 +0000 2009",
+				"favourites_count": 757,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33180,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444712470/Blue_Diagonal.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444712470/Blue_Diagonal.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/623357137431851008/LwzC8NiK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/623357137431851008/LwzC8NiK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25825382/1438316860",
+				"profile_link_color": "074297",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DBDDF6",
+				"profile_text_color": "0A090B",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 29 22:52:02 +0000 2017",
 		"id": 891431150450860000,
 		"id_str": "891431150450860032",
