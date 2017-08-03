@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 03 13:56:30 +0000 2017",
+		"id": 893108314724290600,
+		"id_str": "893108314724290561",
+		"text": "RT @EvartsJennifer: We escaped @msonenote breakout! So much fun @n_cotner @SchwarzkopfElem @susanneshrews @Ndavis961 @asbrannan @LBeltran08…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvartsJennifer",
+					"name": "Jennifer Evarts",
+					"id": 716276613076357100,
+					"id_str": "716276613076357120",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "n_cotner",
+					"name": "Nicole Cotner",
+					"id": 3236977870,
+					"id_str": "3236977870",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"screen_name": "SchwarzkopfElem",
+					"name": "Schwarzkopf Elem",
+					"id": 4107122013,
+					"id_str": "4107122013",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "susanneshrews",
+					"name": "Susanne Shrewsbury",
+					"id": 716270836747997200,
+					"id_str": "716270836747997184",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"screen_name": "Ndavis961",
+					"name": "Nicole Davis",
+					"id": 4475602633,
+					"id_str": "4475602633",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"screen_name": "asbrannan",
+					"name": "Amanda Brannan",
+					"id": 758668237009805300,
+					"id_str": "758668237009805316",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"screen_name": "LBeltran08",
+					"name": "Lizzette Beltran",
+					"id": 700475733450190800,
+					"id_str": "700475733450190849",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12683,
+			"friends_count": 4551,
+			"listed_count": 507,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18318,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17402,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 03 13:02:58 +0000 2017",
+			"id": 893094843727171600,
+			"id_str": "893094843727171584",
+			"text": "We escaped @msonenote breakout! So much fun @n_cotner @SchwarzkopfElem @susanneshrews @Ndavis961 @asbrannan… https://t.co/tMyUHR4BLL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"screen_name": "n_cotner",
+						"name": "Nicole Cotner",
+						"id": 3236977870,
+						"id_str": "3236977870",
+						"indices": [
+							44,
+							53
+						]
+					},
+					{
+						"screen_name": "SchwarzkopfElem",
+						"name": "Schwarzkopf Elem",
+						"id": 4107122013,
+						"id_str": "4107122013",
+						"indices": [
+							54,
+							70
+						]
+					},
+					{
+						"screen_name": "susanneshrews",
+						"name": "Susanne Shrewsbury",
+						"id": 716270836747997200,
+						"id_str": "716270836747997184",
+						"indices": [
+							71,
+							85
+						]
+					},
+					{
+						"screen_name": "Ndavis961",
+						"name": "Nicole Davis",
+						"id": 4475602633,
+						"id_str": "4475602633",
+						"indices": [
+							86,
+							96
+						]
+					},
+					{
+						"screen_name": "asbrannan",
+						"name": "Amanda Brannan",
+						"id": 758668237009805300,
+						"id_str": "758668237009805316",
+						"indices": [
+							97,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tMyUHR4BLL",
+						"expanded_url": "https://twitter.com/i/web/status/893094843727171584",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 716276613076357100,
+				"id_str": "716276613076357120",
+				"name": "Jennifer Evarts",
+				"screen_name": "EvartsJennifer",
+				"location": "Lutz, FL",
+				"description": "5th Grade Math & Science Teacher at Schwarzkopf Elementary",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115,
+				"friends_count": 32,
+				"listed_count": 2,
+				"created_at": "Sat Apr 02 14:50:27 +0000 2016",
+				"favourites_count": 401,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 161,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770338225118384128/xpKGYa_L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770338225118384128/xpKGYa_L_normal.jpg",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 03 13:11:56 +0000 2017",
 		"id": 893097102825443300,
 		"id_str": "893097102825443328",
