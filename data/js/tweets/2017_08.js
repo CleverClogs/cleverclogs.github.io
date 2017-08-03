@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 03 14:36:44 +0000 2017",
+		"id": 893118443716792300,
+		"id_str": "893118443716792320",
+		"text": "@townesy77 @mimasaunders @brookssensei @jarradstrain @BhavneetSingh12 @superdavey @pipcleaves @standouted… https://t.co/3GDQLnV6XR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "townesy77",
+					"name": "Megan Townes",
+					"id": 27093634,
+					"id_str": "27093634",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mimasaunders",
+					"name": "Jemima Saunders",
+					"id": 17763374,
+					"id_str": "17763374",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "brookssensei",
+					"name": "Adam Brooks",
+					"id": 1591118918,
+					"id_str": "1591118918",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"screen_name": "jarradstrain",
+					"name": "Jarrad Strain",
+					"id": 1208867881,
+					"id_str": "1208867881",
+					"indices": [
+						39,
+						52
+					]
+				},
+				{
+					"screen_name": "BhavneetSingh12",
+					"name": "Bhavneet",
+					"id": 524001932,
+					"id_str": "524001932",
+					"indices": [
+						53,
+						69
+					]
+				},
+				{
+					"screen_name": "superdavey",
+					"name": "David Brown",
+					"id": 18545434,
+					"id_str": "18545434",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "pipcleaves",
+					"name": "Pip Cleaves",
+					"id": 30757847,
+					"id_str": "30757847",
+					"indices": [
+						82,
+						93
+					]
+				},
+				{
+					"screen_name": "standouted",
+					"name": "Steven Payne",
+					"id": 2212322413,
+					"id_str": "2212322413",
+					"indices": [
+						94,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3GDQLnV6XR",
+					"expanded_url": "https://twitter.com/i/web/status/893118443716792320",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 893103031885086700,
+		"in_reply_to_status_id_str": "893103031885086720",
+		"in_reply_to_user_id": 27093634,
+		"in_reply_to_user_id_str": "27093634",
+		"in_reply_to_screen_name": "townesy77",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12685,
+			"friends_count": 4553,
+			"listed_count": 507,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18321,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17404,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 03 14:20:43 +0000 2017",
+		"id": 893114412109877200,
+		"id_str": "893114412109877248",
+		"text": "Another example of a live-embedded #OneNote page on a website.\nThank you for sharing, @MoneDenninger!\n#MIEExpert https://t.co/sHddRMJQNV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MoneDenninger",
+					"name": "Mone Denninger",
+					"id": 3115912360,
+					"id_str": "3115912360",
+					"indices": [
+						86,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sHddRMJQNV",
+					"expanded_url": "https://twitter.com/MoneDenninger/status/893111308433969153",
+					"display_url": "twitter.com/MoneDenninger/…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12685,
+			"friends_count": 4553,
+			"listed_count": 507,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18321,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17404,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 893111308433969200,
+		"quoted_status_id_str": "893111308433969153",
+		"quoted_status": {
+			"created_at": "Thu Aug 03 14:08:23 +0000 2017",
+			"id": 893111308433969200,
+			"id_str": "893111308433969153",
+			"text": "Einbetten von Live OneNote Dokumenten auf einer Webseite https://t.co/eq7FXApkGD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eq7FXApkGD",
+						"expanded_url": "http://mone.denninger.at/einbetten-von-live-onenote-dokumenten-auf-einer-webseite/",
+						"display_url": "mone.denninger.at/einbetten-von-…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3115912360,
+				"id_str": "3115912360",
+				"name": "Mone Denninger",
+				"screen_name": "MoneDenninger",
+				"location": "Wien, Österreich",
+				"description": "#Mathematik, Lehrerin, Autorin, Unterricht mit digitalen Medien, eEducation @donau_uni, Microsoft Innovative Educator Expert #MIEExpert #flipclass #flipmich",
+				"url": "https://t.co/MP0Q3XYZvr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MP0Q3XYZvr",
+								"expanded_url": "http://mone.denninger.at",
+								"display_url": "mone.denninger.at",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 155,
+				"friends_count": 150,
+				"listed_count": 31,
+				"created_at": "Wed Mar 25 20:37:36 +0000 2015",
+				"favourites_count": 208,
+				"utc_offset": 7200,
+				"time_zone": "Europe/Vienna",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 198,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/580831463169462272/K3LSaZGT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/580831463169462272/K3LSaZGT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3115912360/1440442975",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 03 13:56:30 +0000 2017",
 		"id": 893108314724290600,
 		"id_str": "893108314724290561",
