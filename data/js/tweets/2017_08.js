@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 08 21:41:59 +0000 2017",
+		"id": 895037400786849800,
+		"id_str": "895037400786849792",
+		"text": "@MsEstherL @TashasEv @soumow @mattdkerr @doryowen @Microsoft @LadyNaggaga @divinetechygirl @BethMassi @chixcancode… https://t.co/aVGu9hYlTk",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MsEstherL",
+					"name": "Esther Lee",
+					"id": 748276148,
+					"id_str": "748276148",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "TashasEv",
+					"name": "Tashas[E]v",
+					"id": 86327261,
+					"id_str": "86327261",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "soumow",
+					"name": "Soumow Atitallah",
+					"id": 14282054,
+					"id_str": "14282054",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "mattdkerr",
+					"name": "Matt K ⚙️",
+					"id": 14534467,
+					"id_str": "14534467",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "doryowen",
+					"name": "Dory Owen",
+					"id": 2543935141,
+					"id_str": "2543935141",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"screen_name": "LadyNaggaga",
+					"name": "Maria Naggaga",
+					"id": 863095946,
+					"id_str": "863095946",
+					"indices": [
+						61,
+						73
+					]
+				},
+				{
+					"screen_name": "divinetechygirl",
+					"name": "C:\\hristina",
+					"id": 59611400,
+					"id_str": "59611400",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "BethMassi",
+					"name": "Beth Massi",
+					"id": 22652954,
+					"id_str": "22652954",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"screen_name": "chixcancode",
+					"name": "LaBrina V Loving",
+					"id": 126715744,
+					"id_str": "126715744",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aVGu9hYlTk",
+					"expanded_url": "https://twitter.com/i/web/status/895037400786849792",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 894736375102054400,
+		"in_reply_to_status_id_str": "894736375102054401",
+		"in_reply_to_user_id": 748276148,
+		"in_reply_to_user_id_str": "748276148",
+		"in_reply_to_screen_name": "MsEstherL",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12769,
+			"friends_count": 4582,
+			"listed_count": 508,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18438,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17499,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 08 21:00:12 +0000 2017",
 		"id": 895026882076450800,
 		"id_str": "895026882076450819",
@@ -246,7 +447,7 @@ Grailbird.data.tweets_2017_08 =
 			"user_mentions": [
 				{
 					"screen_name": "potasiyam",
-					"name": "Tanbin Siyam 🐱‍💻",
+					"name": "Tanbin Siyam 🐱💻",
 					"id": 79695815,
 					"id_str": "79695815",
 					"indices": [
