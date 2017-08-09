@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 09 17:07:42 +0000 2017",
+		"id": 895330760512512000,
+		"id_str": "895330760512512000",
+		"text": "RT @MSFTnews: Experts imagine the office of the future, today on the .future podcast https://t.co/Ka3ijCtq1q https://t.co/qkopNhXQRg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSFTnews",
+					"name": "Microsoft News",
+					"id": 24741685,
+					"id_str": "24741685",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ka3ijCtq1q",
+					"expanded_url": "http://msft.social/LNWpak",
+					"display_url": "msft.social/LNWpak",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 895330082495107100,
+					"id_str": "895330082495107072",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DGzZ92PXkAAVCim.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGzZ92PXkAAVCim.jpg",
+					"url": "https://t.co/qkopNhXQRg",
+					"display_url": "pic.twitter.com/qkopNhXQRg",
+					"expanded_url": "https://twitter.com/MSFTnews/status/895330085141479424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 718,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895330085141479400,
+					"source_status_id_str": "895330085141479424",
+					"source_user_id": 24741685,
+					"source_user_id_str": "24741685"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 895330082495107100,
+					"id_str": "895330082495107072",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DGzZ92PXkAAVCim.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DGzZ92PXkAAVCim.jpg",
+					"url": "https://t.co/qkopNhXQRg",
+					"display_url": "pic.twitter.com/qkopNhXQRg",
+					"expanded_url": "https://twitter.com/MSFTnews/status/895330085141479424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 718,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895330085141479400,
+					"source_status_id_str": "895330085141479424",
+					"source_user_id": 24741685,
+					"source_user_id_str": "24741685"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12780,
+			"friends_count": 4587,
+			"listed_count": 511,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18454,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17526,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 09 17:05:01 +0000 2017",
+			"id": 895330085141479400,
+			"id_str": "895330085141479424",
+			"text": "Experts imagine the office of the future, today on the .future podcast https://t.co/Ka3ijCtq1q https://t.co/qkopNhXQRg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ka3ijCtq1q",
+						"expanded_url": "http://msft.social/LNWpak",
+						"display_url": "msft.social/LNWpak",
+						"indices": [
+							71,
+							94
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 895330082495107100,
+						"id_str": "895330082495107072",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DGzZ92PXkAAVCim.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGzZ92PXkAAVCim.jpg",
+						"url": "https://t.co/qkopNhXQRg",
+						"display_url": "pic.twitter.com/qkopNhXQRg",
+						"expanded_url": "https://twitter.com/MSFTnews/status/895330085141479424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 718,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 718,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 895330082495107100,
+						"id_str": "895330082495107072",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DGzZ92PXkAAVCim.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGzZ92PXkAAVCim.jpg",
+						"url": "https://t.co/qkopNhXQRg",
+						"display_url": "pic.twitter.com/qkopNhXQRg",
+						"expanded_url": "https://twitter.com/MSFTnews/status/895330085141479424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 718,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 718,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24741685,
+				"id_str": "24741685",
+				"name": "Microsoft News",
+				"screen_name": "MSFTnews",
+				"location": "Redmond, WA",
+				"description": "The official Twitter page for Microsoft news. Your view from the inside.",
+				"url": "http://t.co/vzYljEYj9e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vzYljEYj9e",
+								"expanded_url": "http://www.microsoft.com/news",
+								"display_url": "microsoft.com/news",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 911171,
+				"friends_count": 1836,
+				"listed_count": 15770,
+				"created_at": "Mon Mar 16 18:29:00 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23030,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0072C6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472501111094394880/-wECB4Xr_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472501111094394880/-wECB4Xr_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24741685/1375483196",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 09 16:37:10 +0000 2017",
+		"id": 895323078263062500,
+		"id_str": "895323078263062529",
+		"text": "@TashasEv @MsEstherL @soumow @mattdkerr @doryowen @Microsoft @LadyNaggaga @divinetechygirl @BethMassi @chixcancode… https://t.co/blCBsnuVnb",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TashasEv",
+					"name": "Tashas[E]v",
+					"id": 86327261,
+					"id_str": "86327261",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MsEstherL",
+					"name": "Esther Lee",
+					"id": 748276148,
+					"id_str": "748276148",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "soumow",
+					"name": "Soumow Atitallah",
+					"id": 14282054,
+					"id_str": "14282054",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "mattdkerr",
+					"name": "Matt K ⚙️",
+					"id": 14534467,
+					"id_str": "14534467",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "doryowen",
+					"name": "Dory Owen",
+					"id": 2543935141,
+					"id_str": "2543935141",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"screen_name": "LadyNaggaga",
+					"name": "Maria Naggaga",
+					"id": 863095946,
+					"id_str": "863095946",
+					"indices": [
+						61,
+						73
+					]
+				},
+				{
+					"screen_name": "divinetechygirl",
+					"name": "C:\\hristina",
+					"id": 59611400,
+					"id_str": "59611400",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "BethMassi",
+					"name": "Beth Massi",
+					"id": 22652954,
+					"id_str": "22652954",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"screen_name": "chixcancode",
+					"name": "LaBrina V Loving",
+					"id": 126715744,
+					"id_str": "126715744",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/blCBsnuVnb",
+					"expanded_url": "https://twitter.com/i/web/status/895323078263062529",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 895302850309259300,
+		"in_reply_to_status_id_str": "895302850309259264",
+		"in_reply_to_user_id": 86327261,
+		"in_reply_to_user_id_str": "86327261",
+		"in_reply_to_screen_name": "TashasEv",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12780,
+			"friends_count": 4587,
+			"listed_count": 511,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18454,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17526,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 09 13:14:06 +0000 2017",
 		"id": 895271974641029100,
 		"id_str": "895271974641029120",
