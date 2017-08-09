@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 09 21:19:04 +0000 2017",
+		"id": 895394017529278500,
+		"id_str": "895394017529278465",
+		"text": "Cool and #FunNote #OneNote sketch to color in! \nAnd look how this inspired the @MSOneNote Team to respond.\nVery nic… https://t.co/DMqcQS4CDz",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FunNote",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DMqcQS4CDz",
+					"expanded_url": "https://twitter.com/i/web/status/895394017529278465",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12779,
+			"friends_count": 4588,
+			"listed_count": 513,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18465,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17537,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 894550585483165700,
+		"quoted_status_id_str": "894550585483165696",
+		"quoted_status": {
+			"created_at": "Mon Aug 07 13:27:34 +0000 2017",
+			"id": 894550585483165700,
+			"id_str": "894550585483165696",
+			"text": "What do you think of my one note sketch @SeaOfThieves ? https://t.co/w9JMBDWL3m",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SeaOfThieves",
+						"name": "Sea of Thieves",
+						"id": 3375660701,
+						"id_str": "3375660701",
+						"indices": [
+							40,
+							53
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 894550573437071400,
+						"id_str": "894550573437071361",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DGoVActWsAEA9kS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGoVActWsAEA9kS.jpg",
+						"url": "https://t.co/w9JMBDWL3m",
+						"display_url": "pic.twitter.com/w9JMBDWL3m",
+						"expanded_url": "https://twitter.com/MartyXbox/status/894550585483165696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 704,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 399,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1202,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 894550573437071400,
+						"id_str": "894550573437071361",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DGoVActWsAEA9kS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DGoVActWsAEA9kS.jpg",
+						"url": "https://t.co/w9JMBDWL3m",
+						"display_url": "pic.twitter.com/w9JMBDWL3m",
+						"expanded_url": "https://twitter.com/MartyXbox/status/894550585483165696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 704,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 399,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1202,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3697242863,
+				"id_str": "3697242863",
+				"name": "MartyX ♏️",
+				"screen_name": "MartyXbox",
+				"location": "Farnham, England",
+				"description": "Gamer and Filmmaker. Watch me play games I like at https://t.co/u2H5ZhNucG https://t.co/BqygIUGeuj",
+				"url": "https://t.co/u2H5ZhNucG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u2H5ZhNucG",
+								"expanded_url": "http://twitch.tv/wolverinex87",
+								"display_url": "twitch.tv/wolverinex87",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/u2H5ZhNucG",
+								"expanded_url": "http://twitch.tv/wolverinex87",
+								"display_url": "twitch.tv/wolverinex87",
+								"indices": [
+									51,
+									74
+								]
+							},
+							{
+								"url": "https://t.co/BqygIUGeuj",
+								"expanded_url": "http://mixer.com/Wolverine_X87",
+								"display_url": "mixer.com/Wolverine_X87",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 260,
+				"friends_count": 304,
+				"listed_count": 23,
+				"created_at": "Fri Sep 18 14:17:46 +0000 2015",
+				"favourites_count": 6913,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2782,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855507148545167360/Htw4QLYH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855507148545167360/Htw4QLYH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3697242863/1493846682",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 09 20:34:52 +0000 2017",
+		"id": 895382896034369500,
+		"id_str": "895382896034369538",
+		"text": "@doryowen @MsEstherL Good point. I got carried away a little. Forgive me.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doryowen",
+					"name": "Dory Owen",
+					"id": 2543935141,
+					"id_str": "2543935141",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MsEstherL",
+					"name": "Esther Lee",
+					"id": 748276148,
+					"id_str": "748276148",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 895368236069421000,
+		"in_reply_to_status_id_str": "895368236069421056",
+		"in_reply_to_user_id": 2543935141,
+		"in_reply_to_user_id_str": "2543935141",
+		"in_reply_to_screen_name": "doryowen",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12779,
+			"friends_count": 4588,
+			"listed_count": 513,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18465,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17537,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 09 20:30:46 +0000 2017",
+		"id": 895381862796996600,
+		"id_str": "895381862796996608",
+		"text": "Hilariously inspiring video inviting you all to join the #MSFTEduChat events of Aug 15:\nhttps://t.co/ruBUw25P4m\nby #MIEExpert @claganach",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						115,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "claganach",
+					"name": "Malcolm Wilson",
+					"id": 54920357,
+					"id_str": "54920357",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ruBUw25P4m",
+					"expanded_url": "https://www.youtube.com/watch?v=eadydklkiRM",
+					"display_url": "youtube.com/watch?v=eadydk…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12779,
+			"friends_count": 4588,
+			"listed_count": 513,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18465,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17537,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 09 19:57:06 +0000 2017",
 		"id": 895373392970477600,
 		"id_str": "895373392970477568",
