@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 10 18:43:25 +0000 2017",
+		"id": 895717234689007600,
+		"id_str": "895717234689007619",
+		"text": "Webinar recording - Best Practicies in Managing Projects - using #OneNote 2016 for #ProjectManagement\nWebinar by… https://t.co/rQUp6sZT5M",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "ProjectManagement",
+					"indices": [
+						83,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rQUp6sZT5M",
+					"expanded_url": "https://twitter.com/i/web/status/895717234689007619",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12792,
+			"friends_count": 4588,
+			"listed_count": 511,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18473,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17550,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866031266528997376/EIvkBQMX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 895691589925953500,
+		"quoted_status_id_str": "895691589925953536",
+		"quoted_status": {
+			"created_at": "Thu Aug 10 17:01:30 +0000 2017",
+			"id": 895691589925953500,
+			"id_str": "895691589925953536",
+			"text": "Did you miss @Advisicon's #WebinarWednesday on #OneNote? Learn how to gather info &amp; #Collaborate w/ multiple users:  https://t.co/3Q4FfnkY8C",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WebinarWednesday",
+						"indices": [
+							26,
+							43
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							47,
+							55
+						]
+					},
+					{
+						"text": "Collaborate",
+						"indices": [
+							88,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Advisicon",
+						"name": "Advisicon",
+						"id": 56420310,
+						"id_str": "56420310",
+						"indices": [
+							13,
+							23
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3Q4FfnkY8C",
+						"expanded_url": "http://ow.ly/Oq4J30eilYq",
+						"display_url": "ow.ly/Oq4J30eilYq",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 56420310,
+				"id_str": "56420310",
+				"name": "Advisicon",
+				"screen_name": "Advisicon",
+				"location": "North America",
+				"description": "Advisicon specializes in helping organizations integrate their culture with project & portfolio management best practices & technologies.",
+				"url": "http://t.co/Q58WlYAD4T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Q58WlYAD4T",
+								"expanded_url": "http://www.advisicon.com",
+								"display_url": "advisicon.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 808,
+				"friends_count": 805,
+				"listed_count": 117,
+				"created_at": "Mon Jul 13 16:37:42 +0000 2009",
+				"favourites_count": 359,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2864,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/712783131317641216/ZgeQutQK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/712783131317641216/ZgeQutQK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/56420310/1427241010",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 10 17:15:39 +0000 2017",
 		"id": 895695148855722000,
 		"id_str": "895695148855721984",
