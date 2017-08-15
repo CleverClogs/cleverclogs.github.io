@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 15 15:18:24 +0000 2017",
+		"id": 897477581401882600,
+		"id_str": "897477581401882625",
+		"text": "@halimahbukola You're most welcome, Halimah. We're starting in less than two hours from now.  Looking forward to se… https://t.co/L7aaSOLP65",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "halimahbukola",
+					"name": "halimah bukola",
+					"id": 784374127431938000,
+					"id_str": "784374127431938048",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L7aaSOLP65",
+					"expanded_url": "https://twitter.com/i/web/status/897477581401882625",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 897456171610722300,
+		"in_reply_to_status_id_str": "897456171610722304",
+		"in_reply_to_user_id": 784374127431938000,
+		"in_reply_to_user_id_str": "784374127431938048",
+		"in_reply_to_screen_name": "halimahbukola",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12878,
+			"friends_count": 4611,
+			"listed_count": 519,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18574,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Aug 15 15:16:58 +0000 2017",
+		"id": 897477222868688900,
+		"id_str": "897477222868688896",
+		"text": "RT @MS_eduIRL: Doing a #Onederful job as always @eustace_stephen! 👏#MIEExpert #SurfaceExpert #OneNote https://t.co/zLaOBgKP2m",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onederful",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "SurfaceExpert",
+					"indices": [
+						78,
+						92
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MS_eduIRL",
+					"name": "Microsoft Edu IRL",
+					"id": 1418497789,
+					"id_str": "1418497789",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "eustace_stephen",
+					"name": "Stephen Eustace",
+					"id": 705409101220675600,
+					"id_str": "705409101220675584",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zLaOBgKP2m",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/897422146426875904",
+					"display_url": "twitter.com/eustace_stephe…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12878,
+			"friends_count": 4611,
+			"listed_count": 519,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18574,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17629,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 13:42:55 +0000 2017",
+			"id": 897453552750260200,
+			"id_str": "897453552750260224",
+			"text": "Doing a #Onederful job as always @eustace_stephen! 👏#MIEExpert #SurfaceExpert #OneNote https://t.co/zLaOBgKP2m",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Onederful",
+						"indices": [
+							8,
+							18
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							52,
+							62
+						]
+					},
+					{
+						"text": "SurfaceExpert",
+						"indices": [
+							63,
+							77
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							78,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "eustace_stephen",
+						"name": "Stephen Eustace",
+						"id": 705409101220675600,
+						"id_str": "705409101220675584",
+						"indices": [
+							33,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zLaOBgKP2m",
+						"expanded_url": "https://twitter.com/eustace_stephen/status/897422146426875904",
+						"display_url": "twitter.com/eustace_stephe…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1418497789,
+				"id_str": "1418497789",
+				"name": "Microsoft Edu IRL",
+				"screen_name": "MS_eduIRL",
+				"location": "Microsoft,Dublin, Ireland",
+				"description": "We help educators and school leaders connect, collaborate, create and share, so that students can realise their greatest potential using ICT Technology.",
+				"url": "https://t.co/Gh5RFHMvPr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gh5RFHMvPr",
+								"expanded_url": "http://www.microsoft.ie/education",
+								"display_url": "microsoft.ie/education",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2403,
+				"friends_count": 1154,
+				"listed_count": 92,
+				"created_at": "Fri May 10 16:13:10 +0000 2013",
+				"favourites_count": 2759,
+				"utc_offset": 3600,
+				"time_zone": "Dublin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1877,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B9289F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/868947779/6aa754d93366fa8c17db23a941d5c572.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/868947779/6aa754d93366fa8c17db23a941d5c572.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/524870930145636353/69ExO8tr_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/524870930145636353/69ExO8tr_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1418497789/1493805581",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 897422146426875900,
+			"quoted_status_id_str": "897422146426875904",
+			"quoted_status": {
+				"created_at": "Tue Aug 15 11:38:07 +0000 2017",
+				"id": 897422146426875900,
+				"id_str": "897422146426875904",
+				"text": "Having a #Onederful time showing #OneNote to eager educators. #MIEExpert #SurfaceExpert #C2KElearn @ashfield_girls… https://t.co/uRfxg7DPRi",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Onederful",
+							"indices": [
+								9,
+								19
+							]
+						},
+						{
+							"text": "OneNote",
+							"indices": [
+								33,
+								41
+							]
+						},
+						{
+							"text": "MIEExpert",
+							"indices": [
+								62,
+								72
+							]
+						},
+						{
+							"text": "SurfaceExpert",
+							"indices": [
+								73,
+								87
+							]
+						},
+						{
+							"text": "C2KElearn",
+							"indices": [
+								88,
+								98
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "ashfield_girls",
+							"name": "Ashfield Girls' High",
+							"id": 284459202,
+							"id_str": "284459202",
+							"indices": [
+								99,
+								114
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/uRfxg7DPRi",
+							"expanded_url": "https://twitter.com/i/web/status/897422146426875904",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 705409101220675600,
+					"id_str": "705409101220675584",
+					"name": "Stephen Eustace",
+					"screen_name": "eustace_stephen",
+					"location": "Ireland",
+					"description": "Teacher of Maths & Accounting. ICT Coordinator. #OneNote Microsoft Innovative Educator Expert #MIEExpert #SurfaceExpert RT #Onederful #STEM",
+					"url": "https://t.co/zHTbFylUH9",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/zHTbFylUH9",
+									"expanded_url": "http://www.onederful.eu",
+									"display_url": "onederful.eu",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 5355,
+					"friends_count": 4817,
+					"listed_count": 90,
+					"created_at": "Thu Mar 03 15:06:50 +0000 2016",
+					"favourites_count": 4848,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3146,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/863080545697370112/N8_ifPFw_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/863080545697370112/N8_ifPFw_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/705409101220675584/1490907865",
+					"profile_link_color": "981CEB",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 897422146426875900,
+		"quoted_status_id_str": "897422146426875904",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 15 12:43:03 +0000 2017",
 		"id": 897438486315380700,
 		"id_str": "897438486315380736",
