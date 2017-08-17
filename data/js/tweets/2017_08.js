@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 17 08:18:23 +0000 2017",
+		"id": 898096655018459100,
+		"id_str": "898096655018459137",
+		"text": "@taniaparicio @dcaraban @MicrosoftTeams @MsEduEsp @MicrosoftEDU Hi Tania, connect with: @teamsuniverse @VicentGadea… https://t.co/xqY0Rlb0Qb",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taniaparicio",
+					"name": "tania aparicio",
+					"id": 768266336,
+					"id_str": "768266336",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "dcaraban",
+					"name": "David Carabantes",
+					"id": 23316910,
+					"id_str": "23316910",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						24,
+						39
+					]
+				},
+				{
+					"screen_name": "MsEduEsp",
+					"name": "Microsoft Educación",
+					"id": 960546007,
+					"id_str": "960546007",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"screen_name": "TeamsUniverse",
+					"name": "MS Teams Universe",
+					"id": 846749548588486700,
+					"id_str": "846749548588486658",
+					"indices": [
+						88,
+						102
+					]
+				},
+				{
+					"screen_name": "vicentgadea",
+					"name": "Vicent Gadea",
+					"id": 462752734,
+					"id_str": "462752734",
+					"indices": [
+						103,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xqY0Rlb0Qb",
+					"expanded_url": "https://twitter.com/i/web/status/898096655018459137",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 897812399687962600,
+		"in_reply_to_status_id_str": "897812399687962628",
+		"in_reply_to_user_id": 768266336,
+		"in_reply_to_user_id_str": "768266336",
+		"in_reply_to_screen_name": "taniaparicio",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12905,
+			"friends_count": 4631,
+			"listed_count": 518,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18728,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17730,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 16 23:21:42 +0000 2017",
 		"id": 897961595372015600,
 		"id_str": "897961595372015616",
