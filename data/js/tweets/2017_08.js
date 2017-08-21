@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 21 08:49:52 +0000 2017",
+		"id": 899554132972982300,
+		"id_str": "899554132972982272",
+		"text": "RT @CEEKTechnology: Great #a11y for #Lowvision on #MSOneNote Zoom in Zoom out feature for #Windows10.  Check out @MSFTEnable @msonenote new…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "a11y",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "Lowvision",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"text": "MSOneNote",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CEEKTechnology",
+					"name": "Christopher McMillan",
+					"id": 410219569,
+					"id_str": "410219569",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "MSFTEnable",
+					"name": "MSFT Accessibility",
+					"id": 458619342,
+					"id_str": "458619342",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12961,
+			"friends_count": 4634,
+			"listed_count": 522,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18778,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 21 07:42:26 +0000 2017",
+			"id": 899537159396487200,
+			"id_str": "899537159396487173",
+			"text": "Great #a11y for #Lowvision on #MSOneNote Zoom in Zoom out feature for #Windows10.  Check out @MSFTEnable @msonenote… https://t.co/XcZY8pQ2wS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "a11y",
+						"indices": [
+							6,
+							11
+						]
+					},
+					{
+						"text": "Lowvision",
+						"indices": [
+							16,
+							26
+						]
+					},
+					{
+						"text": "MSOneNote",
+						"indices": [
+							30,
+							40
+						]
+					},
+					{
+						"text": "Windows10",
+						"indices": [
+							70,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MSFTEnable",
+						"name": "MSFT Accessibility",
+						"id": 458619342,
+						"id_str": "458619342",
+						"indices": [
+							93,
+							104
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							105,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XcZY8pQ2wS",
+						"expanded_url": "https://twitter.com/i/web/status/899537159396487173",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 410219569,
+				"id_str": "410219569",
+				"name": "Christopher McMillan",
+				"screen_name": "CEEKTechnology",
+				"location": "Charlotte, NC",
+				"description": "IT Specialist for Network, Virtual, Security and Operation System Deployment.  Disabled Access Specialist for 25 years in Windows, Mac and now Linux",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3992,
+				"friends_count": 1955,
+				"listed_count": 2175,
+				"created_at": "Fri Nov 11 20:15:38 +0000 2011",
+				"favourites_count": 27529,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 128563,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563059397/0000__78_.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563059397/0000__78_.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2342920299/v5nxzbxedemmiepkxqor_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2342920299/v5nxzbxedemmiepkxqor_normal.jpeg",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 898012446903988200,
+			"quoted_status_id_str": "898012446903988224",
+			"quoted_status": {
+				"created_at": "Thu Aug 17 02:43:46 +0000 2017",
+				"id": 898012446903988200,
+				"id_str": "898012446903988224",
+				"text": "August update of OneNote for Windows 10 is rolling out. (Version 17.8471.5772). New \"Zoom in, Zoom out\" feature:… https://t.co/5zJYhip7qS",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/5zJYhip7qS",
+							"expanded_url": "https://twitter.com/i/web/status/898012446903988224",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 458619342,
+					"id_str": "458619342",
+					"name": "MSFT Accessibility",
+					"screen_name": "MSFTEnable",
+					"location": "Redmond, WA",
+					"description": "Hello! We're here with news, insights, and updates from Microsoft Accessibility.",
+					"url": "https://t.co/nyzY7wGZ7P",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/nyzY7wGZ7P",
+									"expanded_url": "http://www.microsoft.com/accessibility",
+									"display_url": "microsoft.com/accessibility",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 17970,
+					"friends_count": 8853,
+					"listed_count": 562,
+					"created_at": "Sun Jan 08 19:26:40 +0000 2012",
+					"favourites_count": 39746,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 8955,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/889568072285118464/hUKBu-oy_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/889568072285118464/hUKBu-oy_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/458619342/1447819852",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 10,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 898012446903988200,
+		"quoted_status_id_str": "898012446903988224",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 21 08:41:42 +0000 2017",
+		"id": 899552076660977700,
+		"id_str": "899552076660977665",
+		"text": "Episode 2 of the #OneNote #LifeHacks playlist deals with configuring a Quick Notes section in OneNote 2016\nby #MVP… https://t.co/EWkvz3055Y",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"text": "LifeHacks",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"text": "MVP",
+					"indices": [
+						110,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EWkvz3055Y",
+					"expanded_url": "https://twitter.com/i/web/status/899552076660977665",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP, Microsoft Partner Product Expert, OneNote trainer & consultant.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12961,
+			"friends_count": 4634,
+			"listed_count": 522,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 18778,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 899507266101162000,
+		"quoted_status_id_str": "899507266101161984",
+		"quoted_status": {
+			"created_at": "Mon Aug 21 05:43:38 +0000 2017",
+			"id": 899507266101162000,
+			"id_str": "899507266101161984",
+			"text": "#OneNote #LifeHacks: How to set up @msonenote on your #Win10 machine and get quick notes to work for you https://t.co/nzg0CxrdE1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "LifeHacks",
+						"indices": [
+							9,
+							19
+						]
+					},
+					{
+						"text": "Win10",
+						"indices": [
+							54,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							35,
+							45
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nzg0CxrdE1",
+						"expanded_url": "https://youtu.be/953NaJxeI0g",
+						"display_url": "youtu.be/953NaJxeI0g",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83465282,
+				"id_str": "83465282",
+				"name": "Ståle Hansen",
+				"screen_name": "StaleHansen",
+				"location": "Norway",
+				"description": "Founder & Principal Cloud Architect @CloudWayNo Office Servers and Services MVP. Conference speaker, blogger, YouTuber and co-author of Office 365 for IT Pros",
+				"url": "https://t.co/ITWsoAIrhW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ITWsoAIrhW",
+								"expanded_url": "http://msunified.net",
+								"display_url": "msunified.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2951,
+				"friends_count": 357,
+				"listed_count": 227,
+				"created_at": "Sun Oct 18 22:45:30 +0000 2009",
+				"favourites_count": 983,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6036,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FDFFFC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/551844681001078784/LU-Gsx7f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/551844681001078784/LU-Gsx7f.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877252618158043136/dSzamVN9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877252618158043136/dSzamVN9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83465282/1496829837",
+				"profile_link_color": "2D326F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "ADBFDC",
+				"profile_text_color": "292929",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 21 07:13:36 +0000 2017",
 		"id": 899529903535784000,
 		"id_str": "899529903535783936",
