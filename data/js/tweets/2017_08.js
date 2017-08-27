@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 27 21:51:52 +0000 2017",
+		"id": 901925255614263300,
+		"id_str": "901925255614263298",
+		"text": "@SinghNBCT You did? You're so good.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SinghNBCT",
+					"name": "Ms. Singh",
+					"id": 3234464149,
+					"id_str": "3234464149",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 901924479676424200,
+		"in_reply_to_status_id_str": "901924479676424194",
+		"in_reply_to_user_id": 3234464149,
+		"in_reply_to_user_id_str": "3234464149",
+		"in_reply_to_screen_name": "SinghNBCT",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13083,
+			"friends_count": 4828,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19192,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17893,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 27 21:27:45 +0000 2017",
+		"id": 901919186796073000,
+		"id_str": "901919186796072961",
+		"text": "@amberwalraven @annetsmith @CasperHuls @trendmatcher Er is mogelijk expertise op dit gebied onder #MIEExpert docent… https://t.co/ZUyLl2w6bM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						98,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amberwalraven",
+					"name": "Amber Walraven",
+					"id": 27963324,
+					"id_str": "27963324",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "annetsmith",
+					"name": "Annet Smith🐰",
+					"id": 14809933,
+					"id_str": "14809933",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "CasperHuls",
+					"name": "Casper Hulshof",
+					"id": 25262734,
+					"id_str": "25262734",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "trendmatcher",
+					"name": "Willem Karssenberg‽",
+					"id": 10781,
+					"id_str": "10781",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZUyLl2w6bM",
+					"expanded_url": "https://twitter.com/i/web/status/901919186796072961",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 901918628215480300,
+		"in_reply_to_status_id_str": "901918628215480325",
+		"in_reply_to_user_id": 27963324,
+		"in_reply_to_user_id_str": "27963324",
+		"in_reply_to_screen_name": "amberwalraven",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13083,
+			"friends_count": 4828,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19192,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17893,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Sun Aug 27 21:23:04 +0000 2017",
+		"id": 901918009421418500,
+		"id_str": "901918009421418496",
+		"text": "@amberwalraven @annetsmith @CasperHuls @trendmatcher ah, ik had moeten doorvragen. Ik hou me aanbevolen voor contac… https://t.co/0qA3VZ2xz5",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amberwalraven",
+					"name": "Amber Walraven",
+					"id": 27963324,
+					"id_str": "27963324",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "annetsmith",
+					"name": "Annet Smith🐰",
+					"id": 14809933,
+					"id_str": "14809933",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "CasperHuls",
+					"name": "Casper Hulshof",
+					"id": 25262734,
+					"id_str": "25262734",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "trendmatcher",
+					"name": "Willem Karssenberg‽",
+					"id": 10781,
+					"id_str": "10781",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0qA3VZ2xz5",
+					"expanded_url": "https://twitter.com/i/web/status/901918009421418496",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 901915723634761700,
+		"in_reply_to_status_id_str": "901915723634761730",
+		"in_reply_to_user_id": 27963324,
+		"in_reply_to_user_id_str": "27963324",
+		"in_reply_to_screen_name": "amberwalraven",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13083,
+			"friends_count": 4828,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19192,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17893,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun Aug 27 20:58:37 +0000 2017",
 		"id": 901911854909464600,
 		"id_str": "901911854909464583",
