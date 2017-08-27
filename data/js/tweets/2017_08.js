@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 27 12:07:21 +0000 2017",
+		"id": 901778157669376000,
+		"id_str": "901778157669376001",
+		"text": "RT @ianfordham: Superb to see the first mother &amp; son #microsoftedu dynamic duo Congrats @DpDarran &amp; @cmprotheroe 👩‍👦 https://t.co/QDPorAY8Rf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "microsoftedu",
+					"indices": [
+						57,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ianfordham",
+					"name": "Ian Fordham",
+					"id": 17851117,
+					"id_str": "17851117",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "DpDarran",
+					"name": "James Protheroe",
+					"id": 2345679014,
+					"id_str": "2345679014",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"screen_name": "Cmprotheroe",
+					"name": "Christine Protherie",
+					"id": 3909452314,
+					"id_str": "3909452314",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QDPorAY8Rf",
+					"expanded_url": "https://twitter.com/dpdarran/status/901119946087960583",
+					"display_url": "twitter.com/dpdarran/statu…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13067,
+			"friends_count": 4821,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19166,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 25 17:13:22 +0000 2017",
+			"id": 901130392534646800,
+			"id_str": "901130392534646787",
+			"text": "Superb to see the first mother &amp; son #microsoftedu dynamic duo Congrats @DpDarran &amp; @cmprotheroe 👩‍👦 https://t.co/QDPorAY8Rf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "microsoftedu",
+						"indices": [
+							41,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DpDarran",
+						"name": "James Protheroe",
+						"id": 2345679014,
+						"id_str": "2345679014",
+						"indices": [
+							76,
+							85
+						]
+					},
+					{
+						"screen_name": "Cmprotheroe",
+						"name": "Christine Protherie",
+						"id": 3909452314,
+						"id_str": "3909452314",
+						"indices": [
+							92,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QDPorAY8Rf",
+						"expanded_url": "https://twitter.com/dpdarran/status/901119946087960583",
+						"display_url": "twitter.com/dpdarran/statu…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17851117,
+				"id_str": "17851117",
+				"name": "Ian Fordham",
+				"screen_name": "ianfordham",
+				"location": "United Kingdom",
+				"description": "Director of Education @MicrosoftUK @MicrosoftEdUK | @MayorofLondon Tech Ambassador | Adv board Edtech UK | Former CEO @EdtechukHQ & Co-founder @EdnFoundation",
+				"url": "https://t.co/v1HHQj9lPE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v1HHQj9lPE",
+								"expanded_url": "http://linkedin.com/in/ianfordham",
+								"display_url": "linkedin.com/in/ianfordham",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9719,
+				"friends_count": 8322,
+				"listed_count": 501,
+				"created_at": "Wed Dec 03 22:19:50 +0000 2008",
+				"favourites_count": 4407,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10636,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837040301323784194/KFHw95S6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837040301323784194/KFHw95S6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17851117/1498116646",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 901119946087960600,
+			"quoted_status_id_str": "901119946087960583",
+			"quoted_status": {
+				"created_at": "Fri Aug 25 16:31:51 +0000 2017",
+				"id": 901119946087960600,
+				"id_str": "901119946087960583",
+				"text": "Delighted my mother @Cmprotheroe has also been selected as a #mieexpert Well done Mam! #microsoftedu https://t.co/IB8u2BavcT",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "mieexpert",
+							"indices": [
+								61,
+								71
+							]
+						},
+						{
+							"text": "microsoftedu",
+							"indices": [
+								87,
+								100
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Cmprotheroe",
+							"name": "Christine Protherie",
+							"id": 3909452314,
+							"id_str": "3909452314",
+							"indices": [
+								20,
+								32
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 901119927683252200,
+							"id_str": "901119927683252226",
+							"indices": [
+								101,
+								124
+							],
+							"media_url": "http://pbs.twimg.com/media/DIFrzMWWAAI6faS.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DIFrzMWWAAI6faS.jpg",
+							"url": "https://t.co/IB8u2BavcT",
+							"display_url": "pic.twitter.com/IB8u2BavcT",
+							"expanded_url": "https://twitter.com/DpDarran/status/901119946087960583/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 668,
+									"h": 360,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 668,
+									"h": 360,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 668,
+									"h": 360,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 901119927683252200,
+							"id_str": "901119927683252226",
+							"indices": [
+								101,
+								124
+							],
+							"media_url": "http://pbs.twimg.com/media/DIFrzMWWAAI6faS.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DIFrzMWWAAI6faS.jpg",
+							"url": "https://t.co/IB8u2BavcT",
+							"display_url": "pic.twitter.com/IB8u2BavcT",
+							"expanded_url": "https://twitter.com/DpDarran/status/901119946087960583/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 668,
+									"h": 360,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 668,
+									"h": 360,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 668,
+									"h": 360,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2345679014,
+					"id_str": "2345679014",
+					"name": "James Protheroe",
+					"screen_name": "DpDarran",
+					"location": "",
+					"description": "Assistant Headteacher, ICT, Literacy + Assessment Coordinator at @DarranPark. #Mieexpert  + Trainer. Global Minecraft Mentor. Love Digital Learning.",
+					"url": "https://t.co/GRXMcjSRD8",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/GRXMcjSRD8",
+									"expanded_url": "http://jamesprotheroe.wordpress.com",
+									"display_url": "jamesprotheroe.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1373,
+					"friends_count": 1166,
+					"listed_count": 84,
+					"created_at": "Sat Feb 15 20:11:00 +0000 2014",
+					"favourites_count": 5453,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 3039,
+					"lang": "en-gb",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/848663588407345152/1WjztA61_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/848663588407345152/1WjztA61_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2345679014/1492710503",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 27,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 14,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 901119946087960600,
+		"quoted_status_id_str": "901119946087960583",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 27 11:55:03 +0000 2017",
+		"id": 901775062071726100,
+		"id_str": "901775062071726080",
+		"text": "New in Auto #OneNote, automation add-in by OneNoteGem: auto-refresh tag summary of to-do items:… https://t.co/l5l6ms2Fza",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l5l6ms2Fza",
+					"expanded_url": "https://twitter.com/i/web/status/901775062071726080",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13067,
+			"friends_count": 4821,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19166,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 27 11:34:34 +0000 2017",
+		"id": 901769908169650200,
+		"id_str": "901769908169650176",
+		"text": "@pmimmy69 Send To OneNote works just fine for me, Katja. Let's take this to DM to discuss, ok?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pmimmy69",
+					"name": "Katja de Jong",
+					"id": 42444286,
+					"id_str": "42444286",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 901768012474306600,
+		"in_reply_to_status_id_str": "901768012474306560",
+		"in_reply_to_user_id": 42444286,
+		"in_reply_to_user_id_str": "42444286",
+		"in_reply_to_screen_name": "pmimmy69",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13067,
+			"friends_count": 4821,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19166,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 27 11:11:24 +0000 2017",
 		"id": 901764076078071800,
 		"id_str": "901764076078071808",
