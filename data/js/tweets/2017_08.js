@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 28 16:58:17 +0000 2017",
+		"id": 902213759187505200,
+		"id_str": "902213759187505156",
+		"text": "Gorgeous and #FunNote #OneNote drawing in Galaxy Special Ink!\n#thinkinink\ncc @IanMikutel\nImpressive #digitalink,… https://t.co/leSpNFoY9i",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FunNote",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "thinkinink",
+					"indices": [
+						62,
+						73
+					]
+				},
+				{
+					"text": "digitalink",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanMikutel",
+					"name": "Ian Mikutel",
+					"id": 2157421,
+					"id_str": "2157421",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/leSpNFoY9i",
+					"expanded_url": "https://twitter.com/i/web/status/902213759187505156",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13093,
+			"friends_count": 4840,
+			"listed_count": 523,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19221,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17903,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 902211828876542000,
+		"quoted_status_id_str": "902211828876541954",
+		"quoted_status": {
+			"created_at": "Mon Aug 28 16:50:36 +0000 2017",
+			"id": 902211828876542000,
+			"id_str": "902211828876541954",
+			"text": "Been sketching using #OneNote on my #Surface again - tracing the #Forza7 #Porsche911GT2RS this time! 😊🏎… https://t.co/L6MYakWaoL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"text": "Surface",
+						"indices": [
+							36,
+							44
+						]
+					},
+					{
+						"text": "Forza7",
+						"indices": [
+							65,
+							72
+						]
+					},
+					{
+						"text": "Porsche911GT2RS",
+						"indices": [
+							73,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/L6MYakWaoL",
+						"expanded_url": "https://twitter.com/i/web/status/902211828876541954",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52782266,
+				"id_str": "52782266",
+				"name": "Lawro",
+				"screen_name": "lororobinson",
+				"location": "Hampshire, England",
+				"description": "Microsoft Territory Manager for McCurrach.\n(All Views are my own) - I bleed green!\nXbox GT: LoRo RoBBo\nInsta: @lorofromearth",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 284,
+				"friends_count": 482,
+				"listed_count": 5,
+				"created_at": "Wed Jul 01 17:01:09 +0000 2009",
+				"favourites_count": 2134,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2147,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CC9D10",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448468123/x5a3474c590fb440b6399d67338aaaec.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448468123/x5a3474c590fb440b6399d67338aaaec.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895373944210980864/cHe54YY8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895373944210980864/cHe54YY8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52782266/1503600341",
+				"profile_link_color": "EBB309",
+				"profile_sidebar_border_color": "53AB8D",
+				"profile_sidebar_fill_color": "291C0D",
+				"profile_text_color": "53AB8D",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7b7101cc1c6f8f88",
+				"url": "https://api.twitter.com/1.1/geo/id/7b7101cc1c6f8f88.json",
+				"place_type": "city",
+				"name": "Basingstoke",
+				"full_name": "Basingstoke, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.1498002,
+								51.2226126
+							],
+							[
+								-1.039377,
+								51.2226126
+							],
+							[
+								-1.039377,
+								51.3030391
+							],
+							[
+								-1.1498002,
+								51.3030391
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 28 15:59:03 +0000 2017",
 		"id": 902198854019371000,
 		"id_str": "902198854019371010",
