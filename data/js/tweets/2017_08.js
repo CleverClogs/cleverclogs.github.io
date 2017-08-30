@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 30 10:31:48 +0000 2017",
+		"id": 902841273312309200,
+		"id_str": "902841273312309250",
+		"text": "RT @gannotti: (video) How to add an existing OneNote to an Office 365 Team https://t.co/lyB8QlV03l",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gannotti",
+					"name": "gannotti",
+					"id": 6452362,
+					"id_str": "6452362",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lyB8QlV03l",
+					"expanded_url": "https://youtu.be/uDbituQPY9s",
+					"display_url": "youtu.be/uDbituQPY9s",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13112,
+			"friends_count": 4844,
+			"listed_count": 527,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19252,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17921,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 30 10:08:40 +0000 2017",
+			"id": 902835452473987100,
+			"id_str": "902835452473987072",
+			"text": "(video) How to add an existing OneNote to an Office 365 Team https://t.co/lyB8QlV03l",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lyB8QlV03l",
+						"expanded_url": "https://youtu.be/uDbituQPY9s",
+						"display_url": "youtu.be/uDbituQPY9s",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6452362,
+				"id_str": "6452362",
+				"name": "gannotti",
+				"screen_name": "gannotti",
+				"location": "Philadelphia, PA, USA",
+				"description": "Social Media Samurai, Office 365 Productivity, Digital Media, Microsoft Principal Technology Solutions Professional. All opinions = my own",
+				"url": "https://t.co/BNcawIkgwE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BNcawIkgwE",
+								"expanded_url": "https://www.linkedin.com/in/mikegannotti/",
+								"display_url": "linkedin.com/in/mikegannott…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56685,
+				"friends_count": 51028,
+				"listed_count": 1661,
+				"created_at": "Wed May 30 20:02:57 +0000 2007",
+				"favourites_count": 4369,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37358,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/756513783615336448/vFubYqm8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/756513783615336448/vFubYqm8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6452362/1437488805",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 30 07:33:13 +0000 2017",
 		"id": 902796331168694300,
 		"id_str": "902796331168694273",
