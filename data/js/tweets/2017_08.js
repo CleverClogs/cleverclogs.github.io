@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 31 12:45:36 +0000 2017",
+		"id": 903237332635136000,
+		"id_str": "903237332635136000",
+		"text": "RT @peckwilliams: When you love @OneNoteC! @lintperez #nccechat https://t.co/u7fRDbf4mI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nccechat",
+					"indices": [
+						54,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peckwilliams",
+					"name": "Kelly Williams",
+					"id": 88678332,
+					"id_str": "88678332",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"screen_name": "lintperez",
+					"name": "Stephanie",
+					"id": 394800044,
+					"id_str": "394800044",
+					"indices": [
+						43,
+						53
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 903237023905058800,
+					"id_str": "903237023905058816",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DIjxSaXXkAA8XAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIjxSaXXkAA8XAC.jpg",
+					"url": "https://t.co/u7fRDbf4mI",
+					"display_url": "pic.twitter.com/u7fRDbf4mI",
+					"expanded_url": "https://twitter.com/peckwilliams/status/903237045707001856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903237045707001900,
+					"source_status_id_str": "903237045707001856",
+					"source_user_id": 88678332,
+					"source_user_id_str": "88678332"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 903237023905058800,
+					"id_str": "903237023905058816",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DIjxSaXXkAA8XAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIjxSaXXkAA8XAC.jpg",
+					"url": "https://t.co/u7fRDbf4mI",
+					"display_url": "pic.twitter.com/u7fRDbf4mI",
+					"expanded_url": "https://twitter.com/peckwilliams/status/903237045707001856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 903237045707001900,
+					"source_status_id_str": "903237045707001856",
+					"source_user_id": 88678332,
+					"source_user_id_str": "88678332"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13134,
+			"friends_count": 4855,
+			"listed_count": 524,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19309,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17955,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 31 12:44:27 +0000 2017",
+			"id": 903237045707001900,
+			"id_str": "903237045707001856",
+			"text": "When you love @OneNoteC! @lintperez #nccechat https://t.co/u7fRDbf4mI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nccechat",
+						"indices": [
+							36,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							14,
+							23
+						]
+					},
+					{
+						"screen_name": "lintperez",
+						"name": "Stephanie",
+						"id": 394800044,
+						"id_str": "394800044",
+						"indices": [
+							25,
+							35
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 903237023905058800,
+						"id_str": "903237023905058816",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DIjxSaXXkAA8XAC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIjxSaXXkAA8XAC.jpg",
+						"url": "https://t.co/u7fRDbf4mI",
+						"display_url": "pic.twitter.com/u7fRDbf4mI",
+						"expanded_url": "https://twitter.com/peckwilliams/status/903237045707001856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 903237023905058800,
+						"id_str": "903237023905058816",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/DIjxSaXXkAA8XAC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIjxSaXXkAA8XAC.jpg",
+						"url": "https://t.co/u7fRDbf4mI",
+						"display_url": "pic.twitter.com/u7fRDbf4mI",
+						"expanded_url": "https://twitter.com/peckwilliams/status/903237045707001856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 88678332,
+				"id_str": "88678332",
+				"name": "Kelly Williams",
+				"screen_name": "peckwilliams",
+				"location": "DeWitt, MI",
+				"description": "CTE Instructor, Microsoft Innovative Educator Expert, Google Trainer, Professional Learning Specialist for NCCE",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 517,
+				"friends_count": 397,
+				"listed_count": 160,
+				"created_at": "Mon Nov 09 14:43:57 +0000 2009",
+				"favourites_count": 3164,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3964,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899419223797014529/OX78swEG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899419223797014529/OX78swEG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/88678332/1425085019",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 31 12:07:49 +0000 2017",
 		"id": 903227824311545900,
 		"id_str": "903227824311545861",
