@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 03 09:49:31 +0000 2017",
+		"id": 904280184060354600,
+		"id_str": "904280184060354560",
+		"text": "RT @Noteadviser: Useful shortcut to quickly go through search' results in #OneNote for W10. \rcc @OneNoteC https://t.co/DqIVZwT4go",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Noteadviser",
+					"name": "Albin LABELLE",
+					"id": 4916034934,
+					"id_str": "4916034934",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 904278478517932000,
+					"id_str": "904278478517932032",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DIykfDIXkAAcoXk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIykfDIXkAAcoXk.jpg",
+					"url": "https://t.co/DqIVZwT4go",
+					"display_url": "pic.twitter.com/DqIVZwT4go",
+					"expanded_url": "https://twitter.com/Noteadviser/status/904278481042857984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 241,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 241,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 241,
+							"h": 455,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904278481042858000,
+					"source_status_id_str": "904278481042857984",
+					"source_user_id": 4916034934,
+					"source_user_id_str": "4916034934"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 904278478517932000,
+					"id_str": "904278478517932032",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DIykfDIXkAAcoXk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DIykfDIXkAAcoXk.jpg",
+					"url": "https://t.co/DqIVZwT4go",
+					"display_url": "pic.twitter.com/DqIVZwT4go",
+					"expanded_url": "https://twitter.com/Noteadviser/status/904278481042857984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 241,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 241,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 241,
+							"h": 455,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 904278481042858000,
+					"source_status_id_str": "904278481042857984",
+					"source_user_id": 4916034934,
+					"source_user_id_str": "4916034934"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13199,
+			"friends_count": 4878,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19385,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17974,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 03 09:42:45 +0000 2017",
+			"id": 904278481042858000,
+			"id_str": "904278481042857984",
+			"text": "Useful shortcut to quickly go through search' results in #OneNote for W10. \rcc @OneNoteC https://t.co/DqIVZwT4go",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							57,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							79,
+							88
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 904278478517932000,
+						"id_str": "904278478517932032",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DIykfDIXkAAcoXk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIykfDIXkAAcoXk.jpg",
+						"url": "https://t.co/DqIVZwT4go",
+						"display_url": "pic.twitter.com/DqIVZwT4go",
+						"expanded_url": "https://twitter.com/Noteadviser/status/904278481042857984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 241,
+								"h": 455,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 241,
+								"h": 455,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 241,
+								"h": 455,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 904278478517932000,
+						"id_str": "904278478517932032",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DIykfDIXkAAcoXk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DIykfDIXkAAcoXk.jpg",
+						"url": "https://t.co/DqIVZwT4go",
+						"display_url": "pic.twitter.com/DqIVZwT4go",
+						"expanded_url": "https://twitter.com/Noteadviser/status/904278481042857984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 241,
+								"h": 455,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 241,
+								"h": 455,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 241,
+								"h": 455,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4916034934,
+				"id_str": "4916034934",
+				"name": "Albin LABELLE",
+				"screen_name": "Noteadviser",
+				"location": "France",
+				"description": "Utilisateur enthousiaste de OneNote, au service de la communauté francophone. Microsoft #MVP #OneNote",
+				"url": "https://t.co/krhCOillh2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/krhCOillh2",
+								"expanded_url": "http://www.onenote.pro/",
+								"display_url": "onenote.pro",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61,
+				"friends_count": 22,
+				"listed_count": 13,
+				"created_at": "Mon Feb 15 22:00:21 +0000 2016",
+				"favourites_count": 454,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 136,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/820622803800064000/xz9khfNW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/820622803800064000/xz9khfNW_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 02 20:40:04 +0000 2017",
 		"id": 904081513226133500,
 		"id_str": "904081513226133504",
