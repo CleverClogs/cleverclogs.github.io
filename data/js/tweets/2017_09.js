@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 04 14:02:05 +0000 2017",
+		"id": 904706133067255800,
+		"id_str": "904706133067255808",
+		"text": "RT @kerszi: I'm VERY proud to say that I'll be one of the hosts for the next global @MicrosoftEDU #TweetMeet on Sept. 19!  Topic = #STEM #M…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TweetMeet",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kerszi",
+					"name": "Kathi Kersznowski",
+					"id": 595079922,
+					"id_str": "595079922",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						84,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13222,
+			"friends_count": 4902,
+			"listed_count": 527,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19472,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18019,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 04 10:56:28 +0000 2017",
+			"id": 904659422911320000,
+			"id_str": "904659422911320064",
+			"text": "I'm VERY proud to say that I'll be one of the hosts for the next global @MicrosoftEDU #TweetMeet on Sept. 19!  Topi… https://t.co/ycOMhiEYNS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TweetMeet",
+						"indices": [
+							86,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							72,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ycOMhiEYNS",
+						"expanded_url": "https://twitter.com/i/web/status/904659422911320064",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595079922,
+				"id_str": "595079922",
+				"name": "Kathi Kersznowski",
+				"screen_name": "kerszi",
+				"location": "New Jersey, USA",
+				"description": "Tech Integration Specialist! EdTech Blogger, Presenter, Leader! TOY, Soon2B Admin, MIEExpert, Apple Tchr, STEAM Edu, Flipgrid, Seesaw Ambass, NJPSA, ASCD, NJASA",
+				"url": "https://t.co/F3EubyVGqy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F3EubyVGqy",
+								"expanded_url": "http://kerszi.wordpress.com/",
+								"display_url": "kerszi.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5952,
+				"friends_count": 5053,
+				"listed_count": 561,
+				"created_at": "Wed May 30 23:31:13 +0000 2012",
+				"favourites_count": 15252,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12573,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550312145469341696/_6rhjMUz.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/550312145469341696/_6rhjMUz.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/829765285620113409/wGlQtX99_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/829765285620113409/wGlQtX99_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595079922/1460151831",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 13,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 04 12:08:18 +0000 2017",
 		"id": 904677496989261800,
 		"id_str": "904677496989261826",
