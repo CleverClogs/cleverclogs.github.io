@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 04 06:27:36 +0000 2017",
+		"id": 904591759472291800,
+		"id_str": "904591759472291840",
+		"text": "RT @MasterDevwi: This would actually be more fun as a Twitter poll. Where do you like to create new pages in OneNote?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MasterDevwi",
+					"name": "William Devereux",
+					"id": 5193261,
+					"id_str": "5193261",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13216,
+			"friends_count": 4899,
+			"listed_count": 527,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19454,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 03 23:02:32 +0000 2017",
+			"id": 904479754627293200,
+			"id_str": "904479754627293184",
+			"text": "This would actually be more fun as a Twitter poll. Where do you like to create new pages in OneNote?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 904467364384841700,
+			"in_reply_to_status_id_str": "904467364384841728",
+			"in_reply_to_user_id": 5193261,
+			"in_reply_to_user_id_str": "5193261",
+			"in_reply_to_screen_name": "MasterDevwi",
+			"user": {
+				"id": 5193261,
+				"id_str": "5193261",
+				"name": "William Devereux",
+				"screen_name": "MasterDevwi",
+				"location": "Redmond, WA",
+				"description": "Product Manager Lead for Microsoft OneNote. Host of @IonCannonCast. Xbox/Zune MVP alumnus. Star Wars fan. Opinions are my own.",
+				"url": "https://t.co/kJMpFVWcoO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kJMpFVWcoO",
+								"expanded_url": "http://ioncannoncast.com",
+								"display_url": "ioncannoncast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1839,
+				"friends_count": 753,
+				"listed_count": 144,
+				"created_at": "Thu Apr 19 06:02:04 +0000 2007",
+				"favourites_count": 9771,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26252,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/830325230/37dd18c98892fee17e6025d93a18d83b.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/830325230/37dd18c98892fee17e6025d93a18d83b.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/890796007591616512/X_vqGnKu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/890796007591616512/X_vqGnKu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5193261/1498982470",
+				"profile_link_color": "015873",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "0F0F0F",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 04 06:26:48 +0000 2017",
+		"id": 904591557667553300,
+		"id_str": "904591557667553280",
+		"text": "@MasterDevwi For completeness sake, we clearly miss these sorting options:\n- alphabetic by note creator\n- alphabeti… https://t.co/5QKUirb8Xf",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MasterDevwi",
+					"name": "William Devereux",
+					"id": 5193261,
+					"id_str": "5193261",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5QKUirb8Xf",
+					"expanded_url": "https://twitter.com/i/web/status/904591557667553280",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 904479754627293200,
+		"in_reply_to_status_id_str": "904479754627293184",
+		"in_reply_to_user_id": 5193261,
+		"in_reply_to_user_id_str": "5193261",
+		"in_reply_to_screen_name": "MasterDevwi",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13216,
+			"friends_count": 4899,
+			"listed_count": 527,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19454,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "96683cc9126741d1",
+			"url": "https://api.twitter.com/1.1/geo/id/96683cc9126741d1.json",
+			"place_type": "country",
+			"name": "United States",
+			"full_name": "United States",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-179.231086,
+							13.182335
+						],
+						[
+							179.859685,
+							13.182335
+						],
+						[
+							179.859685,
+							71.434357
+						],
+						[
+							-179.231086,
+							71.434357
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 04 06:20:26 +0000 2017",
+		"id": 904589953971171300,
+		"id_str": "904589953971171328",
+		"text": "@john_zwiers @Mojo_JJ Yes, John. See also https://t.co/SSrhwKIt44",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "john_zwiers",
+					"name": "John Zwiers",
+					"id": 630595339,
+					"id_str": "630595339",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Mojo_JJ",
+					"name": "Jack Jurica",
+					"id": 322365926,
+					"id_str": "322365926",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SSrhwKIt44",
+					"expanded_url": "https://blogs.office.com/en-us/2017/04/19/onenote-class-notebook-updates-include-read-only-parent-or-guardian-access-and-collaboration-space-permissions/",
+					"display_url": "blogs.office.com/en-us/2017/04/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 904584293720006700,
+		"in_reply_to_status_id_str": "904584293720006656",
+		"in_reply_to_user_id": 630595339,
+		"in_reply_to_user_id_str": "630595339",
+		"in_reply_to_screen_name": "john_zwiers",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13216,
+			"friends_count": 4899,
+			"listed_count": 527,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19454,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 04 05:57:52 +0000 2017",
 		"id": 904584274912870400,
 		"id_str": "904584274912870400",
