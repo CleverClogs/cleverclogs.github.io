@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 05 06:23:33 +0000 2017",
+		"id": 904953127740289000,
+		"id_str": "904953127740289025",
+		"text": "New video by @TeamsUniverse, this time covering #OneNote Web Clipper. Nice example with embedded videos! \n[Spanish]… https://t.co/eTmzGMQSB3",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						48,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeamsUniverse",
+					"name": "MS Teams Universe",
+					"id": 846749548588486700,
+					"id_str": "846749548588486658",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eTmzGMQSB3",
+					"expanded_url": "https://twitter.com/i/web/status/904953127740289025",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Microsoft #OneNote tips, news and resources. Curation: Marjolein Hoekstra – OneNote MVP. Independent OneNote trainer & consultant. #MSFTEduChat director.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13228,
+			"friends_count": 4918,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19478,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18031,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896081166536781827/AusEPly9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 904820924276408300,
+		"quoted_status_id_str": "904820924276408321",
+		"quoted_status": {
+			"created_at": "Mon Sep 04 21:38:13 +0000 2017",
+			"id": 904820924276408300,
+			"id_str": "904820924276408321",
+			"text": "¡Nuevo vídeo en nuestro canal! \"Clip to One Note\" 📎🖇️ https://t.co/V8fcJqIARI by @jl_terol | #MicrosoftTeams… https://t.co/GvOx3eVj87",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftTeams",
+						"indices": [
+							93,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jl_terol",
+						"name": "José Luís Terol",
+						"id": 2572599250,
+						"id_str": "2572599250",
+						"indices": [
+							81,
+							90
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/V8fcJqIARI",
+						"expanded_url": "https://youtu.be/Icn_63wOu5I",
+						"display_url": "youtu.be/Icn_63wOu5I",
+						"indices": [
+							54,
+							77
+						]
+					},
+					{
+						"url": "https://t.co/GvOx3eVj87",
+						"expanded_url": "https://twitter.com/i/web/status/904820924276408321",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 846749548588486700,
+				"id_str": "846749548588486658",
+				"name": "MS Teams Universe",
+				"screen_name": "TeamsUniverse",
+				"location": "",
+				"description": "Would you like to discover everything about #MicrosoftTeams in #Education?",
+				"url": "https://t.co/k75YKfUAhL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k75YKfUAhL",
+								"expanded_url": "https://www.youtube.com/channel/UCbUzFgiPQPhK7S30u9yoGUQ",
+								"display_url": "youtube.com/channel/UCbUzF…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 438,
+				"friends_count": 376,
+				"listed_count": 5,
+				"created_at": "Tue Mar 28 15:43:19 +0000 2017",
+				"favourites_count": 321,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 331,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874392328605138944/auQax1lW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874392328605138944/auQax1lW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/846749548588486658/1497306524",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 05 05:37:30 +0000 2017",
 		"id": 904941537016123400,
 		"id_str": "904941537016123392",
