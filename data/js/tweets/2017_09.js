@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sun Sep 10 18:52:09 +0000 2017",
+		"id": 906953460070850600,
+		"id_str": "906953460070850560",
+		"text": "RT @GmedranoTIC: Developing my #creativity for #STEM #MSFTEduChat on Sept 19 https://t.co/3ds9rCUG3B @MicrosoftEDU @mraspinall @katjaborreg…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "creativity",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						53,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GmedranoTIC",
+					"name": "Guillermo Medrano",
+					"id": 783287228,
+					"id_str": "783287228",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						101,
+						114
+					]
+				},
+				{
+					"screen_name": "mraspinall",
+					"name": "Brian Aspinall",
+					"id": 42602780,
+					"id_str": "42602780",
+					"indices": [
+						115,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3ds9rCUG3B",
+					"expanded_url": "https://educationblog.microsoft.com/2017/09/creativity-with-stem-msfteduchat-tweetmeet-sept-19/",
+					"display_url": "educationblog.microsoft.com/2017/09/creati…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13300,
+			"friends_count": 4947,
+			"listed_count": 524,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19556,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 09 10:38:21 +0000 2017",
+			"id": 906466800879194100,
+			"id_str": "906466800879194112",
+			"text": "Developing my #creativity for #STEM #MSFTEduChat on Sept 19 https://t.co/3ds9rCUG3B @MicrosoftEDU @mraspinall… https://t.co/ChURTd0Hkm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "creativity",
+						"indices": [
+							14,
+							25
+						]
+					},
+					{
+						"text": "STEM",
+						"indices": [
+							30,
+							35
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							36,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							84,
+							97
+						]
+					},
+					{
+						"screen_name": "mraspinall",
+						"name": "Brian Aspinall",
+						"id": 42602780,
+						"id_str": "42602780",
+						"indices": [
+							98,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3ds9rCUG3B",
+						"expanded_url": "https://educationblog.microsoft.com/2017/09/creativity-with-stem-msfteduchat-tweetmeet-sept-19/",
+						"display_url": "educationblog.microsoft.com/2017/09/creati…",
+						"indices": [
+							60,
+							83
+						]
+					},
+					{
+						"url": "https://t.co/ChURTd0Hkm",
+						"expanded_url": "https://twitter.com/i/web/status/906466800879194112",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 783287228,
+				"id_str": "783287228",
+				"name": "Guillermo Medrano",
+				"screen_name": "GmedranoTIC",
+				"location": "Logroño",
+				"description": "Lively teaching XXI century skills. Technical mind, artistic heart. PhD Engineer. Spain #eTwinning #etwiam #FCL_es #MIEExpert #SkypeMT📱💻🖥️",
+				"url": "https://t.co/eaMxkJdAJc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eaMxkJdAJc",
+								"expanded_url": "http://gmedranotic.wordpress.com/",
+								"display_url": "gmedranotic.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1276,
+				"friends_count": 1079,
+				"listed_count": 122,
+				"created_at": "Sun Aug 26 22:11:22 +0000 2012",
+				"favourites_count": 1685,
+				"utc_offset": 7200,
+				"time_zone": "Madrid",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1597,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452373839100399616/oxR29vTN.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452373839100399616/oxR29vTN.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906868277137330176/J2wx8eBA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906868277137330176/J2wx8eBA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/783287228/1497459288",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 10 00:44:15 +0000 2017",
 		"id": 906679679033139200,
 		"id_str": "906679679033139200",
