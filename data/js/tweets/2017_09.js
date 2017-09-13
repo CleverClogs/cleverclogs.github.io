@@ -1,6 +1,544 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 13 22:41:57 +0000 2017",
+		"id": 908098454886350800,
+		"id_str": "908098454886350848",
+		"text": "RT @mack_usmie: We are now fully CAPE-able of using #OneNote. Thanks @mtholfsen! #MicrosoftinEDU https://t.co/f2shyRKP32",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "MicrosoftinEDU",
+					"indices": [
+						81,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mack_usmie",
+					"name": "Mallory Mack",
+					"id": 896033153747374100,
+					"id_str": "896033153747374080",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						69,
+						79
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 908085181239541800,
+					"id_str": "908085181239541760",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908085181239541760/pu/img/HdhPEIaLDnrG-1QM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908085181239541760/pu/img/HdhPEIaLDnrG-1QM.jpg",
+					"url": "https://t.co/f2shyRKP32",
+					"display_url": "pic.twitter.com/f2shyRKP32",
+					"expanded_url": "https://twitter.com/mack_usmie/status/908085311552417792/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908085311552417800,
+					"source_status_id_str": "908085311552417792",
+					"source_user_id": 896033153747374100,
+					"source_user_id_str": "896033153747374080"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 908085181239541800,
+					"id_str": "908085181239541760",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908085181239541760/pu/img/HdhPEIaLDnrG-1QM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908085181239541760/pu/img/HdhPEIaLDnrG-1QM.jpg",
+					"url": "https://t.co/f2shyRKP32",
+					"display_url": "pic.twitter.com/f2shyRKP32",
+					"expanded_url": "https://twitter.com/mack_usmie/status/908085311552417792/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908085311552417800,
+					"source_status_id_str": "908085311552417792",
+					"source_user_id": 896033153747374100,
+					"source_user_id_str": "896033153747374080",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 5700,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/908085181239541760/pu/vid/360x640/bmhteqUfULiplWoV.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/908085181239541760/pu/pl/X4FmvHtZ5-dgCz8r.m3u8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/908085181239541760/pu/vid/720x1280/fbIppul4XygXobuI.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/908085181239541760/pu/vid/180x320/QWTvg1pU1flvRGzh.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 896033153747374100,
+							"id_str": "896033153747374080",
+							"name": "Mallory Mack",
+							"screen_name": "mack_usmie",
+							"location": "San Diego, CA",
+							"description": "Microsoft Learning Consultant. Fostering relationships between educators and technology in education. 👩‍🏫🍎💻",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 31,
+							"friends_count": 171,
+							"listed_count": 3,
+							"created_at": "Fri Aug 11 15:38:46 +0000 2017",
+							"favourites_count": 2,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 10,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/897899561087246336/z57HWqAj_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/897899561087246336/z57HWqAj_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/896033153747374080/1505327357",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13350,
+			"friends_count": 4954,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19556,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18116,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 13 21:49:44 +0000 2017",
+			"id": 908085311552417800,
+			"id_str": "908085311552417792",
+			"text": "We are now fully CAPE-able of using #OneNote. Thanks @mtholfsen! #MicrosoftinEDU https://t.co/f2shyRKP32",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							36,
+							44
+						]
+					},
+					{
+						"text": "MicrosoftinEDU",
+						"indices": [
+							65,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							53,
+							63
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 908085181239541800,
+						"id_str": "908085181239541760",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908085181239541760/pu/img/HdhPEIaLDnrG-1QM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908085181239541760/pu/img/HdhPEIaLDnrG-1QM.jpg",
+						"url": "https://t.co/f2shyRKP32",
+						"display_url": "pic.twitter.com/f2shyRKP32",
+						"expanded_url": "https://twitter.com/mack_usmie/status/908085311552417792/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 908085181239541800,
+						"id_str": "908085181239541760",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/908085181239541760/pu/img/HdhPEIaLDnrG-1QM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/908085181239541760/pu/img/HdhPEIaLDnrG-1QM.jpg",
+						"url": "https://t.co/f2shyRKP32",
+						"display_url": "pic.twitter.com/f2shyRKP32",
+						"expanded_url": "https://twitter.com/mack_usmie/status/908085311552417792/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 5700,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/908085181239541760/pu/vid/360x640/bmhteqUfULiplWoV.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/908085181239541760/pu/pl/X4FmvHtZ5-dgCz8r.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/908085181239541760/pu/vid/720x1280/fbIppul4XygXobuI.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/908085181239541760/pu/vid/180x320/QWTvg1pU1flvRGzh.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 896033153747374100,
+				"id_str": "896033153747374080",
+				"name": "Mallory Mack",
+				"screen_name": "mack_usmie",
+				"location": "San Diego, CA",
+				"description": "Microsoft Learning Consultant. Fostering relationships between educators and technology in education. 👩‍🏫🍎💻",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31,
+				"friends_count": 171,
+				"listed_count": 3,
+				"created_at": "Fri Aug 11 15:38:46 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897899561087246336/z57HWqAj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897899561087246336/z57HWqAj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/896033153747374080/1505327357",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9f7d8a5887000",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9f7d8a5887000.json",
+				"place_type": "poi",
+				"name": "Microsoft Corporation",
+				"full_name": "Microsoft Corporation",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.13771255288188,
+								47.64475634251792
+							],
+							[
+								-122.13771255288188,
+								47.64475634251792
+							],
+							[
+								-122.13771255288188,
+								47.64475634251792
+							],
+							[
+								-122.13771255288188,
+								47.64475634251792
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 13 21:21:50 +0000 2017",
 		"id": 908078289033588700,
 		"id_str": "908078289033588736",
