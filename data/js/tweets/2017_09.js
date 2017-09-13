@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 13 21:21:50 +0000 2017",
+		"id": 908078289033588700,
+		"id_str": "908078289033588736",
+		"text": "Cookie Lovers' dream come true! @OfficeInsider's creative team designed this animated GIF to announce #Road2Cookies\nhttps://t.co/uh7Y4sRyD5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Road2Cookies",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OfficeInsider",
+					"name": "MS Office Insiders",
+					"id": 4444936638,
+					"id_str": "4444936638",
+					"indices": [
+						32,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 908027528853549000,
+					"id_str": "908027528853549056",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJn2Of-XcAAG-Y2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJn2Of-XcAAG-Y2.jpg",
+					"url": "https://t.co/uh7Y4sRyD5",
+					"display_url": "pic.twitter.com/uh7Y4sRyD5",
+					"expanded_url": "https://twitter.com/OfficeInsider/status/908027556250750977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908027556250751000,
+					"source_status_id_str": "908027556250750977",
+					"source_user_id": 4444936638,
+					"source_user_id_str": "4444936638"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 908027528853549000,
+					"id_str": "908027528853549056",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DJn2Of-XcAAG-Y2.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJn2Of-XcAAG-Y2.jpg",
+					"url": "https://t.co/uh7Y4sRyD5",
+					"display_url": "pic.twitter.com/uh7Y4sRyD5",
+					"expanded_url": "https://twitter.com/OfficeInsider/status/908027556250750977/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908027556250751000,
+					"source_status_id_str": "908027556250750977",
+					"source_user_id": 4444936638,
+					"source_user_id_str": "4444936638",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DJn2Of-XcAAG-Y2.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13349,
+			"friends_count": 4950,
+			"listed_count": 524,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19555,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18115,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 13 17:48:39 +0000 2017",
 		"id": 908024642320904200,
 		"id_str": "908024642320904205",
