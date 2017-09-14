@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 14 05:29:32 +0000 2017",
+		"id": 908201026511028200,
+		"id_str": "908201026511028229",
+		"text": "Such an adorable update from Microsoft Learning Consultant @cybersavvygirl and her #FutureMIE baby!\ncc @LBayne… https://t.co/EYRGSxomuL",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FutureMIE",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cybersavvygirl",
+					"name": "Danielle K. Vogel",
+					"id": 211300132,
+					"id_str": "211300132",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"screen_name": "LBayne",
+					"name": "LBayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EYRGSxomuL",
+					"expanded_url": "https://twitter.com/i/web/status/908201026511028229",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13355,
+			"friends_count": 4954,
+			"listed_count": 526,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19558,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 908109649806798800,
+		"quoted_status_id_str": "908109649806798848",
+		"quoted_status": {
+			"created_at": "Wed Sep 13 23:26:27 +0000 2017",
+			"id": 908109649806798800,
+			"id_str": "908109649806798848",
+			"text": "Bummed I couldn't join the MLC crew in Redmond but this future #MIEExpert is worth the missed trip! Happy 2 join vi… https://t.co/8bkT6o1gQ0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							63,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8bkT6o1gQ0",
+						"expanded_url": "https://twitter.com/i/web/status/908109649806798848",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 211300132,
+				"id_str": "211300132",
+				"name": "Danielle K. Vogel",
+				"screen_name": "cybersavvygirl",
+				"location": "Katy, TX",
+				"description": "Microsoft Learning Consultant #MIEExpert | Tech Innovator | Lover of Learning & Laughter",
+				"url": "https://t.co/2caSTxSptO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2caSTxSptO",
+								"expanded_url": "http://www.edugatorvogel.com",
+								"display_url": "edugatorvogel.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 605,
+				"friends_count": 364,
+				"listed_count": 48,
+				"created_at": "Tue Nov 02 21:45:19 +0000 2010",
+				"favourites_count": 791,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 729,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869607629961678848/oJ_6WCN9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869607629961678848/oJ_6WCN9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/211300132/1400701306",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 13 22:41:57 +0000 2017",
 		"id": 908098454886350800,
 		"id_str": "908098454886350848",
@@ -167,7 +408,7 @@ Grailbird.data.tweets_2017_09 =
 							"name": "Mallory Mack",
 							"screen_name": "mack_usmie",
 							"location": "San Diego, CA",
-							"description": "Microsoft Learning Consultant. Fostering relationships between educators and technology in education. 👩‍🏫🍎💻",
+							"description": "Microsoft Learning Consultant. Fostering relationships between educators and technology in education. 👩🏫🍎💻",
 							"url": null,
 							"entities": {
 								"description": {
@@ -443,7 +684,7 @@ Grailbird.data.tweets_2017_09 =
 				"name": "Mallory Mack",
 				"screen_name": "mack_usmie",
 				"location": "San Diego, CA",
-				"description": "Microsoft Learning Consultant. Fostering relationships between educators and technology in education. 👩‍🏫🍎💻",
+				"description": "Microsoft Learning Consultant. Fostering relationships between educators and technology in education. 👩🏫🍎💻",
 				"url": null,
 				"entities": {
 					"description": {
