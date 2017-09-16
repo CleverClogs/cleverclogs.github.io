@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 16 13:51:40 +0000 2017",
+		"id": 909052165234221000,
+		"id_str": "909052165234221056",
+		"text": "Annotation Stations help students build key analytical skills. \nby @KarlaHilliard\n#OneNote would be a great tool fo… https://t.co/bvORCTZ5Re",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karlahilliard",
+					"name": "Karla Hilliard",
+					"id": 2510571980,
+					"id_str": "2510571980",
+					"indices": [
+						67,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bvORCTZ5Re",
+					"expanded_url": "https://twitter.com/i/web/status/909052165234221056",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13388,
+			"friends_count": 4960,
+			"listed_count": 524,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19581,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 908442555179774000,
+		"quoted_status_id_str": "908442555179773952",
+		"quoted_status": {
+			"created_at": "Thu Sep 14 21:29:17 +0000 2017",
+			"id": 908442555179774000,
+			"id_str": "908442555179773952",
+			"text": "Need your next lesson? Check out this post by @karlahilliard! @ncte #wvedchat\n\nhttps://t.co/lZC6fpoQpH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "wvedchat",
+						"indices": [
+							68,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "karlahilliard",
+						"name": "Karla Hilliard",
+						"id": 2510571980,
+						"id_str": "2510571980",
+						"indices": [
+							46,
+							60
+						]
+					},
+					{
+						"screen_name": "ncte",
+						"name": "NCTE",
+						"id": 41362922,
+						"id_str": "41362922",
+						"indices": [
+							62,
+							67
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lZC6fpoQpH",
+						"expanded_url": "https://wvcte.com/your-next-lesson-annotation-stations/",
+						"display_url": "wvcte.com/your-next-less…",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3314932803,
+				"id_str": "3314932803",
+				"name": "WVCTE",
+				"screen_name": "wvcte",
+				"location": "West Virginia, USA",
+				"description": "The West Virginia Council of Teachers of English is an organization dedicated to serving the students and teachers of WV through language arts and literacy.",
+				"url": "https://t.co/zH97YLYViw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zH97YLYViw",
+								"expanded_url": "http://www.wvcte.com",
+								"display_url": "wvcte.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 268,
+				"friends_count": 302,
+				"listed_count": 9,
+				"created_at": "Tue Jun 09 13:21:34 +0000 2015",
+				"favourites_count": 424,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 626,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903771093441421312/vwUxlj_D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903771093441421312/vwUxlj_D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3314932803/1497448893",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 86,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 15 23:45:28 +0000 2017",
 		"id": 908839214648660000,
 		"id_str": "908839214648659968",
