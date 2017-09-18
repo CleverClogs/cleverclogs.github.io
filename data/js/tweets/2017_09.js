@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 18 15:09:58 +0000 2017",
+		"id": 909796648691347500,
+		"id_str": "909796648691347461",
+		"text": "RT @cyberantiquity: Ancient Greek looks great in OneNote!  @msonenote @OneNoteEDU @OneNoteC #MIEExpert #MicrosoftEDU https://t.co/PheNAMgZbT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						103,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cyberantiquity",
+					"name": "Valentina DeNardis",
+					"id": 3961488843,
+					"id_str": "3961488843",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 909777414942847000,
+					"id_str": "909777414942846977",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DKAtvRpXcAE0C5J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKAtvRpXcAE0C5J.jpg",
+					"url": "https://t.co/PheNAMgZbT",
+					"display_url": "pic.twitter.com/PheNAMgZbT",
+					"expanded_url": "https://twitter.com/cyberantiquity/status/909777482404040704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1049,
+							"h": 719,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1049,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 909777482404040700,
+					"source_status_id_str": "909777482404040704",
+					"source_user_id": 3961488843,
+					"source_user_id_str": "3961488843"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 909777414942847000,
+					"id_str": "909777414942846977",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/DKAtvRpXcAE0C5J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKAtvRpXcAE0C5J.jpg",
+					"url": "https://t.co/PheNAMgZbT",
+					"display_url": "pic.twitter.com/PheNAMgZbT",
+					"expanded_url": "https://twitter.com/cyberantiquity/status/909777482404040704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1049,
+							"h": 719,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1049,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 909777482404040700,
+					"source_status_id_str": "909777482404040704",
+					"source_user_id": 3961488843,
+					"source_user_id_str": "3961488843"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13412,
+			"friends_count": 4968,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19669,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 18 13:53:49 +0000 2017",
+			"id": 909777482404040700,
+			"id_str": "909777482404040704",
+			"text": "Ancient Greek looks great in OneNote!  @msonenote @OneNoteEDU @OneNoteC #MIEExpert #MicrosoftEDU https://t.co/PheNAMgZbT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							72,
+							82
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							83,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							39,
+							49
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							50,
+							61
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							62,
+							71
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 909777414942847000,
+						"id_str": "909777414942846977",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DKAtvRpXcAE0C5J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKAtvRpXcAE0C5J.jpg",
+						"url": "https://t.co/PheNAMgZbT",
+						"display_url": "pic.twitter.com/PheNAMgZbT",
+						"expanded_url": "https://twitter.com/cyberantiquity/status/909777482404040704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1049,
+								"h": 719,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1049,
+								"h": 719,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 466,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 909777414942847000,
+						"id_str": "909777414942846977",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DKAtvRpXcAE0C5J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKAtvRpXcAE0C5J.jpg",
+						"url": "https://t.co/PheNAMgZbT",
+						"display_url": "pic.twitter.com/PheNAMgZbT",
+						"expanded_url": "https://twitter.com/cyberantiquity/status/909777482404040704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1049,
+								"h": 719,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1049,
+								"h": 719,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 466,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3961488843,
+				"id_str": "3961488843",
+				"name": "Valentina DeNardis",
+				"screen_name": "cyberantiquity",
+				"location": "",
+				"description": "Where the past meets the future.  Tweets by Valentina DeNardis, Classics professor, #MIEExpert, @msonenote enthusiast",
+				"url": "https://t.co/m3xJ7EGIuE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m3xJ7EGIuE",
+								"expanded_url": "https://cyberantiquity.wordpress.com/",
+								"display_url": "cyberantiquity.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148,
+				"friends_count": 201,
+				"listed_count": 16,
+				"created_at": "Thu Oct 15 03:14:29 +0000 2015",
+				"favourites_count": 397,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 128,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660272993721954304/SSvByx1R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660272993721954304/SSvByx1R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3961488843/1446255207",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 18 14:36:45 +0000 2017",
+		"id": 909788287472160800,
+		"id_str": "909788287472160770",
+		"text": "RT @neerumittal11: Of #STEM education and more. Storifying STEM innovation at our school. Inspired by #MSFTEduChat &amp; @OneNoteC \nhttps://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEM",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neerumittal11",
+					"name": "neeru mittal",
+					"id": 273837539,
+					"id_str": "273837539",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13412,
+			"friends_count": 4968,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19669,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 18 13:48:25 +0000 2017",
+			"id": 909776124451766300,
+			"id_str": "909776124451766273",
+			"text": "Of #STEM education and more. Storifying STEM innovation at our school. Inspired by #MSFTEduChat &amp; @OneNoteC \nhttps://t.co/1QRtbs8WqD?amp=1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "STEM",
+						"indices": [
+							3,
+							8
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							83,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							102,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1QRtbs8WqD",
+						"expanded_url": "https://youtu.be/ktgMBWffulI",
+						"display_url": "youtu.be/ktgMBWffulI",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273837539,
+				"id_str": "273837539",
+				"name": "neeru mittal",
+				"screen_name": "neerumittal11",
+				"location": "",
+				"description": "Microsoft Innovative Educator Expert, Skype Master teacher, MCE, MCA, PGT Computer Science SRDAV Public School , Microsoft Educator Trainer, STEM educator",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 267,
+				"friends_count": 295,
+				"listed_count": 32,
+				"created_at": "Tue Mar 29 07:58:45 +0000 2011",
+				"favourites_count": 377,
+				"utc_offset": 19800,
+				"time_zone": "New Delhi",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 981,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905818973685420032/Wb6Zg0Az_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905818973685420032/Wb6Zg0Az_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273837539/1479229867",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 18 14:36:16 +0000 2017",
+		"id": 909788166068064300,
+		"id_str": "909788166068064258",
+		"text": "@cyberantiquity @msonenote @OneNoteEDU I still like the looks of Ancient Greek text, with the spiritus lenis, spiri… https://t.co/R1TFjWnBaM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cyberantiquity",
+					"name": "Valentina DeNardis",
+					"id": 3961488843,
+					"id_str": "3961488843",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R1TFjWnBaM",
+					"expanded_url": "https://twitter.com/i/web/status/909788166068064258",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 909777482404040700,
+		"in_reply_to_status_id_str": "909777482404040704",
+		"in_reply_to_user_id": 3961488843,
+		"in_reply_to_user_id_str": "3961488843",
+		"in_reply_to_screen_name": "cyberantiquity",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13412,
+			"friends_count": 4968,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19669,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 18 09:49:13 +0000 2017",
 		"id": 909715929013071900,
 		"id_str": "909715929013071872",
