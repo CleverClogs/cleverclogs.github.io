@@ -1,6 +1,519 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 21 22:13:41 +0000 2017",
+		"id": 910990441415413800,
+		"id_str": "910990441415413763",
+		"text": "RT @pipcleaves: Now that #OneNote Windows app has highlighters, I’m officially moving over... #letsdothisteam",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "letsdothisteam",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pipcleaves",
+					"name": "Pip Cleaves",
+					"id": 30757847,
+					"id_str": "30757847",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13468,
+			"friends_count": 5000,
+			"listed_count": 524,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19804,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18303,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 21 21:52:28 +0000 2017",
+			"id": 910985103022551000,
+			"id_str": "910985103022551040",
+			"text": "Now that #OneNote Windows app has highlighters, I’m officially moving over... #letsdothisteam",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							9,
+							17
+						]
+					},
+					{
+						"text": "letsdothisteam",
+						"indices": [
+							78,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30757847,
+				"id_str": "30757847",
+				"name": "Pip Cleaves",
+				"screen_name": "pipcleaves",
+				"location": "Sydney, NSW Australia",
+				"description": "Senior Education Consultant at DLE | Microsoft Learning Consultant | ACU Sessional Lecturer",
+				"url": "https://t.co/O1dXLOSgDm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O1dXLOSgDm",
+								"expanded_url": "http://dle.net.au",
+								"display_url": "dle.net.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6604,
+				"friends_count": 2853,
+				"listed_count": 331,
+				"created_at": "Mon Apr 13 00:18:24 +0000 2009",
+				"favourites_count": 6738,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34620,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897604648219037696/3P1Mrjrg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897604648219037696/3P1Mrjrg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30757847/1499902624",
+				"profile_link_color": "319B42",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 21 21:54:32 +0000 2017",
+		"id": 910985621463760900,
+		"id_str": "910985621463760896",
+		"text": "RT @HCPSArea2: @LipEdTech @CannellaElem @RichwineM @OneNoteEDU @OneNoteC This is great. Thanks for sharing Megan! -MNM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HCPSArea2",
+					"name": "HCPS Area 2",
+					"id": 765165584069820400,
+					"id_str": "765165584069820416",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "LipEdTech",
+					"name": "Megan Lipinczyk",
+					"id": 2740080795,
+					"id_str": "2740080795",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "CannellaElem",
+					"name": "Cannella Elementary",
+					"id": 357373522,
+					"id_str": "357373522",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "RichwineM",
+					"name": "Melinda",
+					"id": 3403549468,
+					"id_str": "3403549468",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13468,
+			"friends_count": 5000,
+			"listed_count": 524,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19804,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18303,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 21 21:48:11 +0000 2017",
+			"id": 910984024969171000,
+			"id_str": "910984024969170944",
+			"text": "@LipEdTech @CannellaElem @RichwineM @OneNoteEDU @OneNoteC This is great. Thanks for sharing Megan! -MNM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LipEdTech",
+						"name": "Megan Lipinczyk",
+						"id": 2740080795,
+						"id_str": "2740080795",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "CannellaElem",
+						"name": "Cannella Elementary",
+						"id": 357373522,
+						"id_str": "357373522",
+						"indices": [
+							11,
+							24
+						]
+					},
+					{
+						"screen_name": "RichwineM",
+						"name": "Melinda",
+						"id": 3403549468,
+						"id_str": "3403549468",
+						"indices": [
+							25,
+							35
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							36,
+							47
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							48,
+							57
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 910982029721980900,
+			"in_reply_to_status_id_str": "910982029721980928",
+			"in_reply_to_user_id": 2740080795,
+			"in_reply_to_user_id_str": "2740080795",
+			"in_reply_to_screen_name": "LipEdTech",
+			"user": {
+				"id": 765165584069820400,
+				"id_str": "765165584069820416",
+				"name": "HCPS Area 2",
+				"screen_name": "HCPSArea2",
+				"location": "Hillsborough County",
+				"description": "@HillsboroughSch Area 2 supporting 32 schools in the Tampa area as they Prepare Students for Life. Area Superintendent: Marcos Murillo",
+				"url": "https://t.co/sqWoSzt1Hg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sqWoSzt1Hg",
+								"expanded_url": "http://www.sdhc.k12.fl.us/departments/191/area-superintendent-area-2/about/",
+								"display_url": "sdhc.k12.fl.us/departments/19…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 512,
+				"friends_count": 250,
+				"listed_count": 4,
+				"created_at": "Mon Aug 15 12:37:46 +0000 2016",
+				"favourites_count": 650,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 490,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884465329920933888/flgEG327_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884465329920933888/flgEG327_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/765165584069820416/1471264807",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 21 20:01:19 +0000 2017",
 		"id": 910957130320146400,
 		"id_str": "910957130320146434",
