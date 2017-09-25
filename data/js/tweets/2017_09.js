@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 25 17:52:24 +0000 2017",
+		"id": 912374239562526700,
+		"id_str": "912374239562526721",
+		"text": "It's perfectly fine to learn and like where #OneNote is headed. Watch the crowds attending @StaleHansen's… https://t.co/cx1rtsxxEe",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StaleHansen",
+					"name": "Ståle Hansen",
+					"id": 83465282,
+					"id_str": "83465282",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cx1rtsxxEe",
+					"expanded_url": "https://twitter.com/i/web/status/912374239562526721",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13497,
+			"friends_count": 5008,
+			"listed_count": 524,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19899,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 912371250558840800,
+		"quoted_status_id_str": "912371250558840832",
+		"quoted_status": {
+			"created_at": "Mon Sep 25 17:40:31 +0000 2017",
+			"id": 912371250558840800,
+			"id_str": "912371250558840832",
+			"text": "Huge crowd enjoying OneNote gems for personal productivity by @StaleHansen at #MSIgnite. https://t.co/9FN0gGZe3s",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSIgnite",
+						"indices": [
+							78,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StaleHansen",
+						"name": "Ståle Hansen",
+						"id": 83465282,
+						"id_str": "83465282",
+						"indices": [
+							62,
+							74
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 912370950187962400,
+						"id_str": "912370950187962370",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DKlki5VW0AIo0-Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKlki5VW0AIo0-Q.jpg",
+						"url": "https://t.co/9FN0gGZe3s",
+						"display_url": "pic.twitter.com/9FN0gGZe3s",
+						"expanded_url": "https://twitter.com/rappen/status/912371250558840832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 685,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1169,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 388,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 912370950187962400,
+						"id_str": "912370950187962370",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DKlki5VW0AIo0-Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKlki5VW0AIo0-Q.jpg",
+						"url": "https://t.co/9FN0gGZe3s",
+						"display_url": "pic.twitter.com/9FN0gGZe3s",
+						"expanded_url": "https://twitter.com/rappen/status/912371250558840832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 685,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1169,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 388,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14048709,
+				"id_str": "14048709",
+				"name": "Jonas Rapp",
+				"screen_name": "rappen",
+				"location": "Stockholm, Sweden",
+				"description": "Microsoft MVP #MSDyn365. Developer. Speaker. XrmToolBox https://t.co/tihu8dMpQC https://t.co/AlMqFiZ0Kp https://t.co/A6OWz21Itx",
+				"url": "https://t.co/O7njrOwgVQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O7njrOwgVQ",
+								"expanded_url": "http://jonasrapp.innofactor.se",
+								"display_url": "jonasrapp.innofactor.se",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tihu8dMpQC",
+								"expanded_url": "http://fxb.xrmtoolbox.com",
+								"display_url": "fxb.xrmtoolbox.com",
+								"indices": [
+									56,
+									79
+								]
+							},
+							{
+								"url": "https://t.co/AlMqFiZ0Kp",
+								"expanded_url": "http://ptv.xrmtoolbox.com",
+								"display_url": "ptv.xrmtoolbox.com",
+								"indices": [
+									80,
+									103
+								]
+							},
+							{
+								"url": "https://t.co/A6OWz21Itx",
+								"expanded_url": "http://swedishfootballnetwork.se/rappen",
+								"display_url": "swedishfootballnetwork.se/rappen",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 646,
+				"friends_count": 328,
+				"listed_count": 43,
+				"created_at": "Wed Feb 27 13:10:29 +0000 2008",
+				"favourites_count": 884,
+				"utc_offset": 7200,
+				"time_zone": "Stockholm",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2687,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2308733/DSC00229b.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2308733/DSC00229b.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897818133569908736/66aoSEWJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897818133569908736/66aoSEWJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14048709/1490280132",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 25 16:44:44 +0000 2017",
 		"id": 912357212412170200,
 		"id_str": "912357212412170241",
