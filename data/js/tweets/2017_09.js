@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 26 19:56:40 +0000 2017",
+		"id": 912767898883674100,
+		"id_str": "912767898883674112",
+		"text": "Any takers for this @SharePoint blogging question by @Jaren_Havell here? \n@HansBrender @StaleHansen @DarrellaaS… https://t.co/nMnK1X7ZQe",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SharePoint",
+					"name": "Microsoft SharePoint",
+					"id": 26541422,
+					"id_str": "26541422",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "Jaren_Havell",
+					"name": "Jaren Havell",
+					"id": 187346475,
+					"id_str": "187346475",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"screen_name": "HansBrender",
+					"name": "Hans Brender",
+					"id": 18921160,
+					"id_str": "18921160",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"screen_name": "StaleHansen",
+					"name": "Ståle Hansen",
+					"id": 83465282,
+					"id_str": "83465282",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"screen_name": "DarrellaaS",
+					"name": "Darrell as a Service",
+					"id": 401809242,
+					"id_str": "401809242",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nMnK1X7ZQe",
+					"expanded_url": "https://twitter.com/i/web/status/912767898883674112",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13510,
+			"friends_count": 5011,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19918,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18363,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 912730919789834200,
+		"quoted_status_id_str": "912730919789834240",
+		"quoted_status": {
+			"created_at": "Tue Sep 26 17:29:43 +0000 2017",
+			"id": 912730919789834200,
+			"id_str": "912730919789834240",
+			"text": "hey @MSAUedu @MSFTMechanics is there an update on how to blog from OneNote &gt; Sharepoint? Does not seem to work with 'Communication Sites\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MSAUedu",
+						"name": "Microsoft Education",
+						"id": 3666731533,
+						"id_str": "3666731533",
+						"indices": [
+							4,
+							12
+						]
+					},
+					{
+						"screen_name": "MSFTMechanics",
+						"name": "Microsoft Mechanics",
+						"id": 1648629770,
+						"id_str": "1648629770",
+						"indices": [
+							13,
+							27
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 187346475,
+				"id_str": "187346475",
+				"name": "Jaren Havell",
+				"screen_name": "Jaren_Havell",
+				"location": "Connecticut",
+				"description": "I'm a Geek with too many hobbies. Electronics, Photography, Bikes- For my day job, I work in IT at a K-12 integrating technology into the classroom.",
+				"url": "http://t.co/U9t2JaSHcZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/U9t2JaSHcZ",
+								"expanded_url": "http://www.jarenhavell.com",
+								"display_url": "jarenhavell.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 313,
+				"friends_count": 257,
+				"listed_count": 10,
+				"created_at": "Mon Sep 06 00:03:07 +0000 2010",
+				"favourites_count": 12,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5287,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/174344702/C360_2010-10-09_11-06-36.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/174344702/C360_2010-10-09_11-06-36.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1205095487/IMAG0049s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205095487/IMAG0049s_normal.jpg",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 26 19:52:08 +0000 2017",
+		"id": 912766759773589500,
+		"id_str": "912766759773589504",
+		"text": "@d135_1r43 @evernote @msonenote Something tells me you might appreciate to have a look at @OneNoteBlog by fellow… https://t.co/F8JqB6YkcO",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "d135_1r43",
+					"name": "Markus Herhoffer",
+					"id": 16334634,
+					"id_str": "16334634",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "evernote",
+					"name": "Evernote",
+					"id": 13837292,
+					"id_str": "13837292",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "OneNoteBlog",
+					"name": "OneNote-Blog",
+					"id": 2294308608,
+					"id_str": "2294308608",
+					"indices": [
+						90,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F8JqB6YkcO",
+					"expanded_url": "https://twitter.com/i/web/status/912766759773589504",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 912763606059688000,
+		"in_reply_to_status_id_str": "912763606059687937",
+		"in_reply_to_user_id": 16334634,
+		"in_reply_to_user_id_str": "16334634",
+		"in_reply_to_screen_name": "d135_1r43",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13510,
+			"friends_count": 5011,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19918,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18363,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 26 18:55:31 +0000 2017",
 		"id": 912752511211196400,
 		"id_str": "912752511211196419",
