@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 28 00:03:22 +0000 2017",
+		"id": 913192374154776600,
+		"id_str": "913192374154776577",
+		"text": "RT @shapscott: Join @lizscoble &amp; me Thursday to learn about @msonenote at #MSIgnite2017! https://t.co/OVMv91NwIX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSIgnite2017",
+					"indices": [
+						78,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shapscott",
+					"name": "(((Scott Shapiro)))",
+					"id": 241194422,
+					"id_str": "241194422",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "lizscoble",
+					"name": "Liz Scoble",
+					"id": 388494679,
+					"id_str": "388494679",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						64,
+						74
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 913169862687580200,
+					"id_str": "913169862687580160",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DKw7JuUV4AADjgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKw7JuUV4AADjgI.jpg",
+					"url": "https://t.co/OVMv91NwIX",
+					"display_url": "pic.twitter.com/OVMv91NwIX",
+					"expanded_url": "https://twitter.com/shapscott/status/913170065876557824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1715,
+							"h": 963,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 913170065876557800,
+					"source_status_id_str": "913170065876557824",
+					"source_user_id": 241194422,
+					"source_user_id_str": "241194422"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 913169862687580200,
+					"id_str": "913169862687580160",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DKw7JuUV4AADjgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKw7JuUV4AADjgI.jpg",
+					"url": "https://t.co/OVMv91NwIX",
+					"display_url": "pic.twitter.com/OVMv91NwIX",
+					"expanded_url": "https://twitter.com/shapscott/status/913170065876557824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1715,
+							"h": 963,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 913170065876557800,
+					"source_status_id_str": "913170065876557824",
+					"source_user_id": 241194422,
+					"source_user_id_str": "241194422"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13527,
+			"friends_count": 5015,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19936,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18385,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 27 22:34:44 +0000 2017",
+			"id": 913170065876557800,
+			"id_str": "913170065876557824",
+			"text": "Join @lizscoble &amp; me Thursday to learn about @msonenote at #MSIgnite2017! https://t.co/OVMv91NwIX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSIgnite2017",
+						"indices": [
+							63,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lizscoble",
+						"name": "Liz Scoble",
+						"id": 388494679,
+						"id_str": "388494679",
+						"indices": [
+							5,
+							15
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							49,
+							59
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 913169862687580200,
+						"id_str": "913169862687580160",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DKw7JuUV4AADjgI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKw7JuUV4AADjgI.jpg",
+						"url": "https://t.co/OVMv91NwIX",
+						"display_url": "pic.twitter.com/OVMv91NwIX",
+						"expanded_url": "https://twitter.com/shapscott/status/913170065876557824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1715,
+								"h": 963,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 913169862687580200,
+						"id_str": "913169862687580160",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DKw7JuUV4AADjgI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKw7JuUV4AADjgI.jpg",
+						"url": "https://t.co/OVMv91NwIX",
+						"display_url": "pic.twitter.com/OVMv91NwIX",
+						"expanded_url": "https://twitter.com/shapscott/status/913170065876557824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1715,
+								"h": 963,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 241194422,
+				"id_str": "241194422",
+				"name": "(((Scott Shapiro)))",
+				"screen_name": "shapscott",
+				"location": "Seattle, WA",
+				"description": "Microsoft OneNote, Intelligence (AI), Creativity (3D/Ink) & Education | Proud University of Michigan alum | All thoughts are my own | IG: shapscott",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 639,
+				"friends_count": 573,
+				"listed_count": 117,
+				"created_at": "Fri Jan 21 17:50:28 +0000 2011",
+				"favourites_count": 6314,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4675,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/864856110628339713/AaOXmHfd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/864856110628339713/AaOXmHfd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/241194422/1495032741",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 28 00:02:17 +0000 2017",
+		"id": 913192098932953100,
+		"id_str": "913192098932953088",
+		"text": "RT @IanMikutel: Learn how Microsoft Ink can make you more productive in my talk tmr, 9AM OCCC West 314. Live stream: https://t.co/u8dujWmkq…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanMikutel",
+					"name": "Ian Mikutel",
+					"id": 2157421,
+					"id_str": "2157421",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13527,
+			"friends_count": 5015,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 19936,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18385,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 27 23:07:29 +0000 2017",
+			"id": 913178310414348300,
+			"id_str": "913178310414348292",
+			"text": "Learn how Microsoft Ink can make you more productive in my talk tmr, 9AM OCCC West 314. Live stream:… https://t.co/5eYPrDk1t3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5eYPrDk1t3",
+						"expanded_url": "https://twitter.com/i/web/status/913178310414348292",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2157421,
+				"id_str": "2157421",
+				"name": "Ian Mikutel",
+				"screen_name": "IanMikutel",
+				"location": "Redmond, WA",
+				"description": "Sr Product Lead, Ink & AI @MSOneNote, Whiteboard. Investor in @ReadMeIO (YC W15), @SeeLaforge & @AmpleMeal. Lover of food, health, podcasts & life.",
+				"url": "https://t.co/sqUvpCtx8b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sqUvpCtx8b",
+								"expanded_url": "http://about.me/ianmk",
+								"display_url": "about.me/ianmk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2027,
+				"friends_count": 942,
+				"listed_count": 133,
+				"created_at": "Sun Mar 25 05:25:59 +0000 2007",
+				"favourites_count": 10776,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10389,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433828041412730880/eUKR4sqG.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433828041412730880/eUKR4sqG.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2157421/1404893964",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "4ec01c9dbc693497",
+				"url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json",
+				"place_type": "admin",
+				"name": "Florida",
+				"full_name": "Florida, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-87.634643,
+								24.396308
+							],
+							[
+								-79.974307,
+								24.396308
+							],
+							[
+								-79.974307,
+								31.001056
+							],
+							[
+								-87.634643,
+								31.001056
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 27 20:10:03 +0000 2017",
 		"id": 913133655672881200,
 		"id_str": "913133655672881152",
