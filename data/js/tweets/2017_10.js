@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 02 18:10:19 +0000 2017",
+		"id": 914915463527911400,
+		"id_str": "914915463527911424",
+		"text": "Good news in the pipeline from the Outlook for macOS team! Thanks, @Sunder_R. Let me know when you have something t… https://t.co/4MStKsjL9m",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sunder_r",
+					"name": "Sunder R",
+					"id": 47288807,
+					"id_str": "47288807",
+					"indices": [
+						67,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4MStKsjL9m",
+					"expanded_url": "https://twitter.com/i/web/status/914915463527911424",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13584,
+			"friends_count": 5029,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20004,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 914911353143418900,
+		"quoted_status_id_str": "914911353143418882",
+		"quoted_status": {
+			"created_at": "Mon Oct 02 17:53:59 +0000 2017",
+			"id": 914911353143418900,
+			"id_str": "914911353143418882",
+			"text": "@DarrellaaS @KbWorks @Outlook @msonenote @Office365 @shapscott @OneNoteC We are working on this: https://t.co/dtqRlM6N8R",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DarrellaaS",
+						"name": "Darrell as a Service",
+						"id": 401809242,
+						"id_str": "401809242",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "KbWorks",
+						"name": "Paul Keijzers",
+						"id": 85271847,
+						"id_str": "85271847",
+						"indices": [
+							12,
+							20
+						]
+					},
+					{
+						"screen_name": "Outlook",
+						"name": "Outlook",
+						"id": 605805760,
+						"id_str": "605805760",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							30,
+							40
+						]
+					},
+					{
+						"screen_name": "Office365",
+						"name": "Office 365",
+						"id": 137365854,
+						"id_str": "137365854",
+						"indices": [
+							41,
+							51
+						]
+					},
+					{
+						"screen_name": "shapscott",
+						"name": "(((Scott Shapiro)))",
+						"id": 241194422,
+						"id_str": "241194422",
+						"indices": [
+							52,
+							62
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							63,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dtqRlM6N8R",
+						"expanded_url": "https://outlook.uservoice.com/forums/293343-outlook-for-mac/suggestions/8083083-integrate-outlook-with-onenote",
+						"display_url": "outlook.uservoice.com/forums/293343-…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 914878659399368700,
+			"in_reply_to_status_id_str": "914878659399368705",
+			"in_reply_to_user_id": 401809242,
+			"in_reply_to_user_id_str": "401809242",
+			"in_reply_to_screen_name": "DarrellaaS",
+			"user": {
+				"id": 47288807,
+				"id_str": "47288807",
+				"name": "Sunder R",
+				"screen_name": "sunder_r",
+				"location": "California, USA",
+				"description": "Senior PM Manager, Outlook for Mac",
+				"url": "http://t.co/3ARo1ZdcWY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3ARo1ZdcWY",
+								"expanded_url": "http://blogs.msdn.com/sunder",
+								"display_url": "blogs.msdn.com/sunder",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 142,
+				"friends_count": 17,
+				"listed_count": 8,
+				"created_at": "Mon Jun 15 08:03:43 +0000 2009",
+				"favourites_count": 127,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 824,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/728020119759163392/-HFyWcIJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/728020119759163392/-HFyWcIJ_normal.jpg",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 02 17:44:04 +0000 2017",
+		"id": 914908856697925600,
+		"id_str": "914908856697925633",
+		"text": "RT @jmacattak: EquatIO now works in Microsoft Word! Prediction, LaTeX, handwriting recognition, &amp; Speech Input! #mtbos #mathchat https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mtbos",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "mathchat",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jmacattak",
+					"name": "John McGowan",
+					"id": 128691966,
+					"id_str": "128691966",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13584,
+			"friends_count": 5029,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20004,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18419,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 27 15:18:11 +0000 2017",
+			"id": 913060205306552300,
+			"id_str": "913060205306552322",
+			"text": "EquatIO now works in Microsoft Word! Prediction, LaTeX, handwriting recognition, &amp; Speech Input! #mtbos #mathchat… https://t.co/w8Zeo1pIO8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mtbos",
+						"indices": [
+							101,
+							107
+						]
+					},
+					{
+						"text": "mathchat",
+						"indices": [
+							108,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/w8Zeo1pIO8",
+						"expanded_url": "https://twitter.com/i/web/status/913060205306552322",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							119,
+							142
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 128691966,
+				"id_str": "128691966",
+				"name": "John McGowan",
+				"screen_name": "jmacattak",
+				"location": "Digital Nomad",
+				"description": "Math Teacher. g(Math) & EquatIO creator. Google Education Trainer. EduCoder. ISTE16,17 presenter. #UDLMath champion. Texthelper! https://t.co/RIOKeww29h",
+				"url": "http://t.co/KahhXchhbB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KahhXchhbB",
+								"expanded_url": "http://mathtechtips.blogspot.com",
+								"display_url": "mathtechtips.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RIOKeww29h",
+								"expanded_url": "http://google.com/+JohnMcGowan",
+								"display_url": "google.com/+JohnMcGowan",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3084,
+				"friends_count": 4946,
+				"listed_count": 151,
+				"created_at": "Thu Apr 01 22:36:38 +0000 2010",
+				"favourites_count": 2627,
+				"utc_offset": -10800,
+				"time_zone": "Santiago",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4181,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1211530833/165332_1514474387182_1394106066_31090813_7632290_n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211530833/165332_1514474387182_1394106066_31090813_7632290_n_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 02 16:59:24 +0000 2017",
 		"id": 914897616261009400,
 		"id_str": "914897616261009408",
