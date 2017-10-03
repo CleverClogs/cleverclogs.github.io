@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 03 05:54:25 +0000 2017",
+		"id": 915092656270823400,
+		"id_str": "915092656270823424",
+		"text": "RT @woodstocksj: OneNote Avenger preparing for the day #mieexperts #onenote #msftedu https://t.co/Ut16z7X5Us",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mieexperts",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"text": "onenote",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "msftedu",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "woodstocksj",
+					"name": "susanna jilka",
+					"id": 2769245506,
+					"id_str": "2769245506",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 915087244263936000,
+					"id_str": "915087244263936001",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DLMLABTX0AEwlyj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLMLABTX0AEwlyj.jpg",
+					"url": "https://t.co/Ut16z7X5Us",
+					"display_url": "pic.twitter.com/Ut16z7X5Us",
+					"expanded_url": "https://twitter.com/woodstocksj/status/915087265457721345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915087265457721300,
+					"source_status_id_str": "915087265457721345",
+					"source_user_id": 2769245506,
+					"source_user_id_str": "2769245506"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 915087244263936000,
+					"id_str": "915087244263936001",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DLMLABTX0AEwlyj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DLMLABTX0AEwlyj.jpg",
+					"url": "https://t.co/Ut16z7X5Us",
+					"display_url": "pic.twitter.com/Ut16z7X5Us",
+					"expanded_url": "https://twitter.com/woodstocksj/status/915087265457721345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 915087265457721300,
+					"source_status_id_str": "915087265457721345",
+					"source_user_id": 2769245506,
+					"source_user_id_str": "2769245506"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13589,
+			"friends_count": 5029,
+			"listed_count": 526,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20016,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 03 05:33:00 +0000 2017",
+			"id": 915087265457721300,
+			"id_str": "915087265457721345",
+			"text": "OneNote Avenger preparing for the day #mieexperts #onenote #msftedu https://t.co/Ut16z7X5Us",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mieexperts",
+						"indices": [
+							38,
+							49
+						]
+					},
+					{
+						"text": "onenote",
+						"indices": [
+							50,
+							58
+						]
+					},
+					{
+						"text": "msftedu",
+						"indices": [
+							59,
+							67
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 915087244263936000,
+						"id_str": "915087244263936001",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DLMLABTX0AEwlyj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLMLABTX0AEwlyj.jpg",
+						"url": "https://t.co/Ut16z7X5Us",
+						"display_url": "pic.twitter.com/Ut16z7X5Us",
+						"expanded_url": "https://twitter.com/woodstocksj/status/915087265457721345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 915087244263936000,
+						"id_str": "915087244263936001",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/DLMLABTX0AEwlyj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLMLABTX0AEwlyj.jpg",
+						"url": "https://t.co/Ut16z7X5Us",
+						"display_url": "pic.twitter.com/Ut16z7X5Us",
+						"expanded_url": "https://twitter.com/woodstocksj/status/915087265457721345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2769245506,
+				"id_str": "2769245506",
+				"name": "susanna jilka",
+				"screen_name": "woodstocksj",
+				"location": "Wien, Österreich",
+				"description": "Maths-Biology-Chemistry-Physics, #mieexpert, Echa-Specialist #projectkakuma Ambassador, #TeachSDGs Ambassador, author: Genial!Mathematik, BioTOP",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251,
+				"friends_count": 207,
+				"listed_count": 31,
+				"created_at": "Sat Sep 13 19:17:39 +0000 2014",
+				"favourites_count": 2302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2079,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902535083944529920/WY5UW98v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902535083944529920/WY5UW98v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2769245506/1455043489",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 02 20:27:46 +0000 2017",
 		"id": 914950052283633700,
 		"id_str": "914950052283633664",
