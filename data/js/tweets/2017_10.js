@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 04 18:48:26 +0000 2017",
+		"id": 915649831389016000,
+		"id_str": "915649831389016064",
+		"text": "@JeffSBennion This was the tweet I was looking for, by @lenoxseer: https://t.co/JHrPPKZT0z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffSBennion",
+					"name": "Jeffrey S. Bennion",
+					"id": 1244355289,
+					"id_str": "1244355289",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "lenoxseer",
+					"name": "Travis Chapman",
+					"id": 170542029,
+					"id_str": "170542029",
+					"indices": [
+						55,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JHrPPKZT0z",
+					"expanded_url": "https://twitter.com/lenoxseer/status/911465993066737665",
+					"display_url": "twitter.com/lenoxseer/stat…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 915621446977699800,
+		"in_reply_to_status_id_str": "915621446977699840",
+		"in_reply_to_user_id": 1244355289,
+		"in_reply_to_user_id_str": "1244355289",
+		"in_reply_to_screen_name": "JeffSBennion",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13620,
+			"friends_count": 5030,
+			"listed_count": 526,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20042,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18442,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 911465993066737700,
+		"quoted_status_id_str": "911465993066737665",
+		"quoted_status": {
+			"created_at": "Sat Sep 23 05:43:21 +0000 2017",
+			"id": 911465993066737700,
+			"id_str": "911465993066737665",
+			"text": "@johncampea I have one and like it quite a bit. The combination of the S-pen and OneNote make writing notes a godse… https://t.co/ZME2XHd6Gy",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "johncampea",
+						"name": "John Campea",
+						"id": 19325609,
+						"id_str": "19325609",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZME2XHd6Gy",
+						"expanded_url": "https://twitter.com/i/web/status/911465993066737665",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 911404164953100300,
+			"in_reply_to_status_id_str": "911404164953100288",
+			"in_reply_to_user_id": 19325609,
+			"in_reply_to_user_id_str": "19325609",
+			"in_reply_to_screen_name": "johncampea",
+			"user": {
+				"id": 170542029,
+				"id_str": "170542029",
+				"name": "Travis Chapman",
+				"screen_name": "lenoxseer",
+				"location": "Sheboygan, WI",
+				"description": "Im a tech guy. Mainly into computers and video games. Follow me on https://t.co/OZMheovvca and https://t.co/oSZOiEMGXR",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OZMheovvca",
+								"expanded_url": "http://www.twitch.tv/lenoxseer",
+								"display_url": "twitch.tv/lenoxseer",
+								"indices": [
+									67,
+									90
+								]
+							},
+							{
+								"url": "https://t.co/oSZOiEMGXR",
+								"expanded_url": "http://www.youtube.com/user/lenoxseer",
+								"display_url": "youtube.com/user/lenoxseer",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12,
+				"friends_count": 83,
+				"listed_count": 1,
+				"created_at": "Sun Jul 25 03:30:37 +0000 2010",
+				"favourites_count": 93,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 454,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/200774910/3rd_twitback_02.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/200774910/3rd_twitback_02.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/710491638280249344/pN6GfI5C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/710491638280249344/pN6GfI5C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/170542029/1380832550",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 04 18:44:04 +0000 2017",
+		"id": 915648732552683500,
+		"id_str": "915648732552683523",
+		"text": "@JeffSBennion Good question. I'm positive I saw a mention by someone on Twitter a while ago. Maybe you like this on… https://t.co/i0yNbhezRn",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JeffSBennion",
+					"name": "Jeffrey S. Bennion",
+					"id": 1244355289,
+					"id_str": "1244355289",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i0yNbhezRn",
+					"expanded_url": "https://twitter.com/i/web/status/915648732552683523",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 915621446977699800,
+		"in_reply_to_status_id_str": "915621446977699840",
+		"in_reply_to_user_id": 1244355289,
+		"in_reply_to_user_id_str": "1244355289",
+		"in_reply_to_screen_name": "JeffSBennion",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13620,
+			"friends_count": 5030,
+			"listed_count": 526,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20042,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18442,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 04 16:00:22 +0000 2017",
 		"id": 915607536081961000,
 		"id_str": "915607536081960960",
