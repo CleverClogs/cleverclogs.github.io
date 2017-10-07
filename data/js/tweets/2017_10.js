@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 07 17:55:59 +0000 2017",
+		"id": 916723796614185000,
+		"id_str": "916723796614184962",
+		"text": "Nice share by @daperfecttablet. Bonus tip: for max screen estate suppressing all #OneNote #Windows10 ribbons, use s… https://t.co/VsIXohG02S",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daperfecttablet",
+					"name": "Robert Baker",
+					"id": 70403313,
+					"id_str": "70403313",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VsIXohG02S",
+					"expanded_url": "https://twitter.com/i/web/status/916723796614184962",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13663,
+			"friends_count": 5052,
+			"listed_count": 526,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20132,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 916714685210210300,
+		"quoted_status_id_str": "916714685210210309",
+		"quoted_status": {
+			"created_at": "Sat Oct 07 17:19:47 +0000 2017",
+			"id": 916714685210210300,
+			"id_str": "916714685210210309",
+			"text": "@stevesingapore @msonenote @MicrosoftEDU @MasterDevwi agreed, that's why in #onenote UWP app,my \"fullscreen\"=hide a… https://t.co/ymjbQpOHVg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "onenote",
+						"indices": [
+							76,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stevesingapore",
+						"name": "Steve Morgan",
+						"id": 200186236,
+						"id_str": "200186236",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							16,
+							26
+						]
+					},
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							27,
+							40
+						]
+					},
+					{
+						"screen_name": "MasterDevwi",
+						"name": "William Devereux",
+						"id": 5193261,
+						"id_str": "5193261",
+						"indices": [
+							41,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ymjbQpOHVg",
+						"expanded_url": "https://twitter.com/i/web/status/916714685210210309",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": 916695384348540900,
+			"in_reply_to_status_id_str": "916695384348540928",
+			"in_reply_to_user_id": 200186236,
+			"in_reply_to_user_id_str": "200186236",
+			"in_reply_to_screen_name": "stevesingapore",
+			"user": {
+				"id": 70403313,
+				"id_str": "70403313",
+				"name": "Robert Baker",
+				"screen_name": "daperfecttablet",
+				"location": "CIncinnati, OH",
+				"description": "Director of Technology at Cincinnati Country Day School. Focused on teaching and learning and putting daperfecttablet in my users hands to enable great pedagogy",
+				"url": "https://t.co/mPvVmPDs5G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mPvVmPDs5G",
+								"expanded_url": "http://bit.ly/22VOvu0",
+								"display_url": "bit.ly/22VOvu0",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 432,
+				"friends_count": 94,
+				"listed_count": 92,
+				"created_at": "Mon Aug 31 14:21:04 +0000 2009",
+				"favourites_count": 344,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2279,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/891428628311019520/_lnas2d5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/891428628311019520/_lnas2d5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70403313/1442261332",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 07 16:49:13 +0000 2017",
 		"id": 916706992911249400,
 		"id_str": "916706992911249409",
