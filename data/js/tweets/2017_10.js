@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 11 14:22:15 +0000 2017",
+		"id": 918119560607338500,
+		"id_str": "918119560607338496",
+		"text": "Not ready yet to switch to the #OneNote for #Windows10 version? Here's a decent intro to OneNote 2016.\nby… https://t.co/qt40axpVGR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						44,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qt40axpVGR",
+					"expanded_url": "https://twitter.com/i/web/status/918119560607338496",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13677,
+			"friends_count": 5088,
+			"listed_count": 526,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20159,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18533,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 918072187659092000,
+		"quoted_status_id_str": "918072187659091970",
+		"quoted_status": {
+			"created_at": "Wed Oct 11 11:14:01 +0000 2017",
+			"id": 918072187659092000,
+			"id_str": "918072187659091970",
+			"text": "Put down the paper and pen. It's time you took OneNote 2016 for a spin. Here's how to get started:\nhttps://t.co/xgYKug1QVp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xgYKug1QVp",
+						"expanded_url": "https://www.windowscentral.com/getting-started-onenote-2016?utm_source=wc_tw&utm_medium=tw_card&utm_content=51151&utm_campaign=social",
+						"display_url": "windowscentral.com/getting-starte…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14208474,
+				"id_str": "14208474",
+				"name": "Windows Central",
+				"screen_name": "windowscentral",
+				"location": "USA",
+				"description": "Windows is back! The #1 news, reviews and community site covering all things Microsoft. Full feed https://t.co/Jow2yyzrIb Tips: tips@windowscentral.com",
+				"url": "http://t.co/2l3l2Z1Km1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2l3l2Z1Km1",
+								"expanded_url": "http://www.windowscentral.com",
+								"display_url": "windowscentral.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Jow2yyzrIb",
+								"expanded_url": "https://twitter.com/wc_headlines",
+								"display_url": "twitter.com/wc_headlines",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 366446,
+				"friends_count": 139,
+				"listed_count": 3521,
+				"created_at": "Mon Mar 24 16:24:54 +0000 2008",
+				"favourites_count": 60,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48508,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/524363165321031680/LxUB6O0y.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/524363165321031680/LxUB6O0y.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/525043798158495747/1A6ONKMV_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/525043798158495747/1A6ONKMV_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14208474/1413471879",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 10 21:43:17 +0000 2017",
 		"id": 917868160275173400,
 		"id_str": "917868160275173376",
