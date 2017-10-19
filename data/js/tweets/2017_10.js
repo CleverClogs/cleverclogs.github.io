@@ -1,6 +1,855 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 19 18:55:05 +0000 2017",
+		"id": 921087323961548800,
+		"id_str": "921087323961548800",
+		"text": "@MsKennedy_pgms @pipkinstat @PGMSinBCPS Hi Ms Kennedy. I'm very curious how your music students use #OneNote for pe… https://t.co/zSutkvZ01e",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MsKennedy_pgms",
+					"name": "Ms. Kennedy",
+					"id": 916379112373194800,
+					"id_str": "916379112373194752",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "pipkinstat",
+					"name": "Christine Pipkin",
+					"id": 2925115839,
+					"id_str": "2925115839",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "PGMSinBCPS",
+					"name": "Pine Grove Middle",
+					"id": 1583171504,
+					"id_str": "1583171504",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zSutkvZ01e",
+					"expanded_url": "https://twitter.com/i/web/status/921087323961548800",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 921021843544436700,
+		"in_reply_to_status_id_str": "921021843544436736",
+		"in_reply_to_user_id": 916379112373194800,
+		"in_reply_to_user_id_str": "916379112373194752",
+		"in_reply_to_screen_name": "MsKennedy_pgms",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13769,
+			"friends_count": 5107,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20263,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18643,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 18:40:41 +0000 2017",
+		"id": 921083698405167100,
+		"id_str": "921083698405167106",
+		"text": "@PhoebeRow @OneNoteEDU Maybe @IanFordham has connections? To my knowledge the Microsoft webstore only ships to US a… https://t.co/rM2OKL00Ij",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhoebeRow",
+					"name": "Phoebe Rowbottom",
+					"id": 4900797755,
+					"id_str": "4900797755",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "ianfordham",
+					"name": "Ian Fordham",
+					"id": 17851117,
+					"id_str": "17851117",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rM2OKL00Ij",
+					"expanded_url": "https://twitter.com/i/web/status/921083698405167106",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 921080911738867700,
+		"in_reply_to_status_id_str": "921080911738867713",
+		"in_reply_to_user_id": 4900797755,
+		"in_reply_to_user_id_str": "4900797755",
+		"in_reply_to_screen_name": "PhoebeRow",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13769,
+			"friends_count": 5107,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20263,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18643,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 18:38:43 +0000 2017",
+		"id": 921083205394030600,
+		"id_str": "921083205394030592",
+		"text": "@teacheranna1974 What a fun video, Ana. It took me a bit to figure out your cat's tail is wiggling on your laptop's… https://t.co/yQcEHwVTlI",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teacheranna1974",
+					"name": "Ana Krstic",
+					"id": 2449237920,
+					"id_str": "2449237920",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yQcEHwVTlI",
+					"expanded_url": "https://twitter.com/i/web/status/921083205394030592",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 921082447378436100,
+		"in_reply_to_status_id_str": "921082447378436098",
+		"in_reply_to_user_id": 2449237920,
+		"in_reply_to_user_id_str": "2449237920",
+		"in_reply_to_screen_name": "teacheranna1974",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13769,
+			"friends_count": 5107,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20263,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18643,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 18:37:38 +0000 2017",
+		"id": 921082933531824100,
+		"id_str": "921082933531824128",
+		"text": "RT @teacheranna1974: Trying to send homework to my students with #OneNote https://t.co/v6ihBrWisZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teacheranna1974",
+					"name": "Ana Krstic",
+					"id": 2449237920,
+					"id_str": "2449237920",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921082312942645200,
+					"id_str": "921082312942645248",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/921082312942645248/pu/img/_cigBV9t4Ks-NnES.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/921082312942645248/pu/img/_cigBV9t4Ks-NnES.jpg",
+					"url": "https://t.co/v6ihBrWisZ",
+					"display_url": "pic.twitter.com/v6ihBrWisZ",
+					"expanded_url": "https://twitter.com/teacheranna1974/status/921082447378436098/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921082447378436100,
+					"source_status_id_str": "921082447378436098",
+					"source_user_id": 2449237920,
+					"source_user_id_str": "2449237920"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921082312942645200,
+					"id_str": "921082312942645248",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/921082312942645248/pu/img/_cigBV9t4Ks-NnES.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/921082312942645248/pu/img/_cigBV9t4Ks-NnES.jpg",
+					"url": "https://t.co/v6ihBrWisZ",
+					"display_url": "pic.twitter.com/v6ihBrWisZ",
+					"expanded_url": "https://twitter.com/teacheranna1974/status/921082447378436098/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921082447378436100,
+					"source_status_id_str": "921082447378436098",
+					"source_user_id": 2449237920,
+					"source_user_id_str": "2449237920",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 16406,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/921082312942645248/pu/vid/720x1280/e5VvazJ6HsLpmiVl.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/921082312942645248/pu/vid/360x640/vATGmYOOiXnaAhB2.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/921082312942645248/pu/pl/WTsnjBZvc4bBdDzH.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/921082312942645248/pu/vid/180x320/qxjDX993kvX3F1Pd.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2449237920,
+							"id_str": "2449237920",
+							"name": "Ana Krstic",
+							"screen_name": "teacheranna1974",
+							"location": "",
+							"description": "",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 62,
+							"friends_count": 178,
+							"listed_count": 5,
+							"created_at": "Thu Apr 17 07:18:27 +0000 2014",
+							"favourites_count": 759,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 373,
+							"lang": "sr",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/683005610917556225/8oiznr84_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/683005610917556225/8oiznr84_normal.jpg",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13769,
+			"friends_count": 5107,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20263,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18643,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 19 18:35:42 +0000 2017",
+			"id": 921082447378436100,
+			"id_str": "921082447378436098",
+			"text": "Trying to send homework to my students with #OneNote https://t.co/v6ihBrWisZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							44,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921082312942645200,
+						"id_str": "921082312942645248",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/921082312942645248/pu/img/_cigBV9t4Ks-NnES.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/921082312942645248/pu/img/_cigBV9t4Ks-NnES.jpg",
+						"url": "https://t.co/v6ihBrWisZ",
+						"display_url": "pic.twitter.com/v6ihBrWisZ",
+						"expanded_url": "https://twitter.com/teacheranna1974/status/921082447378436098/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921082312942645200,
+						"id_str": "921082312942645248",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/921082312942645248/pu/img/_cigBV9t4Ks-NnES.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/921082312942645248/pu/img/_cigBV9t4Ks-NnES.jpg",
+						"url": "https://t.co/v6ihBrWisZ",
+						"display_url": "pic.twitter.com/v6ihBrWisZ",
+						"expanded_url": "https://twitter.com/teacheranna1974/status/921082447378436098/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 16406,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/921082312942645248/pu/vid/720x1280/e5VvazJ6HsLpmiVl.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/921082312942645248/pu/vid/360x640/vATGmYOOiXnaAhB2.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/921082312942645248/pu/pl/WTsnjBZvc4bBdDzH.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/921082312942645248/pu/vid/180x320/qxjDX993kvX3F1Pd.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2449237920,
+				"id_str": "2449237920",
+				"name": "Ana Krstic",
+				"screen_name": "teacheranna1974",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 62,
+				"friends_count": 178,
+				"listed_count": 5,
+				"created_at": "Thu Apr 17 07:18:27 +0000 2014",
+				"favourites_count": 759,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 373,
+				"lang": "sr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/683005610917556225/8oiznr84_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/683005610917556225/8oiznr84_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 19 17:15:24 +0000 2017",
 		"id": 921062235853787100,
 		"id_str": "921062235853787136",
