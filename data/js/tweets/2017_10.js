@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 20 08:39:18 +0000 2017",
+		"id": 921294742423556100,
+		"id_str": "921294742423556096",
+		"text": "RT @Der0uin: I LOVE @msonenote https://t.co/aNM1usSpCL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Der0uin",
+					"name": "Paige Derouin",
+					"id": 743451268769812500,
+					"id_str": "743451268769812480",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921218201249374200,
+					"id_str": "921218201249374209",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/DMjTEr4X4AEtfF8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMjTEr4X4AEtfF8.jpg",
+					"url": "https://t.co/aNM1usSpCL",
+					"display_url": "pic.twitter.com/aNM1usSpCL",
+					"expanded_url": "https://twitter.com/Der0uin/status/921218240042487808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1332,
+							"h": 959,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 864,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921218240042487800,
+					"source_status_id_str": "921218240042487808",
+					"source_user_id": 743451268769812500,
+					"source_user_id_str": "743451268769812480"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921218201249374200,
+					"id_str": "921218201249374209",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/DMjTEr4X4AEtfF8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMjTEr4X4AEtfF8.jpg",
+					"url": "https://t.co/aNM1usSpCL",
+					"display_url": "pic.twitter.com/aNM1usSpCL",
+					"expanded_url": "https://twitter.com/Der0uin/status/921218240042487808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 490,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1332,
+							"h": 959,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 864,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921218240042487800,
+					"source_status_id_str": "921218240042487808",
+					"source_user_id": 743451268769812500,
+					"source_user_id_str": "743451268769812480"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13781,
+			"friends_count": 5117,
+			"listed_count": 526,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20313,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 20 03:35:18 +0000 2017",
+			"id": 921218240042487800,
+			"id_str": "921218240042487808",
+			"text": "I LOVE @msonenote https://t.co/aNM1usSpCL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							7,
+							17
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 921218201249374200,
+						"id_str": "921218201249374209",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DMjTEr4X4AEtfF8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMjTEr4X4AEtfF8.jpg",
+						"url": "https://t.co/aNM1usSpCL",
+						"display_url": "pic.twitter.com/aNM1usSpCL",
+						"expanded_url": "https://twitter.com/Der0uin/status/921218240042487808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1332,
+								"h": 959,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 864,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921218201249374200,
+						"id_str": "921218201249374209",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/media/DMjTEr4X4AEtfF8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMjTEr4X4AEtfF8.jpg",
+						"url": "https://t.co/aNM1usSpCL",
+						"display_url": "pic.twitter.com/aNM1usSpCL",
+						"expanded_url": "https://twitter.com/Der0uin/status/921218240042487808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1332,
+								"h": 959,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 864,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 743451268769812500,
+				"id_str": "743451268769812480",
+				"name": "Paige Derouin",
+				"screen_name": "Der0uin",
+				"location": "Raleigh, NC",
+				"description": "CGHS Biology and AP Biology Teacher, Raleigh, NC. Kenan Fellow, 2016-2017 TFA - ENC, 2013",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 311,
+				"friends_count": 288,
+				"listed_count": 18,
+				"created_at": "Thu Jun 16 14:32:50 +0000 2016",
+				"favourites_count": 2082,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1460,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/901264221282988033/OaRxpLKE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/901264221282988033/OaRxpLKE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/743451268769812480/1466536587",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 19 23:32:55 +0000 2017",
 		"id": 921157242963013600,
 		"id_str": "921157242963013633",
