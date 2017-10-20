@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 20 09:53:06 +0000 2017",
+		"id": 921313316621963300,
+		"id_str": "921313316621963264",
+		"text": "RT @msonenote: How do you use OneNote for event planning? Share your tips and tricks below. https://t.co/7U5cxp6HbP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921189226397491200,
+					"id_str": "921189226397491201",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DMi4uIJW4AEV253.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMi4uIJW4AEV253.jpg",
+					"url": "https://t.co/7U5cxp6HbP",
+					"display_url": "pic.twitter.com/7U5cxp6HbP",
+					"expanded_url": "https://twitter.com/msonenote/status/921189229287403520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 921189229287403500,
+					"source_status_id_str": "921189229287403520",
+					"source_user_id": 23735316,
+					"source_user_id_str": "23735316"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921189226397491200,
+					"id_str": "921189226397491201",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/DMi4uIJW4AEV253.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMi4uIJW4AEV253.jpg",
+					"url": "https://t.co/7U5cxp6HbP",
+					"display_url": "pic.twitter.com/7U5cxp6HbP",
+					"expanded_url": "https://twitter.com/msonenote/status/921189229287403520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 921189229287403500,
+					"source_status_id_str": "921189229287403520",
+					"source_user_id": 23735316,
+					"source_user_id_str": "23735316"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13782,
+			"friends_count": 5117,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20313,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18666,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 20 01:40:01 +0000 2017",
+			"id": 921189229287403500,
+			"id_str": "921189229287403520",
+			"text": "How do you use OneNote for event planning? Share your tips and tricks below. https://t.co/7U5cxp6HbP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921189226397491200,
+						"id_str": "921189226397491201",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DMi4uIJW4AEV253.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMi4uIJW4AEV253.jpg",
+						"url": "https://t.co/7U5cxp6HbP",
+						"display_url": "pic.twitter.com/7U5cxp6HbP",
+						"expanded_url": "https://twitter.com/msonenote/status/921189229287403520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921189226397491200,
+						"id_str": "921189226397491201",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/DMi4uIJW4AEV253.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMi4uIJW4AEV253.jpg",
+						"url": "https://t.co/7U5cxp6HbP",
+						"display_url": "pic.twitter.com/7U5cxp6HbP",
+						"expanded_url": "https://twitter.com/msonenote/status/921189229287403520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23735316,
+				"id_str": "23735316",
+				"name": "Microsoft OneNote",
+				"screen_name": "msonenote",
+				"location": "Redmond, WA, USA",
+				"description": "Capture and organize ideas instantly with Microsoft OneNote.",
+				"url": "http://t.co/wzBkyeUbTU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wzBkyeUbTU",
+								"expanded_url": "http://www.onenote.com",
+								"display_url": "onenote.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59288,
+				"friends_count": 623,
+				"listed_count": 1392,
+				"created_at": "Wed Mar 11 07:32:39 +0000 2009",
+				"favourites_count": 2840,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31323,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "68217A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/443412386389581824/2sh3CjJO.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/443412386389581824/2sh3CjJO.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876909882095550465/VZyK5jOu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876909882095550465/VZyK5jOu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23735316/1461096626",
+				"profile_link_color": "68217A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 20 08:39:18 +0000 2017",
 		"id": 921294742423556100,
 		"id_str": "921294742423556096",
