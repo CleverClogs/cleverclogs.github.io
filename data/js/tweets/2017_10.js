@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 20 15:22:29 +0000 2017",
+		"id": 921396207141969900,
+		"id_str": "921396207141969920",
+		"text": "RT @JenMsft: Have you noticed yet? The latest version of Sticky Notes supports bullet lists XD #Windows10 https://t.co/uASfQowUQW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Windows10",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenMsft",
+					"name": "Jen Gentleman 🌺",
+					"id": 3309105596,
+					"id_str": "3309105596",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921393457628717000,
+					"id_str": "921393457628717057",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DMlyd8xUIAEjV7j.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMlyd8xUIAEjV7j.jpg",
+					"url": "https://t.co/uASfQowUQW",
+					"display_url": "pic.twitter.com/uASfQowUQW",
+					"expanded_url": "https://twitter.com/JenMsft/status/921393614487298049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 249,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 956,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 439,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921393614487298000,
+					"source_status_id_str": "921393614487298049",
+					"source_user_id": 3309105596,
+					"source_user_id_str": "3309105596"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921393457628717000,
+					"id_str": "921393457628717057",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DMlyd8xUIAEjV7j.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMlyd8xUIAEjV7j.jpg",
+					"url": "https://t.co/uASfQowUQW",
+					"display_url": "pic.twitter.com/uASfQowUQW",
+					"expanded_url": "https://twitter.com/JenMsft/status/921393614487298049/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 249,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 956,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 439,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921393614487298000,
+					"source_status_id_str": "921393614487298049",
+					"source_user_id": 3309105596,
+					"source_user_id_str": "3309105596",
+					"video_info": {
+						"aspect_ratio": [
+							239,
+							175
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DMlyd8xUIAEjV7j.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13782,
+			"friends_count": 5118,
+			"listed_count": 525,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20317,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18671,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 20 15:12:11 +0000 2017",
+			"id": 921393614487298000,
+			"id_str": "921393614487298049",
+			"text": "Have you noticed yet? The latest version of Sticky Notes supports bullet lists XD #Windows10 https://t.co/uASfQowUQW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Windows10",
+						"indices": [
+							82,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921393457628717000,
+						"id_str": "921393457628717057",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DMlyd8xUIAEjV7j.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMlyd8xUIAEjV7j.jpg",
+						"url": "https://t.co/uASfQowUQW",
+						"display_url": "pic.twitter.com/uASfQowUQW",
+						"expanded_url": "https://twitter.com/JenMsft/status/921393614487298049/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 249,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 956,
+								"h": 700,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 439,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921393457628717000,
+						"id_str": "921393457628717057",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DMlyd8xUIAEjV7j.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMlyd8xUIAEjV7j.jpg",
+						"url": "https://t.co/uASfQowUQW",
+						"display_url": "pic.twitter.com/uASfQowUQW",
+						"expanded_url": "https://twitter.com/JenMsft/status/921393614487298049/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 249,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 956,
+								"h": 700,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 439,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								239,
+								175
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DMlyd8xUIAEjV7j.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309105596,
+				"id_str": "3309105596",
+				"name": "Jen Gentleman 🌺",
+				"screen_name": "JenMsft",
+				"location": "Seattle, WA",
+				"description": "Software Engineer, Community Champ & #WindowsInsider on Shell team @ Microsoft. I work w/ Windows feedback for Start, Action center, taskbar, Windows Ink + more",
+				"url": "https://t.co/ACVIR7xvcT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ACVIR7xvcT",
+								"expanded_url": "https://www.instagram.com/jenmsft/",
+								"display_url": "instagram.com/jenmsft/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12785,
+				"friends_count": 205,
+				"listed_count": 261,
+				"created_at": "Fri Aug 07 22:21:33 +0000 2015",
+				"favourites_count": 84367,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22189,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836676253163794432/nEHQRbjt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836676253163794432/nEHQRbjt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309105596/1488314185",
+				"profile_link_color": "D44A4A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 20 14:11:20 +0000 2017",
 		"id": 921378304661258200,
 		"id_str": "921378304661258241",
