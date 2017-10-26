@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 26 12:55:05 +0000 2017",
+		"id": 923533441525743600,
+		"id_str": "923533441525743618",
+		"text": "RT @teacherbau: Assessment time! Grading in #OneNote as I watch Ss videos on #MSStream. Quick &amp; easy + instant feedback to Ss. #MicrosoftEd…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "MSStream",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teacherbau",
+					"name": "Sarah Bau",
+					"id": 906302479289073700,
+					"id_str": "906302479289073664",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13862,
+			"friends_count": 5152,
+			"listed_count": 528,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20449,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 26 10:48:19 +0000 2017",
+			"id": 923501538806349800,
+			"id_str": "923501538806349824",
+			"text": "Assessment time! Grading in #OneNote as I watch Ss videos on #MSStream. Quick &amp; easy + instant feedback to Ss.… https://t.co/TyRpsEVVHh",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							28,
+							36
+						]
+					},
+					{
+						"text": "MSStream",
+						"indices": [
+							61,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TyRpsEVVHh",
+						"expanded_url": "https://twitter.com/i/web/status/923501538806349824",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906302479289073700,
+				"id_str": "906302479289073664",
+				"name": "Sarah Bau",
+				"screen_name": "teacherbau",
+				"location": "Adelaide, South Australia",
+				"description": "Teacher, mother, OneNote fan, camper, traveler. Passionate educator of children.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18,
+				"friends_count": 21,
+				"listed_count": 4,
+				"created_at": "Fri Sep 08 23:45:24 +0000 2017",
+				"favourites_count": 40,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910980823746097152/G7gjptQz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910980823746097152/G7gjptQz_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 26 12:25:01 +0000 2017",
+		"id": 923525873248227300,
+		"id_str": "923525873248227328",
+		"text": "RT @DarrellaaS: New favourite pens arrived in #OneNote on my iPad Pro. https://t.co/gEBzmaE10s",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						46,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DarrellaaS",
+					"name": "Darrell as a Service",
+					"id": 401809242,
+					"id_str": "401809242",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 923487790779703300,
+					"id_str": "923487790779703296",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DNDjQLvVoAAg_Z7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNDjQLvVoAAg_Z7.jpg",
+					"url": "https://t.co/gEBzmaE10s",
+					"display_url": "pic.twitter.com/gEBzmaE10s",
+					"expanded_url": "https://twitter.com/DarrellaaS/status/923487804058775552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1177,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1668,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 667,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 923487804058775600,
+					"source_status_id_str": "923487804058775552",
+					"source_user_id": 401809242,
+					"source_user_id_str": "401809242"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 923487790779703300,
+					"id_str": "923487790779703296",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DNDjQLvVoAAg_Z7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNDjQLvVoAAg_Z7.jpg",
+					"url": "https://t.co/gEBzmaE10s",
+					"display_url": "pic.twitter.com/gEBzmaE10s",
+					"expanded_url": "https://twitter.com/DarrellaaS/status/923487804058775552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1177,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1668,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 667,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 923487804058775600,
+					"source_status_id_str": "923487804058775552",
+					"source_user_id": 401809242,
+					"source_user_id_str": "401809242"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13862,
+			"friends_count": 5152,
+			"listed_count": 528,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20449,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18796,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 26 09:53:44 +0000 2017",
+			"id": 923487804058775600,
+			"id_str": "923487804058775552",
+			"text": "New favourite pens arrived in #OneNote on my iPad Pro. https://t.co/gEBzmaE10s",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							30,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 923487790779703300,
+						"id_str": "923487790779703296",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DNDjQLvVoAAg_Z7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNDjQLvVoAAg_Z7.jpg",
+						"url": "https://t.co/gEBzmaE10s",
+						"display_url": "pic.twitter.com/gEBzmaE10s",
+						"expanded_url": "https://twitter.com/DarrellaaS/status/923487804058775552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1177,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1668,
+								"h": 1700,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 667,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 923487790779703300,
+						"id_str": "923487790779703296",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DNDjQLvVoAAg_Z7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNDjQLvVoAAg_Z7.jpg",
+						"url": "https://t.co/gEBzmaE10s",
+						"display_url": "pic.twitter.com/gEBzmaE10s",
+						"expanded_url": "https://twitter.com/DarrellaaS/status/923487804058775552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1177,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1668,
+								"h": 1700,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 667,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 401809242,
+				"id_str": "401809242",
+				"name": "Darrell as a Service",
+				"screen_name": "DarrellaaS",
+				"location": "Auckland, New Zealand",
+				"description": "Microsoft MVP for #Office365, Father of 4, #OneNote Avenger, coffee roaster | Work'n @AdoptAndEmbrace | @REgarding365 https://t.co/iPSX4kPvfd",
+				"url": "https://t.co/GFStyOHR14",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GFStyOHR14",
+								"expanded_url": "http://webster.net.nz",
+								"display_url": "webster.net.nz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iPSX4kPvfd",
+								"expanded_url": "https://REgarding365.com",
+								"display_url": "REgarding365.com",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2557,
+				"friends_count": 694,
+				"listed_count": 253,
+				"created_at": "Mon Oct 31 03:39:26 +0000 2011",
+				"favourites_count": 3366,
+				"utc_offset": 46800,
+				"time_zone": "Wellington",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14667,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045287059/b3354ebbe68ff5a497da97b1294fe261.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000045287059/b3354ebbe68ff5a497da97b1294fe261.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919361368897105920/cc3JVQaV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919361368897105920/cc3JVQaV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/401809242/1508027954",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 26 12:16:16 +0000 2017",
 		"id": 923523673214128100,
 		"id_str": "923523673214128130",
