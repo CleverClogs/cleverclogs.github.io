@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 27 17:49:44 +0000 2017",
+		"id": 923969978256232400,
+		"id_str": "923969978256232448",
+		"text": "RT @biocarm: Friday Fun with Purple Power! #onenoteavengers #Msftschool @OneNoteC @MicrosoftEDU @MrsGraysClass Thanks @LBayne for the capes…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onenoteavengers",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"text": "Msftschool",
+					"indices": [
+						60,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "biocarm",
+					"name": "Cheryl McClure",
+					"id": 25738246,
+					"id_str": "25738246",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"screen_name": "MrsGraysClass",
+					"name": "Tara Gray",
+					"id": 42982274,
+					"id_str": "42982274",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"screen_name": "LBayne",
+					"name": "LBayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						118,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13881,
+			"friends_count": 5160,
+			"listed_count": 527,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20475,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18828,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 27 16:43:54 +0000 2017",
+			"id": 923953414165315600,
+			"id_str": "923953414165315589",
+			"text": "Friday Fun with Purple Power! #onenoteavengers #Msftschool @OneNoteC @MicrosoftEDU @MrsGraysClass Thanks @LBayne fo… https://t.co/vHO0z9NlDQ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "onenoteavengers",
+						"indices": [
+							30,
+							46
+						]
+					},
+					{
+						"text": "Msftschool",
+						"indices": [
+							47,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							59,
+							68
+						]
+					},
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							69,
+							82
+						]
+					},
+					{
+						"screen_name": "MrsGraysClass",
+						"name": "Tara Gray",
+						"id": 42982274,
+						"id_str": "42982274",
+						"indices": [
+							83,
+							97
+						]
+					},
+					{
+						"screen_name": "LBayne",
+						"name": "LBayne",
+						"id": 18954505,
+						"id_str": "18954505",
+						"indices": [
+							105,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vHO0z9NlDQ",
+						"expanded_url": "https://twitter.com/i/web/status/923953414165315589",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25738246,
+				"id_str": "25738246",
+				"name": "Cheryl McClure",
+				"screen_name": "biocarm",
+				"location": "",
+				"description": "Bio Teacher, Science & Tech Geek, Sailing & Soccer | Microsoft Innovative Educator Expert | #MIEExpert | #SurfaceEDU | Flipgrid Ambassador",
+				"url": "https://t.co/g14BHQL1tU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g14BHQL1tU",
+								"expanded_url": "https://carmsci.wordpress.com/",
+								"display_url": "carmsci.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 819,
+				"friends_count": 1831,
+				"listed_count": 62,
+				"created_at": "Sat Mar 21 22:22:22 +0000 2009",
+				"favourites_count": 4551,
+				"utc_offset": -25200,
+				"time_zone": "America/Los_Angeles",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2989,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914843428654956545/L2ZBp5sF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914843428654956545/L2ZBp5sF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25738246/1385324869",
+				"profile_link_color": "2063C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 27 12:42:03 +0000 2017",
 		"id": 923892549789605900,
 		"id_str": "923892549789605888",
