@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sun Oct 29 22:01:58 +0000 2017",
+		"id": 924758231058206700,
+		"id_str": "924758231058206720",
+		"text": "@noonefollowsme @mtholfsen @gregdabelstein @DominicMSFT @LettsLearn @OneNoteEDU @msonenote @MicrosoftEDU @shapscott… https://t.co/4NmeUAY46e",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noonefollowsme",
+					"name": "Trump's Second Term",
+					"id": 86807258,
+					"id_str": "86807258",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "gregdabelstein",
+					"name": "Greg Dabelstein",
+					"id": 32228791,
+					"id_str": "32228791",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "DominicMSFT",
+					"name": "Dominic Williamson",
+					"id": 3097415245,
+					"id_str": "3097415245",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "LettsLearn",
+					"name": "Scott Letts",
+					"id": 3289364178,
+					"id_str": "3289364178",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						68,
+						79
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"screen_name": "shapscott",
+					"name": "(((Scott Shapiro)))",
+					"id": 241194422,
+					"id_str": "241194422",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4NmeUAY46e",
+					"expanded_url": "https://twitter.com/i/web/status/924758231058206720",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 924748323768037400,
+		"in_reply_to_status_id_str": "924748323768037377",
+		"in_reply_to_user_id": 86807258,
+		"in_reply_to_user_id_str": "86807258",
+		"in_reply_to_screen_name": "noonefollowsme",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13892,
+			"friends_count": 5165,
+			"listed_count": 529,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20496,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 29 21:47:49 +0000 2017",
+		"id": 924754670555418600,
+		"id_str": "924754670555418624",
+		"text": "Nifty sketching with the new Custom Pens feature in #OneNote on an iPad Pro +Pencil. \nThanks for sharing,… https://t.co/x6csO8GtXT",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						52,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x6csO8GtXT",
+					"expanded_url": "https://twitter.com/i/web/status/924754670555418624",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13892,
+			"friends_count": 5165,
+			"listed_count": 529,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20496,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18856,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 924585112049766400,
+		"quoted_status_id_str": "924585112049766400",
+		"quoted_status": {
+			"created_at": "Sun Oct 29 10:34:03 +0000 2017",
+			"id": 924585112049766400,
+			"id_str": "924585112049766400",
+			"text": "OneNote hat jetzt neue Stife. Zeit für richtig kitschige Notizen! https://t.co/0dCVHRNacx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 924585101677289500,
+						"id_str": "924585101677289475",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DNTJQFYX4AMy8Gd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNTJQFYX4AMy8Gd.jpg",
+						"url": "https://t.co/0dCVHRNacx",
+						"display_url": "pic.twitter.com/0dCVHRNacx",
+						"expanded_url": "https://twitter.com/jennykarpediem/status/924585112049766400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 632,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 924585101677289500,
+						"id_str": "924585101677289475",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/DNTJQFYX4AMy8Gd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNTJQFYX4AMy8Gd.jpg",
+						"url": "https://t.co/0dCVHRNacx",
+						"display_url": "pic.twitter.com/0dCVHRNacx",
+						"expanded_url": "https://twitter.com/jennykarpediem/status/924585112049766400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 632,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1078,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 358,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62569074,
+				"id_str": "62569074",
+				"name": "NaNoJenNy",
+				"screen_name": "jennykarpediem",
+				"location": "Ereignishorizont",
+				"description": "Level 21 //  Veni, vidi, vinyl! // Neuer Roman »Die stummen Zauber des Adam Sparrow« entsteht im #NaNoWriMo unter #DsZdAS. Ja, Karpe mit K.",
+				"url": "https://t.co/2Uc31A3Nrp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2Uc31A3Nrp",
+								"expanded_url": "https://about.me/jennykarpe",
+								"display_url": "about.me/jennykarpe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 926,
+				"friends_count": 473,
+				"listed_count": 61,
+				"created_at": "Mon Aug 03 17:29:23 +0000 2009",
+				"favourites_count": 43013,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16988,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/726013678508724225/iZmoTanm.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/726013678508724225/iZmoTanm.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/884508758159880192/sMSH7XLY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/884508758159880192/sMSH7XLY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62569074/1508580496",
+				"profile_link_color": "F6C80F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "844041cae39de063",
+				"url": "https://api.twitter.com/1.1/geo/id/844041cae39de063.json",
+				"place_type": "city",
+				"name": "Feilitzsch",
+				"full_name": "Feilitzsch, Deutschland",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								11.859952,
+								50.338014
+							],
+							[
+								11.95406,
+								50.338014
+							],
+							[
+								11.95406,
+								50.424751
+							],
+							[
+								11.859952,
+								50.424751
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 29 21:12:08 +0000 2017",
 		"id": 924745691624300500,
 		"id_str": "924745691624300544",
