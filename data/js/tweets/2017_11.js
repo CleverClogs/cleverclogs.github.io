@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 01 18:15:34 +0000 2017",
+		"id": 925788420861030400,
+		"id_str": "925788420861030400",
+		"text": "RT @kerszi: Sometimes, after midnight, I have a lil' fun exploring 👍@OneNoteEDU features like the🆓myriad of #OER resources - right there in…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kerszi",
+					"name": "Kathi Kersznowski",
+					"id": 595079922,
+					"id_str": "595079922",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13919,
+			"friends_count": 5178,
+			"listed_count": 530,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20586,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18910,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 01 04:41:00 +0000 2017",
+			"id": 925583427725865000,
+			"id_str": "925583427725864961",
+			"text": "Sometimes, after midnight, I have a lil' fun exploring 👍@OneNoteEDU features like the🆓myriad of #OER resources - ri… https://t.co/MqQiGt3D4Q",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER",
+						"indices": [
+							96,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							56,
+							67
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MqQiGt3D4Q",
+						"expanded_url": "https://twitter.com/i/web/status/925583427725864961",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595079922,
+				"id_str": "595079922",
+				"name": "Kathi Kersznowski",
+				"screen_name": "kerszi",
+				"location": "New Jersey, USA",
+				"description": "Tech Integration Specialist! EdTech Blogger, Presenter, Leader! TOY, Soon2B Admin, MIEExpert, Apple Tchr, STEAM Edu, Flipgrid, Seesaw Ambass, NJPSA, ASCD, NJASA",
+				"url": "https://t.co/F3EubyVGqy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F3EubyVGqy",
+								"expanded_url": "http://kerszi.wordpress.com/",
+								"display_url": "kerszi.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6315,
+				"friends_count": 5278,
+				"listed_count": 567,
+				"created_at": "Wed May 30 23:31:13 +0000 2012",
+				"favourites_count": 16784,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13585,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550312145469341696/_6rhjMUz.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/550312145469341696/_6rhjMUz.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911406415327227904/5axklAQl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911406415327227904/5axklAQl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595079922/1460151831",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "65b4760a2b411e11",
+				"url": "https://api.twitter.com/1.1/geo/id/65b4760a2b411e11.json",
+				"place_type": "admin",
+				"name": "New Jersey",
+				"full_name": "New Jersey, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-75.563587,
+								38.788657
+							],
+							[
+								-73.88506,
+								38.788657
+							],
+							[
+								-73.88506,
+								41.357424
+							],
+							[
+								-75.563587,
+								41.357424
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 01 16:26:49 +0000 2017",
 		"id": 925761052041797600,
 		"id_str": "925761052041797633",
