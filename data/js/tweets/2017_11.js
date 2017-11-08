@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 08 19:38:13 +0000 2017",
+		"id": 928345934471233500,
+		"id_str": "928345934471233537",
+		"text": "Detailed write-up in @EdTech_K12 about Microsoft Education's extensive #accessibility efforts, including Learning T… https://t.co/E1wLcsmZeG",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "accessibility",
+					"indices": [
+						71,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdTech_K12",
+					"name": "EdTech K–12 Magazine",
+					"id": 67700256,
+					"id_str": "67700256",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E1wLcsmZeG",
+					"expanded_url": "https://twitter.com/i/web/status/928345934471233537",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14017,
+			"friends_count": 5199,
+			"listed_count": 533,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20724,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19016,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 927951385580261400,
+		"quoted_status_id_str": "927951385580261376",
+		"quoted_status": {
+			"created_at": "Tue Nov 07 17:30:25 +0000 2017",
+			"id": 927951385580261400,
+			"id_str": "927951385580261376",
+			"text": "#Assistivetech helps #K12 students of all abilities realize their fullest potential https://t.co/ennkAZVZn9 via @EdTech_K12",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Assistivetech",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"text": "K12",
+						"indices": [
+							21,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EdTech_K12",
+						"name": "EdTech K–12 Magazine",
+						"id": 67700256,
+						"id_str": "67700256",
+						"indices": [
+							112,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ennkAZVZn9",
+						"expanded_url": "http://tech.mg/bjx8jw",
+						"display_url": "tech.mg/bjx8jw",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23595027,
+				"id_str": "23595027",
+				"name": "Meghan Cortez",
+				"screen_name": "megbcortez",
+				"location": "Washington, DC",
+				"description": "Web Editor for @EdTech_K12 and @EdTech_HigherEd. Lover of cats, coffee and sarcasm. Opinions are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 864,
+				"friends_count": 584,
+				"listed_count": 56,
+				"created_at": "Tue Mar 10 14:08:14 +0000 2009",
+				"favourites_count": 518,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4474,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000161836063/ocoOcRhF.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000161836063/ocoOcRhF.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787820804079816708/1_8YaTSU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787820804079816708/1_8YaTSU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23595027/1476730360",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "F0A830",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "CE7834",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 08 19:16:27 +0000 2017",
 		"id": 928340459642028000,
 		"id_str": "928340459642028032",
