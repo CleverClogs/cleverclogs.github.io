@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 13 22:00:32 +0000 2017",
+		"id": 930193688109731800,
+		"id_str": "930193688109731840",
+		"text": "RT @avester1717: You can now record audio in Sway!!! Yea! https://t.co/pQcY1rEEWX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avester1717",
+					"name": "Amy Vester",
+					"id": 47225228,
+					"id_str": "47225228",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pQcY1rEEWX",
+					"expanded_url": "https://twitter.com/OfficeNews/status/922548304591847428",
+					"display_url": "twitter.com/OfficeNews/sta…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14083,
+			"friends_count": 5220,
+			"listed_count": 536,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20818,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19131,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 25 18:34:27 +0000 2017",
+			"id": 923256458350858200,
+			"id_str": "923256458350858241",
+			"text": "You can now record audio in Sway!!! Yea! https://t.co/pQcY1rEEWX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pQcY1rEEWX",
+						"expanded_url": "https://twitter.com/OfficeNews/status/922548304591847428",
+						"display_url": "twitter.com/OfficeNews/sta…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47225228,
+				"id_str": "47225228",
+				"name": "Amy Vester",
+				"screen_name": "avester1717",
+				"location": "Omaha, NE",
+				"description": "Technology trainer with Omaha Public Schools, math teacher, wife, mom, daughter, sister, and volleyball player.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126,
+				"friends_count": 150,
+				"listed_count": 8,
+				"created_at": "Mon Jun 15 01:27:43 +0000 2009",
+				"favourites_count": 679,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 175,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/563060248634613760/PPwL78YU_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/563060248634613760/PPwL78YU_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47225228/1423079646",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 922548304591847400,
+			"quoted_status_id_str": "922548304591847428",
+			"quoted_status": {
+				"created_at": "Mon Oct 23 19:40:30 +0000 2017",
+				"id": 922548304591847400,
+				"id_str": "922548304591847428",
+				"text": "Take a look at the new features available with the latest release of Sway for #Windows10: https://t.co/ApCz6LTCX5",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Windows10",
+							"indices": [
+								78,
+								88
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/ApCz6LTCX5",
+							"expanded_url": "https://cards.twitter.com/cards/18ce54e68kl/4xrt3",
+							"display_url": "cards.twitter.com/cards/18ce54e6…",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 740240040819753000,
+					"id_str": "740240040819752960",
+					"name": "MS Office News",
+					"screen_name": "OfficeNews",
+					"location": "Redmond, WA",
+					"description": "We’re always improving Office to empower you achieve the things that matter. Be the first to know about breaking news, updates, events, and more.",
+					"url": "https://t.co/5sH2lMuBJY",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/5sH2lMuBJY",
+									"expanded_url": "https://products.office.com/",
+									"display_url": "products.office.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 90159,
+					"friends_count": 409,
+					"listed_count": 302,
+					"created_at": "Tue Jun 07 17:52:33 +0000 2016",
+					"favourites_count": 97,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 1982,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/875776440037384192/NYzM5yvj_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/875776440037384192/NYzM5yvj_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/740240040819752960/1502907022",
+					"profile_link_color": "D83B01",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": true,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 46,
+				"favorite_count": 52,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 922548304591847400,
+		"quoted_status_id_str": "922548304591847428",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 13 21:07:16 +0000 2017",
 		"id": 930180284724760600,
 		"id_str": "930180284724760576",
