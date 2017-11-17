@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 17 17:47:46 +0000 2017",
+		"id": 931579631962030100,
+		"id_str": "931579631962030085",
+		"text": "What a #FunNote of #OneNote Student Avengers wearing their purple capes with pride!\nThanks @DustinJez @FCLEdu… https://t.co/24q3rSJzKE",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FunNote",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DustinJez",
+					"name": "Dustin Jez",
+					"id": 2353399986,
+					"id_str": "2353399986",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"screen_name": "FCLEdu",
+					"name": "Fair Chance Learning",
+					"id": 4357225998,
+					"id_str": "4357225998",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/24q3rSJzKE",
+					"expanded_url": "https://twitter.com/i/web/status/931579631962030085",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14143,
+			"friends_count": 5244,
+			"listed_count": 538,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 20935,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19248,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 931571388443377700,
+		"quoted_status_id_str": "931571388443377664",
+		"quoted_status": {
+			"created_at": "Fri Nov 17 17:15:01 +0000 2017",
+			"id": 931571388443377700,
+			"id_str": "931571388443377664",
+			"text": "‘We’re the @OneNoteEDU Justice League’ Student Avengers @FCLEdu Student Innovation Summit @LakeheadSchools #MSFTEDU… https://t.co/rFoOdmDQDu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEDU",
+						"indices": [
+							107,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							11,
+							22
+						]
+					},
+					{
+						"screen_name": "FCLEdu",
+						"name": "Fair Chance Learning",
+						"id": 4357225998,
+						"id_str": "4357225998",
+						"indices": [
+							56,
+							63
+						]
+					},
+					{
+						"screen_name": "LakeheadSchools",
+						"name": "Lakehead Pub Schools",
+						"id": 250258307,
+						"id_str": "250258307",
+						"indices": [
+							90,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rFoOdmDQDu",
+						"expanded_url": "https://twitter.com/i/web/status/931571388443377664",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2353399986,
+				"id_str": "2353399986",
+				"name": "Dustin Jez",
+				"screen_name": "DustinJez",
+				"location": "Canada",
+				"description": "Dad, Husband, Co-founder & Co-CEO @FCLEdu Professional Learning Specialist @MicrosoftEDU Driven by the successes of those we work with",
+				"url": "https://t.co/bFVuUPZ0zE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bFVuUPZ0zE",
+								"expanded_url": "http://fairchancelearning.com",
+								"display_url": "fairchancelearning.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1475,
+				"friends_count": 1050,
+				"listed_count": 158,
+				"created_at": "Thu Feb 20 15:24:41 +0000 2014",
+				"favourites_count": 3005,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2818,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882943472419950592/QJ5IPDV9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882943472419950592/QJ5IPDV9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2353399986/1452051334",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 17 17:14:08 +0000 2017",
 		"id": 931571167017816000,
 		"id_str": "931571167017816068",
