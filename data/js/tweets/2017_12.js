@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 01 20:00:27 +0000 2017",
+		"id": 936686453257621500,
+		"id_str": "936686453257621504",
+		"text": "RT @wingkanlai: 3D Animations in #Powerpoint That's what I'm talking about #MIEExpert #MicrosoftEDU #EdTech #Morph #3D #KDO365 https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Powerpoint",
+					"indices": [
+						33,
+						44
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"text": "EdTech",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "Morph",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "3D",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "KDO365",
+					"indices": [
+						119,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wingkanlai",
+					"name": "Wing Kan Lai",
+					"id": 2374244311,
+					"id_str": "2374244311",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14278,
+			"friends_count": 5277,
+			"listed_count": 542,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21240,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19462,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 01 19:56:53 +0000 2017",
+			"id": 936685555034751000,
+			"id_str": "936685555034750976",
+			"text": "3D Animations in #Powerpoint That's what I'm talking about #MIEExpert #MicrosoftEDU #EdTech #Morph #3D #KDO365 https://t.co/qWIwnaQ821",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Powerpoint",
+						"indices": [
+							17,
+							28
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							59,
+							69
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							70,
+							83
+						]
+					},
+					{
+						"text": "EdTech",
+						"indices": [
+							84,
+							91
+						]
+					},
+					{
+						"text": "Morph",
+						"indices": [
+							92,
+							98
+						]
+					},
+					{
+						"text": "3D",
+						"indices": [
+							99,
+							102
+						]
+					},
+					{
+						"text": "KDO365",
+						"indices": [
+							103,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 936684467707670500,
+						"id_str": "936684467707670532",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/936684467707670532/pu/img/rUHrd6egS5ddjzr6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/936684467707670532/pu/img/rUHrd6egS5ddjzr6.jpg",
+						"url": "https://t.co/qWIwnaQ821",
+						"display_url": "pic.twitter.com/qWIwnaQ821",
+						"expanded_url": "https://twitter.com/wingkanlai/status/936685555034750976/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 936684467707670500,
+						"id_str": "936684467707670532",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/936684467707670532/pu/img/rUHrd6egS5ddjzr6.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/936684467707670532/pu/img/rUHrd6egS5ddjzr6.jpg",
+						"url": "https://t.co/qWIwnaQ821",
+						"display_url": "pic.twitter.com/qWIwnaQ821",
+						"expanded_url": "https://twitter.com/wingkanlai/status/936685555034750976/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 12739,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/936684467707670532/pu/vid/320x180/BYQTpTV1CaqFmrPU.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/936684467707670532/pu/vid/640x360/xqH-O6y9NU_cJh1Y.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/936684467707670532/pu/pl/dm_P8fZjNXk_tvN3.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/936684467707670532/pu/vid/1280x720/YoXXG188BUZbK9xW.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2374244311,
+				"id_str": "2374244311",
+				"name": "Wing Kan Lai",
+				"screen_name": "wingkanlai",
+				"location": "The Netherlands",
+				"description": "Teacher of Digital Literacy, Math & Physics • Microsoft Learning Consultant • #MIEFellow • #SurfaceEDU Expert • Deep Learning #NPDL • Dutch/English",
+				"url": "https://t.co/mllBMOLiQq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mllBMOLiQq",
+								"expanded_url": "https://paper.li/wingkanlai/1461964786#/",
+								"display_url": "paper.li/wingkanlai/146…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 968,
+				"friends_count": 1005,
+				"listed_count": 175,
+				"created_at": "Wed Mar 05 19:22:53 +0000 2014",
+				"favourites_count": 4397,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2413,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860570462555967488/e_gCNZW6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860570462555967488/e_gCNZW6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2374244311/1511564794",
+				"profile_link_color": "4C0099",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 01 19:07:00 +0000 2017",
 		"id": 936673000824426500,
 		"id_str": "936673000824426497",
