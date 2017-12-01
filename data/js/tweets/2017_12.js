@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 01 22:17:45 +0000 2017",
+		"id": 936721004793036800,
+		"id_str": "936721004793036802",
+		"text": "@Jolannie31 Dit zijn de officiële instructies van Microsoft: https://t.co/JX0dw2nclp\n\nEnige wat ik daarnaast nog ka… https://t.co/LCANkMlLe7",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jolannie31",
+					"name": "Jolanda Maas 🌱",
+					"id": 340801719,
+					"id_str": "340801719",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JX0dw2nclp",
+					"expanded_url": "https://support.office.com/en-us/article/Fix-sync-issues-in-OneNote-for-iOS-or-Android-3d7fd4e9-0fb9-4983-9853-b61b263b0f78",
+					"display_url": "support.office.com/en-us/article/…",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/LCANkMlLe7",
+					"expanded_url": "https://twitter.com/i/web/status/936721004793036802",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 936709492955328500,
+		"in_reply_to_status_id_str": "936709492955328512",
+		"in_reply_to_user_id": 340801719,
+		"in_reply_to_user_id_str": "340801719",
+		"in_reply_to_screen_name": "Jolannie31",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14277,
+			"friends_count": 5281,
+			"listed_count": 542,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21243,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Fri Dec 01 21:58:43 +0000 2017",
+		"id": 936716212586844200,
+		"id_str": "936716212586844162",
+		"text": "Just in: structured and detailed comparison review between @BearNotesApp and #OneNote for macOS specifically, with… https://t.co/xFhpQTcV3c",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						77,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BearNotesApp",
+					"name": "Bear App",
+					"id": 4838782096,
+					"id_str": "4838782096",
+					"indices": [
+						59,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xFhpQTcV3c",
+					"expanded_url": "https://twitter.com/i/web/status/936716212586844162",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14277,
+			"friends_count": 5281,
+			"listed_count": 542,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21243,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 936705359703572500,
+		"quoted_status_id_str": "936705359703572481",
+		"quoted_status": {
+			"created_at": "Fri Dec 01 21:15:35 +0000 2017",
+			"id": 936705359703572500,
+			"id_str": "936705359703572481",
+			"text": "Today's video: @BearNotesApp vs @MSOneNote 📝 #HeadToHead \n📽️ WATCH HERE: https://t.co/ancnEZumIf https://t.co/RZrHNpFQrP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HeadToHead",
+						"indices": [
+							45,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BearNotesApp",
+						"name": "Bear App",
+						"id": 4838782096,
+						"id_str": "4838782096",
+						"indices": [
+							15,
+							28
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							32,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ancnEZumIf",
+						"expanded_url": "https://youtu.be/xhuWokzAbJc",
+						"display_url": "youtu.be/xhuWokzAbJc",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 936630646528766000,
+						"id_str": "936630646528765952",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DP-UnEwXcAAWnVJ.png",
+						"media_url_https": "https://pbs.twimg.com/media/DP-UnEwXcAAWnVJ.png",
+						"url": "https://t.co/RZrHNpFQrP",
+						"display_url": "pic.twitter.com/RZrHNpFQrP",
+						"expanded_url": "https://twitter.com/FrancescoD_Ales/status/936705359703572481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 936630646528766000,
+						"id_str": "936630646528765952",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DP-UnEwXcAAWnVJ.png",
+						"media_url_https": "https://pbs.twimg.com/media/DP-UnEwXcAAWnVJ.png",
+						"url": "https://t.co/RZrHNpFQrP",
+						"display_url": "pic.twitter.com/RZrHNpFQrP",
+						"expanded_url": "https://twitter.com/FrancescoD_Ales/status/936705359703572481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 254500640,
+				"id_str": "254500640",
+				"name": "Francesco D'Alessio",
+				"screen_name": "FrancescoD_Ales",
+				"location": "Plymouth, England",
+				"description": "Freelance Marketer by day. 👨‍💻  Remote Worker 🇬🇧 Reviews Personal Productivity Apps on YouTube 📽️ Writer/Blogger 📝 Loves technology! 📱",
+				"url": "https://t.co/7AjWtngF0M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7AjWtngF0M",
+								"expanded_url": "https://www.youtube.com/user/cesidalessio/?sub_confirmation=1",
+								"display_url": "youtube.com/user/cesidales…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11314,
+				"friends_count": 10817,
+				"listed_count": 418,
+				"created_at": "Sat Feb 19 12:02:04 +0000 2011",
+				"favourites_count": 44631,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18331,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437578092878376960/5UaWSfJ3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437578092878376960/5UaWSfJ3.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/932286796687437825/9oWqERr1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/932286796687437825/9oWqERr1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/254500640/1511127068",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 01 21:09:27 +0000 2017",
 		"id": 936703816182923300,
 		"id_str": "936703816182923264",
