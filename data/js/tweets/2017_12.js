@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 02 08:55:29 +0000 2017",
+		"id": 936881494802317300,
+		"id_str": "936881494802317314",
+		"text": "RT @anthonychuter: 1 picture = 1000 words: Creating a ProcessFolio in @msonenote for our Photography unit in #CommTech What an amazing tool…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CommTech",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anthonychuter",
+					"name": "Anthony Chuter",
+					"id": 226295178,
+					"id_str": "226295178",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						70,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14278,
+			"friends_count": 5283,
+			"listed_count": 542,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21245,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19470,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 02 04:50:46 +0000 2017",
+			"id": 936819912130969600,
+			"id_str": "936819912130969600",
+			"text": "1 picture = 1000 words: Creating a ProcessFolio in @msonenote for our Photography unit in #CommTech What an amazing… https://t.co/cGavB9965Z",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CommTech",
+						"indices": [
+							90,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							51,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cGavB9965Z",
+						"expanded_url": "https://twitter.com/i/web/status/936819912130969600",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 226295178,
+				"id_str": "226295178",
+				"name": "Anthony Chuter",
+				"screen_name": "anthonychuter",
+				"location": "Toronto, Ontario",
+				"description": "Technology & History Teacher | M. Ed Education & Digital Media | #MiEExpert |@commonsenseEd Mentor |  #geekdad #scratchEd #edtech #digcit",
+				"url": "https://t.co/zhdOzYvA3S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zhdOzYvA3S",
+								"expanded_url": "http://ict4kids.ca",
+								"display_url": "ict4kids.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 702,
+				"friends_count": 645,
+				"listed_count": 137,
+				"created_at": "Mon Dec 13 20:33:46 +0000 2010",
+				"favourites_count": 1372,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2245,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000039956207/faf7c72254e40368d5db0094d261e5d8.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000039956207/faf7c72254e40368d5db0094d261e5d8.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900797662391406592/tkf-ZsGC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900797662391406592/tkf-ZsGC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/226295178/1412531631",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 02 07:57:27 +0000 2017",
 		"id": 936866889128558600,
 		"id_str": "936866889128558592",
