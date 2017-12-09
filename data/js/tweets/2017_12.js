@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sat Dec 09 12:55:00 +0000 2017",
+		"id": 939478486191833100,
+		"id_str": "939478486191833089",
+		"text": "RT @Filibuster3: Love the gold ink in #OneNote to decorate my picture of Hogwarts castle at #universalstudioshollywood https://t.co/6EiFzCh…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "universalstudioshollywood",
+					"indices": [
+						92,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Filibuster3",
+					"name": "KarynF",
+					"id": 314753981,
+					"id_str": "314753981",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14339,
+			"friends_count": 5303,
+			"listed_count": 543,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21358,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 09 02:18:32 +0000 2017",
+			"id": 939318314945232900,
+			"id_str": "939318314945232896",
+			"text": "Love the gold ink in #OneNote to decorate my picture of Hogwarts castle at #universalstudioshollywood https://t.co/6EiFzChBNp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"text": "universalstudioshollywood",
+						"indices": [
+							75,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 939318313280090100,
+						"id_str": "939318313280090112",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DQkhB3oUMAAecU_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQkhB3oUMAAecU_.jpg",
+						"url": "https://t.co/6EiFzChBNp",
+						"display_url": "pic.twitter.com/6EiFzChBNp",
+						"expanded_url": "https://twitter.com/Filibuster3/status/939318314945232896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 925,
+								"h": 1227,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 513,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 905,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 939318313280090100,
+						"id_str": "939318313280090112",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DQkhB3oUMAAecU_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQkhB3oUMAAecU_.jpg",
+						"url": "https://t.co/6EiFzChBNp",
+						"display_url": "pic.twitter.com/6EiFzChBNp",
+						"expanded_url": "https://twitter.com/Filibuster3/status/939318314945232896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 925,
+								"h": 1227,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 513,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 905,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 314753981,
+				"id_str": "314753981",
+				"name": "KarynF",
+				"screen_name": "Filibuster3",
+				"location": "California",
+				"description": "Technology Trainer/former classroom and SpEd teacher, Surface Master Trainer, Apple teacher, Microsoft Innovative Educator/Master Trainer - opinions are my own",
+				"url": "https://t.co/j9Derhw8TL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j9Derhw8TL",
+								"expanded_url": "http://bit.ly/accessnotebook",
+								"display_url": "bit.ly/accessnotebook",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 110,
+				"friends_count": 92,
+				"listed_count": 3,
+				"created_at": "Fri Jun 10 19:12:10 +0000 2011",
+				"favourites_count": 1776,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 885,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F2F0B8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926676080924037120/5YvcZgml_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926676080924037120/5YvcZgml_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/314753981/1494518139",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 09 12:09:03 +0000 2017",
 		"id": 939466923934474200,
 		"id_str": "939466923934474240",
