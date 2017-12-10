@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 10 22:55:06 +0000 2017",
+		"id": 939991895933112300,
+		"id_str": "939991895933112321",
+		"text": "RT @JenMsft: Whiteboard's ink to shape animation is pretty sweet 😮😃😁🔥 @MicrosoftDesign https://t.co/MBhrkUqAKi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenMsft",
+					"name": "Jen Gentleman 🌺",
+					"id": 3309105596,
+					"id_str": "3309105596",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "MicrosoftDesign",
+					"name": "Microsoft Design",
+					"id": 209202416,
+					"id_str": "209202416",
+					"indices": [
+						70,
+						86
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 939964622139940900,
+					"id_str": "939964622139940864",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQts1_wV4AAQt1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQts1_wV4AAQt1j.jpg",
+					"url": "https://t.co/MBhrkUqAKi",
+					"display_url": "pic.twitter.com/MBhrkUqAKi",
+					"expanded_url": "https://twitter.com/JenMsft/status/939964663495770113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1074,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1074,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939964663495770100,
+					"source_status_id_str": "939964663495770113",
+					"source_user_id": 3309105596,
+					"source_user_id_str": "3309105596"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 939964622139940900,
+					"id_str": "939964622139940864",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQts1_wV4AAQt1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQts1_wV4AAQt1j.jpg",
+					"url": "https://t.co/MBhrkUqAKi",
+					"display_url": "pic.twitter.com/MBhrkUqAKi",
+					"expanded_url": "https://twitter.com/JenMsft/status/939964663495770113/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1074,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1074,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 939964663495770100,
+					"source_status_id_str": "939964663495770113",
+					"source_user_id": 3309105596,
+					"source_user_id_str": "3309105596",
+					"video_info": {
+						"aspect_ratio": [
+							179,
+							120
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DQts1_wV4AAQt1j.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14350,
+			"friends_count": 5304,
+			"listed_count": 543,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21363,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19580,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 10 21:06:54 +0000 2017",
+			"id": 939964663495770100,
+			"id_str": "939964663495770113",
+			"text": "Whiteboard's ink to shape animation is pretty sweet 😮😃😁🔥 @MicrosoftDesign https://t.co/MBhrkUqAKi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftDesign",
+						"name": "Microsoft Design",
+						"id": 209202416,
+						"id_str": "209202416",
+						"indices": [
+							57,
+							73
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 939964622139940900,
+						"id_str": "939964622139940864",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQts1_wV4AAQt1j.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQts1_wV4AAQt1j.jpg",
+						"url": "https://t.co/MBhrkUqAKi",
+						"display_url": "pic.twitter.com/MBhrkUqAKi",
+						"expanded_url": "https://twitter.com/JenMsft/status/939964663495770113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 456,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1074,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1074,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 939964622139940900,
+						"id_str": "939964622139940864",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DQts1_wV4AAQt1j.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DQts1_wV4AAQt1j.jpg",
+						"url": "https://t.co/MBhrkUqAKi",
+						"display_url": "pic.twitter.com/MBhrkUqAKi",
+						"expanded_url": "https://twitter.com/JenMsft/status/939964663495770113/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 456,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1074,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1074,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								179,
+								120
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DQts1_wV4AAQt1j.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309105596,
+				"id_str": "3309105596",
+				"name": "Jen Gentleman 🌺",
+				"screen_name": "JenMsft",
+				"location": "Seattle, WA",
+				"description": "Software Engineer, Community Champ & #WindowsInsider on Shell team @ Microsoft. I work w/ Windows feedback for Start, Action center, taskbar, Windows Ink + more",
+				"url": "https://t.co/ACVIR7xvcT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ACVIR7xvcT",
+								"expanded_url": "https://www.instagram.com/jenmsft/",
+								"display_url": "instagram.com/jenmsft/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13406,
+				"friends_count": 206,
+				"listed_count": 273,
+				"created_at": "Fri Aug 07 22:21:33 +0000 2015",
+				"favourites_count": 91663,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24167,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836676253163794432/nEHQRbjt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836676253163794432/nEHQRbjt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309105596/1488314185",
+				"profile_link_color": "D44A4A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 10 22:15:41 +0000 2017",
 		"id": 939981973061357600,
 		"id_str": "939981973061357568",
