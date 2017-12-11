@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Mon Dec 11 19:25:00 +0000 2017",
+		"id": 940301410775785500,
+		"id_str": "940301410775785472",
+		"text": "RT @LlywelynMorgan: #Office365Advent tip number 11 of 24 for #Sway to beat the Monday blues #Office365 #MIEExpert #edtech https://t.co/BUSv…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Office365Advent",
+					"indices": [
+						20,
+						36
+					]
+				},
+				{
+					"text": "Sway",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "Office365",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LlywelynMorgan",
+					"name": "Llywelyn Morgan",
+					"id": 713745729886560300,
+					"id_str": "713745729886560258",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14356,
+			"friends_count": 5307,
+			"listed_count": 542,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21376,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19598,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 11 17:25:04 +0000 2017",
+			"id": 940271225263226900,
+			"id_str": "940271225263226925",
+			"text": "#Office365Advent tip number 11 of 24 for #Sway to beat the Monday blues #Office365 #MIEExpert #edtech https://t.co/BUSviqiRK5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Office365Advent",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"text": "Sway",
+						"indices": [
+							41,
+							46
+						]
+					},
+					{
+						"text": "Office365",
+						"indices": [
+							72,
+							82
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							83,
+							93
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							94,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 940270761213694000,
+						"id_str": "940270761213693954",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DQyDRorUEAIcLR_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQyDRorUEAIcLR_.jpg",
+						"url": "https://t.co/BUSviqiRK5",
+						"display_url": "pic.twitter.com/BUSviqiRK5",
+						"expanded_url": "https://twitter.com/LlywelynMorgan/status/940271225263226925/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 940270761213694000,
+						"id_str": "940270761213693954",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DQyDRorUEAIcLR_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQyDRorUEAIcLR_.jpg",
+						"url": "https://t.co/BUSviqiRK5",
+						"display_url": "pic.twitter.com/BUSviqiRK5",
+						"expanded_url": "https://twitter.com/LlywelynMorgan/status/940271225263226925/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 713745729886560300,
+				"id_str": "713745729886560258",
+				"name": "Llywelyn Morgan",
+				"screen_name": "LlywelynMorgan",
+				"location": "London, England",
+				"description": "Communications & E-Learning Co-ordinator @reigategrammar. Office 365, OneNote and Moodle specialist. Microsoft Innovative Educator Expert #MIEExpert",
+				"url": "https://t.co/knt7hJHuQG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/knt7hJHuQG",
+								"expanded_url": "http://uk.linkedin.com/in/llywelyn-morgan",
+								"display_url": "uk.linkedin.com/in/llywelyn-mo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 140,
+				"friends_count": 91,
+				"listed_count": 17,
+				"created_at": "Sat Mar 26 15:13:37 +0000 2016",
+				"favourites_count": 213,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 284,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/714153649153376256/-FtAr8qo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/714153649153376256/-FtAr8qo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/713745729886560258/1459246138",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 11 19:13:22 +0000 2017",
 		"id": 940298479909457900,
 		"id_str": "940298479909457920",
