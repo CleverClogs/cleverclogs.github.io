@@ -1,6 +1,795 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Wed Dec 13 21:10:00 +0000 2017",
+		"id": 941052607619125200,
+		"id_str": "941052607619125249",
+		"text": "RT @LlywelynMorgan: Cheating today #Office365Advent tip number 13 of 24 is for #Word2016 and not #Office365 #MEC #MIEExpert #edtech Go to h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Office365Advent",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"text": "Word2016",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "Office365",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "MEC",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LlywelynMorgan",
+					"name": "Llywelyn Morgan",
+					"id": 713745729886560300,
+					"id_str": "713745729886560258",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14379,
+			"friends_count": 5307,
+			"listed_count": 540,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21425,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 13 20:05:36 +0000 2017",
+			"id": 941036400081866800,
+			"id_str": "941036400081866753",
+			"text": "Cheating today #Office365Advent tip number 13 of 24 is for #Word2016 and not #Office365 #MEC #MIEExpert #edtech Go… https://t.co/57KNJPmkl9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Office365Advent",
+						"indices": [
+							15,
+							31
+						]
+					},
+					{
+						"text": "Word2016",
+						"indices": [
+							59,
+							68
+						]
+					},
+					{
+						"text": "Office365",
+						"indices": [
+							77,
+							87
+						]
+					},
+					{
+						"text": "MEC",
+						"indices": [
+							88,
+							92
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							93,
+							103
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							104,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/57KNJPmkl9",
+						"expanded_url": "https://twitter.com/i/web/status/941036400081866753",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 713745729886560300,
+				"id_str": "713745729886560258",
+				"name": "Llywelyn Morgan",
+				"screen_name": "LlywelynMorgan",
+				"location": "London, England",
+				"description": "Communications & E-Learning Co-ordinator @reigategrammar. Office 365, OneNote and Moodle specialist. Microsoft Innovative Educator Expert #MIEExpert",
+				"url": "https://t.co/knt7hJHuQG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/knt7hJHuQG",
+								"expanded_url": "http://uk.linkedin.com/in/llywelyn-morgan",
+								"display_url": "uk.linkedin.com/in/llywelyn-mo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141,
+				"friends_count": 91,
+				"listed_count": 17,
+				"created_at": "Sat Mar 26 15:13:37 +0000 2016",
+				"favourites_count": 219,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 291,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/714153649153376256/-FtAr8qo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/714153649153376256/-FtAr8qo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/713745729886560258/1459246138",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 13 20:55:01 +0000 2017",
+		"id": 941048838713958400,
+		"id_str": "941048838713958402",
+		"text": "Congratulations to all phenomenal educators who have been nominated a Top 50 nominee for the Global @TeacherPrize c… https://t.co/LtiZpC7xwy",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeacherPrize",
+					"name": "Global Teacher Prize",
+					"id": 2345263466,
+					"id_str": "2345263466",
+					"indices": [
+						100,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LtiZpC7xwy",
+					"expanded_url": "https://twitter.com/i/web/status/941048838713958402",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14379,
+			"friends_count": 5307,
+			"listed_count": 540,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21425,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 940760724296622100,
+		"quoted_status_id_str": "940760724296622080",
+		"quoted_status": {
+			"created_at": "Wed Dec 13 01:50:09 +0000 2017",
+			"id": 940760724296622100,
+			"id_str": "940760724296622080",
+			"text": "It’s an honour to be called a Global Teacher Prize top 50 finalist for the second consecutive year.… https://t.co/tqPWPQsFpz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tqPWPQsFpz",
+						"expanded_url": "https://twitter.com/i/web/status/940760724296622080",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149593681,
+				"id_str": "149593681",
+				"name": "Koen Timmers",
+				"screen_name": "zelfstudie",
+				"location": "Belgium",
+				"description": "@TeacherPrize Top 50 teacher | Teaching Kakuma Refugees via Skype | Author | Speaker | Technology Enhanced Learning | Founder zelfstudie.be | MIE Fellow",
+				"url": "https://t.co/CMArT0rZSU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CMArT0rZSU",
+								"expanded_url": "http://www.timmers.me",
+								"display_url": "timmers.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4113,
+				"friends_count": 3410,
+				"listed_count": 336,
+				"created_at": "Sat May 29 17:52:29 +0000 2010",
+				"favourites_count": 8864,
+				"utc_offset": 3600,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7209,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D0D0D0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/375133972/bg-twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/375133972/bg-twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/938332514732724229/wF2u9QYM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/938332514732724229/wF2u9QYM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1512550696",
+				"profile_link_color": "D9650D",
+				"profile_sidebar_border_color": "0D0202",
+				"profile_sidebar_fill_color": "EDA426",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 118,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 13 20:25:10 +0000 2017",
+		"id": 941041326245769200,
+		"id_str": "941041326245769216",
+		"text": "RT @SummerWinrotte: @OneNoteC @fanchettes @anfield1974 @townesy77 3 Fav #OneNote tips 1)Change default text type/color for T ink 2)Distribu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SummerWinrotte",
+					"name": "Ms Winrotte",
+					"id": 2312953676,
+					"id_str": "2312953676",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"screen_name": "fanchettes",
+					"name": "Fancheesy",
+					"id": 30542096,
+					"id_str": "30542096",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "anfield1974",
+					"name": "Steve Crapnell",
+					"id": 158195502,
+					"id_str": "158195502",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "townesy77",
+					"name": "Megan Townes 🎄🎅🏻",
+					"id": 27093634,
+					"id_str": "27093634",
+					"indices": [
+						55,
+						65
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14379,
+			"friends_count": 5307,
+			"listed_count": 540,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21425,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 12 14:39:55 +0000 2017",
+			"id": 940592052898758700,
+			"id_str": "940592052898758657",
+			"text": "@OneNoteC @fanchettes @anfield1974 @townesy77 3 Fav #OneNote tips 1)Change default text type/color for T ink 2)Dist… https://t.co/r4XNzPwNWY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							52,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "fanchettes",
+						"name": "Fancheesy",
+						"id": 30542096,
+						"id_str": "30542096",
+						"indices": [
+							10,
+							21
+						]
+					},
+					{
+						"screen_name": "anfield1974",
+						"name": "Steve Crapnell",
+						"id": 158195502,
+						"id_str": "158195502",
+						"indices": [
+							22,
+							34
+						]
+					},
+					{
+						"screen_name": "townesy77",
+						"name": "Megan Townes 🎄🎅🏻",
+						"id": 27093634,
+						"id_str": "27093634",
+						"indices": [
+							35,
+							45
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/r4XNzPwNWY",
+						"expanded_url": "https://twitter.com/i/web/status/940592052898758657",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 940559894050205700,
+			"in_reply_to_status_id_str": "940559894050205696",
+			"in_reply_to_user_id": 2582768738,
+			"in_reply_to_user_id_str": "2582768738",
+			"in_reply_to_screen_name": "OneNoteC",
+			"user": {
+				"id": 2312953676,
+				"id_str": "2312953676",
+				"name": "Ms Winrotte",
+				"screen_name": "SummerWinrotte",
+				"location": "",
+				"description": "Listener, Encourager, Digital Instructional Coach/Math Teacher, #MIEExpert, #Microsoft Certified Educator, Surface Expert, #OneNote FAN! Statements are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 752,
+				"friends_count": 410,
+				"listed_count": 174,
+				"created_at": "Mon Jan 27 03:50:15 +0000 2014",
+				"favourites_count": 3010,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2326,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855039450019229698/hEQMG33d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855039450019229698/hEQMG33d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2312953676/1498492212",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 13 19:55:11 +0000 2017",
 		"id": 941033780340551700,
 		"id_str": "941033780340551682",
