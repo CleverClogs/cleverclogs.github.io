@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 14 15:01:14 +0000 2017",
+		"id": 941322192473743400,
+		"id_str": "941322192473743362",
+		"text": "#OneNote feature suggestion from @sdtitmas: support Twitter embeds. \n\nTheir #oEmbed API endpoint is actually in pla… https://t.co/6WzCIgxluW",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "oEmbed",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sdtitmas",
+					"name": "Scott Titmas",
+					"id": 2341899519,
+					"id_str": "2341899519",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6WzCIgxluW",
+					"expanded_url": "https://twitter.com/i/web/status/941322192473743362",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14391,
+			"friends_count": 5312,
+			"listed_count": 540,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21431,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19661,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 941133427818025000,
+		"quoted_status_id_str": "941133427818024962",
+		"quoted_status": {
+			"created_at": "Thu Dec 14 02:31:09 +0000 2017",
+			"id": 941133427818025000,
+			"id_str": "941133427818024962",
+			"text": "Would be pretty cool if you could embed a Tweet into OneNote.. Just sayin (hint hint) @MicrosoftEDU @OneNoteEDU #MIEExpert",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							112,
+							122
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							86,
+							99
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							100,
+							111
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2341899519,
+				"id_str": "2341899519",
+				"name": "Scott Titmas",
+				"screen_name": "sdtitmas",
+				"location": "Old Bridge, NJ",
+				"description": "Technology Integration Specialist • #OBProud • #EdTechOB • #TLAP & #DitchBook enthusiast • #MIEExpert • @Flipgrid Ambassador #FlipgridFever",
+				"url": "https://t.co/quNGRpTPHR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/quNGRpTPHR",
+								"expanded_url": "http://mrtjibberjabber.wordpress.com",
+								"display_url": "mrtjibberjabber.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4027,
+				"friends_count": 2874,
+				"listed_count": 69,
+				"created_at": "Thu Feb 13 19:39:14 +0000 2014",
+				"favourites_count": 22488,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10035,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911378837434331136/Zb2RsFsS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911378837434331136/Zb2RsFsS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2341899519/1513179451",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 14 14:33:01 +0000 2017",
+		"id": 941315094322987000,
+		"id_str": "941315094322987009",
+		"text": "RT @lauracstokes: 1st time on the stage with the incredible #EduTeam and Partners today sharing the super exciting surprises we have in sto…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EduTeam",
+					"indices": [
+						60,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lauracstokes",
+					"name": "Laura Stokes",
+					"id": 258572115,
+					"id_str": "258572115",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14391,
+			"friends_count": 5312,
+			"listed_count": 540,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21431,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19661,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 13 19:25:11 +0000 2017",
+			"id": 941026232589803500,
+			"id_str": "941026232589803522",
+			"text": "1st time on the stage with the incredible #EduTeam and Partners today sharing the super exciting surprises we have… https://t.co/Xz0UgI5wFu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EduTeam",
+						"indices": [
+							42,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Xz0UgI5wFu",
+						"expanded_url": "https://twitter.com/i/web/status/941026232589803522",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 258572115,
+				"id_str": "258572115",
+				"name": "Laura Stokes",
+				"screen_name": "lauracstokes",
+				"location": "London, England",
+				"description": "Ideas // Action | Engagement // Disruption | Education//Knowledge | Enabling Others | Proud Feminist | ♥er of Adventure | Microsoft 🇦🇺🇬🇧🌏All views are my own",
+				"url": "https://t.co/XVL5XZBQSA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XVL5XZBQSA",
+								"expanded_url": "https://au.linkedin.com/in/laurastokes1",
+								"display_url": "au.linkedin.com/in/laurastokes1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1500,
+				"friends_count": 969,
+				"listed_count": 38,
+				"created_at": "Mon Feb 28 00:57:40 +0000 2011",
+				"favourites_count": 3706,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2369,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "080808",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000108826761/6cf5f806dea60560d347cf5d5560d9af.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000108826761/6cf5f806dea60560d347cf5d5560d9af.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929448592594612225/aGzm1qu7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929448592594612225/aGzm1qu7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/258572115/1511108003",
+				"profile_link_color": "050505",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 14 14:13:53 +0000 2017",
 		"id": 941310277152378900,
 		"id_str": "941310277152378880",
@@ -189,7 +655,7 @@ Grailbird.data.tweets_2017_12 =
 				"name": "Jennifer Morgan",
 				"screen_name": "JennMorganSTS",
 				"location": "Ogden, UT",
-				"description": "#NCCE Coordinator of Professional Development. #Microsoftedu OneNote Superhero​, MIE Expert, Surface Expert & Skype Master Teacher. Microsoft Master Trainer.",
+				"description": "#NCCE Coordinator of Professional Development. #Microsoftedu OneNote Superhero, MIE Expert, Surface Expert & Skype Master Teacher. Microsoft Master Trainer.",
 				"url": "https://t.co/0IXNDHPHFr",
 				"entities": {
 					"url": {
