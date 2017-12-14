@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Thu Dec 14 14:13:53 +0000 2017",
+		"id": 941310277152378900,
+		"id_str": "941310277152378880",
+		"text": "RT @JennMorganSTS: Nothing cooler than giving an @OneNoteC  @surface  and @MicrosoftTeams  tutorial at 30k feet while flying home from shar…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennMorganSTS",
+					"name": "Jennifer Morgan",
+					"id": 2884783467,
+					"id_str": "2884783467",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"screen_name": "surface",
+					"name": "Microsoft Surface",
+					"id": 612076511,
+					"id_str": "612076511",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						74,
+						89
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14390,
+			"friends_count": 5310,
+			"listed_count": 543,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21428,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 14 05:53:25 +0000 2017",
+			"id": 941184330411343900,
+			"id_str": "941184330411343872",
+			"text": "Nothing cooler than giving an @OneNoteC  @surface  and @MicrosoftTeams  tutorial at 30k feet while flying home from… https://t.co/KVhgvZC57E",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							30,
+							39
+						]
+					},
+					{
+						"screen_name": "surface",
+						"name": "Microsoft Surface",
+						"id": 612076511,
+						"id_str": "612076511",
+						"indices": [
+							41,
+							49
+						]
+					},
+					{
+						"screen_name": "MicrosoftTeams",
+						"name": "Microsoft Teams",
+						"id": 817461289081409500,
+						"id_str": "817461289081409536",
+						"indices": [
+							55,
+							70
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KVhgvZC57E",
+						"expanded_url": "https://twitter.com/i/web/status/941184330411343872",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2884783467,
+				"id_str": "2884783467",
+				"name": "Jennifer Morgan",
+				"screen_name": "JennMorganSTS",
+				"location": "Ogden, UT",
+				"description": "#NCCE Coordinator of Professional Development. #Microsoftedu OneNote Superhero​, MIE Expert, Surface Expert & Skype Master Teacher. Microsoft Master Trainer.",
+				"url": "https://t.co/0IXNDHPHFr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0IXNDHPHFr",
+								"expanded_url": "http://ncce.org",
+								"display_url": "ncce.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2057,
+				"friends_count": 1805,
+				"listed_count": 87,
+				"created_at": "Wed Nov 19 21:31:07 +0000 2014",
+				"favourites_count": 1181,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2459,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902373260649611264/r0KI68SB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902373260649611264/r0KI68SB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2884783467/1418497152",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 14 13:25:01 +0000 2017",
+		"id": 941297977993453600,
+		"id_str": "941297977993453568",
+		"text": "RT @townesy77: @mr_aquil1 @TheBebsMLC @suzylolley @SummerWinrotte @OneNoteC @fanchettes @anfield1974 @maclejeune @MrsEinRoom406 @OneNoteEDU…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "townesy77",
+					"name": "Megan Townes 🎄🎅🏻",
+					"id": 27093634,
+					"id_str": "27093634",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "mr_aquil1",
+					"name": "Ammar Aquil",
+					"id": 790958635400761300,
+					"id_str": "790958635400761344",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "TheBebsMLC",
+					"name": "Vance Beblow",
+					"id": 905509679220043800,
+					"id_str": "905509679220043777",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "suzylolley",
+					"name": "Suzy Lolley",
+					"id": 210890979,
+					"id_str": "210890979",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"screen_name": "SummerWinrotte",
+					"name": "Ms Winrotte",
+					"id": 2312953676,
+					"id_str": "2312953676",
+					"indices": [
+						50,
+						65
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"screen_name": "fanchettes",
+					"name": "Fancheesy",
+					"id": 30542096,
+					"id_str": "30542096",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "anfield1974",
+					"name": "Steve Crapnell",
+					"id": 158195502,
+					"id_str": "158195502",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"screen_name": "maclejeune",
+					"name": "Melanie LeJeune",
+					"id": 82766519,
+					"id_str": "82766519",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"screen_name": "MrsEinRoom406",
+					"name": "Danielle Edmunds",
+					"id": 1651823454,
+					"id_str": "1651823454",
+					"indices": [
+						113,
+						127
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14390,
+			"friends_count": 5310,
+			"listed_count": 543,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21428,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19659,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 14 05:37:59 +0000 2017",
+			"id": 941180445273727000,
+			"id_str": "941180445273726976",
+			"text": "@mr_aquil1 @TheBebsMLC @suzylolley @SummerWinrotte @OneNoteC @fanchettes @anfield1974 @maclejeune @MrsEinRoom406… https://t.co/I2Wv3w59At",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mr_aquil1",
+						"name": "Ammar Aquil",
+						"id": 790958635400761300,
+						"id_str": "790958635400761344",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "TheBebsMLC",
+						"name": "Vance Beblow",
+						"id": 905509679220043800,
+						"id_str": "905509679220043777",
+						"indices": [
+							11,
+							22
+						]
+					},
+					{
+						"screen_name": "suzylolley",
+						"name": "Suzy Lolley",
+						"id": 210890979,
+						"id_str": "210890979",
+						"indices": [
+							23,
+							34
+						]
+					},
+					{
+						"screen_name": "SummerWinrotte",
+						"name": "Ms Winrotte",
+						"id": 2312953676,
+						"id_str": "2312953676",
+						"indices": [
+							35,
+							50
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							51,
+							60
+						]
+					},
+					{
+						"screen_name": "fanchettes",
+						"name": "Fancheesy",
+						"id": 30542096,
+						"id_str": "30542096",
+						"indices": [
+							61,
+							72
+						]
+					},
+					{
+						"screen_name": "anfield1974",
+						"name": "Steve Crapnell",
+						"id": 158195502,
+						"id_str": "158195502",
+						"indices": [
+							73,
+							85
+						]
+					},
+					{
+						"screen_name": "maclejeune",
+						"name": "Melanie LeJeune",
+						"id": 82766519,
+						"id_str": "82766519",
+						"indices": [
+							86,
+							97
+						]
+					},
+					{
+						"screen_name": "MrsEinRoom406",
+						"name": "Danielle Edmunds",
+						"id": 1651823454,
+						"id_str": "1651823454",
+						"indices": [
+							98,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/I2Wv3w59At",
+						"expanded_url": "https://twitter.com/i/web/status/941180445273726976",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 941072087904436200,
+			"in_reply_to_status_id_str": "941072087904436224",
+			"in_reply_to_user_id": 790958635400761300,
+			"in_reply_to_user_id_str": "790958635400761344",
+			"in_reply_to_screen_name": "mr_aquil1",
+			"user": {
+				"id": 27093634,
+				"id_str": "27093634",
+				"name": "Megan Townes 🎄🎅🏻",
+				"screen_name": "townesy77",
+				"location": "Western Sydney, NSW, Australia",
+				"description": "Mother, Wife, Learner, Teacher, Microsoft Teacher Ambassador, Microsoft Innovative Educator Expert, OneNote Avenger, Pluviophile #MSFTEDU #MSAUEDU #MIEexpert",
+				"url": "https://t.co/w9NoTKgV8S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w9NoTKgV8S",
+								"expanded_url": "http://about.me/townesy77",
+								"display_url": "about.me/townesy77",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4687,
+				"friends_count": 2872,
+				"listed_count": 224,
+				"created_at": "Fri Mar 27 20:49:12 +0000 2009",
+				"favourites_count": 5720,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37142,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000008086996/c4038f9866fbbdcfad725c0fed348104.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000008086996/c4038f9866fbbdcfad725c0fed348104.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865129659771396096/1U_4WiKA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865129659771396096/1U_4WiKA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27093634/1497001452",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 14 13:19:07 +0000 2017",
 		"id": 941296494522576900,
 		"id_str": "941296494522576896",
