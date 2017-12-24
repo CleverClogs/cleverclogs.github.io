@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 24 09:54:25 +0000 2017",
+		"id": 944868860997570600,
+		"id_str": "944868860997570560",
+		"text": "RT @LlywelynMorgan: Just go with the #MSFlow today. It's the final tip of the #Office365Advent. Follow https://t.co/jGNiWn75bF for instruct…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFlow",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"text": "Office365Advent",
+					"indices": [
+						78,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LlywelynMorgan",
+					"name": "Llywelyn Morgan",
+					"id": 713745729886560300,
+					"id_str": "713745729886560258",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jGNiWn75bF",
+					"expanded_url": "http://bit.ly/2BOAWVkt",
+					"display_url": "bit.ly/2BOAWVkt",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14481,
+			"friends_count": 5335,
+			"listed_count": 545,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21567,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19789,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 24 09:20:20 +0000 2017",
+			"id": 944860282169552900,
+			"id_str": "944860282169552897",
+			"text": "Just go with the #MSFlow today. It's the final tip of the #Office365Advent. Follow https://t.co/jGNiWn75bF for inst… https://t.co/RWzb76cmFn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFlow",
+						"indices": [
+							17,
+							24
+						]
+					},
+					{
+						"text": "Office365Advent",
+						"indices": [
+							58,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jGNiWn75bF",
+						"expanded_url": "http://bit.ly/2BOAWVkt",
+						"display_url": "bit.ly/2BOAWVkt",
+						"indices": [
+							83,
+							106
+						]
+					},
+					{
+						"url": "https://t.co/RWzb76cmFn",
+						"expanded_url": "https://twitter.com/i/web/status/944860282169552897",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 713745729886560300,
+				"id_str": "713745729886560258",
+				"name": "Llywelyn Morgan",
+				"screen_name": "LlywelynMorgan",
+				"location": "London, England",
+				"description": "Communications & E-Learning Co-ordinator @reigategrammar. Office 365, OneNote and Moodle specialist. Microsoft Innovative Educator Expert #MIEExpert",
+				"url": "https://t.co/knt7hJHuQG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/knt7hJHuQG",
+								"expanded_url": "http://uk.linkedin.com/in/llywelyn-morgan",
+								"display_url": "uk.linkedin.com/in/llywelyn-mo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 154,
+				"friends_count": 92,
+				"listed_count": 17,
+				"created_at": "Sat Mar 26 15:13:37 +0000 2016",
+				"favourites_count": 231,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 326,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/714153649153376256/-FtAr8qo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/714153649153376256/-FtAr8qo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/713745729886560258/1459246138",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 23 20:14:42 +0000 2017",
 		"id": 944662569515700200,
 		"id_str": "944662569515700224",
