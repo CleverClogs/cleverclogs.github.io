@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 29 17:40:49 +0000 2017",
+		"id": 946798172797653000,
+		"id_str": "946798172797652992",
+		"text": "RT @basnettj: Taking my first steps with @MicrosoftEDU.  Starting with @OneNoteEDU https://t.co/q55s4G1Nca Maybe some helfpul tips here...…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "basnettj",
+					"name": "JEBasnett",
+					"id": 22670490,
+					"id_str": "22670490",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						71,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q55s4G1Nca",
+					"expanded_url": "http://janeebasnett.blogspot.co.uk/2017/12/first-steps-with-onenote.html",
+					"display_url": "janeebasnett.blogspot.co.uk/2017/12/first-…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14520,
+			"friends_count": 5340,
+			"listed_count": 545,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21591,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19823,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 29 16:29:10 +0000 2017",
+			"id": 946780141379883000,
+			"id_str": "946780141379883008",
+			"text": "Taking my first steps with @MicrosoftEDU.  Starting with @OneNoteEDU https://t.co/q55s4G1Nca Maybe some helfpul tip… https://t.co/8DEc0GWqOL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							27,
+							40
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							57,
+							68
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/q55s4G1Nca",
+						"expanded_url": "http://janeebasnett.blogspot.co.uk/2017/12/first-steps-with-onenote.html",
+						"display_url": "janeebasnett.blogspot.co.uk/2017/12/first-…",
+						"indices": [
+							69,
+							92
+						]
+					},
+					{
+						"url": "https://t.co/8DEc0GWqOL",
+						"expanded_url": "https://twitter.com/i/web/status/946780141379883008",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22670490,
+				"id_str": "22670490",
+				"name": "JEBasnett",
+				"screen_name": "basnettj",
+				"location": "",
+				"description": "Head of MFL - MA in Dig Tech. Views my own https://t.co/8bYSqKWbgy https://t.co/A8VT5keGrb",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8bYSqKWbgy",
+								"expanded_url": "http://janeebasnett.blogspot.co.uk/",
+								"display_url": "janeebasnett.blogspot.co.uk",
+								"indices": [
+									43,
+									66
+								]
+							},
+							{
+								"url": "https://t.co/A8VT5keGrb",
+								"expanded_url": "http://dhtm.wordpress.com/",
+								"display_url": "dhtm.wordpress.com",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2527,
+				"friends_count": 775,
+				"listed_count": 229,
+				"created_at": "Tue Mar 03 20:09:30 +0000 2009",
+				"favourites_count": 4897,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25680,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9266CC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/562366620689903616/QfGvxf4O.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/562366620689903616/QfGvxf4O.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699989620570853376/7AGzG2JH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699989620570853376/7AGzG2JH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22670490/1413705157",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 29 12:55:04 +0000 2017",
 		"id": 946726260033642500,
 		"id_str": "946726260033642497",
