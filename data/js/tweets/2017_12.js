@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 31 14:25:35 +0000 2017",
+		"id": 947473815419924500,
+		"id_str": "947473815419924480",
+		"text": "RT @Marco17H: Allen ein gutes Neues Jahr 2018!!!\r#onenote #MicrosoftEdu https://t.co/hoH5tkJquX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onenote",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						58,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Marco17H",
+					"name": "Marco",
+					"id": 494943802,
+					"id_str": "494943802",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 947472459166601200,
+					"id_str": "947472459166601217",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DSYZLoMXUAESxC7.png",
+					"media_url_https": "https://pbs.twimg.com/media/DSYZLoMXUAESxC7.png",
+					"url": "https://t.co/hoH5tkJquX",
+					"display_url": "pic.twitter.com/hoH5tkJquX",
+					"expanded_url": "https://twitter.com/Marco17H/status/947472463641894913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 719,
+							"h": 837,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 837,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 947472463641894900,
+					"source_status_id_str": "947472463641894913",
+					"source_user_id": 494943802,
+					"source_user_id_str": "494943802"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 947472459166601200,
+					"id_str": "947472459166601217",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/DSYZLoMXUAESxC7.png",
+					"media_url_https": "https://pbs.twimg.com/media/DSYZLoMXUAESxC7.png",
+					"url": "https://t.co/hoH5tkJquX",
+					"display_url": "pic.twitter.com/hoH5tkJquX",
+					"expanded_url": "https://twitter.com/Marco17H/status/947472463641894913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 719,
+							"h": 837,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 719,
+							"h": 837,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 947472463641894900,
+					"source_status_id_str": "947472463641894913",
+					"source_user_id": 494943802,
+					"source_user_id_str": "494943802"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14542,
+			"friends_count": 5340,
+			"listed_count": 542,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21610,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19836,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 31 14:20:13 +0000 2017",
+			"id": 947472463641894900,
+			"id_str": "947472463641894913",
+			"text": "Allen ein gutes Neues Jahr 2018!!!\r#onenote #MicrosoftEdu https://t.co/hoH5tkJquX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "onenote",
+						"indices": [
+							35,
+							43
+						]
+					},
+					{
+						"text": "MicrosoftEdu",
+						"indices": [
+							44,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 947472459166601200,
+						"id_str": "947472459166601217",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DSYZLoMXUAESxC7.png",
+						"media_url_https": "https://pbs.twimg.com/media/DSYZLoMXUAESxC7.png",
+						"url": "https://t.co/hoH5tkJquX",
+						"display_url": "pic.twitter.com/hoH5tkJquX",
+						"expanded_url": "https://twitter.com/Marco17H/status/947472463641894913/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 719,
+								"h": 837,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 584,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 719,
+								"h": 837,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 947472459166601200,
+						"id_str": "947472459166601217",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/DSYZLoMXUAESxC7.png",
+						"media_url_https": "https://pbs.twimg.com/media/DSYZLoMXUAESxC7.png",
+						"url": "https://t.co/hoH5tkJquX",
+						"display_url": "pic.twitter.com/hoH5tkJquX",
+						"expanded_url": "https://twitter.com/Marco17H/status/947472463641894913/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 719,
+								"h": 837,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 584,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 719,
+								"h": 837,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 494943802,
+				"id_str": "494943802",
+				"name": "Marco",
+				"screen_name": "Marco17H",
+				"location": "Bayern, Deutschland",
+				"description": "Musiker, Mathematiker, #surface, #OneNote, Stundenplaner, #untis, Trompeter, Realschule, Bayern, Blechbläserquintett, Musikunterricht, Musik, #FCBayern",
+				"url": "https://t.co/rclBG7UuYu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rclBG7UuYu",
+								"expanded_url": "http://machmermadde.wordpress.com",
+								"display_url": "machmermadde.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 100,
+				"friends_count": 262,
+				"listed_count": 12,
+				"created_at": "Fri Feb 17 12:33:55 +0000 2012",
+				"favourites_count": 284,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 700,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894874939408384000/d18hBXK0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894874939408384000/d18hBXK0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/494943802/1495205134",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de"
+	},
+	{
 		"created_at": "Sun Dec 31 13:16:02 +0000 2017",
 		"id": 947456312497115100,
 		"id_str": "947456312497115137",
