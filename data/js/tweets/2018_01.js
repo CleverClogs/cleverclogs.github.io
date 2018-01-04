@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 04 18:09:22 +0000 2018",
+		"id": 948979682115862500,
+		"id_str": "948979682115862528",
+		"text": "Stay organized with #OneNote. Here are 6 easy tricks that get you up and running in no time:… https://t.co/V6sFsb7Pb3",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						20,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V6sFsb7Pb3",
+					"expanded_url": "https://twitter.com/i/web/status/948979682115862528",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14583,
+			"friends_count": 5347,
+			"listed_count": 541,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21649,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19864,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 04 17:47:45 +0000 2018",
+		"id": 948974242313527300,
+		"id_str": "948974242313527296",
+		"text": "RT @showmerob: Collaborating with some great hosts and @OneNoteC for the next #MicrosoftEdu #MSFTEDUChat #TweetMeet #OPSProud of @KellyMean…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						78,
+						91
+					]
+				},
+				{
+					"text": "MSFTEDUChat",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "TweetMeet",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "OPSProud",
+					"indices": [
+						116,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "showmerob",
+					"name": "Rob Dickson",
+					"id": 38084709,
+					"id_str": "38084709",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14583,
+			"friends_count": 5347,
+			"listed_count": 541,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21649,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19864,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 04 16:56:08 +0000 2018",
+			"id": 948961253275430900,
+			"id_str": "948961253275430914",
+			"text": "Collaborating with some great hosts and @OneNoteC for the next #MicrosoftEdu #MSFTEDUChat #TweetMeet #OPSProud of… https://t.co/Ptadu6bmwi",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftEdu",
+						"indices": [
+							63,
+							76
+						]
+					},
+					{
+						"text": "MSFTEDUChat",
+						"indices": [
+							77,
+							89
+						]
+					},
+					{
+						"text": "TweetMeet",
+						"indices": [
+							90,
+							100
+						]
+					},
+					{
+						"text": "OPSProud",
+						"indices": [
+							101,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							40,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ptadu6bmwi",
+						"expanded_url": "https://twitter.com/i/web/status/948961253275430914",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38084709,
+				"id_str": "38084709",
+				"name": "Rob Dickson",
+				"screen_name": "showmerob",
+				"location": "Omaha, NE",
+				"description": "Executive Director for OPS - and father of 3 great girls. 2014 #20toWatch by NSBA - 2016 CDE Top 30 - 2017 ISTE PLN Administrator Award for Exemplary Leadership",
+				"url": "https://t.co/XBYocuxzv0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XBYocuxzv0",
+								"expanded_url": "http://showmerob.com",
+								"display_url": "showmerob.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15512,
+				"friends_count": 2584,
+				"listed_count": 366,
+				"created_at": "Wed May 06 01:58:06 +0000 2009",
+				"favourites_count": 5846,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11460,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2A5FAD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/823508270/ce196901c8c56593c653b0a254afa064.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/823508270/ce196901c8c56593c653b0a254afa064.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/896474076188987393/SrCVISWg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/896474076188987393/SrCVISWg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38084709/1498750072",
+				"profile_link_color": "2B4085",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9d34050082000",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9d34050082000.json",
+				"place_type": "poi",
+				"name": "OPS Teacher Administrative Center (TAC)",
+				"full_name": "OPS Teacher Administrative Center (TAC)",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-95.95994524187093,
+								41.267464325582104
+							],
+							[
+								-95.95994524187093,
+								41.267464325582104
+							],
+							[
+								-95.95994524187093,
+								41.267464325582104
+							],
+							[
+								-95.95994524187093,
+								41.267464325582104
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 04 15:25:04 +0000 2018",
 		"id": 948938334906265600,
 		"id_str": "948938334906265602",
