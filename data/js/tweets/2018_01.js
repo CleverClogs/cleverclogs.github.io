@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 08 18:51:01 +0000 2018",
+		"id": 950439715873984500,
+		"id_str": "950439715873984512",
+		"text": "RT @rgfriebel: Mark your calendars for the next TweetMeet, @ocsdltfco and I will host the topics of Device and Tech-quity.  \"See\" you on th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rgfriebel",
+					"name": "Ross G. Friebel",
+					"id": 1581123883,
+					"id_str": "1581123883",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "ocsdltfco",
+					"name": "stephen.taylor",
+					"id": 1654288992,
+					"id_str": "1654288992",
+					"indices": [
+						59,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14603,
+			"friends_count": 5350,
+			"listed_count": 545,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21690,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19893,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 08 18:08:55 +0000 2018",
+			"id": 950429120239980500,
+			"id_str": "950429120239980545",
+			"text": "Mark your calendars for the next TweetMeet, @ocsdltfco and I will host the topics of Device and Tech-quity.  \"See\"… https://t.co/tzVyQWeTua",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ocsdltfco",
+						"name": "stephen.taylor",
+						"id": 1654288992,
+						"id_str": "1654288992",
+						"indices": [
+							44,
+							54
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tzVyQWeTua",
+						"expanded_url": "https://twitter.com/i/web/status/950429120239980545",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1581123883,
+				"id_str": "1581123883",
+				"name": "Ross G. Friebel",
+				"screen_name": "rgfriebel",
+				"location": "Onslow County Schools",
+				"description": "Digital Learning & Teaching Services",
+				"url": "https://t.co/YbSg1OaQza",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YbSg1OaQza",
+								"expanded_url": "http://onslow.k12.nc.us",
+								"display_url": "onslow.k12.nc.us",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 469,
+				"friends_count": 148,
+				"listed_count": 4,
+				"created_at": "Tue Jul 09 18:19:32 +0000 2013",
+				"favourites_count": 539,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1463,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950427119758315521/jib9ZDsq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950427119758315521/jib9ZDsq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1581123883/1453403712",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 08 17:01:51 +0000 2018",
 		"id": 950412242851450900,
 		"id_str": "950412242851450881",
