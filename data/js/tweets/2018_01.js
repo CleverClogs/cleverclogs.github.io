@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 09 12:20:27 +0000 2018",
+		"id": 950703814075736000,
+		"id_str": "950703814075736064",
+		"text": "RT @emsisdits: Blown away by these 3rd graders @EagleMountainEL Thank you @MrsWitta for thinking outside the box @msonenote @OneNoteEDU #em…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emsisdits",
+					"name": "emsisdits",
+					"id": 275592120,
+					"id_str": "275592120",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "EagleMountainEL",
+					"name": "Eagle Mountain Elem",
+					"id": 761292542700695600,
+					"id_str": "761292542700695552",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"screen_name": "MrsWitta",
+					"name": "Christina Witta",
+					"id": 2874533128,
+					"id_str": "2874533128",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14606,
+			"friends_count": 5351,
+			"listed_count": 547,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21711,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19904,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 11:53:25 +0000 2018",
+			"id": 950697013154336800,
+			"id_str": "950697013154336768",
+			"text": "Blown away by these 3rd graders @EagleMountainEL Thank you @MrsWitta for thinking outside the box @msonenote… https://t.co/s48WR0LcaX",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EagleMountainEL",
+						"name": "Eagle Mountain Elem",
+						"id": 761292542700695600,
+						"id_str": "761292542700695552",
+						"indices": [
+							32,
+							48
+						]
+					},
+					{
+						"screen_name": "MrsWitta",
+						"name": "Christina Witta",
+						"id": 2874533128,
+						"id_str": "2874533128",
+						"indices": [
+							59,
+							68
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							98,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/s48WR0LcaX",
+						"expanded_url": "https://twitter.com/i/web/status/950697013154336768",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275592120,
+				"id_str": "275592120",
+				"name": "emsisdits",
+				"screen_name": "emsisdits",
+				"location": "",
+				"description": "Instructional Technology for Eagle Mountain-Saginaw ISD",
+				"url": "http://t.co/ASX1RhQU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ASX1RhQU",
+								"expanded_url": "http://emsisdits.blogspot.com/",
+								"display_url": "emsisdits.blogspot.com",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 470,
+				"friends_count": 167,
+				"listed_count": 11,
+				"created_at": "Fri Apr 01 15:58:13 +0000 2011",
+				"favourites_count": 1006,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 984,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660919187892637696/kJ1rnpTu_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660919187892637696/kJ1rnpTu_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275592120/1504030816",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "e0060cda70f5f341",
+				"url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json",
+				"place_type": "admin",
+				"name": "Texas",
+				"full_name": "Texas, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-106.645646,
+								25.837092
+							],
+							[
+								-93.508131,
+								25.837092
+							],
+							[
+								-93.508131,
+								36.500695
+							],
+							[
+								-106.645646,
+								36.500695
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 09 12:01:40 +0000 2018",
 		"id": 950699087929774100,
 		"id_str": "950699087929774080",
