@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 10 09:05:56 +0000 2018",
+		"id": 951017253268545500,
+		"id_str": "951017253268545536",
+		"text": "RT @clive_gibson: Students designing their own lessons using #OneNote @JESSScienceDept @JESSDigitalUAE #JESSInnovation https://t.co/fEl4PJy…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "JESSInnovation",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clive_gibson",
+					"name": "Clive Gibson",
+					"id": 953902682,
+					"id_str": "953902682",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "JESSScienceDept",
+					"name": "JESS Science",
+					"id": 3789381313,
+					"id_str": "3789381313",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"screen_name": "JESSDigitalUAE",
+					"name": "JESS Digital",
+					"id": 741337016428843000,
+					"id_str": "741337016428843009",
+					"indices": [
+						87,
+						102
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14614,
+			"friends_count": 5353,
+			"listed_count": 544,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21714,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19910,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1500128051",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 10 08:15:07 +0000 2018",
+			"id": 951004462834962400,
+			"id_str": "951004462834962432",
+			"text": "Students designing their own lessons using #OneNote @JESSScienceDept @JESSDigitalUAE #JESSInnovation https://t.co/fEl4PJyzKh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							43,
+							51
+						]
+					},
+					{
+						"text": "JESSInnovation",
+						"indices": [
+							85,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JESSScienceDept",
+						"name": "JESS Science",
+						"id": 3789381313,
+						"id_str": "3789381313",
+						"indices": [
+							52,
+							68
+						]
+					},
+					{
+						"screen_name": "JESSDigitalUAE",
+						"name": "JESS Digital",
+						"id": 741337016428843000,
+						"id_str": "741337016428843009",
+						"indices": [
+							69,
+							84
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 951004330496331800,
+						"id_str": "951004330496331776",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DTKlZmMXkAADlXJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTKlZmMXkAADlXJ.jpg",
+						"url": "https://t.co/fEl4PJyzKh",
+						"display_url": "pic.twitter.com/fEl4PJyzKh",
+						"expanded_url": "https://twitter.com/clive_gibson/status/951004462834962432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 951004330496331800,
+						"id_str": "951004330496331776",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DTKlZmMXkAADlXJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTKlZmMXkAADlXJ.jpg",
+						"url": "https://t.co/fEl4PJyzKh",
+						"display_url": "pic.twitter.com/fEl4PJyzKh",
+						"expanded_url": "https://twitter.com/clive_gibson/status/951004462834962432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 951004364713463800,
+						"id_str": "951004364713463808",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DTKlblqXkAAGL07.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTKlblqXkAAGL07.jpg",
+						"url": "https://t.co/fEl4PJyzKh",
+						"display_url": "pic.twitter.com/fEl4PJyzKh",
+						"expanded_url": "https://twitter.com/clive_gibson/status/951004462834962432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 951004398540546000,
+						"id_str": "951004398540546048",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DTKldjrX4AA3xHx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTKldjrX4AA3xHx.jpg",
+						"url": "https://t.co/fEl4PJyzKh",
+						"display_url": "pic.twitter.com/fEl4PJyzKh",
+						"expanded_url": "https://twitter.com/clive_gibson/status/951004462834962432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 951004432199835600,
+						"id_str": "951004432199835648",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DTKlfhEX4AAcgAw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTKlfhEX4AAcgAw.jpg",
+						"url": "https://t.co/fEl4PJyzKh",
+						"display_url": "pic.twitter.com/fEl4PJyzKh",
+						"expanded_url": "https://twitter.com/clive_gibson/status/951004462834962432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 953902682,
+				"id_str": "953902682",
+				"name": "Clive Gibson",
+				"screen_name": "clive_gibson",
+				"location": "Dubai, UAE",
+				"description": "Physics teacher shaping the use of technology in teaching and learning, #MIEE and Microsoft Master trainer #E2 2017 winner #MakeWhatsNext gamify",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 902,
+				"friends_count": 1848,
+				"listed_count": 33,
+				"created_at": "Sat Nov 17 16:34:07 +0000 2012",
+				"favourites_count": 583,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 887,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910372992831639552/uK4-rWsr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910372992831639552/uK4-rWsr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/953902682/1473776395",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 10 08:05:31 +0000 2018",
 		"id": 951002048807489500,
 		"id_str": "951002048807489536",
