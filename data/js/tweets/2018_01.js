@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 16 19:45:58 +0000 2018",
+		"id": 953352647326740500,
+		"id_str": "953352647326740480",
+		"text": "RT @clcsimon: Please share with your #PLN! Introducing #teacher5aday #FitFeb! Stay fit this Feb and win cool prizes &gt;&gt; https://t.co/nmdPQhV…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PLN",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "teacher5aday",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"text": "FitFeb",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clcsimon",
+					"name": "Simon Johnson",
+					"id": 551974058,
+					"id_str": "551974058",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14701,
+			"friends_count": 5381,
+			"listed_count": 546,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21872,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20022,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1515883725",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 16 19:01:00 +0000 2018",
+			"id": 953341333191700500,
+			"id_str": "953341333191700481",
+			"text": "Please share with your #PLN! Introducing #teacher5aday #FitFeb! Stay fit this Feb and win cool prizes &gt;&gt;… https://t.co/c1JhUHgQvI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PLN",
+						"indices": [
+							23,
+							27
+						]
+					},
+					{
+						"text": "teacher5aday",
+						"indices": [
+							41,
+							54
+						]
+					},
+					{
+						"text": "FitFeb",
+						"indices": [
+							55,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/c1JhUHgQvI",
+						"expanded_url": "https://twitter.com/i/web/status/953341333191700481",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 551974058,
+				"id_str": "551974058",
+				"name": "Simon Johnson",
+				"screen_name": "clcsimon",
+				"location": "West Midlands, England",
+				"description": "Educator | #Minecraftedu Mentor | #MIEExpert | CAS Master Teacher | Believes #Magic happens in the classroom | Co-founder #NT2tEU #caschat #teacher5aday #fitfeb",
+				"url": "https://t.co/ZwU122XgX5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZwU122XgX5",
+								"expanded_url": "http://teachwithict.com/",
+								"display_url": "teachwithict.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7966,
+				"friends_count": 6499,
+				"listed_count": 685,
+				"created_at": "Thu Apr 12 16:12:14 +0000 2012",
+				"favourites_count": 41860,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49440,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/702237095/61195df3c16621dd0fd91315216a7010.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/702237095/61195df3c16621dd0fd91315216a7010.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/946750533674684416/bNjS5xu8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946750533674684416/bNjS5xu8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/551974058/1504691635",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 16 19:20:14 +0000 2018",
+		"id": 953346170968997900,
+		"id_str": "953346170968997890",
+		"text": "@TechLaurent @MicrosoftEDU @TheBayAreaG @Filibuster3 Hi Laurent, please get in touch with me directly.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechLaurent",
+					"name": "Laurent_Tech",
+					"id": 4844897037,
+					"id_str": "4844897037",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "TheBayAreaG",
+					"name": "Nancy Chang",
+					"id": 258094084,
+					"id_str": "258094084",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "Filibuster3",
+					"name": "KarynF",
+					"id": 314753981,
+					"id_str": "314753981",
+					"indices": [
+						40,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 953334306088288300,
+		"in_reply_to_status_id_str": "953334306088288257",
+		"in_reply_to_user_id": 4844897037,
+		"in_reply_to_user_id_str": "4844897037",
+		"in_reply_to_screen_name": "TechLaurent",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14701,
+			"friends_count": 5381,
+			"listed_count": 546,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21872,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20022,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1515883725",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 16 19:00:41 +0000 2018",
 		"id": 953341252031926300,
 		"id_str": "953341252031926272",
