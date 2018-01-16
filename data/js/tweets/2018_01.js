@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 16 20:45:24 +0000 2018",
+		"id": 953367604286165000,
+		"id_str": "953367604286164997",
+		"text": "RT @mrs_dyslexia: Watch Live!! https://t.co/XRZpBdLHGz … RIGHT NOW!!  #Microsoft #Dyslexia #EdTech tools to improve reading and writing\nwit…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"text": "Dyslexia",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "EdTech",
+					"indices": [
+						91,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrs_dyslexia",
+					"name": "Sarah Chapman",
+					"id": 1972636020,
+					"id_str": "1972636020",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XRZpBdLHGz",
+					"expanded_url": "https://www.youtube.com/watch?v=T9dKwqFsOnA",
+					"display_url": "youtube.com/watch?v=T9dKwq…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14703,
+			"friends_count": 5381,
+			"listed_count": 544,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21874,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1515883725",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 16 20:41:54 +0000 2018",
+			"id": 953366725298286600,
+			"id_str": "953366725298286592",
+			"text": "Watch Live!! https://t.co/XRZpBdLHGz … RIGHT NOW!!  #Microsoft #Dyslexia #EdTech tools to improve reading and writi… https://t.co/1vdJmbkIz3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Microsoft",
+						"indices": [
+							52,
+							62
+						]
+					},
+					{
+						"text": "Dyslexia",
+						"indices": [
+							63,
+							72
+						]
+					},
+					{
+						"text": "EdTech",
+						"indices": [
+							73,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XRZpBdLHGz",
+						"expanded_url": "https://www.youtube.com/watch?v=T9dKwqFsOnA",
+						"display_url": "youtube.com/watch?v=T9dKwq…",
+						"indices": [
+							13,
+							36
+						]
+					},
+					{
+						"url": "https://t.co/1vdJmbkIz3",
+						"expanded_url": "https://twitter.com/i/web/status/953366725298286592",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1972636020,
+				"id_str": "1972636020",
+				"name": "Sarah Chapman",
+				"screen_name": "mrs_dyslexia",
+				"location": "England, United Kingdom",
+				"description": "Equality & Diversity Champion - SEN Advocate  #assistivetech #education #accessibility #training #digitalinclusion  Founder & CEO @op_diversity",
+				"url": "https://t.co/dIEOLc45sY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dIEOLc45sY",
+								"expanded_url": "http://www.operationdiversityacademy.co.uk",
+								"display_url": "operationdiversityacademy.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1645,
+				"friends_count": 2609,
+				"listed_count": 35,
+				"created_at": "Sat Oct 19 19:55:26 +0000 2013",
+				"favourites_count": 830,
+				"utc_offset": 0,
+				"time_zone": "Casablanca",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5202,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7613BD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/468034580776099841/vaxdRV9z.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/468034580776099841/vaxdRV9z.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942850815005511680/VCzqGZaD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942850815005511680/VCzqGZaD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1972636020/1513628164",
+				"profile_link_color": "6C489D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 16 19:45:58 +0000 2018",
 		"id": 953352647326740500,
 		"id_str": "953352647326740480",
