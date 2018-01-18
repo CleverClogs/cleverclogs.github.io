@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 18 19:09:50 +0000 2018",
+		"id": 954068329991458800,
+		"id_str": "954068329991458816",
+		"text": "@Filibuster3 @sig225 If you have access to #OneNote Win32, get the \"Clean Authors (Select Scope)\" macro on Onetasti… https://t.co/kRyn9n5oCp",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						43,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Filibuster3",
+					"name": "KarynF",
+					"id": 314753981,
+					"id_str": "314753981",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "sig225",
+					"name": "Cal Armstrong",
+					"id": 12895782,
+					"id_str": "12895782",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kRyn9n5oCp",
+					"expanded_url": "https://twitter.com/i/web/status/954068329991458816",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 954064170680426500,
+		"in_reply_to_status_id_str": "954064170680426496",
+		"in_reply_to_user_id": 314753981,
+		"in_reply_to_user_id_str": "314753981",
+		"in_reply_to_screen_name": "Filibuster3",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14740,
+			"friends_count": 5392,
+			"listed_count": 545,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21935,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 18 18:47:21 +0000 2018",
+		"id": 954062670969425900,
+		"id_str": "954062670969425921",
+		"text": "RT @katjaborregaard: I love the @OneNoteEDU collaboration space for students to share their work and to have every detail of this 5th grade…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katjaborregaard",
+					"name": "Katja Borregaard ⚡️",
+					"id": 49086519,
+					"id_str": "49086519",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant and #MSFTEduChat coordinator.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14740,
+			"friends_count": 5392,
+			"listed_count": 545,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 21935,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 18 18:22:55 +0000 2018",
+			"id": 954056523440967700,
+			"id_str": "954056523440967680",
+			"text": "I love the @OneNoteEDU collaboration space for students to share their work and to have every detail of this 5th gr… https://t.co/qnKCrqEYib",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							11,
+							22
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qnKCrqEYib",
+						"expanded_url": "https://twitter.com/i/web/status/954056523440967680",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49086519,
+				"id_str": "49086519",
+				"name": "Katja Borregaard ⚡️",
+				"screen_name": "katjaborregaard",
+				"location": "Copenhagen, Denmark",
+				"description": "👩🏻‍🏫 Educator at Skt. Josefs Skole, Roskilde & Education Officer @ImmersiveMinds 🧡 #MIEFellow #MIEExpert #MinecraftMentor #SkypeMT #MinecraftEdu #OneNote",
+				"url": "https://t.co/ipbS4Fvf8D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ipbS4Fvf8D",
+								"expanded_url": "http://katjaborregaard.com",
+								"display_url": "katjaborregaard.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1170,
+				"friends_count": 461,
+				"listed_count": 73,
+				"created_at": "Sat Jun 20 19:07:00 +0000 2009",
+				"favourites_count": 4351,
+				"utc_offset": 3600,
+				"time_zone": "Copenhagen",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2748,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/152378577/Deathly_Hallows__official_logo_.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/152378577/Deathly_Hallows__official_logo_.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913741198044655616/fw1MCDsc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913741198044655616/fw1MCDsc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49086519/1461182595",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "86966509848d9894",
+				"url": "https://api.twitter.com/1.1/geo/id/86966509848d9894.json",
+				"place_type": "city",
+				"name": "Høje-Taastrup",
+				"full_name": "Høje-Taastrup, Danmark",
+				"country_code": "DK",
+				"country": "Denmark",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								12.150453,
+								55.605029
+							],
+							[
+								12.3461149,
+								55.605029
+							],
+							[
+								12.3461149,
+								55.7085063
+							],
+							[
+								12.150453,
+								55.7085063
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 18 17:47:39 +0000 2018",
 		"id": 954047646850863100,
 		"id_str": "954047646850863106",
