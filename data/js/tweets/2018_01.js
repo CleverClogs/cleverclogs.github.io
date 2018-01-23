@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 23 13:43:46 +0000 2018",
+		"id": 955798211624669200,
+		"id_str": "955798211624669184",
+		"text": "It’s always a good day to use the #digitalink features in #OneNote, especially on National Handwriting Day. \n\nNice… https://t.co/bKlYolzvcv",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalink",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						58,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bKlYolzvcv",
+					"expanded_url": "https://twitter.com/i/web/status/955798211624669184",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central @ BETT2018",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator #BETT2018",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14795,
+			"friends_count": 5417,
+			"listed_count": 549,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22058,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 955796019282939900,
+		"quoted_status_id_str": "955796019282939906",
+		"quoted_status": {
+			"created_at": "Tue Jan 23 13:35:03 +0000 2018",
+			"id": 955796019282939900,
+			"id_str": "955796019282939906",
+			"text": "It’s National #HandwritingDay! Use a pen and paper to practice your penmanship skills today. https://t.co/GpaOWhyPop",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HandwritingDay",
+						"indices": [
+							14,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 955796016623640600,
+						"id_str": "955796016623640576",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DUOracCV4AAYFw8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUOracCV4AAYFw8.jpg",
+						"url": "https://t.co/GpaOWhyPop",
+						"display_url": "pic.twitter.com/GpaOWhyPop",
+						"expanded_url": "https://twitter.com/MDCPS/status/955796019282939906/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 955796016623640600,
+						"id_str": "955796016623640576",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DUOracCV4AAYFw8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUOracCV4AAYFw8.jpg",
+						"url": "https://t.co/GpaOWhyPop",
+						"display_url": "pic.twitter.com/GpaOWhyPop",
+						"expanded_url": "https://twitter.com/MDCPS/status/955796019282939906/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41169223,
+				"id_str": "41169223",
+				"name": "Miami Dade Schools",
+				"screen_name": "MDCPS",
+				"location": "Miami, Florida",
+				"description": "We are Miami-Dade County Public Schools, the 4th largest school district in the nation. #MDCPSFutureReady",
+				"url": "http://t.co/4Y8ajJgItw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/4Y8ajJgItw",
+								"expanded_url": "http://www.dadeschools.net",
+								"display_url": "dadeschools.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53659,
+				"friends_count": 558,
+				"listed_count": 407,
+				"created_at": "Tue May 19 18:00:39 +0000 2009",
+				"favourites_count": 1990,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17240,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "23408F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/13589602/mdcps-ver2.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/13589602/mdcps-ver2.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/219235562/sealnew20colors_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/219235562/sealnew20colors_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41169223/1492615819",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "00AEEF",
+				"profile_sidebar_fill_color": "00AEEF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jan 23 13:31:47 +0000 2018",
+		"id": 955795198927401000,
+		"id_str": "955795198927400960",
+		"text": "@kylenervasquez @sig225 @NAEmmanuele @ChipBuckwell @Flipgrid @MisterNegron Nice thread ;-)\nIf you’re new to… https://t.co/zrZiKZeULs",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kylenervasquez",
+					"name": "Kylene Vasquez",
+					"id": 4774536469,
+					"id_str": "4774536469",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "sig225",
+					"name": "Cal Armstrong",
+					"id": 12895782,
+					"id_str": "12895782",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "NAEmmanuele",
+					"name": "Nicholas Emmanuele",
+					"id": 916687642846269400,
+					"id_str": "916687642846269440",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "ChipBuckwell",
+					"name": "Chip Buckwell",
+					"id": 56366456,
+					"id_str": "56366456",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "MisterNegron",
+					"name": "THE Mr. Negron",
+					"id": 2290151234,
+					"id_str": "2290151234",
+					"indices": [
+						61,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zrZiKZeULs",
+					"expanded_url": "https://twitter.com/i/web/status/955795198927400960",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 953083463732691000,
+		"in_reply_to_status_id_str": "953083463732690950",
+		"in_reply_to_user_id": 4774536469,
+		"in_reply_to_user_id_str": "4774536469",
+		"in_reply_to_screen_name": "kylenervasquez",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central @ BETT2018",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator #BETT2018",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14795,
+			"friends_count": 5417,
+			"listed_count": 549,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22058,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 23 11:48:09 +0000 2018",
 		"id": 955769117616889900,
 		"id_str": "955769117616889857",
