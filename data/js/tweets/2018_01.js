@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 24 22:18:51 +0000 2018",
+		"id": 956290224312803300,
+		"id_str": "956290224312803329",
+		"text": "RT @ianfordham: Brilliant recap of @Microsoftedu #Microsoftedu Day One at #BETT2018 introduced By our very own @JoseKingsley192 https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoftedu",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"text": "BETT2018",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ianfordham",
+					"name": "Ian Fordham",
+					"id": 17851117,
+					"id_str": "17851117",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "JoseKingsley192",
+					"name": "Jose Kingsley",
+					"id": 3908895514,
+					"id_str": "3908895514",
+					"indices": [
+						111,
+						127
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central @ BETT2018",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator #BETT2018",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14846,
+			"friends_count": 5421,
+			"listed_count": 549,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22065,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20212,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 24 22:07:22 +0000 2018",
+			"id": 956287337478152200,
+			"id_str": "956287337478152192",
+			"text": "Brilliant recap of @Microsoftedu #Microsoftedu Day One at #BETT2018 introduced By our very own @JoseKingsley192 https://t.co/yWSiTO8ZBB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Microsoftedu",
+						"indices": [
+							33,
+							46
+						]
+					},
+					{
+						"text": "BETT2018",
+						"indices": [
+							58,
+							67
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							19,
+							32
+						]
+					},
+					{
+						"screen_name": "JoseKingsley192",
+						"name": "Jose Kingsley",
+						"id": 3908895514,
+						"id_str": "3908895514",
+						"indices": [
+							95,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yWSiTO8ZBB",
+						"expanded_url": "https://www.youtube.com/watch?v=9KeMlGiLKlM&sns=tw",
+						"display_url": "youtube.com/watch?v=9KeMlG…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17851117,
+				"id_str": "17851117",
+				"name": "Ian Fordham",
+				"screen_name": "ianfordham",
+				"location": "United Kingdom",
+				"description": "Director of Education @MicrosoftUK @MicrosoftEdUK | @MayorofLondon Tech Ambassador | Adv board Edtech UK | Former CEO @EdtechukHQ & Co-founder @EdnFoundation",
+				"url": "https://t.co/v1HHQj9lPE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v1HHQj9lPE",
+								"expanded_url": "http://linkedin.com/in/ianfordham",
+								"display_url": "linkedin.com/in/ianfordham",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10477,
+				"friends_count": 8730,
+				"listed_count": 514,
+				"created_at": "Wed Dec 03 22:19:50 +0000 2008",
+				"favourites_count": 6665,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13214,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902645864862289929/ESoQSPNB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902645864862289929/ESoQSPNB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17851117/1516690426",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "720081c4c09a4a84",
+				"url": "https://api.twitter.com/1.1/geo/id/720081c4c09a4a84.json",
+				"place_type": "city",
+				"name": "East Ham",
+				"full_name": "East Ham, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.008924,
+								51.496049
+							],
+							[
+								0.098752,
+								51.496049
+							],
+							[
+								0.098752,
+								51.536046
+							],
+							[
+								-0.008924,
+								51.536046
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 24 20:31:55 +0000 2018",
 		"id": 956263314170044400,
 		"id_str": "956263314170044417",
