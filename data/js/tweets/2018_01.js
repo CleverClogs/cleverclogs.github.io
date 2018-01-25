@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Thu Jan 25 14:55:57 +0000 2018",
+		"id": 956541155965128700,
+		"id_str": "956541155965128704",
+		"text": "We did it! Thank you @MicrosoftEDU and @LBayne for the opportunity to do a Facebook Live session with @MTholfsen, a… https://t.co/RtcKu6M6sA",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "LBayne",
+					"name": "Lindsay Bayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RtcKu6M6sA",
+					"expanded_url": "https://twitter.com/i/web/status/956541155965128704",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central @ BETT2018",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator #BETT2018",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14873,
+			"friends_count": 5422,
+			"listed_count": 549,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22065,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20217,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 956537525652377600,
+		"quoted_status_id_str": "956537525652377601",
+		"quoted_status": {
+			"created_at": "Thu Jan 25 14:41:32 +0000 2018",
+			"id": 956537525652377600,
+			"id_str": "956537525652377601",
+			"text": "Watch the OneNote #MicrosoftEDU AMA with @OneNoteC and @mtholfsen live on facebook from #bett2018 here:… https://t.co/8JeivXxeIh",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							18,
+							31
+						]
+					},
+					{
+						"text": "bett2018",
+						"indices": [
+							88,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central @ BETT2018",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							41,
+							50
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							55,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8JeivXxeIh",
+						"expanded_url": "https://twitter.com/i/web/status/956537525652377601",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18954505,
+				"id_str": "18954505",
+				"name": "Lindsay Bayne",
+				"screen_name": "LBayne",
+				"location": "Belltown, Seattle",
+				"description": "Triathlete, amateur artist, blind optimist, #EdTech and #OneNote Enthusiast on the #MicrosoftEdu team-- Follow @OneNoteEDU @MicrosoftEdu Excited for #BETT2018",
+				"url": "https://t.co/T0KmfKQ5Hx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T0KmfKQ5Hx",
+								"expanded_url": "http://Educationblog.Microsoft.com",
+								"display_url": "Educationblog.Microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1588,
+				"friends_count": 1113,
+				"listed_count": 169,
+				"created_at": "Tue Jan 13 21:34:28 +0000 2009",
+				"favourites_count": 5007,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4702,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/887039812020064256/Mw3xCKA__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/887039812020064256/Mw3xCKA__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18954505/1473207396",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "720081c4c09a4a84",
+				"url": "https://api.twitter.com/1.1/geo/id/720081c4c09a4a84.json",
+				"place_type": "city",
+				"name": "East Ham",
+				"full_name": "East Ham, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.008924,
+								51.496049
+							],
+							[
+								0.098752,
+								51.496049
+							],
+							[
+								0.098752,
+								51.536046
+							],
+							[
+								-0.008924,
+								51.536046
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 956510156417896400,
+			"quoted_status_id_str": "956510156417896448",
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 25 13:31:47 +0000 2018",
 		"id": 956519973966446600,
 		"id_str": "956519973966446592",
