@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sat Jan 27 10:33:04 +0000 2018",
+		"id": 957199773005688800,
+		"id_str": "957199773005688832",
+		"text": "@GudrunEdhofer @AnthonySalcito @mtholfsen @kurtsoeser @olivierdijkmans @katjaborregaard @JSchittenkopf @EmmaNaas72… https://t.co/RifHkEjgyY",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GudrunEdhofer",
+					"name": "Gudrun Edhofer",
+					"id": 865116806586957800,
+					"id_str": "865116806586957824",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AnthonySalcito",
+					"name": "Anthony Salcito",
+					"id": 424333470,
+					"id_str": "424333470",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "kurtsoeser",
+					"name": "Kurt Söser @BETT2018",
+					"id": 55684861,
+					"id_str": "55684861",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "olivierdijkmans",
+					"name": "Olivier Dijkmans",
+					"id": 846782516728090600,
+					"id_str": "846782516728090625",
+					"indices": [
+						54,
+						70
+					]
+				},
+				{
+					"screen_name": "katjaborregaard",
+					"name": "Katja Borregaard ⚡️",
+					"id": 49086519,
+					"id_str": "49086519",
+					"indices": [
+						71,
+						87
+					]
+				},
+				{
+					"screen_name": "JSchittenkopf",
+					"name": "Judith Schittenkopf",
+					"id": 531626270,
+					"id_str": "531626270",
+					"indices": [
+						88,
+						102
+					]
+				},
+				{
+					"screen_name": "EmmaNaas72",
+					"name": "Emma Nääs",
+					"id": 4391803529,
+					"id_str": "4391803529",
+					"indices": [
+						103,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RifHkEjgyY",
+					"expanded_url": "https://twitter.com/i/web/status/957199773005688832",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 957199326127755300,
+		"in_reply_to_status_id_str": "957199326127755267",
+		"in_reply_to_user_id": 865116806586957800,
+		"in_reply_to_user_id_str": "865116806586957824",
+		"in_reply_to_screen_name": "GudrunEdhofer",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central @ BETT2018",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator #BETT2018",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14913,
+			"friends_count": 5427,
+			"listed_count": 548,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22099,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 26 23:10:02 +0000 2018",
 		"id": 957027883419099100,
 		"id_str": "957027883419099136",
