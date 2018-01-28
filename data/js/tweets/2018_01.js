@@ -1,6 +1,816 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 28 23:08:41 +0000 2018",
+		"id": 957752318010773500,
+		"id_str": "957752318010773504",
+		"text": "RT @samuelmcneill: I've indexed with brief descriptions the key points the latest webinar from @mtholfsen on creating inclusive classrooms…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samuelmcneill",
+					"name": "Sam McNeill",
+					"id": 89340013,
+					"id_str": "89340013",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14938,
+			"friends_count": 5428,
+			"listed_count": 551,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22134,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 28 23:06:05 +0000 2018",
+			"id": 957751662382219300,
+			"id_str": "957751662382219265",
+			"text": "I've indexed with brief descriptions the key points the latest webinar from @mtholfsen on creating inclusive classr… https://t.co/VnUU20kQbj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							76,
+							86
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VnUU20kQbj",
+						"expanded_url": "https://twitter.com/i/web/status/957751662382219265",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89340013,
+				"id_str": "89340013",
+				"name": "Sam McNeill",
+				"screen_name": "samuelmcneill",
+				"location": "New Zealand",
+				"description": "Solution Specialist Professional with Microsoft. Former K-12 ICT Director.\nFollow my thoughts on ICT & Education at https://t.co/ABoeG2g1jp",
+				"url": "https://t.co/iqIexprOtV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iqIexprOtV",
+								"expanded_url": "http://www.samuelmcneill.com",
+								"display_url": "samuelmcneill.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ABoeG2g1jp",
+								"expanded_url": "http://concise.info/Tech_Ed",
+								"display_url": "concise.info/Tech_Ed",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2123,
+				"friends_count": 2083,
+				"listed_count": 247,
+				"created_at": "Thu Nov 12 01:34:27 +0000 2009",
+				"favourites_count": 3897,
+				"utc_offset": 46800,
+				"time_zone": "Wellington",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10188,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802308636550643716/1GUZfcVs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802308636550643716/1GUZfcVs_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 957750322616832000,
+			"quoted_status_id_str": "957750322616832000",
+			"quoted_status": {
+				"created_at": "Sun Jan 28 23:00:45 +0000 2018",
+				"id": 957750322616832000,
+				"id_str": "957750322616832000",
+				"text": "Video: Creating Inclusive Classrooms https://t.co/kU8n5aLD9g https://t.co/NccNp4Vikz",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/kU8n5aLD9g",
+							"expanded_url": "https://samuelmcneill.com/2018/01/29/video-creating-inclusive-classrooms/",
+							"display_url": "samuelmcneill.com/2018/01/29/vid…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 957750319902900200,
+							"id_str": "957750319902900224",
+							"indices": [
+								61,
+								84
+							],
+							"media_url": "http://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+							"url": "https://t.co/NccNp4Vikz",
+							"display_url": "pic.twitter.com/NccNp4Vikz",
+							"expanded_url": "https://twitter.com/samuelmcneill/status/957750322616832000/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 344,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1024,
+									"h": 518,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 518,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 957750319902900200,
+							"id_str": "957750319902900224",
+							"indices": [
+								61,
+								84
+							],
+							"media_url": "http://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+							"url": "https://t.co/NccNp4Vikz",
+							"display_url": "pic.twitter.com/NccNp4Vikz",
+							"expanded_url": "https://twitter.com/samuelmcneill/status/957750322616832000/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 344,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1024,
+									"h": 518,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 518,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 89340013,
+					"id_str": "89340013",
+					"name": "Sam McNeill",
+					"screen_name": "samuelmcneill",
+					"location": "New Zealand",
+					"description": "Solution Specialist Professional with Microsoft. Former K-12 ICT Director.\nFollow my thoughts on ICT & Education at https://t.co/ABoeG2g1jp",
+					"url": "https://t.co/iqIexprOtV",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/iqIexprOtV",
+									"expanded_url": "http://www.samuelmcneill.com",
+									"display_url": "samuelmcneill.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/ABoeG2g1jp",
+									"expanded_url": "http://concise.info/Tech_Ed",
+									"display_url": "concise.info/Tech_Ed",
+									"indices": [
+										116,
+										139
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 2123,
+					"friends_count": 2083,
+					"listed_count": 247,
+					"created_at": "Thu Nov 12 01:34:27 +0000 2009",
+					"favourites_count": 3897,
+					"utc_offset": 46800,
+					"time_zone": "Wellington",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 10188,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/802308636550643716/1GUZfcVs_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/802308636550643716/1GUZfcVs_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 957750322616832000,
+		"quoted_status_id_str": "957750322616832000",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jan 28 23:08:20 +0000 2018",
+		"id": 957752231301931000,
+		"id_str": "957752231301931008",
+		"text": "RT @samuelmcneill: Video: Creating Inclusive Classrooms https://t.co/kU8n5aLD9g https://t.co/NccNp4Vikz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samuelmcneill",
+					"name": "Sam McNeill",
+					"id": 89340013,
+					"id_str": "89340013",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kU8n5aLD9g",
+					"expanded_url": "https://samuelmcneill.com/2018/01/29/video-creating-inclusive-classrooms/",
+					"display_url": "samuelmcneill.com/2018/01/29/vid…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 957750319902900200,
+					"id_str": "957750319902900224",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+					"url": "https://t.co/NccNp4Vikz",
+					"display_url": "pic.twitter.com/NccNp4Vikz",
+					"expanded_url": "https://twitter.com/samuelmcneill/status/957750322616832000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 344,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 518,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 957750322616832000,
+					"source_status_id_str": "957750322616832000",
+					"source_user_id": 89340013,
+					"source_user_id_str": "89340013"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 957750319902900200,
+					"id_str": "957750319902900224",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+					"url": "https://t.co/NccNp4Vikz",
+					"display_url": "pic.twitter.com/NccNp4Vikz",
+					"expanded_url": "https://twitter.com/samuelmcneill/status/957750322616832000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 344,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 518,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 957750322616832000,
+					"source_status_id_str": "957750322616832000",
+					"source_user_id": 89340013,
+					"source_user_id_str": "89340013"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14938,
+			"friends_count": 5428,
+			"listed_count": 551,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22134,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20269,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 28 23:00:45 +0000 2018",
+			"id": 957750322616832000,
+			"id_str": "957750322616832000",
+			"text": "Video: Creating Inclusive Classrooms https://t.co/kU8n5aLD9g https://t.co/NccNp4Vikz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kU8n5aLD9g",
+						"expanded_url": "https://samuelmcneill.com/2018/01/29/video-creating-inclusive-classrooms/",
+						"display_url": "samuelmcneill.com/2018/01/29/vid…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 957750319902900200,
+						"id_str": "957750319902900224",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+						"url": "https://t.co/NccNp4Vikz",
+						"display_url": "pic.twitter.com/NccNp4Vikz",
+						"expanded_url": "https://twitter.com/samuelmcneill/status/957750322616832000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 344,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 518,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 518,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 957750319902900200,
+						"id_str": "957750319902900224",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUqc13FUQAAsAHU.jpg",
+						"url": "https://t.co/NccNp4Vikz",
+						"display_url": "pic.twitter.com/NccNp4Vikz",
+						"expanded_url": "https://twitter.com/samuelmcneill/status/957750322616832000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 344,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 518,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 518,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89340013,
+				"id_str": "89340013",
+				"name": "Sam McNeill",
+				"screen_name": "samuelmcneill",
+				"location": "New Zealand",
+				"description": "Solution Specialist Professional with Microsoft. Former K-12 ICT Director.\nFollow my thoughts on ICT & Education at https://t.co/ABoeG2g1jp",
+				"url": "https://t.co/iqIexprOtV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iqIexprOtV",
+								"expanded_url": "http://www.samuelmcneill.com",
+								"display_url": "samuelmcneill.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ABoeG2g1jp",
+								"expanded_url": "http://concise.info/Tech_Ed",
+								"display_url": "concise.info/Tech_Ed",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2123,
+				"friends_count": 2083,
+				"listed_count": 247,
+				"created_at": "Thu Nov 12 01:34:27 +0000 2009",
+				"favourites_count": 3897,
+				"utc_offset": 46800,
+				"time_zone": "Wellington",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10188,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802308636550643716/1GUZfcVs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802308636550643716/1GUZfcVs_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 28 19:14:03 +0000 2018",
 		"id": 957693271827976200,
 		"id_str": "957693271827976192",
