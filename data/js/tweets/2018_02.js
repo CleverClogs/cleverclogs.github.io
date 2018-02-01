@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 01 16:55:00 +0000 2018",
+		"id": 959107830300192800,
+		"id_str": "959107830300192768",
+		"text": "@patriescapri @MsEduEsp @Grupo_AEd Hi Patricia, I'm curious: what are these students finding a solution or cure for… https://t.co/gW6xqdFJHI",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "patriescapri",
+					"name": "Patricia Escabias",
+					"id": 240698615,
+					"id_str": "240698615",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MsEduEsp",
+					"name": "Microsoft Educación",
+					"id": 960546007,
+					"id_str": "960546007",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "Grupo_AEd",
+					"name": "Advanced Education",
+					"id": 4352713335,
+					"id_str": "4352713335",
+					"indices": [
+						24,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gW6xqdFJHI",
+					"expanded_url": "https://twitter.com/i/web/status/959107830300192768",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 959107263263924200,
+		"in_reply_to_status_id_str": "959107263263924224",
+		"in_reply_to_user_id": 240698615,
+		"in_reply_to_user_id_str": "240698615",
+		"in_reply_to_screen_name": "patriescapri",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15024,
+			"friends_count": 5444,
+			"listed_count": 551,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22263,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 01 16:25:07 +0000 2018",
+		"id": 959100307534999600,
+		"id_str": "959100307534999553",
+		"text": "RT @mikevillar: I have very little practical use for #windows ink apart from note taking and annotations. But holy shit, with Windows Ink,…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "windows",
+					"indices": [
+						53,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikevillar",
+					"name": "Mike Villar",
+					"id": 1073611,
+					"id_str": "1073611",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15024,
+			"friends_count": 5444,
+			"listed_count": 551,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22263,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 01 15:46:23 +0000 2018",
+			"id": 959090559762640900,
+			"id_str": "959090559762640897",
+			"text": "I have very little practical use for #windows ink apart from note taking and annotations. But holy shit, with Windo… https://t.co/WW3N6dYWBf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "windows",
+						"indices": [
+							37,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WW3N6dYWBf",
+						"expanded_url": "https://twitter.com/i/web/status/959090559762640897",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.BradStevenson.co/Aeries\" rel=\"nofollow\">Aeries 2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1073611,
+				"id_str": "1073611",
+				"name": "Mike Villar",
+				"screen_name": "mikevillar",
+				"location": "Manila",
+				"description": "Managing Partner and CMO at Growth Rocket. Husband. Dad. #Product #Prodmgmt #Marketing #Marketplaces #History #BusinessIntelligence #BI",
+				"url": "https://t.co/NdOmtuUOIy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NdOmtuUOIy",
+								"expanded_url": "http://mikevillar.com",
+								"display_url": "mikevillar.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1395,
+				"friends_count": 645,
+				"listed_count": 80,
+				"created_at": "Tue Mar 13 06:55:26 +0000 2007",
+				"favourites_count": 234,
+				"utc_offset": 28800,
+				"time_zone": "Hong Kong",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12529,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "030302",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/475165096851681280/J6mgueuj.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/475165096851681280/J6mgueuj.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952727082613669888/DUhLzsif_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952727082613669888/DUhLzsif_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073611/1402122899",
+				"profile_link_color": "786A55",
+				"profile_sidebar_border_color": "3C5449",
+				"profile_sidebar_fill_color": "12291F",
+				"profile_text_color": "547B61",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": {
+				"type": "Point",
+				"coordinates": [
+					14.5865,
+					121.0371
+				]
+			},
+			"coordinates": {
+				"type": "Point",
+				"coordinates": [
+					121.0371,
+					14.5865
+				]
+			},
+			"place": {
+				"id": "005de1fe214f002d",
+				"url": "https://api.twitter.com/1.1/geo/id/005de1fe214f002d.json",
+				"place_type": "city",
+				"name": "Mandaluyong City",
+				"full_name": "Mandaluyong City, National Capital Region",
+				"country_code": "PH",
+				"country": "Republic of the Philippines",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								121.0167613,
+								14.5674476
+							],
+							[
+								121.0617602,
+								14.5674476
+							],
+							[
+								121.0617602,
+								14.6020633
+							],
+							[
+								121.0167613,
+								14.6020633
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 01 16:13:15 +0000 2018",
 		"id": 959097320582385700,
 		"id_str": "959097320582385665",
