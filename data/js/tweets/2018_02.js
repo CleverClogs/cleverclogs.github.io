@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sun Feb 04 03:55:40 +0000 2018",
+		"id": 959998866077741000,
+		"id_str": "959998866077741056",
+		"text": "RT @ArcherJoe: Using Classroom #OneNote and #DigitalInking to record and share Ss work w/ #NumberTalks for #PedagogicalDocumentation and th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "DigitalInking",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"text": "NumberTalks",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "PedagogicalDocumentation",
+					"indices": [
+						107,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArcherJoe",
+					"name": "Joe Archer",
+					"id": 637050683,
+					"id_str": "637050683",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15047,
+			"friends_count": 5458,
+			"listed_count": 553,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22309,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20442,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 03 14:07:56 +0000 2018",
+			"id": 959790559413010400,
+			"id_str": "959790559413010432",
+			"text": "Using Classroom #OneNote and #DigitalInking to record and share Ss work w/ #NumberTalks for… https://t.co/nbYXzdwg6U",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							16,
+							24
+						]
+					},
+					{
+						"text": "DigitalInking",
+						"indices": [
+							29,
+							43
+						]
+					},
+					{
+						"text": "NumberTalks",
+						"indices": [
+							75,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nbYXzdwg6U",
+						"expanded_url": "https://twitter.com/i/web/status/959790559413010432",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 637050683,
+				"id_str": "637050683",
+				"name": "Joe Archer",
+				"screen_name": "ArcherJoe",
+				"location": "Port Dover, Ontario",
+				"description": "Dad of 3, Teach Gr 5/6 #DLL @GEDSB #MiEFellow #MiEExpert #MIETrainer #SurfaceProEdu #Skype #MinecraftEdu Mentor #Micro:bit @WritetoGive Ambass. Fireman #218",
+				"url": "https://t.co/rqcjMjL2qC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rqcjMjL2qC",
+								"expanded_url": "https://about.me/joe.archer",
+								"display_url": "about.me/joe.archer",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2971,
+				"friends_count": 2831,
+				"listed_count": 238,
+				"created_at": "Mon Jul 16 15:24:37 +0000 2012",
+				"favourites_count": 2219,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22508,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947563827440189440/L9PPErAD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947563827440189440/L9PPErAD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/637050683/1416779308",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 03 11:37:49 +0000 2018",
 		"id": 959752781069418500,
 		"id_str": "959752781069418497",
