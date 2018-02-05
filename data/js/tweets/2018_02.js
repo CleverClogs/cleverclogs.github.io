@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 05 09:48:45 +0000 2018",
+		"id": 960450112760709100,
+		"id_str": "960450112760709120",
+		"text": "Nice illustration of #OneNote in action: evaluating student performance through quick marking by rubric in the mobi… https://t.co/qF4vw8kXgA",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qF4vw8kXgA",
+					"expanded_url": "https://twitter.com/i/web/status/960450112760709120",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15055,
+			"friends_count": 5463,
+			"listed_count": 553,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22348,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20470,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 960441349660184600,
+		"quoted_status_id_str": "960441349660184576",
+		"quoted_status": {
+			"created_at": "Mon Feb 05 09:13:56 +0000 2018",
+			"id": 960441349660184600,
+			"id_str": "960441349660184576",
+			"text": "Exposiciones prácticas sobre juegos visuales en #FP #TAFAD @ciclosdevesa | Evaluación individual mediante rúbrica e… https://t.co/7Fj8iWUfC4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FP",
+						"indices": [
+							48,
+							51
+						]
+					},
+					{
+						"text": "TAFAD",
+						"indices": [
+							52,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ciclosdevesa",
+						"name": "CICLOS La Devesa",
+						"id": 2676446996,
+						"id_str": "2676446996",
+						"indices": [
+							59,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7Fj8iWUfC4",
+						"expanded_url": "https://twitter.com/i/web/status/960441349660184576",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 462752734,
+				"id_str": "462752734",
+				"name": "Vicent Gadea",
+				"screen_name": "vicentgadea",
+				"location": "",
+				"description": "ICT Coordinator @gruposorolla. #STEAM #FP #TAFAD Teacher | #MIEExpert & Microsoft Learning Consultant | @universidad_uax Teacher | @COLEF_CV nº: 55.631",
+				"url": "https://t.co/Lhm2oTs2EW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Lhm2oTs2EW",
+								"expanded_url": "https://es.linkedin.com/in/vicentgadea",
+								"display_url": "es.linkedin.com/in/vicentgadea",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5018,
+				"friends_count": 3884,
+				"listed_count": 375,
+				"created_at": "Fri Jan 13 09:34:19 +0000 2012",
+				"favourites_count": 11131,
+				"utc_offset": 7200,
+				"time_zone": "Athens",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8834,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/852178045033226242/BR0JuADo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/852178045033226242/BR0JuADo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/462752734/1454256638",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 04 23:25:35 +0000 2018",
 		"id": 960293286194884600,
 		"id_str": "960293286194884608",
