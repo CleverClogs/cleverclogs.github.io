@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Tue Feb 06 00:10:12 +0000 2018",
+		"id": 960666901679571000,
+		"id_str": "960666901679570945",
+		"text": "RT @TBilich: I can tell you already that OneNote is dramatically more stable (less hang-y) than Evernote in the few days I've been using it…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TBilich",
+					"name": "Ted Bilich",
+					"id": 20894567,
+					"id_str": "20894567",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15062,
+			"friends_count": 5464,
+			"listed_count": 552,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22375,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 05 22:28:18 +0000 2018",
+			"id": 960641260158677000,
+			"id_str": "960641260158676993",
+			"text": "I can tell you already that OneNote is dramatically more stable (less hang-y) than Evernote in the few days I've be… https://t.co/7ppmwl99JE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7ppmwl99JE",
+						"expanded_url": "https://twitter.com/i/web/status/960641260158676993",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20894567,
+				"id_str": "20894567",
+				"name": "Ted Bilich",
+				"screen_name": "TBilich",
+				"location": "DC Metro",
+				"description": "CEO / @RiskAlts. I build better communities by helping nonprofits and startups with risks. I blog and podcast at https://t.co/mRkTszTLPX.",
+				"url": "http://t.co/B6yKfrmmle",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/B6yKfrmmle",
+								"expanded_url": "http://risk-alternatives.com/",
+								"display_url": "risk-alternatives.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mRkTszTLPX",
+								"expanded_url": "http://risk-alternatives.com/blog/",
+								"display_url": "risk-alternatives.com/blog/",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11041,
+				"friends_count": 8801,
+				"listed_count": 607,
+				"created_at": "Sun Feb 15 05:19:19 +0000 2009",
+				"favourites_count": 159,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16643,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/168925465/xfe981b440a9157a93926bec35051255.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/168925465/xfe981b440a9157a93926bec35051255.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/694540789771145217/gf2LF8gs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/694540789771145217/gf2LF8gs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20894567/1462901610",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 960617035087532000,
+			"quoted_status_id_str": "960617035087532032",
+			"quoted_status": {
+				"created_at": "Mon Feb 05 20:52:03 +0000 2018",
+				"id": 960617035087532000,
+				"id_str": "960617035087532032",
+				"text": "@TBilich I haven't tried it - let me know if you like it! If it's better than Evernote, I'll happily switch.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "TBilich",
+							"name": "Ted Bilich",
+							"id": 20894567,
+							"id_str": "20894567",
+							"indices": [
+								0,
+								8
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://www.relationflow.com\" rel=\"nofollow\">RelationFlow</a>",
+				"in_reply_to_status_id": 959554106728820700,
+				"in_reply_to_status_id_str": "959554106728820737",
+				"in_reply_to_user_id": 20894567,
+				"in_reply_to_user_id_str": "20894567",
+				"in_reply_to_screen_name": "TBilich",
+				"user": {
+					"id": 2372317189,
+					"id_str": "2372317189",
+					"name": "Knowing DC",
+					"screen_name": "KnowingDC",
+					"location": "",
+					"description": "Knowledge is power especially in Washington DC",
+					"url": "http://t.co/hcN3V21BRn",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/hcN3V21BRn",
+									"expanded_url": "http://dc.relationflow.com",
+									"display_url": "dc.relationflow.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 592,
+					"friends_count": 659,
+					"listed_count": 8,
+					"created_at": "Tue Mar 04 19:33:35 +0000 2014",
+					"favourites_count": 0,
+					"utc_offset": 0,
+					"time_zone": "Casablanca",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 5355,
+					"lang": "en-gb",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440935219265159168/kcE6Rmao.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440935219265159168/kcE6Rmao.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/440935068035317760/8KG560Yp_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/440935068035317760/8KG560Yp_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2372317189/1394456864",
+					"profile_link_color": "001EB3",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 960617035087532000,
+		"quoted_status_id_str": "960617035087532032",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 05 23:43:31 +0000 2018",
+		"id": 960660189136543700,
+		"id_str": "960660189136543744",
+		"text": "OneNote Online allows you to hide the notebook section and page navigation columns, freeing up more space to edit y… https://t.co/YY8hkVTiuM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YY8hkVTiuM",
+					"expanded_url": "https://twitter.com/i/web/status/960660189136543744",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15062,
+			"friends_count": 5464,
+			"listed_count": 552,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22375,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 05 22:49:51 +0000 2018",
 		"id": 960646683121025000,
 		"id_str": "960646683121025024",
