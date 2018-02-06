@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Tue Feb 06 09:08:45 +0000 2018",
+		"id": 960802433394987000,
+		"id_str": "960802433394987009",
+		"text": "RT @TroyChristmas: 5 yrs. ago @TaskClone was born in my effort to get @msonenote tasks into @toodledo.  It wasn't possible then, but it is…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TroyChristmas",
+					"name": "Troy Christmas",
+					"id": 23049510,
+					"id_str": "23049510",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "TaskClone",
+					"name": "TaskClone",
+					"id": 1343310140,
+					"id_str": "1343310140",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"screen_name": "toodledo",
+					"name": "Toodledo",
+					"id": 9533592,
+					"id_str": "9533592",
+					"indices": [
+						92,
+						101
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15065,
+			"friends_count": 5464,
+			"listed_count": 555,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22378,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20486,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 06 06:34:16 +0000 2018",
+			"id": 960763555095048200,
+			"id_str": "960763555095048192",
+			"text": "5 yrs. ago @TaskClone was born in my effort to get @msonenote tasks into @toodledo.  It wasn't possible then, but i… https://t.co/JeiNhTX1VI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TaskClone",
+						"name": "TaskClone",
+						"id": 1343310140,
+						"id_str": "1343310140",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							51,
+							61
+						]
+					},
+					{
+						"screen_name": "toodledo",
+						"name": "Toodledo",
+						"id": 9533592,
+						"id_str": "9533592",
+						"indices": [
+							73,
+							82
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JeiNhTX1VI",
+						"expanded_url": "https://twitter.com/i/web/status/960763555095048192",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23049510,
+				"id_str": "23049510",
+				"name": "Troy Christmas",
+				"screen_name": "TroyChristmas",
+				"location": "Silicon Valley",
+				"description": "Founder Productivity Apps https://t.co/xD55zO5TF4 & https://t.co/GiSaPLZi9D | Recovering Attorney | Learner/Teacher | Helping leaders lead productively",
+				"url": "http://t.co/ehgRt2t4WA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ehgRt2t4WA",
+								"expanded_url": "http://www.taskclone.com",
+								"display_url": "taskclone.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xD55zO5TF4",
+								"expanded_url": "http://TaskClone.com",
+								"display_url": "TaskClone.com",
+								"indices": [
+									26,
+									49
+								]
+							},
+							{
+								"url": "https://t.co/GiSaPLZi9D",
+								"expanded_url": "http://RepeatPost.com",
+								"display_url": "RepeatPost.com",
+								"indices": [
+									52,
+									75
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10270,
+				"friends_count": 8840,
+				"listed_count": 334,
+				"created_at": "Fri Mar 06 10:02:30 +0000 2009",
+				"favourites_count": 3781,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7925,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000663501095/14d0549053eef6f8ee5dcea7d560ce21_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000663501095/14d0549053eef6f8ee5dcea7d560ce21_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23049510/1480318789",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 06 00:36:22 +0000 2018",
 		"id": 960673489203195900,
 		"id_str": "960673489203195904",
