@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 09 20:30:53 +0000 2018",
+		"id": 962061262350774300,
+		"id_str": "962061262350774273",
+		"text": "RT @ThatNas: Free-hand drawing of the Americas in OneNote, coloured with Photoshop. Robinson Projection. @msonenote https://t.co/e5KNRPB1qD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThatNas",
+					"name": "Nasser M.",
+					"id": 988879446,
+					"id_str": "988879446",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 962032550955728900,
+					"id_str": "962032550955728901",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DVnTgg4UQAUEMnb.png",
+					"media_url_https": "https://pbs.twimg.com/media/DVnTgg4UQAUEMnb.png",
+					"url": "https://t.co/e5KNRPB1qD",
+					"display_url": "pic.twitter.com/e5KNRPB1qD",
+					"expanded_url": "https://twitter.com/ThatNas/status/962032717616394240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1399,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 962032717616394200,
+					"source_status_id_str": "962032717616394240",
+					"source_user_id": 988879446,
+					"source_user_id_str": "988879446"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 962032550955728900,
+					"id_str": "962032550955728901",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DVnTgg4UQAUEMnb.png",
+					"media_url_https": "https://pbs.twimg.com/media/DVnTgg4UQAUEMnb.png",
+					"url": "https://t.co/e5KNRPB1qD",
+					"display_url": "pic.twitter.com/e5KNRPB1qD",
+					"expanded_url": "https://twitter.com/ThatNas/status/962032717616394240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1399,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 962032717616394200,
+					"source_status_id_str": "962032717616394240",
+					"source_user_id": 988879446,
+					"source_user_id_str": "988879446"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15116,
+			"friends_count": 5478,
+			"listed_count": 552,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22484,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20579,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 09 18:37:28 +0000 2018",
+			"id": 962032717616394200,
+			"id_str": "962032717616394240",
+			"text": "Free-hand drawing of the Americas in OneNote, coloured with Photoshop. Robinson Projection. @msonenote https://t.co/e5KNRPB1qD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							92,
+							102
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 962032550955728900,
+						"id_str": "962032550955728901",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DVnTgg4UQAUEMnb.png",
+						"media_url_https": "https://pbs.twimg.com/media/DVnTgg4UQAUEMnb.png",
+						"url": "https://t.co/e5KNRPB1qD",
+						"display_url": "pic.twitter.com/e5KNRPB1qD",
+						"expanded_url": "https://twitter.com/ThatNas/status/962032717616394240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1399,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 464,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 820,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 962032550955728900,
+						"id_str": "962032550955728901",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DVnTgg4UQAUEMnb.png",
+						"media_url_https": "https://pbs.twimg.com/media/DVnTgg4UQAUEMnb.png",
+						"url": "https://t.co/e5KNRPB1qD",
+						"display_url": "pic.twitter.com/e5KNRPB1qD",
+						"expanded_url": "https://twitter.com/ThatNas/status/962032717616394240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1399,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 464,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 820,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 988879446,
+				"id_str": "988879446",
+				"name": "Nasser M.",
+				"screen_name": "ThatNas",
+				"location": "Doha, Qatar",
+				"description": "I tweet whenever I remember too",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43,
+				"friends_count": 26,
+				"listed_count": 1,
+				"created_at": "Tue Dec 04 14:31:56 +0000 2012",
+				"favourites_count": 1331,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 773,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961309901137043457/Awg5TWA8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961309901137043457/Awg5TWA8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/988879446/1514145117",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 09 19:25:10 +0000 2018",
 		"id": 962044722154946600,
 		"id_str": "962044722154946561",
