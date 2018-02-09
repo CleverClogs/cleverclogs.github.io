@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 09 19:25:10 +0000 2018",
+		"id": 962044722154946600,
+		"id_str": "962044722154946561",
+		"text": "RT @ATClosingTheGap: Microsoft - Ideas take shape in OneNote https://t.co/THRk0YY9Av #education #accessibility #specialneeds #Dyslexia #cur…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "education",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"text": "specialneeds",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"text": "Dyslexia",
+					"indices": [
+						125,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ATClosingTheGap",
+					"name": "Closing The Gap",
+					"id": 1117283358,
+					"id_str": "1117283358",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/THRk0YY9Av",
+					"expanded_url": "https://www.closingthegap.com/microsoft-ideas-take-shape-in-onenote/",
+					"display_url": "closingthegap.com/microsoft-idea…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15119,
+			"friends_count": 5478,
+			"listed_count": 555,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22483,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20578,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 08 17:19:00 +0000 2018",
+			"id": 961650584859406300,
+			"id_str": "961650584859406337",
+			"text": "Microsoft - Ideas take shape in OneNote https://t.co/THRk0YY9Av #education #accessibility #specialneeds #Dyslexia… https://t.co/0y0byAaj3q",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "education",
+						"indices": [
+							64,
+							74
+						]
+					},
+					{
+						"text": "accessibility",
+						"indices": [
+							75,
+							89
+						]
+					},
+					{
+						"text": "specialneeds",
+						"indices": [
+							90,
+							103
+						]
+					},
+					{
+						"text": "Dyslexia",
+						"indices": [
+							104,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/THRk0YY9Av",
+						"expanded_url": "https://www.closingthegap.com/microsoft-ideas-take-shape-in-onenote/",
+						"display_url": "closingthegap.com/microsoft-idea…",
+						"indices": [
+							40,
+							63
+						]
+					},
+					{
+						"url": "https://t.co/0y0byAaj3q",
+						"expanded_url": "https://twitter.com/i/web/status/961650584859406337",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1117283358,
+				"id_str": "1117283358",
+				"name": "Closing The Gap",
+				"screen_name": "ATClosingTheGap",
+				"location": "Henderson,  MN",
+				"description": "Practical, sound assistive technology (AT) resources, strategies and training. Annual, international AT conference, online magazine and webinars! #CTG",
+				"url": "http://t.co/ubsikf7Ij3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ubsikf7Ij3",
+								"expanded_url": "http://www.closingthegap.com",
+								"display_url": "closingthegap.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4143,
+				"friends_count": 3129,
+				"listed_count": 116,
+				"created_at": "Thu Jan 24 17:20:34 +0000 2013",
+				"favourites_count": 1054,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3778,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3175217062/ea57a5339f73fb7927fdbaf00e934e3b_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3175217062/ea57a5339f73fb7927fdbaf00e934e3b_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1117283358/1510850076",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 09 19:10:00 +0000 2018",
 		"id": 962040905233588200,
 		"id_str": "962040905233588224",
