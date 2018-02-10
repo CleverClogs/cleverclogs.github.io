@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 10 22:24:46 +0000 2018",
+		"id": 962452307601449000,
+		"id_str": "962452307601448961",
+		"text": "How #OneNote in #Windows10 and its #digitalink feature help to better remember your notes and improve your… https://t.co/uZ3StxKsFo",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"text": "digitalink",
+					"indices": [
+						35,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uZ3StxKsFo",
+					"expanded_url": "https://twitter.com/i/web/status/962452307601448961",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15123,
+			"friends_count": 5483,
+			"listed_count": 555,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22499,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 958507885784453100,
+		"quoted_status_id_str": "958507885784453120",
+		"quoted_status": {
+			"created_at": "Wed Jan 31 01:11:02 +0000 2018",
+			"id": 958507885784453100,
+			"id_str": "958507885784453120",
+			"text": "On this week’s @prod_cast, @mcanderson’s new job and productivity, OneNote organization, and morning routines. Spon… https://t.co/LieemA1THj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "prod_cast",
+						"name": "ProdCast",
+						"id": 864444228990107600,
+						"id_str": "864444228990107648",
+						"indices": [
+							15,
+							25
+						]
+					},
+					{
+						"screen_name": "mcanderson",
+						"name": "matthew c anderson",
+						"id": 7927162,
+						"id_str": "7927162",
+						"indices": [
+							27,
+							38
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LieemA1THj",
+						"expanded_url": "https://twitter.com/i/web/status/958507885784453120",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16115657,
+				"id_str": "16115657",
+				"name": "Joel Lindstrom",
+				"screen_name": "JoelLindstrom",
+				"location": "Greenvile, SC",
+				"description": "Consulting Principal at Hitachi Solutions and Microsoft Dynamics CRM MVP",
+				"url": "http://t.co/5FqAzQAyqy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5FqAzQAyqy",
+								"expanded_url": "http://about.me/joellindstrom",
+								"display_url": "about.me/joellindstrom",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2731,
+				"friends_count": 374,
+				"listed_count": 131,
+				"created_at": "Wed Sep 03 16:48:20 +0000 2008",
+				"favourites_count": 135,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 669,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/618777268660244481/KxRF1IMM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/618777268660244481/KxRF1IMM_normal.jpg",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 10 22:01:07 +0000 2018",
 		"id": 962446357532479500,
 		"id_str": "962446357532479490",
