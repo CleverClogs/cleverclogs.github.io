@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 12 16:16:27 +0000 2018",
+		"id": 963084396331925500,
+		"id_str": "963084396331925505",
+		"text": "RT @GilbertMelba: It’s Super Hero day at my school. I’m channeling my super OneNote powers! #MIEExpert https://t.co/OvUtc06Jg8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						92,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GilbertMelba",
+					"name": "Melba Gilbert Manning",
+					"id": 963551378,
+					"id_str": "963551378",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 963083287643107300,
+					"id_str": "963083287643107328",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DV2PJcEVMAAEd6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV2PJcEVMAAEd6h.jpg",
+					"url": "https://t.co/OvUtc06Jg8",
+					"display_url": "pic.twitter.com/OvUtc06Jg8",
+					"expanded_url": "https://twitter.com/GilbertMelba/status/963083292407889920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963083292407889900,
+					"source_status_id_str": "963083292407889920",
+					"source_user_id": 963551378,
+					"source_user_id_str": "963551378"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 963083287643107300,
+					"id_str": "963083287643107328",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DV2PJcEVMAAEd6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV2PJcEVMAAEd6h.jpg",
+					"url": "https://t.co/OvUtc06Jg8",
+					"display_url": "pic.twitter.com/OvUtc06Jg8",
+					"expanded_url": "https://twitter.com/GilbertMelba/status/963083292407889920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963083292407889900,
+					"source_status_id_str": "963083292407889920",
+					"source_user_id": 963551378,
+					"source_user_id_str": "963551378"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15143,
+			"friends_count": 5489,
+			"listed_count": 551,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22514,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20631,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 12 16:12:04 +0000 2018",
+			"id": 963083292407889900,
+			"id_str": "963083292407889920",
+			"text": "It’s Super Hero day at my school. I’m channeling my super OneNote powers! #MIEExpert https://t.co/OvUtc06Jg8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							74,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 963083287643107300,
+						"id_str": "963083287643107328",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DV2PJcEVMAAEd6h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV2PJcEVMAAEd6h.jpg",
+						"url": "https://t.co/OvUtc06Jg8",
+						"display_url": "pic.twitter.com/OvUtc06Jg8",
+						"expanded_url": "https://twitter.com/GilbertMelba/status/963083292407889920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963083287643107300,
+						"id_str": "963083287643107328",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DV2PJcEVMAAEd6h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV2PJcEVMAAEd6h.jpg",
+						"url": "https://t.co/OvUtc06Jg8",
+						"display_url": "pic.twitter.com/OvUtc06Jg8",
+						"expanded_url": "https://twitter.com/GilbertMelba/status/963083292407889920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 963551378,
+				"id_str": "963551378",
+				"name": "Melba Gilbert Manning",
+				"screen_name": "GilbertMelba",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 130,
+				"friends_count": 109,
+				"listed_count": 8,
+				"created_at": "Thu Nov 22 03:31:54 +0000 2012",
+				"favourites_count": 219,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 71,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/917820415615016961/L_PpXwgI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/917820415615016961/L_PpXwgI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/963551378/1507660376",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "bcb210d6cf34438a",
+				"url": "https://api.twitter.com/1.1/geo/id/bcb210d6cf34438a.json",
+				"place_type": "city",
+				"name": "Pearland",
+				"full_name": "Pearland, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-95.438435,
+								29.497739
+							],
+							[
+								-95.215364,
+								29.497739
+							],
+							[
+								-95.215364,
+								29.59803
+							],
+							[
+								-95.438435,
+								29.59803
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 12 14:05:39 +0000 2018",
 		"id": 963051478784073700,
 		"id_str": "963051478784073728",
