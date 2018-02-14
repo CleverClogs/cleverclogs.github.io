@@ -1,6 +1,727 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 14 18:19:14 +0000 2018",
+		"id": 963840071509200900,
+		"id_str": "963840071509200897",
+		"text": "RT @truaxtam: Fabulous Breakout with @OneNoteEDU  workshop with @turner4edu - sharing the 💕Love💕 #MIEExpert #NCCE18 https://t.co/uWeg6IUj8J",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "NCCE18",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "truaxtam",
+					"name": "Tamara Truax",
+					"id": 816712948911439900,
+					"id_str": "816712948911439872",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"screen_name": "turner4edu",
+					"name": "Maria Turner",
+					"id": 432110144,
+					"id_str": "432110144",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 963839230098137100,
+					"id_str": "963839230098137089",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DWA-rFKV4AEljwp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWA-rFKV4AEljwp.jpg",
+					"url": "https://t.co/uWeg6IUj8J",
+					"display_url": "pic.twitter.com/uWeg6IUj8J",
+					"expanded_url": "https://twitter.com/truaxtam/status/963839232115527680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 419,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 739,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963839232115527700,
+					"source_status_id_str": "963839232115527680",
+					"source_user_id": 816712948911439900,
+					"source_user_id_str": "816712948911439872"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 963839230098137100,
+					"id_str": "963839230098137089",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DWA-rFKV4AEljwp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWA-rFKV4AEljwp.jpg",
+					"url": "https://t.co/uWeg6IUj8J",
+					"display_url": "pic.twitter.com/uWeg6IUj8J",
+					"expanded_url": "https://twitter.com/truaxtam/status/963839232115527680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 419,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 739,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963839232115527700,
+					"source_status_id_str": "963839232115527680",
+					"source_user_id": 816712948911439900,
+					"source_user_id_str": "816712948911439872"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15168,
+			"friends_count": 5502,
+			"listed_count": 553,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22555,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20700,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 14 18:15:54 +0000 2018",
+			"id": 963839232115527700,
+			"id_str": "963839232115527680",
+			"text": "Fabulous Breakout with @OneNoteEDU  workshop with @turner4edu - sharing the 💕Love💕 #MIEExpert #NCCE18 https://t.co/uWeg6IUj8J",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							83,
+							93
+						]
+					},
+					{
+						"text": "NCCE18",
+						"indices": [
+							94,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							23,
+							34
+						]
+					},
+					{
+						"screen_name": "turner4edu",
+						"name": "Maria Turner",
+						"id": 432110144,
+						"id_str": "432110144",
+						"indices": [
+							50,
+							61
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 963839230098137100,
+						"id_str": "963839230098137089",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DWA-rFKV4AEljwp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWA-rFKV4AEljwp.jpg",
+						"url": "https://t.co/uWeg6IUj8J",
+						"display_url": "pic.twitter.com/uWeg6IUj8J",
+						"expanded_url": "https://twitter.com/truaxtam/status/963839232115527680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1262,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 739,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963839230098137100,
+						"id_str": "963839230098137089",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DWA-rFKV4AEljwp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWA-rFKV4AEljwp.jpg",
+						"url": "https://t.co/uWeg6IUj8J",
+						"display_url": "pic.twitter.com/uWeg6IUj8J",
+						"expanded_url": "https://twitter.com/truaxtam/status/963839232115527680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1262,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 739,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816712948911439900,
+				"id_str": "816712948911439872",
+				"name": "Tamara Truax",
+				"screen_name": "truaxtam",
+				"location": "Seattle, WA",
+				"description": "Love teaching Human Geo to empower global citizens, and the power of edtech to get there #APHG #MIEExpert #EdTech #OneNote #MicrosoftEDU #TeachSDGs #GlobalGoals",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 163,
+				"friends_count": 189,
+				"listed_count": 10,
+				"created_at": "Wed Jan 04 18:28:35 +0000 2017",
+				"favourites_count": 974,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 358,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888919220624412673/pXqTg_V4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888919220624412673/pXqTg_V4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816712948911439872/1492286278",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Feb 14 18:13:27 +0000 2018",
+		"id": 963838614177288200,
+		"id_str": "963838614177288194",
+		"text": "Just in: new video about Microsoft Translator, clearly explaining the purpose and significance of this new technolo… https://t.co/YUHyEXExUU",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YUHyEXExUU",
+					"expanded_url": "https://twitter.com/i/web/status/963838614177288194",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15168,
+			"friends_count": 5502,
+			"listed_count": 553,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22555,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20700,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Feb 14 18:00:18 +0000 2018",
+		"id": 963835303822872600,
+		"id_str": "963835303822872577",
+		"text": "RT @alberto_hrv: ¡Hacemos historia! La #TweetMeet de Febrero sobre alfabetización también contará con preguntas en Español ¡El 20 de Febrer…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TweetMeet",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alberto_hrv",
+					"name": "Alberto Herraez",
+					"id": 852520911383085000,
+					"id_str": "852520911383085056",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15168,
+			"friends_count": 5502,
+			"listed_count": 553,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22555,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20700,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 14 17:27:22 +0000 2018",
+			"id": 963827015412473900,
+			"id_str": "963827015412473858",
+			"text": "¡Hacemos historia! La #TweetMeet de Febrero sobre alfabetización también contará con preguntas en Español ¡El 20 de… https://t.co/tMnZ85fmfz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TweetMeet",
+						"indices": [
+							22,
+							32
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tMnZ85fmfz",
+						"expanded_url": "https://twitter.com/i/web/status/963827015412473858",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852520911383085000,
+				"id_str": "852520911383085056",
+				"name": "Alberto Herraez",
+				"screen_name": "alberto_hrv",
+				"location": "Farmington, UT",
+				"description": "Spaniard | Living in Utah | 5th and 6th grade teacher at Canyon Creek Elementary School | STEM lover | MIE expert | MIE trainer | Skype MT | PLTW lead teacher",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 326,
+				"friends_count": 457,
+				"listed_count": 10,
+				"created_at": "Thu Apr 13 13:56:39 +0000 2017",
+				"favourites_count": 351,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 495,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961262096523476993/W7V2uPq__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961262096523476993/W7V2uPq__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852520911383085056/1517979379",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "es"
+	},
+	{
 		"created_at": "Wed Feb 14 16:03:56 +0000 2018",
 		"id": 963806018042986500,
 		"id_str": "963806018042986496",
