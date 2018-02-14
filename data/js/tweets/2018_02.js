@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 14 09:16:02 +0000 2018",
+		"id": 963703367901073400,
+		"id_str": "963703367901073408",
+		"text": "@TeacherPrize Let's make sure @luijmibermudez sees this!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeacherPrize",
+					"name": "Global Teacher Prize",
+					"id": 2345263466,
+					"id_str": "2345263466",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "luijmibermudez",
+					"name": "Luis Miguel Bermúdez",
+					"id": 866415979915509800,
+					"id_str": "866415979915509761",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 963608895011860500,
+		"in_reply_to_status_id_str": "963608895011860480",
+		"in_reply_to_user_id": 2345263466,
+		"in_reply_to_user_id_str": "2345263466",
+		"in_reply_to_screen_name": "TeacherPrize",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15168,
+			"friends_count": 5502,
+			"listed_count": 553,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22549,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Feb 14 09:12:08 +0000 2018",
+		"id": 963702386408742900,
+		"id_str": "963702386408742912",
+		"text": "@zelfstudie @VarkeyFdn @TeacherPrize @NatGeoEducation @MicrosoftEDU @NNSTOY @HundrEDorg @VTMNIEUWS @TeachSDGs… https://t.co/dgq9udX3J8",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "VarkeyFdn",
+					"name": "Varkey Foundation",
+					"id": 546006962,
+					"id_str": "546006962",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "TeacherPrize",
+					"name": "Global Teacher Prize",
+					"id": 2345263466,
+					"id_str": "2345263466",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"screen_name": "NatGeoEducation",
+					"name": "NatGeo Education",
+					"id": 136441843,
+					"id_str": "136441843",
+					"indices": [
+						37,
+						53
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						54,
+						67
+					]
+				},
+				{
+					"screen_name": "NNSTOY",
+					"name": "NNSTOY",
+					"id": 938016032,
+					"id_str": "938016032",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"screen_name": "HundrEDorg",
+					"name": "HundrED.org",
+					"id": 4343316795,
+					"id_str": "4343316795",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "VTMNIEUWS",
+					"name": "VTM NIEUWS",
+					"id": 167309264,
+					"id_str": "167309264",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"screen_name": "TeachSDGs",
+					"name": "#TeachSDGs",
+					"id": 822072792124366800,
+					"id_str": "822072792124366848",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dgq9udX3J8",
+					"expanded_url": "https://twitter.com/i/web/status/963702386408742912",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 963569020405502000,
+		"in_reply_to_status_id_str": "963569020405501952",
+		"in_reply_to_user_id": 149593681,
+		"in_reply_to_user_id_str": "149593681",
+		"in_reply_to_screen_name": "zelfstudie",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15168,
+			"friends_count": 5502,
+			"listed_count": 553,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22549,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20681,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 14 08:16:37 +0000 2018",
 		"id": 963688416444600300,
 		"id_str": "963688416444600320",
