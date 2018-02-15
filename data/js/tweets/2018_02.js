@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 15 21:50:01 +0000 2018",
+		"id": 964255501654601700,
+		"id_str": "964255501654601728",
+		"text": "#SketchNoting is an increasingly popular use case for #OneNote on mobile devices, such as the iPad or #Surface.… https://t.co/dn7xothFQZ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SketchNoting",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "Surface",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dn7xothFQZ",
+					"expanded_url": "https://twitter.com/i/web/status/964255501654601728",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15180,
+			"friends_count": 5515,
+			"listed_count": 553,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22604,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20751,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 964253421082726400,
+		"quoted_status_id_str": "964253421082726401",
+		"quoted_status": {
+			"created_at": "Thu Feb 15 21:41:45 +0000 2018",
+			"id": 964253421082726400,
+			"id_str": "964253421082726401",
+			"text": "@msonenote My pleasure...\nAs for the question: do I have any feedback for better sketch notes? Yes, I do... https://t.co/KpY7lVHXPc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 964253409653162000,
+						"id_str": "964253409653161984",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DWG3XgPWAAA2c3H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWG3XgPWAAA2c3H.jpg",
+						"url": "https://t.co/KpY7lVHXPc",
+						"display_url": "pic.twitter.com/KpY7lVHXPc",
+						"expanded_url": "https://twitter.com/AntonyMarcano/status/964253421082726401/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964253409653162000,
+						"id_str": "964253409653161984",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DWG3XgPWAAA2c3H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWG3XgPWAAA2c3H.jpg",
+						"url": "https://t.co/KpY7lVHXPc",
+						"display_url": "pic.twitter.com/KpY7lVHXPc",
+						"expanded_url": "https://twitter.com/AntonyMarcano/status/964253421082726401/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": 964233224284237800,
+			"in_reply_to_status_id_str": "964233224284237825",
+			"in_reply_to_user_id": 23735316,
+			"in_reply_to_user_id_str": "23735316",
+			"in_reply_to_screen_name": "msonenote",
+			"user": {
+				"id": 16712333,
+				"id_str": "16712333",
+				"name": "AntonyMarcano",
+				"screen_name": "AntonyMarcano",
+				"location": "London, UK",
+				"description": "#Innovation culture; #agilecoach; #lean thinker; #SoftwareArtisan; co-founder of @RiverGlide; creator of the #ScreenplayPattern. \n#agile #tdd #bdd #3XThinking",
+				"url": "https://t.co/67YhdbpdmC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/67YhdbpdmC",
+								"expanded_url": "http://antonymarcano.com",
+								"display_url": "antonymarcano.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2493,
+				"friends_count": 886,
+				"listed_count": 192,
+				"created_at": "Sun Oct 12 21:34:44 +0000 2008",
+				"favourites_count": 5167,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6987,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/364157112/riverglide.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/364157112/riverglide.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/808045724864839681/8sMMTFtN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/808045724864839681/8sMMTFtN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16712333/1481489709",
+				"profile_link_color": "555555",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Feb 15 21:09:23 +0000 2018",
 		"id": 964245278860677100,
 		"id_str": "964245278860677120",
