@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 15 10:08:59 +0000 2018",
+		"id": 964079083545157600,
+		"id_str": "964079083545157632",
+		"text": "RT @sarahrowssolo: Delighted to be joining the @microsofteduk @MicrosoftEDU team live on Tuesday 20th February as part of Literacy month, c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sarahrowssolo",
+					"name": "𝕊𝕒𝕣𝕒𝕙 𝕎𝕖𝕝𝕕𝕠𝕟 𝔽ℝ𝔾𝕊🌳",
+					"id": 44222906,
+					"id_str": "44222906",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "microsofteduk",
+					"name": "Microsoft Education",
+					"id": 48661542,
+					"id_str": "48661542",
+					"indices": [
+						47,
+						61
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						62,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15171,
+			"friends_count": 5507,
+			"listed_count": 554,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22575,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20721,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"retweeted_status": {
+			"created_at": "Wed Feb 14 23:40:56 +0000 2018",
+			"id": 963921026080964600,
+			"id_str": "963921026080964608",
+			"text": "Delighted to be joining the @microsofteduk @MicrosoftEDU team live on Tuesday 20th February as part of Literacy mon… https://t.co/71AkfZjnEA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "microsofteduk",
+						"name": "Microsoft Education",
+						"id": 48661542,
+						"id_str": "48661542",
+						"indices": [
+							28,
+							42
+						]
+					},
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							43,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/71AkfZjnEA",
+						"expanded_url": "https://twitter.com/i/web/status/963921026080964608",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44222906,
+				"id_str": "44222906",
+				"name": "𝕊𝕒𝕣𝕒𝕙 𝕎𝕖𝕝𝕕𝕠𝕟 𝔽ℝ𝔾𝕊🌳",
+				"screen_name": "sarahrowssolo",
+				"location": "𝕂𝕖𝕟𝕕𝕒𝕝, 𝕃𝕒𝕜𝕖 𝔻𝕚𝕤𝕥𝕣𝕚𝕔𝕥, 𝕌𝕂",
+				"description": "𝕎𝕣𝕚𝕥𝕚𝕟𝕘 #𝔹𝕖𝕣𝕥𝕣𝕒𝕞&𝕄𝕠𝕝𝕝𝕪 𝕤𝕥𝕠𝕣𝕚𝕖𝕤, 𝕤𝕨𝕚𝕞𝕞𝕚𝕟𝕘 𝕒𝕣𝕠𝕦𝕟𝕕 𝕥𝕙𝕖 𝕔𝕠𝕒𝕤𝕥 𝕠𝕗 𝔹𝕣𝕚𝕥𝕒𝕚𝕟, 𝕊𝕡𝕖𝕒𝕜𝕚𝕟𝕘 𝕚𝕟 𝕤𝕔𝕙𝕠𝕠𝕝𝕤 𝕨𝕚𝕥𝕙 @SchoolSpeakers & @SkypeClassroom 𝕒𝕔𝕥𝕚𝕟𝕘 𝕠𝕟 𝕥𝕖𝕝𝕝𝕪, 𝕠𝕣 𝕖𝕒𝕥𝕚𝕟𝕘 𝕔𝕒𝕜𝕖",
+				"url": "https://t.co/HjYQoxa2w7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HjYQoxa2w7",
+								"expanded_url": "http://www.sarahweldon.co.uk",
+								"display_url": "sarahweldon.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6485,
+				"friends_count": 1118,
+				"listed_count": 121,
+				"created_at": "Tue Jun 02 22:14:38 +0000 2009",
+				"favourites_count": 14763,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12259,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/887618542929149953/rh4kz-9b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/887618542929149953/rh4kz-9b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44222906/1516117903",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 15 09:52:15 +0000 2018",
+		"id": 964074869720862700,
+		"id_str": "964074869720862721",
+		"text": "Admire and join 25 weekdays of #SketchNoting creativity on Twitter. Every day a new #sketchnote prompt is announced… https://t.co/WUNmHvxUeB",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SketchNoting",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"text": "sketchnote",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WUNmHvxUeB",
+					"expanded_url": "https://twitter.com/i/web/status/964074869720862721",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15171,
+			"friends_count": 5507,
+			"listed_count": 554,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22575,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20721,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 14 22:51:38 +0000 2018",
 		"id": 963908619094851600,
 		"id_str": "963908619094851584",
