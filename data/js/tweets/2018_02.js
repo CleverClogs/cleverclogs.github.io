@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 16 15:14:40 +0000 2018",
+		"id": 964518398603472900,
+		"id_str": "964518398603472896",
+		"text": "@Mrs_JStaab @oges_faa @Deniseogesfam Very curious for your students' stories, Mrs Staab. Will you be blogging, crea… https://t.co/8tIxzUVyPx",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mrs_JStaab",
+					"name": "Mrs.Staab's Class",
+					"id": 4118222412,
+					"id_str": "4118222412",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "oges_faa",
+					"name": "Oak Grove Fine Arts",
+					"id": 4026402621,
+					"id_str": "4026402621",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "Deniseogesfam",
+					"name": "Denise Lewis",
+					"id": 890316513894293500,
+					"id_str": "890316513894293504",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8tIxzUVyPx",
+					"expanded_url": "https://twitter.com/i/web/status/964518398603472896",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 964487741126991900,
+		"in_reply_to_status_id_str": "964487741126991874",
+		"in_reply_to_user_id": 4118222412,
+		"in_reply_to_user_id_str": "4118222412",
+		"in_reply_to_screen_name": "Mrs_JStaab",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15198,
+			"friends_count": 5516,
+			"listed_count": 554,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22612,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Feb 16 15:11:32 +0000 2018",
+		"id": 964517609394843600,
+		"id_str": "964517609394843649",
+		"text": "What a #FunNote picture of students in #OneNote Avenger capes. \nThank you for sharing, @MallyJohnsen. https://t.co/txnwKTXgS8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FunNote",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						39,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mallyjohnsen",
+					"name": "Mally Johnsen",
+					"id": 453127118,
+					"id_str": "453127118",
+					"indices": [
+						87,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/txnwKTXgS8",
+					"expanded_url": "https://twitter.com/mallyjohnsen/status/964503593297567744",
+					"display_url": "twitter.com/mallyjohnsen/s…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15198,
+			"friends_count": 5516,
+			"listed_count": 554,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22612,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 964503593297567700,
+		"quoted_status_id_str": "964503593297567744",
+		"quoted_status": {
+			"created_at": "Fri Feb 16 14:15:50 +0000 2018",
+			"id": 964503593297567700,
+			"id_str": "964503593297567744",
+			"text": "#OneNote #Avengers på Flekkefjord videregående skole er klar for vinterferie, vel fortjent  ✅ #kunst #design#arkite… https://t.co/h2xTzWdhUz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "Avengers",
+						"indices": [
+							9,
+							18
+						]
+					},
+					{
+						"text": "kunst",
+						"indices": [
+							94,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/h2xTzWdhUz",
+						"expanded_url": "https://twitter.com/i/web/status/964503593297567744",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 453127118,
+				"id_str": "453127118",
+				"name": "Mally Johnsen",
+				"screen_name": "mallyjohnsen",
+				"location": "Vest-Agder, Norway",
+				"description": "Art | Design | Architecture | ICT | Literacy #ErasmusPlus | #MIEExpert | #Creativity Jobber i videregående skole",
+				"url": "https://t.co/OEdo99hBu7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OEdo99hBu7",
+								"expanded_url": "http://visuelliskolen.blogspot.no/",
+								"display_url": "visuelliskolen.blogspot.no",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1325,
+				"friends_count": 1325,
+				"listed_count": 70,
+				"created_at": "Mon Jan 02 16:19:26 +0000 2012",
+				"favourites_count": 2740,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1181,
+				"lang": "no",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "19081F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/411166706/logo_visuell_m_rk.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/411166706/logo_visuell_m_rk.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/886678108807589888/f20NB2-1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/886678108807589888/f20NB2-1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/453127118/1452551539",
+				"profile_link_color": "C30F40",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "no"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 16 08:47:00 +0000 2018",
 		"id": 964420837204926500,
 		"id_str": "964420837204926464",
