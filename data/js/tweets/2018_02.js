@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sun Feb 18 22:53:08 +0000 2018",
+		"id": 965358549072273400,
+		"id_str": "965358549072273408",
+		"text": "Mathematicians, take a look at how math teacher Kepa uses #digitalink in #OneNote to explain math problems to his s… https://t.co/askRVyxMbq",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalink",
+					"indices": [
+						58,
+						69
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/askRVyxMbq",
+					"expanded_url": "https://twitter.com/i/web/status/965358549072273408",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15210,
+			"friends_count": 5520,
+			"listed_count": 558,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22632,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20794,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 965336761101627400,
+		"quoted_status_id_str": "965336761101627392",
+		"quoted_status": {
+			"created_at": "Sun Feb 18 21:26:33 +0000 2018",
+			"id": 965336761101627400,
+			"id_str": "965336761101627392",
+			"text": "Writing a probability unit in my #Onenote of Bach #maths inspired by @fcojaviercubas \nThis will empower my students… https://t.co/1TJLNq7ekr",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Onenote",
+						"indices": [
+							33,
+							41
+						]
+					},
+					{
+						"text": "maths",
+						"indices": [
+							50,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "fcojaviercubas",
+						"name": "Fco Javier Cubas",
+						"id": 447350872,
+						"id_str": "447350872",
+						"indices": [
+							69,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1TJLNq7ekr",
+						"expanded_url": "https://twitter.com/i/web/status/965336761101627392",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 421034146,
+				"id_str": "421034146",
+				"name": "KepA",
+				"screen_name": "KepaGdeLatorre",
+				"location": "Elx",
+				"description": "Maths & Economy teacher & ICT Manager at #LDE @gruposorolla / #MIEExpert #blogger / Hard work beats talent when talent doesn't work hard.",
+				"url": "https://t.co/tGBiXr8uJZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tGBiXr8uJZ",
+								"expanded_url": "https://kepaxyz.blogspot.com",
+								"display_url": "kepaxyz.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 906,
+				"friends_count": 737,
+				"listed_count": 36,
+				"created_at": "Fri Nov 25 12:14:43 +0000 2011",
+				"favourites_count": 1545,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 162,
+				"lang": "ca",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCF7FC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000073674091/01ac92b06e9e05fff7f93484a29794de.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000073674091/01ac92b06e9e05fff7f93484a29794de.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/954254784617476096/dXb5DSX6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/954254784617476096/dXb5DSX6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/421034146/1401738677",
+				"profile_link_color": "010E40",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "0A0A0A",
+				"profile_text_color": "F5B20A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 18 20:53:30 +0000 2018",
 		"id": 965328443922632700,
 		"id_str": "965328443922632706",
