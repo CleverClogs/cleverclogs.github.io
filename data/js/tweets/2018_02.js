@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 19 16:55:01 +0000 2018",
+		"id": 965630815127392300,
+		"id_str": "965630815127392256",
+		"text": "RT @GmedranoTIC: Tomorrow 20th #TweetMeet about #literacy\nA #MSFTEduChat to learn with @alberto_hrv @KarinaBailey @JennaDawson28 @valanglem…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TweetMeet",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"text": "literacy",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						60,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GmedranoTIC",
+					"name": "Guillermo Medrano",
+					"id": 783287228,
+					"id_str": "783287228",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "alberto_hrv",
+					"name": "Alberto Herraez",
+					"id": 852520911383085000,
+					"id_str": "852520911383085056",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"screen_name": "KarinaBailey",
+					"name": "Karina Bailey",
+					"id": 42045482,
+					"id_str": "42045482",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"screen_name": "JennaDawson28",
+					"name": "Jenna Dawson",
+					"id": 3395747205,
+					"id_str": "3395747205",
+					"indices": [
+						114,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15215,
+			"friends_count": 5527,
+			"listed_count": 554,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22699,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20821,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 19 16:13:46 +0000 2018",
+			"id": 965620433168068600,
+			"id_str": "965620433168068610",
+			"text": "Tomorrow 20th #TweetMeet about #literacy\nA #MSFTEduChat to learn with @alberto_hrv @KarinaBailey @JennaDawson28… https://t.co/rbTrjQ4WVe",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TweetMeet",
+						"indices": [
+							14,
+							24
+						]
+					},
+					{
+						"text": "literacy",
+						"indices": [
+							31,
+							40
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							43,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alberto_hrv",
+						"name": "Alberto Herraez",
+						"id": 852520911383085000,
+						"id_str": "852520911383085056",
+						"indices": [
+							70,
+							82
+						]
+					},
+					{
+						"screen_name": "KarinaBailey",
+						"name": "Karina Bailey",
+						"id": 42045482,
+						"id_str": "42045482",
+						"indices": [
+							83,
+							96
+						]
+					},
+					{
+						"screen_name": "JennaDawson28",
+						"name": "Jenna Dawson",
+						"id": 3395747205,
+						"id_str": "3395747205",
+						"indices": [
+							97,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rbTrjQ4WVe",
+						"expanded_url": "https://twitter.com/i/web/status/965620433168068610",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 783287228,
+				"id_str": "783287228",
+				"name": "Guillermo Medrano",
+				"screen_name": "GmedranoTIC",
+				"location": "Logroño",
+				"description": "Teaching XXI Century Skills. Technical mind, artistic heart. PhD. #Scratch_INTEF  #Flipped_INTEF #eTwinning #etwiam #CDD #CDEdu #FCL_es #MIEExpert #SkypeMT📱💻🖥️",
+				"url": "https://t.co/eaMxkJdAJc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eaMxkJdAJc",
+								"expanded_url": "http://gmedranotic.wordpress.com/",
+								"display_url": "gmedranotic.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1828,
+				"friends_count": 1475,
+				"listed_count": 139,
+				"created_at": "Sun Aug 26 22:11:22 +0000 2012",
+				"favourites_count": 2514,
+				"utc_offset": 3600,
+				"time_zone": "Madrid",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1876,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452373839100399616/oxR29vTN.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452373839100399616/oxR29vTN.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910418986038386689/5Vr3tdeG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910418986038386689/5Vr3tdeG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/783287228/1518380955",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 19 16:09:41 +0000 2018",
 		"id": 965619408264745000,
 		"id_str": "965619408264744961",
