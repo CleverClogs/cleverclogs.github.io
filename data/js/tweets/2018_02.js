@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Mon Feb 19 23:32:07 +0000 2018",
+		"id": 965730746945146900,
+		"id_str": "965730746945146880",
+		"text": "RT @goutcherd: Looking forward to joining the #MSFTEduChat and #SkypeMT on Literacy tomorrow cc @SkypeClassroom @mbfxc @CurranCentral @Elli…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"text": "SkypeMT",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "goutcherd",
+					"name": "David Goutcher",
+					"id": 3421189325,
+					"id_str": "3421189325",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "SkypeClassroom",
+					"name": "Skype Classroom",
+					"id": 214027732,
+					"id_str": "214027732",
+					"indices": [
+						96,
+						111
+					]
+				},
+				{
+					"screen_name": "mbfxc",
+					"name": "Marialice B.F.X. Curran, Ph.D.",
+					"id": 53978268,
+					"id_str": "53978268",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"screen_name": "CurranCentral",
+					"name": "Curran Central",
+					"id": 4449798323,
+					"id_str": "4449798323",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15220,
+			"friends_count": 5531,
+			"listed_count": 554,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22700,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20827,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 19 21:33:05 +0000 2018",
+			"id": 965700793843290100,
+			"id_str": "965700793843290112",
+			"text": "Looking forward to joining the #MSFTEduChat and #SkypeMT on Literacy tomorrow cc @SkypeClassroom @mbfxc… https://t.co/4dqUEyr0Bs",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							31,
+							43
+						]
+					},
+					{
+						"text": "SkypeMT",
+						"indices": [
+							48,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SkypeClassroom",
+						"name": "Skype Classroom",
+						"id": 214027732,
+						"id_str": "214027732",
+						"indices": [
+							81,
+							96
+						]
+					},
+					{
+						"screen_name": "mbfxc",
+						"name": "Marialice B.F.X. Curran, Ph.D.",
+						"id": 53978268,
+						"id_str": "53978268",
+						"indices": [
+							97,
+							103
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4dqUEyr0Bs",
+						"expanded_url": "https://twitter.com/i/web/status/965700793843290112",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3421189325,
+				"id_str": "3421189325",
+				"name": "David Goutcher",
+				"screen_name": "goutcherd",
+				"location": "East Kilbride, Scotland",
+				"description": "Author, games developer, entrepreneur and creator of @SpyQuest, which is an interactive A.R. game and book series. Passionate about inspiring children to read.",
+				"url": "https://t.co/iJwnVB2n6h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iJwnVB2n6h",
+								"expanded_url": "http://www.spy-quest.com",
+								"display_url": "spy-quest.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 901,
+				"friends_count": 4995,
+				"listed_count": 12,
+				"created_at": "Thu Aug 13 23:15:51 +0000 2015",
+				"favourites_count": 1756,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1254,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/631968319948632064/tlFeK0sQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/631968319948632064/tlFeK0sQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3421189325/1510829437",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 935615835418366000,
+			"quoted_status_id_str": "935615835418365952",
+			"quoted_status": {
+				"created_at": "Tue Nov 28 21:06:12 +0000 2017",
+				"id": 935615835418366000,
+				"id_str": "935615835418365952",
+				"text": "@Antoninep6 @SpyQuest @claganach @mrsgillespie15 Well done to our #skypeathon @spyquest live winners @Antoninep6. I… https://t.co/TYgGaWXl7l",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "skypeathon",
+							"indices": [
+								66,
+								77
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Antoninep6",
+							"name": "Primary 6",
+							"id": 2748370834,
+							"id_str": "2748370834",
+							"indices": [
+								0,
+								11
+							]
+						},
+						{
+							"screen_name": "SpyQuest",
+							"name": "Spy Quest",
+							"id": 738253002,
+							"id_str": "738253002",
+							"indices": [
+								12,
+								21
+							]
+						},
+						{
+							"screen_name": "claganach",
+							"name": "Malcolm Wilson",
+							"id": 54920357,
+							"id_str": "54920357",
+							"indices": [
+								22,
+								32
+							]
+						},
+						{
+							"screen_name": "mrsgillespie15",
+							"name": "Antonine Primary 6/5",
+							"id": 2913922407,
+							"id_str": "2913922407",
+							"indices": [
+								33,
+								48
+							]
+						},
+						{
+							"screen_name": "SpyQuest",
+							"name": "Spy Quest",
+							"id": 738253002,
+							"id_str": "738253002",
+							"indices": [
+								78,
+								87
+							]
+						},
+						{
+							"screen_name": "Antoninep6",
+							"name": "Primary 6",
+							"id": 2748370834,
+							"id_str": "2748370834",
+							"indices": [
+								101,
+								112
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/TYgGaWXl7l",
+							"expanded_url": "https://twitter.com/i/web/status/935615835418365952",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": 935606590790602800,
+				"in_reply_to_status_id_str": "935606590790602753",
+				"in_reply_to_user_id": 2748370834,
+				"in_reply_to_user_id_str": "2748370834",
+				"in_reply_to_screen_name": "Antoninep6",
+				"user": {
+					"id": 3421189325,
+					"id_str": "3421189325",
+					"name": "David Goutcher",
+					"screen_name": "goutcherd",
+					"location": "East Kilbride, Scotland",
+					"description": "Author, games developer, entrepreneur and creator of @SpyQuest, which is an interactive A.R. game and book series. Passionate about inspiring children to read.",
+					"url": "https://t.co/iJwnVB2n6h",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/iJwnVB2n6h",
+									"expanded_url": "http://www.spy-quest.com",
+									"display_url": "spy-quest.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 901,
+					"friends_count": 4995,
+					"listed_count": 12,
+					"created_at": "Thu Aug 13 23:15:51 +0000 2015",
+					"favourites_count": 1756,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1254,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/631968319948632064/tlFeK0sQ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/631968319948632064/tlFeK0sQ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3421189325/1510829437",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "38eabeb176f29378",
+					"url": "https://api.twitter.com/1.1/geo/id/38eabeb176f29378.json",
+					"place_type": "city",
+					"name": "East Kilbride",
+					"full_name": "East Kilbride, Scotland",
+					"country_code": "GB",
+					"country": "United Kingdom",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-4.2384726,
+									55.7339596
+								],
+								[
+									-4.1344466,
+									55.7339596
+								],
+								[
+									-4.1344466,
+									55.7849667
+								],
+								[
+									-4.2384726,
+									55.7849667
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7,
+				"favorite_count": 11,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 13,
+			"favorite_count": 17,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 935615835418366000,
+		"quoted_status_id_str": "935615835418365952",
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 19 22:44:47 +0000 2018",
 		"id": 965718837399351300,
 		"id_str": "965718837399351296",
