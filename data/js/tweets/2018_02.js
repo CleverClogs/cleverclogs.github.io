@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 21 22:18:02 +0000 2018",
+		"id": 966436879175442400,
+		"id_str": "966436879175442432",
+		"text": "RT @oliurcovich: New blog of 'a students' experience w/ #edtech ' series\n\nHere I look at how #OneNote is helping me survive taking an #MPA…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "MPA",
+					"indices": [
+						134,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oliurcovich",
+					"name": "Oliviero Iurcovich",
+					"id": 443691686,
+					"id_str": "443691686",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15258,
+			"friends_count": 5545,
+			"listed_count": 559,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22748,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20885,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 21 20:59:13 +0000 2018",
+			"id": 966417044261494800,
+			"id_str": "966417044261494784",
+			"text": "New blog of 'a students' experience w/ #edtech ' series\n\nHere I look at how #OneNote is helping me survive taking a… https://t.co/H392vKewYW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							39,
+							46
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							76,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/H392vKewYW",
+						"expanded_url": "https://twitter.com/i/web/status/966417044261494784",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 443691686,
+				"id_str": "443691686",
+				"name": "Oliviero Iurcovich",
+				"screen_name": "oliurcovich",
+				"location": "South East, England",
+				"description": "Ital-Argentinean in London - MPA @UCLSTEaPP in #Development, #Technology & #Innovation #Policy.  Consultant for @hableuk - #dream #deploy",
+				"url": "https://t.co/MuHNAPpTWd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MuHNAPpTWd",
+								"expanded_url": "http://www.hable.co.uk",
+								"display_url": "hable.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 233,
+				"friends_count": 1010,
+				"listed_count": 15,
+				"created_at": "Thu Dec 22 12:47:45 +0000 2011",
+				"favourites_count": 674,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 596,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928181872252932096/qAFKpU8A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928181872252932096/qAFKpU8A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/443691686/1503572533",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 966370698339012600,
+			"quoted_status_id_str": "966370698339012608",
+			"quoted_status": {
+				"created_at": "Wed Feb 21 17:55:03 +0000 2018",
+				"id": 966370698339012600,
+				"id_str": "966370698339012608",
+				"text": "New https://t.co/K1meMCIyaD blog by @oliurcovich on the student experience with the incredibly powerful #OneNote… https://t.co/Jow0E7QN4e",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OneNote",
+							"indices": [
+								104,
+								112
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "oliurcovich",
+							"name": "Oliviero Iurcovich",
+							"id": 443691686,
+							"id_str": "443691686",
+							"indices": [
+								36,
+								48
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/K1meMCIyaD",
+							"expanded_url": "http://hable.co.uk",
+							"display_url": "hable.co.uk",
+							"indices": [
+								4,
+								27
+							]
+						},
+						{
+							"url": "https://t.co/Jow0E7QN4e",
+							"expanded_url": "https://twitter.com/i/web/status/966370698339012608",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2532778704,
+					"id_str": "2532778704",
+					"name": "Hable",
+					"screen_name": "hableuk",
+					"location": "Radley, Oxfordshire",
+					"description": "Hable offer expert consultancy & learning experiences to help you DREAM big and DEPLOY fast. | Founded by @themarkreynolds | Tweets from Si at the #TeamHable HQ",
+					"url": "https://t.co/MuHNAPpTWd",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/MuHNAPpTWd",
+									"expanded_url": "http://www.hable.co.uk",
+									"display_url": "hable.co.uk",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 278,
+					"friends_count": 498,
+					"listed_count": 22,
+					"created_at": "Thu May 29 14:48:17 +0000 2014",
+					"favourites_count": 196,
+					"utc_offset": 3600,
+					"time_zone": "Amsterdam",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 339,
+					"lang": "en-gb",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/828553730589081600/NnJMXJ1U_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/828553730589081600/NnJMXJ1U_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2532778704/1453217333",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 966370698339012600,
+		"quoted_status_id_str": "966370698339012608",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 21 21:15:00 +0000 2018",
 		"id": 966421015713730600,
 		"id_str": "966421015713730560",
