@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Tue Feb 20 23:48:21 +0000 2018",
+		"id": 966097221048569900,
+		"id_str": "966097221048569856",
+		"text": "RT @SkypeClassroom: Read how @mrs_hembree and @TammyDunbar are empowering schools and students around the world to celebrate #literacy and…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "literacy",
+					"indices": [
+						125,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SkypeClassroom",
+					"name": "Skype Classroom",
+					"id": 214027732,
+					"id_str": "214027732",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "mrs_hembree",
+					"name": "Julie Hembree",
+					"id": 268071697,
+					"id_str": "268071697",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "TammyDunbar",
+					"name": "Tammy Dunbar, M.Ed.",
+					"id": 15911470,
+					"id_str": "15911470",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15253,
+			"friends_count": 5542,
+			"listed_count": 555,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22720,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20866,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 12 18:27:29 +0000 2018",
+			"id": 963117369311875100,
+			"id_str": "963117369311875073",
+			"text": "Read how @mrs_hembree and @TammyDunbar are empowering schools and students around the world to celebrate #literacy… https://t.co/2y30iRt3pf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "literacy",
+						"indices": [
+							105,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mrs_hembree",
+						"name": "Julie Hembree",
+						"id": 268071697,
+						"id_str": "268071697",
+						"indices": [
+							9,
+							21
+						]
+					},
+					{
+						"screen_name": "TammyDunbar",
+						"name": "Tammy Dunbar, M.Ed.",
+						"id": 15911470,
+						"id_str": "15911470",
+						"indices": [
+							26,
+							38
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2y30iRt3pf",
+						"expanded_url": "https://twitter.com/i/web/status/963117369311875073",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 214027732,
+				"id_str": "214027732",
+				"name": "Skype Classroom",
+				"screen_name": "SkypeClassroom",
+				"location": "Everywhere",
+				"description": "Skype in the Classroom is a global #MicrosoftEDU community of educators creating collaborative & free Skype lessons.",
+				"url": "https://t.co/euSfsFEu8D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/euSfsFEu8D",
+								"expanded_url": "http://education.microsoft.com/skypeintheclassroom",
+								"display_url": "education.microsoft.com/skypeintheclas…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 102838,
+				"friends_count": 8582,
+				"listed_count": 1517,
+				"created_at": "Wed Nov 10 11:32:30 +0000 2010",
+				"favourites_count": 27552,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 26672,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "25AFF0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/170155748/Twitter_background_people_1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/170155748/Twitter_background_people_1.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861937901470461952/3Vq0HO4s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861937901470461952/3Vq0HO4s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/214027732/1512496399",
+				"profile_link_color": "00B0F0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAF1FA",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 20 23:09:35 +0000 2018",
 		"id": 966087465294495700,
 		"id_str": "966087465294495744",
