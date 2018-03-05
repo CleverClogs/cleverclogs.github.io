@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 05 12:22:55 +0000 2018",
+		"id": 970635769877479400,
+		"id_str": "970635769877479424",
+		"text": "RT @RobynHrivnatz: FREE #accessibility webinar by the AWESOME @Technitkali and @MrsHCox.. SIGN UP TODAY! #edtech @mtholfsen https://t.co/FB…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "accessibility",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobynHrivnatz",
+					"name": "Robyn Hrivnatz",
+					"id": 27044576,
+					"id_str": "27044576",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "Technitkali",
+					"name": "Kali Alford",
+					"id": 2335946905,
+					"id_str": "2335946905",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "MrsHCox",
+					"name": "Heather Cox",
+					"id": 171770087,
+					"id_str": "171770087",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central #MVPSummit",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15400,
+			"friends_count": 5587,
+			"listed_count": 562,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22927,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21067,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 04 02:47:54 +0000 2018",
+			"id": 970128673440444400,
+			"id_str": "970128673440444416",
+			"text": "FREE #accessibility webinar by the AWESOME @Technitkali and @MrsHCox.. SIGN UP TODAY! #edtech @mtholfsen https://t.co/FBs2c4zki0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "accessibility",
+						"indices": [
+							5,
+							19
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							86,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Technitkali",
+						"name": "Kali Alford",
+						"id": 2335946905,
+						"id_str": "2335946905",
+						"indices": [
+							43,
+							55
+						]
+					},
+					{
+						"screen_name": "MrsHCox",
+						"name": "Heather Cox",
+						"id": 171770087,
+						"id_str": "171770087",
+						"indices": [
+							60,
+							68
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							94,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FBs2c4zki0",
+						"expanded_url": "https://twitter.com/mrshcox/status/969994280159862785",
+						"display_url": "twitter.com/mrshcox/status…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27044576,
+				"id_str": "27044576",
+				"name": "Robyn Hrivnatz",
+				"screen_name": "RobynHrivnatz",
+				"location": "Houston, TX",
+				"description": "Global EDU| Learning leader| Educator Empowerment| Science lover| MicrosoftEDU  \"Embrace the uncomfortable, Be thankful, Live passionately, Be awesome!\"",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5133,
+				"friends_count": 2541,
+				"listed_count": 298,
+				"created_at": "Fri Mar 27 16:55:10 +0000 2009",
+				"favourites_count": 2491,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6570,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839226440709095424/8MKtYQHb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839226440709095424/8MKtYQHb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27044576/1463872119",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "e0060cda70f5f341",
+				"url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json",
+				"place_type": "admin",
+				"name": "Texas",
+				"full_name": "Texas, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-106.645646,
+								25.837092
+							],
+							[
+								-93.508131,
+								25.837092
+							],
+							[
+								-93.508131,
+								36.500695
+							],
+							[
+								-106.645646,
+								36.500695
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 969994280159862800,
+			"quoted_status_id_str": "969994280159862785",
+			"quoted_status": {
+				"created_at": "Sat Mar 03 17:53:52 +0000 2018",
+				"id": 969994280159862800,
+				"id_str": "969994280159862785",
+				"text": "Register and then spread the word! @Technitkali and I are leading a webinar for @MicrosoftEDU regarding Learning To… https://t.co/QklEiis9aP",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Technitkali",
+							"name": "Kali Alford",
+							"id": 2335946905,
+							"id_str": "2335946905",
+							"indices": [
+								35,
+								47
+							]
+						},
+						{
+							"screen_name": "MicrosoftEDU",
+							"name": "Microsoft Education",
+							"id": 17826187,
+							"id_str": "17826187",
+							"indices": [
+								80,
+								93
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/QklEiis9aP",
+							"expanded_url": "https://twitter.com/i/web/status/969994280159862785",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 171770087,
+					"id_str": "171770087",
+					"name": "Heather Cox",
+					"screen_name": "MrsHCox",
+					"location": "Canton, GA",
+					"description": "@MicrosoftEDU Solutions Specialist, White House ConnectED Champion of Change, @Nearpod PioNear, & @OhioState Buckeye for life!",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1862,
+					"friends_count": 1483,
+					"listed_count": 101,
+					"created_at": "Wed Jul 28 03:36:49 +0000 2010",
+					"favourites_count": 9520,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 6113,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "0099B9",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/948391750862811136/f_Lg-Hey_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/948391750862811136/f_Lg-Hey_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/171770087/1514949192",
+					"profile_link_color": "0099B9",
+					"profile_sidebar_border_color": "5ED4DC",
+					"profile_sidebar_fill_color": "95E8EC",
+					"profile_text_color": "3C3940",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 15,
+				"favorite_count": 34,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 969994280159862800,
+		"quoted_status_id_str": "969994280159862785",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Mar 05 07:49:09 +0000 2018",
 		"id": 970566874353160200,
 		"id_str": "970566874353160192",
