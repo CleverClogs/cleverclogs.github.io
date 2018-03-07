@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 07 17:01:57 +0000 2018",
+		"id": 971430766096760800,
+		"id_str": "971430766096760832",
+		"text": "RT @StefanMalter: Such an honor to present my #OneNote community work today at #MVPSummit. I'm really thankful for the great feedback. Pure…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "MVPSummit",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StefanMalter",
+					"name": "Stefan Malter",
+					"id": 60564600,
+					"id_str": "60564600",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central #MVPSummit",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15420,
+			"friends_count": 5590,
+			"listed_count": 557,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 22930,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21081,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1516193102",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 07 16:59:04 +0000 2018",
+			"id": 971430040083742700,
+			"id_str": "971430040083742725",
+			"text": "Such an honor to present my #OneNote community work today at #MVPSummit. I'm really thankful for the great feedback… https://t.co/QFfKEgLszz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							28,
+							36
+						]
+					},
+					{
+						"text": "MVPSummit",
+						"indices": [
+							61,
+							71
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QFfKEgLszz",
+						"expanded_url": "https://twitter.com/i/web/status/971430040083742725",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60564600,
+				"id_str": "60564600",
+				"name": "Stefan Malter",
+				"screen_name": "StefanMalter",
+				"location": "Dortmund, Germany",
+				"description": "Chefredakteur bei @NRWision | Journalist | #Medientrainer | Dozent @TU_Dortmund | Autor | Microsoft #MVP #MIEExpert | #Medien | #Journalismus | #DigitaleBildung",
+				"url": "http://t.co/QcJKaLG7Oe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QcJKaLG7Oe",
+								"expanded_url": "http://www.stefan-malter.de",
+								"display_url": "stefan-malter.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1113,
+				"friends_count": 1038,
+				"listed_count": 92,
+				"created_at": "Mon Jul 27 11:02:34 +0000 2009",
+				"favourites_count": 2419,
+				"utc_offset": 3600,
+				"time_zone": "Berlin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4417,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903262142316642304/r9-1aTul_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903262142316642304/r9-1aTul_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60564600/1467312540",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9e3b2fd485005",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9e3b2fd485005.json",
+				"place_type": "poi",
+				"name": "Microsoft Building 27",
+				"full_name": "Microsoft Building 27",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.1300745010376,
+								47.635899263221035
+							],
+							[
+								-122.1300745010376,
+								47.635899263221035
+							],
+							[
+								-122.1300745010376,
+								47.635899263221035
+							],
+							[
+								-122.1300745010376,
+								47.635899263221035
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 971428304094818300,
+			"quoted_status_id_str": "971428304094818305",
+			"quoted_status": {
+				"created_at": "Wed Mar 07 16:52:10 +0000 2018",
+				"id": 971428304094818300,
+				"id_str": "971428304094818305",
+				"text": "Wie schön: #OneNote-Experte @StefanMalter durfte heute seine Community-Arbeit beim #MVPSummit von @Microsoft präsen… https://t.co/pTgF0Toi0x",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OneNote",
+							"indices": [
+								11,
+								19
+							]
+						},
+						{
+							"text": "MVPSummit",
+							"indices": [
+								83,
+								93
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "StefanMalter",
+							"name": "Stefan Malter",
+							"id": 60564600,
+							"id_str": "60564600",
+							"indices": [
+								28,
+								41
+							]
+						},
+						{
+							"screen_name": "Microsoft",
+							"name": "Microsoft",
+							"id": 74286565,
+							"id_str": "74286565",
+							"indices": [
+								98,
+								108
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/pTgF0Toi0x",
+							"expanded_url": "https://twitter.com/i/web/status/971428304094818305",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3883996702,
+					"id_str": "3883996702",
+					"name": "OneNoteDE",
+					"screen_name": "OneNoteDE",
+					"location": "Deutschland",
+					"description": "Praxis-Tipps für #Microsoft #OneNote | Unabhängiges Blog-Projekt von @StefanMalter, #MVP + #MIEExpert | OneNote-Buch für Einsteiger: https://t.co/hW1LQloYcb",
+					"url": "https://t.co/hr3gzPO1mJ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/hr3gzPO1mJ",
+									"expanded_url": "https://onenote-fuer-einsteiger.de",
+									"display_url": "onenote-fuer-einsteiger.de",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/hW1LQloYcb",
+									"expanded_url": "http://amzn.to/2B0kIay",
+									"display_url": "amzn.to/2B0kIay",
+									"indices": [
+										133,
+										156
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 769,
+					"friends_count": 270,
+					"listed_count": 72,
+					"created_at": "Tue Oct 06 21:10:16 +0000 2015",
+					"favourites_count": 1034,
+					"utc_offset": 3600,
+					"time_zone": "Berlin",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2684,
+					"lang": "de",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/932046123128193025/HSmSnFxf_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/932046123128193025/HSmSnFxf_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3883996702/1511052264",
+					"profile_link_color": "981CEB",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 971426743025254400,
+				"quoted_status_id_str": "971426743025254400",
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "de"
+			},
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 971428304094818300,
+		"quoted_status_id_str": "971428304094818305",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 07 13:19:23 +0000 2018",
 		"id": 971374754639708200,
 		"id_str": "971374754639708160",
