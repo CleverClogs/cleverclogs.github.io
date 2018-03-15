@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 15 13:54:02 +0000 2018",
+		"id": 974282577291903000,
+		"id_str": "974282577291902976",
+		"text": "RT @NicolePonsford: Just uploaded mine! So excited about being a host with these incredible global educators! Hope you will all join us for…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NicolePonsford",
+					"name": "Nicole Ponsford 👩🏻‍💻👩🏻‍🏫",
+					"id": 322526669,
+					"id_str": "322526669",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15514,
+			"friends_count": 5628,
+			"listed_count": 559,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23052,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21236,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1520577565",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 15 13:33:40 +0000 2018",
+			"id": 974277451080716300,
+			"id_str": "974277451080716288",
+			"text": "Just uploaded mine! So excited about being a host with these incredible global educators! Hope you will all join us… https://t.co/dhMyu9Z67c",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dhMyu9Z67c",
+						"expanded_url": "https://twitter.com/i/web/status/974277451080716288",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322526669,
+				"id_str": "322526669",
+				"name": "Nicole Ponsford 👩🏻‍💻👩🏻‍🏫",
+				"screen_name": "NicolePonsford",
+				"location": "South Coast of UK",
+				"description": "Mum of 3🙋🏻‍♀️Educator👩🏻‍🏫Author 📚Writer👩🏻‍💻Speaker👩🏻 Digital Ed Specialist @AFA_Education | #EdTech50 | Founder @gendercharter and @WomenEd_Tech",
+				"url": "https://t.co/anUd2I5JQk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/anUd2I5JQk",
+								"expanded_url": "http://nicoleponsford.com",
+								"display_url": "nicoleponsford.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2583,
+				"friends_count": 4559,
+				"listed_count": 174,
+				"created_at": "Thu Jun 23 09:39:55 +0000 2011",
+				"favourites_count": 7764,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11450,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/314273858/IMGP0980.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/314273858/IMGP0980.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974275089939263490/dXBXS-lu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974275089939263490/dXBXS-lu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/322526669/1520980640",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 973951066395103200,
+			"quoted_status_id_str": "973951066395103232",
+			"quoted_status": {
+				"created_at": "Wed Mar 14 15:56:44 +0000 2018",
+				"id": 973951066395103200,
+				"id_str": "973951066395103232",
+				"text": "The #MSFTEduChat TweetMeet hosts of March 20 are busy recording Flipgrid response videos about #WomeninSTEM.\nWant t… https://t.co/T4B6IN6gBQ",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "MSFTEduChat",
+							"indices": [
+								4,
+								16
+							]
+						},
+						{
+							"text": "WomeninSTEM",
+							"indices": [
+								95,
+								107
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/T4B6IN6gBQ",
+							"expanded_url": "https://twitter.com/i/web/status/973951066395103232",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"name": "OneNote Central",
+					"screen_name": "OneNoteC",
+					"location": "World",
+					"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+					"url": "https://t.co/Udn06tcMta",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/Udn06tcMta",
+									"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+									"display_url": "onen.link/onenote-commun…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 15514,
+					"friends_count": 5628,
+					"listed_count": 559,
+					"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+					"favourites_count": 23052,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 21236,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1520577565",
+					"profile_link_color": "7719AA",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 12,
+				"favorite_count": 19,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 973951066395103200,
+		"quoted_status_id_str": "973951066395103232",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 15 13:39:51 +0000 2018",
+		"id": 974279007352119300,
+		"id_str": "974279007352119297",
+		"text": "RT @MakeYourselfNrd: My beloved Snip tool is retiring 😢https://t.co/B7uSEd2rVS\n\nWhat screen clip tools does everyone use? OneNote? Somethin…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MakeYourselfNrd",
+					"name": "David Rosenthal",
+					"id": 360986634,
+					"id_str": "360986634",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B7uSEd2rVS",
+					"expanded_url": "https://mix.office.com/snip",
+					"display_url": "mix.office.com/snip",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15514,
+			"friends_count": 5628,
+			"listed_count": 559,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23052,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21236,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1520577565",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 14 15:09:34 +0000 2018",
+			"id": 973939197194076200,
+			"id_str": "973939197194076164",
+			"text": "My beloved Snip tool is retiring 😢https://t.co/B7uSEd2rVS\n\nWhat screen clip tools does everyone use? OneNote? Something else?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/B7uSEd2rVS",
+						"expanded_url": "https://mix.office.com/snip",
+						"display_url": "mix.office.com/snip",
+						"indices": [
+							34,
+							57
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 360986634,
+				"id_str": "360986634",
+				"name": "David Rosenthal",
+				"screen_name": "MakeYourselfNrd",
+				"location": "Seattle, WA",
+				"description": "Senior PM @Microsoft in the @MicrosoftTeams Product Group. I bring Teams to the Government Cloud. Former Microsoft MVP. Amateur futurist. Advertising hater.",
+				"url": "https://t.co/gWv2ei3gz9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gWv2ei3gz9",
+								"expanded_url": "https://www.linkedin.com/in/darosenthal",
+								"display_url": "linkedin.com/in/darosenthal",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1087,
+				"friends_count": 1099,
+				"listed_count": 23,
+				"created_at": "Wed Aug 24 02:17:18 +0000 2011",
+				"favourites_count": 8880,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6248,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/828982616137228288/5HXf6Xvm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/828982616137228288/5HXf6Xvm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/360986634/1466175420",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 15 13:10:48 +0000 2018",
 		"id": 974271698693484500,
 		"id_str": "974271698693484545",
