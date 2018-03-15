@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 15 18:15:31 +0000 2018",
+		"id": 974348382004285400,
+		"id_str": "974348382004285445",
+		"text": "RT @tomgrissom: Here it is! Introducing a new and innovative #PedagogyFirst instructional practice called #NoteStreaming – powered by Micro…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PedagogyFirst",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"text": "NoteStreaming",
+					"indices": [
+						106,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomgrissom",
+					"name": "Tom Grissom",
+					"id": 15348616,
+					"id_str": "15348616",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15516,
+			"friends_count": 5637,
+			"listed_count": 558,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23055,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21240,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1520577565",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 15 14:16:54 +0000 2018",
+			"id": 974288330870452200,
+			"id_str": "974288330870452224",
+			"text": "Here it is! Introducing a new and innovative #PedagogyFirst instructional practice called #NoteStreaming – powered… https://t.co/XiTEgVJTDF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PedagogyFirst",
+						"indices": [
+							45,
+							59
+						]
+					},
+					{
+						"text": "NoteStreaming",
+						"indices": [
+							90,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XiTEgVJTDF",
+						"expanded_url": "https://twitter.com/i/web/status/974288330870452224",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15348616,
+				"id_str": "15348616",
+				"name": "Tom Grissom",
+				"screen_name": "tomgrissom",
+				"location": "Illinois",
+				"description": "Educator, Thinker, Maker, Doer, Farmer, MIEExpert, Ph.D. Co-founder edcampEIU https://t.co/KTGXYTdUgL Day Job: Growing Minds - Views my own",
+				"url": "http://t.co/BQMHLqzjG8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BQMHLqzjG8",
+								"expanded_url": "http://eiu.edu/itc",
+								"display_url": "eiu.edu/itc",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KTGXYTdUgL",
+								"expanded_url": "https://www.youtube.com/user/eiuitc",
+								"display_url": "youtube.com/user/eiuitc",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2555,
+				"friends_count": 2010,
+				"listed_count": 366,
+				"created_at": "Tue Jul 08 01:20:29 +0000 2008",
+				"favourites_count": 21,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21173,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815572810655354880/9Lf2rt2k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815572810655354880/9Lf2rt2k_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 15 17:56:31 +0000 2018",
+		"id": 974343600828973000,
+		"id_str": "974343600828973056",
+		"text": "Busy adding #MIEExpert Teachers to my 'definitive' Twitter List who have been attending #E2 in Singapore. With 2000… https://t.co/zjBjjpnDpv",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"text": "E2",
+					"indices": [
+						88,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zjBjjpnDpv",
+					"expanded_url": "https://twitter.com/i/web/status/974343600828973056",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15516,
+			"friends_count": 5637,
+			"listed_count": 558,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23055,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21240,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1520577565",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 15 17:35:33 +0000 2018",
+		"id": 974338326093291500,
+		"id_str": "974338326093291521",
+		"text": "@PeggyJ Hi Peggy. Microsoft Education is organizing an #MSFTEduChat TweetMeet about #WomeninSTEM on Tuesday March 2… https://t.co/17pTAz6vy9",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						55,
+						67
+					]
+				},
+				{
+					"text": "WomeninSTEM",
+					"indices": [
+						84,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeggyJ",
+					"name": "Peggy Johnson",
+					"id": 608523926,
+					"id_str": "608523926",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/17pTAz6vy9",
+					"expanded_url": "https://twitter.com/i/web/status/974338326093291521",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 974027247467167700,
+		"in_reply_to_status_id_str": "974027247467167744",
+		"in_reply_to_user_id": 608523926,
+		"in_reply_to_user_id_str": "608523926",
+		"in_reply_to_screen_name": "PeggyJ",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15516,
+			"friends_count": 5637,
+			"listed_count": 558,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23055,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21240,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1520577565",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": [
+			18578140
+		],
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 15 17:09:21 +0000 2018",
 		"id": 974331732689334300,
 		"id_str": "974331732689334272",
