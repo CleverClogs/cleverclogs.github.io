@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 15 11:14:47 +0000 2018",
+		"id": 974242500478226400,
+		"id_str": "974242500478226432",
+		"text": "@cecigomez_g @KristinZiemke @baci_abroad @Marji_Satrapi @halseanderson @Flipgrid @mr_shep63 @bannerbenjamin… https://t.co/6hPIIWmSZr",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cecigomez_g",
+					"name": "Ceci Gomez-Galvez",
+					"id": 540417929,
+					"id_str": "540417929",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "KristinZiemke",
+					"name": "Kristin Ziemke",
+					"id": 419927374,
+					"id_str": "419927374",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "baci_abroad",
+					"name": "Jamie Bacigalupo",
+					"id": 4828166198,
+					"id_str": "4828166198",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "Marji_Satrapi",
+					"name": "Marjane Satrapi",
+					"id": 83709348,
+					"id_str": "83709348",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "halseanderson",
+					"name": "L Halse Anderson",
+					"id": 19289340,
+					"id_str": "19289340",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "mr_shep63",
+					"name": "David Sheppard",
+					"id": 3311283560,
+					"id_str": "3311283560",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"screen_name": "bannerbenjamin",
+					"name": "Ben Banner",
+					"id": 3637773132,
+					"id_str": "3637773132",
+					"indices": [
+						92,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6hPIIWmSZr",
+					"expanded_url": "https://twitter.com/i/web/status/974242500478226432",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 974084888251973600,
+		"in_reply_to_status_id_str": "974084888251973632",
+		"in_reply_to_user_id": 540417929,
+		"in_reply_to_user_id_str": "540417929",
+		"in_reply_to_screen_name": "cecigomez_g",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15513,
+			"friends_count": 5623,
+			"listed_count": 560,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23035,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1520577565",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Mar 15 11:13:26 +0000 2018",
+		"id": 974242159896547300,
+		"id_str": "974242159896547329",
+		"text": "RT @MicrosoftEduCA: Myth: special education students can't thrive in a paperless classroom. Read how technology integration specialist @Liz…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEduCA",
+					"name": "Microsoft in Education Canada",
+					"id": 405043996,
+					"id_str": "405043996",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15513,
+			"friends_count": 5623,
+			"listed_count": 560,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23035,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1520577565",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 14 22:54:01 +0000 2018",
+			"id": 974056080895553500,
+			"id_str": "974056080895553536",
+			"text": "Myth: special education students can't thrive in a paperless classroom. Read how technology integration specialist… https://t.co/pfFZXtri1l",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pfFZXtri1l",
+						"expanded_url": "https://twitter.com/i/web/status/974056080895553536",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 405043996,
+				"id_str": "405043996",
+				"name": "Microsoft in Education Canada",
+				"screen_name": "MicrosoftEduCA",
+				"location": "",
+				"description": "Microsoft in Education Canada's official Twitter handle. Contact us at https://t.co/FGZNOGkVYL",
+				"url": "https://t.co/Kff3Pei3uz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Kff3Pei3uz",
+								"expanded_url": "https://education.microsoft.com/",
+								"display_url": "education.microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FGZNOGkVYL",
+								"expanded_url": "http://aka.ms/contact-ca",
+								"display_url": "aka.ms/contact-ca",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15731,
+				"friends_count": 3126,
+				"listed_count": 273,
+				"created_at": "Fri Nov 04 19:36:53 +0000 2011",
+				"favourites_count": 10615,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8886,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/360529013/CLC_BG.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/360529013/CLC_BG.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802266751429816320/BCqu0Af1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802266751429816320/BCqu0Af1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/405043996/1520028289",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 15 08:17:30 +0000 2018",
 		"id": 974197888409653200,
 		"id_str": "974197888409653250",
