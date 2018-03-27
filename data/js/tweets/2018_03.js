@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Tue Mar 27 21:23:17 +0000 2018",
+		"id": 978744290951168000,
+		"id_str": "978744290951168000",
+		"text": "RT @tvanderark: Microsoft Inclusive Classroom Adds Picture Dictionary https://t.co/QMKTnbnBTR via @Getting_Smart",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tvanderark",
+					"name": "Tom Vander Ark",
+					"id": 26928955,
+					"id_str": "26928955",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Getting_Smart",
+					"name": "Getting Smart",
+					"id": 272561168,
+					"id_str": "272561168",
+					"indices": [
+						98,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QMKTnbnBTR",
+					"expanded_url": "http://www.gettingsmart.com/2018/03/microsoft-inclusive-classroom-adds-picture-dictionary/",
+					"display_url": "gettingsmart.com/2018/03/micros…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15650,
+			"friends_count": 5676,
+			"listed_count": 558,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23262,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21460,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 21 19:36:29 +0000 2018",
+			"id": 976543084254257200,
+			"id_str": "976543084254257152",
+			"text": "Microsoft Inclusive Classroom Adds Picture Dictionary https://t.co/QMKTnbnBTR via @Getting_Smart",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Getting_Smart",
+						"name": "Getting Smart",
+						"id": 272561168,
+						"id_str": "272561168",
+						"indices": [
+							82,
+							96
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QMKTnbnBTR",
+						"expanded_url": "http://www.gettingsmart.com/2018/03/microsoft-inclusive-classroom-adds-picture-dictionary/",
+						"display_url": "gettingsmart.com/2018/03/micros…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26928955,
+				"id_str": "26928955",
+				"name": "Tom Vander Ark",
+				"screen_name": "tvanderark",
+				"location": "Seattle WA",
+				"description": "Passionate about innovations in learning. Studying #AI #FutureofWork #PBL #SEL  #PersonalizedLearning #EdTech #CBE",
+				"url": "http://t.co/U0ejUdw0JS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/U0ejUdw0JS",
+								"expanded_url": "http://www.GettingSmart.com",
+								"display_url": "GettingSmart.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52545,
+				"friends_count": 36933,
+				"listed_count": 1984,
+				"created_at": "Fri Mar 27 02:37:05 +0000 2009",
+				"favourites_count": 2886,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25862,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9B2622",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/397735934/_Getting_Smart_Twitter_Background_1920x1200_B.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/397735934/_Getting_Smart_Twitter_Background_1920x1200_B.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810179282580275200/Tg0YKtoB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810179282580275200/Tg0YKtoB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26928955/1495228281",
+				"profile_link_color": "58595B",
+				"profile_sidebar_border_color": "58595B",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 27 19:27:22 +0000 2018",
 		"id": 978715119235620900,
 		"id_str": "978715119235620866",
