@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 02 16:31:40 +0000 2018",
+		"id": 980845229900271600,
+		"id_str": "980845229900271621",
+		"text": "Just in: take full advantage of the #digitalink capabilities in #OneNote for #Windows10.  \n5 Tips by OneNote produc… https://t.co/FceeR2OXYA",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalink",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FceeR2OXYA",
+					"expanded_url": "https://twitter.com/i/web/status/980845229900271621",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15730,
+			"friends_count": 5684,
+			"listed_count": 558,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23313,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21512,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 02 16:25:07 +0000 2018",
+		"id": 980843579290587100,
+		"id_str": "980843579290587136",
+		"text": "RT @SMBerdaxagar: @edmodo goes together with most apps. Today @OneNoteEDU poses for a selfie with Mo. https://t.co/yTApg57LFe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMBerdaxagar",
+					"name": "Stella M. Berdaxagar",
+					"id": 867246523,
+					"id_str": "867246523",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "edmodo",
+					"name": "Edmodo",
+					"id": 10875712,
+					"id_str": "10875712",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						62,
+						73
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 980828636608696300,
+					"id_str": "980828636608696321",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/980828636608696321/pu/img/WiNu7FBE84AxkSi8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/980828636608696321/pu/img/WiNu7FBE84AxkSi8.jpg",
+					"url": "https://t.co/yTApg57LFe",
+					"display_url": "pic.twitter.com/yTApg57LFe",
+					"expanded_url": "https://twitter.com/SMBerdaxagar/status/980829401771278338/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 980829401771278300,
+					"source_status_id_str": "980829401771278338",
+					"source_user_id": 867246523,
+					"source_user_id_str": "867246523"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 980828636608696300,
+					"id_str": "980828636608696321",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/980828636608696321/pu/img/WiNu7FBE84AxkSi8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/980828636608696321/pu/img/WiNu7FBE84AxkSi8.jpg",
+					"url": "https://t.co/yTApg57LFe",
+					"display_url": "pic.twitter.com/yTApg57LFe",
+					"expanded_url": "https://twitter.com/SMBerdaxagar/status/980829401771278338/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 980829401771278300,
+					"source_status_id_str": "980829401771278338",
+					"source_user_id": 867246523,
+					"source_user_id_str": "867246523",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 8333,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/980828636608696321/pu/vid/720x720/0RNOWqP0Z1iEuKQy.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/980828636608696321/pu/pl/lNd1omMf0Q9MzYHm.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/980828636608696321/pu/vid/480x480/NZgUpG0spJrNit5Z.mp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/980828636608696321/pu/vid/240x240/npA3BycnVj_KL0Ve.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 867246523,
+							"id_str": "867246523",
+							"name": "Stella M. Berdaxagar",
+							"screen_name": "SMBerdaxagar",
+							"location": "Quemú Quemú,La Pampa.Argentina",
+							"description": "ESL Teacher, UNLPam grad ,\nICT Spec., Appi & IEARN  M, Symbaloo,Livebinders, Newsela & CK-12 CERT,   PenPals, Quizlet & Edmodo Ambass. & CT, MIEExpert '12/18.",
+							"url": "http://t.co/L4Prkl1TVd",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/L4Prkl1TVd",
+											"expanded_url": "http://about.me/SMBerdaxagar",
+											"display_url": "about.me/SMBerdaxagar",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 878,
+							"friends_count": 2042,
+							"listed_count": 66,
+							"created_at": "Mon Oct 08 01:38:22 +0000 2012",
+							"favourites_count": 806,
+							"utc_offset": -10800,
+							"time_zone": "Buenos Aires",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 2755,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "60A6A5",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000089954309/9bc4f320292c5b2790bbb6516922b02a.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000089954309/9bc4f320292c5b2790bbb6516922b02a.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/2782460029/1f5011c0433aa547605220fbe1b3857d_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/2782460029/1f5011c0433aa547605220fbe1b3857d_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/867246523/1381162234",
+							"profile_link_color": "D4AF37",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "F6F6F6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15730,
+			"friends_count": 5684,
+			"listed_count": 558,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23313,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21512,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 02 15:28:46 +0000 2018",
+			"id": 980829401771278300,
+			"id_str": "980829401771278338",
+			"text": "@edmodo goes together with most apps. Today @OneNoteEDU poses for a selfie with Mo. https://t.co/yTApg57LFe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "edmodo",
+						"name": "Edmodo",
+						"id": 10875712,
+						"id_str": "10875712",
+						"indices": [
+							0,
+							7
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							44,
+							55
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 980828636608696300,
+						"id_str": "980828636608696321",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/980828636608696321/pu/img/WiNu7FBE84AxkSi8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/980828636608696321/pu/img/WiNu7FBE84AxkSi8.jpg",
+						"url": "https://t.co/yTApg57LFe",
+						"display_url": "pic.twitter.com/yTApg57LFe",
+						"expanded_url": "https://twitter.com/SMBerdaxagar/status/980829401771278338/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 980828636608696300,
+						"id_str": "980828636608696321",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/980828636608696321/pu/img/WiNu7FBE84AxkSi8.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/980828636608696321/pu/img/WiNu7FBE84AxkSi8.jpg",
+						"url": "https://t.co/yTApg57LFe",
+						"display_url": "pic.twitter.com/yTApg57LFe",
+						"expanded_url": "https://twitter.com/SMBerdaxagar/status/980829401771278338/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 8333,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/980828636608696321/pu/vid/720x720/0RNOWqP0Z1iEuKQy.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/980828636608696321/pu/pl/lNd1omMf0Q9MzYHm.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/980828636608696321/pu/vid/480x480/NZgUpG0spJrNit5Z.mp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/980828636608696321/pu/vid/240x240/npA3BycnVj_KL0Ve.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 10875712,
+			"in_reply_to_user_id_str": "10875712",
+			"in_reply_to_screen_name": "edmodo",
+			"user": {
+				"id": 867246523,
+				"id_str": "867246523",
+				"name": "Stella M. Berdaxagar",
+				"screen_name": "SMBerdaxagar",
+				"location": "Quemú Quemú,La Pampa.Argentina",
+				"description": "ESL Teacher, UNLPam grad ,\nICT Spec., Appi & IEARN  M, Symbaloo,Livebinders, Newsela & CK-12 CERT,   PenPals, Quizlet & Edmodo Ambass. & CT, MIEExpert '12/18.",
+				"url": "http://t.co/L4Prkl1TVd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/L4Prkl1TVd",
+								"expanded_url": "http://about.me/SMBerdaxagar",
+								"display_url": "about.me/SMBerdaxagar",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 878,
+				"friends_count": 2042,
+				"listed_count": 66,
+				"created_at": "Mon Oct 08 01:38:22 +0000 2012",
+				"favourites_count": 806,
+				"utc_offset": -10800,
+				"time_zone": "Buenos Aires",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2755,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "60A6A5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000089954309/9bc4f320292c5b2790bbb6516922b02a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000089954309/9bc4f320292c5b2790bbb6516922b02a.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2782460029/1f5011c0433aa547605220fbe1b3857d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2782460029/1f5011c0433aa547605220fbe1b3857d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/867246523/1381162234",
+				"profile_link_color": "D4AF37",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 02 16:10:01 +0000 2018",
 		"id": 980839781612572700,
 		"id_str": "980839781612572672",
