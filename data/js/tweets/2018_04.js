@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 02 20:37:03 +0000 2018",
+		"id": 980906980024967200,
+		"id_str": "980906980024967168",
+		"text": "RT @jordanisonfire: @NotedByRyan @juliankay @andrewhathaway @msonenote @MasterDevwi Hi Guys, just on a side note, I wondered if you have an…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jordanisonfire",
+					"name": "Jordan Appleson",
+					"id": 53767521,
+					"id_str": "53767521",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "NotedByRyan",
+					"name": "Ryan",
+					"id": 729049944133226500,
+					"id_str": "729049944133226496",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"screen_name": "juliankay",
+					"name": "Julian Kay",
+					"id": 16929736,
+					"id_str": "16929736",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"screen_name": "andrewhathaway",
+					"name": "Andrew Hathaway",
+					"id": 238595499,
+					"id_str": "238595499",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "MasterDevwi",
+					"name": "William Devereux",
+					"id": 5193261,
+					"id_str": "5193261",
+					"indices": [
+						71,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15735,
+			"friends_count": 5684,
+			"listed_count": 559,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23315,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21517,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 02 18:34:31 +0000 2018",
+			"id": 980876144223359000,
+			"id_str": "980876144223358976",
+			"text": "@NotedByRyan @juliankay @andrewhathaway @msonenote @MasterDevwi Hi Guys, just on a side note, I wondered if you hav… https://t.co/XYkvANfDSp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NotedByRyan",
+						"name": "Ryan",
+						"id": 729049944133226500,
+						"id_str": "729049944133226496",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "juliankay",
+						"name": "Julian Kay",
+						"id": 16929736,
+						"id_str": "16929736",
+						"indices": [
+							13,
+							23
+						]
+					},
+					{
+						"screen_name": "andrewhathaway",
+						"name": "Andrew Hathaway",
+						"id": 238595499,
+						"id_str": "238595499",
+						"indices": [
+							24,
+							39
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							40,
+							50
+						]
+					},
+					{
+						"screen_name": "MasterDevwi",
+						"name": "William Devereux",
+						"id": 5193261,
+						"id_str": "5193261",
+						"indices": [
+							51,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XYkvANfDSp",
+						"expanded_url": "https://twitter.com/i/web/status/980876144223358976",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 979711607294124000,
+			"in_reply_to_status_id_str": "979711607294124033",
+			"in_reply_to_user_id": 729049944133226500,
+			"in_reply_to_user_id_str": "729049944133226496",
+			"in_reply_to_screen_name": "NotedByRyan",
+			"user": {
+				"id": 53767521,
+				"id_str": "53767521",
+				"name": "Jordan Appleson",
+				"screen_name": "jordanisonfire",
+				"location": "Leeds, UK",
+				"description": "Software Engineer #cassandra #mongodb #go #dotnet. Founder and CEO of @harksys, hardware and cloud company building a real-time sensor platform.",
+				"url": "https://t.co/DGfc1bAMkg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DGfc1bAMkg",
+								"expanded_url": "http://github.com/iamthemovie",
+								"display_url": "github.com/iamthemovie",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 609,
+				"friends_count": 554,
+				"listed_count": 33,
+				"created_at": "Sat Jul 04 21:42:52 +0000 2009",
+				"favourites_count": 2688,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21611,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000727728042/c2eed7ff6e6a9052dd5d7d314e0c47cf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000727728042/c2eed7ff6e6a9052dd5d7d314e0c47cf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53767521/1480441787",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 02 19:38:47 +0000 2018",
 		"id": 980892318751514600,
 		"id_str": "980892318751514624",
