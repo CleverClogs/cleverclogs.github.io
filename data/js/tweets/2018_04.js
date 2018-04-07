@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 07 15:07:33 +0000 2018",
+		"id": 982636000173264900,
+		"id_str": "982636000173264896",
+		"text": "Genius tweet, perfectly illustrating why the syllabification feature in Immersive Reader from Microsoft Learning To… https://t.co/9Rdl5khZ6J",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Rdl5khZ6J",
+					"expanded_url": "https://twitter.com/i/web/status/982636000173264896",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15791,
+			"friends_count": 5689,
+			"listed_count": 564,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23350,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21570,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 971647308013228000,
+		"quoted_status_id_str": "971647308013228032",
+		"quoted_status": {
+			"created_at": "Thu Mar 08 07:22:25 +0000 2018",
+			"id": 971647308013228000,
+			"id_str": "971647308013228032",
+			"text": "Did you know Mic•ro•soft has a spec•ial mode in Off•ice that all•ows you to sep•ar•ate words in•to syll•ab•les?  Fi… https://t.co/pfXx0lWlhE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pfXx0lWlhE",
+						"expanded_url": "https://twitter.com/i/web/status/971647308013228032",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55346045,
+				"id_str": "55346045",
+				"name": "hector minto",
+				"screen_name": "hminto",
+				"location": "Oxfordshire",
+				"description": "Assistive Technologist, Disability Inclusion Advocate and now Technical Evangelist for Accessibility at Microsoft EMEA",
+				"url": "https://t.co/nyzY7wYAwp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nyzY7wYAwp",
+								"expanded_url": "http://www.microsoft.com/accessibility",
+								"display_url": "microsoft.com/accessibility",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3198,
+				"friends_count": 2456,
+				"listed_count": 124,
+				"created_at": "Thu Jul 09 20:08:07 +0000 2009",
+				"favourites_count": 4110,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6872,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D8D2DB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/283256819/Tobii_wallpaper_Feb2011_Black.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/283256819/Tobii_wallpaper_Feb2011_Black.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930821652241354752/Fd8GUXOR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930821652241354752/Fd8GUXOR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55346045/1510760264",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "292825",
+				"profile_text_color": "DECDDE",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "50ffe274c85927dc",
+				"url": "https://api.twitter.com/1.1/geo/id/50ffe274c85927dc.json",
+				"place_type": "city",
+				"name": "Abingdon",
+				"full_name": "Abingdon, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.332602,
+								51.657982
+							],
+							[
+								-1.2556376,
+								51.657982
+							],
+							[
+								-1.2556376,
+								51.702304
+							],
+							[
+								-1.332602,
+								51.702304
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 07 13:11:55 +0000 2018",
 		"id": 982606901342036000,
 		"id_str": "982606901342035968",
