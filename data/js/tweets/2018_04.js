@@ -1,6 +1,568 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 08 19:17:52 +0000 2018",
+		"id": 983061382651351000,
+		"id_str": "983061382651351041",
+		"text": "Fascinating paper how a frustrated teaching team reflects on lacking #highered student outcomes and decides to adop… https://t.co/9s3BI4B9qf",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "highered",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9s3BI4B9qf",
+					"expanded_url": "https://twitter.com/i/web/status/983061382651351041",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15806,
+			"friends_count": 5695,
+			"listed_count": 562,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23355,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21587,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 08 18:48:54 +0000 2018",
+		"id": 983054091164188700,
+		"id_str": "983054091164188672",
+		"text": "#OneNote product manager lead @MasterDevwi has made the top 50 list of #MicrosoftInfluencers by @WindowsCentral sta… https://t.co/pMMzpQMcAJ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "MicrosoftInfluencers",
+					"indices": [
+						71,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MasterDevwi",
+					"name": "William Devereux",
+					"id": 5193261,
+					"id_str": "5193261",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"screen_name": "windowscentral",
+					"name": "Windows Central",
+					"id": 14208474,
+					"id_str": "14208474",
+					"indices": [
+						96,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pMMzpQMcAJ",
+					"expanded_url": "https://twitter.com/i/web/status/983054091164188672",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15806,
+			"friends_count": 5695,
+			"listed_count": 562,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23355,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21587,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 983006049983717400,
+		"quoted_status_id_str": "983006049983717377",
+		"quoted_status": {
+			"created_at": "Sun Apr 08 15:38:00 +0000 2018",
+			"id": 983006049983717400,
+			"id_str": "983006049983717377",
+			"text": "We put together a list of #MicrosoftInfluencers EVERY #Windows, #Xbox and PC gaming fan needs to follow. Featuring… https://t.co/zTvRfMslQn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftInfluencers",
+						"indices": [
+							26,
+							47
+						]
+					},
+					{
+						"text": "Windows",
+						"indices": [
+							54,
+							62
+						]
+					},
+					{
+						"text": "Xbox",
+						"indices": [
+							64,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zTvRfMslQn",
+						"expanded_url": "https://twitter.com/i/web/status/983006049983717377",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14208474,
+				"id_str": "14208474",
+				"name": "Windows Central",
+				"screen_name": "windowscentral",
+				"location": "USA",
+				"description": "Windows is back! The #1 news, reviews and community site covering all things Microsoft. Tips: tips@windowscentral.com",
+				"url": "https://t.co/2l3l2Z1Km1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2l3l2Z1Km1",
+								"expanded_url": "http://www.windowscentral.com",
+								"display_url": "windowscentral.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 371350,
+				"friends_count": 141,
+				"listed_count": 3585,
+				"created_at": "Mon Mar 24 16:24:54 +0000 2008",
+				"favourites_count": 75,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 51732,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/524363165321031680/LxUB6O0y.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/524363165321031680/LxUB6O0y.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/525043798158495747/1A6ONKMV_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/525043798158495747/1A6ONKMV_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14208474/1413471879",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 08 18:43:56 +0000 2018",
+		"id": 983052841735610400,
+		"id_str": "983052841735610368",
+		"text": "@windowscentral @MasterDevwi @akipman @panos_panay @gcaweir @KudoTsunoda @JenMsft @ske7ch @edbott This begs for a T… https://t.co/AT63Pt2jW7",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "windowscentral",
+					"name": "Windows Central",
+					"id": 14208474,
+					"id_str": "14208474",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "MasterDevwi",
+					"name": "William Devereux",
+					"id": 5193261,
+					"id_str": "5193261",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "akipman",
+					"name": "Alex Kipman",
+					"id": 6579292,
+					"id_str": "6579292",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"screen_name": "panos_panay",
+					"name": "Panos Panay",
+					"id": 20416077,
+					"id_str": "20416077",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "gcaweir",
+					"name": "Andy Weir",
+					"id": 23838190,
+					"id_str": "23838190",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"screen_name": "KudoTsunoda",
+					"name": "Kudo Tsunoda",
+					"id": 46487941,
+					"id_str": "46487941",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "JenMsft",
+					"name": "Jen Gentleman 🌺",
+					"id": 3309105596,
+					"id_str": "3309105596",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"screen_name": "ske7ch",
+					"name": "Brian Jarrard",
+					"id": 296444968,
+					"id_str": "296444968",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"screen_name": "edbott",
+					"name": "Ed Bott",
+					"id": 12199652,
+					"id_str": "12199652",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AT63Pt2jW7",
+					"expanded_url": "https://twitter.com/i/web/status/983052841735610368",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 983006049983717400,
+		"in_reply_to_status_id_str": "983006049983717377",
+		"in_reply_to_user_id": 14208474,
+		"in_reply_to_user_id_str": "14208474",
+		"in_reply_to_screen_name": "windowscentral",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15806,
+			"friends_count": 5695,
+			"listed_count": 562,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23355,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21587,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 08 18:08:08 +0000 2018",
 		"id": 983043831154307100,
 		"id_str": "983043831154307072",
