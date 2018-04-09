@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 09 13:20:05 +0000 2018",
+		"id": 983333730709332000,
+		"id_str": "983333730709331969",
+		"text": "RT @redditdota2: Made this on Onenote in class! Don't know if people care on the subreddit :/ https://t.co/ULEyykRrAW #dota2 https://t.co/6…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dota2",
+					"indices": [
+						118,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "redditdota2",
+					"name": "Reddit Dota 2",
+					"id": 1604298906,
+					"id_str": "1604298906",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ULEyykRrAW",
+					"expanded_url": "https://redd.it/8axfco",
+					"display_url": "redd.it/8axfco",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15816,
+			"friends_count": 5695,
+			"listed_count": 563,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23359,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21590,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 09 11:09:27 +0000 2018",
+			"id": 983300856601874400,
+			"id_str": "983300856601874432",
+			"text": "Made this on Onenote in class! Don't know if people care on the subreddit :/ https://t.co/ULEyykRrAW #dota2 https://t.co/6T0jr7TQr4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dota2",
+						"indices": [
+							101,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ULEyykRrAW",
+						"expanded_url": "https://redd.it/8axfco",
+						"display_url": "redd.it/8axfco",
+						"indices": [
+							77,
+							100
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 983300853845999600,
+						"id_str": "983300853845999616",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DaVi6rTUQAADmtr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaVi6rTUQAADmtr.jpg",
+						"url": "https://t.co/6T0jr7TQr4",
+						"display_url": "pic.twitter.com/6T0jr7TQr4",
+						"expanded_url": "https://twitter.com/redditdota2/status/983300856601874432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1918,
+								"h": 1154,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 722,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 409,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 983300853845999600,
+						"id_str": "983300853845999616",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DaVi6rTUQAADmtr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaVi6rTUQAADmtr.jpg",
+						"url": "https://t.co/6T0jr7TQr4",
+						"display_url": "pic.twitter.com/6T0jr7TQr4",
+						"expanded_url": "https://twitter.com/redditdota2/status/983300856601874432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1918,
+								"h": 1154,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 722,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 409,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://reddit.com/r/DotA2/\" rel=\"nofollow\">sushibot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1604298906,
+				"id_str": "1604298906",
+				"name": "Reddit Dota 2",
+				"screen_name": "redditdota2",
+				"location": "Sainte-Même, France",
+				"description": "Official twitter account of r/DotA2. Stay tuned for community fueled coverage of everything Dota 2 related.",
+				"url": "http://t.co/5jbIniZEkJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5jbIniZEkJ",
+								"expanded_url": "http://www.reddit.com/r/dota2",
+								"display_url": "reddit.com/r/dota2",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16711,
+				"friends_count": 46,
+				"listed_count": 141,
+				"created_at": "Thu Jul 18 20:56:22 +0000 2013",
+				"favourites_count": 87,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28784,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000173515940/3f1206def8bc39e24f7b810686b9310c_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000173515940/3f1206def8bc39e24f7b810686b9310c_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1604298906/1512446721",
+				"profile_link_color": "EE0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 08 21:38:52 +0000 2018",
 		"id": 983096866945622000,
 		"id_str": "983096866945622016",
