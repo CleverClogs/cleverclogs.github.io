@@ -1,6 +1,663 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 11 22:49:30 +0000 2018",
+		"id": 984201805700661200,
+		"id_str": "984201805700661251",
+		"text": "RT @INSPISM4RT: “Il n’y a rien de plus beau qu’un rire”. Ma Frida 💙 Toujours avec le #OneNote https://t.co/nuncHQYD6k",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						85,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "INSPISM4RT",
+					"name": "InspirationSmart",
+					"id": 976387132297277400,
+					"id_str": "976387132297277440",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 984194561319882800,
+					"id_str": "984194561319882753",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DaiPvTFX0AEQEtH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaiPvTFX0AEQEtH.jpg",
+					"url": "https://t.co/nuncHQYD6k",
+					"display_url": "pic.twitter.com/nuncHQYD6k",
+					"expanded_url": "https://twitter.com/INSPISM4RT/status/984194785438203909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 499,
+							"h": 703,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 499,
+							"h": 703,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984194785438203900,
+					"source_status_id_str": "984194785438203909",
+					"source_user_id": 976387132297277400,
+					"source_user_id_str": "976387132297277440"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 984194561319882800,
+					"id_str": "984194561319882753",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DaiPvTFX0AEQEtH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaiPvTFX0AEQEtH.jpg",
+					"url": "https://t.co/nuncHQYD6k",
+					"display_url": "pic.twitter.com/nuncHQYD6k",
+					"expanded_url": "https://twitter.com/INSPISM4RT/status/984194785438203909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 499,
+							"h": 703,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 499,
+							"h": 703,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984194785438203900,
+					"source_status_id_str": "984194785438203909",
+					"source_user_id": 976387132297277400,
+					"source_user_id_str": "976387132297277440"
+				},
+				{
+					"id": 984194741502906400,
+					"id_str": "984194741502906368",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DaiP5yUWkAAiYuJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaiP5yUWkAAiYuJ.jpg",
+					"url": "https://t.co/nuncHQYD6k",
+					"display_url": "pic.twitter.com/nuncHQYD6k",
+					"expanded_url": "https://twitter.com/INSPISM4RT/status/984194785438203909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 984194785438203900,
+					"source_status_id_str": "984194785438203909",
+					"source_user_id": 976387132297277400,
+					"source_user_id_str": "976387132297277440"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15848,
+			"friends_count": 5701,
+			"listed_count": 562,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23383,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 11 22:21:36 +0000 2018",
+			"id": 984194785438203900,
+			"id_str": "984194785438203909",
+			"text": "“Il n’y a rien de plus beau qu’un rire”. Ma Frida 💙 Toujours avec le #OneNote https://t.co/nuncHQYD6k",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							69,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 984194561319882800,
+						"id_str": "984194561319882753",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DaiPvTFX0AEQEtH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaiPvTFX0AEQEtH.jpg",
+						"url": "https://t.co/nuncHQYD6k",
+						"display_url": "pic.twitter.com/nuncHQYD6k",
+						"expanded_url": "https://twitter.com/INSPISM4RT/status/984194785438203909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 499,
+								"h": 703,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 483,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 499,
+								"h": 703,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 984194561319882800,
+						"id_str": "984194561319882753",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DaiPvTFX0AEQEtH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaiPvTFX0AEQEtH.jpg",
+						"url": "https://t.co/nuncHQYD6k",
+						"display_url": "pic.twitter.com/nuncHQYD6k",
+						"expanded_url": "https://twitter.com/INSPISM4RT/status/984194785438203909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 499,
+								"h": 703,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 483,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 499,
+								"h": 703,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 984194741502906400,
+						"id_str": "984194741502906368",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DaiP5yUWkAAiYuJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaiP5yUWkAAiYuJ.jpg",
+						"url": "https://t.co/nuncHQYD6k",
+						"display_url": "pic.twitter.com/nuncHQYD6k",
+						"expanded_url": "https://twitter.com/INSPISM4RT/status/984194785438203909/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1440,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 976387132297277400,
+				"id_str": "976387132297277440",
+				"name": "InspirationSmart",
+				"screen_name": "INSPISM4RT",
+				"location": "",
+				"description": "Elisa Vilcocq\nFacebook 📣https://t.co/03T7gBvvyx\nInstagram 📷  inspiration_smart \nhttps://t.co/uPl9qwb950",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/03T7gBvvyx",
+								"expanded_url": "https://www.facebook.com/SM4RT/",
+								"display_url": "facebook.com/SM4RT/",
+								"indices": [
+									24,
+									47
+								]
+							},
+							{
+								"url": "https://t.co/uPl9qwb950",
+								"expanded_url": "https://www.instagram.com/p/BglNwEql_YG/?taken-by=inspiration_smart",
+								"display_url": "instagram.com/p/BglNwEql_YG/…",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 119,
+				"friends_count": 297,
+				"listed_count": 0,
+				"created_at": "Wed Mar 21 09:16:47 +0000 2018",
+				"favourites_count": 36,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976393406678171648/Rs8sfeUD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976393406678171648/Rs8sfeUD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/976387132297277440/1522276462",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Wed Apr 11 22:37:09 +0000 2018",
+		"id": 984198694751887400,
+		"id_str": "984198694751887360",
+		"text": "RT @MicrosoftTeams: Want to be the first to get announcements on everything collaboration, mobility, and security? Follow the new @Microsof…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15848,
+			"friends_count": 5701,
+			"listed_count": 562,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23383,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 11 22:10:31 +0000 2018",
+			"id": 984191996293247000,
+			"id_str": "984191996293246976",
+			"text": "Want to be the first to get announcements on everything collaboration, mobility, and security? Follow the new… https://t.co/swt1XQD7Up",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/swt1XQD7Up",
+						"expanded_url": "https://twitter.com/i/web/status/984191996293246976",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod1</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 817461289081409500,
+				"id_str": "817461289081409536",
+				"name": "Microsoft Teams",
+				"screen_name": "MicrosoftTeams",
+				"location": "",
+				"description": "Bring together all of your team’s conversations, files, and tools in a single workspace with Microsoft Teams in Office 365.",
+				"url": "https://t.co/adqJO08EVS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/adqJO08EVS",
+								"expanded_url": "http://msft.social/MicrosoftTeams",
+								"display_url": "msft.social/MicrosoftTeams",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 64484,
+				"friends_count": 207,
+				"listed_count": 262,
+				"created_at": "Fri Jan 06 20:02:13 +0000 2017",
+				"favourites_count": 584,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4451,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/873316258980036608/QXYh4F8U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/873316258980036608/QXYh4F8U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/817461289081409536/1496693898",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 11 18:40:00 +0000 2018",
 		"id": 984139015237570600,
 		"id_str": "984139015237570561",
