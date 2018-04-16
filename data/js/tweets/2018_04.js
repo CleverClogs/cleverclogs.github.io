@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 16 15:25:00 +0000 2018",
+		"id": 985901883616383000,
+		"id_str": "985901883616382978",
+		"text": "Picture Dictionary, the latest addition to the immersive Reader tool in Microsoft Learning Tools, is available in m… https://t.co/1AycipgPnm",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1AycipgPnm",
+					"expanded_url": "https://twitter.com/i/web/status/985901883616382978",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15898,
+			"friends_count": 5713,
+			"listed_count": 563,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23464,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21680,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1521738605",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 985873419643375600,
+		"quoted_status_id_str": "985873419643375616",
+		"quoted_status": {
+			"created_at": "Mon Apr 16 13:31:54 +0000 2018",
+			"id": 985873419643375600,
+			"id_str": "985873419643375616",
+			"text": "Picture dictionary in #OneNote for #Windows10 #MIEExpert #MicrosoftEDU #EdTech #ImmersiveReader https://t.co/rLxXvcy1xx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							22,
+							30
+						]
+					},
+					{
+						"text": "Windows10",
+						"indices": [
+							35,
+							45
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							46,
+							56
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							57,
+							70
+						]
+					},
+					{
+						"text": "EdTech",
+						"indices": [
+							71,
+							78
+						]
+					},
+					{
+						"text": "ImmersiveReader",
+						"indices": [
+							79,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 985873062259232800,
+						"id_str": "985873062259232774",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Da6GU6WWkAYY6B0.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Da6GU6WWkAYY6B0.jpg",
+						"url": "https://t.co/rLxXvcy1xx",
+						"display_url": "pic.twitter.com/rLxXvcy1xx",
+						"expanded_url": "https://twitter.com/wingkanlai/status/985873419643375616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1620,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985873062259232800,
+						"id_str": "985873062259232774",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Da6GU6WWkAYY6B0.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Da6GU6WWkAYY6B0.jpg",
+						"url": "https://t.co/rLxXvcy1xx",
+						"display_url": "pic.twitter.com/rLxXvcy1xx",
+						"expanded_url": "https://twitter.com/wingkanlai/status/985873419643375616/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1620,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								3,
+								2
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Da6GU6WWkAYY6B0.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2374244311,
+				"id_str": "2374244311",
+				"name": "Wing Kan Lai",
+				"screen_name": "wingkanlai",
+				"location": "The Netherlands",
+				"description": "Teacher of Digital Literacy, Math & Physics • Microsoft Learning Consultant • #SurfaceClassroomPro • #MIEFellow • Deep Learning #NPDL • Dutch/English",
+				"url": "https://t.co/iAVawW1mIu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iAVawW1mIu",
+								"expanded_url": "https://www.microsoft.com/en-us/education/partners/showpartnersdetails.aspx?id=2033061&i=false&t=1&p",
+								"display_url": "microsoft.com/en-us/educatio…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1053,
+				"friends_count": 1102,
+				"listed_count": 178,
+				"created_at": "Wed Mar 05 19:22:53 +0000 2014",
+				"favourites_count": 4868,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2602,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972857894898151424/f7Ehmk4s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972857894898151424/f7Ehmk4s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2374244311/1514915167",
+				"profile_link_color": "4C0099",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 16 13:54:47 +0000 2018",
 		"id": 985879180121436200,
 		"id_str": "985879180121436160",
