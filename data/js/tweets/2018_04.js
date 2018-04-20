@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 20 10:41:16 +0000 2018",
+		"id": 987280027707412500,
+		"id_str": "987280027707412480",
+		"text": "Refined project sketch created in the #OneNote app for #iPad. \nThank you for sharing, @Alnuni2.\n\n#ProjectManagement https://t.co/Q6jCckiaQO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "iPad",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "ProjectManagement",
+					"indices": [
+						97,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Alnuni2",
+					"name": "Alfonso E. Núñez N.",
+					"id": 496245304,
+					"id_str": "496245304",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q6jCckiaQO",
+					"expanded_url": "https://twitter.com/Alnuni2/status/986963530128740352",
+					"display_url": "twitter.com/Alnuni2/status…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15994,
+			"friends_count": 5735,
+			"listed_count": 562,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23606,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21830,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524125098",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 986963530128740400,
+		"quoted_status_id_str": "986963530128740352",
+		"quoted_status": {
+			"created_at": "Thu Apr 19 13:43:37 +0000 2018",
+			"id": 986963530128740400,
+			"id_str": "986963530128740352",
+			"text": "#Requisitos #pmp #pmi #DireccionDeProyectos #ProjectManagement @PMInstitute @pmicaribe @pablolledo @PMOInformatica… https://t.co/2fvEqzMdoC",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Requisitos",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "pmp",
+						"indices": [
+							12,
+							16
+						]
+					},
+					{
+						"text": "pmi",
+						"indices": [
+							17,
+							21
+						]
+					},
+					{
+						"text": "DireccionDeProyectos",
+						"indices": [
+							22,
+							43
+						]
+					},
+					{
+						"text": "ProjectManagement",
+						"indices": [
+							44,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PMInstitute",
+						"name": "PMI",
+						"id": 20250920,
+						"id_str": "20250920",
+						"indices": [
+							63,
+							75
+						]
+					},
+					{
+						"screen_name": "pmicaribe",
+						"name": "PMI Caribe Colombia Potential Chapter",
+						"id": 718220761614430200,
+						"id_str": "718220761614430209",
+						"indices": [
+							76,
+							86
+						]
+					},
+					{
+						"screen_name": "pablolledo",
+						"name": "Pablo Lledó",
+						"id": 96681674,
+						"id_str": "96681674",
+						"indices": [
+							87,
+							98
+						]
+					},
+					{
+						"screen_name": "PMOInformatica",
+						"name": "PMO Informática",
+						"id": 790693040,
+						"id_str": "790693040",
+						"indices": [
+							99,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2fvEqzMdoC",
+						"expanded_url": "https://twitter.com/i/web/status/986963530128740352",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 496245304,
+				"id_str": "496245304",
+				"name": "Alfonso E. Núñez N.",
+				"screen_name": "Alnuni2",
+				"location": "Colombia",
+				"description": "PMP, PRINCE2, MPM, QPS, PMP, CMRP - PM Instructor",
+				"url": "https://t.co/fV5jCoGljk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fV5jCoGljk",
+								"expanded_url": "http://es.scribd.com/Alnuni",
+								"display_url": "es.scribd.com/Alnuni",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88028,
+				"friends_count": 2667,
+				"listed_count": 74,
+				"created_at": "Sat Feb 18 19:18:04 +0000 2012",
+				"favourites_count": 1135,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9710,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/781337305/cf6355002fe8e3ff0e5ece38f621e0fe.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/781337305/cf6355002fe8e3ff0e5ece38f621e0fe.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981669960685670401/fAS2hFsG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981669960685670401/fAS2hFsG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/496245304/1367523082",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 20 10:37:17 +0000 2018",
+		"id": 987279028414550000,
+		"id_str": "987279028414550016",
+		"text": "@DavidGDFC @msonenote David, you can already do this now in the #OneNote app for #WIndows10. You can export single… https://t.co/BeJmycu8mB",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "WIndows10",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidGDFC",
+					"name": "David",
+					"id": 949616796,
+					"id_str": "949616796",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BeJmycu8mB",
+					"expanded_url": "https://twitter.com/i/web/status/987279028414550016",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 987232840663359500,
+		"in_reply_to_status_id_str": "987232840663359489",
+		"in_reply_to_user_id": 949616796,
+		"in_reply_to_user_id_str": "949616796",
+		"in_reply_to_screen_name": "DavidGDFC",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra – OneNote MVP, trainer, consultant, #MSFTEduChat coordinator",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15994,
+			"friends_count": 5735,
+			"listed_count": 562,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23606,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21830,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524125098",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 20 10:10:05 +0000 2018",
 		"id": 987272180697321500,
 		"id_str": "987272180697321472",
