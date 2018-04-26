@@ -1,6 +1,434 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 26 19:55:52 +0000 2018",
+		"id": 989593925588537300,
+		"id_str": "989593925588537344",
+		"text": "@KerryGant @mtholfsen @msonenote Fabulous, Kerry.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KerryGant",
+					"name": "Kerry Gant",
+					"id": 804892993891291100,
+					"id_str": "804892993891291137",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 989592181227900900,
+		"in_reply_to_status_id_str": "989592181227900928",
+		"in_reply_to_user_id": 804892993891291100,
+		"in_reply_to_user_id_str": "804892993891291137",
+		"in_reply_to_screen_name": "KerryGant",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16117,
+			"friends_count": 5774,
+			"listed_count": 563,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23773,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21977,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr"
+	},
+	{
+		"created_at": "Thu Apr 26 19:32:05 +0000 2018",
+		"id": 989587942925635600,
+		"id_str": "989587942925635584",
+		"text": "RT @TheBebsMLC: The majestic purple of OneNote and @BanffNP is a beautiful thing. #onederful #OneNote #Fairmontbanffsprings #ohcanada #Banf…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onederful",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "Fairmontbanffsprings",
+					"indices": [
+						102,
+						123
+					]
+				},
+				{
+					"text": "ohcanada",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheBebsMLC",
+					"name": "Vance Beblow",
+					"id": 905509679220043800,
+					"id_str": "905509679220043777",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "BanffNP",
+					"name": "Banff National Park",
+					"id": 109617898,
+					"id_str": "109617898",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16117,
+			"friends_count": 5774,
+			"listed_count": 563,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23773,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21977,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 26 19:31:21 +0000 2018",
+			"id": 989587756056592400,
+			"id_str": "989587756056592385",
+			"text": "The majestic purple of OneNote and @BanffNP is a beautiful thing. #onederful #OneNote #Fairmontbanffsprings… https://t.co/jdCAFpyzAU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "onederful",
+						"indices": [
+							66,
+							76
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							77,
+							85
+						]
+					},
+					{
+						"text": "Fairmontbanffsprings",
+						"indices": [
+							86,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BanffNP",
+						"name": "Banff National Park",
+						"id": 109617898,
+						"id_str": "109617898",
+						"indices": [
+							35,
+							43
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jdCAFpyzAU",
+						"expanded_url": "https://twitter.com/i/web/status/989587756056592385",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 905509679220043800,
+				"id_str": "905509679220043777",
+				"name": "Vance Beblow",
+				"screen_name": "TheBebsMLC",
+				"location": "Calgary, Alberta",
+				"description": "Microsoft Learning Consultant for AB/SK/MB | Evangelist for Ai and Mixed reality| | Pedagogy/tech integration | v-vabebl@microsft.com for free Pd",
+				"url": "https://t.co/b9TtOSgudq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b9TtOSgudq",
+								"expanded_url": "https://www.microsoft.com/en-ca/sites/education/form.aspx",
+								"display_url": "microsoft.com/en-ca/sites/ed…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 453,
+				"friends_count": 414,
+				"listed_count": 9,
+				"created_at": "Wed Sep 06 19:15:06 +0000 2017",
+				"favourites_count": 3500,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1107,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/985005255946465281/_UUkwonS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985005255946465281/_UUkwonS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/905509679220043777/1516405767",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9d2493ac83002",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9d2493ac83002.json",
+				"place_type": "poi",
+				"name": "The Fairmont Banff Springs Hotel",
+				"full_name": "The Fairmont Banff Springs Hotel",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-115.5618166923523,
+								51.16435558686151
+							],
+							[
+								-115.5618166923523,
+								51.16435558686151
+							],
+							[
+								-115.5618166923523,
+								51.16435558686151
+							],
+							[
+								-115.5618166923523,
+								51.16435558686151
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 26 19:05:36 +0000 2018",
 		"id": 989581277987852300,
 		"id_str": "989581277987852290",
