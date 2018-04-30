@@ -1,6 +1,562 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 29 23:46:53 +0000 2018",
+		"id": 990739226856775700,
+		"id_str": "990739226856775682",
+		"text": "RT @sig225: @OneNoteC @scinoteELN @stevemunger @senmorteco @LammingLab @Splice_MolBio @joe_berry @ChemLibraryUCB @Mottram_group @NeilJCooke…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sig225",
+					"name": "Cal Armstrong",
+					"id": 12895782,
+					"id_str": "12895782",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "scinoteELN",
+					"name": "sciNote",
+					"id": 3872933415,
+					"id_str": "3872933415",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "stevemunger",
+					"name": "Steve Munger",
+					"id": 285658202,
+					"id_str": "285658202",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "senmorteco",
+					"name": "George Sutphin",
+					"id": 900974047,
+					"id_str": "900974047",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"screen_name": "LammingLab",
+					"name": "Lamming Lab",
+					"id": 3131578955,
+					"id_str": "3131578955",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"screen_name": "Splice_MolBio",
+					"name": "Splice",
+					"id": 3083788462,
+					"id_str": "3083788462",
+					"indices": [
+						71,
+						85
+					]
+				},
+				{
+					"screen_name": "joe_berry",
+					"name": "Joseph Berry",
+					"id": 92496887,
+					"id_str": "92496887",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"screen_name": "ChemLibraryUCB",
+					"name": "Kortney Rupp",
+					"id": 899700217192226800,
+					"id_str": "899700217192226816",
+					"indices": [
+						97,
+						112
+					]
+				},
+				{
+					"screen_name": "Mottram_group",
+					"name": "Jeremy Mottram",
+					"id": 766268756813291500,
+					"id_str": "766268756813291520",
+					"indices": [
+						113,
+						127
+					]
+				},
+				{
+					"screen_name": "NeilJCooke",
+					"name": "Neil Cooke",
+					"id": 359850734,
+					"id_str": "359850734",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16173,
+			"friends_count": 5986,
+			"listed_count": 561,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23833,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 29 23:44:55 +0000 2018",
+			"id": 990738734004998100,
+			"id_str": "990738734004998145",
+			"text": "@OneNoteC @scinoteELN @stevemunger @senmorteco @LammingLab @Splice_MolBio @joe_berry @ChemLibraryUCB @Mottram_group… https://t.co/DVpFYF4DLa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "scinoteELN",
+						"name": "sciNote",
+						"id": 3872933415,
+						"id_str": "3872933415",
+						"indices": [
+							10,
+							21
+						]
+					},
+					{
+						"screen_name": "stevemunger",
+						"name": "Steve Munger",
+						"id": 285658202,
+						"id_str": "285658202",
+						"indices": [
+							22,
+							34
+						]
+					},
+					{
+						"screen_name": "senmorteco",
+						"name": "George Sutphin",
+						"id": 900974047,
+						"id_str": "900974047",
+						"indices": [
+							35,
+							46
+						]
+					},
+					{
+						"screen_name": "LammingLab",
+						"name": "Lamming Lab",
+						"id": 3131578955,
+						"id_str": "3131578955",
+						"indices": [
+							47,
+							58
+						]
+					},
+					{
+						"screen_name": "Splice_MolBio",
+						"name": "Splice",
+						"id": 3083788462,
+						"id_str": "3083788462",
+						"indices": [
+							59,
+							73
+						]
+					},
+					{
+						"screen_name": "joe_berry",
+						"name": "Joseph Berry",
+						"id": 92496887,
+						"id_str": "92496887",
+						"indices": [
+							74,
+							84
+						]
+					},
+					{
+						"screen_name": "ChemLibraryUCB",
+						"name": "Kortney Rupp",
+						"id": 899700217192226800,
+						"id_str": "899700217192226816",
+						"indices": [
+							85,
+							100
+						]
+					},
+					{
+						"screen_name": "Mottram_group",
+						"name": "Jeremy Mottram",
+						"id": 766268756813291500,
+						"id_str": "766268756813291520",
+						"indices": [
+							101,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DVpFYF4DLa",
+						"expanded_url": "https://twitter.com/i/web/status/990738734004998145",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 990509687031369700,
+			"in_reply_to_status_id_str": "990509687031369729",
+			"in_reply_to_user_id": 2582768738,
+			"in_reply_to_user_id_str": "2582768738",
+			"in_reply_to_screen_name": "OneNoteC",
+			"user": {
+				"id": 12895782,
+				"id_str": "12895782",
+				"name": "Cal Armstrong",
+				"screen_name": "sig225",
+				"location": "Canada",
+				"description": "I learn; I help others learn / Microsoft Education Fellow / Mathematics Educator /  PCMI - Institute for Advanced Study Instructor  / Aux Police Constable",
+				"url": "https://t.co/kozg07JVuT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kozg07JVuT",
+								"expanded_url": "http://about.me/armstrongc",
+								"display_url": "about.me/armstrongc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4125,
+				"friends_count": 2987,
+				"listed_count": 338,
+				"created_at": "Thu Jan 31 01:40:55 +0000 2008",
+				"favourites_count": 8213,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23436,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4023787/Bike22a.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4023787/Bike22a.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12895782/1503200733",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "ABD9FC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "4c794ce21ef49219",
+				"url": "https://api.twitter.com/1.1/geo/id/4c794ce21ef49219.json",
+				"place_type": "city",
+				"name": "Batavia",
+				"full_name": "Batavia, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-78.265094,
+								42.980725
+							],
+							[
+								-78.115968,
+								42.980725
+							],
+							[
+								-78.115968,
+								43.022344
+							],
+							[
+								-78.265094,
+								43.022344
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 29 23:45:39 +0000 2018",
+		"id": 990738919003127800,
+		"id_str": "990738919003127808",
+		"text": "@teacherbau @mjchiera @OneNoteEDU Not sure what the status is on those. It could be they're still being rolled out… https://t.co/j1tHFyjuje",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teacherbau",
+					"name": "Sarah Bau",
+					"id": 906302479289073700,
+					"id_str": "906302479289073664",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mjchiera",
+					"name": "Michael Chiera",
+					"id": 488071264,
+					"id_str": "488071264",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						22,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j1tHFyjuje",
+					"expanded_url": "https://twitter.com/i/web/status/990738919003127808",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 990737543653027800,
+		"in_reply_to_status_id_str": "990737543653027840",
+		"in_reply_to_user_id": 906302479289073700,
+		"in_reply_to_user_id_str": "906302479289073664",
+		"in_reply_to_screen_name": "teacherbau",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16173,
+			"friends_count": 5986,
+			"listed_count": 561,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23833,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 29 22:23:13 +0000 2018",
 		"id": 990718173287735300,
 		"id_str": "990718173287735296",
