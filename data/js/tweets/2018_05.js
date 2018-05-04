@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 04 17:55:02 +0000 2018",
+		"id": 992462620065194000,
+		"id_str": "992462620065193985",
+		"text": "RT @brholland: @familysimpson @OneNoteC @OneNoteEDU My house may be a mess but my notes are super tidy! https://t.co/20YKi3TfIb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brholland",
+					"name": "Beth Holland",
+					"id": 16485564,
+					"id_str": "16485564",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "familysimpson",
+					"name": "Ian Simpson",
+					"id": 69112412,
+					"id_str": "69112412",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 992453758406746100,
+					"id_str": "992453758406746113",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DcXnb13V4AEYZmg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcXnb13V4AEYZmg.jpg",
+					"url": "https://t.co/20YKi3TfIb",
+					"display_url": "pic.twitter.com/20YKi3TfIb",
+					"expanded_url": "https://twitter.com/brholland/status/992453803201957888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992453803201957900,
+					"source_status_id_str": "992453803201957888",
+					"source_user_id": 16485564,
+					"source_user_id_str": "16485564"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 992453758406746100,
+					"id_str": "992453758406746113",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DcXnb13V4AEYZmg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcXnb13V4AEYZmg.jpg",
+					"url": "https://t.co/20YKi3TfIb",
+					"display_url": "pic.twitter.com/20YKi3TfIb",
+					"expanded_url": "https://twitter.com/brholland/status/992453803201957888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992453803201957900,
+					"source_status_id_str": "992453803201957888",
+					"source_user_id": 16485564,
+					"source_user_id_str": "16485564"
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16255,
+			"friends_count": 6007,
+			"listed_count": 560,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23949,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 04 17:20:00 +0000 2018",
+			"id": 992453803201957900,
+			"id_str": "992453803201957888",
+			"text": "@familysimpson @OneNoteC @OneNoteEDU My house may be a mess but my notes are super tidy! https://t.co/20YKi3TfIb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "familysimpson",
+						"name": "Ian Simpson",
+						"id": 69112412,
+						"id_str": "69112412",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							15,
+							24
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							25,
+							36
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 992453758406746100,
+						"id_str": "992453758406746113",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DcXnb13V4AEYZmg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcXnb13V4AEYZmg.jpg",
+						"url": "https://t.co/20YKi3TfIb",
+						"display_url": "pic.twitter.com/20YKi3TfIb",
+						"expanded_url": "https://twitter.com/brholland/status/992453803201957888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 992453758406746100,
+						"id_str": "992453758406746113",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DcXnb13V4AEYZmg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcXnb13V4AEYZmg.jpg",
+						"url": "https://t.co/20YKi3TfIb",
+						"display_url": "pic.twitter.com/20YKi3TfIb",
+						"expanded_url": "https://twitter.com/brholland/status/992453803201957888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 992440807872491500,
+			"in_reply_to_status_id_str": "992440807872491520",
+			"in_reply_to_user_id": 69112412,
+			"in_reply_to_user_id_str": "69112412",
+			"in_reply_to_screen_name": "familysimpson",
+			"user": {
+				"id": 16485564,
+				"id_str": "16485564",
+				"name": "Beth Holland",
+				"screen_name": "brholland",
+				"location": "Newport, RI",
+				"description": "Doctoral Candidate at @JohnsHopkinsEdD, blogger at @Edutopia & @EducationWeek, member of @TranscendBuilds Yellow Hats League, & instructor with @EdTechTeacher21",
+				"url": "https://t.co/C5nTwNVXm5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C5nTwNVXm5",
+								"expanded_url": "http://brholland.com",
+								"display_url": "brholland.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8565,
+				"friends_count": 835,
+				"listed_count": 663,
+				"created_at": "Sat Sep 27 13:50:17 +0000 2008",
+				"favourites_count": 966,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22288,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837769758594510849/z51BtMAR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837769758594510849/z51BtMAR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16485564/1488576445",
+				"profile_link_color": "8DC131",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 04 17:27:27 +0000 2018",
+		"id": 992455679909744600,
+		"id_str": "992455679909744640",
+		"text": "Link To Page is a nifty little feature that's unique to #OneNote 2016 🤐. Starting from an Excel spreadsheet,… https://t.co/d2jxyluuSM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d2jxyluuSM",
+					"expanded_url": "https://twitter.com/i/web/status/992455679909744640",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16255,
+			"friends_count": 6007,
+			"listed_count": 560,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23949,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 04 16:37:22 +0000 2018",
 		"id": 992443075711635500,
 		"id_str": "992443075711635457",
