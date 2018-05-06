@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 06 09:01:21 +0000 2018",
+		"id": 993053090478686200,
+		"id_str": "993053090478686208",
+		"text": "Just in: teachers and students from Microsoft Showcase School @VizyonKoleji explain how #OneNote, #MicrosoftTeams a… https://t.co/2mdBrJMMYR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						98,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VizyonKoleji",
+					"name": "Vizyon Koleji",
+					"id": 2193863512,
+					"id_str": "2193863512",
+					"indices": [
+						62,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2mdBrJMMYR",
+					"expanded_url": "https://twitter.com/i/web/status/993053090478686208",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16280,
+			"friends_count": 6011,
+			"listed_count": 560,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23964,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22181,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 993048265045266400,
+		"quoted_status_id_str": "993048265045266432",
+		"quoted_status": {
+			"created_at": "Sun May 06 08:42:10 +0000 2018",
+			"id": 993048265045266400,
+			"id_str": "993048265045266432",
+			"text": "Microsoft Türkiye ve @VizyonKoleji ortaklığında hazırlanan başarı hikayemiz yayınlandı ! #MicrosoftEDU #OneNote… https://t.co/1rvxcehqah",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							89,
+							102
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							103,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VizyonKoleji",
+						"name": "Vizyon Koleji",
+						"id": 2193863512,
+						"id_str": "2193863512",
+						"indices": [
+							21,
+							34
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1rvxcehqah",
+						"expanded_url": "https://twitter.com/i/web/status/993048265045266432",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 492664446,
+				"id_str": "492664446",
+				"name": "Yunus Emre Çalık",
+				"screen_name": "ynsmrclk",
+				"location": "İstanbul, Türkiye",
+				"description": "Boğaziçi University | Comp. Edu & Edu Tech. | STEM Teacher | #MIEExpert #commonsensed #egt #frc @orionFRC #innovation https://t.co/lB81MIJ2rG",
+				"url": "https://t.co/CkC8IviyTb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CkC8IviyTb",
+								"expanded_url": "http://minecraftakademi.com",
+								"display_url": "minecraftakademi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lB81MIJ2rG",
+								"expanded_url": "http://linkedin.com/in/ynsmrclk",
+								"display_url": "linkedin.com/in/ynsmrclk",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 389,
+				"friends_count": 674,
+				"listed_count": 15,
+				"created_at": "Wed Feb 15 00:06:54 +0000 2012",
+				"favourites_count": 1269,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 621,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991724419927158786/pFqinoij_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991724419927158786/pFqinoij_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/492664446/1522668978",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 05 21:21:04 +0000 2018",
 		"id": 992876860081082400,
 		"id_str": "992876860081082368",
