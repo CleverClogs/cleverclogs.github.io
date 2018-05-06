@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 06 18:47:46 +0000 2018",
+		"id": 993200665915723800,
+		"id_str": "993200665915723777",
+		"text": "RT @leighmak2: Conducting research study of community college students using OneNote to develop expository writing skills. Early positive r…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leighmak2",
+					"name": "lmak",
+					"id": 739109824093392900,
+					"id_str": "739109824093392897",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16290,
+			"friends_count": 6015,
+			"listed_count": 561,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23966,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 31 18:49:04 +0000 2018",
+			"id": 980155033009426400,
+			"id_str": "980155033009426432",
+			"text": "Conducting research study of community college students using OneNote to develop expository writing skills. Early p… https://t.co/xXM6K4rns6",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xXM6K4rns6",
+						"expanded_url": "https://twitter.com/i/web/status/980155033009426432",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 739109824093392900,
+				"id_str": "739109824093392897",
+				"name": "lmak",
+				"screen_name": "leighmak2",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10,
+				"friends_count": 44,
+				"listed_count": 5,
+				"created_at": "Sat Jun 04 15:01:28 +0000 2016",
+				"favourites_count": 20,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 58,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/821445196617580545/EorbbPkA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/821445196617580545/EorbbPkA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/739109824093392897/1484681778",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 06 18:24:28 +0000 2018",
+		"id": 993194801511231500,
+		"id_str": "993194801511231488",
+		"text": "@abdulkadirozbek @OneNoteEDU @mtholfsen @MicrosoftTR @VizyonKoleji @ynsmrclk Yunus and Mehmet Keçeci @MKecheci, tog… https://t.co/Phmy2qUBdv",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abdulkadirozbek",
+					"name": "Abdulkadir ÖZBEK",
+					"id": 21585699,
+					"id_str": "21585699",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "MicrosoftTR",
+					"name": "Microsoft Türkiye",
+					"id": 20056008,
+					"id_str": "20056008",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"screen_name": "VizyonKoleji",
+					"name": "Vizyon Koleji",
+					"id": 2193863512,
+					"id_str": "2193863512",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"screen_name": "ynsmrclk",
+					"name": "Yunus Emre Çalık",
+					"id": 492664446,
+					"id_str": "492664446",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"screen_name": "mkecheci",
+					"name": "Mehmet Keçeci",
+					"id": 704061989891416000,
+					"id_str": "704061989891416064",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Phmy2qUBdv",
+					"expanded_url": "https://twitter.com/i/web/status/993194801511231488",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 993192055894618100,
+		"in_reply_to_status_id_str": "993192055894618114",
+		"in_reply_to_user_id": 21585699,
+		"in_reply_to_user_id_str": "21585699",
+		"in_reply_to_screen_name": "abdulkadirozbek",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16290,
+			"friends_count": 6015,
+			"listed_count": 561,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23966,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22188,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 06 18:09:30 +0000 2018",
 		"id": 993191036930461700,
 		"id_str": "993191036930461696",
