@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Mon May 07 10:48:38 +0000 2018",
+		"id": 993442478673027100,
+		"id_str": "993442478673027072",
+		"text": "Question from @mongrel4oh7oh about hiding an answers page in a #OneNote Class Notebook. My first response would be… https://t.co/siuKUYXC1K",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mongrel4oh7oh",
+					"name": "Lord Mongrel",
+					"id": 172259409,
+					"id_str": "172259409",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/siuKUYXC1K",
+					"expanded_url": "https://twitter.com/i/web/status/993442478673027072",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16299,
+			"friends_count": 6016,
+			"listed_count": 561,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 23965,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 993423771645063200,
+		"quoted_status_id_str": "993423771645063168",
+		"quoted_status": {
+			"created_at": "Mon May 07 09:34:18 +0000 2018",
+			"id": 993423771645063200,
+			"id_str": "993423771645063168",
+			"text": "Has anyone set up #OneNote or #classonenote so that you have an answers page that is \"hidden\" for use in future yea… https://t.co/tvQnDLTuEj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							18,
+							26
+						]
+					},
+					{
+						"text": "classonenote",
+						"indices": [
+							30,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tvQnDLTuEj",
+						"expanded_url": "https://twitter.com/i/web/status/993423771645063168",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 172259409,
+				"id_str": "172259409",
+				"name": "Lord Mongrel",
+				"screen_name": "mongrel4oh7oh",
+				"location": "Cyberville",
+				"description": "Political Analyst (slightly right-leaning). Educator of the future. Hater of #fakenews",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 129,
+				"friends_count": 264,
+				"listed_count": 7,
+				"created_at": "Thu Jul 29 07:51:13 +0000 2010",
+				"favourites_count": 243,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6664,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619276825/7gskito4zcz34xaevh3s.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619276825/7gskito4zcz34xaevh3s.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000268287530/c9bca0904800c145609a7253d4940b9c_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000268287530/c9bca0904800c145609a7253d4940b9c_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/172259409/1349148096",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "402E08",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 06 19:33:23 +0000 2018",
 		"id": 993212145834823700,
 		"id_str": "993212145834823680",
