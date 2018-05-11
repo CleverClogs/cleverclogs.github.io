@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 11 21:12:08 +0000 2018",
+		"id": 995048935650742300,
+		"id_str": "995048935650742272",
+		"text": "RT @paulfabretti: This is everything brilliant (and also bad in a good way!) about the internet. You accidentally stumble across amazing co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulfabretti",
+					"name": "Paul Fabretti",
+					"id": 153063,
+					"id_str": "153063",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16349,
+			"friends_count": 6023,
+			"listed_count": 560,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24028,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22264,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 11 20:34:25 +0000 2018",
+			"id": 995039446968905700,
+			"id_str": "995039446968905729",
+			"text": "This is everything brilliant (and also bad in a good way!) about the internet. You accidentally stumble across amaz… https://t.co/0o6njqb8Sp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0o6njqb8Sp",
+						"expanded_url": "https://twitter.com/i/web/status/995039446968905729",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 153063,
+				"id_str": "153063",
+				"name": "Paul Fabretti",
+				"screen_name": "paulfabretti",
+				"location": "Sammamish, WA",
+				"description": "Cup half-full Brit in the US. Comms for @MicrosoftDesign and #FluentDesign, previously SEO/Social for Office. Always-learning.",
+				"url": "https://t.co/9AvzF3xRft",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9AvzF3xRft",
+								"expanded_url": "http://about.me/paulfabretti",
+								"display_url": "about.me/paulfabretti",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5900,
+				"friends_count": 847,
+				"listed_count": 509,
+				"created_at": "Fri Dec 22 09:42:40 +0000 2006",
+				"favourites_count": 7431,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37797,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/484675142144897024/Kes1iwlc.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/484675142144897024/Kes1iwlc.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991727765484326913/u_MO7u07_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991727765484326913/u_MO7u07_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/153063/1503988431",
+				"profile_link_color": "003366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 986333891014381600,
+			"quoted_status_id_str": "986333891014381568",
+			"quoted_status": {
+				"created_at": "Tue Apr 17 20:01:39 +0000 2018",
+				"id": 986333891014381600,
+				"id_str": "986333891014381568",
+				"text": "In today's notes with @msonenote and my @surface pro I got creative with sticky notes and flags to mark quotes and… https://t.co/VG56gkVRBu",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "msonenote",
+							"name": "Microsoft OneNote",
+							"id": 23735316,
+							"id_str": "23735316",
+							"indices": [
+								22,
+								32
+							]
+						},
+						{
+							"screen_name": "surface",
+							"name": "Microsoft Surface",
+							"id": 612076511,
+							"id_str": "612076511",
+							"indices": [
+								40,
+								48
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/VG56gkVRBu",
+							"expanded_url": "https://twitter.com/i/web/status/986333891014381568",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 425093439,
+					"id_str": "425093439",
+					"name": "Alessia Pace",
+					"screen_name": "Alessia362",
+					"location": "Dublino Città, Irlanda",
+					"description": "Editor for @17KGroup & @MultiplayerEd.\nI'm also a Language & Literature student @Unipisa.\nI ❤ reading, writing, videogames, tech & music (I ❤ to play the piano)",
+					"url": "https://t.co/bhgYlYBAQI",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/bhgYlYBAQI",
+									"expanded_url": "https://it.linkedin.com/in/alessia-pace",
+									"display_url": "it.linkedin.com/in/alessia-pace",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 269,
+					"friends_count": 871,
+					"listed_count": 4,
+					"created_at": "Wed Nov 30 15:06:30 +0000 2011",
+					"favourites_count": 2226,
+					"utc_offset": 7200,
+					"time_zone": "Rome",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 2251,
+					"lang": "it",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "DDDDDD",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/610112396850401281/hhf5mjUJ.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/610112396850401281/hhf5mjUJ.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/943608588148330497/l4MkwIVw_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/943608588148330497/l4MkwIVw_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/425093439/1513808795",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "1A93A3",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 11,
+				"favorite_count": 56,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 986333891014381600,
+		"quoted_status_id_str": "986333891014381568",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 11 21:10:44 +0000 2018",
+		"id": 995048586642673700,
+		"id_str": "995048586642673669",
+		"text": "@daniels_larson @MicrosoftEDU @EngLangAcqAACPS Hi Sarah, there's a big #OneNote community on Twitter where newcomer… https://t.co/MMGaXvFuX1",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daniels_larson",
+					"name": "Sarah Daniels Larson",
+					"id": 559956685,
+					"id_str": "559956685",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "EngLangAcqAACPS",
+					"name": "EngLangAcqAACPS",
+					"id": 911958731881099300,
+					"id_str": "911958731881099264",
+					"indices": [
+						30,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MMGaXvFuX1",
+					"expanded_url": "https://twitter.com/i/web/status/995048586642673669",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 994660071299788800,
+		"in_reply_to_status_id_str": "994660071299788800",
+		"in_reply_to_user_id": 559956685,
+		"in_reply_to_user_id_str": "559956685",
+		"in_reply_to_screen_name": "daniels_larson",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16349,
+			"friends_count": 6023,
+			"listed_count": 560,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24028,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22264,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 11 20:18:37 +0000 2018",
 		"id": 995035467652522000,
 		"id_str": "995035467652521985",
