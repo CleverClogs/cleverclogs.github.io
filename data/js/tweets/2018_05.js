@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 16 06:59:25 +0000 2018",
+		"id": 996646284692992000,
+		"id_str": "996646284692992001",
+		"text": "@mariannemcgah @JeffSandersTV @SusanDavid_PhD @OneNoteEDU Great #sketchnotes. May I ask which version of #OneNote y… https://t.co/9D80Acq61D",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sketchnotes",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mariannemcgah",
+					"name": "Marianne McGah",
+					"id": 2220740071,
+					"id_str": "2220740071",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "JeffSandersTV",
+					"name": "Jeff Sanders",
+					"id": 16878222,
+					"id_str": "16878222",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "SusanDavid_PhD",
+					"name": "Susan A David, Ph.D.",
+					"id": 228628039,
+					"id_str": "228628039",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						46,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9D80Acq61D",
+					"expanded_url": "https://twitter.com/i/web/status/996646284692992001",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 996549384262238200,
+		"in_reply_to_status_id_str": "996549384262238208",
+		"in_reply_to_user_id": 2220740071,
+		"in_reply_to_user_id_str": "2220740071",
+		"in_reply_to_screen_name": "mariannemcgah",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16407,
+			"friends_count": 6044,
+			"listed_count": 562,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24111,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22374,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 16 06:23:12 +0000 2018",
+		"id": 996637171057680400,
+		"id_str": "996637171057680385",
+		"text": "@Veeam @vmiss33 @nielsengelen Hi team, where I can I find detailed information about the \"OneNote protection\" you a… https://t.co/rQUw3KJjHw",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Veeam",
+					"name": "Veeam® Software",
+					"id": 14908404,
+					"id_str": "14908404",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "vmiss33",
+					"name": "vmiss",
+					"id": 109011736,
+					"id_str": "109011736",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"screen_name": "nielsengelen",
+					"name": "Niels Engelen",
+					"id": 131110525,
+					"id_str": "131110525",
+					"indices": [
+						16,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rQUw3KJjHw",
+					"expanded_url": "https://twitter.com/i/web/status/996637171057680385",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 996563102350041100,
+		"in_reply_to_status_id_str": "996563102350041088",
+		"in_reply_to_user_id": 14908404,
+		"in_reply_to_user_id_str": "14908404",
+		"in_reply_to_screen_name": "Veeam",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16407,
+			"friends_count": 6044,
+			"listed_count": 562,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24111,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22374,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue May 15 20:24:21 +0000 2018",
 		"id": 996486462488154100,
 		"id_str": "996486462488154112",
