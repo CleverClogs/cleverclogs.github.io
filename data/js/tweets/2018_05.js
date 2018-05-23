@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 23 18:42:32 +0000 2018",
+		"id": 999359943215140900,
+		"id_str": "999359943215140870",
+		"text": "Mathematicians and math teachers, seen this request by Microsoft Learning Consultant @TheBebsMLC? \ncc… https://t.co/6s9IDkz23S",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheBebsMLC",
+					"name": "Vance Beblow",
+					"id": 905509679220043800,
+					"id_str": "905509679220043777",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6s9IDkz23S",
+					"expanded_url": "https://twitter.com/i/web/status/999359943215140870",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16511,
+			"friends_count": 6062,
+			"listed_count": 565,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24243,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22509,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 999346193367904300,
+		"quoted_status_id_str": "999346193367904256",
+		"quoted_status": {
+			"created_at": "Wed May 23 17:47:54 +0000 2018",
+			"id": 999346193367904300,
+			"id_str": "999346193367904256",
+			"text": "@OneNoteC Are you familiar with any Ti-83 inspired graphing calculator embeds into OneNote? I recommended Desmos, any others?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2582768738,
+			"in_reply_to_user_id_str": "2582768738",
+			"in_reply_to_screen_name": "OneNoteC",
+			"user": {
+				"id": 905509679220043800,
+				"id_str": "905509679220043777",
+				"name": "Vance Beblow",
+				"screen_name": "TheBebsMLC",
+				"location": "Calgary, Alberta",
+				"description": "Microsoft Learning Consultant for AB/SK/MB | Evangelist for Ai and Mixed reality| | Pedagogy/tech integration | v-vabebl@microsft.com for free Pd",
+				"url": "https://t.co/b9TtOSgudq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b9TtOSgudq",
+								"expanded_url": "https://www.microsoft.com/en-ca/sites/education/form.aspx",
+								"display_url": "microsoft.com/en-ca/sites/ed…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 488,
+				"friends_count": 456,
+				"listed_count": 9,
+				"created_at": "Wed Sep 06 19:15:06 +0000 2017",
+				"favourites_count": 3716,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1180,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991306577331171331/mvMG3xxC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991306577331171331/mvMG3xxC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/905509679220043777/1516405767",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 23 15:16:29 +0000 2018",
 		"id": 999308091018661900,
 		"id_str": "999308091018661888",
