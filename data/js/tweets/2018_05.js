@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 25 05:50:41 +0000 2018",
+		"id": 999890478790131700,
+		"id_str": "999890478790131713",
+		"text": "RT @CEEKTechnology: So Excited of using #narrator and #magnifier like I can with the competition with @Office365 @Windows @MicrosoftEdge I…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "narrator",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"text": "magnifier",
+					"indices": [
+						54,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CEEKTechnology",
+					"name": "Christopher McMillan",
+					"id": 410219569,
+					"id_str": "410219569",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"screen_name": "Windows",
+					"name": "Windows",
+					"id": 15670515,
+					"id_str": "15670515",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"screen_name": "MicrosoftEdge",
+					"name": "Microsoft Edge",
+					"id": 19315174,
+					"id_str": "19315174",
+					"indices": [
+						122,
+						136
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16534,
+			"friends_count": 6079,
+			"listed_count": 567,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24278,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22543,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 25 05:41:02 +0000 2018",
+			"id": 999888048983715800,
+			"id_str": "999888048983715845",
+			"text": "So Excited of using #narrator and #magnifier like I can with the competition with @Office365 @Windows… https://t.co/gdDvLes5Lm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "narrator",
+						"indices": [
+							20,
+							29
+						]
+					},
+					{
+						"text": "magnifier",
+						"indices": [
+							34,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Office365",
+						"name": "Office 365",
+						"id": 137365854,
+						"id_str": "137365854",
+						"indices": [
+							82,
+							92
+						]
+					},
+					{
+						"screen_name": "Windows",
+						"name": "Windows",
+						"id": 15670515,
+						"id_str": "15670515",
+						"indices": [
+							93,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gdDvLes5Lm",
+						"expanded_url": "https://twitter.com/i/web/status/999888048983715845",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 410219569,
+				"id_str": "410219569",
+				"name": "Christopher McMillan",
+				"screen_name": "CEEKTechnology",
+				"location": "Charlotte, NC",
+				"description": "IT Specialist for Network, Virtual, Security and Operation System Deployment.  Disabled Access Specialist for 25 years in Windows, Mac and now Linux",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4305,
+				"friends_count": 2030,
+				"listed_count": 2137,
+				"created_at": "Fri Nov 11 20:15:38 +0000 2011",
+				"favourites_count": 33656,
+				"utc_offset": -14400,
+				"time_zone": "America/New_York",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 152141,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2342920299/v5nxzbxedemmiepkxqor_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2342920299/v5nxzbxedemmiepkxqor_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/410219569/1521813069",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 24 20:23:37 +0000 2018",
 		"id": 999747770352365600,
 		"id_str": "999747770352365574",
