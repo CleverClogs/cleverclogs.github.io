@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 27 10:56:30 +0000 2018",
+		"id": 1000692212391403500,
+		"id_str": "1000692212391403520",
+		"text": "Cable hoarders, unite.\nDon't skip the comments - they're hilarious and so utterly familiar.\n\nGreat thread, @JenMsft https://t.co/GqbponLdDm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenMsft",
+					"name": "Jen Gentleman 🌺",
+					"id": 3309105596,
+					"id_str": "3309105596",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GqbponLdDm",
+					"expanded_url": "https://twitter.com/JenMsft/status/1000604487172542464",
+					"display_url": "twitter.com/JenMsft/status…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16565,
+			"friends_count": 6090,
+			"listed_count": 566,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24304,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22567,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1000604487172542500,
+		"quoted_status_id_str": "1000604487172542464",
+		"quoted_status": {
+			"created_at": "Sun May 27 05:07:54 +0000 2018",
+			"id": 1000604487172542500,
+			"id_str": "1000604487172542464",
+			"text": "RT if you too have a box like this in your house https://t.co/IDBpQbsJuv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1000604107604820000,
+						"id_str": "1000604107604819968",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DeLcImqVAAA_Sap.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeLcImqVAAA_Sap.jpg",
+						"url": "https://t.co/IDBpQbsJuv",
+						"display_url": "pic.twitter.com/IDBpQbsJuv",
+						"expanded_url": "https://twitter.com/JenMsft/status/1000604487172542464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1000604107604820000,
+						"id_str": "1000604107604819968",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DeLcImqVAAA_Sap.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DeLcImqVAAA_Sap.jpg",
+						"url": "https://t.co/IDBpQbsJuv",
+						"display_url": "pic.twitter.com/IDBpQbsJuv",
+						"expanded_url": "https://twitter.com/JenMsft/status/1000604487172542464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309105596,
+				"id_str": "3309105596",
+				"name": "Jen Gentleman 🌺",
+				"screen_name": "JenMsft",
+				"location": "Seattle, WA",
+				"description": "Software Engineer, Community Manager & #WindowsInsider on Shell team @ Microsoft. I work w/ Windows feedback 4 Start, Action center, taskbar, Windows Ink + more",
+				"url": "https://t.co/ACVIR7xvcT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ACVIR7xvcT",
+								"expanded_url": "https://www.instagram.com/jenmsft/",
+								"display_url": "instagram.com/jenmsft/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16903,
+				"friends_count": 222,
+				"listed_count": 336,
+				"created_at": "Fri Aug 07 22:21:33 +0000 2015",
+				"favourites_count": 119791,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31183,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987773638614048768/_Z7nZCoF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987773638614048768/_Z7nZCoF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309105596/1524338784",
+				"profile_link_color": "CB26D1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 246,
+			"favorite_count": 242,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 27 10:54:20 +0000 2018",
+		"id": 1000691670227259400,
+		"id_str": "1000691670227259392",
+		"text": "@marypcbuk @JenMsft Actually you _can_ retweet the same tweet multiple times: \nFirst RT, then un-RT a while later.… https://t.co/0NxcbDYzmM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marypcbuk",
+					"name": "Mary Branscombe",
+					"id": 109323518,
+					"id_str": "109323518",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "JenMsft",
+					"name": "Jen Gentleman 🌺",
+					"id": 3309105596,
+					"id_str": "3309105596",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0NxcbDYzmM",
+					"expanded_url": "https://twitter.com/i/web/status/1000691670227259392",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1000606360898232300,
+		"in_reply_to_status_id_str": "1000606360898232321",
+		"in_reply_to_user_id": 109323518,
+		"in_reply_to_user_id_str": "109323518",
+		"in_reply_to_screen_name": "marypcbuk",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16565,
+			"friends_count": 6090,
+			"listed_count": 566,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24304,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22567,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat May 26 19:37:21 +0000 2018",
 		"id": 1000460901680529400,
 		"id_str": "1000460901680529408",
