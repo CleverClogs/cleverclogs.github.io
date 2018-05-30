@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 30 11:40:06 +0000 2018",
+		"id": 1001790350246207500,
+		"id_str": "1001790350246207488",
+		"text": "Just in: when to choose just #OneNote Class Notebook vs #MicrosoftTeams. Great visual by @PipCleaves. \nFor Teams, y… https://t.co/WNXFXIxzeR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pipcleaves",
+					"name": "Pip Cleaves",
+					"id": 30757847,
+					"id_str": "30757847",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WNXFXIxzeR",
+					"expanded_url": "https://twitter.com/i/web/status/1001790350246207488",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16631,
+			"friends_count": 6102,
+			"listed_count": 566,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24348,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1001668278849335300,
+		"quoted_status_id_str": "1001668278849335296",
+		"quoted_status": {
+			"created_at": "Wed May 30 03:35:02 +0000 2018",
+			"id": 1001668278849335300,
+			"id_str": "1001668278849335296",
+			"text": "OneNote ClassNotebook, or Teams with OneNote Class notebook? Which will you choose? Here's an infographic to help. https://t.co/5ZdNnYO3tF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1001668176659255300,
+						"id_str": "1001668176659255296",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Deaj5kyWkAAE6Ue.png",
+						"media_url_https": "https://pbs.twimg.com/media/Deaj5kyWkAAE6Ue.png",
+						"url": "https://t.co/5ZdNnYO3tF",
+						"display_url": "pic.twitter.com/5ZdNnYO3tF",
+						"expanded_url": "https://twitter.com/pipcleaves/status/1001668278849335296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 794,
+								"h": 1123,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 794,
+								"h": 1123,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1001668176659255300,
+						"id_str": "1001668176659255296",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Deaj5kyWkAAE6Ue.png",
+						"media_url_https": "https://pbs.twimg.com/media/Deaj5kyWkAAE6Ue.png",
+						"url": "https://t.co/5ZdNnYO3tF",
+						"display_url": "pic.twitter.com/5ZdNnYO3tF",
+						"expanded_url": "https://twitter.com/pipcleaves/status/1001668278849335296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 794,
+								"h": 1123,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 794,
+								"h": 1123,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30757847,
+				"id_str": "30757847",
+				"name": "Pip Cleaves",
+				"screen_name": "pipcleaves",
+				"location": "Sydney, NSW Australia",
+				"description": "PL and LX Designer | Senior Education Consultant at DLE | STEMSHARE Learning Designer | Microsoft Learning Consultant | ACU Sessional Lecturer",
+				"url": "https://t.co/O1dXLOSgDm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O1dXLOSgDm",
+								"expanded_url": "http://dle.net.au",
+								"display_url": "dle.net.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6899,
+				"friends_count": 2942,
+				"listed_count": 338,
+				"created_at": "Mon Apr 13 00:18:24 +0000 2009",
+				"favourites_count": 8238,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35719,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981446813931724801/HH9sFUzM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981446813931724801/HH9sFUzM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30757847/1499902624",
+				"profile_link_color": "319B42",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 30 09:27:14 +0000 2018",
 		"id": 1001756914496299000,
 		"id_str": "1001756914496299008",
