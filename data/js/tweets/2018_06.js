@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 04 03:16:19 +0000 2018",
+		"id": 1003475506229141500,
+		"id_str": "1003475506229141504",
+		"text": "RT @ShellTerrell: Have you checked out the free Immersive Reader by Microsoft Learning Tools? Easy to use and helps language learners as we…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShellTerrell",
+					"name": "𝕊𝕙𝕖𝕝𝕝𝕪 𝕊𝕒𝕟𝕔𝕙𝕖𝕫 💡",
+					"id": 29655018,
+					"id_str": "29655018",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16696,
+			"friends_count": 6114,
+			"listed_count": 568,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 02 20:50:38 +0000 2018",
+			"id": 1003016061850214400,
+			"id_str": "1003016061850214400",
+			"text": "Have you checked out the free Immersive Reader by Microsoft Learning Tools? Easy to use and helps language learners… https://t.co/SGZlZKxzBt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SGZlZKxzBt",
+						"expanded_url": "https://twitter.com/i/web/status/1003016061850214400",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29655018,
+				"id_str": "29655018",
+				"name": "𝕊𝕙𝕖𝕝𝕝𝕪 𝕊𝕒𝕟𝕔𝕙𝕖𝕫 💡",
+				"screen_name": "ShellTerrell",
+				"location": "Shelly Sanchez Terrell",
+				"description": "Keynote🎤Author📚Consultant👩🏻‍💼https://t.co/KIoFY2A9lr 👩🏻‍🏫Founder: #Edchat https://t.co/KTv2vD8etA @EdspeakersCo Mom🤱🏻🐶 Admin @TESOL",
+				"url": "https://t.co/j1BpkeOA1b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j1BpkeOA1b",
+								"expanded_url": "http://shellyterrell.com/about",
+								"display_url": "shellyterrell.com/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KIoFY2A9lr",
+								"expanded_url": "http://TeacherRebootCamp.com",
+								"display_url": "TeacherRebootCamp.com",
+								"indices": [
+									29,
+									52
+								]
+							},
+							{
+								"url": "https://t.co/KTv2vD8etA",
+								"expanded_url": "http://30Goals.com",
+								"display_url": "30Goals.com",
+								"indices": [
+									74,
+									97
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80999,
+				"friends_count": 20933,
+				"listed_count": 4780,
+				"created_at": "Wed Apr 08 06:17:20 +0000 2009",
+				"favourites_count": 5026,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 126352,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "162718",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926651020901568512/sV8sQuyE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926651020901568512/sV8sQuyE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29655018/1526604882",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "2E1105",
+				"profile_sidebar_fill_color": "A79690",
+				"profile_text_color": "0E0B0B",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 29,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 03 22:39:13 +0000 2018",
 		"id": 1003405772175413200,
 		"id_str": "1003405772175413249",
