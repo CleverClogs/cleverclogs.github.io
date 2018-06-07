@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 07 07:45:47 +0000 2018",
+		"id": 1004630485874757600,
+		"id_str": "1004630485874757632",
+		"text": "Ik zie nu pas de typefout in mijn tweet, maar eigenlijk is die ook wel weer grappig.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1004490699331571700,
+		"in_reply_to_status_id_str": "1004490699331571713",
+		"in_reply_to_user_id": 2582768738,
+		"in_reply_to_user_id_str": "2582768738",
+		"in_reply_to_screen_name": "OneNoteC",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16769,
+			"friends_count": 6146,
+			"listed_count": 569,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Thu Jun 07 07:20:00 +0000 2018",
+		"id": 1004623997177299000,
+		"id_str": "1004623997177298944",
+		"text": "@KeidrichSellati @Beardy @owenblacker @msonenote @Office @TheAmericansFX 🙈",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KeidrichSellati",
+					"name": "Keidrich",
+					"id": 1673982458,
+					"id_str": "1673982458",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Beardy",
+					"name": "Daniel Joshua Beardsall III Esq. NVQ MCSE",
+					"id": 5513082,
+					"id_str": "5513082",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "owenblacker",
+					"name": "Owen Blacker🥀🇪🇺🏳️‍🌈🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+					"id": 4491811,
+					"id_str": "4491811",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "Office",
+					"name": "Microsoft Office",
+					"id": 22209176,
+					"id_str": "22209176",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"screen_name": "TheAmericansFX",
+					"name": "The Americans",
+					"id": 546447987,
+					"id_str": "546447987",
+					"indices": [
+						57,
+						72
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1004622035149041700,
+		"in_reply_to_status_id_str": "1004622035149041664",
+		"in_reply_to_user_id": 1673982458,
+		"in_reply_to_user_id_str": "1673982458",
+		"in_reply_to_screen_name": "KeidrichSellati",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16769,
+			"friends_count": 6146,
+			"listed_count": 569,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22793,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Thu Jun 07 06:25:21 +0000 2018",
 		"id": 1004610244985720800,
 		"id_str": "1004610244985720832",
@@ -245,7 +486,7 @@ Grailbird.data.tweets_2018_06 =
 				},
 				{
 					"screen_name": "owenblacker",
-					"name": "Owen Blacker🥀🇪🇺🏳️‍🌈🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+					"name": "Owen Blacker🥀🇪🇺🏳️🌈🏴󠁧󠁢󠁷󠁬󠁳󠁿",
 					"id": 4491811,
 					"id_str": "4491811",
 					"indices": [
