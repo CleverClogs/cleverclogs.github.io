@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 09 17:55:18 +0000 2018",
+		"id": 1005508653078720500,
+		"id_str": "1005508653078720514",
+		"text": "RT @BannonTOSA: Practicing my ukulele chords with #OneNote &amp; shared the notebook with mom #LifelongLearners https://t.co/prVW4g1A10",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "LifelongLearners",
+					"indices": [
+						94,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BannonTOSA",
+					"name": "Emily Bannon",
+					"id": 1937940493,
+					"id_str": "1937940493",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1005502541805654000,
+					"id_str": "1005502541805654017",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DfRDPAEUEAEDk2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfRDPAEUEAEDk2Y.jpg",
+					"url": "https://t.co/prVW4g1A10",
+					"display_url": "pic.twitter.com/prVW4g1A10",
+					"expanded_url": "https://twitter.com/BannonTOSA/status/1005502546977275904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005502546977275900,
+					"source_status_id_str": "1005502546977275904",
+					"source_user_id": 1937940493,
+					"source_user_id_str": "1937940493"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1005502541805654000,
+					"id_str": "1005502541805654017",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DfRDPAEUEAEDk2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DfRDPAEUEAEDk2Y.jpg",
+					"url": "https://t.co/prVW4g1A10",
+					"display_url": "pic.twitter.com/prVW4g1A10",
+					"expanded_url": "https://twitter.com/BannonTOSA/status/1005502546977275904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1005502546977275900,
+					"source_status_id_str": "1005502546977275904",
+					"source_user_id": 1937940493,
+					"source_user_id_str": "1937940493"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16814,
+			"friends_count": 6168,
+			"listed_count": 569,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22832,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 09 17:31:03 +0000 2018",
+			"id": 1005502546977275900,
+			"id_str": "1005502546977275904",
+			"text": "Practicing my ukulele chords with #OneNote &amp; shared the notebook with mom #LifelongLearners https://t.co/prVW4g1A10",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							34,
+							42
+						]
+					},
+					{
+						"text": "LifelongLearners",
+						"indices": [
+							78,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1005502541805654000,
+						"id_str": "1005502541805654017",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DfRDPAEUEAEDk2Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfRDPAEUEAEDk2Y.jpg",
+						"url": "https://t.co/prVW4g1A10",
+						"display_url": "pic.twitter.com/prVW4g1A10",
+						"expanded_url": "https://twitter.com/BannonTOSA/status/1005502546977275904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1005502541805654000,
+						"id_str": "1005502541805654017",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/DfRDPAEUEAEDk2Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfRDPAEUEAEDk2Y.jpg",
+						"url": "https://t.co/prVW4g1A10",
+						"display_url": "pic.twitter.com/prVW4g1A10",
+						"expanded_url": "https://twitter.com/BannonTOSA/status/1005502546977275904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1937940493,
+				"id_str": "1937940493",
+				"name": "Emily Bannon",
+				"screen_name": "BannonTOSA",
+				"location": "Gig Harbor, WA",
+				"description": "WA Teacher Trainer, MIE Expert, Master Trainer, Surface Master Trainer, OneNote Nut | #i2eEDU",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 281,
+				"friends_count": 58,
+				"listed_count": 26,
+				"created_at": "Sat Oct 05 15:06:00 +0000 2013",
+				"favourites_count": 463,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 382,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875898574696882177/5AJXaFet_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875898574696882177/5AJXaFet_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 09 16:19:43 +0000 2018",
 		"id": 1005484596174164000,
 		"id_str": "1005484596174163968",
