@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 15 05:36:42 +0000 2018",
+		"id": 1007497104258949100,
+		"id_str": "1007497104258949121",
+		"text": "RT @joebelfiore: One of the best things about working at MS … I'm SO PROUD of the folks on our team who've made such a difference for peopl…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joebelfiore",
+					"name": "Joe Belfiore",
+					"id": 16930986,
+					"id_str": "16930986",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16885,
+			"friends_count": 6181,
+			"listed_count": 571,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 21:03:25 +0000 2018",
+			"id": 1007367932161060900,
+			"id_str": "1007367932161060865",
+			"text": "One of the best things about working at MS … I'm SO PROUD of the folks on our team who've made such a difference fo… https://t.co/QjdsZeBpKL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QjdsZeBpKL",
+						"expanded_url": "https://twitter.com/i/web/status/1007367932161060865",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16930986,
+				"id_str": "16930986",
+				"name": "Joe Belfiore",
+				"screen_name": "joebelfiore",
+				"location": "Redmond, WA",
+				"description": "Tweeting Microsoft Windows 10!  My team creates the Windows experience & Microsoft Edge.",
+				"url": "https://t.co/UTkpHW6ZsJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UTkpHW6ZsJ",
+								"expanded_url": "http://belfiore.land",
+								"display_url": "belfiore.land",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 174671,
+				"friends_count": 185,
+				"listed_count": 2246,
+				"created_at": "Thu Oct 23 17:26:04 +0000 2008",
+				"favourites_count": 127,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2131,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1489500286/joeb_phone_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489500286/joeb_phone_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16930986/1424847525",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1007292703405760500,
+			"quoted_status_id_str": "1007292703405760512",
+			"quoted_status": {
+				"created_at": "Thu Jun 14 16:04:29 +0000 2018",
+				"id": 1007292703405760500,
+				"id_str": "1007292703405760512",
+				"text": "“You have no idea how much this has impacted people’s lives — and not just students, but anybody who has struggled… https://t.co/5R0TdO0x0P",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/5R0TdO0x0P",
+							"expanded_url": "https://twitter.com/i/web/status/1007292703405760512",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 24741685,
+					"id_str": "24741685",
+					"name": "Microsoft News",
+					"screen_name": "MSFTnews",
+					"location": "Redmond, WA",
+					"description": "The official Twitter page for Microsoft news. Your view from the inside.",
+					"url": "http://t.co/vzYljEYj9e",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/vzYljEYj9e",
+									"expanded_url": "http://www.microsoft.com/news",
+									"display_url": "microsoft.com/news",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 916695,
+					"friends_count": 1825,
+					"listed_count": 15660,
+					"created_at": "Mon Mar 16 18:29:00 +0000 2009",
+					"favourites_count": 4,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 26166,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "0072C6",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/472501111094394880/-wECB4Xr_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/472501111094394880/-wECB4Xr_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/24741685/1375483196",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": true,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 44,
+				"favorite_count": 65,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 12,
+			"favorite_count": 96,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1007292703405760500,
+		"quoted_status_id_str": "1007292703405760512",
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 14 21:57:57 +0000 2018",
 		"id": 1007381653486960600,
 		"id_str": "1007381653486960641",
@@ -20,7 +327,7 @@ Grailbird.data.tweets_2018_06 =
 			"user_mentions": [
 				{
 					"screen_name": "joelbirch",
-					"name": "Joel Birch🏳️‍🌈👍🏼",
+					"name": "Joel Birch🏳️🌈👍🏼",
 					"id": 12773052,
 					"id_str": "12773052",
 					"indices": [
