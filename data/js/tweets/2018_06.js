@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sun Jun 24 16:10:04 +0000 2018",
+		"id": 1010917984729215000,
+		"id_str": "1010917984729214976",
+		"text": "RT @Fernandezc4: Who else is rocking @OneNoteEDU during #ISTE18 - Set everything up on my PC and now accessing it through my phone. Putting…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ISTE18",
+					"indices": [
+						56,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Fernandezc4",
+					"name": "Carlos Fernandez",
+					"id": 63355629,
+					"id_str": "63355629",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17015,
+			"friends_count": 6218,
+			"listed_count": 572,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 24 12:00:52 +0000 2018",
+			"id": 1010855271160303600,
+			"id_str": "1010855271160303617",
+			"text": "Who else is rocking @OneNoteEDU during #ISTE18 - Set everything up on my PC and now accessing it through my phone.… https://t.co/XxOulMV1tB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ISTE18",
+						"indices": [
+							39,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							20,
+							31
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XxOulMV1tB",
+						"expanded_url": "https://twitter.com/i/web/status/1010855271160303617",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63355629,
+				"id_str": "63355629",
+				"name": "Carlos Fernandez",
+				"screen_name": "Fernandezc4",
+				"location": "Windermere, FL, USA",
+				"description": "Windows and Devices Team at Microsoft, MIE EXPERT, Love all things Office365, Minecraft, and EdTech Enthusiast. All opinions are my own.",
+				"url": "https://t.co/Kff3Pei3uz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Kff3Pei3uz",
+								"expanded_url": "https://education.microsoft.com/",
+								"display_url": "education.microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2989,
+				"friends_count": 2022,
+				"listed_count": 327,
+				"created_at": "Thu Aug 06 03:26:24 +0000 2009",
+				"favourites_count": 1695,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12101,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/957639622036631553/hevxAhIn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/957639622036631553/hevxAhIn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63355629/1505388125",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 24 15:26:07 +0000 2018",
+		"id": 1010906925414912000,
+		"id_str": "1010906925414912000",
+		"text": "RT @Catalyst4EDU: 🤫 Sneak peek @MicrosoftEDU under construction at #ISTE18  https://t.co/YQ5QMGXTE0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ISTE18",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Catalyst4EDU",
+					"name": "Josh Sawyer",
+					"id": 1373420496,
+					"id_str": "1373420496",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YQ5QMGXTE0",
+					"expanded_url": "https://www.pscp.tv/w/bf-lvDF3QkVBSkJMSnhZUVB8MWxER0xYWXZxWXZHbcd-zqpHtZXshxyHkz1Ip7fdc-_MRQwSQefius9R1j0A",
+					"display_url": "pscp.tv/w/bf-lvDF3QkVB…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17015,
+			"friends_count": 6218,
+			"listed_count": 572,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 24944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 24 14:45:05 +0000 2018",
+			"id": 1010896599315304400,
+			"id_str": "1010896599315304448",
+			"text": "🤫 Sneak peek @MicrosoftEDU under construction at #ISTE18  https://t.co/YQ5QMGXTE0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ISTE18",
+						"indices": [
+							49,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							13,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YQ5QMGXTE0",
+						"expanded_url": "https://www.pscp.tv/w/bf-lvDF3QkVBSkJMSnhZUVB8MWxER0xYWXZxWXZHbcd-zqpHtZXshxyHkz1Ip7fdc-_MRQwSQefius9R1j0A",
+						"display_url": "pscp.tv/w/bf-lvDF3QkVB…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1373420496,
+				"id_str": "1373420496",
+				"name": "Josh Sawyer",
+				"screen_name": "Catalyst4EDU",
+				"location": "Tampa, Florida",
+				"description": "#MicrosoftEDU | Transformation Strategist | Professional Learning Leader | #MicrosoftSchool | STEAM Enthusiast | #MIEExpert",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1212,
+				"friends_count": 860,
+				"listed_count": 58,
+				"created_at": "Tue Apr 23 00:39:41 +0000 2013",
+				"favourites_count": 503,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 788,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788145603083501568/dvfxbtPa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788145603083501568/dvfxbtPa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1373420496/1470947701",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 24 14:01:14 +0000 2018",
 		"id": 1010885564365705200,
 		"id_str": "1010885564365705216",
