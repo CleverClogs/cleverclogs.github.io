@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 28 03:48:55 +0000 2018",
+		"id": 1012181020731420700,
+		"id_str": "1012181020731420672",
+		"text": "RT @attipscast: Immersive reader in VR by @MicrosoftEDU at #ISTE18 https://t.co/FQTYneoSQr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ISTE18",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "attipscast",
+					"name": "Chris Bugaj",
+					"id": 15696292,
+					"id_str": "15696292",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1011644914545852400,
+					"id_str": "1011644914545852419",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DgoVsJpWAAMhdsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgoVsJpWAAMhdsc.jpg",
+					"url": "https://t.co/FQTYneoSQr",
+					"display_url": "pic.twitter.com/FQTYneoSQr",
+					"expanded_url": "https://twitter.com/attipscast/status/1011644958397403138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1011644958397403100,
+					"source_status_id_str": "1011644958397403138",
+					"source_user_id": 15696292,
+					"source_user_id_str": "15696292"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1011644914545852400,
+					"id_str": "1011644914545852419",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DgoVsJpWAAMhdsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DgoVsJpWAAMhdsc.jpg",
+					"url": "https://t.co/FQTYneoSQr",
+					"display_url": "pic.twitter.com/FQTYneoSQr",
+					"expanded_url": "https://twitter.com/attipscast/status/1011644958397403138/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1011644958397403100,
+					"source_status_id_str": "1011644958397403138",
+					"source_user_id": 15696292,
+					"source_user_id_str": "15696292"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17109,
+			"friends_count": 6276,
+			"listed_count": 573,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23182,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 26 16:18:48 +0000 2018",
+			"id": 1011644958397403100,
+			"id_str": "1011644958397403138",
+			"text": "Immersive reader in VR by @MicrosoftEDU at #ISTE18 https://t.co/FQTYneoSQr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ISTE18",
+						"indices": [
+							43,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							26,
+							39
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1011644914545852400,
+						"id_str": "1011644914545852419",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DgoVsJpWAAMhdsc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgoVsJpWAAMhdsc.jpg",
+						"url": "https://t.co/FQTYneoSQr",
+						"display_url": "pic.twitter.com/FQTYneoSQr",
+						"expanded_url": "https://twitter.com/attipscast/status/1011644958397403138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1011644914545852400,
+						"id_str": "1011644914545852419",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/DgoVsJpWAAMhdsc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgoVsJpWAAMhdsc.jpg",
+						"url": "https://t.co/FQTYneoSQr",
+						"display_url": "pic.twitter.com/FQTYneoSQr",
+						"expanded_url": "https://twitter.com/attipscast/status/1011644958397403138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15696292,
+				"id_str": "15696292",
+				"name": "Chris Bugaj",
+				"screen_name": "attipscast",
+				"location": "Round Hill, VA",
+				"description": "Author of The NEW Assistive Tech: Make Learning AWESOME For All! Host of the A.T.TIPSCAST podcast. Co-host of the Talking with Tech podcast.",
+				"url": "https://t.co/DMPkwD4Fed",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DMPkwD4Fed",
+								"expanded_url": "http://attipscast.com",
+								"display_url": "attipscast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4610,
+				"friends_count": 1178,
+				"listed_count": 270,
+				"created_at": "Fri Aug 01 23:57:50 +0000 2008",
+				"favourites_count": 6432,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16567,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/546682069422600192/a-A1Hwof_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/546682069422600192/a-A1Hwof_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15696292/1513713614",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 27 22:09:15 +0000 2018",
 		"id": 1012095542221066200,
 		"id_str": "1012095542221066240",
