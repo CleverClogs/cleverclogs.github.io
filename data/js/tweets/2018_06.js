@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 30 08:18:49 +0000 2018",
+		"id": 1012973718396686300,
+		"id_str": "1012973718396686336",
+		"text": "RT @JenMsft: #Demo The updated snipping experience - press WIN+Shift+S &amp; you can choose between rectangle, freeform, or full screen 😊\n\nYou…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Demo",
+					"indices": [
+						13,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenMsft",
+					"name": "Jen Gentleman 🌺",
+					"id": 3309105596,
+					"id_str": "3309105596",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17135,
+			"friends_count": 6287,
+			"listed_count": 572,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23228,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 30 00:12:32 +0000 2018",
+			"id": 1012851341025144800,
+			"id_str": "1012851341025144832",
+			"text": "#Demo The updated snipping experience - press WIN+Shift+S &amp; you can choose between rectangle, freeform, or full scr… https://t.co/N00Vrt8XTH",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Demo",
+						"indices": [
+							0,
+							5
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/N00Vrt8XTH",
+						"expanded_url": "https://twitter.com/i/web/status/1012851341025144832",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309105596,
+				"id_str": "3309105596",
+				"name": "Jen Gentleman 🌺",
+				"screen_name": "JenMsft",
+				"location": "Seattle, WA",
+				"description": "Software Engineer, Community Manager & #WindowsInsider on Shell team @ Microsoft. I work w/ Windows feedback 4 Start, Action center, taskbar, Windows Ink + more",
+				"url": "https://t.co/ACVIR7xvcT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ACVIR7xvcT",
+								"expanded_url": "https://www.instagram.com/jenmsft/",
+								"display_url": "instagram.com/jenmsft/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17524,
+				"friends_count": 224,
+				"listed_count": 344,
+				"created_at": "Fri Aug 07 22:21:33 +0000 2015",
+				"favourites_count": 127530,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32919,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987773638614048768/_Z7nZCoF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987773638614048768/_Z7nZCoF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309105596/1524338784",
+				"profile_link_color": "CB26D1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 29 21:28:28 +0000 2018",
 		"id": 1012810054335115300,
 		"id_str": "1012810054335115264",
