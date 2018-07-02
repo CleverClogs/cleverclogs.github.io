@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 02 14:51:51 +0000 2018",
+		"id": 1013797405450473500,
+		"id_str": "1013797405450473474",
+		"text": "Get started with Microsoft #PowerApps, simply by organizing all commands in Excel and then copying them over into a… https://t.co/NqPSC0vFKQ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PowerApps",
+					"indices": [
+						27,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NqPSC0vFKQ",
+					"expanded_url": "https://twitter.com/i/web/status/1013797405450473474",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17167,
+			"friends_count": 6302,
+			"listed_count": 572,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23265,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1013550673521078300,
+		"quoted_status_id_str": "1013550673521078272",
+		"quoted_status": {
+			"created_at": "Sun Jul 01 22:31:26 +0000 2018",
+			"id": 1013550673521078300,
+			"id_str": "1013550673521078272",
+			"text": "Brian has done it again! https://t.co/HP9IkYBi7T #PowerApps @PowrApps #LearningPaths https://t.co/FKJU2kRPFo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PowerApps",
+						"indices": [
+							49,
+							59
+						]
+					},
+					{
+						"text": "LearningPaths",
+						"indices": [
+							70,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HP9IkYBi7T",
+						"expanded_url": "https://powerapps.microsoft.com/en-us/blog/learning-with-mr-dang-transferring-knowledge-1/",
+						"display_url": "powerapps.microsoft.com/en-us/blog/lea…",
+						"indices": [
+							25,
+							48
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1013550578444558300,
+						"id_str": "1013550578444558336",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DhDa4Y4UYAAhauf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhDa4Y4UYAAhauf.jpg",
+						"url": "https://t.co/FKJU2kRPFo",
+						"display_url": "pic.twitter.com/FKJU2kRPFo",
+						"expanded_url": "https://twitter.com/ArtsyPowerApper/status/1013550673521078272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 841,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1436,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1013550578444558300,
+						"id_str": "1013550578444558336",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DhDa4Y4UYAAhauf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhDa4Y4UYAAhauf.jpg",
+						"url": "https://t.co/FKJU2kRPFo",
+						"display_url": "pic.twitter.com/FKJU2kRPFo",
+						"expanded_url": "https://twitter.com/ArtsyPowerApper/status/1013550673521078272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 841,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1436,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816725942844260400,
+				"id_str": "816725942844260352",
+				"name": "Audrie Gordon",
+				"screen_name": "ArtsyPowerApper",
+				"location": "Redmond, WA",
+				"description": "Microsoft employee and big fan of mobile tools that solve real business problems, & apps that enhance my quality of life! Sharing what's new in PowerApps!",
+				"url": "https://t.co/gm6WVcFPgc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gm6WVcFPgc",
+								"expanded_url": "http://www.microsoft.com",
+								"display_url": "microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 789,
+				"friends_count": 183,
+				"listed_count": 32,
+				"created_at": "Wed Jan 04 19:20:13 +0000 2017",
+				"favourites_count": 667,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 827,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823388177666699264/xYvhB0lh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816725942844260352/1483567412",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 02 14:15:55 +0000 2018",
 		"id": 1013788363076325400,
 		"id_str": "1013788363076325376",
