@@ -1,6 +1,705 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 10 12:15:10 +0000 2018",
+		"id": 1016657079174561800,
+		"id_str": "1016657079174561796",
+		"text": "RT @chriscapossela: Really enjoyed chatting with @NadineDietz1 about cultural transformation and the role of marketing in driving it. Talke…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chriscapossela",
+					"name": "Chris Capossela",
+					"id": 18818598,
+					"id_str": "18818598",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "NadineDietz1",
+					"name": "Nadine Dietz",
+					"id": 1278637603,
+					"id_str": "1278637603",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17220,
+			"friends_count": 6307,
+			"listed_count": 571,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23311,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 09 23:14:08 +0000 2018",
+			"id": 1016460526010765300,
+			"id_str": "1016460526010765313",
+			"text": "Really enjoyed chatting with @NadineDietz1 about cultural transformation and the role of marketing in driving it. T… https://t.co/A8cmecBeKY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NadineDietz1",
+						"name": "Nadine Dietz",
+						"id": 1278637603,
+						"id_str": "1278637603",
+						"indices": [
+							29,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/A8cmecBeKY",
+						"expanded_url": "https://twitter.com/i/web/status/1016460526010765313",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18818598,
+				"id_str": "18818598",
+				"name": "Chris Capossela",
+				"screen_name": "chriscapossela",
+				"location": "Seattle, WA",
+				"description": "Passionate about family, tennis and driving change to empower all. @Microsoft CMO, EVP and storyteller.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13034,
+				"friends_count": 1427,
+				"listed_count": 492,
+				"created_at": "Fri Jan 09 22:37:35 +0000 2009",
+				"favourites_count": 825,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1358,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002029364890951680/vp_s4VU9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002029364890951680/vp_s4VU9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18818598/1527737066",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1016333252473155600,
+			"quoted_status_id_str": "1016333252473155584",
+			"quoted_status": {
+				"created_at": "Mon Jul 09 14:48:24 +0000 2018",
+				"id": 1016333252473155600,
+				"id_str": "1016333252473155584",
+				"text": "What three things does @chriscapossela #CMO of @Microsoft see as critical for growth? Find out in his exceptional… https://t.co/aQLibZIpUO",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "CMO",
+							"indices": [
+								39,
+								43
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "chriscapossela",
+							"name": "Chris Capossela",
+							"id": 18818598,
+							"id_str": "18818598",
+							"indices": [
+								23,
+								38
+							]
+						},
+						{
+							"screen_name": "Microsoft",
+							"name": "Microsoft",
+							"id": 74286565,
+							"id_str": "74286565",
+							"indices": [
+								47,
+								57
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/aQLibZIpUO",
+							"expanded_url": "https://twitter.com/i/web/status/1016333252473155584",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 905573367779967000,
+					"id_str": "905573367779966977",
+					"name": "CMO Moves",
+					"screen_name": "CMOMoves",
+					"location": "San Francisco, CA",
+					"description": "#CMOMoves is a new #podcast featuring Game Changing #CMOs and their #Marketing, #Leadership and #CareerAdvice hosted by @NadineDietz1",
+					"url": "https://t.co/R3JgdxHdbo",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/R3JgdxHdbo",
+									"expanded_url": "https://cmomovespodcast.com",
+									"display_url": "cmomovespodcast.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 465,
+					"friends_count": 299,
+					"listed_count": 3,
+					"created_at": "Wed Sep 06 23:28:10 +0000 2017",
+					"favourites_count": 344,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 348,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1003683203335385089/tRce4jRn_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003683203335385089/tRce4jRn_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/905573367779966977/1505820743",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 5,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 8,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1016333252473155600,
+		"quoted_status_id_str": "1016333252473155584",
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 11:46:45 +0000 2018",
+		"id": 1016649926435098600,
+		"id_str": "1016649926435098624",
+		"text": "Research papers all neatly listed in a single tweet by @merrierm:\n\nhttps://t.co/f4lQTzJiDh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "merrierm",
+					"name": "Merrie Ringel Morris",
+					"id": 30142130,
+					"id_str": "30142130",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f4lQTzJiDh",
+					"expanded_url": "https://twitter.com/merrierm/status/989143761258246145",
+					"display_url": "twitter.com/merrierm/statu…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1016647914104541200,
+		"in_reply_to_status_id_str": "1016647914104541184",
+		"in_reply_to_user_id": 2582768738,
+		"in_reply_to_user_id_str": "2582768738",
+		"in_reply_to_screen_name": "OneNoteC",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17220,
+			"friends_count": 6307,
+			"listed_count": 571,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23311,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 989143761258246100,
+		"quoted_status_id_str": "989143761258246145",
+		"quoted_status": {
+			"created_at": "Wed Apr 25 14:07:04 +0000 2018",
+			"id": 989143761258246100,
+			"id_str": "989143761258246145",
+			"text": "In addition to our #chi2018 paper on #dyslexia and search engine use https://t.co/04EKCnVWsl, we also have a… https://t.co/8wbABPgPLx",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "chi2018",
+						"indices": [
+							19,
+							27
+						]
+					},
+					{
+						"text": "dyslexia",
+						"indices": [
+							37,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/04EKCnVWsl",
+						"expanded_url": "http://aka.ms/dyslexiaandsearch",
+						"display_url": "aka.ms/dyslexiaandsea…",
+						"indices": [
+							69,
+							92
+						]
+					},
+					{
+						"url": "https://t.co/8wbABPgPLx",
+						"expanded_url": "https://twitter.com/i/web/status/989143761258246145",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30142130,
+				"id_str": "30142130",
+				"name": "Merrie Ringel Morris",
+				"screen_name": "merrierm",
+				"location": "Redmond, Washington, USA",
+				"description": "Meredith Ringel Morris is a computer scientist at Microsoft Research and an affiliate Professor at UW. She is an expert on accessible technologies and HCI.",
+				"url": "https://t.co/yq9c8dOdrV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yq9c8dOdrV",
+								"expanded_url": "http://merrie.info",
+								"display_url": "merrie.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2834,
+				"friends_count": 317,
+				"listed_count": 136,
+				"created_at": "Fri Apr 10 02:53:55 +0000 2009",
+				"favourites_count": 507,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1030,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/901191768829435904/Ktq-HDF5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/901191768829435904/Ktq-HDF5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30142130/1403046885",
+				"profile_link_color": "075713",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 10 11:38:45 +0000 2018",
+		"id": 1016647914104541200,
+		"id_str": "1016647914104541184",
+		"text": "With or without #dyslexia, search engine #accessibility improves significantly by optimizing search results aesthet… https://t.co/FTlZ6fT2dp",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dyslexia",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FTlZ6fT2dp",
+					"expanded_url": "https://twitter.com/i/web/status/1016647914104541184",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17220,
+			"friends_count": 6307,
+			"listed_count": 571,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23311,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 10 10:55:02 +0000 2018",
 		"id": 1016636913149792300,
 		"id_str": "1016636913149792256",
