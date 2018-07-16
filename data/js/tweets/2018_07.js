@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 16 16:51:53 +0000 2018",
+		"id": 1018901041121824800,
+		"id_str": "1018901041121824768",
+		"text": "#OneNote Fans in Australia and New Zealand, take note!\nWhen Laura Butler, VP from the Notes and Tasks Team, tells y… https://t.co/czgVCuOxO3",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/czgVCuOxO3",
+					"expanded_url": "https://twitter.com/i/web/status/1018901041121824768",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17297,
+			"friends_count": 6326,
+			"listed_count": 575,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23405,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1018898676767449100,
+		"quoted_status_id_str": "1018898676767449089",
+		"quoted_status": {
+			"created_at": "Mon Jul 16 16:42:29 +0000 2018",
+			"id": 1018898676767449100,
+			"id_str": "1018898676767449089",
+			"text": "I swear the next time I visit AU and NZ I gonna smuggle a gajillion 🍪 in to give to all the fabulous fans of… https://t.co/WUxJju3nEA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WUxJju3nEA",
+						"expanded_url": "https://twitter.com/i/web/status/1018898676767449089",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 760954730612797400,
+				"id_str": "760954730612797440",
+				"name": "Laura Butler, Goddess of Engineers",
+				"screen_name": "LauraCatPJs",
+				"location": "Seattle, WA",
+				"description": "Champion of Undercats 🍪 Microsoft Technical Fellow 🍪 Vice President of Notes and Tasks 🍪 @KalAcademy @RainierScholars @igniteworldwide #BlackLivesMatter",
+				"url": "https://t.co/M7XGbSLrhn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M7XGbSLrhn",
+								"expanded_url": "https://twitter.com/ch9/status/849406624695541760",
+								"display_url": "twitter.com/ch9/status/849…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5389,
+				"friends_count": 79,
+				"listed_count": 127,
+				"created_at": "Wed Aug 03 21:45:20 +0000 2016",
+				"favourites_count": 38717,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15569,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965353465328238592/wdZzUWc0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965353465328238592/wdZzUWc0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/760954730612797440/1472326676",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1018897685603119100,
+			"quoted_status_id_str": "1018897685603119104",
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 16 16:36:25 +0000 2018",
+		"id": 1018897148434436100,
+		"id_str": "1018897148434436098",
+		"text": "RT @MatGilbertson: Great to see @msonenote get a run at the #MSInspire2018 demo with @carlsberg this morning! @judsonalthoff https://t.co/l…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSInspire2018",
+					"indices": [
+						60,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatGilbertson",
+					"name": "Mathew Gilbertson",
+					"id": 1625468810,
+					"id_str": "1625468810",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "carlsberg",
+					"name": "Carlsberg",
+					"id": 626721448,
+					"id_str": "626721448",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"screen_name": "judsonalthoff",
+					"name": "Judson Althoff",
+					"id": 47140363,
+					"id_str": "47140363",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17297,
+			"friends_count": 6326,
+			"listed_count": 575,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23405,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 16 16:31:23 +0000 2018",
+			"id": 1018895885353173000,
+			"id_str": "1018895885353172997",
+			"text": "Great to see @msonenote get a run at the #MSInspire2018 demo with @carlsberg this morning! @judsonalthoff https://t.co/lDWtLwMMGE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSInspire2018",
+						"indices": [
+							41,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							13,
+							23
+						]
+					},
+					{
+						"screen_name": "carlsberg",
+						"name": "Carlsberg",
+						"id": 626721448,
+						"id_str": "626721448",
+						"indices": [
+							66,
+							76
+						]
+					},
+					{
+						"screen_name": "judsonalthoff",
+						"name": "Judson Althoff",
+						"id": 47140363,
+						"id_str": "47140363",
+						"indices": [
+							91,
+							105
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1018895852310540300,
+						"id_str": "1018895852310540288",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/DiPYYRwWsAApcn-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiPYYRwWsAApcn-.jpg",
+						"url": "https://t.co/lDWtLwMMGE",
+						"display_url": "pic.twitter.com/lDWtLwMMGE",
+						"expanded_url": "https://twitter.com/MatGilbertson/status/1018895885353172997/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1151,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1018895852310540300,
+						"id_str": "1018895852310540288",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/DiPYYRwWsAApcn-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiPYYRwWsAApcn-.jpg",
+						"url": "https://t.co/lDWtLwMMGE",
+						"display_url": "pic.twitter.com/lDWtLwMMGE",
+						"expanded_url": "https://twitter.com/MatGilbertson/status/1018895885353172997/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1151,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1625468810,
+				"id_str": "1625468810",
+				"name": "Mathew Gilbertson",
+				"screen_name": "MatGilbertson",
+				"location": "Gold Coast",
+				"description": "Tablet PC Enthusiast, Microsoft OneNote MVP. Productivity Specialist.  Loves Family, Technology, Building, Essendon, Touch Football & the Cleveland Browns",
+				"url": "https://t.co/376kbFdg8K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/376kbFdg8K",
+								"expanded_url": "http://www.tabletpc.com.au",
+								"display_url": "tabletpc.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 942,
+				"friends_count": 2463,
+				"listed_count": 38,
+				"created_at": "Sat Jul 27 13:20:35 +0000 2013",
+				"favourites_count": 8636,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1147,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/893122945043709952/i8NQpAlA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/893122945043709952/i8NQpAlA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1625468810/1428548243",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 16 15:52:46 +0000 2018",
 		"id": 1018886163447377900,
 		"id_str": "1018886163447377920",
