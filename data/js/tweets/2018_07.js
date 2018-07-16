@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 16 13:46:39 +0000 2018",
+		"id": 1018854427745275900,
+		"id_str": "1018854427745275904",
+		"text": "RT @nwhsbusiness: It always cracks me up when I am at a conference using @msonenote and I can see the people around me giving me the “what…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nwhsbusiness",
+					"name": "Pete Morey",
+					"id": 2235155149,
+					"id_str": "2235155149",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17298,
+			"friends_count": 6324,
+			"listed_count": 572,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 16 13:12:34 +0000 2018",
+			"id": 1018845851488309200,
+			"id_str": "1018845851488309248",
+			"text": "It always cracks me up when I am at a conference using @msonenote and I can see the people around me giving me the… https://t.co/7NSrdipcRh",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							55,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7NSrdipcRh",
+						"expanded_url": "https://twitter.com/i/web/status/1018845851488309248",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2235155149,
+				"id_str": "2235155149",
+				"name": "Pete Morey",
+				"screen_name": "nwhsbusiness",
+				"location": "NorthWood HS, Indiana",
+				"description": "Campaigner for high school CS, Microsoft Innovative Educator Expert, Learner/Teacher #CSforIN #CSforALL",
+				"url": "https://t.co/m4qSw1fmdx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m4qSw1fmdx",
+								"expanded_url": "http://about.me/petemorey",
+								"display_url": "about.me/petemorey",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 174,
+				"friends_count": 101,
+				"listed_count": 20,
+				"created_at": "Sat Dec 07 22:45:46 +0000 2013",
+				"favourites_count": 112,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 431,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798224788619718657/lF9ac4kX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798224788619718657/lF9ac4kX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2235155149/1520514106",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1010ecfa7d3a40f8",
+				"url": "https://api.twitter.com/1.1/geo/id/1010ecfa7d3a40f8.json",
+				"place_type": "admin",
+				"name": "Indiana",
+				"full_name": "Indiana, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-88.097892,
+								37.771743
+							],
+							[
+								-84.78458,
+								37.771743
+							],
+							[
+								-84.78458,
+								41.761368
+							],
+							[
+								-88.097892,
+								41.761368
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 16 12:33:05 +0000 2018",
 		"id": 1018835911780524000,
 		"id_str": "1018835911780524032",
