@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 17 09:48:15 +0000 2018",
+		"id": 1019156821716631600,
+		"id_str": "1019156821716631552",
+		"text": "RT @MeganWoodall4: Using #OneNote to assist us with our poetry analysis discussions. Engagement is high. @OneNoteC @PinaHutcheson https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MeganWoodall4",
+					"name": "Megan Wintle Woodall",
+					"id": 3412616054,
+					"id_str": "3412616054",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"screen_name": "PinaHutcheson",
+					"name": "Pina Hutcheson",
+					"id": 542631561,
+					"id_str": "542631561",
+					"indices": [
+						115,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17306,
+			"friends_count": 6327,
+			"listed_count": 574,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 17 02:23:30 +0000 2018",
+			"id": 1019044896517156900,
+			"id_str": "1019044896517156865",
+			"text": "Using #OneNote to assist us with our poetry analysis discussions. Engagement is high. @OneNoteC @PinaHutcheson https://t.co/0IW4EgBCUD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							6,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							86,
+							95
+						]
+					},
+					{
+						"screen_name": "PinaHutcheson",
+						"name": "Pina Hutcheson",
+						"id": 542631561,
+						"id_str": "542631561",
+						"indices": [
+							96,
+							110
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1019044840829382700,
+						"id_str": "1019044840829382656",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DiRf4jPUcAAeSkZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiRf4jPUcAAeSkZ.jpg",
+						"url": "https://t.co/0IW4EgBCUD",
+						"display_url": "pic.twitter.com/0IW4EgBCUD",
+						"expanded_url": "https://twitter.com/MeganWoodall4/status/1019044896517156865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1530,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1019044840829382700,
+						"id_str": "1019044840829382656",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DiRf4jPUcAAeSkZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiRf4jPUcAAeSkZ.jpg",
+						"url": "https://t.co/0IW4EgBCUD",
+						"display_url": "pic.twitter.com/0IW4EgBCUD",
+						"expanded_url": "https://twitter.com/MeganWoodall4/status/1019044896517156865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1530,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 508,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1019044840816848900,
+						"id_str": "1019044840816848896",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DiRf4jMVMAAplPh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiRf4jMVMAAplPh.jpg",
+						"url": "https://t.co/0IW4EgBCUD",
+						"display_url": "pic.twitter.com/0IW4EgBCUD",
+						"expanded_url": "https://twitter.com/MeganWoodall4/status/1019044896517156865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 508,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1530,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 896,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1019044840816832500,
+						"id_str": "1019044840816832512",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DiRf4jMU8AArlMg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiRf4jMU8AArlMg.jpg",
+						"url": "https://t.co/0IW4EgBCUD",
+						"display_url": "pic.twitter.com/0IW4EgBCUD",
+						"expanded_url": "https://twitter.com/MeganWoodall4/status/1019044896517156865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 896,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 508,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1530,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3412616054,
+				"id_str": "3412616054",
+				"name": "Megan Wintle Woodall",
+				"screen_name": "MeganWoodall4",
+				"location": "",
+				"description": "Year 6 Teacher at Padbury Catholic School. Follower of faith, music, the arts and education of the whole child.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 136,
+				"friends_count": 233,
+				"listed_count": 2,
+				"created_at": "Tue Sep 01 07:58:22 +0000 2015",
+				"favourites_count": 624,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 454,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1011909049829298179/ti1rErbh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011909049829298179/ti1rErbh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3412616054/1458951522",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 16 20:14:21 +0000 2018",
 		"id": 1018951995040858100,
 		"id_str": "1018951995040858112",
