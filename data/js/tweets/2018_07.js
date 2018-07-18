@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 18 18:13:06 +0000 2018",
+		"id": 1019646255213969400,
+		"id_str": "1019646255213969409",
+		"text": "RT @meetdux: Best. Quote. Ever. @satyanadella #MSInspire #MSReady #mvpbuzz #mspartner #techforgood https://t.co/vmCIEMVWUx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSInspire",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "MSReady",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "mvpbuzz",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "mspartner",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "techforgood",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meetdux",
+					"name": "Dux @ #MSInspire",
+					"id": 14804878,
+					"id_str": "14804878",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "satyanadella",
+					"name": "Satya Nadella",
+					"id": 20571756,
+					"id_str": "20571756",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1019611998479265800,
+					"id_str": "1019611998479265795",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DiZjteIVMAMJQJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiZjteIVMAMJQJ8.jpg",
+					"url": "https://t.co/vmCIEMVWUx",
+					"display_url": "pic.twitter.com/vmCIEMVWUx",
+					"expanded_url": "https://twitter.com/meetdux/status/1019612048643125248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 259,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1019612048643125200,
+					"source_status_id_str": "1019612048643125248",
+					"source_user_id": 14804878,
+					"source_user_id_str": "14804878"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1019611998479265800,
+					"id_str": "1019611998479265795",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/DiZjteIVMAMJQJ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DiZjteIVMAMJQJ8.jpg",
+					"url": "https://t.co/vmCIEMVWUx",
+					"display_url": "pic.twitter.com/vmCIEMVWUx",
+					"expanded_url": "https://twitter.com/meetdux/status/1019612048643125248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 259,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1019612048643125200,
+					"source_status_id_str": "1019612048643125248",
+					"source_user_id": 14804878,
+					"source_user_id_str": "14804878"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17328,
+			"friends_count": 6329,
+			"listed_count": 573,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23424,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 18 15:57:10 +0000 2018",
+			"id": 1019612048643125200,
+			"id_str": "1019612048643125248",
+			"text": "Best. Quote. Ever. @satyanadella #MSInspire #MSReady #mvpbuzz #mspartner #techforgood https://t.co/vmCIEMVWUx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSInspire",
+						"indices": [
+							33,
+							43
+						]
+					},
+					{
+						"text": "MSReady",
+						"indices": [
+							44,
+							52
+						]
+					},
+					{
+						"text": "mvpbuzz",
+						"indices": [
+							53,
+							61
+						]
+					},
+					{
+						"text": "mspartner",
+						"indices": [
+							62,
+							72
+						]
+					},
+					{
+						"text": "techforgood",
+						"indices": [
+							73,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "satyanadella",
+						"name": "Satya Nadella",
+						"id": 20571756,
+						"id_str": "20571756",
+						"indices": [
+							19,
+							32
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1019611998479265800,
+						"id_str": "1019611998479265795",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DiZjteIVMAMJQJ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiZjteIVMAMJQJ8.jpg",
+						"url": "https://t.co/vmCIEMVWUx",
+						"display_url": "pic.twitter.com/vmCIEMVWUx",
+						"expanded_url": "https://twitter.com/meetdux/status/1019612048643125248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 259,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 315,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1019611998479265800,
+						"id_str": "1019611998479265795",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/DiZjteIVMAMJQJ8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DiZjteIVMAMJQJ8.jpg",
+						"url": "https://t.co/vmCIEMVWUx",
+						"display_url": "pic.twitter.com/vmCIEMVWUx",
+						"expanded_url": "https://twitter.com/meetdux/status/1019612048643125248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 259,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 315,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14804878,
+				"id_str": "14804878",
+				"name": "Dux @ #MSInspire",
+				"screen_name": "meetdux",
+				"location": "Washington, DC",
+				"description": "father & husband | equal opp #foodie | @avepoint_inc cmo | interactive storyteller | #msft rd & mvp | #techforgood advocate | relentless #learnitall",
+				"url": "https://t.co/dIQbiHaQCu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dIQbiHaQCu",
+								"expanded_url": "http://meetdux.me",
+								"display_url": "meetdux.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13179,
+				"friends_count": 992,
+				"listed_count": 1100,
+				"created_at": "Fri May 16 22:14:21 +0000 2008",
+				"favourites_count": 395,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 60963,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919481612110360578/xaXvjtTC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919481612110360578/xaXvjtTC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14804878/1527513655",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "8fa6d7a33b83ef26",
+				"url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json",
+				"place_type": "city",
+				"name": "Paradise",
+				"full_name": "Paradise, NV",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-115.2092535,
+								35.984784
+							],
+							[
+								-115.0610763,
+								35.984784
+							],
+							[
+								-115.0610763,
+								36.137145
+							],
+							[
+								-115.2092535,
+								36.137145
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 18 17:31:36 +0000 2018",
+		"id": 1019635811858427900,
+		"id_str": "1019635811858427906",
+		"text": "@Mr_G_ICT @OneNoteEDU Hi Ben, allow me address your request. I'm not aware of such a video, but maybe I can still g… https://t.co/DmPZvyBN4F",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mr_G_ICT",
+					"name": "Ben Gristwood",
+					"id": 11655262,
+					"id_str": "11655262",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						10,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DmPZvyBN4F",
+					"expanded_url": "https://twitter.com/i/web/status/1019635811858427906",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1019560304135540700,
+		"in_reply_to_status_id_str": "1019560304135540736",
+		"in_reply_to_user_id": 11655262,
+		"in_reply_to_user_id_str": "11655262",
+		"in_reply_to_screen_name": "Mr_G_ICT",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17328,
+			"friends_count": 6329,
+			"listed_count": 573,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23424,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 18 15:34:31 +0000 2018",
 		"id": 1019606346419851300,
 		"id_str": "1019606346419851264",
