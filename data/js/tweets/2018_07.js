@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 19 23:04:40 +0000 2018",
+		"id": 1020082020331016200,
+		"id_str": "1020082020331016197",
+		"text": "RT @mariannemcgah: Took a hybrid of notes and #sketchnotes after reading \"Off the Clock\" by @lvanderkam Such a great book with practical an…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sketchnotes",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mariannemcgah",
+					"name": "Marianne McGah",
+					"id": 2220740071,
+					"id_str": "2220740071",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "lvanderkam",
+					"name": "Laura Vanderkam",
+					"id": 36440780,
+					"id_str": "36440780",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17359,
+			"friends_count": 6333,
+			"listed_count": 575,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23440,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 18 21:45:45 +0000 2018",
+			"id": 1019699771789869000,
+			"id_str": "1019699771789869056",
+			"text": "Took a hybrid of notes and #sketchnotes after reading \"Off the Clock\" by @lvanderkam Such a great book with practic… https://t.co/B0w0rAz5W4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sketchnotes",
+						"indices": [
+							27,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lvanderkam",
+						"name": "Laura Vanderkam",
+						"id": 36440780,
+						"id_str": "36440780",
+						"indices": [
+							73,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/B0w0rAz5W4",
+						"expanded_url": "https://twitter.com/i/web/status/1019699771789869056",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2220740071,
+				"id_str": "2220740071",
+				"name": "Marianne McGah",
+				"screen_name": "mariannemcgah",
+				"location": "Seattle, WA",
+				"description": "Learner. Teacher. Leader. Optimist. Collaborator. Ed.D. Wife and mom. Catholic education supporter. #MIEExpert",
+				"url": "https://t.co/7bnMtV38ye",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7bnMtV38ye",
+								"expanded_url": "http://www.mariannemcgah.com",
+								"display_url": "mariannemcgah.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 137,
+				"friends_count": 296,
+				"listed_count": 12,
+				"created_at": "Fri Nov 29 03:24:30 +0000 2013",
+				"favourites_count": 1873,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 289,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1010213836924710912/cLuureo0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010213836924710912/cLuureo0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2220740071/1407813926",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 19 22:06:05 +0000 2018",
 		"id": 1020067277541126100,
 		"id_str": "1020067277541126146",
