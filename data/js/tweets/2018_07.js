@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 19 17:47:08 +0000 2018",
+		"id": 1020002109247369200,
+		"id_str": "1020002109247369222",
+		"text": "@DarrellaaS @_achu @Office365 @buckleyplanet @pomealan @nickwestbrook @neop26 @dscottraynsford @gavinbarron… https://t.co/fXPBBRGgdw",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DarrellaaS",
+					"name": "Darrell as a Service",
+					"id": 401809242,
+					"id_str": "401809242",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "_achu",
+					"name": "Anna Chu",
+					"id": 108465929,
+					"id_str": "108465929",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"screen_name": "buckleyplanet",
+					"name": "Christian Buckley",
+					"id": 14838585,
+					"id_str": "14838585",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "pomealan",
+					"name": "Alan Marshall",
+					"id": 82699271,
+					"id_str": "82699271",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "nickwestbrook",
+					"name": "Nick Westbrook",
+					"id": 38062856,
+					"id_str": "38062856",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"screen_name": "neop26",
+					"name": "Aben Samuel",
+					"id": 20127567,
+					"id_str": "20127567",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"screen_name": "dscottraynsford",
+					"name": "Dan Scott-Raynsford",
+					"id": 4349281334,
+					"id_str": "4349281334",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"screen_name": "gavinbarron",
+					"name": "Gavin Barron #RubberDuckyDebugger",
+					"id": 209304536,
+					"id_str": "209304536",
+					"indices": [
+						95,
+						107
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fXPBBRGgdw",
+					"expanded_url": "https://twitter.com/i/web/status/1020002109247369222",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1019959998380617700,
+		"in_reply_to_status_id_str": "1019959998380617729",
+		"in_reply_to_user_id": 401809242,
+		"in_reply_to_user_id_str": "401809242",
+		"in_reply_to_screen_name": "DarrellaaS",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17352,
+			"friends_count": 6331,
+			"listed_count": 575,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23432,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 19 17:37:26 +0000 2018",
+		"id": 1019999670809096200,
+		"id_str": "1019999670809096194",
+		"text": "Details matter. \nNice summary by Paul Thurrott of all the new feature updates in #OneNote for #Windows10 announced… https://t.co/5B6Ac6DPbu",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5B6Ac6DPbu",
+					"expanded_url": "https://twitter.com/i/web/status/1019999670809096194",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17352,
+			"friends_count": 6331,
+			"listed_count": 575,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23432,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1019929873878536200,
+		"quoted_status_id_str": "1019929873878536192",
+		"quoted_status": {
+			"created_at": "Thu Jul 19 13:00:05 +0000 2018",
+			"id": 1019929873878536200,
+			"id_str": "1019929873878536192",
+			"text": "OneNote for Windows 10 Gets a Major Update - https://t.co/PZMai0bKSw https://t.co/oV7wzoXJgb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PZMai0bKSw",
+						"expanded_url": "https://www.thurrott.com/windows/windows-10/163585/onenote-windows-10-gets-major-update",
+						"display_url": "thurrott.com/windows/window…",
+						"indices": [
+							45,
+							68
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1019929871663984600,
+						"id_str": "1019929871663984641",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DieE0IBXcAEUB1K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DieE0IBXcAEUB1K.jpg",
+						"url": "https://t.co/oV7wzoXJgb",
+						"display_url": "pic.twitter.com/oV7wzoXJgb",
+						"expanded_url": "https://twitter.com/thurrott/status/1019929873878536192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1019929871663984600,
+						"id_str": "1019929871663984641",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DieE0IBXcAEUB1K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DieE0IBXcAEUB1K.jpg",
+						"url": "https://t.co/oV7wzoXJgb",
+						"display_url": "pic.twitter.com/oV7wzoXJgb",
+						"expanded_url": "https://twitter.com/thurrott/status/1019929873878536192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.thurrott.com\" rel=\"nofollow\">Thurrott Dot Com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14964767,
+				"id_str": "14964767",
+				"name": "Paul Thurrott",
+				"screen_name": "thurrott",
+				"location": "Emmaus, PA",
+				"description": "Paul Thurrott is an award-winning technology journalist and blogger and the author of over 25 books. He is the majordomo at http://t.co/DpuqUugruE.",
+				"url": "http://t.co/HTMQCSc0Np",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HTMQCSc0Np",
+								"expanded_url": "http://www.thurrott.com",
+								"display_url": "thurrott.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/DpuqUugruE",
+								"expanded_url": "http://Thurrott.com",
+								"display_url": "Thurrott.com",
+								"indices": [
+									124,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 114757,
+				"friends_count": 127,
+				"listed_count": 6362,
+				"created_at": "Sat May 31 17:47:07 +0000 2008",
+				"favourites_count": 4362,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 104519,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/819277710988025856/0Nma3VWJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/819277710988025856/0Nma3VWJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14964767/1444060559",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 19 17:25:44 +0000 2018",
+		"id": 1019996724734152700,
+		"id_str": "1019996724734152704",
+		"text": "@preeti0716 @DPSI_Edge @shwetaa0505 @aditi1389 @Aanchal_2 Hi Preeti. \nGreat to see so many teachers engaged during… https://t.co/FDEklScIQC",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "preeti0716",
+					"name": "Preeti Singhal",
+					"id": 2906760224,
+					"id_str": "2906760224",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "DPSI_Edge",
+					"name": "DPS International",
+					"id": 2494294250,
+					"id_str": "2494294250",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "shwetaa0505",
+					"name": "shweta agarwal",
+					"id": 816706512,
+					"id_str": "816706512",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "aditi1389",
+					"name": "Aditi Mehra",
+					"id": 2996921928,
+					"id_str": "2996921928",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "Aanchal_2",
+					"name": "Aanchal Sharma",
+					"id": 2517425737,
+					"id_str": "2517425737",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FDEklScIQC",
+					"expanded_url": "https://twitter.com/i/web/status/1019996724734152704",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1019939024994091000,
+		"in_reply_to_status_id_str": "1019939024994091009",
+		"in_reply_to_user_id": 2906760224,
+		"in_reply_to_user_id_str": "2906760224",
+		"in_reply_to_screen_name": "preeti0716",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17352,
+			"friends_count": 6331,
+			"listed_count": 575,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23432,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 19 17:14:03 +0000 2018",
 		"id": 1019993782803157000,
 		"id_str": "1019993782803156992",
