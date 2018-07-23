@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 23 02:43:48 +0000 2018",
+		"id": 1021224328564695000,
+		"id_str": "1021224328564695040",
+		"text": "Rainbow Ink just never gets boring, don't you agree?\nJennifer Boren uses the ink effects in #OneNote for #Windows10… https://t.co/wR85c6Sq7J",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wR85c6Sq7J",
+					"expanded_url": "https://twitter.com/i/web/status/1021224328564695040",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17396,
+			"friends_count": 6351,
+			"listed_count": 574,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1021145788003516400,
+		"quoted_status_id_str": "1021145788003516416",
+		"quoted_status": {
+			"created_at": "Sun Jul 22 21:31:42 +0000 2018",
+			"id": 1021145788003516400,
+			"id_str": "1021145788003516416",
+			"text": "Glitter rainbow ink with @OneNoteEDU makes me happy when I #sketchnote 🌈🖍📝#ILA2018 #ReadSketchThink https://t.co/5DJf645ABM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sketchnote",
+						"indices": [
+							59,
+							70
+						]
+					},
+					{
+						"text": "ILA2018",
+						"indices": [
+							74,
+							82
+						]
+					},
+					{
+						"text": "ReadSketchThink",
+						"indices": [
+							83,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							25,
+							36
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1021145773776355300,
+						"id_str": "1021145773776355328",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DivWq8XUwAAY1Co.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DivWq8XUwAAY1Co.jpg",
+						"url": "https://t.co/5DJf645ABM",
+						"display_url": "pic.twitter.com/5DJf645ABM",
+						"expanded_url": "https://twitter.com/JborenJennifer/status/1021145788003516416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1537,
+								"h": 828,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 646,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1021145773776355300,
+						"id_str": "1021145773776355328",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DivWq8XUwAAY1Co.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DivWq8XUwAAY1Co.jpg",
+						"url": "https://t.co/5DJf645ABM",
+						"display_url": "pic.twitter.com/5DJf645ABM",
+						"expanded_url": "https://twitter.com/JborenJennifer/status/1021145788003516416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1537,
+								"h": 828,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 646,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 366,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759822338628005900,
+				"id_str": "759822338628005888",
+				"name": "Jennifer Boren",
+				"screen_name": "JborenJennifer",
+				"location": "Collierville, TN",
+				"description": "Library Media Specialist Lead - Collierville Schools, Apple Teacher, Reader, Writer, Mommy, Wife📚❤️",
+				"url": "https://t.co/mQmV6x1xlW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mQmV6x1xlW",
+								"expanded_url": "http://bookjabber.wordpress.com",
+								"display_url": "bookjabber.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 643,
+				"friends_count": 978,
+				"listed_count": 34,
+				"created_at": "Sun Jul 31 18:45:37 +0000 2016",
+				"favourites_count": 10842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2867,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013136284959821825/WQFdW0Vz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013136284959821825/WQFdW0Vz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759822338628005888/1530385489",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "c3f37afa9efcf94b",
+				"url": "https://api.twitter.com/1.1/geo/id/c3f37afa9efcf94b.json",
+				"place_type": "city",
+				"name": "Austin",
+				"full_name": "Austin, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.928935,
+								30.127892
+							],
+							[
+								-97.5805133,
+								30.127892
+							],
+							[
+								-97.5805133,
+								30.5187994
+							],
+							[
+								-97.928935,
+								30.5187994
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 23 01:05:07 +0000 2018",
 		"id": 1021199498037477400,
 		"id_str": "1021199498037477377",
