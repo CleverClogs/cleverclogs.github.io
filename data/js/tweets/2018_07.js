@@ -1,6 +1,1396 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Sat Jul 28 22:19:04 +0000 2018",
+		"id": 1023332036633944000,
+		"id_str": "1023332036633944070",
+		"text": "IT pro Phil Margett is a big fan of #OneNote in Education. With #digitalink in mind, he has recently settled on buy… https://t.co/4EipJJOJxe",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"text": "digitalink",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4EipJJOJxe",
+					"expanded_url": "https://twitter.com/i/web/status/1023332036633944070",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17463,
+			"friends_count": 6352,
+			"listed_count": 574,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 28 21:55:22 +0000 2018",
+		"id": 1023326073231011800,
+		"id_str": "1023326073231011840",
+		"text": "RT @WindowsUK: Did you know about this new Snipping tool shortcut key? Give it a try 😉\n#Windows10 https://t.co/h1dzx43VTw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Windows10",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WindowsUK",
+					"name": "Windows UK",
+					"id": 82443066,
+					"id_str": "82443066",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1023108300676583400,
+					"id_str": "1023108300676583424",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1023108300676583424/img/xi_QLb6OJbh_00Ww.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1023108300676583424/img/xi_QLb6OJbh_00Ww.jpg",
+					"url": "https://t.co/h1dzx43VTw",
+					"display_url": "pic.twitter.com/h1dzx43VTw",
+					"expanded_url": "https://twitter.com/WindowsUK/status/1023108349381017600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1023108349381017600,
+					"source_status_id_str": "1023108349381017600",
+					"source_user_id": 82443066,
+					"source_user_id_str": "82443066"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1023108300676583400,
+					"id_str": "1023108300676583424",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1023108300676583424/img/xi_QLb6OJbh_00Ww.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1023108300676583424/img/xi_QLb6OJbh_00Ww.jpg",
+					"url": "https://t.co/h1dzx43VTw",
+					"display_url": "pic.twitter.com/h1dzx43VTw",
+					"expanded_url": "https://twitter.com/WindowsUK/status/1023108349381017600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1023108349381017600,
+					"source_status_id_str": "1023108349381017600",
+					"source_user_id": 82443066,
+					"source_user_id_str": "82443066",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 8141,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1023108300676583424/vid/1280x720/neQBZBmMs8xBbZIe.mp4?tag=7"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1023108300676583424/vid/320x180/s0yJbEyYWDL5XjqO.mp4?tag=7"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1023108300676583424/pl/A7Wt3AIpxrgaqc0B.m3u8?tag=7"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1023108300676583424/vid/640x360/o_xjCdEiIUujEhGv.mp4?tag=7"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 82443066,
+							"id_str": "82443066",
+							"name": "Windows UK",
+							"screen_name": "WindowsUK",
+							"location": "UK",
+							"description": "Your official UK source for all things Windows - Response times: M-F from 9am - 5.30pm GMT - For technical support, follow @MicrosoftHelps",
+							"url": "https://t.co/cyqjahUOsf",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/cyqjahUOsf",
+											"expanded_url": "https://support.microsoft.com/en-gb",
+											"display_url": "support.microsoft.com/en-gb",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 26345,
+							"friends_count": 72,
+							"listed_count": 388,
+							"created_at": "Wed Oct 14 19:57:31 +0000 2009",
+							"favourites_count": 1743,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 9803,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/767719810604097536/pjwqlYh8_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/767719810604097536/pjwqlYh8_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/82443066/1489055896",
+							"profile_link_color": "0078D7",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17463,
+			"friends_count": 6352,
+			"listed_count": 574,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 28 07:30:13 +0000 2018",
+			"id": 1023108349381017600,
+			"id_str": "1023108349381017600",
+			"text": "Did you know about this new Snipping tool shortcut key? Give it a try 😉\n#Windows10 https://t.co/h1dzx43VTw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Windows10",
+						"indices": [
+							72,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1023108300676583400,
+						"id_str": "1023108300676583424",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1023108300676583424/img/xi_QLb6OJbh_00Ww.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1023108300676583424/img/xi_QLb6OJbh_00Ww.jpg",
+						"url": "https://t.co/h1dzx43VTw",
+						"display_url": "pic.twitter.com/h1dzx43VTw",
+						"expanded_url": "https://twitter.com/WindowsUK/status/1023108349381017600/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1023108300676583400,
+						"id_str": "1023108300676583424",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1023108300676583424/img/xi_QLb6OJbh_00Ww.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1023108300676583424/img/xi_QLb6OJbh_00Ww.jpg",
+						"url": "https://t.co/h1dzx43VTw",
+						"display_url": "pic.twitter.com/h1dzx43VTw",
+						"expanded_url": "https://twitter.com/WindowsUK/status/1023108349381017600/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 8141,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1023108300676583424/vid/1280x720/neQBZBmMs8xBbZIe.mp4?tag=7"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1023108300676583424/vid/320x180/s0yJbEyYWDL5XjqO.mp4?tag=7"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1023108300676583424/pl/A7Wt3AIpxrgaqc0B.m3u8?tag=7"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1023108300676583424/vid/640x360/o_xjCdEiIUujEhGv.mp4?tag=7"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82443066,
+				"id_str": "82443066",
+				"name": "Windows UK",
+				"screen_name": "WindowsUK",
+				"location": "UK",
+				"description": "Your official UK source for all things Windows - Response times: M-F from 9am - 5.30pm GMT - For technical support, follow @MicrosoftHelps",
+				"url": "https://t.co/cyqjahUOsf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cyqjahUOsf",
+								"expanded_url": "https://support.microsoft.com/en-gb",
+								"display_url": "support.microsoft.com/en-gb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26345,
+				"friends_count": 72,
+				"listed_count": 388,
+				"created_at": "Wed Oct 14 19:57:31 +0000 2009",
+				"favourites_count": 1743,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9803,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767719810604097536/pjwqlYh8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767719810604097536/pjwqlYh8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82443066/1489055896",
+				"profile_link_color": "0078D7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 28 21:40:08 +0000 2018",
+		"id": 1023322237254791200,
+		"id_str": "1023322237254791168",
+		"text": "RT @varunprakash: Kudos to @msonenote and @Office365 for making note taking fluid on the @Apple watch ⌚️ https://t.co/BdPgP0mbyn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "varunprakash",
+					"name": "Varun Prakash",
+					"id": 30830511,
+					"id_str": "30830511",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "Apple",
+					"name": "Apple",
+					"id": 380749300,
+					"id_str": "380749300",
+					"indices": [
+						89,
+						95
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1023180405833252900,
+					"id_str": "1023180405833252865",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DjMRKHbUwAED_Je.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjMRKHbUwAED_Je.jpg",
+					"url": "https://t.co/BdPgP0mbyn",
+					"display_url": "pic.twitter.com/BdPgP0mbyn",
+					"expanded_url": "https://twitter.com/varunprakash/status/1023180412472840193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 312,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 312,
+							"h": 390,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 312,
+							"h": 390,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1023180412472840200,
+					"source_status_id_str": "1023180412472840193",
+					"source_user_id": 30830511,
+					"source_user_id_str": "30830511"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1023180405833252900,
+					"id_str": "1023180405833252865",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DjMRKHbUwAED_Je.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjMRKHbUwAED_Je.jpg",
+					"url": "https://t.co/BdPgP0mbyn",
+					"display_url": "pic.twitter.com/BdPgP0mbyn",
+					"expanded_url": "https://twitter.com/varunprakash/status/1023180412472840193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 312,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 312,
+							"h": 390,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 312,
+							"h": 390,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1023180412472840200,
+					"source_status_id_str": "1023180412472840193",
+					"source_user_id": 30830511,
+					"source_user_id_str": "30830511"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17463,
+			"friends_count": 6352,
+			"listed_count": 574,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 28 12:16:34 +0000 2018",
+			"id": 1023180412472840200,
+			"id_str": "1023180412472840193",
+			"text": "Kudos to @msonenote and @Office365 for making note taking fluid on the @Apple watch ⌚️ https://t.co/BdPgP0mbyn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							9,
+							19
+						]
+					},
+					{
+						"screen_name": "Office365",
+						"name": "Office 365",
+						"id": 137365854,
+						"id_str": "137365854",
+						"indices": [
+							24,
+							34
+						]
+					},
+					{
+						"screen_name": "Apple",
+						"name": "Apple",
+						"id": 380749300,
+						"id_str": "380749300",
+						"indices": [
+							71,
+							77
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1023180405833252900,
+						"id_str": "1023180405833252865",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DjMRKHbUwAED_Je.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjMRKHbUwAED_Je.jpg",
+						"url": "https://t.co/BdPgP0mbyn",
+						"display_url": "pic.twitter.com/BdPgP0mbyn",
+						"expanded_url": "https://twitter.com/varunprakash/status/1023180412472840193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 312,
+								"h": 390,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 312,
+								"h": 390,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 312,
+								"h": 390,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1023180405833252900,
+						"id_str": "1023180405833252865",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/DjMRKHbUwAED_Je.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjMRKHbUwAED_Je.jpg",
+						"url": "https://t.co/BdPgP0mbyn",
+						"display_url": "pic.twitter.com/BdPgP0mbyn",
+						"expanded_url": "https://twitter.com/varunprakash/status/1023180412472840193/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 312,
+								"h": 390,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 312,
+								"h": 390,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 312,
+								"h": 390,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30830511,
+				"id_str": "30830511",
+				"name": "Varun Prakash",
+				"screen_name": "varunprakash",
+				"location": "Bengaluru, India",
+				"description": "R&D #Marketing Lead @Wipro #InnovationAtWipro #AI, #Robotics, #Crowdsourcing, #OpenInnovation enthusiast. Travel, photography, food, auto lover. Thoughts my own",
+				"url": "https://t.co/dnWt9beeRe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dnWt9beeRe",
+								"expanded_url": "http://about.me/varunprakash",
+								"display_url": "about.me/varunprakash",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 610,
+				"friends_count": 761,
+				"listed_count": 71,
+				"created_at": "Mon Apr 13 08:13:42 +0000 2009",
+				"favourites_count": 1326,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3670,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "585C5E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1248842100/Me_in_B_W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248842100/Me_in_B_W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30830511/1497791399",
+				"profile_link_color": "191970",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "183249",
+				"profile_text_color": "A5A188",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jul 28 21:24:44 +0000 2018",
+		"id": 1023318363714412500,
+		"id_str": "1023318363714412544",
+		"text": "RT @NicoleSid18: Future #OneNote aficionado came to help me in my class today! https://t.co/QvsNtZAHbV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NicoleSid18",
+					"name": "Nicole Szydlowski",
+					"id": 784741105787138000,
+					"id_str": "784741105787138048",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1023240003361681400,
+					"id_str": "1023240003361681408",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DjNHXJhXsAAQxt4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjNHXJhXsAAQxt4.jpg",
+					"url": "https://t.co/QvsNtZAHbV",
+					"display_url": "pic.twitter.com/QvsNtZAHbV",
+					"expanded_url": "https://twitter.com/NicoleSid18/status/1023240012186484736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1023240012186484700,
+					"source_status_id_str": "1023240012186484736",
+					"source_user_id": 784741105787138000,
+					"source_user_id_str": "784741105787138048"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1023240003361681400,
+					"id_str": "1023240003361681408",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DjNHXJhXsAAQxt4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjNHXJhXsAAQxt4.jpg",
+					"url": "https://t.co/QvsNtZAHbV",
+					"display_url": "pic.twitter.com/QvsNtZAHbV",
+					"expanded_url": "https://twitter.com/NicoleSid18/status/1023240012186484736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1023240012186484700,
+					"source_status_id_str": "1023240012186484736",
+					"source_user_id": 784741105787138000,
+					"source_user_id_str": "784741105787138048"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17463,
+			"friends_count": 6352,
+			"listed_count": 574,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23492,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 28 16:13:24 +0000 2018",
+			"id": 1023240012186484700,
+			"id_str": "1023240012186484736",
+			"text": "Future #OneNote aficionado came to help me in my class today! https://t.co/QvsNtZAHbV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							7,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1023240003361681400,
+						"id_str": "1023240003361681408",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DjNHXJhXsAAQxt4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjNHXJhXsAAQxt4.jpg",
+						"url": "https://t.co/QvsNtZAHbV",
+						"display_url": "pic.twitter.com/QvsNtZAHbV",
+						"expanded_url": "https://twitter.com/NicoleSid18/status/1023240012186484736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1023240003361681400,
+						"id_str": "1023240003361681408",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DjNHXJhXsAAQxt4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjNHXJhXsAAQxt4.jpg",
+						"url": "https://t.co/QvsNtZAHbV",
+						"display_url": "pic.twitter.com/QvsNtZAHbV",
+						"expanded_url": "https://twitter.com/NicoleSid18/status/1023240012186484736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 784741105787138000,
+				"id_str": "784741105787138048",
+				"name": "Nicole Szydlowski",
+				"screen_name": "NicoleSid18",
+				"location": "Seminole, FL",
+				"description": "Passionate about Language Arts, using technology to ENHANCE learning, Gifted education, personalized learning, and flexible seating. MIE expert. Go Bulls!!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48,
+				"friends_count": 58,
+				"listed_count": 5,
+				"created_at": "Sat Oct 08 13:03:54 +0000 2016",
+				"favourites_count": 78,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784913102840160256/nbdGULn0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784913102840160256/nbdGULn0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/784741105787138048/1476282730",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 28 06:27:31 +0000 2018",
 		"id": 1023092571101261800,
 		"id_str": "1023092571101261825",
