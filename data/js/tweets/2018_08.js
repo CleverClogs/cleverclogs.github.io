@@ -1,6 +1,923 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 02 10:08:36 +0000 2018",
+		"id": 1024960145040781300,
+		"id_str": "1024960145040781313",
+		"text": "RT @kurtsoeser: There are so many possibilities with @MicrosoftFlow . I highly recommend have more than just a look... Especially for educa…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kurtsoeser",
+					"name": "Kurt Söser",
+					"id": 55684861,
+					"id_str": "55684861",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "MicrosoftFlow",
+					"name": "Microsoft Flow",
+					"id": 722190257244889100,
+					"id_str": "722190257244889088",
+					"indices": [
+						53,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17544,
+			"friends_count": 6480,
+			"listed_count": 577,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23557,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 02 10:04:32 +0000 2018",
+			"id": 1024959121592930300,
+			"id_str": "1024959121592930304",
+			"text": "There are so many possibilities with @MicrosoftFlow . I highly recommend have more than just a look... Especially f… https://t.co/ZAje6EKkdy",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftFlow",
+						"name": "Microsoft Flow",
+						"id": 722190257244889100,
+						"id_str": "722190257244889088",
+						"indices": [
+							37,
+							51
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZAje6EKkdy",
+						"expanded_url": "https://twitter.com/i/web/status/1024959121592930304",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55684861,
+				"id_str": "55684861",
+				"name": "Kurt Söser",
+				"screen_name": "kurtsoeser",
+				"location": "Steyr",
+				"description": "Teacherpreneur, Founder #kurtrocks https://t.co/jMbDivkS2g, Founder #o365school, project #hackonenote #OneNote-Geek, #GeoGebra-Trainer, #MIEFellow",
+				"url": "https://t.co/YuXn55ybx6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YuXn55ybx6",
+								"expanded_url": "http://www.kurtsoeser.at",
+								"display_url": "kurtsoeser.at",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jMbDivkS2g",
+								"expanded_url": "http://edu.innovation.consulting",
+								"display_url": "edu.innovation.consulting",
+								"indices": [
+									35,
+									58
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3132,
+				"friends_count": 2088,
+				"listed_count": 210,
+				"created_at": "Fri Jul 10 22:35:55 +0000 2009",
+				"favourites_count": 7178,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7121,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973860523086368768/z9IzlA9t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973860523086368768/z9IzlA9t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55684861/1528490787",
+				"profile_link_color": "2F2F2F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1024754869306052600,
+			"quoted_status_id_str": "1024754869306052608",
+			"quoted_status": {
+				"created_at": "Wed Aug 01 20:32:54 +0000 2018",
+				"id": 1024754869306052600,
+				"id_str": "1024754869306052608",
+				"text": "With @MicrosoftFlow connectors, you can get all your content, tools, and conversations in the #MicrosoftTeams works… https://t.co/nzMhEWD8B4",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "MicrosoftTeams",
+							"indices": [
+								94,
+								109
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "MicrosoftFlow",
+							"name": "Microsoft Flow",
+							"id": 722190257244889100,
+							"id_str": "722190257244889088",
+							"indices": [
+								5,
+								19
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/nzMhEWD8B4",
+							"expanded_url": "https://twitter.com/i/web/status/1024754869306052608",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod1</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"name": "Microsoft Teams",
+					"screen_name": "MicrosoftTeams",
+					"location": "",
+					"description": "Bring together all of your team’s conversations, files, and tools in a single workspace with Microsoft Teams in Office 365.",
+					"url": "https://t.co/adqJO08EVS",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/adqJO08EVS",
+									"expanded_url": "http://msft.social/MicrosoftTeams",
+									"display_url": "msft.social/MicrosoftTeams",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 70512,
+					"friends_count": 249,
+					"listed_count": 352,
+					"created_at": "Fri Jan 06 20:02:13 +0000 2017",
+					"favourites_count": 723,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 5291,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/873316258980036608/QXYh4F8U_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/873316258980036608/QXYh4F8U_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/817461289081409536/1496693898",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": true,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 35,
+				"favorite_count": 67,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1024754869306052600,
+		"quoted_status_id_str": "1024754869306052608",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 02 09:37:26 +0000 2018",
+		"id": 1024952304368267300,
+		"id_str": "1024952304368267265",
+		"text": "@chriscummingsHH @mllmw Just in case it is of interest: there's a sizable community of very active math teachers wh… https://t.co/4EIXpADBNF",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chriscummingsHH",
+					"name": "Christina Cummings",
+					"id": 3079496909,
+					"id_str": "3079496909",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "mllmw",
+					"name": "Ⓜⓐⓡⓚ Ⓦⓘⓖⓐⓝⓓ",
+					"id": 1692068538,
+					"id_str": "1692068538",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4EIXpADBNF",
+					"expanded_url": "https://twitter.com/i/web/status/1024952304368267265",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1024640498412277800,
+		"in_reply_to_status_id_str": "1024640498412277760",
+		"in_reply_to_user_id": 3079496909,
+		"in_reply_to_user_id_str": "3079496909",
+		"in_reply_to_screen_name": "chriscummingsHH",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17544,
+			"friends_count": 6480,
+			"listed_count": 577,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23557,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 02 09:32:18 +0000 2018",
+		"id": 1024951013638332400,
+		"id_str": "1024951013638332416",
+		"text": "RT @SoniaCuff: Is it wrong to take all my #CDASummit notes in rainbow ink?\n#AzOps #AzureAvengers #Surface #OneNote https://t.co/NYTu65Pee6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CDASummit",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"text": "AzOps",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "AzureAvengers",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"text": "Surface",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						106,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SoniaCuff",
+					"name": "Sonia Cuff",
+					"id": 487103501,
+					"id_str": "487103501",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1024688079188058100,
+					"id_str": "1024688079188058112",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DjhsYQWU4AAINpI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjhsYQWU4AAINpI.jpg",
+					"url": "https://t.co/NYTu65Pee6",
+					"display_url": "pic.twitter.com/NYTu65Pee6",
+					"expanded_url": "https://twitter.com/SoniaCuff/status/1024688092483964928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 602,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1024688092483964900,
+					"source_status_id_str": "1024688092483964928",
+					"source_user_id": 487103501,
+					"source_user_id_str": "487103501"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1024688079188058100,
+					"id_str": "1024688079188058112",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DjhsYQWU4AAINpI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjhsYQWU4AAINpI.jpg",
+					"url": "https://t.co/NYTu65Pee6",
+					"display_url": "pic.twitter.com/NYTu65Pee6",
+					"expanded_url": "https://twitter.com/SoniaCuff/status/1024688092483964928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 602,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1024688092483964900,
+					"source_status_id_str": "1024688092483964928",
+					"source_user_id": 487103501,
+					"source_user_id_str": "487103501"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17544,
+			"friends_count": 6480,
+			"listed_count": 577,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 25972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23557,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 01 16:07:33 +0000 2018",
+			"id": 1024688092483964900,
+			"id_str": "1024688092483964928",
+			"text": "Is it wrong to take all my #CDASummit notes in rainbow ink?\n#AzOps #AzureAvengers #Surface #OneNote https://t.co/NYTu65Pee6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CDASummit",
+						"indices": [
+							27,
+							37
+						]
+					},
+					{
+						"text": "AzOps",
+						"indices": [
+							60,
+							66
+						]
+					},
+					{
+						"text": "AzureAvengers",
+						"indices": [
+							67,
+							81
+						]
+					},
+					{
+						"text": "Surface",
+						"indices": [
+							82,
+							90
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							91,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1024688079188058100,
+						"id_str": "1024688079188058112",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DjhsYQWU4AAINpI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjhsYQWU4AAINpI.jpg",
+						"url": "https://t.co/NYTu65Pee6",
+						"display_url": "pic.twitter.com/NYTu65Pee6",
+						"expanded_url": "https://twitter.com/SoniaCuff/status/1024688092483964928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 602,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 602,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1024688079188058100,
+						"id_str": "1024688079188058112",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DjhsYQWU4AAINpI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjhsYQWU4AAINpI.jpg",
+						"url": "https://t.co/NYTu65Pee6",
+						"display_url": "pic.twitter.com/NYTu65Pee6",
+						"expanded_url": "https://twitter.com/SoniaCuff/status/1024688092483964928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 602,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 602,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 487103501,
+				"id_str": "487103501",
+				"name": "Sonia Cuff",
+				"screen_name": "SoniaCuff",
+				"location": "Brisbane, Australia",
+				"description": "Cloud Ops Advocate, Azure @ Microsoft, champion of IT Ops/IT Pros, emergency services volunteer, https://t.co/b1OscoDFpJ",
+				"url": "https://t.co/k6Fl4ccr26",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k6Fl4ccr26",
+								"expanded_url": "http://SoniaCuff.com",
+								"display_url": "SoniaCuff.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/b1OscoDFpJ",
+								"expanded_url": "http://Instagram.com/cuff_s/",
+								"display_url": "Instagram.com/cuff_s/",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5071,
+				"friends_count": 4689,
+				"listed_count": 487,
+				"created_at": "Thu Feb 09 00:43:53 +0000 2012",
+				"favourites_count": 13243,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47779,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948347335242739712/zRLsT4DM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948347335242739712/zRLsT4DM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/487103501/1488615161",
+				"profile_link_color": "0A0675",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 02 09:09:53 +0000 2018",
 		"id": 1024945370516709400,
 		"id_str": "1024945370516709376",
@@ -654,7 +1571,7 @@ Grailbird.data.tweets_2018_08 =
 			"user_mentions": [
 				{
 					"screen_name": "sarahhbickerton",
-					"name": "Sarah Hendrica Bickerton 👩🏻‍💻",
+					"name": "Sarah Hendrica Bickerton 👩🏻💻",
 					"id": 97769756,
 					"id_str": "97769756",
 					"indices": [
@@ -920,7 +1837,7 @@ Grailbird.data.tweets_2018_08 =
 			"user_mentions": [
 				{
 					"screen_name": "sarahhbickerton",
-					"name": "Sarah Hendrica Bickerton 👩🏻‍💻",
+					"name": "Sarah Hendrica Bickerton 👩🏻💻",
 					"id": 97769756,
 					"id_str": "97769756",
 					"indices": [
@@ -1051,7 +1968,7 @@ Grailbird.data.tweets_2018_08 =
 				},
 				{
 					"screen_name": "sarahhbickerton",
-					"name": "Sarah Hendrica Bickerton 👩🏻‍💻",
+					"name": "Sarah Hendrica Bickerton 👩🏻💻",
 					"id": 97769756,
 					"id_str": "97769756",
 					"indices": [
@@ -1145,7 +2062,7 @@ Grailbird.data.tweets_2018_08 =
 				"user_mentions": [
 					{
 						"screen_name": "sarahhbickerton",
-						"name": "Sarah Hendrica Bickerton 👩🏻‍💻",
+						"name": "Sarah Hendrica Bickerton 👩🏻💻",
 						"id": 97769756,
 						"id_str": "97769756",
 						"indices": [
