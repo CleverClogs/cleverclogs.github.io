@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 03 07:50:33 +0000 2018",
+		"id": 1025287792706957300,
+		"id_str": "1025287792706957312",
+		"text": "RT @IanMikutel: Love seeing the creativity &amp; collaboration pouring onto the canvas by @racslife_ in Microsoft Whiteboard. This is why we bu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanMikutel",
+					"name": "Ian Mikutel",
+					"id": 2157421,
+					"id_str": "2157421",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "racslife_",
+					"name": "RAC",
+					"id": 390090443,
+					"id_str": "390090443",
+					"indices": [
+						90,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17586,
+			"friends_count": 6507,
+			"listed_count": 578,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 03 06:44:34 +0000 2018",
+			"id": 1025271187243323400,
+			"id_str": "1025271187243323393",
+			"text": "Love seeing the creativity &amp; collaboration pouring onto the canvas by @racslife_ in Microsoft Whiteboard. This is w… https://t.co/hqk63Aesx8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "racslife_",
+						"name": "RAC",
+						"id": 390090443,
+						"id_str": "390090443",
+						"indices": [
+							74,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hqk63Aesx8",
+						"expanded_url": "https://twitter.com/i/web/status/1025271187243323393",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2157421,
+				"id_str": "2157421",
+				"name": "Ian Mikutel",
+				"screen_name": "IanMikutel",
+				"location": "Redmond, WA",
+				"description": "Sr Product Lead, Ink/AI/EDU @Microsoft Whiteboard. Host @TheBetterShow podcast 🎙. Investor - @ReadMeIO (YC W15), @SeeLaforge & @AmpleMeal. ❤️ food & fitness!",
+				"url": "https://t.co/NVlxG6E2NM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NVlxG6E2NM",
+								"expanded_url": "http://ianmik.com",
+								"display_url": "ianmik.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2189,
+				"friends_count": 1028,
+				"listed_count": 137,
+				"created_at": "Sun Mar 25 05:25:59 +0000 2007",
+				"favourites_count": 13409,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11168,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2157421/1404893964",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7291a25672e0d4b1",
+				"url": "https://api.twitter.com/1.1/geo/id/7291a25672e0d4b1.json",
+				"place_type": "city",
+				"name": "Redmond",
+				"full_name": "Redmond, WA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.1649,
+								47.626845
+							],
+							[
+								-121.958642,
+								47.626845
+							],
+							[
+								-121.958642,
+								47.73078
+							],
+							[
+								-122.1649,
+								47.73078
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1025174798358458400,
+			"quoted_status_id_str": "1025174798358458368",
+			"quoted_status": {
+				"created_at": "Fri Aug 03 00:21:33 +0000 2018",
+				"id": 1025174798358458400,
+				"id_str": "1025174798358458368",
+				"text": "Coming together. Thanks @HP for the first device thats let me plan, notate, draw, design and execute my ideas on on… https://t.co/2MDhvRZuxr",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "HP",
+							"name": "HP",
+							"id": 17193794,
+							"id_str": "17193794",
+							"indices": [
+								24,
+								27
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/2MDhvRZuxr",
+							"expanded_url": "https://twitter.com/i/web/status/1025174798358458368",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": 1025042371103404000,
+				"in_reply_to_status_id_str": "1025042371103404032",
+				"in_reply_to_user_id": 390090443,
+				"in_reply_to_user_id_str": "390090443",
+				"in_reply_to_screen_name": "racslife_",
+				"user": {
+					"id": 390090443,
+					"id_str": "390090443",
+					"name": "RAC",
+					"screen_name": "racslife_",
+					"location": "PHILLY/NYC/NJ",
+					"description": "My friends and I create things we've always wanted to have. Size 9.5 - Designer, Artist, Promoter, Sneakers, Food, Film, Comics, racmails@gmail.com",
+					"url": "https://t.co/tSAufzst51",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/tSAufzst51",
+									"expanded_url": "https://instagram.com/racslife_",
+									"display_url": "instagram.com/racslife_",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 11005,
+					"friends_count": 100,
+					"listed_count": 143,
+					"created_at": "Thu Oct 13 13:05:43 +0000 2011",
+					"favourites_count": 42412,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 115523,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1014579921858031618/qphh5Tb9_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014579921858031618/qphh5Tb9_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/390090443/1499120488",
+					"profile_link_color": "FF0062",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 18,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1025174798358458400,
+		"quoted_status_id_str": "1025174798358458368",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 03 02:16:53 +0000 2018",
 		"id": 1025203823906836500,
 		"id_str": "1025203823906836480",
