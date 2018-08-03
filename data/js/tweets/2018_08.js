@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 03 14:50:55 +0000 2018",
+		"id": 1025393583208194000,
+		"id_str": "1025393583208194051",
+		"text": "Now that the Microsoft #Surface Go device is becoming more widely available, new tech reviews are coming in. \nHere'… https://t.co/madp7nsCOu",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Surface",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/madp7nsCOu",
+					"expanded_url": "https://twitter.com/i/web/status/1025393583208194051",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17586,
+			"friends_count": 6507,
+			"listed_count": 578,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23576,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1025010541478256600,
+		"quoted_status_id_str": "1025010541478256640",
+		"quoted_status": {
+			"created_at": "Thu Aug 02 13:28:51 +0000 2018",
+			"id": 1025010541478256600,
+			"id_str": "1025010541478256640",
+			"text": "It's nice to see folks who got the first Surface Go review units finally talking about lapability (and/or lack ther… https://t.co/6cDWrYxiVv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6cDWrYxiVv",
+						"expanded_url": "https://twitter.com/i/web/status/1025010541478256640",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49465463,
+				"id_str": "49465463",
+				"name": "Mary Jo Foley",
+				"screen_name": "maryjofoley",
+				"location": "",
+				"description": "I am All About Microsoft on ZDNet (http://t.co/qJf6Vbi9nq). Oh, and I am also sometimes (more often than not) all about craft beer.",
+				"url": "http://t.co/qJf6Vbi9nq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qJf6Vbi9nq",
+								"expanded_url": "http://blogs.zdnet.com/microsoft",
+								"display_url": "blogs.zdnet.com/microsoft",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/qJf6Vbi9nq",
+								"expanded_url": "http://blogs.zdnet.com/microsoft",
+								"display_url": "blogs.zdnet.com/microsoft",
+								"indices": [
+									35,
+									57
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 155241,
+				"friends_count": 807,
+				"listed_count": 4967,
+				"created_at": "Sun Jun 21 23:27:27 +0000 2009",
+				"favourites_count": 446,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 98856,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000753355771/896be4d4eb730289f086ad7a0a8ea651_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000753355771/896be4d4eb730289f086ad7a0a8ea651_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49465463/1398286082",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "B0ADDB",
+				"profile_sidebar_fill_color": "CCE9FF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Aug 03 14:23:02 +0000 2018",
+		"id": 1025386566557093900,
+		"id_str": "1025386566557093888",
+		"text": "Congrats #MIEExpert @TammyDunbar for being awarded with a Fulbright Teacher Global Classroom Grant 2018-2019.\n\nCuri… https://t.co/NEaJDAoXLR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TammyDunbar",
+					"name": "Tammy Dunbar, M.Ed.",
+					"id": 15911470,
+					"id_str": "15911470",
+					"indices": [
+						20,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NEaJDAoXLR",
+					"expanded_url": "https://twitter.com/i/web/status/1025386566557093888",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17586,
+			"friends_count": 6507,
+			"listed_count": 578,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23576,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1025134584004927500,
+		"quoted_status_id_str": "1025134584004927488",
+		"quoted_status": {
+			"created_at": "Thu Aug 02 21:41:45 +0000 2018",
+			"id": 1025134584004927500,
+			"id_str": "1025134584004927488",
+			"text": "Incredibly thrilled and humbled to be one of 76 U.S. educators to receive a Fulbright TGC Grant for 2018-2019 from… https://t.co/jTOZjLuFR8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jTOZjLuFR8",
+						"expanded_url": "https://twitter.com/i/web/status/1025134584004927488",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15911470,
+				"id_str": "15911470",
+				"name": "Tammy Dunbar, M.Ed.",
+				"screen_name": "TammyDunbar",
+				"location": "Central Valley of California",
+				"description": "Teacher Geek is Chic! Microsoft Innovative Educator Expert Fellow, #MIEExpert #ProudtobeMUSD #ISTE18 Literacy PLN Award, #NCCEchat, Married 32 yrs to Mike!",
+				"url": "https://t.co/5mBJ1OVOcc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5mBJ1OVOcc",
+								"expanded_url": "http://teachergeekischic.com",
+								"display_url": "teachergeekischic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5317,
+				"friends_count": 4041,
+				"listed_count": 322,
+				"created_at": "Wed Aug 20 00:07:25 +0000 2008",
+				"favourites_count": 9342,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13495,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971838384866869248/k8fY7SFn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971838384866869248/k8fY7SFn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15911470/1459774229",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 03 13:45:31 +0000 2018",
 		"id": 1025377122154631200,
 		"id_str": "1025377122154631168",
