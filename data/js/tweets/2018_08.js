@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 05 09:55:27 +0000 2018",
+		"id": 1026044003160977400,
+		"id_str": "1026044003160977408",
+		"text": "RT @samuelmcneill: A more detailed unpacking of my #Digitalinking &amp; @msonenote example asking \"Why did the Titanic Sink?\" with detailed #SA…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Digitalinking",
+					"indices": [
+						51,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samuelmcneill",
+					"name": "Sam McNeill",
+					"id": 89340013,
+					"id_str": "89340013",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17602,
+			"friends_count": 6518,
+			"listed_count": 579,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23596,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 05 08:32:28 +0000 2018",
+			"id": 1026023117297074200,
+			"id_str": "1026023117297074181",
+			"text": "A more detailed unpacking of my #Digitalinking &amp; @msonenote example asking \"Why did the Titanic Sink?\" with detaile… https://t.co/vGLll5hspl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Digitalinking",
+						"indices": [
+							32,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							53,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vGLll5hspl",
+						"expanded_url": "https://twitter.com/i/web/status/1026023117297074181",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89340013,
+				"id_str": "89340013",
+				"name": "Sam McNeill",
+				"screen_name": "samuelmcneill",
+				"location": "New Zealand",
+				"description": "Education Solution Specialist with Microsoft. Former K-12 ICT Director.\nFollow my thoughts on ICT & Education at https://t.co/ABoeG2g1jp",
+				"url": "https://t.co/iqIexprOtV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iqIexprOtV",
+								"expanded_url": "http://www.samuelmcneill.com",
+								"display_url": "samuelmcneill.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ABoeG2g1jp",
+								"expanded_url": "http://concise.info/Tech_Ed",
+								"display_url": "concise.info/Tech_Ed",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2297,
+				"friends_count": 2297,
+				"listed_count": 247,
+				"created_at": "Thu Nov 12 01:34:27 +0000 2009",
+				"favourites_count": 4417,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10967,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970639354031849472/d6kGlJIK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970639354031849472/d6kGlJIK_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1026015867467956200,
+			"quoted_status_id_str": "1026015867467956225",
+			"quoted_status": {
+				"created_at": "Sun Aug 05 08:03:39 +0000 2018",
+				"id": 1026015867467956200,
+				"id_str": "1026015867467956225",
+				"text": "Why Did The Titanic Sink? Explaining With OneNote &amp; Digital Ink https://t.co/k5qyR5Fswz https://t.co/gYZoXRnkdU",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/k5qyR5Fswz",
+							"expanded_url": "https://samuelmcneill.com/2018/08/05/why-did-the-titanic-sink-explaining-with-onenote-digital-ink/",
+							"display_url": "samuelmcneill.com/2018/08/05/why…",
+							"indices": [
+								68,
+								91
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 1026015865781645300,
+							"id_str": "1026015865781645313",
+							"indices": [
+								92,
+								115
+							],
+							"media_url": "http://pbs.twimg.com/media/Dj0j_m3UcAEpwnO.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dj0j_m3UcAEpwnO.jpg",
+							"url": "https://t.co/gYZoXRnkdU",
+							"display_url": "pic.twitter.com/gYZoXRnkdU",
+							"expanded_url": "https://twitter.com/samuelmcneill/status/1026015867467956225/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 600,
+									"h": 450,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 600,
+									"h": 450,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 600,
+									"h": 450,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1026015865781645300,
+							"id_str": "1026015865781645313",
+							"indices": [
+								92,
+								115
+							],
+							"media_url": "http://pbs.twimg.com/media/Dj0j_m3UcAEpwnO.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dj0j_m3UcAEpwnO.jpg",
+							"url": "https://t.co/gYZoXRnkdU",
+							"display_url": "pic.twitter.com/gYZoXRnkdU",
+							"expanded_url": "https://twitter.com/samuelmcneill/status/1026015867467956225/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 600,
+									"h": 450,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 600,
+									"h": 450,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 600,
+									"h": 450,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 89340013,
+					"id_str": "89340013",
+					"name": "Sam McNeill",
+					"screen_name": "samuelmcneill",
+					"location": "New Zealand",
+					"description": "Education Solution Specialist with Microsoft. Former K-12 ICT Director.\nFollow my thoughts on ICT & Education at https://t.co/ABoeG2g1jp",
+					"url": "https://t.co/iqIexprOtV",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/iqIexprOtV",
+									"expanded_url": "http://www.samuelmcneill.com",
+									"display_url": "samuelmcneill.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/ABoeG2g1jp",
+									"expanded_url": "http://concise.info/Tech_Ed",
+									"display_url": "concise.info/Tech_Ed",
+									"indices": [
+										113,
+										136
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 2297,
+					"friends_count": 2297,
+					"listed_count": 247,
+					"created_at": "Thu Nov 12 01:34:27 +0000 2009",
+					"favourites_count": 4417,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 10967,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/970639354031849472/d6kGlJIK_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/970639354031849472/d6kGlJIK_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1026015867467956200,
+		"quoted_status_id_str": "1026015867467956225",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 05 06:08:24 +0000 2018",
 		"id": 1025986863675461600,
 		"id_str": "1025986863675461633",
