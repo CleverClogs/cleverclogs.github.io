@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 08 21:38:35 +0000 2018",
+		"id": 1027308115518283800,
+		"id_str": "1027308115518283776",
+		"text": "RT @Kercal: No idea if I ever shared this? Drawn on @Surface using @OneNoteC at the end of a teaching Friday :) https://t.co/mosLtQdn0C",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kercal",
+					"name": "Totes AmazePauls",
+					"id": 19986805,
+					"id_str": "19986805",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "surface",
+					"name": "Microsoft Surface",
+					"id": 612076511,
+					"id_str": "612076511",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						67,
+						76
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1027300961038028800,
+					"id_str": "1027300961038028803",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027300961038028803/pu/img/U6rQCNpRVyCE3C9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027300961038028803/pu/img/U6rQCNpRVyCE3C9u.jpg",
+					"url": "https://t.co/mosLtQdn0C",
+					"display_url": "pic.twitter.com/mosLtQdn0C",
+					"expanded_url": "https://twitter.com/Kercal/status/1027301226172624897/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027301226172624900,
+					"source_status_id_str": "1027301226172624897",
+					"source_user_id": 19986805,
+					"source_user_id_str": "19986805"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1027300961038028800,
+					"id_str": "1027300961038028803",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027300961038028803/pu/img/U6rQCNpRVyCE3C9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027300961038028803/pu/img/U6rQCNpRVyCE3C9u.jpg",
+					"url": "https://t.co/mosLtQdn0C",
+					"display_url": "pic.twitter.com/mosLtQdn0C",
+					"expanded_url": "https://twitter.com/Kercal/status/1027301226172624897/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1027301226172624900,
+					"source_status_id_str": "1027301226172624897",
+					"source_user_id": 19986805,
+					"source_user_id_str": "19986805",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31833,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1027300961038028803/pu/vid/1280x720/R0okemSRkusmNoCZ.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1027300961038028803/pu/vid/320x180/ONaOHjFZmj8AKQiv.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1027300961038028803/pu/vid/640x360/I6EFTkeKyYQTOJm-.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1027300961038028803/pu/pl/seu-wwzBN2xxrKfJ.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 19986805,
+							"id_str": "19986805",
+							"name": "Totes AmazePauls",
+							"screen_name": "Kercal",
+							"location": "Surrey, UK.",
+							"description": "Touchscreen, IWB and VR Artist / Writer\\ Teacher (A level/BTEC). Artist in Residence for hire. Team #DigitalArt #Paint3D #ArtRage #Edtech",
+							"url": "https://t.co/NPgvRkunis",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/NPgvRkunis",
+											"expanded_url": "http://www.kercal.co.uk",
+											"display_url": "kercal.co.uk",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1728,
+							"friends_count": 2536,
+							"listed_count": 169,
+							"created_at": "Tue Feb 03 17:30:24 +0000 2009",
+							"favourites_count": 12906,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 30679,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/855533724766785536/0sPbD3pi_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/855533724766785536/0sPbD3pi_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/19986805/1488025369",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17656,
+			"friends_count": 6554,
+			"listed_count": 579,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 08 21:11:13 +0000 2018",
+			"id": 1027301226172624900,
+			"id_str": "1027301226172624897",
+			"text": "No idea if I ever shared this? Drawn on @Surface using @OneNoteC at the end of a teaching Friday :) https://t.co/mosLtQdn0C",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "surface",
+						"name": "Microsoft Surface",
+						"id": 612076511,
+						"id_str": "612076511",
+						"indices": [
+							40,
+							48
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							55,
+							64
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1027300961038028800,
+						"id_str": "1027300961038028803",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027300961038028803/pu/img/U6rQCNpRVyCE3C9u.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027300961038028803/pu/img/U6rQCNpRVyCE3C9u.jpg",
+						"url": "https://t.co/mosLtQdn0C",
+						"display_url": "pic.twitter.com/mosLtQdn0C",
+						"expanded_url": "https://twitter.com/Kercal/status/1027301226172624897/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1027300961038028800,
+						"id_str": "1027300961038028803",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027300961038028803/pu/img/U6rQCNpRVyCE3C9u.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027300961038028803/pu/img/U6rQCNpRVyCE3C9u.jpg",
+						"url": "https://t.co/mosLtQdn0C",
+						"display_url": "pic.twitter.com/mosLtQdn0C",
+						"expanded_url": "https://twitter.com/Kercal/status/1027301226172624897/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 31833,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1027300961038028803/pu/vid/1280x720/R0okemSRkusmNoCZ.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1027300961038028803/pu/vid/320x180/ONaOHjFZmj8AKQiv.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1027300961038028803/pu/vid/640x360/I6EFTkeKyYQTOJm-.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1027300961038028803/pu/pl/seu-wwzBN2xxrKfJ.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19986805,
+				"id_str": "19986805",
+				"name": "Totes AmazePauls",
+				"screen_name": "Kercal",
+				"location": "Surrey, UK.",
+				"description": "Touchscreen, IWB and VR Artist / Writer\\ Teacher (A level/BTEC). Artist in Residence for hire. Team #DigitalArt #Paint3D #ArtRage #Edtech",
+				"url": "https://t.co/NPgvRkunis",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NPgvRkunis",
+								"expanded_url": "http://www.kercal.co.uk",
+								"display_url": "kercal.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1728,
+				"friends_count": 2536,
+				"listed_count": 169,
+				"created_at": "Tue Feb 03 17:30:24 +0000 2009",
+				"favourites_count": 12906,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30679,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855533724766785536/0sPbD3pi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855533724766785536/0sPbD3pi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19986805/1488025369",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 08 18:49:26 +0000 2018",
 		"id": 1027265544301563900,
 		"id_str": "1027265544301563904",
