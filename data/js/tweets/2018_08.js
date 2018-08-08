@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Wed Aug 08 13:03:40 +0000 2018",
+		"id": 1027178532739399700,
+		"id_str": "1027178532739399687",
+		"text": "@nlpaterson2 @mtholfsen @JeffreySPetty @MSFTEnable @MicrosoftEDU Fabulous, Natalie. Do let me know if you decide to… https://t.co/AtcFMi0v3D",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nlpaterson2",
+					"name": "Natalie Paterson",
+					"id": 2908831856,
+					"id_str": "2908831856",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "JeffreySPetty",
+					"name": "Jeff Petty",
+					"id": 2324398646,
+					"id_str": "2324398646",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "MSFTEnable",
+					"name": "MSFT Accessibility",
+					"id": 458619342,
+					"id_str": "458619342",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						51,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AtcFMi0v3D",
+					"expanded_url": "https://twitter.com/i/web/status/1027178532739399687",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1027138525227933700,
+		"in_reply_to_status_id_str": "1027138525227933697",
+		"in_reply_to_user_id": 2908831856,
+		"in_reply_to_user_id_str": "2908831856",
+		"in_reply_to_screen_name": "nlpaterson2",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17646,
+			"friends_count": 6553,
+			"listed_count": 579,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23661,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 08 11:02:09 +0000 2018",
 		"id": 1027147950433157100,
 		"id_str": "1027147950433157120",
