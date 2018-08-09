@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 09 12:02:26 +0000 2018",
+		"id": 1027525508307796000,
+		"id_str": "1027525508307795968",
+		"text": "Such a nice testimonial (in Dutch) from @AlexanderNL, who says he's starting to appreciate Microsoft Windows more a… https://t.co/yIS9LJbd66",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexanderNL",
+					"name": "Alexander Klöpping",
+					"id": 2239701,
+					"id_str": "2239701",
+					"indices": [
+						40,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yIS9LJbd66",
+					"expanded_url": "https://twitter.com/i/web/status/1027525508307795968",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17660,
+			"friends_count": 6555,
+			"listed_count": 579,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1027496398764343300,
+		"quoted_status_id_str": "1027496398764343296",
+		"quoted_status": {
+			"created_at": "Thu Aug 09 10:06:46 +0000 2018",
+			"id": 1027496398764343300,
+			"id_str": "1027496398764343296",
+			"text": "Ik word dus steeds meer in het Windows-ecosysteem gezogen. En ik geniet echt van typische Windows-dingen als de Win… https://t.co/dC6bFdB2kE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dC6bFdB2kE",
+						"expanded_url": "https://twitter.com/i/web/status/1027496398764343296",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2239701,
+				"id_str": "2239701",
+				"name": "Alexander Klöpping",
+				"screen_name": "AlexanderNL",
+				"location": "Amsterdam, Netherlands",
+				"description": "Founder & CEO @Blendle. PGP: https://t.co/gUFB40yfS2. Some Dutch now and then. You'll learn.",
+				"url": "https://t.co/85gTNOk6La",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/85gTNOk6La",
+								"expanded_url": "http://Blendle.com",
+								"display_url": "Blendle.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gUFB40yfS2",
+								"expanded_url": "http://alexanderklopping.nl/pgp",
+								"display_url": "alexanderklopping.nl/pgp",
+								"indices": [
+									29,
+									52
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 505312,
+				"friends_count": 3510,
+				"listed_count": 2443,
+				"created_at": "Mon Mar 26 02:21:19 +0000 2007",
+				"favourites_count": 3780,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45776,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/664028182421463041/Ef1dm3yn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/664028182421463041/Ef1dm3yn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2239701/1456322047",
+				"profile_link_color": "FF6456",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 09 11:55:49 +0000 2018",
+		"id": 1027523844771336200,
+		"id_str": "1027523844771336194",
+		"text": "RT @danielsadac: I'm taking this semester's Quantum Computing grad course notes on OneNote, and Inking in my new Surface Pro. Let's do this…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danielsadac",
+					"name": "Daniel Sada",
+					"id": 34117731,
+					"id_str": "34117731",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17660,
+			"friends_count": 6555,
+			"listed_count": 579,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23670,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 08 16:53:12 +0000 2018",
+			"id": 1027236294873608200,
+			"id_str": "1027236294873608192",
+			"text": "I'm taking this semester's Quantum Computing grad course notes on OneNote, and Inking in my new Surface Pro. Let's… https://t.co/htvw8A2mgn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/htvw8A2mgn",
+						"expanded_url": "https://twitter.com/i/web/status/1027236294873608192",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34117731,
+				"id_str": "34117731",
+				"name": "Daniel Sada",
+				"screen_name": "danielsadac",
+				"location": "Mexico",
+				"description": "MSFT OneNote SDE Intern Some other times I just learn. But mainly trying to save years of human life.",
+				"url": "https://t.co/jZ5T4VEzwB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jZ5T4VEzwB",
+								"expanded_url": "http://danielsada.mx",
+								"display_url": "danielsada.mx",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 218,
+				"friends_count": 147,
+				"listed_count": 4,
+				"created_at": "Wed Apr 22 00:55:32 +0000 2009",
+				"favourites_count": 324,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 625,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981082779688448000/GAnzoSsS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981082779688448000/GAnzoSsS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34117731/1522743603",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 09 11:17:54 +0000 2018",
 		"id": 1027514301760892900,
 		"id_str": "1027514301760892928",
