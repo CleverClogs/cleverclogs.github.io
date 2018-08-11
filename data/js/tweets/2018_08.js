@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 11 15:36:05 +0000 2018",
+		"id": 1028304050062860300,
+		"id_str": "1028304050062860289",
+		"text": "RT @sdtitmas: Excited to be the guest moderator for #EdTechChat on Monday at 8EST!! We'll be focusing on @MicrosoftEDU's Learning Tools. Ch…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdTechChat",
+					"indices": [
+						52,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sdtitmas",
+					"name": "Scott Titmas",
+					"id": 2341899519,
+					"id_str": "2341899519",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						105,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17704,
+			"friends_count": 6559,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23677,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 11 12:30:00 +0000 2018",
+			"id": 1028257222709526500,
+			"id_str": "1028257222709526528",
+			"text": "Excited to be the guest moderator for #EdTechChat on Monday at 8EST!! We'll be focusing on @MicrosoftEDU's Learning… https://t.co/uiG8moaTsv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EdTechChat",
+						"indices": [
+							38,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							91,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uiG8moaTsv",
+						"expanded_url": "https://twitter.com/i/web/status/1028257222709526528",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2341899519,
+				"id_str": "2341899519",
+				"name": "Scott Titmas",
+				"screen_name": "sdtitmas",
+				"location": "Old Bridge, NJ",
+				"description": "Tech Integration Specialist • #OBProud • #EdTechOB • #TLAP & #DitchBook • #MIEExpert • #FlipgridFever Ambassador • @EdToTheMax Professional Learning Specialist",
+				"url": "https://t.co/quNGRpTPHR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/quNGRpTPHR",
+								"expanded_url": "http://mrtjibberjabber.wordpress.com",
+								"display_url": "mrtjibberjabber.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6707,
+				"friends_count": 3983,
+				"listed_count": 96,
+				"created_at": "Thu Feb 13 19:39:14 +0000 2014",
+				"favourites_count": 41321,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18493,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911378837434331136/Zb2RsFsS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911378837434331136/Zb2RsFsS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2341899519/1513179451",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 11 13:23:11 +0000 2018",
 		"id": 1028270607710998500,
 		"id_str": "1028270607710998529",
@@ -158,7 +397,7 @@ Grailbird.data.tweets_2018_08 =
 				"name": "Lisa",
 				"screen_name": "BuLisaBisa",
 				"location": "",
-				"description": "👩🏻‍🏫 Teacher • Counsellor-to-be • Human Being 💞🌏 #Wellbeing | #Mentalhealth | #Flourishing #21stcenturyskills | #BenefitMindset #PositiveEducation 🌱🌿🌳",
+				"description": "👩🏻🏫 Teacher • Counsellor-to-be • Human Being 💞🌏 #Wellbeing | #Mentalhealth | #Flourishing #21stcenturyskills | #BenefitMindset #PositiveEducation 🌱🌿🌳",
 				"url": null,
 				"entities": {
 					"description": {
