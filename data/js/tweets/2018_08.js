@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 19 15:26:57 +0000 2018",
+		"id": 1031200853951230000,
+		"id_str": "1031200853951229953",
+		"text": "Nederlandse docenten, doen jullie mee tijdens de Microsoft #BackToSchool #MSFTEduChat TweetMeet van dinsdag 21 augu… https://t.co/3WhcQn0Hm4",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BackToSchool",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						73,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3WhcQn0Hm4",
+					"expanded_url": "https://twitter.com/i/web/status/1031200853951229953",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17759,
+			"friends_count": 6565,
+			"listed_count": 579,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1031119833964924900,
+		"quoted_status_id_str": "1031119833964924928",
+		"quoted_status": {
+			"created_at": "Sun Aug 19 10:05:00 +0000 2018",
+			"id": 1031119833964924900,
+			"id_str": "1031119833964924928",
+			"text": "nog 2 nachtjes slapen tot #TweetMeetNL van #MSFTEduchat met het onderwerp #BackToSchool. Doe jij mee?? https://t.co/gFJXlg3RNb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TweetMeetNL",
+						"indices": [
+							26,
+							38
+						]
+					},
+					{
+						"text": "MSFTEduchat",
+						"indices": [
+							43,
+							55
+						]
+					},
+					{
+						"text": "BackToSchool",
+						"indices": [
+							74,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1030752457218043900,
+						"id_str": "1030752457218043904",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk335g_XsAAdQLp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk335g_XsAAdQLp.jpg",
+						"url": "https://t.co/gFJXlg3RNb",
+						"display_url": "pic.twitter.com/gFJXlg3RNb",
+						"expanded_url": "https://twitter.com/RheaFlohr/status/1031119833964924928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1030752457218043900,
+						"id_str": "1030752457218043904",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/Dk335g_XsAAdQLp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dk335g_XsAAdQLp.jpg",
+						"url": "https://t.co/gFJXlg3RNb",
+						"display_url": "pic.twitter.com/gFJXlg3RNb",
+						"expanded_url": "https://twitter.com/RheaFlohr/status/1031119833964924928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 418127872,
+				"id_str": "418127872",
+				"name": "Rhea Flohr🌟💛",
+				"screen_name": "RheaFlohr",
+				"location": "Brabant",
+				"description": "Juf | Aardrijkskunde | Mediawijsheid | Kroeg | Uitdagingen | Oplossingen | iPad | OICT | #ADE2017 | Ga Doen!",
+				"url": "https://t.co/XaN0KAb9SV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XaN0KAb9SV",
+								"expanded_url": "http://rheaflohr.weebly.com/",
+								"display_url": "rheaflohr.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1983,
+				"friends_count": 1844,
+				"listed_count": 65,
+				"created_at": "Mon Nov 21 19:59:36 +0000 2011",
+				"favourites_count": 664,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17640,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027977484896280576/qg7pmouq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027977484896280576/qg7pmouq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/418127872/1375990031",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
 		"created_at": "Sun Aug 19 10:12:50 +0000 2018",
 		"id": 1031121805321363500,
 		"id_str": "1031121805321363456",
