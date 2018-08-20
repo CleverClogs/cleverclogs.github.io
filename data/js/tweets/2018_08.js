@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 20 13:08:59 +0000 2018",
+		"id": 1031528523788243000,
+		"id_str": "1031528523788242945",
+		"text": "RT @MicrosoftEDU: The latest episode of What’s New in EDU is bringing you exciting news: #MinecraftEdu is coming to #iPad! For more from @P…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MinecraftEdu",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"text": "iPad",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17766,
+			"friends_count": 6566,
+			"listed_count": 579,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23736,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 20 13:04:53 +0000 2018",
+			"id": 1031527490286702600,
+			"id_str": "1031527490286702592",
+			"text": "The latest episode of What’s New in EDU is bringing you exciting news: #MinecraftEdu is coming to #iPad! For more f… https://t.co/NsqOh78Ss4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MinecraftEdu",
+						"indices": [
+							71,
+							84
+						]
+					},
+					{
+						"text": "iPad",
+						"indices": [
+							98,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NsqOh78Ss4",
+						"expanded_url": "https://twitter.com/i/web/status/1031527490286702592",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17826187,
+				"id_str": "17826187",
+				"name": "Microsoft Education",
+				"screen_name": "MicrosoftEDU",
+				"location": "Redmond, WA",
+				"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+				"url": "https://t.co/Kq0bGCfbFO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Kq0bGCfbFO",
+								"expanded_url": "http://www.microsoft.com/education",
+								"display_url": "microsoft.com/education",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 332207,
+				"friends_count": 4345,
+				"listed_count": 3304,
+				"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+				"favourites_count": 19602,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28235,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00BCF2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859436520054370309/mdbWzhp7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859436520054370309/mdbWzhp7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1508952382",
+				"profile_link_color": "0078D7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 20 12:55:44 +0000 2018",
+		"id": 1031525187030794200,
+		"id_str": "1031525187030794240",
+		"text": "Marija is a #OneNote champion. \nSo proud to announce that @OneNoteC is sponsoring her OneNote with Marija course.… https://t.co/23ixW91WmR",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/23ixW91WmR",
+					"expanded_url": "https://twitter.com/i/web/status/1031525187030794240",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17766,
+			"friends_count": 6566,
+			"listed_count": 579,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23736,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1031523629056634900,
+		"quoted_status_id_str": "1031523629056634881",
+		"quoted_status": {
+			"created_at": "Mon Aug 20 12:49:32 +0000 2018",
+			"id": 1031523629056634900,
+			"id_str": "1031523629056634881",
+			"text": "#OneNote with Marija course sponsored by @OneNoteC \nCheck out week 1 https://t.co/H1ro1uKqt3\nAnd subscribe to full… https://t.co/ZOc1iTXEPL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							41,
+							50
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/H1ro1uKqt3",
+						"expanded_url": "http://bit.ly/1NoteMarija-W1",
+						"display_url": "bit.ly/1NoteMarija-W1",
+						"indices": [
+							69,
+							92
+						]
+					},
+					{
+						"url": "https://t.co/ZOc1iTXEPL",
+						"expanded_url": "https://twitter.com/i/web/status/1031523629056634881",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 521427482,
+				"id_str": "521427482",
+				"name": "Marija Petreska",
+				"screen_name": "teachermarija",
+				"location": "Macedonia",
+				"description": "English language & Tech Integrattion Teacher \nMIE Fellow \nEd-tech blogger \nMicrosoft Education blogger \nE2 Award Winner",
+				"url": "https://t.co/546CoXQHMo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/546CoXQHMo",
+								"expanded_url": "https://about.me/petreskamarija",
+								"display_url": "about.me/petreskamarija",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3003,
+				"friends_count": 1646,
+				"listed_count": 553,
+				"created_at": "Sun Mar 11 15:48:42 +0000 2012",
+				"favourites_count": 5484,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 68637,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027333522879655937/qu6rj9N1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027333522879655937/qu6rj9N1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/521427482/1532440314",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 20 10:14:47 +0000 2018",
 		"id": 1031484685849911300,
 		"id_str": "1031484685849911296",
