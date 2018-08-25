@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 25 23:09:36 +0000 2018",
+		"id": 1033491610955264000,
+		"id_str": "1033491610955264000",
+		"text": "Announcing #StickyNotes 3.0 coming to the #WindowsInsiders rings shortly. \n\nThis is produced by the same teams that… https://t.co/Iv9F50PCXC",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StickyNotes",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"text": "WindowsInsiders",
+					"indices": [
+						42,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Iv9F50PCXC",
+					"expanded_url": "https://twitter.com/i/web/status/1033491610955264000",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17843,
+			"friends_count": 6572,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23764,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1029189720964653000,
+		"quoted_status_id_str": "1029189720964653056",
+		"quoted_status": {
+			"created_at": "Tue Aug 14 02:15:25 +0000 2018",
+			"id": 1029189720964653000,
+			"id_str": "1029189720964653056",
+			"text": "Sticky Notes v3.0 is coming to #SkipAhead ring of Windows soon. We cannot wait to share the details with you… https://t.co/JgWUweqONa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SkipAhead",
+						"indices": [
+							31,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JgWUweqONa",
+						"expanded_url": "https://twitter.com/i/web/status/1029189720964653056",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2246117322,
+				"id_str": "2246117322",
+				"name": "Reza Jooyandeh 🌈",
+				"screen_name": "RezaJooyandeh",
+				"location": "Vancouver, British Columbia",
+				"description": "Engineering Manager for Microsoft Sticky Notes Windows. Inclusion Advocate, Mathematician, Computer Scientist and Graph Theorist.🌈#DelayedIranianApplications",
+				"url": "https://t.co/FqWzmR0oSe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FqWzmR0oSe",
+								"expanded_url": "http://www.jooyandeh.com",
+								"display_url": "jooyandeh.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 332,
+				"friends_count": 90,
+				"listed_count": 12,
+				"created_at": "Sat Dec 14 20:37:36 +0000 2013",
+				"favourites_count": 206,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 142,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921411519648227328/3P_t0ehm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921411519648227328/3P_t0ehm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2246117322/1530074267",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 184,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 25 22:10:17 +0000 2018",
 		"id": 1033476685159649300,
 		"id_str": "1033476685159649280",
