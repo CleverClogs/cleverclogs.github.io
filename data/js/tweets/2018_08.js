@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 25 18:12:06 +0000 2018",
+		"id": 1033416744348672000,
+		"id_str": "1033416744348672001",
+		"text": "RT @jlo731: Check out this episode of The #Jenallee Show as we discuss some of the @msonenote features that are coming soon @MicrosoftEDU @…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jenallee",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jlo731",
+					"name": "Jeni Long",
+					"id": 95272661,
+					"id_str": "95272661",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17844,
+			"friends_count": 6570,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 25 01:22:23 +0000 2018",
+			"id": 1033162640720322600,
+			"id_str": "1033162640720322565",
+			"text": "Check out this episode of The #Jenallee Show as we discuss some of the @msonenote features that are coming soon… https://t.co/DMODjhxotJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Jenallee",
+						"indices": [
+							30,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							71,
+							81
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DMODjhxotJ",
+						"expanded_url": "https://twitter.com/i/web/status/1033162640720322565",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95272661,
+				"id_str": "95272661",
+				"name": "Jeni Long",
+				"screen_name": "jlo731",
+				"location": "Fort Worth, TX",
+				"description": "Faith...Family...Friends...Fellowship...ITS who loves inspiring others and has a passion for teaching & learning w/technology! #MIEExpert #Flipgridambassador",
+				"url": "https://t.co/5Z58JNJrUa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5Z58JNJrUa",
+								"expanded_url": "http://www.youtube.com/Jenallee",
+								"display_url": "youtube.com/Jenallee",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 701,
+				"friends_count": 902,
+				"listed_count": 20,
+				"created_at": "Mon Dec 07 20:32:16 +0000 2009",
+				"favourites_count": 6274,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1582,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1028019019293581313/ylYy4Hmy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028019019293581313/ylYy4Hmy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95272661/1535043143",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "42e46bc3663a4b5f",
+				"url": "https://api.twitter.com/1.1/geo/id/42e46bc3663a4b5f.json",
+				"place_type": "city",
+				"name": "Fort Worth",
+				"full_name": "Fort Worth, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.538285,
+								32.569477
+							],
+							[
+								-97.033542,
+								32.569477
+							],
+							[
+								-97.033542,
+								32.990456
+							],
+							[
+								-97.538285,
+								32.990456
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1033151158540546000,
+			"quoted_status_id_str": "1033151158540546049",
+			"quoted_status": {
+				"created_at": "Sat Aug 25 00:36:45 +0000 2018",
+				"id": 1033151158540546000,
+				"id_str": "1033151158540546049",
+				"text": "Do you LOVE @msonenote as much as we do? Check out this episode of The #Jenallee Show to see an amazing OneNote res… https://t.co/20bRy9Z942",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "Jenallee",
+							"indices": [
+								71,
+								80
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "msonenote",
+							"name": "Microsoft OneNote",
+							"id": 23735316,
+							"id_str": "23735316",
+							"indices": [
+								12,
+								22
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/20bRy9Z942",
+							"expanded_url": "https://twitter.com/i/web/status/1033151158540546049",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 275592120,
+					"id_str": "275592120",
+					"name": "emsisdits",
+					"screen_name": "emsisdits",
+					"location": "",
+					"description": "Instructional Technology for Eagle Mountain-Saginaw ISD",
+					"url": "http://t.co/ASX1RhQU",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/ASX1RhQU",
+									"expanded_url": "http://emsisdits.blogspot.com/",
+									"display_url": "emsisdits.blogspot.com",
+									"indices": [
+										0,
+										20
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 591,
+					"friends_count": 226,
+					"listed_count": 10,
+					"created_at": "Fri Apr 01 15:58:13 +0000 2011",
+					"favourites_count": 1974,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 1295,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/660919187892637696/kJ1rnpTu_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/660919187892637696/kJ1rnpTu_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/275592120/1504030816",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 15,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1033151158540546000,
+		"quoted_status_id_str": "1033151158540546049",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 25 17:40:53 +0000 2018",
+		"id": 1033408888236855300,
+		"id_str": "1033408888236855296",
+		"text": "Remember the stunning animated GIFs that Nicos Paphitis made about #OneNote Class Notebook? \nWell, to make it easie… https://t.co/i7vC7bYamO",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						67,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i7vC7bYamO",
+					"expanded_url": "https://twitter.com/i/web/status/1033408888236855296",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17844,
+			"friends_count": 6570,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23760,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1033397582381371400,
+		"quoted_status_id_str": "1033397582381371393",
+		"quoted_status": {
+			"created_at": "Sat Aug 25 16:55:57 +0000 2018",
+			"id": 1033397582381371400,
+			"id_str": "1033397582381371393",
+			"text": "Here are some #OneNote video tutorials in a #SWAY which i made to help staff at #TheJuniorAndSeniorSchool Thought i… https://t.co/4ixY4IIWzs",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							14,
+							22
+						]
+					},
+					{
+						"text": "SWAY",
+						"indices": [
+							44,
+							49
+						]
+					},
+					{
+						"text": "TheJuniorAndSeniorSchool",
+						"indices": [
+							80,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4ixY4IIWzs",
+						"expanded_url": "https://twitter.com/i/web/status/1033397582381371393",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 241913187,
+				"id_str": "241913187",
+				"name": "Nicos Paphitis",
+				"screen_name": "paphitisn",
+				"location": "Cyprus",
+				"description": "ICT Teacher / Network Admin / MIE Expert /Master Trainer /   The Junior & Senior School (Nicosia)\nE2 2018 1st runner up group challenge\nHobby: Wing Chun Kung Fu",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 272,
+				"friends_count": 236,
+				"listed_count": 6,
+				"created_at": "Sun Jan 23 13:11:30 +0000 2011",
+				"favourites_count": 1780,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 704,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972714437063905285/kPABQKyB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972714437063905285/kPABQKyB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/241913187/1514049198",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 25 13:11:14 +0000 2018",
 		"id": 1033341026969301000,
 		"id_str": "1033341026969300993",
