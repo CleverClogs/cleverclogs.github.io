@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 26 21:45:54 +0000 2018",
+		"id": 1033832937471533000,
+		"id_str": "1033832937471533057",
+		"text": "@scotlandlouise @dgilmour @GoogleForEdu @Acer_Education @OrmistonPrimary @KingussieHigh @Stirling_High @RaigmorePS… https://t.co/EUr2g5tdHq",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scotlandlouise",
+					"name": "Louise Jones",
+					"id": 11687372,
+					"id_str": "11687372",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "dgilmour",
+					"name": "David Gilmour",
+					"id": 8720172,
+					"id_str": "8720172",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "GoogleForEdu",
+					"name": "Google For Education",
+					"id": 254218142,
+					"id_str": "254218142",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "Acer_Education",
+					"name": "Acer for Education",
+					"id": 822380215477276700,
+					"id_str": "822380215477276674",
+					"indices": [
+						40,
+						55
+					]
+				},
+				{
+					"screen_name": "OrmistonPrimary",
+					"name": "Ormiston Primary",
+					"id": 2907340113,
+					"id_str": "2907340113",
+					"indices": [
+						56,
+						72
+					]
+				},
+				{
+					"screen_name": "KingussieHigh",
+					"name": "Kingussie High",
+					"id": 1696478568,
+					"id_str": "1696478568",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"screen_name": "Stirling_High",
+					"name": "Stirling High School",
+					"id": 20376180,
+					"id_str": "20376180",
+					"indices": [
+						88,
+						102
+					]
+				},
+				{
+					"screen_name": "RaigmorePS",
+					"name": "Raigmore Primary",
+					"id": 3114547913,
+					"id_str": "3114547913",
+					"indices": [
+						103,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EUr2g5tdHq",
+					"expanded_url": "https://twitter.com/i/web/status/1033832937471533057",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1033652763127885800,
+		"in_reply_to_status_id_str": "1033652763127885824",
+		"in_reply_to_user_id": 11687372,
+		"in_reply_to_user_id_str": "11687372",
+		"in_reply_to_screen_name": "scotlandlouise",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17854,
+			"friends_count": 6604,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23778,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 26 20:14:15 +0000 2018",
 		"id": 1033809873644019700,
 		"id_str": "1033809873644019712",
