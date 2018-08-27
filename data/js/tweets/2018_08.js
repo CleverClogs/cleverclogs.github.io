@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 27 15:55:56 +0000 2018",
+		"id": 1034107250841931800,
+		"id_str": "1034107250841931776",
+		"text": "Good #OneNote #productivity tip from @ferparra - to set a dedicated Inbox section for use with the OneNote Web Clip… https://t.co/HQvFVXZaCE",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						5,
+						13
+					]
+				},
+				{
+					"text": "productivity",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ferparra",
+					"name": "Nando 💪🇦🇺🇦🇷",
+					"id": 14313599,
+					"id_str": "14313599",
+					"indices": [
+						37,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HQvFVXZaCE",
+					"expanded_url": "https://twitter.com/i/web/status/1034107250841931776",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17865,
+			"friends_count": 6617,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23787,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1034104199506796500,
+		"quoted_status_id_str": "1034104199506796544",
+		"quoted_status": {
+			"created_at": "Mon Aug 27 15:43:48 +0000 2018",
+			"id": 1034104199506796500,
+			"id_str": "1034104199506796544",
+			"text": "#protip for Onenote users who use the Chrome clipper frequently. Since tagging and categorizing isn't their biggest… https://t.co/DsiJ7Drthb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "protip",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DsiJ7Drthb",
+						"expanded_url": "https://twitter.com/i/web/status/1034104199506796544",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14313599,
+				"id_str": "14313599",
+				"name": "Nando 💪🇦🇺🇦🇷",
+				"screen_name": "ferparra",
+				"location": "Melbourne & Buenos Aires",
+				"description": "All things product growth and finding product-market fit. Mobx-state-tree + React.js wizard.",
+				"url": "https://t.co/O7b0firufl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O7b0firufl",
+								"expanded_url": "http://au.linkedin.com/in/fparra/",
+								"display_url": "au.linkedin.com/in/fparra/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2112,
+				"friends_count": 5001,
+				"listed_count": 130,
+				"created_at": "Sun Apr 06 01:48:43 +0000 2008",
+				"favourites_count": 18327,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6494,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/580970564669460480/QfiFqDfP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/580970564669460480/QfiFqDfP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14313599/1535383733",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "4afa2757051c5192",
+				"url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+				"place_type": "admin",
+				"name": "Buenos Aires",
+				"full_name": "Buenos Aires, Argentina",
+				"country_code": "AR",
+				"country": "Argentina",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-63.39386,
+								-41.035009
+							],
+							[
+								-56.665836,
+								-41.035009
+							],
+							[
+								-56.665836,
+								-33.260144
+							],
+							[
+								-63.39386,
+								-33.260144
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 27 13:46:35 +0000 2018",
 		"id": 1034074701864345600,
 		"id_str": "1034074701864345600",
