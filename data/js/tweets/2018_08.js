@@ -1,6 +1,638 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 30 21:51:45 +0000 2018",
+		"id": 1035283959968612400,
+		"id_str": "1035283959968612357",
+		"text": "RT @WalkerTalker235: So excited that @msonenote Immersive Reader is up and running on student devices. 🤓👀👂🏻🧠 https://t.co/q3bCGUGOxl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WalkerTalker235",
+					"name": "Mrs. Boyer",
+					"id": 1031892553766002700,
+					"id_str": "1031892553766002690",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1035237690944368600,
+					"id_str": "1035237690944368640",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1035237690944368640/pu/img/ysWPGhFcGaucYLXw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1035237690944368640/pu/img/ysWPGhFcGaucYLXw.jpg",
+					"url": "https://t.co/q3bCGUGOxl",
+					"display_url": "pic.twitter.com/q3bCGUGOxl",
+					"expanded_url": "https://twitter.com/WalkerTalker235/status/1035238171297099776/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1035238171297099800,
+					"source_status_id_str": "1035238171297099776",
+					"source_user_id": 1031892553766002700,
+					"source_user_id_str": "1031892553766002690"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1035237690944368600,
+					"id_str": "1035237690944368640",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1035237690944368640/pu/img/ysWPGhFcGaucYLXw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1035237690944368640/pu/img/ysWPGhFcGaucYLXw.jpg",
+					"url": "https://t.co/q3bCGUGOxl",
+					"display_url": "pic.twitter.com/q3bCGUGOxl",
+					"expanded_url": "https://twitter.com/WalkerTalker235/status/1035238171297099776/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1035238171297099800,
+					"source_status_id_str": "1035238171297099776",
+					"source_user_id": 1031892553766002700,
+					"source_user_id_str": "1031892553766002690",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6505,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1035237690944368640/pu/vid/240x240/FPhv3FDvo5y7__Gi.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1035237690944368640/pu/pl/N_q6CLoyeyKeYxxL.m3u8?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1035237690944368640/pu/vid/720x720/-NaWxoQ8GJQjzdsl.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1035237690944368640/pu/vid/480x480/k40Mf4rXgCITmqMk.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1031892553766002700,
+							"id_str": "1031892553766002690",
+							"name": "Mrs. Boyer",
+							"screen_name": "WalkerTalker235",
+							"location": "Tampa, FL",
+							"description": "🗣️🧠👄👂 Speech-Language Therapy at Walker Middle Magnet. Exploring in 2018-19 to reach our goals!\nErica Boyer, M.S. CCC-SLP",
+							"url": "https://t.co/0enbDJiW3E",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/0enbDJiW3E",
+											"expanded_url": "http://walker.mysdhc.org/",
+											"display_url": "walker.mysdhc.org",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 17,
+							"friends_count": 46,
+							"listed_count": 0,
+							"created_at": "Tue Aug 21 13:15:31 +0000 2018",
+							"favourites_count": 12,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 12,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1031927469589389312/93ePxT_w_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031927469589389312/93ePxT_w_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1031892553766002690/1534865679",
+							"profile_link_color": "981CEB",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17905,
+			"friends_count": 6646,
+			"listed_count": 583,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23831,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 30 18:49:48 +0000 2018",
+			"id": 1035238171297099800,
+			"id_str": "1035238171297099776",
+			"text": "So excited that @msonenote Immersive Reader is up and running on student devices. 🤓👀👂🏻🧠 https://t.co/q3bCGUGOxl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							16,
+							26
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1035237690944368600,
+						"id_str": "1035237690944368640",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1035237690944368640/pu/img/ysWPGhFcGaucYLXw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1035237690944368640/pu/img/ysWPGhFcGaucYLXw.jpg",
+						"url": "https://t.co/q3bCGUGOxl",
+						"display_url": "pic.twitter.com/q3bCGUGOxl",
+						"expanded_url": "https://twitter.com/WalkerTalker235/status/1035238171297099776/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1035237690944368600,
+						"id_str": "1035237690944368640",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1035237690944368640/pu/img/ysWPGhFcGaucYLXw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1035237690944368640/pu/img/ysWPGhFcGaucYLXw.jpg",
+						"url": "https://t.co/q3bCGUGOxl",
+						"display_url": "pic.twitter.com/q3bCGUGOxl",
+						"expanded_url": "https://twitter.com/WalkerTalker235/status/1035238171297099776/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 6505,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1035237690944368640/pu/vid/240x240/FPhv3FDvo5y7__Gi.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1035237690944368640/pu/pl/N_q6CLoyeyKeYxxL.m3u8?tag=5"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1035237690944368640/pu/vid/720x720/-NaWxoQ8GJQjzdsl.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1035237690944368640/pu/vid/480x480/k40Mf4rXgCITmqMk.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1031892553766002700,
+				"id_str": "1031892553766002690",
+				"name": "Mrs. Boyer",
+				"screen_name": "WalkerTalker235",
+				"location": "Tampa, FL",
+				"description": "🗣️🧠👄👂 Speech-Language Therapy at Walker Middle Magnet. Exploring in 2018-19 to reach our goals!\nErica Boyer, M.S. CCC-SLP",
+				"url": "https://t.co/0enbDJiW3E",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0enbDJiW3E",
+								"expanded_url": "http://walker.mysdhc.org/",
+								"display_url": "walker.mysdhc.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17,
+				"friends_count": 46,
+				"listed_count": 0,
+				"created_at": "Tue Aug 21 13:15:31 +0000 2018",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031927469589389312/93ePxT_w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031927469589389312/93ePxT_w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1031892553766002690/1534865679",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 30 21:27:55 +0000 2018",
+		"id": 1035277964223688700,
+		"id_str": "1035277964223688704",
+		"text": "@soslearning @Purposeful_tech @mtholfsen I don't think that friend and you ever met in real life, if that's what yo… https://t.co/XnIDtLHUU1",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soslearning",
+					"name": "Esam Baboukhan",
+					"id": 498850763,
+					"id_str": "498850763",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Purposeful_tech",
+					"name": "ℝ𝕠𝕓",
+					"id": 1014074760895057900,
+					"id_str": "1014074760895057921",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						30,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XnIDtLHUU1",
+					"expanded_url": "https://twitter.com/i/web/status/1035277964223688704",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1035277039232839700,
+		"in_reply_to_status_id_str": "1035277039232839681",
+		"in_reply_to_user_id": 498850763,
+		"in_reply_to_user_id_str": "498850763",
+		"in_reply_to_screen_name": "soslearning",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17905,
+			"friends_count": 6646,
+			"listed_count": 583,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23831,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 30 21:01:55 +0000 2018",
 		"id": 1035271418106273800,
 		"id_str": "1035271418106273792",
