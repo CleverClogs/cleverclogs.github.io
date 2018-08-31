@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 31 18:06:28 +0000 2018",
+		"id": 1035589655901691900,
+		"id_str": "1035589655901691905",
+		"text": "Dutch educators, take note:\n@MicrosoftNL heeft vandaag uitstekende video interviews geplaatst met Nederlandse onder… https://t.co/a8ktRoP11s",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "microsoftnl",
+					"name": "Microsoft Nederland",
+					"id": 19016519,
+					"id_str": "19016519",
+					"indices": [
+						28,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a8ktRoP11s",
+					"expanded_url": "https://twitter.com/i/web/status/1035589655901691905",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17915,
+			"friends_count": 6653,
+			"listed_count": 583,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1035588620621672400,
+		"quoted_status_id_str": "1035588620621672448",
+		"quoted_status": {
+			"created_at": "Fri Aug 31 18:02:22 +0000 2018",
+			"id": 1035588620621672400,
+			"id_str": "1035588620621672448",
+			"text": "Nieuwe Nederlandse content op de Microsoft Educator Community! Kijk op https://t.co/alC7pFDZNw om onze MIE Experts… https://t.co/Nw5LhJVelj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/alC7pFDZNw",
+						"expanded_url": "http://aka.ms/MECcourses",
+						"display_url": "aka.ms/MECcourses",
+						"indices": [
+							71,
+							94
+						]
+					},
+					{
+						"url": "https://t.co/Nw5LhJVelj",
+						"expanded_url": "https://twitter.com/i/web/status/1035588620621672448",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3696206908,
+				"id_str": "3696206908",
+				"name": "Maartje Couck",
+				"screen_name": "maartjecouck",
+				"location": "Amsterdam, Nederland",
+				"description": "Teacher Engagement Manager @ Microsoft.\n\nGepassioneerd om elke leerkracht en leerling in Nederland digitaal vaardig te maken!",
+				"url": "https://t.co/NCd1RYihCf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NCd1RYihCf",
+								"expanded_url": "http://education.microsoft.com",
+								"display_url": "education.microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 113,
+				"friends_count": 183,
+				"listed_count": 11,
+				"created_at": "Fri Sep 18 11:49:05 +0000 2015",
+				"favourites_count": 228,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/954324330695004160/p260KfHN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/954324330695004160/p260KfHN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3696206908/1529076801",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl"
+	},
+	{
+		"created_at": "Fri Aug 31 17:36:19 +0000 2018",
+		"id": 1035582067931799600,
+		"id_str": "1035582067931799553",
+		"text": "RT @OfficeNews: Video-sharing app Microsoft Stream is coming to more @Office365 plans, including Office 365 Business Premium and Office 365…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OfficeNews",
+					"name": "Microsoft Office News",
+					"id": 740240040819753000,
+					"id_str": "740240040819752960",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						69,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17915,
+			"friends_count": 6653,
+			"listed_count": 583,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 31 17:36:00 +0000 2018",
+			"id": 1035581985656393700,
+			"id_str": "1035581985656393728",
+			"text": "Video-sharing app Microsoft Stream is coming to more @Office365 plans, including Office 365 Business Premium and Of… https://t.co/xEI4yQipu4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Office365",
+						"name": "Office 365",
+						"id": 137365854,
+						"id_str": "137365854",
+						"indices": [
+							53,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xEI4yQipu4",
+						"expanded_url": "https://twitter.com/i/web/status/1035581985656393728",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod1</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 740240040819753000,
+				"id_str": "740240040819752960",
+				"name": "Microsoft Office News",
+				"screen_name": "OfficeNews",
+				"location": "Redmond, WA",
+				"description": "We’re always improving Office to empower you to achieve the things that matter. Be the first to know about breaking news, updates, events, and more.",
+				"url": "https://t.co/5sH2lMuBJY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5sH2lMuBJY",
+								"expanded_url": "https://products.office.com/",
+								"display_url": "products.office.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 112511,
+				"friends_count": 1100,
+				"listed_count": 434,
+				"created_at": "Tue Jun 07 17:52:33 +0000 2016",
+				"favourites_count": 116,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2716,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875776440037384192/NYzM5yvj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875776440037384192/NYzM5yvj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/740240040819752960/1535488915",
+				"profile_link_color": "D83B01",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 31 16:26:50 +0000 2018",
 		"id": 1035564580867592200,
 		"id_str": "1035564580867592192",
