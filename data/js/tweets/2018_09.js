@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Wed Sep 05 13:32:08 +0000 2018",
+		"id": 1037332556549697500,
+		"id_str": "1037332556549697539",
+		"text": "RT @zelfstudie: Cool alternative for #Doodle: FindTime. especially when you are in Office 365. https://t.co/XE9mihelsc #MIEExpert https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Doodle",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						119,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XE9mihelsc",
+					"expanded_url": "https://findtime.microsoft.com",
+					"display_url": "findtime.microsoft.com",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17986,
+			"friends_count": 6671,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23892,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 05 12:40:23 +0000 2018",
+			"id": 1037319533122478100,
+			"id_str": "1037319533122478082",
+			"text": "Cool alternative for #Doodle: FindTime. especially when you are in Office 365. https://t.co/XE9mihelsc #MIEExpert https://t.co/AwVuerapuN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Doodle",
+						"indices": [
+							21,
+							28
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							103,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XE9mihelsc",
+						"expanded_url": "https://findtime.microsoft.com",
+						"display_url": "findtime.microsoft.com",
+						"indices": [
+							79,
+							102
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1037319144163737600,
+						"id_str": "1037319144163737603",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DmVMRAKXgAMjNqR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmVMRAKXgAMjNqR.jpg",
+						"url": "https://t.co/AwVuerapuN",
+						"display_url": "pic.twitter.com/AwVuerapuN",
+						"expanded_url": "https://twitter.com/zelfstudie/status/1037319533122478082/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 343,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1003,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1003,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1037319144163737600,
+						"id_str": "1037319144163737603",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DmVMRAKXgAMjNqR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmVMRAKXgAMjNqR.jpg",
+						"url": "https://t.co/AwVuerapuN",
+						"display_url": "pic.twitter.com/AwVuerapuN",
+						"expanded_url": "https://twitter.com/zelfstudie/status/1037319533122478082/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 343,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1003,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1003,
+								"h": 506,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1037319155874193400,
+						"id_str": "1037319155874193408",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DmVMRryW4AATmE7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmVMRryW4AATmE7.jpg",
+						"url": "https://t.co/AwVuerapuN",
+						"display_url": "pic.twitter.com/AwVuerapuN",
+						"expanded_url": "https://twitter.com/zelfstudie/status/1037319533122478082/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 790,
+								"h": 551,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 790,
+								"h": 551,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 474,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149593681,
+				"id_str": "149593681",
+				"name": "Koen Timmers",
+				"screen_name": "zelfstudie",
+				"location": "Belgium",
+				"description": "Author | Speaker | Lecturer | @TeacherPrize Top10 17/18 | Founder https://t.co/sQfH7MJ819 & @SDGlabschools | #MIEexpert | @NatGeo Educator | ♡ #EdTech #Sdgs",
+				"url": "https://t.co/CMArT0rZSU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CMArT0rZSU",
+								"expanded_url": "http://www.timmers.me",
+								"display_url": "timmers.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sQfH7MJ819",
+								"expanded_url": "http://ProjectKakuma.com",
+								"display_url": "ProjectKakuma.com",
+								"indices": [
+									66,
+									89
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8732,
+				"friends_count": 8743,
+				"listed_count": 376,
+				"created_at": "Sat May 29 17:52:29 +0000 2010",
+				"favourites_count": 15703,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8530,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D0D0D0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1512550696",
+				"profile_link_color": "D9650D",
+				"profile_sidebar_border_color": "0D0202",
+				"profile_sidebar_fill_color": "EDA426",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 04 21:06:08 +0000 2018",
 		"id": 1037084420711301100,
 		"id_str": "1037084420711301121",
