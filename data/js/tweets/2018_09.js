@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Tue Sep 11 06:58:53 +0000 2018",
+		"id": 1039407919152984000,
+		"id_str": "1039407919152984064",
+		"text": "@MrPmusings @msonenote Hi Russell, \nDeleting a #MicrosoftTeams team also deletes all resources connected with it, i… https://t.co/LbZ2uDKKjL",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						47,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrPmusings",
+					"name": "Russell Phillips",
+					"id": 438018822,
+					"id_str": "438018822",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LbZ2uDKKjL",
+					"expanded_url": "https://twitter.com/i/web/status/1039407919152984064",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1039324301147627500,
+		"in_reply_to_status_id_str": "1039324301147627525",
+		"in_reply_to_user_id": 438018822,
+		"in_reply_to_user_id_str": "438018822",
+		"in_reply_to_screen_name": "MrPmusings",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18063,
+			"friends_count": 6675,
+			"listed_count": 578,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23915,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 11 06:47:24 +0000 2018",
+		"id": 1039405026517635100,
+		"id_str": "1039405026517635072",
+		"text": "RT @Lian_Hoang: Trying out the rainbow pen on @msonenote .\n\n#Art #fanart #artforfun #marvel #captainmarvel #girlpower #Microsoft #OneNote h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Art",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "fanart",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "artforfun",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "marvel",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "captainmarvel",
+					"indices": [
+						92,
+						106
+					]
+				},
+				{
+					"text": "girlpower",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lian_Hoang",
+					"name": "Lian Hoang",
+					"id": 971169291570765800,
+					"id_str": "971169291570765824",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						46,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18063,
+			"friends_count": 6675,
+			"listed_count": 578,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23915,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 09 19:33:53 +0000 2018",
+			"id": 1038873142129819600,
+			"id_str": "1038873142129819648",
+			"text": "Trying out the rainbow pen on @msonenote .\n\n#Art #fanart #artforfun #marvel #captainmarvel #girlpower #Microsoft… https://t.co/rQ4YZ01qti",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Art",
+						"indices": [
+							44,
+							48
+						]
+					},
+					{
+						"text": "fanart",
+						"indices": [
+							49,
+							56
+						]
+					},
+					{
+						"text": "artforfun",
+						"indices": [
+							57,
+							67
+						]
+					},
+					{
+						"text": "marvel",
+						"indices": [
+							68,
+							75
+						]
+					},
+					{
+						"text": "captainmarvel",
+						"indices": [
+							76,
+							90
+						]
+					},
+					{
+						"text": "girlpower",
+						"indices": [
+							91,
+							101
+						]
+					},
+					{
+						"text": "Microsoft",
+						"indices": [
+							102,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							30,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rQ4YZ01qti",
+						"expanded_url": "https://twitter.com/i/web/status/1038873142129819648",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 971169291570765800,
+				"id_str": "971169291570765824",
+				"name": "Lian Hoang",
+				"screen_name": "Lian_Hoang",
+				"location": "",
+				"description": "SC 19’ | 👩‍🎨 & 🏊‍♀️for Fun | JGHS Graduate | Disney/Marvel/HP Fan | (Note: Profile pic art by Dylan Bonner)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4,
+				"friends_count": 65,
+				"listed_count": 0,
+				"created_at": "Tue Mar 06 23:42:57 +0000 2018",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 266,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033137250224271366/eg-NG8RI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033137250224271366/eg-NG8RI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/971169291570765824/1535251894",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 10 20:41:12 +0000 2018",
 		"id": 1039252472190120000,
 		"id_str": "1039252472190119938",
