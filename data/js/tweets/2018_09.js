@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sun Sep 16 16:58:35 +0000 2018",
+		"id": 1041370775738048500,
+		"id_str": "1041370775738048515",
+		"text": "RT @MegLKoury: It’s raining cats and dogs, and while normally I would be all in for a movie day and sweats I just can’t stop myself from ch…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MegLKoury",
+					"name": "Meg Koury",
+					"id": 872095691765669900,
+					"id_str": "872095691765669888",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18141,
+			"friends_count": 6702,
+			"listed_count": 580,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23966,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 16 16:00:44 +0000 2018",
+			"id": 1041356220051816400,
+			"id_str": "1041356220051816448",
+			"text": "It’s raining cats and dogs, and while normally I would be all in for a movie day and sweats I just can’t stop mysel… https://t.co/evZoQFGNrm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/evZoQFGNrm",
+						"expanded_url": "https://twitter.com/i/web/status/1041356220051816448",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 872095691765669900,
+				"id_str": "872095691765669888",
+				"name": "Meg Koury",
+				"screen_name": "MegLKoury",
+				"location": "Seattle, WA",
+				"description": "Science Teacher| Technology Integration Facilitator| M.Ed Technology Candidate | Alumna of @BoiseStateLive",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59,
+				"friends_count": 130,
+				"listed_count": 2,
+				"created_at": "Tue Jun 06 14:19:50 +0000 2017",
+				"favourites_count": 49,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 84,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872120631772327936/QBDdXWsx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872120631772327936/QBDdXWsx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/872095691765669888/1516045716",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Sep 16 16:54:23 +0000 2018",
+		"id": 1041369719977205800,
+		"id_str": "1041369719977205760",
+		"text": "RT @ChrisAdongo: God bless the one that created Microsoft OneNote, superb! @Microsoft https://t.co/YerawaotJI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisAdongo",
+					"name": "ChrisAdongo",
+					"id": 2984617073,
+					"id_str": "2984617073",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1041369324664115200,
+					"id_str": "1041369324664115200",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DnOv4iSX0AApA88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnOv4iSX0AApA88.jpg",
+					"url": "https://t.co/YerawaotJI",
+					"display_url": "pic.twitter.com/YerawaotJI",
+					"expanded_url": "https://twitter.com/ChrisAdongo/status/1041369356188442625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1041369356188442600,
+					"source_status_id_str": "1041369356188442625",
+					"source_user_id": 2984617073,
+					"source_user_id_str": "2984617073"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1041369324664115200,
+					"id_str": "1041369324664115200",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DnOv4iSX0AApA88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnOv4iSX0AApA88.jpg",
+					"url": "https://t.co/YerawaotJI",
+					"display_url": "pic.twitter.com/YerawaotJI",
+					"expanded_url": "https://twitter.com/ChrisAdongo/status/1041369356188442625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1041369356188442600,
+					"source_status_id_str": "1041369356188442625",
+					"source_user_id": 2984617073,
+					"source_user_id_str": "2984617073"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18141,
+			"friends_count": 6702,
+			"listed_count": 580,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23966,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 16 16:52:56 +0000 2018",
+			"id": 1041369356188442600,
+			"id_str": "1041369356188442625",
+			"text": "God bless the one that created Microsoft OneNote, superb! @Microsoft https://t.co/YerawaotJI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Microsoft",
+						"name": "Microsoft",
+						"id": 74286565,
+						"id_str": "74286565",
+						"indices": [
+							58,
+							68
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1041369324664115200,
+						"id_str": "1041369324664115200",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DnOv4iSX0AApA88.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnOv4iSX0AApA88.jpg",
+						"url": "https://t.co/YerawaotJI",
+						"display_url": "pic.twitter.com/YerawaotJI",
+						"expanded_url": "https://twitter.com/ChrisAdongo/status/1041369356188442625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1041369324664115200,
+						"id_str": "1041369324664115200",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/DnOv4iSX0AApA88.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DnOv4iSX0AApA88.jpg",
+						"url": "https://t.co/YerawaotJI",
+						"display_url": "pic.twitter.com/YerawaotJI",
+						"expanded_url": "https://twitter.com/ChrisAdongo/status/1041369356188442625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2984617073,
+				"id_str": "2984617073",
+				"name": "ChrisAdongo",
+				"screen_name": "ChrisAdongo",
+				"location": "Nairobi, Kenya ",
+				"description": "Simple || descent || compassionate || sociable || Hardworking~Entrepreneur...First Class Hons...inter alia; Founder & CEO, Aconet Multimedia Ltd",
+				"url": "https://t.co/piJlZyzfQo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/piJlZyzfQo",
+								"expanded_url": "http://aconet.co.ke",
+								"display_url": "aconet.co.ke",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4953,
+				"friends_count": 3943,
+				"listed_count": 53,
+				"created_at": "Sun Jan 18 20:37:58 +0000 2015",
+				"favourites_count": 1065,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10554,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1020187401036103680/NOkR5jvG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020187401036103680/NOkR5jvG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2984617073/1530526979",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 16 13:26:36 +0000 2018",
 		"id": 1041317428687454200,
 		"id_str": "1041317428687454208",
@@ -390,7 +956,7 @@ Grailbird.data.tweets_2018_09 =
 				"name": "Barry #resists 🌊 🌈 🇺🇸 🌊",
 				"screen_name": "bluemoon768",
 				"location": "Chicago, IL",
-				"description": "Proud liberal democrat and member of #theresistance!! #MAGAts will be blocked!! #LGBTQ 🏳️‍🌈 #UniteBlue #doglover #atheist #gunreformnow #FBR NO DMs or Lists!!",
+				"description": "Proud liberal democrat and member of #theresistance!! #MAGAts will be blocked!! #LGBTQ 🏳️🌈 #UniteBlue #doglover #atheist #gunreformnow #FBR NO DMs or Lists!!",
 				"url": null,
 				"entities": {
 					"description": {
