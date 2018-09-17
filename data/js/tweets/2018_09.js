@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 17 09:02:20 +0000 2018",
+		"id": 1041613313212395500,
+		"id_str": "1041613313212395521",
+		"text": "RT @aikazee_: Pro Tip. \nGet Microsoft OneNote on your laptop &amp; phone! Write down your notes during lecture w/ your laptop &amp; when you take a…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aikazee_",
+					"name": "(⺣◡⺣)♡*",
+					"id": 736424665,
+					"id_str": "736424665",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18149,
+			"friends_count": 6704,
+			"listed_count": 580,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23968,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 17 06:33:21 +0000 2018",
+			"id": 1041575818936254500,
+			"id_str": "1041575818936254464",
+			"text": "Pro Tip. \nGet Microsoft OneNote on your laptop &amp; phone! Write down your notes during lecture w/ your laptop &amp; when… https://t.co/9WDzr3BDdU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9WDzr3BDdU",
+						"expanded_url": "https://twitter.com/i/web/status/1041575818936254464",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							124,
+							147
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 736424665,
+				"id_str": "736424665",
+				"name": "(⺣◡⺣)♡*",
+				"screen_name": "aikazee_",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/zyM3P4jE0B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zyM3P4jE0B",
+								"expanded_url": "https://www.instagram.com/aikazee/",
+								"display_url": "instagram.com/aikazee/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5543,
+				"friends_count": 513,
+				"listed_count": 51,
+				"created_at": "Sat Aug 04 09:15:54 +0000 2012",
+				"favourites_count": 16548,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 108709,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "71BDF0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965196663508762624/atXCyxyz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965196663508762624/atXCyxyz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/736424665/1518959591",
+				"profile_link_color": "E8337B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1039928141739909100,
+			"quoted_status_id_str": "1039928141739909120",
+			"quoted_status": {
+				"created_at": "Wed Sep 12 17:26:04 +0000 2018",
+				"id": 1039928141739909100,
+				"id_str": "1039928141739909120",
+				"text": "Me in class taking a picture of the board that I know I will never look at again https://t.co/doZbHArbS5",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1039928133376454700,
+							"id_str": "1039928133376454658",
+							"indices": [
+								81,
+								104
+							],
+							"media_url": "http://pbs.twimg.com/media/Dm6RIKXWsAI4tEq.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dm6RIKXWsAI4tEq.jpg",
+							"url": "https://t.co/doZbHArbS5",
+							"display_url": "pic.twitter.com/doZbHArbS5",
+							"expanded_url": "https://twitter.com/arabianthvg/status/1039928141739909120/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 599,
+									"h": 742,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 599,
+									"h": 742,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 549,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1039928133376454700,
+							"id_str": "1039928133376454658",
+							"indices": [
+								81,
+								104
+							],
+							"media_url": "http://pbs.twimg.com/media/Dm6RIKXWsAI4tEq.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dm6RIKXWsAI4tEq.jpg",
+							"url": "https://t.co/doZbHArbS5",
+							"display_url": "pic.twitter.com/doZbHArbS5",
+							"expanded_url": "https://twitter.com/arabianthvg/status/1039928141739909120/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 599,
+									"h": 742,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 599,
+									"h": 742,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 549,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 835662380633837600,
+					"id_str": "835662380633837568",
+					"name": "khaled | خالد",
+					"screen_name": "arabianthvg",
+					"location": "",
+					"description": "🇾🇪//🇶🇦 | 🇬🇧📍",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 302,
+					"friends_count": 62,
+					"listed_count": 0,
+					"created_at": "Sun Feb 26 01:26:52 +0000 2017",
+					"favourites_count": 4822,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3110,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1041184412367507456/bw-nTGIN_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041184412367507456/bw-nTGIN_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/835662380633837568/1536856588",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 13504,
+				"favorite_count": 29501,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 158,
+			"favorite_count": 275,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1039928141739909100,
+		"quoted_status_id_str": "1039928141739909120",
+		"retweet_count": 158,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 17 08:49:54 +0000 2018",
+		"id": 1041610183703707600,
+		"id_str": "1041610183703707648",
+		"text": "@SoniaKandola05 @FilsingerTrevor @YouTube @msonenote @GoogleKeep @Pocket Hi Sonia,\nLet me know how you get on with… https://t.co/fotSVR6dXF",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SoniaKandola05",
+					"name": "Sonia Kandola",
+					"id": 1037178932301258800,
+					"id_str": "1037178932301258752",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "FilsingerTrevor",
+					"name": "Trevor Filsinger",
+					"id": 1037745808794378200,
+					"id_str": "1037745808794378240",
+					"indices": [
+						16,
+						32
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "GoogleKeep",
+					"name": "Google Keep",
+					"id": 1363478034,
+					"id_str": "1363478034",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"screen_name": "Pocket",
+					"name": "Pocket",
+					"id": 27530178,
+					"id_str": "27530178",
+					"indices": [
+						65,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fotSVR6dXF",
+					"expanded_url": "https://twitter.com/i/web/status/1041610183703707648",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1041519772779733000,
+		"in_reply_to_status_id_str": "1041519772779732993",
+		"in_reply_to_user_id": 1037178932301258800,
+		"in_reply_to_user_id_str": "1037178932301258752",
+		"in_reply_to_screen_name": "SoniaKandola05",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18149,
+			"friends_count": 6704,
+			"listed_count": 580,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23968,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 16 18:32:44 +0000 2018",
 		"id": 1041394470565146600,
 		"id_str": "1041394470565146624",
