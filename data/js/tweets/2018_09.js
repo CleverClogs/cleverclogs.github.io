@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Wed Sep 19 13:50:37 +0000 2018",
+		"id": 1042410636377030700,
+		"id_str": "1042410636377030657",
+		"text": "Awesome 360°-view of @Kevin_Sait introducing a large room full of educators to #OneNote. \n#MSBootcamp\n\ngreat share,… https://t.co/pn2ICuSg4F",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "MSBootcamp",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kevin_sait",
+					"name": "Kevin Sait",
+					"id": 81199467,
+					"id_str": "81199467",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pn2ICuSg4F",
+					"expanded_url": "https://twitter.com/i/web/status/1042410636377030657",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18188,
+			"friends_count": 6722,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24018,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1524564118",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1042404306803015700,
+		"quoted_status_id_str": "1042404306803015680",
+		"quoted_status": {
+			"created_at": "Wed Sep 19 13:25:28 +0000 2018",
+			"id": 1042404306803015700,
+			"id_str": "1042404306803015680",
+			"text": "It’s OneNote time with @kevin_sait at #MSBootcamp and a MEC code to go with it!! #MicrosoftEdu @ClareRiley100… https://t.co/uFwTVhYMZ0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSBootcamp",
+						"indices": [
+							38,
+							49
+						]
+					},
+					{
+						"text": "MicrosoftEdu",
+						"indices": [
+							81,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kevin_sait",
+						"name": "Kevin Sait",
+						"id": 81199467,
+						"id_str": "81199467",
+						"indices": [
+							23,
+							34
+						]
+					},
+					{
+						"screen_name": "ClareRiley100",
+						"name": "Clare Riley",
+						"id": 428257653,
+						"id_str": "428257653",
+						"indices": [
+							95,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uFwTVhYMZ0",
+						"expanded_url": "https://twitter.com/i/web/status/1042404306803015680",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 601884859,
+				"id_str": "601884859",
+				"name": "A Crawford",
+				"screen_name": "ACrawford100",
+				"location": "Reading, England",
+				"description": "Educator and proponent of technology in education. Particular focus on Microsoft and O365 environments. Views are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 430,
+				"friends_count": 336,
+				"listed_count": 78,
+				"created_at": "Thu Jun 07 13:42:07 +0000 2012",
+				"favourites_count": 553,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2992,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/438296210487521280/JfxNqipo_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/438296210487521280/JfxNqipo_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/601884859/1478362496",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "6863fd050de21120",
+				"url": "https://api.twitter.com/1.1/geo/id/6863fd050de21120.json",
+				"place_type": "city",
+				"name": "Leeds",
+				"full_name": "Leeds, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.706057,
+								53.7363694
+							],
+							[
+								-1.424923,
+								53.7363694
+							],
+							[
+								-1.424923,
+								53.867543
+							],
+							[
+								-1.706057,
+								53.867543
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 19 13:19:19 +0000 2018",
 		"id": 1042402760057135100,
 		"id_str": "1042402760057135106",
