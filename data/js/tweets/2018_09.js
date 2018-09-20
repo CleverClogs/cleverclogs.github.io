@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 20 21:43:50 +0000 2018",
+		"id": 1042892112373657600,
+		"id_str": "1042892112373657600",
+		"text": "RT @C_Burica: The addition of Rubrics embedded in @MicrosoftTeams has made an immediate difference in our classroom this year. Clear and tr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "C_Burica",
+					"name": "Chris Burica",
+					"id": 936790064817999900,
+					"id_str": "936790064817999872",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						50,
+						65
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18219,
+			"friends_count": 6739,
+			"listed_count": 580,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24061,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 20 20:26:54 +0000 2018",
+			"id": 1042872750883463200,
+			"id_str": "1042872750883463169",
+			"text": "The addition of Rubrics embedded in @MicrosoftTeams has made an immediate difference in our classroom this year. Cl… https://t.co/XI39SSXPOO",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftTeams",
+						"name": "Microsoft Teams",
+						"id": 817461289081409500,
+						"id_str": "817461289081409536",
+						"indices": [
+							36,
+							51
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XI39SSXPOO",
+						"expanded_url": "https://twitter.com/i/web/status/1042872750883463169",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 936790064817999900,
+				"id_str": "936790064817999872",
+				"name": "Chris Burica",
+				"screen_name": "C_Burica",
+				"location": "Old Bridge, NJ",
+				"description": "6th Grade ELA Teacher & Cougar Chronicle Advisor: Carl Sandburg Middle School. Microsoft Innovative Educator Expert/@Nearpod & @GetKahoot Gold Certified",
+				"url": "https://t.co/A3LgLq2rgK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A3LgLq2rgK",
+								"expanded_url": "http://flipbook.obps.org/CougarChronicle",
+								"display_url": "flipbook.obps.org/CougarChronicle",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 93,
+				"friends_count": 54,
+				"listed_count": 3,
+				"created_at": "Sat Dec 02 02:52:10 +0000 2017",
+				"favourites_count": 674,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 61,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004425720804839424/nT-0yh4f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004425720804839424/nT-0yh4f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/936790064817999872/1512444132",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 20 21:14:36 +0000 2018",
 		"id": 1042884756998901800,
 		"id_str": "1042884756998901763",
