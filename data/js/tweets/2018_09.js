@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 21 11:38:23 +0000 2018",
+		"id": 1043102136664510500,
+		"id_str": "1043102136664510464",
+		"text": "RT @IanMikutel: Absolutely ❤️ seeing folks use Microsoft Whiteboard to unlock fun, new ways to teach, collaborate &amp; help students learn! #M…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanMikutel",
+					"name": "Ian Mikutel",
+					"id": 2157421,
+					"id_str": "2157421",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18222,
+			"friends_count": 6740,
+			"listed_count": 580,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24064,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 21 06:15:57 +0000 2018",
+			"id": 1043020991285219300,
+			"id_str": "1043020991285219328",
+			"text": "Absolutely ❤️ seeing folks use Microsoft Whiteboard to unlock fun, new ways to teach, collaborate &amp; help students l… https://t.co/j3qbGm99yF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j3qbGm99yF",
+						"expanded_url": "https://twitter.com/i/web/status/1043020991285219328",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2157421,
+				"id_str": "2157421",
+				"name": "Ian Mikutel",
+				"screen_name": "IanMikutel",
+				"location": "Redmond, WA",
+				"description": "Sr Product Lead, Ink/AI/EDU @Microsoft Whiteboard. Host @TheBetterShow podcast 🎙. Investor - @ReadMeIO (YC W15), @SeeLaforge & @AmpleMeal. ❤️ food & fitness!",
+				"url": "https://t.co/NVlxG6E2NM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NVlxG6E2NM",
+								"expanded_url": "http://ianmik.com",
+								"display_url": "ianmik.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2139,
+				"friends_count": 1042,
+				"listed_count": 140,
+				"created_at": "Sun Mar 25 05:25:59 +0000 2007",
+				"favourites_count": 13913,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11329,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2157421/1404893964",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7291a25672e0d4b1",
+				"url": "https://api.twitter.com/1.1/geo/id/7291a25672e0d4b1.json",
+				"place_type": "city",
+				"name": "Redmond",
+				"full_name": "Redmond, WA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.1649,
+								47.626845
+							],
+							[
+								-121.958642,
+								47.626845
+							],
+							[
+								-121.958642,
+								47.73078
+							],
+							[
+								-122.1649,
+								47.73078
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1042869027113259000,
+			"quoted_status_id_str": "1042869027113259009",
+			"quoted_status": {
+				"created_at": "Thu Sep 20 20:12:06 +0000 2018",
+				"id": 1042869027113259000,
+				"id_str": "1042869027113259009",
+				"text": "2day the Ss followed a “code” I wrote by coloring in a grid on the @Microsoft Whiteboard app. Some classes tried to… https://t.co/B68FImlexa",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Microsoft",
+							"name": "Microsoft",
+							"id": 74286565,
+							"id_str": "74286565",
+							"indices": [
+								67,
+								77
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/B68FImlexa",
+							"expanded_url": "https://twitter.com/i/web/status/1042869027113259009",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3731840057,
+					"id_str": "3731840057",
+					"name": "𝔸𝕝𝕖𝕩𝕒𝕟𝕕𝕣𝕒 𝕃𝕒𝕣𝕤𝕠𝕟 🍁",
+					"screen_name": "Alex_n_wndrlnd",
+					"location": "Atlanta, GA",
+					"description": "@APSInman Tech Teacher•🤓•Non-Fiction Junkie•🎬 Lover•🐶 Mom•Wifey•Vermonter at ❤•@i2eEDU PLS•#MIEExpert•@Flipgrid Ambassador•@brainpop Cert Educator•#SBexpert",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 810,
+					"friends_count": 827,
+					"listed_count": 42,
+					"created_at": "Mon Sep 21 20:50:07 +0000 2015",
+					"favourites_count": 3753,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3380,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1021508343121305600/U3cUw6rg_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021508343121305600/U3cUw6rg_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3731840057/1472090850",
+					"profile_link_color": "981CEB",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 10,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1042869027113259000,
+		"quoted_status_id_str": "1042869027113259009",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 21 03:09:02 +0000 2018",
 		"id": 1042973951771783200,
 		"id_str": "1042973951771783168",
