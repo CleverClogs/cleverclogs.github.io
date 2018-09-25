@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Tue Sep 25 19:51:51 +0000 2018",
+		"id": 1044675872555495400,
+		"id_str": "1044675872555495426",
+		"text": "RT @michelelfreed: Congrats to @ThingLink_EDU , looking forward to seeing Students have more engaging stories!  #MicrosoftTeams #MicrosoftE…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						112,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michelelfreed",
+					"name": "michelelfreed",
+					"id": 12339502,
+					"id_str": "12339502",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "ThingLink_EDU",
+					"name": "ThingLink Education",
+					"id": 537645228,
+					"id_str": "537645228",
+					"indices": [
+						31,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18292,
+			"friends_count": 6851,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 26957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24159,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 25 19:50:52 +0000 2018",
+			"id": 1044675625779249200,
+			"id_str": "1044675625779249152",
+			"text": "Congrats to @ThingLink_EDU , looking forward to seeing Students have more engaging stories!  #MicrosoftTeams… https://t.co/TYO2ZEVYUU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftTeams",
+						"indices": [
+							93,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ThingLink_EDU",
+						"name": "ThingLink Education",
+						"id": 537645228,
+						"id_str": "537645228",
+						"indices": [
+							12,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TYO2ZEVYUU",
+						"expanded_url": "https://twitter.com/i/web/status/1044675625779249152",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12339502,
+				"id_str": "12339502",
+				"name": "michelelfreed",
+				"screen_name": "michelelfreed",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/px9CfyjYTC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/px9CfyjYTC",
+								"expanded_url": "https://www.linkedin.com/in/michelefreed",
+								"display_url": "linkedin.com/in/michelefreed",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251,
+				"friends_count": 544,
+				"listed_count": 13,
+				"created_at": "Thu Jan 17 00:37:04 +0000 2008",
+				"favourites_count": 764,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3087,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/742803064331997184/LT47HJQZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/742803064331997184/LT47HJQZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12339502/1466271392",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1040463794256916500,
+			"quoted_status_id_str": "1040463794256916481",
+			"quoted_status": {
+				"created_at": "Fri Sep 14 04:54:34 +0000 2018",
+				"id": 1040463794256916500,
+				"id_str": "1040463794256916481",
+				"text": "Today at @SETTFIN: How to create stunning 360 virtual tours in the @Office environment? Come and see a preview of… https://t.co/NSMnlEPvqB",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "SETTFIN",
+							"name": "SETT Finland",
+							"id": 2987075829,
+							"id_str": "2987075829",
+							"indices": [
+								9,
+								17
+							]
+						},
+						{
+							"screen_name": "Office",
+							"name": "Microsoft Office",
+							"id": 22209176,
+							"id_str": "22209176",
+							"indices": [
+								67,
+								74
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/NSMnlEPvqB",
+							"expanded_url": "https://twitter.com/i/web/status/1040463794256916481",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 537645228,
+					"id_str": "537645228",
+					"name": "ThingLink Education",
+					"screen_name": "ThingLink_EDU",
+					"location": "New York, NY",
+					"description": "TL #interactive #images & #videos help #students grow skills & enrich their enthusiasm for #learning. New features/inspiration: https://t.co/gnUnzdAfhX #vr #360",
+					"url": "http://t.co/KKDaE36EEs",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/KKDaE36EEs",
+									"expanded_url": "http://thinglink.com/edu",
+									"display_url": "thinglink.com/edu",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/gnUnzdAfhX",
+									"expanded_url": "http://thinglinkblog.com",
+									"display_url": "thinglinkblog.com",
+									"indices": [
+										128,
+										151
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 9515,
+					"friends_count": 2200,
+					"listed_count": 319,
+					"created_at": "Mon Mar 26 21:02:54 +0000 2012",
+					"favourites_count": 336,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 6284,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/2016643434/ThingLink_Education_Avatar_no_name_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/2016643434/ThingLink_Education_Avatar_no_name_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/537645228/1476141817",
+					"profile_link_color": "4A913C",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 9,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1040463794256916500,
+		"quoted_status_id_str": "1040463794256916481",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 25 19:17:43 +0000 2018",
 		"id": 1044667279626178600,
 		"id_str": "1044667279626178560",
