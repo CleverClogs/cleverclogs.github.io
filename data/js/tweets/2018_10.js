@@ -1,6 +1,516 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 02 21:10:46 +0000 2018",
+		"id": 1047232448361373700,
+		"id_str": "1047232448361373696",
+		"text": "RT @surface: Announcing the new #SurfaceStudio2. Rise to every creative challenge. #MicrosoftEvent https://t.co/CRJiIS7U4l",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SurfaceStudio2",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"text": "MicrosoftEvent",
+					"indices": [
+						83,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "surface",
+					"name": "Microsoft Surface",
+					"id": 612076511,
+					"id_str": "612076511",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1047196960065605600,
+					"id_str": "1047196960065605634",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1047196960065605634/img/iQ-E9OJeQwqeIE1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1047196960065605634/img/iQ-E9OJeQwqeIE1Y.jpg",
+					"url": "https://t.co/CRJiIS7U4l",
+					"display_url": "pic.twitter.com/CRJiIS7U4l",
+					"expanded_url": "https://twitter.com/surface/status/1047227292810805248/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1047227292810805200,
+					"source_status_id_str": "1047227292810805248",
+					"source_user_id": 612076511,
+					"source_user_id_str": "612076511"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1047196960065605600,
+					"id_str": "1047196960065605634",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1047196960065605634/img/iQ-E9OJeQwqeIE1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1047196960065605634/img/iQ-E9OJeQwqeIE1Y.jpg",
+					"url": "https://t.co/CRJiIS7U4l",
+					"display_url": "pic.twitter.com/CRJiIS7U4l",
+					"expanded_url": "https://twitter.com/surface/status/1047227292810805248/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1047227292810805200,
+					"source_status_id_str": "1047227292810805248",
+					"source_user_id": 612076511,
+					"source_user_id_str": "612076511",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 90000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1047196960065605634/vid/640x360/nFqbPOv7kM4Oq7dB.mp4?tag=8"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1047196960065605634/vid/320x180/Z0gEAGNtAzfBx2cu.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1047196960065605634/vid/1280x720/kFOV1bq1upC_KTR-.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1047196960065605634/pl/HelEHjT9dflBHaqE.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 612076511,
+							"id_str": "612076511",
+							"name": "Microsoft Surface",
+							"screen_name": "surface",
+							"location": "Redmond, WA",
+							"description": "Microsoft Surface: Work, play & create with the ultimate family of devices. For technical support, tweet @MicrosoftHelps.",
+							"url": "http://t.co/Rj5kzgByd7",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/Rj5kzgByd7",
+											"expanded_url": "http://www.surface.com",
+											"display_url": "surface.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 545352,
+							"friends_count": 660,
+							"listed_count": 3168,
+							"created_at": "Mon Jun 18 23:04:13 +0000 2012",
+							"favourites_count": 4836,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 103730,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "0084C9",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/919968475069612032/QakacXEr_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/919968475069612032/QakacXEr_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/612076511/1531186815",
+							"profile_link_color": "0084C9",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18372,
+			"friends_count": 6903,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24294,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 02 20:50:17 +0000 2018",
+			"id": 1047227292810805200,
+			"id_str": "1047227292810805248",
+			"text": "Announcing the new #SurfaceStudio2. Rise to every creative challenge. #MicrosoftEvent https://t.co/CRJiIS7U4l",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SurfaceStudio2",
+						"indices": [
+							19,
+							34
+						]
+					},
+					{
+						"text": "MicrosoftEvent",
+						"indices": [
+							70,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1047196960065605600,
+						"id_str": "1047196960065605634",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1047196960065605634/img/iQ-E9OJeQwqeIE1Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1047196960065605634/img/iQ-E9OJeQwqeIE1Y.jpg",
+						"url": "https://t.co/CRJiIS7U4l",
+						"display_url": "pic.twitter.com/CRJiIS7U4l",
+						"expanded_url": "https://twitter.com/surface/status/1047227292810805248/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1047196960065605600,
+						"id_str": "1047196960065605634",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1047196960065605634/img/iQ-E9OJeQwqeIE1Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1047196960065605634/img/iQ-E9OJeQwqeIE1Y.jpg",
+						"url": "https://t.co/CRJiIS7U4l",
+						"display_url": "pic.twitter.com/CRJiIS7U4l",
+						"expanded_url": "https://twitter.com/surface/status/1047227292810805248/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 90000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1047196960065605634/vid/640x360/nFqbPOv7kM4Oq7dB.mp4?tag=8"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1047196960065605634/vid/320x180/Z0gEAGNtAzfBx2cu.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1047196960065605634/vid/1280x720/kFOV1bq1upC_KTR-.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1047196960065605634/pl/HelEHjT9dflBHaqE.m3u8?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 612076511,
+				"id_str": "612076511",
+				"name": "Microsoft Surface",
+				"screen_name": "surface",
+				"location": "Redmond, WA",
+				"description": "Microsoft Surface: Work, play & create with the ultimate family of devices. For technical support, tweet @MicrosoftHelps.",
+				"url": "http://t.co/Rj5kzgByd7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Rj5kzgByd7",
+								"expanded_url": "http://www.surface.com",
+								"display_url": "surface.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 545352,
+				"friends_count": 660,
+				"listed_count": 3168,
+				"created_at": "Mon Jun 18 23:04:13 +0000 2012",
+				"favourites_count": 4836,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 103730,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0084C9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/919968475069612032/QakacXEr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/919968475069612032/QakacXEr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/612076511/1531186815",
+				"profile_link_color": "0084C9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 250,
+			"favorite_count": 494,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 250,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 02 17:45:53 +0000 2018",
 		"id": 1047180887341850600,
 		"id_str": "1047180887341850624",
