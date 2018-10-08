@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 08 23:01:29 +0000 2018",
+		"id": 1049434637733367800,
+		"id_str": "1049434637733367809",
+		"text": "Whoa. #OneNote for #Android users should really try this out. \nCreate some sticky notes with the @StickyNotes app a… https://t.co/feuEKCrVrl",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "Android",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stickynotes",
+					"name": "Sticky Notes",
+					"id": 774181166924509200,
+					"id_str": "774181166924509184",
+					"indices": [
+						97,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/feuEKCrVrl",
+					"expanded_url": "https://twitter.com/i/web/status/1049434637733367809",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18462,
+			"friends_count": 6911,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24326,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1049422605818757100,
+		"quoted_status_id_str": "1049422605818757122",
+		"quoted_status": {
+			"created_at": "Mon Oct 08 22:13:41 +0000 2018",
+			"id": 1049422605818757100,
+			"id_str": "1049422605818757122",
+			"text": "@RezaJooyandeh @stickynotes Yay! I noticed #StickyNotes3 syncs in the Android #OneNote app now. All your sticky not… https://t.co/u2Bh9X7qVa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StickyNotes3",
+						"indices": [
+							43,
+							56
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							78,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RezaJooyandeh",
+						"name": "Reza Jooyandeh 🌈",
+						"id": 2246117322,
+						"id_str": "2246117322",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "stickynotes",
+						"name": "Sticky Notes",
+						"id": 774181166924509200,
+						"id_str": "774181166924509184",
+						"indices": [
+							15,
+							27
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/u2Bh9X7qVa",
+						"expanded_url": "https://twitter.com/i/web/status/1049422605818757122",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": 1049370228654628900,
+			"in_reply_to_status_id_str": "1049370228654628864",
+			"in_reply_to_user_id": 2246117322,
+			"in_reply_to_user_id_str": "2246117322",
+			"in_reply_to_screen_name": "RezaJooyandeh",
+			"user": {
+				"id": 231475911,
+				"id_str": "231475911",
+				"name": "Justin C. Philip",
+				"screen_name": "justincphilip",
+				"location": "Canada",
+				"description": "Photographer, Blogger, World Traveller, Microsoft Enthusiast, Creative advocate of peace + unity + positive tech innovation, and a Lover of Jesus Christ.",
+				"url": "https://t.co/EjlkzMMo3i",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EjlkzMMo3i",
+								"expanded_url": "http://about.me/justincphilip",
+								"display_url": "about.me/justincphilip",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 539,
+				"friends_count": 1592,
+				"listed_count": 19,
+				"created_at": "Tue Dec 28 16:42:30 +0000 2010",
+				"favourites_count": 2749,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 767,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "111111",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/579456830587318272/sGXK9QxZ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/579456830587318272/sGXK9QxZ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/231475911/1420324808",
+				"profile_link_color": "79B100",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "111111",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 08 22:31:01 +0000 2018",
 		"id": 1049426967727153200,
 		"id_str": "1049426967727153152",
