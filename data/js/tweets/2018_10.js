@@ -1,6 +1,1111 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 11 16:12:10 +0000 2018",
+		"id": 1050418794026405900,
+		"id_str": "1050418794026405889",
+		"full_text": "RT @TweetMeet: Anica's gorgeous monthly #Sway stories about the TweetMeets are a true delight.\nRead and share her brand-new Sway for the #M…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sway",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "skypeathon",
+					"indices": [
+						166,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnicaTrickovic",
+					"name": "Anica Tričković",
+					"id": 3062086342,
+					"id_str": "3062086342",
+					"indices": [
+						207,
+						222
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oOCXKn3ZZB",
+					"expanded_url": "https://sway.office.com/3CRxaXmZjVKFFVkJ",
+					"display_url": "sway.office.com/3CRxaXmZjVKFFV…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050381179055149000,
+					"id_str": "1050381179055149056",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/DpO0HgBWkAAaoBA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpO0HgBWkAAaoBA.jpg",
+					"url": "https://t.co/ViG8UGRHHA",
+					"display_url": "pic.twitter.com/ViG8UGRHHA",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1050381996357275650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1082,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18521,
+			"friends_count": 6924,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24361,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 11 13:45:57 +0000 2018",
+			"id": 1050381996357275600,
+			"id_str": "1050381996357275650",
+			"full_text": "Anica's gorgeous monthly #Sway stories about the TweetMeets are a true delight.\nRead and share her brand-new Sway for the #MSFTEduChat about Global Collaboration and #skypeathon:\n\nhttps://t.co/oOCXKn3ZZB\nby @AnicaTrickovic\n\nEvent date: Tue October 16 - 10am PDT https://t.co/ViG8UGRHHA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Sway",
+						"indices": [
+							25,
+							30
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							122,
+							134
+						]
+					},
+					{
+						"text": "skypeathon",
+						"indices": [
+							166,
+							177
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AnicaTrickovic",
+						"name": "Anica Tričković",
+						"id": 3062086342,
+						"id_str": "3062086342",
+						"indices": [
+							207,
+							222
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oOCXKn3ZZB",
+						"expanded_url": "https://sway.office.com/3CRxaXmZjVKFFVkJ",
+						"display_url": "sway.office.com/3CRxaXmZjVKFFV…",
+						"indices": [
+							180,
+							203
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1050381179055149000,
+						"id_str": "1050381179055149056",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/DpO0HgBWkAAaoBA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpO0HgBWkAAaoBA.jpg",
+						"url": "https://t.co/ViG8UGRHHA",
+						"display_url": "pic.twitter.com/ViG8UGRHHA",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1050381996357275650/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 655,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1082,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1124,
+								"h": 1082,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1050381179055149000,
+						"id_str": "1050381179055149056",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/media/DpO0HgBWkAAaoBA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpO0HgBWkAAaoBA.jpg",
+						"url": "https://t.co/ViG8UGRHHA",
+						"display_url": "pic.twitter.com/ViG8UGRHHA",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1050381996357275650/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 655,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1082,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1124,
+								"h": 1082,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central",
+				"screen_name": "TweetMeet",
+				"location": "World",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+				"url": "https://t.co/vTmAj2KFoN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTmAj2KFoN",
+								"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+								"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1098,
+				"friends_count": 687,
+				"listed_count": 11,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 427,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 287,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1539074390",
+				"profile_link_color": "E3008C",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "RT @TweetMeet: Anica's gorgeous monthly #Sway stories about the TweetMeets are a true delight.\nRead and share her brand-new Sway for the #M…"
+	},
+	{
+		"created_at": "Thu Oct 11 16:07:54 +0000 2018",
+		"id": 1050417718489505800,
+		"id_str": "1050417718489505792",
+		"full_text": "@BryanWilhite @msonenote Bryan, are you still experiencing this issue?\nYou can DM me:\n\nhttps://t.co/JDiN4Rq21j",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BryanWilhite",
+					"name": "Bryan D. Wilhite",
+					"id": 67803525,
+					"id_str": "67803525",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JDiN4Rq21j",
+					"expanded_url": "https://twitter.com/messages/compose?recipient_id=2582768738",
+					"display_url": "twitter.com/messages/compo…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1050150204853243900,
+		"in_reply_to_status_id_str": "1050150204853243905",
+		"in_reply_to_user_id": 67803525,
+		"in_reply_to_user_id_str": "67803525",
+		"in_reply_to_screen_name": "BryanWilhite",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18521,
+			"friends_count": 6924,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24361,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@BryanWilhite @msonenote Bryan, are you still experiencing this issue?\nYou can DM me:\n\nhttps://t.co/JDiN4Rq21j"
+	},
+	{
+		"created_at": "Thu Oct 11 15:30:50 +0000 2018",
+		"id": 1050408390122504200,
+		"id_str": "1050408390122504192",
+		"full_text": "@paoletta3196 @MicrosoftHelps Paola, assuming that your #OneNote notebooks are stored on OneDrive, can you confirm that you can sign in to OneDrive in a web browser?\nWhen you're saying \"not syncing\" what exactly are you experiencing? Is there an error message, are you checking notes on a different device?",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			306
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paoletta3196",
+					"name": "Paola D'Alessandra",
+					"id": 952089020,
+					"id_str": "952089020",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MicrosoftHelps",
+					"name": "Microsoft Support",
+					"id": 75691804,
+					"id_str": "75691804",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1050368291666055200,
+		"in_reply_to_status_id_str": "1050368291666055168",
+		"in_reply_to_user_id": 952089020,
+		"in_reply_to_user_id_str": "952089020",
+		"in_reply_to_screen_name": "paoletta3196",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18521,
+			"friends_count": 6924,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24361,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@paoletta3196 @MicrosoftHelps Paola, assuming that your #OneNote notebooks are stored on OneDrive, can you confirm that you can sign in to OneDrive in a web browser?\nWhen you're saying \"not syncing\" what exactly are you experiencing? Is there an error message, are you checking notes on a different device?"
+	},
+	{
+		"created_at": "Thu Oct 11 15:24:25 +0000 2018",
+		"id": 1050406775319494700,
+		"id_str": "1050406775319494656",
+		"full_text": "RT @OneNoteC: Gotta love the nifty way #OneNote for Android senior lead program manager Amrita Rout is announcing the @StickyNotes integrat…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stickynotes",
+					"name": "Sticky Notes",
+					"id": 774181166924509200,
+					"id_str": "774181166924509184",
+					"indices": [
+						104,
+						116
+					]
+				},
+				{
+					"screen_name": "amrita_rout",
+					"name": "amrita rout",
+					"id": 2933785406,
+					"id_str": "2933785406",
+					"indices": [
+						169,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s59fIJEXWY",
+					"expanded_url": "https://twitter.com/amrita_rout/status/1050056373260701696",
+					"display_url": "twitter.com/amrita_rout/st…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18521,
+			"friends_count": 6924,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24361,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 10 16:46:38 +0000 2018",
+			"id": 1050065076873506800,
+			"id_str": "1050065076873506816",
+			"full_text": "Gotta love the nifty way #OneNote for Android senior lead program manager Amrita Rout is announcing the @StickyNotes integration in their beta product ;-)\n\nGreat tweet, @Amrita_Rout! https://t.co/s59fIJEXWY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							25,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stickynotes",
+						"name": "Sticky Notes",
+						"id": 774181166924509200,
+						"id_str": "774181166924509184",
+						"indices": [
+							104,
+							116
+						]
+					},
+					{
+						"screen_name": "amrita_rout",
+						"name": "amrita rout",
+						"id": 2933785406,
+						"id_str": "2933785406",
+						"indices": [
+							169,
+							181
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/s59fIJEXWY",
+						"expanded_url": "https://twitter.com/amrita_rout/status/1050056373260701696",
+						"display_url": "twitter.com/amrita_rout/st…",
+						"indices": [
+							183,
+							206
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2582768738,
+				"id_str": "2582768738",
+				"name": "OneNote Central",
+				"screen_name": "OneNoteC",
+				"location": "World",
+				"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+				"url": "https://t.co/Udn06tcMta",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Udn06tcMta",
+								"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+								"display_url": "onen.link/onenote-commun…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18521,
+				"friends_count": 6924,
+				"listed_count": 582,
+				"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+				"favourites_count": 27242,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24361,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+				"profile_link_color": "7719AA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1050056373260701700,
+			"quoted_status_id_str": "1050056373260701696",
+			"quoted_status_permalink": {
+				"url": "https://t.co/s59fIJEXWY",
+				"expanded": "https://twitter.com/amrita_rout/status/1050056373260701696",
+				"display": "twitter.com/amrita_rout/st…"
+			},
+			"quoted_status": {
+				"created_at": "Wed Oct 10 16:12:03 +0000 2018",
+				"id": 1050056373260701700,
+				"id_str": "1050056373260701696",
+				"full_text": "Howdy people, Your @stickynotes from Windows now sync with OneNote Android Beta. Go try it now and absolutely let us know your feedback!!!! We are so excited about this awesome new offering within OneNote and hope you are too. @OneNoteC https://t.co/qp6lfzgrTA",
+				"truncated": false,
+				"display_text_range": [
+					0,
+					236
+				],
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "stickynotes",
+							"name": "Sticky Notes",
+							"id": 774181166924509200,
+							"id_str": "774181166924509184",
+							"indices": [
+								19,
+								31
+							]
+						},
+						{
+							"screen_name": "OneNoteC",
+							"name": "OneNote Central",
+							"id": 2582768738,
+							"id_str": "2582768738",
+							"indices": [
+								227,
+								236
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 1050055834871435300,
+							"id_str": "1050055834871435270",
+							"indices": [
+								237,
+								260
+							],
+							"media_url": "http://pbs.twimg.com/media/DpKMN-fWkAY-WjW.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DpKMN-fWkAY-WjW.jpg",
+							"url": "https://t.co/qp6lfzgrTA",
+							"display_url": "pic.twitter.com/qp6lfzgrTA",
+							"expanded_url": "https://twitter.com/amrita_rout/status/1050056373260701696/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1050055834871435300,
+							"id_str": "1050055834871435270",
+							"indices": [
+								237,
+								260
+							],
+							"media_url": "http://pbs.twimg.com/media/DpKMN-fWkAY-WjW.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DpKMN-fWkAY-WjW.jpg",
+							"url": "https://t.co/qp6lfzgrTA",
+							"display_url": "pic.twitter.com/qp6lfzgrTA",
+							"expanded_url": "https://twitter.com/amrita_rout/status/1050056373260701696/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2933785406,
+					"id_str": "2933785406",
+					"name": "amrita rout",
+					"screen_name": "amrita_rout",
+					"location": "",
+					"description": "",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 39,
+					"friends_count": 65,
+					"listed_count": 1,
+					"created_at": "Wed Dec 17 17:18:16 +0000 2014",
+					"favourites_count": 74,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 57,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/545267895358324736/dFb9aw_C_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/545267895358324736/dFb9aw_C_normal.jpeg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 16,
+				"favorite_count": 37,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1050056373260701700,
+		"quoted_status_id_str": "1050056373260701696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/s59fIJEXWY",
+			"expanded": "https://twitter.com/amrita_rout/status/1050056373260701696",
+			"display": "twitter.com/amrita_rout/st…"
+		},
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "RT @OneNoteC: Gotta love the nifty way #OneNote for Android senior lead program manager Amrita Rout is announcing the @StickyNotes integrat…"
+	},
+	{
 		"created_at": "Thu Oct 11 14:59:15 +0000 2018",
 		"id": 1050400442063249400,
 		"id_str": "1050400442063249414",
