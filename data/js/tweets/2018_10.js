@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 11 22:12:29 +0000 2018",
+		"id": 1050509466624512000,
+		"id_str": "1050509466624512000",
+		"full_text": "@AmitGenesis @mtholfsen #Office365 Admins can contact Microsoft to request the disabling of online chat during collaboration on files in Word, PowerPoint, Excel or #OneNote Online.\n\nMore details here:\nhttps://t.co/CVi6EUD9Ti",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Office365",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						164,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmitGenesis",
+					"name": "amitzini@hotmail.com",
+					"id": 3789990554,
+					"id_str": "3789990554",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CVi6EUD9Ti",
+					"expanded_url": "https://support.microsoft.com/en-us/help/4088923/disable-the-word-chat-feature-for-office-online",
+					"display_url": "support.microsoft.com/en-us/help/408…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1050251810676465700,
+		"in_reply_to_status_id_str": "1050251810676465665",
+		"in_reply_to_user_id": 3789990554,
+		"in_reply_to_user_id_str": "3789990554",
+		"in_reply_to_screen_name": "AmitGenesis",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18524,
+			"friends_count": 6924,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AmitGenesis @mtholfsen #Office365 Admins can contact Microsoft to request the disabling of online chat during collaboration on files in Word, PowerPoint, Excel or #OneNote Online.\n\nMore details here:\nhttps://t.co/CVi6EUD9Ti"
+	},
+	{
+		"created_at": "Thu Oct 11 21:22:53 +0000 2018",
+		"id": 1050496985235632100,
+		"id_str": "1050496985235632134",
+		"full_text": "\"It's fast, it's mobile, and it's powerful.\"\nSketchnoter Luise Freese explains the reasons she prefers #OneNote for #Windows10 for her sketchnotes. #Sway story:\n\nhttps://t.co/EEOlXUFa8M\nby @LuiseFreese \n#sketchnoting #digitalink https://t.co/0cthyUHHrP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "Sway",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "sketchnoting",
+					"indices": [
+						203,
+						216
+					]
+				},
+				{
+					"text": "digitalink",
+					"indices": [
+						217,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LuiseFreese",
+					"name": "Luise Freese #RE365",
+					"id": 914007249395347500,
+					"id_str": "914007249395347458",
+					"indices": [
+						189,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EEOlXUFa8M",
+					"expanded_url": "https://sway.office.com/7KY2qfVjLJPjAY5H",
+					"display_url": "sway.office.com/7KY2qfVjLJPjAY…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050496445005123600,
+					"id_str": "1050496445005123584",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/DpQc83JXUAARnQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpQc83JXUAARnQn.jpg",
+					"url": "https://t.co/0cthyUHHrP",
+					"display_url": "pic.twitter.com/0cthyUHHrP",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1050496985235632134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1214,
+							"h": 1145,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 641,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050496445005123600,
+					"id_str": "1050496445005123584",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/DpQc83JXUAARnQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpQc83JXUAARnQn.jpg",
+					"url": "https://t.co/0cthyUHHrP",
+					"display_url": "pic.twitter.com/0cthyUHHrP",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1050496985235632134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1214,
+							"h": 1145,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 641,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18524,
+			"friends_count": 6924,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"It's fast, it's mobile, and it's powerful.\"\nSketchnoter Luise Freese explains the reasons she prefers #OneNote for #Windows10 for her sketchnotes. #Sway story:\n\nhttps://t.co/EEOlXUFa8M\nby @LuiseFreese \n#sketchnoting #digitalink https://t.co/0cthyUHHrP"
+	},
+	{
 		"created_at": "Thu Oct 11 19:31:29 +0000 2018",
 		"id": 1050468951317250000,
 		"id_str": "1050468951317250050",
