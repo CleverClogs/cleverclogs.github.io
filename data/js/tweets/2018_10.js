@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 18:23:21 +0000 2018",
+		"id": 1050814193916612600,
+		"id_str": "1050814193916612609",
+		"full_text": "Deepen your understanding of specific topics that really matter to you, by making notes about them. Nokia leader Risto Siilasmaa has been using Microsoft #OneNote since the very beginning. \nFascinating video.\n\nThank you for sharing @rsiilasmaa. https://t.co/INuF3PSrMR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						154,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rsiilasmaa",
+					"name": "Risto Siilasmaa",
+					"id": 61436716,
+					"id_str": "61436716",
+					"indices": [
+						232,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/INuF3PSrMR",
+					"expanded_url": "https://twitter.com/rsiilasmaa/status/1050774078154518528",
+					"display_url": "twitter.com/rsiilasmaa/sta…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18546,
+			"friends_count": 6926,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24376,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050774078154518500,
+		"quoted_status_id_str": "1050774078154518528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/INuF3PSrMR",
+			"expanded": "https://twitter.com/rsiilasmaa/status/1050774078154518528",
+			"display": "twitter.com/rsiilasmaa/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 12 15:43:57 +0000 2018",
+			"id": 1050774078154518500,
+			"id_str": "1050774078154518528",
+			"full_text": "I'm excited to share my story through my new book, #TransformingNokia. I believe it will help other leaders prosper through any crisis by using the change-management methods I learned when leading @nokia through its wrenching reinvention. Learn more at https://t.co/vZEHrsXBeu. https://t.co/kzBAfzCPKV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TransformingNokia",
+						"indices": [
+							51,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nokia",
+						"name": "Nokia",
+						"id": 24727891,
+						"id_str": "24727891",
+						"indices": [
+							197,
+							203
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vZEHrsXBeu",
+						"expanded_url": "https://amzn.to/2QGTBZa",
+						"display_url": "amzn.to/2QGTBZa",
+						"indices": [
+							253,
+							276
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1050772714162741200,
+						"id_str": "1050772714162741249",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050772714162741249/pu/img/AT-J3W4gjk4EyN54.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050772714162741249/pu/img/AT-J3W4gjk4EyN54.jpg",
+						"url": "https://t.co/kzBAfzCPKV",
+						"display_url": "pic.twitter.com/kzBAfzCPKV",
+						"expanded_url": "https://twitter.com/rsiilasmaa/status/1050774078154518528/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1050772714162741200,
+						"id_str": "1050772714162741249",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050772714162741249/pu/img/AT-J3W4gjk4EyN54.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050772714162741249/pu/img/AT-J3W4gjk4EyN54.jpg",
+						"url": "https://t.co/kzBAfzCPKV",
+						"display_url": "pic.twitter.com/kzBAfzCPKV",
+						"expanded_url": "https://twitter.com/rsiilasmaa/status/1050774078154518528/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 105480,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1050772714162741249/pu/vid/1280x720/hNz1rDQmBXTfEBem.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1050772714162741249/pu/pl/zUM6qTAdMImB5AXe.m3u8?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1050772714162741249/pu/vid/320x180/fz8Tcg4nVIT3tF9A.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1050772714162741249/pu/vid/640x360/2NQVP_Xk6g7fgSp1.mp4?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61436716,
+				"id_str": "61436716",
+				"name": "Risto Siilasmaa",
+				"screen_name": "rsiilasmaa",
+				"location": "Most likely at an airport...",
+				"description": "Founder & chairman of @FSecure. Author of #TransformingNokia. I led @nokia's reinvention as the company's chairman for 5 years. In my heart, I'm an entrepreneur",
+				"url": "https://t.co/ecq1Ccewg0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ecq1Ccewg0",
+								"expanded_url": "http://www.paranoid-optimist.com",
+								"display_url": "paranoid-optimist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18143,
+				"friends_count": 284,
+				"listed_count": 153,
+				"created_at": "Thu Jul 30 08:52:45 +0000 2009",
+				"favourites_count": 2457,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2133,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991306923671769088/gAaP2ymE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991306923671769088/gAaP2ymE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61436716/1539355501",
+				"profile_link_color": "143F84",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Deepen your understanding of specific topics that really matter to you, by making notes about them. Nokia leader Risto Siilasmaa has been using Microsoft #OneNote since the very beginning. \nFascinating video.\n\nThank you for sharing @rsiilasmaa. https://t.co/INuF3PSrMR"
+	},
+	{
 		"created_at": "Fri Oct 12 18:14:08 +0000 2018",
 		"id": 1050811872432324600,
 		"id_str": "1050811872432324609",
