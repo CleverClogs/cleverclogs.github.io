@@ -1,6 +1,1037 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 18:14:08 +0000 2018",
+		"id": 1050811872432324600,
+		"id_str": "1050811872432324609",
+		"full_text": "@luovamaailma @rsiilasmaa @nokia About the history of #OneNote: the first beta was indeed announced in November 2002 - by Bill Gates at a large tech conference. The first public version was called OneNote 2003.  \nAsk @chrispr @EdBott @marypcbuk @sbisson @thurrott.",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "luovamaailma",
+					"name": "Kris Delman",
+					"id": 920312216653582300,
+					"id_str": "920312216653582336",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "rsiilasmaa",
+					"name": "Risto Siilasmaa",
+					"id": 61436716,
+					"id_str": "61436716",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "nokia",
+					"name": "Nokia",
+					"id": 24727891,
+					"id_str": "24727891",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"screen_name": "chrispr",
+					"name": "chris pratley",
+					"id": 8143222,
+					"id_str": "8143222",
+					"indices": [
+						217,
+						225
+					]
+				},
+				{
+					"screen_name": "edbott",
+					"name": "Ed Bott [404: Halloween Name Not Found]",
+					"id": 12199652,
+					"id_str": "12199652",
+					"indices": [
+						226,
+						233
+					]
+				},
+				{
+					"screen_name": "marypcbuk",
+					"name": "Scary Mary Branscombe",
+					"id": 109323518,
+					"id_str": "109323518",
+					"indices": [
+						234,
+						244
+					]
+				},
+				{
+					"screen_name": "sbisson",
+					"name": "Simon Le Gros Bisson",
+					"id": 66993,
+					"id_str": "66993",
+					"indices": [
+						245,
+						253
+					]
+				},
+				{
+					"screen_name": "thurrott",
+					"name": "Paul Thurrott",
+					"id": 14964767,
+					"id_str": "14964767",
+					"indices": [
+						254,
+						263
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1050804170834538500,
+		"in_reply_to_status_id_str": "1050804170834538497",
+		"in_reply_to_user_id": 920312216653582300,
+		"in_reply_to_user_id_str": "920312216653582336",
+		"in_reply_to_screen_name": "luovamaailma",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18543,
+			"friends_count": 6926,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24375,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@luovamaailma @rsiilasmaa @nokia About the history of #OneNote: the first beta was indeed announced in November 2002 - by Bill Gates at a large tech conference. The first public version was called OneNote 2003.  \nAsk @chrispr @EdBott @marypcbuk @sbisson @thurrott."
+	},
+	{
+		"created_at": "Fri Oct 12 17:20:42 +0000 2018",
+		"id": 1050798426223468500,
+		"id_str": "1050798426223468546",
+		"full_text": "The famous Rainbow Ink effect in #OneNote for #Windows10 has a fantastic story behind it.\nRead how a classroom visit inspired @IanMikutel and his team to design it:\n\nhttps://t.co/OpEy4xir4C\nby @JezCorden for @WindowsCentral\n\nBonus link: https://t.co/KPL93vQ1YA\n\nhat tip @JenMSFT https://t.co/JeZbJPhORh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						46,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanMikutel",
+					"name": "Ian Mikutel",
+					"id": 2157421,
+					"id_str": "2157421",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"screen_name": "JezCorden",
+					"name": "jezette👑",
+					"id": 918978248,
+					"id_str": "918978248",
+					"indices": [
+						193,
+						203
+					]
+				},
+				{
+					"screen_name": "windowscentral",
+					"name": "Windows Central",
+					"id": 14208474,
+					"id_str": "14208474",
+					"indices": [
+						208,
+						223
+					]
+				},
+				{
+					"screen_name": "JenMsft",
+					"name": "Jen Gentleman 🌺",
+					"id": 3309105596,
+					"id_str": "3309105596",
+					"indices": [
+						270,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OpEy4xir4C",
+					"expanded_url": "https://www.windowscentral.com/why-does-onenote-have-sparkly-rainbow-ink-microsoft-explains",
+					"display_url": "windowscentral.com/why-does-oneno…",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/KPL93vQ1YA",
+					"expanded_url": "https://www.reddit.com/r/Surface/comments/9nc6an/the_pen_onenote_really_needs_dasheddotted_line/",
+					"display_url": "reddit.com/r/Surface/comm…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050798424126304300,
+					"id_str": "1050798424126304256",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DpUvmXCWsAAVUeB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpUvmXCWsAAVUeB.jpg",
+					"url": "https://t.co/JeZbJPhORh",
+					"display_url": "pic.twitter.com/JeZbJPhORh",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1050798426223468546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 554,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 554,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050798424126304300,
+					"id_str": "1050798424126304256",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DpUvmXCWsAAVUeB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpUvmXCWsAAVUeB.jpg",
+					"url": "https://t.co/JeZbJPhORh",
+					"display_url": "pic.twitter.com/JeZbJPhORh",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1050798426223468546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 554,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 554,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18543,
+			"friends_count": 6926,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24375,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The famous Rainbow Ink effect in #OneNote for #Windows10 has a fantastic story behind it.\nRead how a classroom visit inspired @IanMikutel and his team to design it:\n\nhttps://t.co/OpEy4xir4C\nby @JezCorden for @WindowsCentral\n\nBonus link: https://t.co/KPL93vQ1YA\n\nhat tip @JenMSFT https://t.co/JeZbJPhORh"
+	},
+	{
+		"created_at": "Fri Oct 12 14:56:34 +0000 2018",
+		"id": 1050762156214558700,
+		"id_str": "1050762156214558720",
+		"full_text": "Using a TON of @OneNoteEDU assistive features and hands on learning manipulatives to help us with our final number assessment - SO proud of these kiddos!!! 🤓👍🏼@QHMilton https://t.co/pp5VX0GK02",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "QHMilton",
+					"name": "Queen of Heaven",
+					"id": 2879620669,
+					"id_str": "2879620669",
+					"indices": [
+						159,
+						168
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050762032314769400,
+					"id_str": "1050762032314769408",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050762032314769408/pu/img/ly923U790SgxsLmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050762032314769408/pu/img/ly923U790SgxsLmk.jpg",
+					"url": "https://t.co/pp5VX0GK02",
+					"display_url": "pic.twitter.com/pp5VX0GK02",
+					"expanded_url": "https://twitter.com/MsD_QOH/status/1050762156214558720/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050762032314769400,
+					"id_str": "1050762032314769408",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050762032314769408/pu/img/ly923U790SgxsLmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050762032314769408/pu/img/ly923U790SgxsLmk.jpg",
+					"url": "https://t.co/pp5VX0GK02",
+					"display_url": "pic.twitter.com/pp5VX0GK02",
+					"expanded_url": "https://twitter.com/MsD_QOH/status/1050762156214558720/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 54600,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050762032314769408/pu/vid/240x240/FPOO-DzRa3TlOU9o.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050762032314769408/pu/vid/480x480/JRHPI1y3t8FoE3ks.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1050762032314769408/pu/pl/OxMjQyNdrRnk2Imd.m3u8?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050762032314769408/pu/vid/720x720/7oDj6scc2wKljjXJ.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2796334515,
+			"id_str": "2796334515",
+			"name": "Kaylyn Dorland 🇨🇦",
+			"screen_name": "MsD_QOH",
+			"location": "",
+			"description": "Teacher🍎On a mission to learn best practises in education from global and local educators #ProjectKakuma #QHTLLP #MIEFellow #STEAM #MakerEdu #TeachSDGs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1804,
+			"friends_count": 1488,
+			"listed_count": 115,
+			"created_at": "Tue Sep 30 21:02:29 +0000 2014",
+			"favourites_count": 6221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004513718728822784/Kqxr67Aj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004513718728822784/Kqxr67Aj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2796334515/1530135854",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Using a TON of @OneNoteEDU assistive features and hands on learning manipulatives to help us with our final number assessment - SO proud of these kiddos!!! 🤓👍🏼@QHMilton https://t.co/pp5VX0GK02"
+	},
+	{
+		"created_at": "Fri Oct 12 16:16:31 +0000 2018",
+		"id": 1050782276374679600,
+		"id_str": "1050782276374679560",
+		"full_text": "@Swasle @MicrosoftHelps If #OneNote for iOS repeatedly prompts you to sign in, there's a possibility your Office credentials on your iPhone have gotten corrupted. \nCould you take these quick steps and report back if they help resolve the issue?\n\nhttps://t.co/19amXUiWI0 https://t.co/c7rxXT7GtZ",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Swasle",
+					"name": "David Swainsbury",
+					"id": 42052004,
+					"id_str": "42052004",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "MicrosoftHelps",
+					"name": "Microsoft Support",
+					"id": 75691804,
+					"id_str": "75691804",
+					"indices": [
+						8,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/19amXUiWI0",
+					"expanded_url": "https://support.office.com/en-us/article/repeated-sign-in-prompts-in-onenote-for-mac-iphone-and-ipad-bb431382-ec71-4b66-804e-7fcc0c212377",
+					"display_url": "support.office.com/en-us/article/…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1050781891954135000,
+					"id_str": "1050781891954135040",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/DpUgkD5W0AA_T1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpUgkD5W0AA_T1c.jpg",
+					"url": "https://t.co/c7rxXT7GtZ",
+					"display_url": "pic.twitter.com/c7rxXT7GtZ",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1050782276374679560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 885,
+							"h": 467,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 885,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050781891954135000,
+					"id_str": "1050781891954135040",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/DpUgkD5W0AA_T1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpUgkD5W0AA_T1c.jpg",
+					"url": "https://t.co/c7rxXT7GtZ",
+					"display_url": "pic.twitter.com/c7rxXT7GtZ",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1050782276374679560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 885,
+							"h": 467,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 885,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1050767150879670300,
+		"in_reply_to_status_id_str": "1050767150879670273",
+		"in_reply_to_user_id": 42052004,
+		"in_reply_to_user_id_str": "42052004",
+		"in_reply_to_screen_name": "Swasle",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18543,
+			"friends_count": 6926,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24375,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Swasle @MicrosoftHelps If #OneNote for iOS repeatedly prompts you to sign in, there's a possibility your Office credentials on your iPhone have gotten corrupted. \nCould you take these quick steps and report back if they help resolve the issue?\n\nhttps://t.co/19amXUiWI0 https://t.co/c7rxXT7GtZ"
+	},
+	{
+		"created_at": "Fri Oct 12 16:09:01 +0000 2018",
+		"id": 1050780385460854800,
+		"id_str": "1050780385460854785",
+		"full_text": "@StefanMalter @MartinGeuss @JohnJayMcKaye @DrWindows_de Basically you'd want the page background grids in the #OneNote for #Windows10 app to match the measurement of the Ruler. \nAnd if you zoom the page, both grid and ruler should zoom at the same scale.\nWill you submit your suggestion here? https://t.co/8wr5XKeJYa\n\ncc @Benminnn",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			330
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StefanMalter",
+					"name": "Stefan Malter",
+					"id": 60564600,
+					"id_str": "60564600",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MartinGeuss",
+					"name": "Martin Geuss",
+					"id": 575391246,
+					"id_str": "575391246",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "JohnJayMcKaye",
+					"name": "JohnJayMcKaye",
+					"id": 788105202201165800,
+					"id_str": "788105202201165824",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "DrWindows_de",
+					"name": "DrWindows",
+					"id": 22781131,
+					"id_str": "22781131",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "Benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						321,
+						330
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8wr5XKeJYa",
+					"expanded_url": "https://onenote.uservoice.com",
+					"display_url": "onenote.uservoice.com",
+					"indices": [
+						293,
+						316
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1050768059814895600,
+		"in_reply_to_status_id_str": "1050768059814895617",
+		"in_reply_to_user_id": 60564600,
+		"in_reply_to_user_id_str": "60564600",
+		"in_reply_to_screen_name": "StefanMalter",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18543,
+			"friends_count": 6926,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24375,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@StefanMalter @MartinGeuss @JohnJayMcKaye @DrWindows_de Basically you'd want the page background grids in the #OneNote for #Windows10 app to match the measurement of the Ruler. \nAnd if you zoom the page, both grid and ruler should zoom at the same scale.\nWill you submit your suggestion here? https://t.co/8wr5XKeJYa\n\ncc @Benminnn"
+	},
+	{
 		"created_at": "Fri Oct 12 14:56:34 +0000 2018",
 		"id": 1050762156214558700,
 		"id_str": "1050762156214558720",
