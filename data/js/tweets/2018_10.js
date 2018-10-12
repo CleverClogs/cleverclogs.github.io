@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 14:56:34 +0000 2018",
+		"id": 1050762156214558700,
+		"id_str": "1050762156214558720",
+		"full_text": "Using a TON of @OneNoteEDU assistive features and hands on learning manipulatives to help us with our final number assessment - SO proud of these kiddos!!! 🤓👍🏼@QHMilton https://t.co/pp5VX0GK02",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "QHMilton",
+					"name": "Queen of Heaven",
+					"id": 2879620669,
+					"id_str": "2879620669",
+					"indices": [
+						159,
+						168
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050762032314769400,
+					"id_str": "1050762032314769408",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050762032314769408/pu/img/ly923U790SgxsLmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050762032314769408/pu/img/ly923U790SgxsLmk.jpg",
+					"url": "https://t.co/pp5VX0GK02",
+					"display_url": "pic.twitter.com/pp5VX0GK02",
+					"expanded_url": "https://twitter.com/MsD_QOH/status/1050762156214558720/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050762032314769400,
+					"id_str": "1050762032314769408",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1050762032314769408/pu/img/ly923U790SgxsLmk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1050762032314769408/pu/img/ly923U790SgxsLmk.jpg",
+					"url": "https://t.co/pp5VX0GK02",
+					"display_url": "pic.twitter.com/pp5VX0GK02",
+					"expanded_url": "https://twitter.com/MsD_QOH/status/1050762156214558720/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 54600,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050762032314769408/pu/vid/240x240/FPOO-DzRa3TlOU9o.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050762032314769408/pu/vid/480x480/JRHPI1y3t8FoE3ks.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1050762032314769408/pu/pl/OxMjQyNdrRnk2Imd.m3u8?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1050762032314769408/pu/vid/720x720/7oDj6scc2wKljjXJ.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2796334515,
+			"id_str": "2796334515",
+			"name": "Kaylyn Dorland 🇨🇦",
+			"screen_name": "MsD_QOH",
+			"location": "",
+			"description": "Teacher🍎On a mission to learn best practises in education from global and local educators #ProjectKakuma #QHTLLP #MIEFellow #STEAM #MakerEdu #TeachSDGs",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1804,
+			"friends_count": 1488,
+			"listed_count": 115,
+			"created_at": "Tue Sep 30 21:02:29 +0000 2014",
+			"favourites_count": 6220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004513718728822784/Kqxr67Aj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004513718728822784/Kqxr67Aj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2796334515/1530135854",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Using a TON of @OneNoteEDU assistive features and hands on learning manipulatives to help us with our final number assessment - SO proud of these kiddos!!! 🤓👍🏼@QHMilton https://t.co/pp5VX0GK02"
+	},
+	{
 		"created_at": "Fri Oct 12 16:16:31 +0000 2018",
 		"id": 1050782276374679600,
 		"id_str": "1050782276374679560",
