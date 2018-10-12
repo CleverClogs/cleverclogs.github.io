@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 10 10:19:03 +0000 2018",
+		"id": 1049967539260977200,
+		"id_str": "1049967539260977152",
+		"full_text": "To prepare for #MSFTEduChat about Global Collaboration and Skype-a-Thon:\n\n1 Study questions\n2 Visit https://t.co/V2H0yRJW42  \n3 Browse the gorgeous #skypeathon activity plan https://t.co/zPtZ7R39HH\n4 Get the Teacher Toolkit in #OneNote format https://t.co/9BvLQ5Z6uN\n\nAnimated GIF https://t.co/EZyFyoLNTr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"text": "skypeathon",
+					"indices": [
+						148,
+						159
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						227,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V2H0yRJW42",
+					"expanded_url": "http://www.skypeathon.com",
+					"display_url": "skypeathon.com",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/zPtZ7R39HH",
+					"expanded_url": "https://aka.ms/skypeathonactivityplan",
+					"display_url": "aka.ms/skypeathonacti…",
+					"indices": [
+						174,
+						197
+					]
+				},
+				{
+					"url": "https://t.co/9BvLQ5Z6uN",
+					"expanded_url": "https://aka.ms/skypeathonteachertoolkit",
+					"display_url": "aka.ms/skypeathonteac…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1049967537360986100,
+					"id_str": "1049967537360986113",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpI76YoX4AEmGWb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpI76YoX4AEmGWb.jpg",
+					"url": "https://t.co/EZyFyoLNTr",
+					"display_url": "pic.twitter.com/EZyFyoLNTr",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1049967539260977152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049967537360986100,
+					"id_str": "1049967537360986113",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpI76YoX4AEmGWb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpI76YoX4AEmGWb.jpg",
+					"url": "https://t.co/EZyFyoLNTr",
+					"display_url": "pic.twitter.com/EZyFyoLNTr",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1049967539260977152/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							600,
+							337
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DpI76YoX4AEmGWb.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1101,
+			"friends_count": 687,
+			"listed_count": 11,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 288,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1539074390",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To prepare for #MSFTEduChat about Global Collaboration and Skype-a-Thon:\n\n1 Study questions\n2 Visit https://t.co/V2H0yRJW42  \n3 Browse the gorgeous #skypeathon activity plan https://t.co/zPtZ7R39HH\n4 Get the Teacher Toolkit in #OneNote format https://t.co/9BvLQ5Z6uN\n\nAnimated GIF https://t.co/EZyFyoLNTr"
+	},
+	{
 		"created_at": "Fri Oct 12 12:43:48 +0000 2018",
 		"id": 1050728742811775000,
 		"id_str": "1050728742811774976",
