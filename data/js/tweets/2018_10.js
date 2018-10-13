@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 12 22:59:02 +0000 2018",
+		"id": 1050883572045877200,
+		"id_str": "1050883572045877253",
+		"full_text": "Sticky Notes 3.0 is now available in #Windows10 and features some of our biggest updates yet – thanks to Windows Insiders. Find out how Windows Insiders helped make it happen. https://t.co/KrAJEiMtwt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Windows10",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KrAJEiMtwt",
+					"expanded_url": "https://aka.ms/wipstickynotes?utm_campaign=coschedule&utm_source=twitter&utm_medium=windowsinsider&utm_content=Inspired%20by%20Insiders%20%E2%80%93%20Sticky%20Notes%20-%20Windows%20Insider",
+					"display_url": "aka.ms/wipstickynotes…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2903837358,
+			"id_str": "2903837358",
+			"name": "Windows Insider",
+			"screen_name": "windowsinsider",
+			"location": "Redmond, WA",
+			"description": "Official Twitter of the Windows Insider Program, a community of PC experts, IT Pros & developers helping to shape the future of Windows.",
+			"url": "https://t.co/2bVdMwXv64",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2bVdMwXv64",
+							"expanded_url": "https://insider.windows.com/",
+							"display_url": "insider.windows.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78726,
+			"friends_count": 96,
+			"listed_count": 781,
+			"created_at": "Tue Nov 18 18:10:59 +0000 2014",
+			"favourites_count": 1135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5995,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/599248422407798785/JxK41wH8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/599248422407798785/JxK41wH8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2903837358/1431706943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sticky Notes 3.0 is now available in #Windows10 and features some of our biggest updates yet – thanks to Windows Insiders. Find out how Windows Insiders helped make it happen. https://t.co/KrAJEiMtwt"
+	},
+	{
 		"created_at": "Sat Oct 13 08:37:30 +0000 2018",
 		"id": 1051029148741918700,
 		"id_str": "1051029148741918720",
