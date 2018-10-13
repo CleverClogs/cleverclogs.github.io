@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 13 08:37:30 +0000 2018",
+		"id": 1051029148741918700,
+		"id_str": "1051029148741918720",
+		"full_text": "@eldeingles Does this help?\nhttps://t.co/bc4Q12BLd5",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eldeingles",
+					"name": "Ángel 0:-)",
+					"id": 16501879,
+					"id_str": "16501879",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bc4Q12BLd5",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1051024307919437825",
+					"display_url": "twitter.com/OneNoteC/statu…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1051008104337432600,
+		"in_reply_to_status_id_str": "1051008104337432576",
+		"in_reply_to_user_id": 16501879,
+		"in_reply_to_user_id_str": "16501879",
+		"in_reply_to_screen_name": "eldeingles",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18543,
+			"friends_count": 6928,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051024307919437800,
+		"quoted_status_id_str": "1051024307919437825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bc4Q12BLd5",
+			"expanded": "https://twitter.com/OneNoteC/status/1051024307919437825",
+			"display": "twitter.com/OneNoteC/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 13 08:18:16 +0000 2018",
+			"id": 1051024307919437800,
+			"id_str": "1051024307919437825",
+			"full_text": "Did you know you can record the audio from Immersive Reader for #OneNote? \nThe first obvious option is to use a secondary device.\n\nYou can also use audio loopback. This mechanism is explained in this article:\nhttps://t.co/ymVdRI4gtI\nby @ChrisBHoffman @HowToGeek\n\n#LearningTools https://t.co/wkjdp5AAWl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							64,
+							72
+						]
+					},
+					{
+						"text": "LearningTools",
+						"indices": [
+							263,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "chrisbhoffman",
+						"name": "Chris Hoffman",
+						"id": 618471791,
+						"id_str": "618471791",
+						"indices": [
+							236,
+							250
+						]
+					},
+					{
+						"screen_name": "howtogeek",
+						"name": "How-To Geek",
+						"id": 117004644,
+						"id_str": "117004644",
+						"indices": [
+							251,
+							261
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ymVdRI4gtI",
+						"expanded_url": "https://www.howtogeek.com/217348/how-to-record-the-sound-coming-from-your-pc-even-without-stereo-mix/",
+						"display_url": "howtogeek.com/217348/how-to-…",
+						"indices": [
+							209,
+							232
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1051022743305637900,
+						"id_str": "1051022743305637888",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/DpX7ndGW0AAORdh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpX7ndGW0AAORdh.jpg",
+						"url": "https://t.co/wkjdp5AAWl",
+						"display_url": "pic.twitter.com/wkjdp5AAWl",
+						"expanded_url": "https://twitter.com/OneNoteC/status/1051024307919437825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 647,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 690,
+								"h": 725,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 690,
+								"h": 725,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1051022743305637900,
+						"id_str": "1051022743305637888",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/DpX7ndGW0AAORdh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpX7ndGW0AAORdh.jpg",
+						"url": "https://t.co/wkjdp5AAWl",
+						"display_url": "pic.twitter.com/wkjdp5AAWl",
+						"expanded_url": "https://twitter.com/OneNoteC/status/1051024307919437825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 647,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 690,
+								"h": 725,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 690,
+								"h": 725,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2582768738,
+				"id_str": "2582768738",
+				"name": "OneNote Central",
+				"screen_name": "OneNoteC",
+				"location": "World",
+				"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+				"url": "https://t.co/Udn06tcMta",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Udn06tcMta",
+								"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+								"display_url": "onen.link/onenote-commun…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18543,
+				"friends_count": 6928,
+				"listed_count": 581,
+				"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+				"favourites_count": 27280,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24382,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+				"profile_link_color": "7719AA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@eldeingles Does this help?\nhttps://t.co/bc4Q12BLd5"
+	},
+	{
 		"created_at": "Sat Oct 13 08:18:16 +0000 2018",
 		"id": 1051024307919437800,
 		"id_str": "1051024307919437825",
