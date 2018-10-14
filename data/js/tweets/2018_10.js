@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 14 18:07:46 +0000 2018",
+		"id": 1051535048669827100,
+		"id_str": "1051535048669827079",
+		"full_text": "#OneNote fits many trades. \nLook at how @SunderJB uses it to maintain his daily #TradingJournal and calls it their \"only friend in trading\". https://t.co/hUqAVP9D2Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "TradingJournal",
+					"indices": [
+						80,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hUqAVP9D2Y",
+					"expanded_url": "https://twitter.com/SunderjiJB/status/1050961157853302784",
+					"display_url": "twitter.com/SunderjiJB/sta…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18559,
+			"friends_count": 6932,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24401,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050961157853302800,
+		"quoted_status_id_str": "1050961157853302784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hUqAVP9D2Y",
+			"expanded": "https://twitter.com/SunderjiJB/status/1050961157853302784",
+			"display": "twitter.com/SunderjiJB/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 13 04:07:20 +0000 2018",
+			"id": 1050961157853302800,
+			"id_str": "1050961157853302784",
+			"full_text": "#TradingJournal Always have one &amp; log all your trades with screenshots of your charts/entry/exit/P&amp;L/comments daily. On weekends, I go through them to see my stupid chart setups like below(2016) &amp; bring back memories of my wins/losses/learnings. It is your only friend in trading. https://t.co/GjA3MTH5eG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				292
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TradingJournal",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1050955474449838100,
+						"id_str": "1050955474449838080",
+						"indices": [
+							293,
+							316
+						],
+						"media_url": "http://pbs.twimg.com/media/DpW-b5FVsAA19lJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpW-b5FVsAA19lJ.jpg",
+						"url": "https://t.co/GjA3MTH5eG",
+						"display_url": "pic.twitter.com/GjA3MTH5eG",
+						"expanded_url": "https://twitter.com/SunderjiJB/status/1050961157853302784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1297,
+								"h": 1038,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1050955474449838100,
+						"id_str": "1050955474449838080",
+						"indices": [
+							293,
+							316
+						],
+						"media_url": "http://pbs.twimg.com/media/DpW-b5FVsAA19lJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpW-b5FVsAA19lJ.jpg",
+						"url": "https://t.co/GjA3MTH5eG",
+						"display_url": "pic.twitter.com/GjA3MTH5eG",
+						"expanded_url": "https://twitter.com/SunderjiJB/status/1050961157853302784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1297,
+								"h": 1038,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 544,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2853180794,
+				"id_str": "2853180794",
+				"name": "Sunder",
+				"screen_name": "SunderjiJB",
+				"location": "Coimbatore, India",
+				"description": "Full Time Trader. Quit Job at 2018. A Star Gazer. Living on an organic spaceship flying through space.  Work ☕ Pursue 🎯 Unwind ⛺ Explore🌌",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3711,
+				"friends_count": 144,
+				"listed_count": 32,
+				"created_at": "Sun Oct 12 13:15:13 +0000 2014",
+				"favourites_count": 1817,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1971,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043682176506548224/e8o7MTMB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043682176506548224/e8o7MTMB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2853180794/1413120212",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 124,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OneNote fits many trades. \nLook at how @SunderJB uses it to maintain his daily #TradingJournal and calls it their \"only friend in trading\". https://t.co/hUqAVP9D2Y"
+	},
+	{
+		"created_at": "Sun Oct 14 18:03:31 +0000 2018",
+		"id": 1051533979369791500,
+		"id_str": "1051533979369791488",
+		"full_text": "@KariTheFinn @LauraCatPJs @tonyhe365 When you say \"instructions do not work\", are you receiving an error message of some sort when trying to install #OneNote 2016 for Windows, Kari?",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						149,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KariTheFinn",
+					"name": "Kari 🇫🇮",
+					"id": 1951392546,
+					"id_str": "1951392546",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "LauraCatPJs",
+					"name": "Laura Butler, Goddess of Engineers",
+					"id": 760954730612797400,
+					"id_str": "760954730612797440",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "tonyhe365",
+					"name": "Tony He",
+					"id": 1033443314282819600,
+					"id_str": "1033443314282819584",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1051529900614709200,
+		"in_reply_to_status_id_str": "1051529900614709248",
+		"in_reply_to_user_id": 1951392546,
+		"in_reply_to_user_id_str": "1951392546",
+		"in_reply_to_screen_name": "KariTheFinn",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18559,
+			"friends_count": 6932,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24401,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KariTheFinn @LauraCatPJs @tonyhe365 When you say \"instructions do not work\", are you receiving an error message of some sort when trying to install #OneNote 2016 for Windows, Kari?"
+	},
+	{
 		"created_at": "Sun Oct 14 16:55:46 +0000 2018",
 		"id": 1051516928345481200,
 		"id_str": "1051516928345481219",
