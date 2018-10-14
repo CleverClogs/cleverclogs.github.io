@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 14 16:55:46 +0000 2018",
+		"id": 1051516928345481200,
+		"id_str": "1051516928345481219",
+		"full_text": "@liebschutz @Neil_Mehta @Benminnn Hi Jane. The word 'platform'  is used to talk about a computer running Microsoft Windows or one that runs the Apple Mac operating system macOS. These are called platforms. \nI asked that question because there are separate resources for Windows and for Mac. \nDoes that make sense?",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			313
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liebschutz",
+					"name": "Jane Liebschutz, MD MPH",
+					"id": 505066697,
+					"id_str": "505066697",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Neil_Mehta",
+					"name": "Neil Mehta",
+					"id": 16965547,
+					"id_str": "16965547",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "Benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1051515668389081100,
+		"in_reply_to_status_id_str": "1051515668389081088",
+		"in_reply_to_user_id": 505066697,
+		"in_reply_to_user_id_str": "505066697",
+		"in_reply_to_screen_name": "liebschutz",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18557,
+			"friends_count": 6932,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@liebschutz @Neil_Mehta @Benminnn Hi Jane. The word 'platform'  is used to talk about a computer running Microsoft Windows or one that runs the Apple Mac operating system macOS. These are called platforms. \nI asked that question because there are separate resources for Windows and for Mac. \nDoes that make sense?"
+	},
+	{
+		"created_at": "Sun Oct 14 16:50:05 +0000 2018",
+		"id": 1051515497827786800,
+		"id_str": "1051515497827786752",
+		"full_text": "@Neil_Mehta Let me know if you ever decide to publish a blog post or video about your use of Microsoft #OneNote in medical education or as a medical student. \nI'll gladly review your publication and link to it. \n#MedEd",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "MedEd",
+					"indices": [
+						212,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Neil_Mehta",
+					"name": "Neil Mehta",
+					"id": 16965547,
+					"id_str": "16965547",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1051270198949498900,
+		"in_reply_to_status_id_str": "1051270198949498880",
+		"in_reply_to_user_id": 16965547,
+		"in_reply_to_user_id_str": "16965547",
+		"in_reply_to_screen_name": "Neil_Mehta",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18557,
+			"friends_count": 6932,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Neil_Mehta Let me know if you ever decide to publish a blog post or video about your use of Microsoft #OneNote in medical education or as a medical student. \nI'll gladly review your publication and link to it. \n#MedEd"
+	},
+	{
+		"created_at": "Sun Oct 14 16:46:43 +0000 2018",
+		"id": 1051514652071514100,
+		"id_str": "1051514652071514113",
+		"full_text": "Change the way you teach with this practical introduction to #OneNote Class Notebook by Jennifer Gonzalez.\nIncludes a comparison for those who are familiar with Google Classroom:\n\nhttps://t.co/oiReLiONAJ\nby @CultofPedagogy https://t.co/mQtsSfCKzy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cultofpedagogy",
+					"name": "Jennifer Gonzalez",
+					"id": 1881304950,
+					"id_str": "1881304950",
+					"indices": [
+						207,
+						222
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oiReLiONAJ",
+					"expanded_url": "https://www.cultofpedagogy.com/onenote-class-notebook/",
+					"display_url": "cultofpedagogy.com/onenote-class-…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1051514650381180900,
+					"id_str": "1051514650381180928",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpe7ANwW4AA1lOj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpe7ANwW4AA1lOj.jpg",
+					"url": "https://t.co/mQtsSfCKzy",
+					"display_url": "pic.twitter.com/mQtsSfCKzy",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1051514652071514113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 910,
+							"h": 622,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 622,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051514650381180900,
+					"id_str": "1051514650381180928",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/Dpe7ANwW4AA1lOj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dpe7ANwW4AA1lOj.jpg",
+					"url": "https://t.co/mQtsSfCKzy",
+					"display_url": "pic.twitter.com/mQtsSfCKzy",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1051514652071514113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 910,
+							"h": 622,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 622,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18557,
+			"friends_count": 6932,
+			"listed_count": 582,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Change the way you teach with this practical introduction to #OneNote Class Notebook by Jennifer Gonzalez.\nIncludes a comparison for those who are familiar with Google Classroom:\n\nhttps://t.co/oiReLiONAJ\nby @CultofPedagogy https://t.co/mQtsSfCKzy"
+	},
+	{
 		"created_at": "Sun Oct 14 16:08:55 +0000 2018",
 		"id": 1051505137188053000,
 		"id_str": "1051505137188052992",
