@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 14 15:12:09 +0000 2018",
+		"id": 1051490851053023200,
+		"id_str": "1051490851053023233",
+		"full_text": "Speaking out can affect change. Such a valuable comment from @NerdyWoman51!\n\nHaven't read the great @WindowsCentral article about @IanMikutel and the origin of the Rainbow Ink special-effect pen in #OneNote for #Windows10? \nSee my earlier tweet about it:\nhttps://t.co/tktUEhslxj https://t.co/f1fJenSYER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						198,
+						206
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						211,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NerdyWoman51",
+					"name": "Colleen Kayter",
+					"id": 365187840,
+					"id_str": "365187840",
+					"indices": [
+						61,
+						74
+					]
+				},
+				{
+					"screen_name": "windowscentral",
+					"name": "Windows Central",
+					"id": 14208474,
+					"id_str": "14208474",
+					"indices": [
+						100,
+						115
+					]
+				},
+				{
+					"screen_name": "IanMikutel",
+					"name": "Ian Mikutel",
+					"id": 2157421,
+					"id_str": "2157421",
+					"indices": [
+						130,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tktUEhslxj",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1050798426223468546",
+					"display_url": "twitter.com/OneNoteC/statu…",
+					"indices": [
+						255,
+						278
+					]
+				},
+				{
+					"url": "https://t.co/f1fJenSYER",
+					"expanded_url": "https://twitter.com/NerdyWoman51/status/1051480133100437504",
+					"display_url": "twitter.com/NerdyWoman51/s…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18557,
+			"friends_count": 6932,
+			"listed_count": 584,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24395,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051480133100437500,
+		"quoted_status_id_str": "1051480133100437504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f1fJenSYER",
+			"expanded": "https://twitter.com/NerdyWoman51/status/1051480133100437504",
+			"display": "twitter.com/NerdyWoman51/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 14 14:29:33 +0000 2018",
+			"id": 1051480133100437500,
+			"id_str": "1051480133100437504",
+			"full_text": "@IanMikutel Just read article on Win Central w your Reddit anecdote abt origin of OneNote rainbow ink. You may not realize it, but you taught an entire class that speaking out can effect change. Teachers should know and use that story.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IanMikutel",
+						"name": "Ian Mikutel",
+						"id": 2157421,
+						"id_str": "2157421",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2157421,
+			"in_reply_to_user_id_str": "2157421",
+			"in_reply_to_screen_name": "IanMikutel",
+			"user": {
+				"id": 365187840,
+				"id_str": "365187840",
+				"name": "Colleen Kayter",
+				"screen_name": "NerdyWoman51",
+				"location": "Orange County, California",
+				"description": "Office template engineer and PowerPoint decks that focus on the message. All about form AND function.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88,
+				"friends_count": 205,
+				"listed_count": 5,
+				"created_at": "Wed Aug 31 00:40:17 +0000 2011",
+				"favourites_count": 240,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1370,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000473817978/9c057f7f44127907e814858af0fc34ef_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000473817978/9c057f7f44127907e814858af0fc34ef_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/365187840/1418787597",
+				"profile_link_color": "B80000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Speaking out can affect change. Such a valuable comment from @NerdyWoman51!\n\nHaven't read the great @WindowsCentral article about @IanMikutel and the origin of the Rainbow Ink special-effect pen in #OneNote for #Windows10? \nSee my earlier tweet about it:\nhttps://t.co/tktUEhslxj https://t.co/f1fJenSYER"
+	},
+	{
+		"created_at": "Sun Oct 14 15:01:06 +0000 2018",
+		"id": 1051488072087556100,
+		"id_str": "1051488072087556096",
+		"full_text": "@mslaviero2 @cultofpedagogy You may also appreciate the brand-new #OneNote Class Notebook course by @TeacherMarija: \nhttps://t.co/oqpWEYAyb4\n\nAnd don't forget to check out the resources at\nhttps://t.co/kyZohtX6t3\n\nFor inclusive classrooms:\nhttps://t.co/MCQoHAK6ZA\n\nAnd do follow @MTholfsen @OneNoteEDU",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			301
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mslaviero2",
+					"name": "Michelle Slaviero",
+					"id": 2327926975,
+					"id_str": "2327926975",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "cultofpedagogy",
+					"name": "Jennifer Gonzalez",
+					"id": 1881304950,
+					"id_str": "1881304950",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "teachermarija",
+					"name": "Marija Petreska",
+					"id": 521427482,
+					"id_str": "521427482",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						279,
+						289
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						290,
+						301
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oqpWEYAyb4",
+					"expanded_url": "https://bit.ly/OneNoteCourse",
+					"display_url": "bit.ly/OneNoteCourse",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/kyZohtX6t3",
+					"expanded_url": "https://aka.ms/OneNoteUltimate",
+					"display_url": "aka.ms/OneNoteUltimate",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/MCQoHAK6ZA",
+					"expanded_url": "https://onenote.com/learningtools",
+					"display_url": "onenote.com/learningtools",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1051486607516282900,
+		"in_reply_to_status_id_str": "1051486607516282880",
+		"in_reply_to_user_id": 2327926975,
+		"in_reply_to_user_id_str": "2327926975",
+		"in_reply_to_screen_name": "mslaviero2",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18557,
+			"friends_count": 6932,
+			"listed_count": 584,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24395,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mslaviero2 @cultofpedagogy You may also appreciate the brand-new #OneNote Class Notebook course by @TeacherMarija: \nhttps://t.co/oqpWEYAyb4\n\nAnd don't forget to check out the resources at\nhttps://t.co/kyZohtX6t3\n\nFor inclusive classrooms:\nhttps://t.co/MCQoHAK6ZA\n\nAnd do follow @MTholfsen @OneNoteEDU"
+	},
+	{
+		"created_at": "Sun Oct 14 14:36:00 +0000 2018",
+		"id": 1051481756078153700,
+		"id_str": "1051481756078153728",
+		"full_text": "@KariTheFinn @LauraCatPJs @tonyhe365 To the contrary, Kari.\nThe Picture &gt; Copy Text feature is hidden in a submenu off the Picture context menu, and it will only appear several minutes after pasting your image, so at first you won't see it. This has to do with the remote OCR service taking some time to kick in.",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			315
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KariTheFinn",
+					"name": "Kari 🇫🇮",
+					"id": 1951392546,
+					"id_str": "1951392546",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "LauraCatPJs",
+					"name": "Laura Butler, Goddess of Engineers",
+					"id": 760954730612797400,
+					"id_str": "760954730612797440",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "tonyhe365",
+					"name": "Tony He",
+					"id": 1033443314282819600,
+					"id_str": "1033443314282819584",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1051480266731135000,
+		"in_reply_to_status_id_str": "1051480266731134977",
+		"in_reply_to_user_id": 1951392546,
+		"in_reply_to_user_id_str": "1951392546",
+		"in_reply_to_screen_name": "KariTheFinn",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18557,
+			"friends_count": 6932,
+			"listed_count": 584,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24395,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KariTheFinn @LauraCatPJs @tonyhe365 To the contrary, Kari.\nThe Picture &gt; Copy Text feature is hidden in a submenu off the Picture context menu, and it will only appear several minutes after pasting your image, so at first you won't see it. This has to do with the remote OCR service taking some time to kick in."
+	},
+	{
 		"created_at": "Sun Oct 14 13:44:19 +0000 2018",
 		"id": 1051468746068557800,
 		"id_str": "1051468746068557824",
