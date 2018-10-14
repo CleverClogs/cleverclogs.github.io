@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 14 19:16:55 +0000 2018",
+		"id": 1051552448618393600,
+		"id_str": "1051552448618393600",
+		"full_text": "Great tip how to fix live-embedding a YouTube video in OneNote Online, by Michael Woods. \n\nBonus tip: look closely at the YouTube link and notice how #OneNote  supports live-embedding a YouTube video that starts at a specific time.\n\nThanks for sharing, @Kemistryman.\nanimated GIF https://t.co/g3a0B4V0Zf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						150,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kemistryman",
+					"name": "Michael Woods Ph.D.",
+					"id": 2318836923,
+					"id_str": "2318836923",
+					"indices": [
+						253,
+						265
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g3a0B4V0Zf",
+					"expanded_url": "https://twitter.com/Kemistryman/status/1051549660144443393",
+					"display_url": "twitter.com/Kemistryman/st…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18558,
+			"friends_count": 6932,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24402,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051549660144443400,
+		"quoted_status_id_str": "1051549660144443393",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g3a0B4V0Zf",
+			"expanded": "https://twitter.com/Kemistryman/status/1051549660144443393",
+			"display": "twitter.com/Kemistryman/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 14 19:05:50 +0000 2018",
+			"id": 1051549660144443400,
+			"id_str": "1051549660144443393",
+			"full_text": "If you paste a video URL into OneNote Online and it does not embed, try hitting the backspace key before return. #MIEExpert #MicrosoftEdu #OneNote https://t.co/0eeMhr89y5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							113,
+							123
+						]
+					},
+					{
+						"text": "MicrosoftEdu",
+						"indices": [
+							124,
+							137
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							138,
+							146
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1051546819174563800,
+						"id_str": "1051546819174563840",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpfYQr2XgAAeXxF.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpfYQr2XgAAeXxF.jpg",
+						"url": "https://t.co/0eeMhr89y5",
+						"display_url": "pic.twitter.com/0eeMhr89y5",
+						"expanded_url": "https://twitter.com/Kemistryman/status/1051549660144443393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 786,
+								"h": 238,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 786,
+								"h": 238,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 206,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1051546819174563800,
+						"id_str": "1051546819174563840",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DpfYQr2XgAAeXxF.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DpfYQr2XgAAeXxF.jpg",
+						"url": "https://t.co/0eeMhr89y5",
+						"display_url": "pic.twitter.com/0eeMhr89y5",
+						"expanded_url": "https://twitter.com/Kemistryman/status/1051549660144443393/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 786,
+								"h": 238,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 786,
+								"h": 238,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 206,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								393,
+								119
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DpfYQr2XgAAeXxF.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2318836923,
+				"id_str": "2318836923",
+				"name": "Michael Woods Ph.D.",
+				"screen_name": "Kemistryman",
+				"location": "Trafford College",
+				"description": "Senior practitioner HE + Access to HE @TraffordCollege, Manchester UK. #MIEExpert Like @Sway and @MSOneNote. Make videos - @Splice_app, FCPX and @Camtasia.",
+				"url": "https://t.co/Y6aDozWntq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y6aDozWntq",
+								"expanded_url": "http://www.trafford.ac.uk",
+								"display_url": "trafford.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 845,
+				"friends_count": 1952,
+				"listed_count": 7,
+				"created_at": "Sat Feb 01 21:51:41 +0000 2014",
+				"favourites_count": 6616,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1306,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980115154460274689/_iYuK4a4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980115154460274689/_iYuK4a4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2318836923/1392468602",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great tip how to fix live-embedding a YouTube video in OneNote Online, by Michael Woods. \n\nBonus tip: look closely at the YouTube link and notice how #OneNote  supports live-embedding a YouTube video that starts at a specific time.\n\nThanks for sharing, @Kemistryman.\nanimated GIF https://t.co/g3a0B4V0Zf"
+	},
+	{
 		"created_at": "Sun Oct 14 18:07:46 +0000 2018",
 		"id": 1051535048669827100,
 		"id_str": "1051535048669827079",
