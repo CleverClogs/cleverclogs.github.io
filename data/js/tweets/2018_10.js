@@ -1,6 +1,992 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 17:00:25 +0000 2018",
+		"id": 1051880486824480800,
+		"id_str": "1051880486824480769",
+		"full_text": "@realDotNetDave @Office365 @msonenote Hi David, do you mean the Immersive Reader and Dictation features from Microsoft #LearningTools that are available in #OneNote, Word, Outlook, #MicrosoftTeams, Edge, and Office Lens?\n\nTry it out with your own text at https://t.co/MCQoHAK6ZA https://t.co/H6EaxnrWur",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LearningTools",
+					"indices": [
+						119,
+						133
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						181,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDotNetDave",
+					"name": "David McCarter",
+					"id": 1658046319,
+					"id_str": "1658046319",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						27,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MCQoHAK6ZA",
+					"expanded_url": "https://onenote.com/learningtools",
+					"display_url": "onenote.com/learningtools",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1051879954445725700,
+					"id_str": "1051879954445725697",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DpkHPtcXcAEmW6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpkHPtcXcAEmW6p.jpg",
+					"url": "https://t.co/H6EaxnrWur",
+					"display_url": "pic.twitter.com/H6EaxnrWur",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1051880486824480769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1085,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1085,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051879954445725700,
+					"id_str": "1051879954445725697",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DpkHPtcXcAEmW6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpkHPtcXcAEmW6p.jpg",
+					"url": "https://t.co/H6EaxnrWur",
+					"display_url": "pic.twitter.com/H6EaxnrWur",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1051880486824480769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1085,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1085,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 413,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1051870062452174800,
+		"in_reply_to_status_id_str": "1051870062452174848",
+		"in_reply_to_user_id": 1658046319,
+		"in_reply_to_user_id_str": "1658046319",
+		"in_reply_to_screen_name": "realDotNetDave",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18571,
+			"friends_count": 6933,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24415,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@realDotNetDave @Office365 @msonenote Hi David, do you mean the Immersive Reader and Dictation features from Microsoft #LearningTools that are available in #OneNote, Word, Outlook, #MicrosoftTeams, Edge, and Office Lens?\n\nTry it out with your own text at https://t.co/MCQoHAK6ZA https://t.co/H6EaxnrWur"
+	},
+	{
+		"created_at": "Mon Oct 15 15:17:00 +0000 2018",
+		"id": 1051854460891344900,
+		"id_str": "1051854460891344897",
+		"full_text": "The new blog post is up! Student computer literacy is so important, which makes 1:1 programs in schools vital for our students. Want to learn more? Read our blog with pictures of some jobs that currently require computer literacy #onslowdlt #AVIDtudeSW @OneNoteC https://t.co/NMMFp7DlRu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onslowdlt",
+					"indices": [
+						230,
+						240
+					]
+				},
+				{
+					"text": "AVIDtudeSW",
+					"indices": [
+						241,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						253,
+						262
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NMMFp7DlRu",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1051853309697564674",
+					"display_url": "twitter.com/erinjurisich/s…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 572855104,
+			"id_str": "572855104",
+			"name": "Sachelle",
+			"screen_name": "SachelleD",
+			"location": "",
+			"description": "Digital Learning and Teaching Facilitator, Microsoft Education Fangirl, Certified MIE, MIE Master Trainer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423,
+			"friends_count": 363,
+			"listed_count": 23,
+			"created_at": "Sun May 06 17:39:02 +0000 2012",
+			"favourites_count": 3759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1890,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031994941885624320/W5uOHCMo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031994941885624320/W5uOHCMo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/572855104/1498752628",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051853309697564700,
+		"quoted_status_id_str": "1051853309697564674",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NMMFp7DlRu",
+			"expanded": "https://twitter.com/erinjurisich/status/1051853309697564674",
+			"display": "twitter.com/erinjurisich/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 15 15:12:26 +0000 2018",
+			"id": 1051853309697564700,
+			"id_str": "1051853309697564674",
+			"full_text": "\"Why 1:1?\" This week's blog post is live and answers that very question! Read about the @OnslowSchools 1:1 program and how it aims to help our students become #CollegeAndCareerReady and prepared for a digital world: https://t.co/oiALUEJpbj #onslowdlt #askonslowdlt https://t.co/DYPsXGscdQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				264
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CollegeAndCareerReady",
+						"indices": [
+							159,
+							181
+						]
+					},
+					{
+						"text": "onslowdlt",
+						"indices": [
+							240,
+							250
+						]
+					},
+					{
+						"text": "askonslowdlt",
+						"indices": [
+							251,
+							264
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OnslowSchools",
+						"name": "Onslow County Schools",
+						"id": 45604740,
+						"id_str": "45604740",
+						"indices": [
+							88,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oiALUEJpbj",
+						"expanded_url": "https://www.onslow.k12.nc.us/Page/24042",
+						"display_url": "onslow.k12.nc.us/Page/24042",
+						"indices": [
+							216,
+							239
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1051852158163808300,
+						"id_str": "1051852158163808257",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/Dpjt9wOU8AE8jYt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dpjt9wOU8AE8jYt.jpg",
+						"url": "https://t.co/DYPsXGscdQ",
+						"display_url": "pic.twitter.com/DYPsXGscdQ",
+						"expanded_url": "https://twitter.com/erinjurisich/status/1051853309697564674/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1136,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1136,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1051852158163808300,
+						"id_str": "1051852158163808257",
+						"indices": [
+							265,
+							288
+						],
+						"media_url": "http://pbs.twimg.com/media/Dpjt9wOU8AE8jYt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dpjt9wOU8AE8jYt.jpg",
+						"url": "https://t.co/DYPsXGscdQ",
+						"display_url": "pic.twitter.com/DYPsXGscdQ",
+						"expanded_url": "https://twitter.com/erinjurisich/status/1051853309697564674/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1136,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1136,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 443760872,
+				"id_str": "443760872",
+				"name": "Mrs. Erin Holland",
+				"screen_name": "erinjurisich",
+				"location": "North Carolina, USA",
+				"description": "DLTF @ SHS in Onslow County #onslowdlt",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 256,
+				"friends_count": 122,
+				"listed_count": 11,
+				"created_at": "Thu Dec 22 14:23:32 +0000 2011",
+				"favourites_count": 1369,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 868,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1037435929479311361/cj8lu06h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037435929479311361/cj8lu06h_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/443760872/1423937391",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The new blog post is up! Student computer literacy is so important, which makes 1:1 programs in schools vital for our students. Want to learn more? Read our blog with pictures of some jobs that currently require computer literacy #onslowdlt #AVIDtudeSW @OneNoteC https://t.co/NMMFp7DlRu"
+	},
+	{
+		"created_at": "Mon Oct 15 11:55:14 +0000 2018",
+		"id": 1051803685242789900,
+		"id_str": "1051803685242789888",
+		"full_text": "Seen our full-house, multi-lingual #Flipgrid yet for the #MSFTEduChat about Global Collaboration and #skypeathon?\nWe think it's amazing. \n\nYou're most welcome to join in and record your own video too:\nhttps://t.co/Pi0ZasuXPZ\n\n#MicrosoftEDU #FlipgridFever https://t.co/CHK1ZYJ25W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flipgrid",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"text": "skypeathon",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						226,
+						239
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						240,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pi0ZasuXPZ",
+					"expanded_url": "https://flipgrid.com/e3ec052b",
+					"display_url": "flipgrid.com/e3ec052b",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1051803343826444300,
+					"id_str": "1051803343826444288",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/DpjBkYpX4AAAZd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpjBkYpX4AAAZd4.jpg",
+					"url": "https://t.co/CHK1ZYJ25W",
+					"display_url": "pic.twitter.com/CHK1ZYJ25W",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1051803685242789888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1897,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051803343826444300,
+					"id_str": "1051803343826444288",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/DpjBkYpX4AAAZd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpjBkYpX4AAAZd4.jpg",
+					"url": "https://t.co/CHK1ZYJ25W",
+					"display_url": "pic.twitter.com/CHK1ZYJ25W",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1051803685242789888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1897,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1119,
+			"friends_count": 691,
+			"listed_count": 11,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 295,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1539074390",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seen our full-house, multi-lingual #Flipgrid yet for the #MSFTEduChat about Global Collaboration and #skypeathon?\nWe think it's amazing. \n\nYou're most welcome to join in and record your own video too:\nhttps://t.co/Pi0ZasuXPZ\n\n#MicrosoftEDU #FlipgridFever https://t.co/CHK1ZYJ25W"
+	},
+	{
+		"created_at": "Mon Oct 15 15:22:48 +0000 2018",
+		"id": 1051855921696129000,
+		"id_str": "1051855921696129025",
+		"full_text": "We are honored to be a Microsoft #ShowcaseSchool We are proud of the efforts of all of our educators and management. We have an exciting journey ahead with #STEM, #OneNote and #MicrosoftTeams. https://t.co/GP9TlphkkS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShowcaseSchool",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						176,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051851115267022800,
+					"id_str": "1051851115267022849",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/DpjtBDIW4AE9Bz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpjtBDIW4AE9Bz7.jpg",
+					"url": "https://t.co/GP9TlphkkS",
+					"display_url": "pic.twitter.com/GP9TlphkkS",
+					"expanded_url": "https://twitter.com/StJosephsRB/status/1051855921696129025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051851115267022800,
+					"id_str": "1051851115267022849",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/DpjtBDIW4AE9Bz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpjtBDIW4AE9Bz7.jpg",
+					"url": "https://t.co/GP9TlphkkS",
+					"display_url": "pic.twitter.com/GP9TlphkkS",
+					"expanded_url": "https://twitter.com/StJosephsRB/status/1051855921696129025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1049611904300269600,
+			"id_str": "1049611904300269568",
+			"name": "St Josephs Secondary School Rochfortbridge",
+			"screen_name": "StJosephsRB",
+			"location": "St Joseph's Secondary School,\nRochfortbridge,\nCo. Westmeath, Ireland\nEircode: N91 XV56",
+			"description": "St. Joseph’s is committed to creating and developing conditions for learning in a caring and safe environment. \n\nSchool App https://t.co/d13d2Y9uek",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/d13d2Y9uek",
+							"expanded_url": "https://tinyurl.com/y7hdydfp",
+							"display_url": "tinyurl.com/y7hdydfp",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Tue Oct 09 10:45:53 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049613806194909184/yPcmYpec_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049613806194909184/yPcmYpec_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1049611904300269568/1539089740",
+			"profile_link_color": "3F48CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are honored to be a Microsoft #ShowcaseSchool We are proud of the efforts of all of our educators and management. We have an exciting journey ahead with #STEM, #OneNote and #MicrosoftTeams. https://t.co/GP9TlphkkS"
+	},
+	{
 		"created_at": "Mon Oct 15 15:22:48 +0000 2018",
 		"id": 1051855921696129000,
 		"id_str": "1051855921696129025",
