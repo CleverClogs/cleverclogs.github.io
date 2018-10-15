@@ -1,6 +1,897 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 13:06:49 +0000 2018",
+		"id": 1051821699820347400,
+		"id_str": "1051821699820347392",
+		"full_text": "@TheBebsMLC Can't resist this one.\nThis full Twitter thread from Oct 2017 on my discovery how to create section groups in #OneNote for #Windows10 is pretty hilarious:  \nhttps://t.co/82qBjh3LIZ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						135,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheBebsMLC",
+					"name": "Vance Beblow",
+					"id": 905509679220043800,
+					"id_str": "905509679220043777",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/82qBjh3LIZ",
+					"expanded_url": "https://twitter.com/OneNoteC/status/923300975795826689",
+					"display_url": "twitter.com/OneNoteC/statu…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1051818041065975800,
+		"in_reply_to_status_id_str": "1051818041065975808",
+		"in_reply_to_user_id": 905509679220043800,
+		"in_reply_to_user_id_str": "905509679220043777",
+		"in_reply_to_screen_name": "TheBebsMLC",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18567,
+			"friends_count": 6933,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 923300975795826700,
+		"quoted_status_id_str": "923300975795826689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/82qBjh3LIZ",
+			"expanded": "https://twitter.com/OneNoteC/status/923300975795826689",
+			"display": "twitter.com/OneNoteC/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 25 21:31:21 +0000 2017",
+			"id": 923300975795826700,
+			"id_str": "923300975795826689",
+			"full_text": "Today I discovered how to create a new section group in #OneNote for #Windows10. Can you figure it out too? Took me a while...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							56,
+							64
+						]
+					},
+					{
+						"text": "Windows10",
+						"indices": [
+							69,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2582768738,
+				"id_str": "2582768738",
+				"name": "OneNote Central",
+				"screen_name": "OneNoteC",
+				"location": "World",
+				"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+				"url": "https://t.co/Udn06tcMta",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Udn06tcMta",
+								"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+								"display_url": "onen.link/onenote-commun…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18567,
+				"friends_count": 6933,
+				"listed_count": 581,
+				"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+				"favourites_count": 27369,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24411,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+				"profile_link_color": "7719AA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TheBebsMLC Can't resist this one.\nThis full Twitter thread from Oct 2017 on my discovery how to create section groups in #OneNote for #Windows10 is pretty hilarious:  \nhttps://t.co/82qBjh3LIZ"
+	},
+	{
+		"created_at": "Mon Oct 15 12:23:21 +0000 2018",
+		"id": 1051810760223903700,
+		"id_str": "1051810760223903745",
+		"full_text": "If you told me 6 years ago I'd be the OneNote go-to person on staff, I would have told you to forget it! But the now consistently updated Class Notebook offers a whole new level of personalisation, delivery and accessibility @Office365 #classnotebook https://t.co/qyxhCemzWE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "classnotebook",
+					"indices": [
+						236,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						225,
+						235
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qyxhCemzWE",
+					"expanded_url": "https://twitter.com/cultofpedagogy/status/1051622341673963520",
+					"display_url": "twitter.com/cultofpedagogy…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 176385687,
+			"id_str": "176385687",
+			"name": "Noni Harrison",
+			"screen_name": "NHarrisonTL",
+			"location": "Brisbane, Queensland",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22,
+			"friends_count": 111,
+			"listed_count": 1,
+			"created_at": "Mon Aug 09 11:45:40 +0000 2010",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051814982503911424/2bsuLWo7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051814982503911424/2bsuLWo7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176385687/1539605147",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051622341673963500,
+		"quoted_status_id_str": "1051622341673963520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qyxhCemzWE",
+			"expanded": "https://twitter.com/cultofpedagogy/status/1051622341673963520",
+			"display": "twitter.com/cultofpedagogy…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 14 23:54:39 +0000 2018",
+			"id": 1051622341673963500,
+			"id_str": "1051622341673963520",
+			"full_text": "OneNote Class Notebook: A Digital Binder That Will Change the Way You Teach https://t.co/u5zSNAqQUw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/u5zSNAqQUw",
+						"expanded_url": "https://goo.gl/fb/X2TkZG",
+						"display_url": "goo.gl/fb/X2TkZG",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.google.com/\" rel=\"nofollow\">Google</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1881304950,
+				"id_str": "1881304950",
+				"name": "Jennifer Gonzalez",
+				"screen_name": "cultofpedagogy",
+				"location": "Kentucky, USA",
+				"description": "I help teachers crush it in the classroom. Love my family and CrossFit. Find my courses at https://t.co/Qb99SWDEiH",
+				"url": "http://t.co/B8cgBB9bin",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/B8cgBB9bin",
+								"expanded_url": "http://www.cultofpedagogy.com",
+								"display_url": "cultofpedagogy.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Qb99SWDEiH",
+								"expanded_url": "http://cultofpedagogy.teachable.com/",
+								"display_url": "cultofpedagogy.teachable.com",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 70178,
+				"friends_count": 16930,
+				"listed_count": 1306,
+				"created_at": "Thu Sep 19 00:23:44 +0000 2013",
+				"favourites_count": 29418,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16928,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960514741473914881/18_2TprC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960514741473914881/18_2TprC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1881304950/1532740814",
+				"profile_link_color": "847462",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 123,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you told me 6 years ago I'd be the OneNote go-to person on staff, I would have told you to forget it! But the now consistently updated Class Notebook offers a whole new level of personalisation, delivery and accessibility @Office365 #classnotebook https://t.co/qyxhCemzWE"
+	},
+	{
+		"created_at": "Mon Oct 15 11:37:13 +0000 2018",
+		"id": 1051799150000521200,
+		"id_str": "1051799150000521216",
+		"full_text": "Excited for this! I’m here in London, stay tuned for tonight’s Global Summit event! #dyslexia #MadeByDyslexia #mieexpert #MicrosoftEDU https://t.co/zIZz737Sec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dyslexia",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "MadeByDyslexia",
+					"indices": [
+						94,
+						109
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						121,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zIZz737Sec",
+					"expanded_url": "https://twitter.com/microsofteduk/status/1051789809260404737",
+					"display_url": "twitter.com/microsofteduk/…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14399,
+			"friends_count": 2685,
+			"listed_count": 684,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 42723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24031,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051789809260404700,
+		"quoted_status_id_str": "1051789809260404737",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zIZz737Sec",
+			"expanded": "https://twitter.com/microsofteduk/status/1051789809260404737",
+			"display": "twitter.com/microsofteduk/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 15 11:00:06 +0000 2018",
+			"id": 1051789809260404700,
+			"id_str": "1051789809260404737",
+			"full_text": "We're hours away from the first ever Global Summit #MadeByDyslexia. The evening will be a celebration of everything that is #MadebyDyslexia and will be streamed live from London. More information to follow soon. \n@educationgovuk @bnholzapfel @Virgin @richardbranson #MicrosoftEdu https://t.co/PcD75V05nM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MadeByDyslexia",
+						"indices": [
+							51,
+							66
+						]
+					},
+					{
+						"text": "MadebyDyslexia",
+						"indices": [
+							124,
+							139
+						]
+					},
+					{
+						"text": "MicrosoftEdu",
+						"indices": [
+							266,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "educationgovuk",
+						"name": "DfE",
+						"id": 143039548,
+						"id_str": "143039548",
+						"indices": [
+							213,
+							228
+						]
+					},
+					{
+						"screen_name": "bnholzapfel",
+						"name": "Barbara Holzapfel",
+						"id": 466961923,
+						"id_str": "466961923",
+						"indices": [
+							229,
+							241
+						]
+					},
+					{
+						"screen_name": "Virgin",
+						"name": "Virgin",
+						"id": 15631238,
+						"id_str": "15631238",
+						"indices": [
+							242,
+							249
+						]
+					},
+					{
+						"screen_name": "richardbranson",
+						"name": "Richard Branson",
+						"id": 8161232,
+						"id_str": "8161232",
+						"indices": [
+							250,
+							265
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1051789786355253200,
+						"id_str": "1051789786355253248",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1051789786355253248/img/Vr6rgqfQss8oMn16.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1051789786355253248/img/Vr6rgqfQss8oMn16.jpg",
+						"url": "https://t.co/PcD75V05nM",
+						"display_url": "pic.twitter.com/PcD75V05nM",
+						"expanded_url": "https://twitter.com/microsofteduk/status/1051789809260404737/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1051789786355253200,
+						"id_str": "1051789786355253248",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1051789786355253248/img/Vr6rgqfQss8oMn16.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1051789786355253248/img/Vr6rgqfQss8oMn16.jpg",
+						"url": "https://t.co/PcD75V05nM",
+						"display_url": "pic.twitter.com/PcD75V05nM",
+						"expanded_url": "https://twitter.com/microsofteduk/status/1051789809260404737/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 10000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1051789786355253248/pl/fmdaZhTyy1xFKLTp.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1051789786355253248/vid/640x360/5wfPVU6Z-1l1DFce.mp4?tag=8"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1051789786355253248/vid/320x180/YzQnocqM6-3j1fmG.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1051789786355253248/vid/1280x720/PU6tdEgFV921hMLo.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48661542,
+				"id_str": "48661542",
+				"name": "Microsoft Education",
+				"screen_name": "microsofteduk",
+				"location": "Reading, England",
+				"description": "Stories, tips and more from the Microsoft UK Education team #MIEExpert #MicrosoftEDU",
+				"url": "https://t.co/Kff3Pei3uz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Kff3Pei3uz",
+								"expanded_url": "https://education.microsoft.com/",
+								"display_url": "education.microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24647,
+				"friends_count": 1416,
+				"listed_count": 521,
+				"created_at": "Fri Jun 19 09:37:57 +0000 2009",
+				"favourites_count": 3825,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8457,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899945975585923072/ojtIQsSh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899945975585923072/ojtIQsSh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48661542/1503398841",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited for this! I’m here in London, stay tuned for tonight’s Global Summit event! #dyslexia #MadeByDyslexia #mieexpert #MicrosoftEDU https://t.co/zIZz737Sec"
+	},
+	{
 		"created_at": "Mon Oct 15 11:37:13 +0000 2018",
 		"id": 1051799150000521200,
 		"id_str": "1051799150000521216",
