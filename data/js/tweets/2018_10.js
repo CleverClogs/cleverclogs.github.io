@@ -1,6 +1,174 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 11:05:59 +0000 2018",
+		"id": 1051791289505726500,
+		"id_str": "1051791289505726466",
+		"full_text": "At #MSGIgnite, Microsoft explained what is and isn't coming to #OneNote for #Windows10. \nAnalysis of @Benminnn's session, covering tags, email to OneNote, embedded cloud files &amp; more:\n\nhttps://t.co/fYGlUpK8no\nby @StefanWischner @TheOneNoteBlog\n\nRecording: \nhttps://t.co/KV6jPi67P6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSGIgnite",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"screen_name": "StefanWischner",
+					"name": "Stefan Wischner",
+					"id": 246435670,
+					"id_str": "246435670",
+					"indices": [
+						216,
+						231
+					]
+				},
+				{
+					"screen_name": "TheOneNoteBlog",
+					"name": "The OneNote Blog",
+					"id": 968198841764843500,
+					"id_str": "968198841764843520",
+					"indices": [
+						232,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fYGlUpK8no",
+					"expanded_url": "http://onenote-blog.com/upcoming-features-to-onenote-for-windows-10/",
+					"display_url": "onenote-blog.com/upcoming-featu…",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/KV6jPi67P6",
+					"expanded_url": "https://www.youtube.com/watch?v=-8kAEm3dYsA",
+					"display_url": "youtube.com/watch?v=-8kAEm…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18567,
+			"friends_count": 6933,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24408,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At #MSGIgnite, Microsoft explained what is and isn't coming to #OneNote for #Windows10. \nAnalysis of @Benminnn's session, covering tags, email to OneNote, embedded cloud files &amp; more:\n\nhttps://t.co/fYGlUpK8no\nby @StefanWischner @TheOneNoteBlog\n\nRecording: \nhttps://t.co/KV6jPi67P6"
+	},
+	{
 		"created_at": "Mon Oct 15 08:27:26 +0000 2018",
 		"id": 1051751387896455200,
 		"id_str": "1051751387896455168",
