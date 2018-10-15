@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 15:22:48 +0000 2018",
+		"id": 1051855921696129000,
+		"id_str": "1051855921696129025",
+		"full_text": "We are honored to be a Microsoft #ShowcaseSchool We are proud of the efforts of all of our educators and management. We have an exciting journey ahead with #STEM, #OneNote and #MicrosoftTeams. https://t.co/GP9TlphkkS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShowcaseSchool",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						176,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051851115267022800,
+					"id_str": "1051851115267022849",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/DpjtBDIW4AE9Bz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpjtBDIW4AE9Bz7.jpg",
+					"url": "https://t.co/GP9TlphkkS",
+					"display_url": "pic.twitter.com/GP9TlphkkS",
+					"expanded_url": "https://twitter.com/StJosephsRB/status/1051855921696129025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051851115267022800,
+					"id_str": "1051851115267022849",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/DpjtBDIW4AE9Bz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpjtBDIW4AE9Bz7.jpg",
+					"url": "https://t.co/GP9TlphkkS",
+					"display_url": "pic.twitter.com/GP9TlphkkS",
+					"expanded_url": "https://twitter.com/StJosephsRB/status/1051855921696129025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1049611904300269600,
+			"id_str": "1049611904300269568",
+			"name": "St Josephs Secondary School Rochfortbridge",
+			"screen_name": "StJosephsRB",
+			"location": "St Joseph's Secondary School,\nRochfortbridge,\nCo. Westmeath, Ireland\nEircode: N91 XV56",
+			"description": "St. Joseph’s is committed to creating and developing conditions for learning in a caring and safe environment. \n\nSchool App https://t.co/d13d2Y9uek",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/d13d2Y9uek",
+							"expanded_url": "https://tinyurl.com/y7hdydfp",
+							"display_url": "tinyurl.com/y7hdydfp",
+							"indices": [
+								124,
+								147
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Tue Oct 09 10:45:53 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049613806194909184/yPcmYpec_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049613806194909184/yPcmYpec_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1049611904300269568/1539089740",
+			"profile_link_color": "3F48CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are honored to be a Microsoft #ShowcaseSchool We are proud of the efforts of all of our educators and management. We have an exciting journey ahead with #STEM, #OneNote and #MicrosoftTeams. https://t.co/GP9TlphkkS"
+	},
+	{
 		"created_at": "Mon Oct 15 13:06:49 +0000 2018",
 		"id": 1051821699820347400,
 		"id_str": "1051821699820347392",
