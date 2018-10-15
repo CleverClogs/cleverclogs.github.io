@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 08:27:26 +0000 2018",
+		"id": 1051751387896455200,
+		"id_str": "1051751387896455168",
+		"full_text": "Microsoft-sponsored event about #dyslexia, broadcast live from London at 9am PDT today Oct 15.\n\n#MicrosoftEDU general manager Barbara Holzapfel @bnholzapfel will be on one of the panels.\n\nSee the full @MadeByDyslexia agenda attached to the tweet below.\n#MadeByDyslexia #inclusion https://t.co/JUYy7b7J8f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dyslexia",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"text": "MadeByDyslexia",
+					"indices": [
+						253,
+						268
+					]
+				},
+				{
+					"text": "inclusion",
+					"indices": [
+						269,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bnholzapfel",
+					"name": "Barbara Holzapfel",
+					"id": 466961923,
+					"id_str": "466961923",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"screen_name": "MadeByDyslexia",
+					"name": "Made By Dyslexia",
+					"id": 846743880661942300,
+					"id_str": "846743880661942273",
+					"indices": [
+						201,
+						216
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JUYy7b7J8f",
+					"expanded_url": "https://twitter.com/MadeByDyslexia/status/1051163502159847424",
+					"display_url": "twitter.com/MadeByDyslexia…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18569,
+			"friends_count": 6933,
+			"listed_count": 581,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051163502159847400,
+		"quoted_status_id_str": "1051163502159847424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JUYy7b7J8f",
+			"expanded": "https://twitter.com/MadeByDyslexia/status/1051163502159847424",
+			"display": "twitter.com/MadeByDyslexia…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 13 17:31:23 +0000 2018",
+			"id": 1051163502159847400,
+			"id_str": "1051163502159847424",
+			"full_text": "We're excited to announce our full agenda for the Global Summit #MadeByDyslexia. Join us for what will be a thought-provoking evening from 6pm on Monday 15th October, live streamed here: https://t.co/ighnPxS0i0 https://t.co/FAZuKb74BV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MadeByDyslexia",
+						"indices": [
+							64,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ighnPxS0i0",
+						"expanded_url": "http://bit.ly/2zOclAk",
+						"display_url": "bit.ly/2zOclAk",
+						"indices": [
+							187,
+							210
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1051163286379610100,
+						"id_str": "1051163286379610113",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/DpZ7cI2WwAEiIwH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpZ7cI2WwAEiIwH.jpg",
+						"url": "https://t.co/FAZuKb74BV",
+						"display_url": "pic.twitter.com/FAZuKb74BV",
+						"expanded_url": "https://twitter.com/MadeByDyslexia/status/1051163502159847424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1051163286379610100,
+						"id_str": "1051163286379610113",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/DpZ7cI2WwAEiIwH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpZ7cI2WwAEiIwH.jpg",
+						"url": "https://t.co/FAZuKb74BV",
+						"display_url": "pic.twitter.com/FAZuKb74BV",
+						"expanded_url": "https://twitter.com/MadeByDyslexia/status/1051163502159847424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 846743880661942300,
+				"id_str": "846743880661942273",
+				"name": "Made By Dyslexia",
+				"screen_name": "MadeByDyslexia",
+				"location": "",
+				"description": "We are a global charity lead by successful dyslexics. Join us on 15th October at the Global Summit #MadeByDyslexia: https://t.co/RCQ3SYfVdm",
+				"url": "https://t.co/2DGohCIiLd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2DGohCIiLd",
+								"expanded_url": "http://Madebydyslexia.org",
+								"display_url": "Madebydyslexia.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RCQ3SYfVdm",
+								"expanded_url": "http://bit.ly/2zOclAk",
+								"display_url": "bit.ly/2zOclAk",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7086,
+				"friends_count": 247,
+				"listed_count": 43,
+				"created_at": "Tue Mar 28 15:20:47 +0000 2017",
+				"favourites_count": 2563,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1992,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1050730615719583744/S3nTLJ0B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050730615719583744/S3nTLJ0B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/846743880661942273/1539348710",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 53,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Microsoft-sponsored event about #dyslexia, broadcast live from London at 9am PDT today Oct 15.\n\n#MicrosoftEDU general manager Barbara Holzapfel @bnholzapfel will be on one of the panels.\n\nSee the full @MadeByDyslexia agenda attached to the tweet below.\n#MadeByDyslexia #inclusion https://t.co/JUYy7b7J8f"
+	},
+	{
 		"created_at": "Mon Oct 15 06:31:29 +0000 2018",
 		"id": 1051722211151814700,
 		"id_str": "1051722211151814656",
