@@ -159,6 +159,422 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 66866,
+			"friends_count": 842,
+			"listed_count": 751,
+			"created_at": "Wed Mar 18 17:56:27 +0000 2015",
+			"favourites_count": 9558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096566760/1455659611",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Missed the live session about #OneNote at #MSIgnite? Don’t worry, we’ve got you covered. Watch the session on demand here to get the latest news on the OneNote for #Windows10 app: https://t.co/IaoQOmw8vH https://t.co/x9gKWzfB1x"
+	},
+	{
+		"created_at": "Tue Oct 30 22:19:45 +0000 2018",
+		"id": 1057396667589177300,
+		"id_str": "1057396667589177344",
+		"full_text": "LEFT RIGHT BRAIN? Just stop it! Creativity does not involve a single brain region or single side of the brain. Brain regions work as a team to get the job done, and many recruit structures from both the left and right side of the brain. #microsoftedu @microsoftedu #21c https://t.co/zzAry8ov7J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "microsoftedu",
+					"indices": [
+						237,
+						250
+					]
+				},
+				{
+					"text": "21c",
+					"indices": [
+						265,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						251,
+						264
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1057395633772843000,
+					"id_str": "1057395633772843008",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/DqyfugIUUAAfWYS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqyfugIUUAAfWYS.jpg",
+					"url": "https://t.co/zzAry8ov7J",
+					"display_url": "pic.twitter.com/zzAry8ov7J",
+					"expanded_url": "https://twitter.com/sparvell/status/1057396667589177344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 734,
+							"h": 416,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1057395633772843000,
+					"id_str": "1057395633772843008",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/DqyfugIUUAAfWYS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqyfugIUUAAfWYS.jpg",
+					"url": "https://t.co/zzAry8ov7J",
+					"display_url": "pic.twitter.com/zzAry8ov7J",
+					"expanded_url": "https://twitter.com/sparvell/status/1057396667589177344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 734,
+							"h": 416,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33184994,
+			"id_str": "33184994",
+			"name": "Mark Sparvell",
+			"screen_name": "sparvell",
+			"location": "Kirkland, Washington State",
+			"description": "Education Professional Thought Leader #technology #education #innovation #leader . All opinions expressed are my own.  https://t.co/yEdK1MLzDY",
+			"url": "https://t.co/xKuFNajmEh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xKuFNajmEh",
+							"expanded_url": "http://www.sparvell.com",
+							"display_url": "sparvell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yEdK1MLzDY",
+							"expanded_url": "https://www.linkedin.com/in/sparvell",
+							"display_url": "linkedin.com/in/sparvell",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6275,
+			"friends_count": 7143,
+			"listed_count": 268,
+			"created_at": "Sun Apr 19 12:01:03 +0000 2009",
+			"favourites_count": 4163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9304,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817872217748815873/DV9Z-Stk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817872217748815873/DV9Z-Stk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33184994/1483852943",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LEFT RIGHT BRAIN? Just stop it! Creativity does not involve a single brain region or single side of the brain. Brain regions work as a team to get the job done, and many recruit structures from both the left and right side of the brain. #microsoftedu @microsoftedu #21c https://t.co/zzAry8ov7J"
+	},
+	{
+		"created_at": "Thu Nov 01 16:59:01 +0000 2018",
+		"id": 1058040727962349600,
+		"id_str": "1058040727962349569",
+		"full_text": "Missed the live session about #OneNote at #MSIgnite? Don’t worry, we’ve got you covered. Watch the session on demand here to get the latest news on the OneNote for #Windows10 app: https://t.co/IaoQOmw8vH https://t.co/x9gKWzfB1x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"text": "MSIgnite",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						164,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IaoQOmw8vH",
+					"expanded_url": "http://msft.social/LStw6F",
+					"display_url": "msft.social/LStw6F",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1058040724355235800,
+					"id_str": "1058040724355235840",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq7qbt0XQAA4k-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq7qbt0XQAA4k-X.jpg",
+					"url": "https://t.co/x9gKWzfB1x",
+					"display_url": "pic.twitter.com/x9gKWzfB1x",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1058040727962349569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058040724355235800,
+					"id_str": "1058040724355235840",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq7qbt0XQAA4k-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq7qbt0XQAA4k-X.jpg",
+					"url": "https://t.co/x9gKWzfB1x",
+					"display_url": "pic.twitter.com/x9gKWzfB1x",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1058040727962349569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3096566760,
+			"id_str": "3096566760",
+			"name": "OneNote Education",
+			"screen_name": "OneNoteEDU",
+			"location": "Redmond, WA",
+			"description": "Connecting educators to OneNote resources and information. An official channel for Microsoft OneNote.",
+			"url": "http://t.co/VAJyjQIbaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VAJyjQIbaK",
+							"expanded_url": "http://onenoteineducation.com/",
+							"display_url": "onenoteineducation.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 66868,
 			"friends_count": 842,
 			"listed_count": 750,
