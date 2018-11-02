@@ -67,6 +67,833 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 375747,
+			"friends_count": 1405,
+			"listed_count": 6336,
+			"created_at": "Sat Feb 21 02:32:24 +0000 2009",
+			"favourites_count": 1755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6062,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/861981051479924736/gZaIkPyp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/861981051479924736/gZaIkPyp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21457289/1528483512",
+			"profile_link_color": "161616",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Imagine a chatbot that can speak Spanglish or Hinglish as naturally as a person who is multilingual. Researchers at Microsoft Research India can. Learn how their development of artificially generated language datasets will help get us there: https://t.co/M6hAldcaVv #EMNLP2018"
+	},
+	{
+		"created_at": "Fri Nov 02 07:27:55 +0000 2018",
+		"id": 1058259395019075600,
+		"id_str": "1058259395019075587",
+		"full_text": "Kathi, you say it so well. We embrace you for all that you do.\n\nThank you, @kerszi https://t.co/PU35zziYTb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kerszi",
+					"name": "Kathi Kersznowski",
+					"id": 595079922,
+					"id_str": "595079922",
+					"indices": [
+						75,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PU35zziYTb",
+					"expanded_url": "https://twitter.com/kerszi/status/1058203506811826177",
+					"display_url": "twitter.com/kerszi/status/…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18874,
+			"friends_count": 7064,
+			"listed_count": 586,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1058203506811826200,
+		"quoted_status_id_str": "1058203506811826177",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PU35zziYTb",
+			"expanded": "https://twitter.com/kerszi/status/1058203506811826177",
+			"display": "twitter.com/kerszi/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 02 03:45:51 +0000 2018",
+			"id": 1058203506811826200,
+			"id_str": "1058203506811826177",
+			"full_text": "My professional fulfillment, pride, &amp; happiness have always come from three things: https://t.co/RfqIWkfWO2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1058203501577171000,
+						"id_str": "1058203501577170944",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq9-emOU8AA1og_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq9-emOU8AA1og_.jpg",
+						"url": "https://t.co/RfqIWkfWO2",
+						"display_url": "pic.twitter.com/RfqIWkfWO2",
+						"expanded_url": "https://twitter.com/kerszi/status/1058203506811826177/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1242,
+								"h": 621,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1058203501577171000,
+						"id_str": "1058203501577170944",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/Dq9-emOU8AA1og_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dq9-emOU8AA1og_.jpg",
+						"url": "https://t.co/RfqIWkfWO2",
+						"display_url": "pic.twitter.com/RfqIWkfWO2",
+						"expanded_url": "https://twitter.com/kerszi/status/1058203506811826177/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1242,
+								"h": 621,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595079922,
+				"id_str": "595079922",
+				"name": "Kathi Kersznowski",
+				"screen_name": "kerszi",
+				"location": "New Jersey, USA",
+				"description": "🤗Tech Integration Specialist -Blogger, Presenter, Leader - Keynote Speaker, TOY, #MIEExpert, STEAMedu, Flipgrid, #Fliphunt, Seesaw, Buncee, #LearningInTheLoo",
+				"url": "https://t.co/F3EubyVGqy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F3EubyVGqy",
+								"expanded_url": "http://kerszi.wordpress.com/",
+								"display_url": "kerszi.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10321,
+				"friends_count": 8005,
+				"listed_count": 613,
+				"created_at": "Wed May 30 23:31:13 +0000 2012",
+				"favourites_count": 31642,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22747,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/965693674024824832/RXf0FQkA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/965693674024824832/RXf0FQkA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595079922/1460151831",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kathi, you say it so well. We embrace you for all that you do.\n\nThank you, @kerszi https://t.co/PU35zziYTb"
+	},
+	{
+		"created_at": "Thu Nov 01 16:59:01 +0000 2018",
+		"id": 1058040727962349600,
+		"id_str": "1058040727962349569",
+		"full_text": "Missed the live session about #OneNote at #MSIgnite? Don’t worry, we’ve got you covered. Watch the session on demand here to get the latest news on the OneNote for #Windows10 app: https://t.co/IaoQOmw8vH https://t.co/x9gKWzfB1x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"text": "MSIgnite",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						164,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IaoQOmw8vH",
+					"expanded_url": "http://msft.social/LStw6F",
+					"display_url": "msft.social/LStw6F",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1058040724355235800,
+					"id_str": "1058040724355235840",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq7qbt0XQAA4k-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq7qbt0XQAA4k-X.jpg",
+					"url": "https://t.co/x9gKWzfB1x",
+					"display_url": "pic.twitter.com/x9gKWzfB1x",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1058040727962349569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058040724355235800,
+					"id_str": "1058040724355235840",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Dq7qbt0XQAA4k-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dq7qbt0XQAA4k-X.jpg",
+					"url": "https://t.co/x9gKWzfB1x",
+					"display_url": "pic.twitter.com/x9gKWzfB1x",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1058040727962349569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3096566760,
+			"id_str": "3096566760",
+			"name": "OneNote Education",
+			"screen_name": "OneNoteEDU",
+			"location": "Redmond, WA",
+			"description": "Connecting educators to OneNote resources and information. An official channel for Microsoft OneNote.",
+			"url": "http://t.co/VAJyjQIbaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VAJyjQIbaK",
+							"expanded_url": "http://onenoteineducation.com/",
+							"display_url": "onenoteineducation.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66876,
+			"friends_count": 842,
+			"listed_count": 750,
+			"created_at": "Wed Mar 18 17:56:27 +0000 2015",
+			"favourites_count": 9577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096566760/1455659611",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Missed the live session about #OneNote at #MSIgnite? Don’t worry, we’ve got you covered. Watch the session on demand here to get the latest news on the OneNote for #Windows10 app: https://t.co/IaoQOmw8vH https://t.co/x9gKWzfB1x"
+	},
+	{
+		"created_at": "Tue Oct 30 22:19:45 +0000 2018",
+		"id": 1057396667589177300,
+		"id_str": "1057396667589177344",
+		"full_text": "LEFT RIGHT BRAIN? Just stop it! Creativity does not involve a single brain region or single side of the brain. Brain regions work as a team to get the job done, and many recruit structures from both the left and right side of the brain. #microsoftedu @microsoftedu #21c https://t.co/zzAry8ov7J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "microsoftedu",
+					"indices": [
+						237,
+						250
+					]
+				},
+				{
+					"text": "21c",
+					"indices": [
+						265,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						251,
+						264
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1057395633772843000,
+					"id_str": "1057395633772843008",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/DqyfugIUUAAfWYS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqyfugIUUAAfWYS.jpg",
+					"url": "https://t.co/zzAry8ov7J",
+					"display_url": "pic.twitter.com/zzAry8ov7J",
+					"expanded_url": "https://twitter.com/sparvell/status/1057396667589177344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 734,
+							"h": 416,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1057395633772843000,
+					"id_str": "1057395633772843008",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/DqyfugIUUAAfWYS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqyfugIUUAAfWYS.jpg",
+					"url": "https://t.co/zzAry8ov7J",
+					"display_url": "pic.twitter.com/zzAry8ov7J",
+					"expanded_url": "https://twitter.com/sparvell/status/1057396667589177344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 416,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 734,
+							"h": 416,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33184994,
+			"id_str": "33184994",
+			"name": "Mark Sparvell",
+			"screen_name": "sparvell",
+			"location": "Kirkland, Washington State",
+			"description": "Education Professional Thought Leader #technology #education #innovation #leader . All opinions expressed are my own.  https://t.co/yEdK1MLzDY",
+			"url": "https://t.co/xKuFNajmEh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xKuFNajmEh",
+							"expanded_url": "http://www.sparvell.com",
+							"display_url": "sparvell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yEdK1MLzDY",
+							"expanded_url": "https://www.linkedin.com/in/sparvell",
+							"display_url": "linkedin.com/in/sparvell",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6274,
+			"friends_count": 7139,
+			"listed_count": 266,
+			"created_at": "Sun Apr 19 12:01:03 +0000 2009",
+			"favourites_count": 4164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9309,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817872217748815873/DV9Z-Stk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817872217748815873/DV9Z-Stk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33184994/1483852943",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LEFT RIGHT BRAIN? Just stop it! Creativity does not involve a single brain region or single side of the brain. Brain regions work as a team to get the job done, and many recruit structures from both the left and right side of the brain. #microsoftedu @microsoftedu #21c https://t.co/zzAry8ov7J"
+	},
+	{
+		"created_at": "Thu Nov 01 16:01:30 +0000 2018",
+		"id": 1058026252974514200,
+		"id_str": "1058026252974514176",
+		"full_text": "Imagine a chatbot that can speak Spanglish or Hinglish as naturally as a person who is multilingual. Researchers at Microsoft Research India can. Learn how their development of artificially generated language datasets will help get us there: https://t.co/M6hAldcaVv #EMNLP2018",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EMNLP2018",
+					"indices": [
+						266,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M6hAldcaVv",
+					"expanded_url": "https://aka.ms/AA31noy",
+					"display_url": "aka.ms/AA31noy",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21457289,
+			"id_str": "21457289",
+			"name": "Microsoft Research",
+			"screen_name": "MSFTResearch",
+			"location": "",
+			"description": "Founded in 1991, Microsoft Research is dedicated to conducting both basic and applied research in computer science and software engineering.",
+			"url": "https://t.co/mnpSZgY1tA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mnpSZgY1tA",
+							"expanded_url": "http://microsoft.com/research",
+							"display_url": "microsoft.com/research",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 375728,
 			"friends_count": 1405,
 			"listed_count": 6337,
