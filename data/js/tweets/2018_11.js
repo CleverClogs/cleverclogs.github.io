@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 01 16:01:30 +0000 2018",
+		"id": 1058026252974514200,
+		"id_str": "1058026252974514176",
+		"full_text": "Imagine a chatbot that can speak Spanglish or Hinglish as naturally as a person who is multilingual. Researchers at Microsoft Research India can. Learn how their development of artificially generated language datasets will help get us there: https://t.co/M6hAldcaVv #EMNLP2018",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EMNLP2018",
+					"indices": [
+						266,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M6hAldcaVv",
+					"expanded_url": "https://aka.ms/AA31noy",
+					"display_url": "aka.ms/AA31noy",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21457289,
+			"id_str": "21457289",
+			"name": "Microsoft Research",
+			"screen_name": "MSFTResearch",
+			"location": "",
+			"description": "Founded in 1991, Microsoft Research is dedicated to conducting both basic and applied research in computer science and software engineering.",
+			"url": "https://t.co/mnpSZgY1tA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mnpSZgY1tA",
+							"expanded_url": "http://microsoft.com/research",
+							"display_url": "microsoft.com/research",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375687,
+			"friends_count": 1405,
+			"listed_count": 6343,
+			"created_at": "Sat Feb 21 02:32:24 +0000 2009",
+			"favourites_count": 1752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6061,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/861981051479924736/gZaIkPyp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/861981051479924736/gZaIkPyp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21457289/1528483512",
+			"profile_link_color": "161616",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Imagine a chatbot that can speak Spanglish or Hinglish as naturally as a person who is multilingual. Researchers at Microsoft Research India can. Learn how their development of artificially generated language datasets will help get us there: https://t.co/M6hAldcaVv #EMNLP2018"
+	},
+	{
 		"created_at": "Fri Nov 02 07:27:55 +0000 2018",
 		"id": 1058259395019075600,
 		"id_str": "1058259395019075587",
