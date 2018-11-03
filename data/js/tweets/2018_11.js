@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 03 21:25:56 +0000 2018",
+		"id": 1058832676663124000,
+		"id_str": "1058832676663123968",
+		"full_text": "Microsoft Learning Tools is a #BETT2019 finalist for the \"Special Education Needs Solution\" category! More here: https://t.co/NBZAWH2jtu @Bett_show  #SPED #AssistiveTech #mieexpert #dyslexia #MicrosoftEDU https://t.co/tFHlSRtSiU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BETT2019",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"text": "SPED",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "AssistiveTech",
+					"indices": [
+						155,
+						169
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "dyslexia",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						191,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bett_show",
+					"name": "Bett",
+					"id": 28354758,
+					"id_str": "28354758",
+					"indices": [
+						137,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NBZAWH2jtu",
+					"expanded_url": "http://bettawards.com/finalists/",
+					"display_url": "bettawards.com/finalists/",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1058831546189107200,
+					"id_str": "1058831546189107201",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/DrG5rmuUUAETX7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrG5rmuUUAETX7o.jpg",
+					"url": "https://t.co/tFHlSRtSiU",
+					"display_url": "pic.twitter.com/tFHlSRtSiU",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1058832676663123968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1583,
+							"h": 613,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058831546189107200,
+					"id_str": "1058831546189107201",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/DrG5rmuUUAETX7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrG5rmuUUAETX7o.jpg",
+					"url": "https://t.co/tFHlSRtSiU",
+					"display_url": "pic.twitter.com/tFHlSRtSiU",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1058832676663123968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1583,
+							"h": 613,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14818,
+			"friends_count": 2705,
+			"listed_count": 692,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 44692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24507,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Microsoft Learning Tools is a #BETT2019 finalist for the \"Special Education Needs Solution\" category! More here: https://t.co/NBZAWH2jtu @Bett_show  #SPED #AssistiveTech #mieexpert #dyslexia #MicrosoftEDU https://t.co/tFHlSRtSiU"
+	},
+	{
 		"created_at": "Sat Nov 03 11:45:01 +0000 2018",
 		"id": 1058686483954102300,
 		"id_str": "1058686483954102274",
