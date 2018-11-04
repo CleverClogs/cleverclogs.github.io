@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 04 01:17:58 +0000 2018",
+		"id": 1058891069264445400,
+		"id_str": "1058891069264445440",
+		"full_text": "@dracan @msonenote Hi Dan, correct - it's just not possible. TBH I don't know the exact rationale behind it.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dracan",
+					"name": "Dan Clarke",
+					"id": 17221835,
+					"id_str": "17221835",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1058080994241187800,
+		"in_reply_to_status_id_str": "1058080994241187842",
+		"in_reply_to_user_id": 17221835,
+		"in_reply_to_user_id_str": "17221835",
+		"in_reply_to_screen_name": "dracan",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18890,
+			"friends_count": 7064,
+			"listed_count": 587,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24739,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dracan @msonenote Hi Dan, correct - it's just not possible. TBH I don't know the exact rationale behind it."
+	},
+	{
+		"created_at": "Thu Nov 01 19:33:39 +0000 2018",
+		"id": 1058079642115076100,
+		"id_str": "1058079642115076097",
+		"full_text": "Wow! Just got the new \"Transform to Web\" for Microsoft Word #Office365 version, wasn't expecting much but just transformed a syllabus into a responsive designed #Sway for the web - that is great news for students viewing on mobile phones + embeddable in #OneNote   #MIEExpert",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Office365",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"text": "Sway",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						254,
+						262
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						265,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15348616,
+			"id_str": "15348616",
+			"name": "Tom Grissom",
+			"screen_name": "tomgrissom",
+			"location": "Illinois",
+			"description": "Educator, Thinker, Maker, Doer, Farmer, Ph.D. - Creator of NoteStreaming - #MIEExpert - Day Job: Growing Minds - Views my own",
+			"url": "http://t.co/BQMHLqzjG8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BQMHLqzjG8",
+							"expanded_url": "http://eiu.edu/itc",
+							"display_url": "eiu.edu/itc",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2694,
+			"friends_count": 2106,
+			"listed_count": 364,
+			"created_at": "Tue Jul 08 01:20:29 +0000 2008",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22562,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019937483147145216/PvEKps2r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019937483147145216/PvEKps2r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15348616/1532007369",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Wow! Just got the new \"Transform to Web\" for Microsoft Word #Office365 version, wasn't expecting much but just transformed a syllabus into a responsive designed #Sway for the web - that is great news for students viewing on mobile phones + embeddable in #OneNote   #MIEExpert"
+	},
+	{
+		"created_at": "Sat Nov 03 16:04:27 +0000 2018",
+		"id": 1058751772834086900,
+		"id_str": "1058751772834086912",
+		"full_text": "Microsoft’s Immersive Reader on Flipgrid https://t.co/x1BqtSaVz6 https://t.co/cvUZYYW9dT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x1BqtSaVz6",
+					"expanded_url": "https://edtechshorts.com/microsofts-immersive-reader-on-flipgrid/",
+					"display_url": "edtechshorts.com/microsofts-imm…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1058751771126849500,
+					"id_str": "1058751771126849536",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DrFxIFdU4AA7ayw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrFxIFdU4AA7ayw.jpg",
+					"url": "https://t.co/cvUZYYW9dT",
+					"display_url": "pic.twitter.com/cvUZYYW9dT",
+					"expanded_url": "https://twitter.com/RGBlack316/status/1058751772834086912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058751771126849500,
+					"id_str": "1058751771126849536",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DrFxIFdU4AA7ayw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrFxIFdU4AA7ayw.jpg",
+					"url": "https://t.co/cvUZYYW9dT",
+					"display_url": "pic.twitter.com/cvUZYYW9dT",
+					"expanded_url": "https://twitter.com/RGBlack316/status/1058751772834086912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66903378,
+			"id_str": "66903378",
+			"name": "Randall Black",
+			"screen_name": "RGBlack316",
+			"location": "Huntington, WV",
+			"description": "#Educator #TechSpecialist #Podcaster #OrdainedMinister of @ulcmonastery #TheRandallBlackShow #EdTechShorts",
+			"url": "https://t.co/lBIIVCqlUy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lBIIVCqlUy",
+							"expanded_url": "http://www.RandallBlack.com",
+							"display_url": "RandallBlack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1068,
+			"friends_count": 1429,
+			"listed_count": 74,
+			"created_at": "Wed Aug 19 03:55:41 +0000 2009",
+			"favourites_count": 5228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/997188810940153856/L_17JFwz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/997188810940153856/L_17JFwz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66903378/1527291457",
+			"profile_link_color": "042351",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "999999",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Microsoft’s Immersive Reader on Flipgrid https://t.co/x1BqtSaVz6 https://t.co/cvUZYYW9dT"
+	},
+	{
+		"created_at": "Sat Nov 03 21:25:56 +0000 2018",
+		"id": 1058832676663124000,
+		"id_str": "1058832676663123968",
+		"full_text": "Microsoft Learning Tools is a #BETT2019 finalist for the \"Special Education Needs Solution\" category! More here: https://t.co/NBZAWH2jtu @Bett_show  #SPED #AssistiveTech #mieexpert #dyslexia #MicrosoftEDU https://t.co/tFHlSRtSiU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BETT2019",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"text": "SPED",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "AssistiveTech",
+					"indices": [
+						155,
+						169
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "dyslexia",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						191,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bett_show",
+					"name": "Bett",
+					"id": 28354758,
+					"id_str": "28354758",
+					"indices": [
+						137,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NBZAWH2jtu",
+					"expanded_url": "http://bettawards.com/finalists/",
+					"display_url": "bettawards.com/finalists/",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1058831546189107200,
+					"id_str": "1058831546189107201",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/DrG5rmuUUAETX7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrG5rmuUUAETX7o.jpg",
+					"url": "https://t.co/tFHlSRtSiU",
+					"display_url": "pic.twitter.com/tFHlSRtSiU",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1058832676663123968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1583,
+							"h": 613,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058831546189107200,
+					"id_str": "1058831546189107201",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/DrG5rmuUUAETX7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrG5rmuUUAETX7o.jpg",
+					"url": "https://t.co/tFHlSRtSiU",
+					"display_url": "pic.twitter.com/tFHlSRtSiU",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1058832676663123968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1583,
+							"h": 613,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14817,
+			"friends_count": 2705,
+			"listed_count": 689,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 44707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24508,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Microsoft Learning Tools is a #BETT2019 finalist for the \"Special Education Needs Solution\" category! More here: https://t.co/NBZAWH2jtu @Bett_show  #SPED #AssistiveTech #mieexpert #dyslexia #MicrosoftEDU https://t.co/tFHlSRtSiU"
+	},
+	{
 		"created_at": "Sat Nov 03 21:25:56 +0000 2018",
 		"id": 1058832676663124000,
 		"id_str": "1058832676663123968",
