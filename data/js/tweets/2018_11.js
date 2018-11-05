@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 02 17:05:02 +0000 2018",
+		"id": 1058404628432408600,
+		"id_str": "1058404628432408577",
+		"full_text": "A small spark of student creativity can make a BIG impact. Learn the story behind #OneNote Rainbow Ink from @IanMikutel in this @windowscentral article (Spoiler: It was a student suggestion!): https://t.co/TwscjYsKGx #StudentVoice #edtech https://t.co/VdhWLPIw1O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "StudentVoice",
+					"indices": [
+						217,
+						230
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						231,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanMikutel",
+					"name": "Ian Mikutel",
+					"id": 2157421,
+					"id_str": "2157421",
+					"indices": [
+						108,
+						119
+					]
+				},
+				{
+					"screen_name": "windowscentral",
+					"name": "Windows Central",
+					"id": 14208474,
+					"id_str": "14208474",
+					"indices": [
+						128,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TwscjYsKGx",
+					"expanded_url": "http://msft.social/sOPDD7",
+					"display_url": "msft.social/sOPDD7",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1058404622933651500,
+					"id_str": "1058404622933651464",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/DrA1ZZqXcAgcERU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrA1ZZqXcAgcERU.jpg",
+					"url": "https://t.co/VdhWLPIw1O",
+					"display_url": "pic.twitter.com/VdhWLPIw1O",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1058404628432408577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058404622933651500,
+					"id_str": "1058404622933651464",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/DrA1ZZqXcAgcERU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrA1ZZqXcAgcERU.jpg",
+					"url": "https://t.co/VdhWLPIw1O",
+					"display_url": "pic.twitter.com/VdhWLPIw1O",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1058404628432408577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3096566760,
+			"id_str": "3096566760",
+			"name": "OneNote Education",
+			"screen_name": "OneNoteEDU",
+			"location": "Redmond, WA",
+			"description": "Connecting educators to OneNote resources and information. An official channel for Microsoft OneNote.",
+			"url": "http://t.co/VAJyjQIbaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VAJyjQIbaK",
+							"expanded_url": "http://onenoteineducation.com/",
+							"display_url": "onenoteineducation.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66922,
+			"friends_count": 842,
+			"listed_count": 750,
+			"created_at": "Wed Mar 18 17:56:27 +0000 2015",
+			"favourites_count": 9580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096566760/1455659611",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A small spark of student creativity can make a BIG impact. Learn the story behind #OneNote Rainbow Ink from @IanMikutel in this @windowscentral article (Spoiler: It was a student suggestion!): https://t.co/TwscjYsKGx #StudentVoice #edtech https://t.co/VdhWLPIw1O"
+	},
+	{
 		"created_at": "Sun Nov 04 11:40:53 +0000 2018",
 		"id": 1059047828851441700,
 		"id_str": "1059047828851441664",
