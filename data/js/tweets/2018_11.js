@@ -476,6 +476,282 @@ Grailbird.data.tweets_2018_11 =
 			"friends_count": 126,
 			"listed_count": 11,
 			"created_at": "Thu Dec 22 14:23:32 +0000 2011",
+			"favourites_count": 1488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 892,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037435929479311361/cj8lu06h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037435929479311361/cj8lu06h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/443760872/1423937391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3b98b02fba3f9753",
+			"url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json",
+			"place_type": "admin",
+			"name": "North Carolina",
+			"full_name": "North Carolina, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-84.3219475,
+							33.752879
+						],
+						[
+							-75.40012,
+							33.752879
+						],
+						[
+							-75.40012,
+							36.588118
+						],
+						[
+							-84.3219475,
+							36.588118
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today’s post is live on the OCS Journey Through Digital Transformation Blog! https://t.co/oiALUEJpbj This week we discuss accessibility tools &amp; focus on Immersive Reader, Dictate, &amp; Translator available in @Office365  @MicrosoftTeams @OneNoteEDU @MicrosoftEdge @Outlook #onslowdlt https://t.co/pElaN3mrkF"
+	},
+	{
+		"created_at": "Mon Nov 05 20:57:31 +0000 2018",
+		"id": 1059550300757991400,
+		"id_str": "1059550300757991425",
+		"full_text": "Today’s post is live on the OCS Journey Through Digital Transformation Blog! https://t.co/oiALUEJpbj This week we discuss accessibility tools &amp; focus on Immersive Reader, Dictate, &amp; Translator available in @Office365  @MicrosoftTeams @OneNoteEDU @MicrosoftEdge @Outlook #onslowdlt https://t.co/pElaN3mrkF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onslowdlt",
+					"indices": [
+						278,
+						288
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						214,
+						224
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						226,
+						241
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						242,
+						253
+					]
+				},
+				{
+					"screen_name": "MicrosoftEdge",
+					"name": "Microsoft Edge",
+					"id": 19315174,
+					"id_str": "19315174",
+					"indices": [
+						254,
+						268
+					]
+				},
+				{
+					"screen_name": "Outlook",
+					"name": "Outlook",
+					"id": 605805760,
+					"id_str": "605805760",
+					"indices": [
+						269,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oiALUEJpbj",
+					"expanded_url": "https://www.onslow.k12.nc.us/Page/24042",
+					"display_url": "onslow.k12.nc.us/Page/24042",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1059550291169869800,
+					"id_str": "1059550291169869826",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrRHYEbXgAIoQNU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrRHYEbXgAIoQNU.jpg",
+					"url": "https://t.co/pElaN3mrkF",
+					"display_url": "pic.twitter.com/pElaN3mrkF",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1059550300757991425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059550291169869800,
+					"id_str": "1059550291169869826",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrRHYEbXgAIoQNU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrRHYEbXgAIoQNU.jpg",
+					"url": "https://t.co/pElaN3mrkF",
+					"display_url": "pic.twitter.com/pElaN3mrkF",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1059550300757991425/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DrRHYEbXgAIoQNU.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 443760872,
+			"id_str": "443760872",
+			"name": "Mrs. Erin Holland",
+			"screen_name": "erinjurisich",
+			"location": "North Carolina, USA",
+			"description": "DLTF @ SHS in Onslow County #onslowdlt",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 126,
+			"listed_count": 11,
+			"created_at": "Thu Dec 22 14:23:32 +0000 2011",
 			"favourites_count": 1487,
 			"utc_offset": null,
 			"time_zone": null,
