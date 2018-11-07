@@ -68,6 +68,120 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 6463,
+			"friends_count": 1694,
+			"listed_count": 324,
+			"created_at": "Thu Sep 26 21:12:43 +0000 2013",
+			"favourites_count": 11391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14713,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872149960262692864/oGrZ0sNY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872149960262692864/oGrZ0sNY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1909232666/1529987738",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I want to release a version of Bldg a Second Brain book printed inside a notebook with large margins and double spaced so it’s ready to take notes on"
+	},
+	{
+		"created_at": "Wed Nov 07 17:36:35 +0000 2018",
+		"id": 1060224506818715600,
+		"id_str": "1060224506818715652",
+		"full_text": "I want to release a version of Bldg a Second Brain book printed inside a notebook with large margins and double spaced so it’s ready to take notes on",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1909232666,
+			"id_str": "1909232666",
+			"name": "Tiago Forte",
+			"screen_name": "fortelabs",
+			"location": "San Francisco",
+			"description": "Founder of Forte Labs, editor at Praxis blog: https://t.co/W2mPB6gHtn. Sign up for my newsletter: https://t.co/JEhBT1A4r3",
+			"url": "https://t.co/N0Y8HMOn9q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N0Y8HMOn9q",
+							"expanded_url": "http://fortelabs.co",
+							"display_url": "fortelabs.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W2mPB6gHtn",
+							"expanded_url": "http://praxis.fortelabs.co",
+							"display_url": "praxis.fortelabs.co",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/JEhBT1A4r3",
+							"expanded_url": "https://www.fortelabs.co/newsletter",
+							"display_url": "fortelabs.co/newsletter",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 6455,
 			"friends_count": 1694,
 			"listed_count": 324,
