@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 19:40:03 +0000 2018",
+		"id": 1060617967824707600,
+		"id_str": "1060617967824707584",
+		"full_text": "In the animated GIF below, #math teacher Cal Armstrong demonstrates a real use case for the Replay feature in #OneNote for #Windows10.\n\nTake it away, @sig225.\n#mtbos #mathchat #mathed https://t.co/nxaYYSqBMV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "math",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "mtbos",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "mathchat",
+					"indices": [
+						166,
+						175
+					]
+				},
+				{
+					"text": "mathed",
+					"indices": [
+						176,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sig225",
+					"name": "Cal Armstrong",
+					"id": 12895782,
+					"id_str": "12895782",
+					"indices": [
+						150,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nxaYYSqBMV",
+					"expanded_url": "https://twitter.com/sig225/status/1060546538995400704",
+					"display_url": "twitter.com/sig225/status/…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18952,
+			"friends_count": 7064,
+			"listed_count": 588,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24753,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060546538995400700,
+		"quoted_status_id_str": "1060546538995400704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nxaYYSqBMV",
+			"expanded": "https://twitter.com/sig225/status/1060546538995400704",
+			"display": "twitter.com/sig225/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 14:56:13 +0000 2018",
+			"id": 1060546538995400700,
+			"id_str": "1060546538995400704",
+			"full_text": "Working on distributing...\nS: \"Can you do that again?\"\nMe: \"Why yes, I can ... \"\nI press \"replay\" on #OneNote \nS: \"WHAT IS THIS?!?!?\" https://t.co/WhRqrxQ6kT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							101,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060546493336207400,
+						"id_str": "1060546493336207360",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrfRaqsXQAAj6QL.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrfRaqsXQAAj6QL.jpg",
+						"url": "https://t.co/WhRqrxQ6kT",
+						"display_url": "pic.twitter.com/WhRqrxQ6kT",
+						"expanded_url": "https://twitter.com/sig225/status/1060546538995400704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060546493336207400,
+						"id_str": "1060546493336207360",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrfRaqsXQAAj6QL.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrfRaqsXQAAj6QL.jpg",
+						"url": "https://t.co/WhRqrxQ6kT",
+						"display_url": "pic.twitter.com/WhRqrxQ6kT",
+						"expanded_url": "https://twitter.com/sig225/status/1060546538995400704/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DrfRaqsXQAAj6QL.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12895782,
+				"id_str": "12895782",
+				"name": "Cal Armstrong",
+				"screen_name": "sig225",
+				"location": "Canada",
+				"description": "I learn; I help others learn\nMathematics Educator / Microsoft Education Fellow / PCMI - Institute for Advanced Study  / Aux Police A/Sgt\n[Opinions are my own]",
+				"url": "https://t.co/kozg07sk6j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kozg07sk6j",
+								"expanded_url": "http://about.me/armstrongc",
+								"display_url": "about.me/armstrongc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4422,
+				"friends_count": 3161,
+				"listed_count": 339,
+				"created_at": "Thu Jan 31 01:40:55 +0000 2008",
+				"favourites_count": 10969,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25093,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12895782/1503200733",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "ABD9FC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the animated GIF below, #math teacher Cal Armstrong demonstrates a real use case for the Replay feature in #OneNote for #Windows10.\n\nTake it away, @sig225.\n#mtbos #mathchat #mathed https://t.co/nxaYYSqBMV"
+	},
+	{
 		"created_at": "Thu Nov 08 18:53:42 +0000 2018",
 		"id": 1060606302538342400,
 		"id_str": "1060606302538342401",
