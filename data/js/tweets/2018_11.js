@@ -1,6 +1,870 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 18:53:42 +0000 2018",
+		"id": 1060606302538342400,
+		"id_str": "1060606302538342401",
+		"full_text": "Just in: how's this for a #OneNote feature announcement, straight from the source.\n\nExpand the image.\n\nThanks, @Benminnn. https://t.co/jVyixDeWo1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jVyixDeWo1",
+					"expanded_url": "https://twitter.com/Benminnn/status/1060603864506753024",
+					"display_url": "twitter.com/Benminnn/statu…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18952,
+			"friends_count": 7064,
+			"listed_count": 588,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24752,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060603864506753000,
+		"quoted_status_id_str": "1060603864506753024",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jVyixDeWo1",
+			"expanded": "https://twitter.com/Benminnn/status/1060603864506753024",
+			"display": "twitter.com/Benminnn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 18:44:01 +0000 2018",
+			"id": 1060603864506753000,
+			"id_str": "1060603864506753024",
+			"full_text": "@randomjohn @kurtsoeser @Noteadviser @OneNoteC @msonenote 👀 https://t.co/mY4cn7Y7JP",
+			"truncated": false,
+			"display_text_range": [
+				58,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "randomjohn",
+						"name": "John Johnson",
+						"id": 15845089,
+						"id_str": "15845089",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "kurtsoeser",
+						"name": "Kurt Söser",
+						"id": 55684861,
+						"id_str": "55684861",
+						"indices": [
+							12,
+							23
+						]
+					},
+					{
+						"screen_name": "Noteadviser",
+						"name": "Albin LABELLE",
+						"id": 4916034934,
+						"id_str": "4916034934",
+						"indices": [
+							24,
+							36
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							37,
+							46
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							47,
+							57
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060603732533043200,
+						"id_str": "1060603732533043201",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/DrgFebUV4AEjmVf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrgFebUV4AEjmVf.jpg",
+						"url": "https://t.co/mY4cn7Y7JP",
+						"display_url": "pic.twitter.com/mY4cn7Y7JP",
+						"expanded_url": "https://twitter.com/Benminnn/status/1060603864506753024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 420,
+								"h": 722,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 722,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 396,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060603732533043200,
+						"id_str": "1060603732533043201",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/DrgFebUV4AEjmVf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrgFebUV4AEjmVf.jpg",
+						"url": "https://t.co/mY4cn7Y7JP",
+						"display_url": "pic.twitter.com/mY4cn7Y7JP",
+						"expanded_url": "https://twitter.com/Benminnn/status/1060603864506753024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 420,
+								"h": 722,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 722,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 396,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1059268703425052700,
+			"in_reply_to_status_id_str": "1059268703425052674",
+			"in_reply_to_user_id": 15845089,
+			"in_reply_to_user_id_str": "15845089",
+			"in_reply_to_screen_name": "randomjohn",
+			"user": {
+				"id": 15697208,
+				"id_str": "15697208",
+				"name": "Ben Hodes",
+				"screen_name": "Benminnn",
+				"location": "Seattle, WA",
+				"description": "Local man of mystery 📝 PM Manager OneNote",
+				"url": "https://t.co/L80RsAe0pn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L80RsAe0pn",
+								"expanded_url": "http://thisisaponzischeme.com",
+								"display_url": "thisisaponzischeme.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 205,
+				"friends_count": 222,
+				"listed_count": 9,
+				"created_at": "Sat Aug 02 02:08:04 +0000 2008",
+				"favourites_count": 276,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 383,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824820392489480192/2BgUvjEg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824820392489480192/2BgUvjEg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15697208/1507162195",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just in: how's this for a #OneNote feature announcement, straight from the source.\n\nExpand the image.\n\nThanks, @Benminnn. https://t.co/jVyixDeWo1"
+	},
+	{
+		"created_at": "Thu Nov 08 18:51:55 +0000 2018",
+		"id": 1060605852644712400,
+		"id_str": "1060605852644712449",
+		"full_text": "@edtechwells @mtholfsen @OneNoteEDU Hi Nathan, please be so kind to report the missing Google Classroom integration in #OneNote Class Notebook through https://t.co/KUbMMzgEot.",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edtechwells",
+					"name": "Nathan Wells",
+					"id": 1206188130,
+					"id_str": "1206188130",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KUbMMzgEot",
+					"expanded_url": "https://aka.ms/edusupport",
+					"display_url": "aka.ms/edusupport",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1060605224325308400,
+		"in_reply_to_status_id_str": "1060605224325308416",
+		"in_reply_to_user_id": 1206188130,
+		"in_reply_to_user_id_str": "1206188130",
+		"in_reply_to_screen_name": "edtechwells",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18952,
+			"friends_count": 7064,
+			"listed_count": 588,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24752,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@edtechwells @mtholfsen @OneNoteEDU Hi Nathan, please be so kind to report the missing Google Classroom integration in #OneNote Class Notebook through https://t.co/KUbMMzgEot."
+	},
+	{
+		"created_at": "Thu Nov 08 13:50:57 +0000 2018",
+		"id": 1060530113551446000,
+		"id_str": "1060530113551446016",
+		"full_text": "unfortunately, many educators have never used #OneNote &amp; therefore have not discovered the empowering effects it has on teaching &amp; learning, here's a blog post from 2014 trying to get the \"secret\" out https://t.co/1kVzRK51Co Do you Onenote? #MIEExpert https://t.co/LYFn9RS1x3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						249,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1kVzRK51Co",
+					"expanded_url": "https://eiuitc.blogspot.com/2014/10/day-23-top-secret-shhh-onenote-is-one.html",
+					"display_url": "eiuitc.blogspot.com/2014/10/day-23…",
+					"indices": [
+						209,
+						232
+					]
+				},
+				{
+					"url": "https://t.co/LYFn9RS1x3",
+					"expanded_url": "https://twitter.com/TechisforGirls/status/1060521287813132289",
+					"display_url": "twitter.com/TechisforGirls…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15348616,
+			"id_str": "15348616",
+			"name": "Tom Grissom",
+			"screen_name": "tomgrissom",
+			"location": "Illinois",
+			"description": "Educator, Thinker, Maker, Doer, Farmer, Ph.D. - Creator of NoteStreaming - #MIEExpert - Day Job: Growing Minds - Views my own",
+			"url": "http://t.co/BQMHLqzjG8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BQMHLqzjG8",
+							"expanded_url": "http://eiu.edu/itc",
+							"display_url": "eiu.edu/itc",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2696,
+			"friends_count": 2106,
+			"listed_count": 364,
+			"created_at": "Tue Jul 08 01:20:29 +0000 2008",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22584,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019937483147145216/PvEKps2r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019937483147145216/PvEKps2r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15348616/1532007369",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060521287813132300,
+		"quoted_status_id_str": "1060521287813132289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LYFn9RS1x3",
+			"expanded": "https://twitter.com/TechisforGirls/status/1060521287813132289",
+			"display": "twitter.com/TechisforGirls…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 13:15:53 +0000 2018",
+			"id": 1060521287813132300,
+			"id_str": "1060521287813132289",
+			"full_text": "Hanging out in @lesliefisher's session (of course) and I was SHOCKED by how many people had not heard of immersive reader! It's just one of the best features EVER! If you don't know this feature - check it out!! Its amazing! #MicrosoftEdu @GaETConf @mtholfsen #MIEExpert #GaETC18 https://t.co/c5pGBTApOR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftEdu",
+						"indices": [
+							225,
+							238
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							260,
+							270
+						]
+					},
+					{
+						"text": "GaETC18",
+						"indices": [
+							271,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lesliefisher",
+						"name": "Leslie Fisher",
+						"id": 13651112,
+						"id_str": "13651112",
+						"indices": [
+							15,
+							28
+						]
+					},
+					{
+						"screen_name": "GaETConf",
+						"name": "GaETC",
+						"id": 208439824,
+						"id_str": "208439824",
+						"indices": [
+							239,
+							248
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							249,
+							259
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060521280523378700,
+						"id_str": "1060521280523378688",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Dre6fFpWoAAOFLZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dre6fFpWoAAOFLZ.jpg",
+						"url": "https://t.co/c5pGBTApOR",
+						"display_url": "pic.twitter.com/c5pGBTApOR",
+						"expanded_url": "https://twitter.com/TechisforGirls/status/1060521287813132289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 996,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 584,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 331,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060521280523378700,
+						"id_str": "1060521280523378688",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Dre6fFpWoAAOFLZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dre6fFpWoAAOFLZ.jpg",
+						"url": "https://t.co/c5pGBTApOR",
+						"display_url": "pic.twitter.com/c5pGBTApOR",
+						"expanded_url": "https://twitter.com/TechisforGirls/status/1060521287813132289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 996,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 584,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 331,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 331927634,
+				"id_str": "331927634",
+				"name": "Jennifer Brown",
+				"screen_name": "TechisforGirls",
+				"location": "Walker Middle Magnet School",
+				"description": "A Technology Resource teacher passionate about helping teachers create learning environments that meet all students where they need to be met. #MIEExpert",
+				"url": "https://t.co/PNjvxXxkdY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PNjvxXxkdY",
+								"expanded_url": "https://techisforgirls.wordpress.com",
+								"display_url": "techisforgirls.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 415,
+				"friends_count": 338,
+				"listed_count": 22,
+				"created_at": "Fri Jul 08 23:14:07 +0000 2011",
+				"favourites_count": 1687,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1136,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902590907362324480/5CZ4oGdW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902590907362324480/5CZ4oGdW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/331927634/1529778817",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "unfortunately, many educators have never used #OneNote &amp; therefore have not discovered the empowering effects it has on teaching &amp; learning, here's a blog post from 2014 trying to get the \"secret\" out https://t.co/1kVzRK51Co Do you Onenote? #MIEExpert https://t.co/LYFn9RS1x3"
+	},
+	{
 		"created_at": "Thu Nov 08 13:50:57 +0000 2018",
 		"id": 1060530113551446000,
 		"id_str": "1060530113551446016",
