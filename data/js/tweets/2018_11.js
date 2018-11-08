@@ -313,6 +313,369 @@ Grailbird.data.tweets_2018_11 =
 				"friends_count": 338,
 				"listed_count": 22,
 				"created_at": "Fri Jul 08 23:14:07 +0000 2011",
+				"favourites_count": 1680,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1134,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902590907362324480/5CZ4oGdW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902590907362324480/5CZ4oGdW_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/331927634/1529778817",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "unfortunately, many educators have never used #OneNote &amp; therefore have not discovered the empowering effects it has on teaching &amp; learning, here's a blog post from 2014 trying to get the \"secret\" out https://t.co/1kVzRK51Co Do you Onenote? #MIEExpert https://t.co/LYFn9RS1x3"
+	},
+	{
+		"created_at": "Thu Nov 08 13:50:57 +0000 2018",
+		"id": 1060530113551446000,
+		"id_str": "1060530113551446016",
+		"full_text": "unfortunately, many educators have never used #OneNote &amp; therefore have not discovered the empowering effects it has on teaching &amp; learning, here's a blog post from 2014 trying to get the \"secret\" out https://t.co/1kVzRK51Co Do you Onenote? #MIEExpert https://t.co/LYFn9RS1x3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						249,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1kVzRK51Co",
+					"expanded_url": "https://eiuitc.blogspot.com/2014/10/day-23-top-secret-shhh-onenote-is-one.html",
+					"display_url": "eiuitc.blogspot.com/2014/10/day-23…",
+					"indices": [
+						209,
+						232
+					]
+				},
+				{
+					"url": "https://t.co/LYFn9RS1x3",
+					"expanded_url": "https://twitter.com/TechisforGirls/status/1060521287813132289",
+					"display_url": "twitter.com/TechisforGirls…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15348616,
+			"id_str": "15348616",
+			"name": "Tom Grissom",
+			"screen_name": "tomgrissom",
+			"location": "Illinois",
+			"description": "Educator, Thinker, Maker, Doer, Farmer, Ph.D. - Creator of NoteStreaming - #MIEExpert - Day Job: Growing Minds - Views my own",
+			"url": "http://t.co/BQMHLqzjG8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BQMHLqzjG8",
+							"expanded_url": "http://eiu.edu/itc",
+							"display_url": "eiu.edu/itc",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2696,
+			"friends_count": 2106,
+			"listed_count": 364,
+			"created_at": "Tue Jul 08 01:20:29 +0000 2008",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22584,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019937483147145216/PvEKps2r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019937483147145216/PvEKps2r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15348616/1532007369",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060521287813132300,
+		"quoted_status_id_str": "1060521287813132289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LYFn9RS1x3",
+			"expanded": "https://twitter.com/TechisforGirls/status/1060521287813132289",
+			"display": "twitter.com/TechisforGirls…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 13:15:53 +0000 2018",
+			"id": 1060521287813132300,
+			"id_str": "1060521287813132289",
+			"full_text": "Hanging out in @lesliefisher's session (of course) and I was SHOCKED by how many people had not heard of immersive reader! It's just one of the best features EVER! If you don't know this feature - check it out!! Its amazing! #MicrosoftEdu @GaETConf @mtholfsen #MIEExpert #GaETC18 https://t.co/c5pGBTApOR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftEdu",
+						"indices": [
+							225,
+							238
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							260,
+							270
+						]
+					},
+					{
+						"text": "GaETC18",
+						"indices": [
+							271,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lesliefisher",
+						"name": "Leslie Fisher",
+						"id": 13651112,
+						"id_str": "13651112",
+						"indices": [
+							15,
+							28
+						]
+					},
+					{
+						"screen_name": "GaETConf",
+						"name": "GaETC",
+						"id": 208439824,
+						"id_str": "208439824",
+						"indices": [
+							239,
+							248
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							249,
+							259
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060521280523378700,
+						"id_str": "1060521280523378688",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Dre6fFpWoAAOFLZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dre6fFpWoAAOFLZ.jpg",
+						"url": "https://t.co/c5pGBTApOR",
+						"display_url": "pic.twitter.com/c5pGBTApOR",
+						"expanded_url": "https://twitter.com/TechisforGirls/status/1060521287813132289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 996,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 584,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 331,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060521280523378700,
+						"id_str": "1060521280523378688",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/Dre6fFpWoAAOFLZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dre6fFpWoAAOFLZ.jpg",
+						"url": "https://t.co/c5pGBTApOR",
+						"display_url": "pic.twitter.com/c5pGBTApOR",
+						"expanded_url": "https://twitter.com/TechisforGirls/status/1060521287813132289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 996,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 584,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 331,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 331927634,
+				"id_str": "331927634",
+				"name": "Jennifer Brown",
+				"screen_name": "TechisforGirls",
+				"location": "Walker Middle Magnet School",
+				"description": "A Technology Resource teacher passionate about helping teachers create learning environments that meet all students where they need to be met. #MIEExpert",
+				"url": "https://t.co/PNjvxXxkdY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PNjvxXxkdY",
+								"expanded_url": "https://techisforgirls.wordpress.com",
+								"display_url": "techisforgirls.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 412,
+				"friends_count": 338,
+				"listed_count": 22,
+				"created_at": "Fri Jul 08 23:14:07 +0000 2011",
 				"favourites_count": 1678,
 				"utc_offset": null,
 				"time_zone": null,
