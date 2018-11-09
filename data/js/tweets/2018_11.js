@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 09 18:37:43 +0000 2018",
+		"id": 1060964667051401200,
+		"id_str": "1060964667051401216",
+		"full_text": "@therealsegaboy @msonenote #Windows10 comes with a printer driver called #Microsoft Print to PDF. \n\nTo export a single page, section, section group, or entire notebook from #OneNote for Windows 10 to PDF, simply select the desired scope and choose the Print command from the ... in the top-right corner. https://t.co/NeCYLr1R5o",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			303
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Windows10",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						173,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "therealsegaboy",
+					"name": "Sega Boy",
+					"id": 2698743582,
+					"id_str": "2698743582",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060962899609436200,
+					"id_str": "1060962899609436160",
+					"indices": [
+						304,
+						327
+					],
+					"media_url": "http://pbs.twimg.com/media/DrlMIs8WwAA3ppx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrlMIs8WwAA3ppx.jpg",
+					"url": "https://t.co/NeCYLr1R5o",
+					"display_url": "pic.twitter.com/NeCYLr1R5o",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1060964667051401216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 535,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 535,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060962899609436200,
+					"id_str": "1060962899609436160",
+					"indices": [
+						304,
+						327
+					],
+					"media_url": "http://pbs.twimg.com/media/DrlMIs8WwAA3ppx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrlMIs8WwAA3ppx.jpg",
+					"url": "https://t.co/NeCYLr1R5o",
+					"display_url": "pic.twitter.com/NeCYLr1R5o",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1060964667051401216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 535,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 535,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1060963801506426900,
+					"id_str": "1060963801506426880",
+					"indices": [
+						304,
+						327
+					],
+					"media_url": "http://pbs.twimg.com/media/DrlM9MxWsAAkXA2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrlM9MxWsAAkXA2.jpg",
+					"url": "https://t.co/NeCYLr1R5o",
+					"display_url": "pic.twitter.com/NeCYLr1R5o",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1060964667051401216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 614,
+							"h": 952,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 952,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1060355837695348700,
+		"in_reply_to_status_id_str": "1060355837695348736",
+		"in_reply_to_user_id": 2698743582,
+		"in_reply_to_user_id_str": "2698743582",
+		"in_reply_to_screen_name": "therealsegaboy",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18949,
+			"friends_count": 7067,
+			"listed_count": 588,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24758,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@therealsegaboy @msonenote #Windows10 comes with a printer driver called #Microsoft Print to PDF. \n\nTo export a single page, section, section group, or entire notebook from #OneNote for Windows 10 to PDF, simply select the desired scope and choose the Print command from the ... in the top-right corner. https://t.co/NeCYLr1R5o"
+	},
+	{
 		"created_at": "Fri Nov 09 02:18:49 +0000 2018",
 		"id": 1060718322369519600,
 		"id_str": "1060718322369519616",
@@ -107,6 +360,679 @@ Grailbird.data.tweets_2018_11 =
 			"screen_name": "kjy_999",
 			"location": "",
 			"description": "兔赤 enthusiast // ♂ // 🇹🇼🇨🇳🏳️‍🌈 // opinions are my own // dont spam like/rt",
+			"url": "https://t.co/Ay3Q1v6nLF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ay3Q1v6nLF",
+							"expanded_url": "http://kjinyu.tumblr.com",
+							"display_url": "kjinyu.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1143,
+			"friends_count": 236,
+			"listed_count": 16,
+			"created_at": "Mon Nov 14 20:53:50 +0000 2016",
+			"favourites_count": 13753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049068181468278784/H6ukOIxP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049068181468278784/H6ukOIxP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/798267720991174656/1538952441",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "in 2018 we doodle in the margins of micros/oft onenote virtual notebooks https://t.co/J6ks0zQtIy"
+	},
+	{
+		"created_at": "Fri Nov 09 13:10:52 +0000 2018",
+		"id": 1060882415202328600,
+		"id_str": "1060882415202328576",
+		"full_text": "Want to live-embed an animated GIF in #Microsoft #OneNote? \nFirst upload the GIF to @GIPHY. \nThen copy the link to your GIF and paste it directly into a OneNote page. \n\nTry the gorgeous Happy Angler Fish:\nhttps://t.co/JZJPUE8QUF\nby @MicrosoftEDU\n#oEmbed\n\nhttps://t.co/HR6y7YSdrg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "oEmbed",
+					"indices": [
+						246,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GIPHY",
+					"name": "GIPHY",
+					"id": 1020383864,
+					"id_str": "1020383864",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						232,
+						245
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JZJPUE8QUF",
+					"expanded_url": "https://giphy.com/gifs/microsoftedu-education-microsoft-edu-1ymLvcZ6yuGlvf8tSS",
+					"display_url": "giphy.com/gifs/microsoft…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1018237464996143100,
+					"id_str": "1018237464996143106",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DiGBlF4W4AIESEp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DiGBlF4W4AIESEp.jpg",
+					"url": "https://t.co/HR6y7YSdrg",
+					"display_url": "pic.twitter.com/HR6y7YSdrg",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1018237885378711552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1018237885378711600,
+					"source_status_id_str": "1018237885378711552",
+					"source_user_id": 2582768738,
+					"source_user_id_str": "2582768738"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1018237464996143100,
+					"id_str": "1018237464996143106",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DiGBlF4W4AIESEp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DiGBlF4W4AIESEp.jpg",
+					"url": "https://t.co/HR6y7YSdrg",
+					"display_url": "pic.twitter.com/HR6y7YSdrg",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1018237885378711552/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1018237885378711600,
+					"source_status_id_str": "1018237885378711552",
+					"source_user_id": 2582768738,
+					"source_user_id_str": "2582768738",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DiGBlF4W4AIESEp.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18949,
+			"friends_count": 7067,
+			"listed_count": 588,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24758,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to live-embed an animated GIF in #Microsoft #OneNote? \nFirst upload the GIF to @GIPHY. \nThen copy the link to your GIF and paste it directly into a OneNote page. \n\nTry the gorgeous Happy Angler Fish:\nhttps://t.co/JZJPUE8QUF\nby @MicrosoftEDU\n#oEmbed\n\nhttps://t.co/HR6y7YSdrg"
+	},
+	{
+		"created_at": "Fri Nov 09 09:28:36 +0000 2018",
+		"id": 1060826479427240000,
+		"id_str": "1060826479427239936",
+		"full_text": "#Android users, this one is for you:\nThe latest #OneNote app update lets you insert file attachments and PDF printouts. \n\nMore in the tweet below by @Amrita_Rout. Thank you, Amrita. https://t.co/ztfp9f9xDc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Android",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						48,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amrita_rout",
+					"name": "amrita rout",
+					"id": 2933785406,
+					"id_str": "2933785406",
+					"indices": [
+						149,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ztfp9f9xDc",
+					"expanded_url": "https://twitter.com/amrita_rout/status/1060823567342931968",
+					"display_url": "twitter.com/amrita_rout/st…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18949,
+			"friends_count": 7067,
+			"listed_count": 588,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24758,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060823567342932000,
+		"quoted_status_id_str": "1060823567342931968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ztfp9f9xDc",
+			"expanded": "https://twitter.com/amrita_rout/status/1060823567342931968",
+			"display": "twitter.com/amrita_rout/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 09 09:17:02 +0000 2018",
+			"id": 1060823567342932000,
+			"id_str": "1060823567342931968",
+			"full_text": "You asked and we listened! OneNote Android now let's you insert file attachments and PDF printouts in the latest version in Store. Do give it a shot and let us know your experience. And did I mention we now have Android P support too!\n@OneNoteC @msonenote\n\nhttps://t.co/STjW2z9EAY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							235,
+							244
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							245,
+							255
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/STjW2z9EAY",
+						"expanded_url": "https://onenote.uservoice.com/forums/327162-onenote-for-android/suggestions/6080419-android-insert-pdf-documents",
+						"display_url": "onenote.uservoice.com/forums/327162-…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2933785406,
+				"id_str": "2933785406",
+				"name": "amrita rout",
+				"screen_name": "amrita_rout",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55,
+				"friends_count": 67,
+				"listed_count": 1,
+				"created_at": "Wed Dec 17 17:18:16 +0000 2014",
+				"favourites_count": 139,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 107,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/545267895358324736/dFb9aw_C_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/545267895358324736/dFb9aw_C_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Android users, this one is for you:\nThe latest #OneNote app update lets you insert file attachments and PDF printouts. \n\nMore in the tweet below by @Amrita_Rout. Thank you, Amrita. https://t.co/ztfp9f9xDc"
+	},
+	{
+		"created_at": "Fri Nov 09 02:18:49 +0000 2018",
+		"id": 1060718322369519600,
+		"id_str": "1060718322369519616",
+		"full_text": "in 2018 we doodle in the margins of micros/oft onenote virtual notebooks https://t.co/J6ks0zQtIy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060718273933660200,
+					"id_str": "1060718273933660160",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DrhtpnSU0AAxz4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrhtpnSU0AAxz4e.jpg",
+					"url": "https://t.co/J6ks0zQtIy",
+					"display_url": "pic.twitter.com/J6ks0zQtIy",
+					"expanded_url": "https://twitter.com/kjy_999/status/1060718322369519616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 898,
+							"h": 904,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 898,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060718273933660200,
+					"id_str": "1060718273933660160",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DrhtpnSU0AAxz4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrhtpnSU0AAxz4e.jpg",
+					"url": "https://t.co/J6ks0zQtIy",
+					"display_url": "pic.twitter.com/J6ks0zQtIy",
+					"expanded_url": "https://twitter.com/kjy_999/status/1060718322369519616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 898,
+							"h": 904,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 898,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 798267720991174700,
+			"id_str": "798267720991174656",
+			"name": "leo 😰",
+			"screen_name": "kjy_999",
+			"location": "",
+			"description": "兔赤 enthusiast // ♂ // 🇹🇼🇨🇳🏳️🌈 // opinions are my own // dont spam like/rt",
 			"url": "https://t.co/Ay3Q1v6nLF",
 			"entities": {
 				"url": {
