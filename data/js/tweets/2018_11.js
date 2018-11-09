@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 09 02:18:49 +0000 2018",
+		"id": 1060718322369519600,
+		"id_str": "1060718322369519616",
+		"full_text": "in 2018 we doodle in the margins of micros/oft onenote virtual notebooks https://t.co/J6ks0zQtIy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060718273933660200,
+					"id_str": "1060718273933660160",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DrhtpnSU0AAxz4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrhtpnSU0AAxz4e.jpg",
+					"url": "https://t.co/J6ks0zQtIy",
+					"display_url": "pic.twitter.com/J6ks0zQtIy",
+					"expanded_url": "https://twitter.com/kjy_999/status/1060718322369519616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 898,
+							"h": 904,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 898,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060718273933660200,
+					"id_str": "1060718273933660160",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/DrhtpnSU0AAxz4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrhtpnSU0AAxz4e.jpg",
+					"url": "https://t.co/J6ks0zQtIy",
+					"display_url": "pic.twitter.com/J6ks0zQtIy",
+					"expanded_url": "https://twitter.com/kjy_999/status/1060718322369519616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 898,
+							"h": 904,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 898,
+							"h": 904,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 798267720991174700,
+			"id_str": "798267720991174656",
+			"name": "leo 😰",
+			"screen_name": "kjy_999",
+			"location": "",
+			"description": "兔赤 enthusiast // ♂ // 🇹🇼🇨🇳🏳️‍🌈 // opinions are my own // dont spam like/rt",
+			"url": "https://t.co/Ay3Q1v6nLF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ay3Q1v6nLF",
+							"expanded_url": "http://kjinyu.tumblr.com",
+							"display_url": "kjinyu.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1143,
+			"friends_count": 236,
+			"listed_count": 16,
+			"created_at": "Mon Nov 14 20:53:50 +0000 2016",
+			"favourites_count": 13750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6200,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049068181468278784/H6ukOIxP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049068181468278784/H6ukOIxP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/798267720991174656/1538952441",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "in 2018 we doodle in the margins of micros/oft onenote virtual notebooks https://t.co/J6ks0zQtIy"
+	},
+	{
 		"created_at": "Fri Nov 09 13:10:52 +0000 2018",
 		"id": 1060882415202328600,
 		"id_str": "1060882415202328576",
