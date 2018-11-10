@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 10 19:56:08 +0000 2018",
+		"id": 1061346788974706700,
+		"id_str": "1061346788974706688",
+		"full_text": "Curious who's hosting the upcoming #MSFTEduChat TweetMeet about Computer Science and #HourOfCode?\nWatch the animated GIF below and check the hosts' details through the Twitter list.\n\nComing soon on the #MicrosoftEDU blog: more details about topic, questions and key resources.\n#CS https://t.co/wnAkE9nWh6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"text": "HourOfCode",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						202,
+						215
+					]
+				},
+				{
+					"text": "CS",
+					"indices": [
+						277,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wnAkE9nWh6",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1061336594081370112",
+					"display_url": "twitter.com/TweetMeet/stat…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18957,
+			"friends_count": 7067,
+			"listed_count": 589,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24769,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1061336594081370100,
+		"quoted_status_id_str": "1061336594081370112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wnAkE9nWh6",
+			"expanded": "https://twitter.com/TweetMeet/status/1061336594081370112",
+			"display": "twitter.com/TweetMeet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 10 19:15:37 +0000 2018",
+			"id": 1061336594081370100,
+			"id_str": "1061336594081370112",
+			"full_text": "We're so proud of our 14 global #MSFTEduChat hosts on the TweetMeet about Computer Science and Hour of Code, that we made a special animated GIF to introduce all of them to you. \n\nMeet our hosts and follow them all:\nhttps://t.co/xFas5NENrz\n\n#CS #HourOfCode #MicrosoftEDU https://t.co/VqXsqpuAAh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							32,
+							44
+						]
+					},
+					{
+						"text": "CS",
+						"indices": [
+							241,
+							244
+						]
+					},
+					{
+						"text": "HourOfCode",
+						"indices": [
+							245,
+							256
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							257,
+							270
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xFas5NENrz",
+						"expanded_url": "https://twitter.com/TweetMeet/lists/msfteduchat-2018-11/members",
+						"display_url": "twitter.com/TweetMeet/list…",
+						"indices": [
+							216,
+							239
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1061335766125699100,
+						"id_str": "1061335766125699072",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrqfQY9W4AAor95.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrqfQY9W4AAor95.jpg",
+						"url": "https://t.co/VqXsqpuAAh",
+						"display_url": "pic.twitter.com/VqXsqpuAAh",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1061336594081370112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 824,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 824,
+								"h": 424,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 350,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1061335766125699100,
+						"id_str": "1061335766125699072",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrqfQY9W4AAor95.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrqfQY9W4AAor95.jpg",
+						"url": "https://t.co/VqXsqpuAAh",
+						"display_url": "pic.twitter.com/VqXsqpuAAh",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1061336594081370112/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 824,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 824,
+								"h": 424,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 350,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								103,
+								53
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DrqfQY9W4AAor95.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central",
+				"screen_name": "TweetMeet",
+				"location": "World",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+				"url": "https://t.co/vTmAj2KFoN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTmAj2KFoN",
+								"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+								"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1238,
+				"friends_count": 876,
+				"listed_count": 13,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 523,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 342,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1539896260",
+				"profile_link_color": "E3008C",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Curious who's hosting the upcoming #MSFTEduChat TweetMeet about Computer Science and #HourOfCode?\nWatch the animated GIF below and check the hosts' details through the Twitter list.\n\nComing soon on the #MicrosoftEDU blog: more details about topic, questions and key resources.\n#CS https://t.co/wnAkE9nWh6"
+	},
+	{
+		"created_at": "Sat Nov 10 19:29:50 +0000 2018",
+		"id": 1061340173491941400,
+		"id_str": "1061340173491941378",
+		"full_text": "@mdfriend Hi Michelle, I'd love to get in touch with you real quick. Could you send me a direct message please?\n\nhttps://t.co/JDiN4Rq21j",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdfriend",
+					"name": "Michelle Budge",
+					"id": 17947255,
+					"id_str": "17947255",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JDiN4Rq21j",
+					"expanded_url": "https://twitter.com/messages/compose?recipient_id=2582768738",
+					"display_url": "twitter.com/messages/compo…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1061030099493908500,
+		"in_reply_to_status_id_str": "1061030099493908480",
+		"in_reply_to_user_id": 17947255,
+		"in_reply_to_user_id_str": "17947255",
+		"in_reply_to_screen_name": "mdfriend",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18957,
+			"friends_count": 7067,
+			"listed_count": 589,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24769,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mdfriend Hi Michelle, I'd love to get in touch with you real quick. Could you send me a direct message please?\n\nhttps://t.co/JDiN4Rq21j"
+	},
+	{
 		"created_at": "Sat Nov 10 17:29:29 +0000 2018",
 		"id": 1061309885839753200,
 		"id_str": "1061309885839753216",
@@ -2543,7 +3027,7 @@ Grailbird.data.tweets_2018_11 =
 			"name": "leo 😰",
 			"screen_name": "kjy_999",
 			"location": "",
-			"description": "兔赤 enthusiast // ♂ // 🇹🇼🇨🇳🏳️‍🌈 // opinions are my own // dont spam like/rt",
+			"description": "兔赤 enthusiast // ♂ // 🇹🇼🇨🇳🏳️🌈 // opinions are my own // dont spam like/rt",
 			"url": "https://t.co/Ay3Q1v6nLF",
 			"entities": {
 				"url": {
