@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 10 20:38:29 +0000 2018",
+		"id": 1061357447909007400,
+		"id_str": "1061357447909007360",
+		"full_text": "Like I said the other day, the #MSFTEduChat is hosted by people like me from all over the world.\n\nHere's a list of the languages we speak. Chat with us about #ComputerScience, #HourOfCode in the language of your choice.\n\nYour tweet is just one click of Bing translate away for me. https://t.co/bH6nH9LRjj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						31,
+						43
+					]
+				},
+				{
+					"text": "ComputerScience",
+					"indices": [
+						158,
+						174
+					]
+				},
+				{
+					"text": "HourOfCode",
+					"indices": [
+						176,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061356551548493800,
+					"id_str": "1061356551548493824",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DrqyKQsU4AAuidb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrqyKQsU4AAuidb.jpg",
+					"url": "https://t.co/bH6nH9LRjj",
+					"display_url": "pic.twitter.com/bH6nH9LRjj",
+					"expanded_url": "https://twitter.com/8bitclassroom/status/1061357447909007360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061356551548493800,
+					"id_str": "1061356551548493824",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DrqyKQsU4AAuidb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrqyKQsU4AAuidb.jpg",
+					"url": "https://t.co/bH6nH9LRjj",
+					"display_url": "pic.twitter.com/bH6nH9LRjj",
+					"expanded_url": "https://twitter.com/8bitclassroom/status/1061357447909007360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 854149007211241500,
+			"id_str": "854149007211241472",
+			"name": "Mr. Dang",
+			"screen_name": "8bitclassroom",
+			"location": "",
+			"description": "Mr. Brian Dang || Tweets about education, technology, and #PowerApps || PM on the PowerApps team @Microsoft || Views and opinions are my own",
+			"url": "https://t.co/10xywFBj7Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/10xywFBj7Y",
+							"expanded_url": "http://www.8bitclassroom.com",
+							"display_url": "8bitclassroom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1173,
+			"friends_count": 551,
+			"listed_count": 26,
+			"created_at": "Tue Apr 18 01:46:07 +0000 2017",
+			"favourites_count": 3507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2724,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059145797206331392/Va6bMMFv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059145797206331392/Va6bMMFv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/854149007211241472/1540185167",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Like I said the other day, the #MSFTEduChat is hosted by people like me from all over the world.\n\nHere's a list of the languages we speak. Chat with us about #ComputerScience, #HourOfCode in the language of your choice.\n\nYour tweet is just one click of Bing translate away for me. https://t.co/bH6nH9LRjj"
+	},
+	{
+		"created_at": "Sat Nov 10 21:38:48 +0000 2018",
+		"id": 1061372628810719200,
+		"id_str": "1061372628810719232",
+		"full_text": "Wedding Planning Made Easy with Microsoft (and other #wedding planning tips and tricks to save money and your sanity!) https://t.co/m6J3qJKyyO #blogpost #Microsoft #OneNote #Excel #Word #MIEExpert #weddingplanning #weddingplanner #MIETrainer https://t.co/YnOiidBZYj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wedding",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "blogpost",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "Excel",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "Word",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						186,
+						196
+					]
+				},
+				{
+					"text": "weddingplanning",
+					"indices": [
+						197,
+						213
+					]
+				},
+				{
+					"text": "weddingplanner",
+					"indices": [
+						214,
+						229
+					]
+				},
+				{
+					"text": "MIETrainer",
+					"indices": [
+						230,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m6J3qJKyyO",
+					"expanded_url": "https://gktechies.wordpress.com/2018/11/10/wedding-planning-made-easy-with-microsoft/",
+					"display_url": "gktechies.wordpress.com/2018/11/10/wed…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1061372400674123800,
+					"id_str": "1061372400674123777",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/DrrAkzSVsAEWraU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrrAkzSVsAEWraU.jpg",
+					"url": "https://t.co/YnOiidBZYj",
+					"display_url": "pic.twitter.com/YnOiidBZYj",
+					"expanded_url": "https://twitter.com/Filibuster3/status/1061372628810719232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 943,
+							"h": 978,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 943,
+							"h": 978,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061372400674123800,
+					"id_str": "1061372400674123777",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/DrrAkzSVsAEWraU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrrAkzSVsAEWraU.jpg",
+					"url": "https://t.co/YnOiidBZYj",
+					"display_url": "pic.twitter.com/YnOiidBZYj",
+					"expanded_url": "https://twitter.com/Filibuster3/status/1061372628810719232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 943,
+							"h": 978,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 943,
+							"h": 978,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 314753981,
+			"id_str": "314753981",
+			"name": "KarynF",
+			"screen_name": "Filibuster3",
+			"location": "California",
+			"description": "Tech trainer,frmr elem & SpEd tchr, #MSFTEduChat host #SurfaceMasterTrainer #MIEExpert #GoogleCertifiedEducator #AppleTeacher #MIEMasterTrainer- opinions my own",
+			"url": "https://t.co/ZHDjY6yiTG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHDjY6yiTG",
+							"expanded_url": "https://delivr.com/27zf2",
+							"display_url": "delivr.com/27zf2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 649,
+			"friends_count": 359,
+			"listed_count": 24,
+			"created_at": "Fri Jun 10 19:12:10 +0000 2011",
+			"favourites_count": 11358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4461,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F0B8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999142850964045825/zBWKI_wK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999142850964045825/zBWKI_wK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/314753981/1534043096",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wedding Planning Made Easy with Microsoft (and other #wedding planning tips and tricks to save money and your sanity!) https://t.co/m6J3qJKyyO #blogpost #Microsoft #OneNote #Excel #Word #MIEExpert #weddingplanning #weddingplanner #MIETrainer https://t.co/YnOiidBZYj"
+	},
+	{
 		"created_at": "Sat Nov 10 21:38:48 +0000 2018",
 		"id": 1061372628810719200,
 		"id_str": "1061372628810719232",
