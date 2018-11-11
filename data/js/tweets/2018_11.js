@@ -1,6 +1,616 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 11 20:09:19 +0000 2018",
+		"id": 1061712497315586000,
+		"id_str": "1061712497315586050",
+		"full_text": "@Agredo10 @msonenote I can understand that. I'm not sure why printing page groups and multiple pages isn't supported in #OneNote for #Windows10. It would seem like a no-brainer. \n\nYou may want to consider posting this idea on the OneNote feedback forum at https://t.co/8wr5XKeJYa.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						133,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Agredo10",
+					"name": "Christian Agredo",
+					"id": 56345759,
+					"id_str": "56345759",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8wr5XKeJYa",
+					"expanded_url": "https://onenote.uservoice.com",
+					"display_url": "onenote.uservoice.com",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1061711311002890200,
+		"in_reply_to_status_id_str": "1061711311002890240",
+		"in_reply_to_user_id": 56345759,
+		"in_reply_to_user_id_str": "56345759",
+		"in_reply_to_screen_name": "Agredo10",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18974,
+			"friends_count": 7076,
+			"listed_count": 589,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24777,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Agredo10 @msonenote I can understand that. I'm not sure why printing page groups and multiple pages isn't supported in #OneNote for #Windows10. It would seem like a no-brainer. \n\nYou may want to consider posting this idea on the OneNote feedback forum at https://t.co/8wr5XKeJYa."
+	},
+	{
+		"created_at": "Sun Nov 11 19:42:06 +0000 2018",
+		"id": 1061705648163950600,
+		"id_str": "1061705648163950592",
+		"full_text": "@Agredo10 @msonenote You are referring to a #OneNote page group, not a section group. \nYou are correct that the app cannot print multiple pages at a time, except when they are placed in a separate section. So, as a work-around, temporarily place the page group that you want to print in a section.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			297
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Agredo10",
+					"name": "Christian Agredo",
+					"id": 56345759,
+					"id_str": "56345759",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1061702547638009900,
+		"in_reply_to_status_id_str": "1061702547638009856",
+		"in_reply_to_user_id": 56345759,
+		"in_reply_to_user_id_str": "56345759",
+		"in_reply_to_screen_name": "Agredo10",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18974,
+			"friends_count": 7076,
+			"listed_count": 589,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24777,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Agredo10 @msonenote You are referring to a #OneNote page group, not a section group. \nYou are correct that the app cannot print multiple pages at a time, except when they are placed in a separate section. So, as a work-around, temporarily place the page group that you want to print in a section."
+	},
+	{
+		"created_at": "Thu Nov 08 20:45:41 +0000 2018",
+		"id": 1060634485878939600,
+		"id_str": "1060634485878939649",
+		"full_text": "🥁 Drum roll...: \nProudly announcing the expert hosts for the #MSFTEduChat TweetMeet about Computer Science and #HourOfCode.\n\nJoin us Tuesday November 20, at 10am PST\nLocal event times:\nhttps://t.co/eao1EFHErS\n\n#CS #MicrosoftEDU #Microsoft https://t.co/qEANtH5pYs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						61,
+						73
+					]
+				},
+				{
+					"text": "HourOfCode",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "CS",
+					"indices": [
+						210,
+						213
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						214,
+						227
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						228,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eao1EFHErS",
+					"expanded_url": "https://www.timeanddate.com/worldclock/fixedtime.html?low=4&p1=234&iso=20181120T10&msg=%23MSFTEduChat%20TweetMeet%20%E2%80%93%20Nov%2020&ah=1&sort=1",
+					"display_url": "timeanddate.com/worldclock/fix…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060633939486933000,
+					"id_str": "1060633939486932993",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Drgg8s_XgAEHjJm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drgg8s_XgAEHjJm.jpg",
+					"url": "https://t.co/qEANtH5pYs",
+					"display_url": "pic.twitter.com/qEANtH5pYs",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1060634485878939649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060633939486933000,
+					"id_str": "1060633939486932993",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Drgg8s_XgAEHjJm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Drgg8s_XgAEHjJm.jpg",
+					"url": "https://t.co/qEANtH5pYs",
+					"display_url": "pic.twitter.com/qEANtH5pYs",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1060634485878939649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1393,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1241,
+			"friends_count": 876,
+			"listed_count": 13,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1539896260",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🥁 Drum roll...: \nProudly announcing the expert hosts for the #MSFTEduChat TweetMeet about Computer Science and #HourOfCode.\n\nJoin us Tuesday November 20, at 10am PST\nLocal event times:\nhttps://t.co/eao1EFHErS\n\n#CS #MicrosoftEDU #Microsoft https://t.co/qEANtH5pYs"
+	},
+	{
+		"created_at": "Sun Nov 11 19:22:56 +0000 2018",
+		"id": 1061700825561661400,
+		"id_str": "1061700825561661440",
+		"full_text": "@Agredo10 @msonenote What you have selected is a single #OneNote section, not a section group. \nIf you want to print multiple sections, first create a section group, place your sections in that section group, and then carry on as described above. \nTo create a section group, right-click on +Section.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			299
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Agredo10",
+					"name": "Christian Agredo",
+					"id": 56345759,
+					"id_str": "56345759",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1061700088282710000,
+		"in_reply_to_status_id_str": "1061700088282710017",
+		"in_reply_to_user_id": 56345759,
+		"in_reply_to_user_id_str": "56345759",
+		"in_reply_to_screen_name": "Agredo10",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18974,
+			"friends_count": 7076,
+			"listed_count": 589,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24777,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Agredo10 @msonenote What you have selected is a single #OneNote section, not a section group. \nIf you want to print multiple sections, first create a section group, place your sections in that section group, and then carry on as described above. \nTo create a section group, right-click on +Section."
+	},
+	{
 		"created_at": "Sun Nov 11 19:10:07 +0000 2018",
 		"id": 1061697598912979000,
 		"id_str": "1061697598912978950",
