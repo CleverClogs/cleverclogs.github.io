@@ -205,6 +205,219 @@ Grailbird.data.tweets_2018_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! A YouTube channel for #OneNote assignments and grade integration \"How-To\" videos - more coming soon, share this broadly: https://t.co/hDXeAqj2NS #edtech #mieexpert #MicrosoftEDU https://t.co/MYwfcv0tih"
+	},
+	{
+		"created_at": "Mon Nov 12 00:39:18 +0000 2018",
+		"id": 1061780441932255200,
+		"id_str": "1061780441932255232",
+		"full_text": "NEW! A YouTube channel for #OneNote assignments and grade integration \"How-To\" videos - more coming soon, share this broadly: https://t.co/hDXeAqj2NS #edtech #mieexpert #MicrosoftEDU https://t.co/MYwfcv0tih",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						169,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hDXeAqj2NS",
+					"expanded_url": "https://www.youtube.com/playlist?list=PLiluTszfwwMJ08bdNdnhxiUPUvAWa2lSX",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1061780075828392000,
+					"id_str": "1061780075828391936",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/DrwzWnlWsAA74ll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrwzWnlWsAA74ll.jpg",
+					"url": "https://t.co/MYwfcv0tih",
+					"display_url": "pic.twitter.com/MYwfcv0tih",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1061780441932255232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1236,
+							"h": 924,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 897,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061780075828392000,
+					"id_str": "1061780075828391936",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/DrwzWnlWsAA74ll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrwzWnlWsAA74ll.jpg",
+					"url": "https://t.co/MYwfcv0tih",
+					"display_url": "pic.twitter.com/MYwfcv0tih",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1061780441932255232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1236,
+							"h": 924,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 897,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14914,
+			"friends_count": 2704,
+			"listed_count": 689,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 45156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
 		"retweet_count": 26,
 		"favorite_count": 28,
 		"favorited": false,
