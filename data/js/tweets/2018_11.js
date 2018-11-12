@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 06 18:24:35 +0000 2018",
+		"id": 1059874201287491600,
+		"id_str": "1059874201287491584",
+		"full_text": "Complement your Hour of Code activities by meeting actual code creators! Join #SkypeClassroom and @codeorg for a week of FREE broadcasts and live Q&amp;A sessions with inspiring professionals. Register now! https://t.co/069c2B0EUk #CSEdWeek #Skype2Learn https://t.co/CGVWmIB2dl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SkypeClassroom",
+					"indices": [
+						78,
+						93
+					]
+				},
+				{
+					"text": "CSEdWeek",
+					"indices": [
+						231,
+						240
+					]
+				},
+				{
+					"text": "Skype2Learn",
+					"indices": [
+						241,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "codeorg",
+					"name": "Code.org",
+					"id": 850107536,
+					"id_str": "850107536",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/069c2B0EUk",
+					"expanded_url": "https://aka.ms/codecreators",
+					"display_url": "aka.ms/codecreators",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1059874193347670000,
+					"id_str": "1059874193347670017",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/DrVt9qEXcAEAVkO.png",
+					"media_url_https": "https://pbs.twimg.com/media/DrVt9qEXcAEAVkO.png",
+					"url": "https://t.co/CGVWmIB2dl",
+					"display_url": "pic.twitter.com/CGVWmIB2dl",
+					"expanded_url": "https://twitter.com/SkypeClassroom/status/1059874201287491584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1999,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059874193347670000,
+					"id_str": "1059874193347670017",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/DrVt9qEXcAEAVkO.png",
+					"media_url_https": "https://pbs.twimg.com/media/DrVt9qEXcAEAVkO.png",
+					"url": "https://t.co/CGVWmIB2dl",
+					"display_url": "pic.twitter.com/CGVWmIB2dl",
+					"expanded_url": "https://twitter.com/SkypeClassroom/status/1059874201287491584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1999,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 214027732,
+			"id_str": "214027732",
+			"name": "Skype Classroom",
+			"screen_name": "SkypeClassroom",
+			"location": "Everywhere",
+			"description": "Skype in the Classroom is a global #MicrosoftEDU community of educators creating collaborative & free Skype lessons.",
+			"url": "https://t.co/4j25UxAYF7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4j25UxAYF7",
+							"expanded_url": "http://www.skypeintheclassroom.com/",
+							"display_url": "skypeintheclassroom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103238,
+			"friends_count": 8547,
+			"listed_count": 1540,
+			"created_at": "Wed Nov 10 11:32:30 +0000 2010",
+			"favourites_count": 33387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28494,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "25AFF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969672572651503616/THcBAM0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969672572651503616/THcBAM0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/214027732/1537975331",
+			"profile_link_color": "00B0F0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAF1FA",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Complement your Hour of Code activities by meeting actual code creators! Join #SkypeClassroom and @codeorg for a week of FREE broadcasts and live Q&amp;A sessions with inspiring professionals. Register now! https://t.co/069c2B0EUk #CSEdWeek #Skype2Learn https://t.co/CGVWmIB2dl"
+	},
+	{
+		"created_at": "Mon Nov 12 00:39:18 +0000 2018",
+		"id": 1061780441932255200,
+		"id_str": "1061780441932255232",
+		"full_text": "NEW! A YouTube channel for #OneNote assignments and grade integration \"How-To\" videos - more coming soon, share this broadly: https://t.co/hDXeAqj2NS #edtech #mieexpert #MicrosoftEDU https://t.co/MYwfcv0tih",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						169,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hDXeAqj2NS",
+					"expanded_url": "https://www.youtube.com/playlist?list=PLiluTszfwwMJ08bdNdnhxiUPUvAWa2lSX",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1061780075828392000,
+					"id_str": "1061780075828391936",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/DrwzWnlWsAA74ll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrwzWnlWsAA74ll.jpg",
+					"url": "https://t.co/MYwfcv0tih",
+					"display_url": "pic.twitter.com/MYwfcv0tih",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1061780441932255232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1236,
+							"h": 924,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 897,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061780075828392000,
+					"id_str": "1061780075828391936",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/DrwzWnlWsAA74ll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrwzWnlWsAA74ll.jpg",
+					"url": "https://t.co/MYwfcv0tih",
+					"display_url": "pic.twitter.com/MYwfcv0tih",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1061780441932255232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1236,
+							"h": 924,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 897,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14914,
+			"friends_count": 2704,
+			"listed_count": 692,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 45156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! A YouTube channel for #OneNote assignments and grade integration \"How-To\" videos - more coming soon, share this broadly: https://t.co/hDXeAqj2NS #edtech #mieexpert #MicrosoftEDU https://t.co/MYwfcv0tih"
+	},
+	{
 		"created_at": "Mon Nov 12 00:39:18 +0000 2018",
 		"id": 1061780441932255200,
 		"id_str": "1061780441932255232",
