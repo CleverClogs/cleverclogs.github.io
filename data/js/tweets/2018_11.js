@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 11 15:56:02 +0000 2018",
+		"id": 1061648757350166500,
+		"id_str": "1061648757350166530",
+		"full_text": "One of the TweetMeet hosts for this month is digital-education expert Sacha van Straten @svanstraten.\n\nWatch his #MSFTEduChat tweets, those of the other hosts and your own ones on this magic, dynamic Twitter wall:\nhttps://t.co/t63fzQRPw9\nprovided by #MicrosoftEDU\n\n#CS #HourOfCode https://t.co/AHR1RGZ6nC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						250,
+						263
+					]
+				},
+				{
+					"text": "CS",
+					"indices": [
+						265,
+						268
+					]
+				},
+				{
+					"text": "HourOfCode",
+					"indices": [
+						269,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "svanstraten",
+					"name": "svanstraten",
+					"id": 14201782,
+					"id_str": "14201782",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/t63fzQRPw9",
+					"expanded_url": "http://www.tweetbeam.com/show?id=nJ1xV",
+					"display_url": "tweetbeam.com/show?id=nJ1xV",
+					"indices": [
+						214,
+						237
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1061609321862180900,
+					"id_str": "1061609321862180864",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DruYDbfWsAAZG4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DruYDbfWsAAZG4P.jpg",
+					"url": "https://t.co/AHR1RGZ6nC",
+					"display_url": "pic.twitter.com/AHR1RGZ6nC",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1061648757350166530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061609321862180900,
+					"id_str": "1061609321862180864",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DruYDbfWsAAZG4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DruYDbfWsAAZG4P.jpg",
+					"url": "https://t.co/AHR1RGZ6nC",
+					"display_url": "pic.twitter.com/AHR1RGZ6nC",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1061648757350166530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1241,
+			"friends_count": 877,
+			"listed_count": 13,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1539896260",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of the TweetMeet hosts for this month is digital-education expert Sacha van Straten @svanstraten.\n\nWatch his #MSFTEduChat tweets, those of the other hosts and your own ones on this magic, dynamic Twitter wall:\nhttps://t.co/t63fzQRPw9\nprovided by #MicrosoftEDU\n\n#CS #HourOfCode https://t.co/AHR1RGZ6nC"
+	},
+	{
 		"created_at": "Mon Nov 12 14:16:26 +0000 2018",
 		"id": 1061986079576916000,
 		"id_str": "1061986079576915968",
@@ -5654,7 +5878,7 @@ Grailbird.data.tweets_2018_11 =
 			"name": "leo 😰",
 			"screen_name": "kjy_999",
 			"location": "",
-			"description": "兔赤 enthusiast // ♂ // 🇹🇼🇨🇳🏳️‍🌈 // opinions are my own // dont spam like/rt",
+			"description": "兔赤 enthusiast // ♂ // 🇹🇼🇨🇳🏳️🌈 // opinions are my own // dont spam like/rt",
 			"url": "https://t.co/Ay3Q1v6nLF",
 			"entities": {
 				"url": {
