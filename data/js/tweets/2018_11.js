@@ -83,6 +83,477 @@ Grailbird.data.tweets_2018_11 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
+			"statuses_count": 22615,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019937483147145216/PvEKps2r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019937483147145216/PvEKps2r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15348616/1532007369",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What if there were a bunch of online sessions you could attend for free for a limited time to learn about one of the greatest apps for education/productivity use in the world, no travel required, oh wait, that sounds like the #LONC18 #OneNote conference https://t.co/81qZO1xdTQ"
+	},
+	{
+		"created_at": "Mon Nov 12 19:51:55 +0000 2018",
+		"id": 1062070505115709400,
+		"id_str": "1062070505115709440",
+		"full_text": "@sig225 @Benminnn What a catch. 👀",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sig225",
+					"name": "Cal Armstrong",
+					"id": 12895782,
+					"id_str": "12895782",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						8,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1062045019123658800,
+		"in_reply_to_status_id_str": "1062045019123658752",
+		"in_reply_to_user_id": 12895782,
+		"in_reply_to_user_id_str": "12895782",
+		"in_reply_to_screen_name": "sig225",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18999,
+			"friends_count": 7086,
+			"listed_count": 589,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24785,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sig225 @Benminnn What a catch. 👀"
+	},
+	{
+		"created_at": "Sun Nov 11 23:16:35 +0000 2018",
+		"id": 1061759623105994800,
+		"id_str": "1061759623105994753",
+		"full_text": "It was about two years ago that I discovered new ideas and resources on the #MSFTEduChat.\n\nAnd on Nov 20 10am PST, I will be one of the hosts on the topic of #ComputerScience and the #HourOfCode.\n\nJoin me in this international discussion. I'll definitely bring up #PowerApps! https://t.co/7gxawDm5On",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "ComputerScience",
+					"indices": [
+						158,
+						174
+					]
+				},
+				{
+					"text": "HourOfCode",
+					"indices": [
+						183,
+						194
+					]
+				},
+				{
+					"text": "PowerApps",
+					"indices": [
+						264,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061759481149714400,
+					"id_str": "1061759481149714432",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1061759481149714432/pu/img/kgzpYOD-MoZBsM2T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1061759481149714432/pu/img/kgzpYOD-MoZBsM2T.jpg",
+					"url": "https://t.co/7gxawDm5On",
+					"display_url": "pic.twitter.com/7gxawDm5On",
+					"expanded_url": "https://twitter.com/8bitclassroom/status/1061759623105994753/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061759481149714400,
+					"id_str": "1061759481149714432",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1061759481149714432/pu/img/kgzpYOD-MoZBsM2T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1061759481149714432/pu/img/kgzpYOD-MoZBsM2T.jpg",
+					"url": "https://t.co/7gxawDm5On",
+					"display_url": "pic.twitter.com/7gxawDm5On",
+					"expanded_url": "https://twitter.com/8bitclassroom/status/1061759623105994753/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 73033,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1061759481149714432/pu/vid/640x360/ifgrojAco-fMG8Pm.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1061759481149714432/pu/vid/320x180/Cl7JsXOK45nwFEwT.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1061759481149714432/pu/vid/1280x720/4omVLvJ8sqc-cZzW.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1061759481149714432/pu/pl/N5hZrmU5MMLfrtB2.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 854149007211241500,
+			"id_str": "854149007211241472",
+			"name": "Mr. Dang",
+			"screen_name": "8bitclassroom",
+			"location": "",
+			"description": "Mr. Brian Dang || Tweets about education, technology, and #PowerApps || PM on the PowerApps team @Microsoft || Views and opinions are my own",
+			"url": "https://t.co/10xywFBj7Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/10xywFBj7Y",
+							"expanded_url": "http://www.8bitclassroom.com",
+							"display_url": "8bitclassroom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1185,
+			"friends_count": 554,
+			"listed_count": 26,
+			"created_at": "Tue Apr 18 01:46:07 +0000 2017",
+			"favourites_count": 3558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2758,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059145797206331392/Va6bMMFv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059145797206331392/Va6bMMFv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/854149007211241472/1540185167",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was about two years ago that I discovered new ideas and resources on the #MSFTEduChat.\n\nAnd on Nov 20 10am PST, I will be one of the hosts on the topic of #ComputerScience and the #HourOfCode.\n\nJoin me in this international discussion. I'll definitely bring up #PowerApps! https://t.co/7gxawDm5On"
+	},
+	{
+		"created_at": "Mon Nov 12 17:22:16 +0000 2018",
+		"id": 1062032845982650400,
+		"id_str": "1062032845982650369",
+		"full_text": "What if there were a bunch of online sessions you could attend for free for a limited time to learn about one of the greatest apps for education/productivity use in the world, no travel required, oh wait, that sounds like the #LONC18 #OneNote conference https://t.co/81qZO1xdTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LONC18",
+					"indices": [
+						226,
+						233
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						234,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/81qZO1xdTQ",
+					"expanded_url": "https://learnonconference.com/",
+					"display_url": "learnonconference.com",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15348616,
+			"id_str": "15348616",
+			"name": "Tom Grissom",
+			"screen_name": "tomgrissom",
+			"location": "Illinois",
+			"description": "Educator, Thinker, Maker, Doer, Farmer, Ph.D. - Creator of NoteStreaming - #MIEExpert - Day Job: Growing Minds - Views my own",
+			"url": "http://t.co/BQMHLqzjG8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BQMHLqzjG8",
+							"expanded_url": "http://eiu.edu/itc",
+							"display_url": "eiu.edu/itc",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2701,
+			"friends_count": 2106,
+			"listed_count": 364,
+			"created_at": "Tue Jul 08 01:20:29 +0000 2008",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
 			"statuses_count": 22614,
 			"lang": "en",
 			"contributors_enabled": false,
