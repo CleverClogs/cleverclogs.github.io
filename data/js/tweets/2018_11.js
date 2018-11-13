@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 09 00:20:00 +0000 2018",
+		"id": 1060688418592710700,
+		"id_str": "1060688418592710656",
+		"full_text": "@khogue714 @mtholfsen @Microsoft @lesliefisher How about this tip! https://t.co/GxSEdSgyrh",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "khogue714",
+					"name": "Kandi Hogue",
+					"id": 4223089785,
+					"id_str": "4223089785",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"screen_name": "lesliefisher",
+					"name": "Leslie Fisher",
+					"id": 13651112,
+					"id_str": "13651112",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060688410858283000,
+					"id_str": "1060688410858283008",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DrhSfWqU4AA2IjR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrhSfWqU4AA2IjR.jpg",
+					"url": "https://t.co/GxSEdSgyrh",
+					"display_url": "pic.twitter.com/GxSEdSgyrh",
+					"expanded_url": "https://twitter.com/assistivetek/status/1060688418592710656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060688410858283000,
+					"id_str": "1060688410858283008",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DrhSfWqU4AA2IjR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrhSfWqU4AA2IjR.jpg",
+					"url": "https://t.co/GxSEdSgyrh",
+					"display_url": "pic.twitter.com/GxSEdSgyrh",
+					"expanded_url": "https://twitter.com/assistivetek/status/1060688418592710656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1060521291663454200,
+		"in_reply_to_status_id_str": "1060521291663454208",
+		"in_reply_to_user_id": 4223089785,
+		"in_reply_to_user_id_str": "4223089785",
+		"in_reply_to_screen_name": "khogue714",
+		"user": {
+			"id": 9037882,
+			"id_str": "9037882",
+			"name": "Brian S. Friedlander",
+			"screen_name": "assistivetek",
+			"location": "Long Valley, NJ",
+			"description": "School psychologist - expertise in assistive technology. Professor of Education at the College of St. Elizabeth.  Author of guide Amazon Alexa in the Classroom.",
+			"url": "https://t.co/gfyC587cZ1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gfyC587cZ1",
+							"expanded_url": "http://assistivetek.blogspot.com",
+							"display_url": "assistivetek.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4070,
+			"friends_count": 4946,
+			"listed_count": 324,
+			"created_at": "Sat Sep 22 20:22:32 +0000 2007",
+			"favourites_count": 5616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15996,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3343586115/98f9583c7f5f6e789a9d4857d713e606_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3343586115/98f9583c7f5f6e789a9d4857d713e606_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9037882/1538499704",
+			"profile_link_color": "ADA18A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "41505F",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00b7d4c60e8414bc",
+			"url": "https://api.twitter.com/1.1/geo/id/00b7d4c60e8414bc.json",
+			"place_type": "city",
+			"name": "Stephensburg",
+			"full_name": "Stephensburg, NJ",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.889894,
+							40.78641
+						],
+						[
+							-74.860413,
+							40.78641
+						],
+						[
+							-74.860413,
+							40.804554
+						],
+						[
+							-74.889894,
+							40.804554
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@khogue714 @mtholfsen @Microsoft @lesliefisher How about this tip! https://t.co/GxSEdSgyrh"
+	},
+	{
 		"created_at": "Mon Nov 12 23:17:10 +0000 2018",
 		"id": 1062122157956874200,
 		"id_str": "1062122157956874240",
