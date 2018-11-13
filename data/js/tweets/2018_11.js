@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 22:08:24 +0000 2018",
+		"id": 1062467239889326100,
+		"id_str": "1062467239889326081",
+		"full_text": "@Noteadviser @samuelmcneill @cleanrockz @Benminnn Would love me some #OneNote-induced recursive Droste Effect. Yes, you can look that up 💃.\n\nIn all seriousness, this of course would never happen. Firstly, embedding OneNote notebooks or pages doesn't seem feasible. Secondly, you can't embed a document that's currently open.",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			324
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						69,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Noteadviser",
+					"name": "Albin LABELLE",
+					"id": 4916034934,
+					"id_str": "4916034934",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "samuelmcneill",
+					"name": "Sam McNeill",
+					"id": 89340013,
+					"id_str": "89340013",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "cleanrockz",
+					"name": "Crispin Lockwood",
+					"id": 122088871,
+					"id_str": "122088871",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "Benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1062456070201921500,
+		"in_reply_to_status_id_str": "1062456070201921542",
+		"in_reply_to_user_id": 4916034934,
+		"in_reply_to_user_id_str": "4916034934",
+		"in_reply_to_screen_name": "Noteadviser",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19015,
+			"friends_count": 7095,
+			"listed_count": 589,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Noteadviser @samuelmcneill @cleanrockz @Benminnn Would love me some #OneNote-induced recursive Droste Effect. Yes, you can look that up 💃.\n\nIn all seriousness, this of course would never happen. Firstly, embedding OneNote notebooks or pages doesn't seem feasible. Secondly, you can't embed a document that's currently open."
+	},
+	{
+		"created_at": "Tue Nov 13 21:52:44 +0000 2018",
+		"id": 1062463296912142300,
+		"id_str": "1062463296912142337",
+		"full_text": "What a blast! At this week's Skype-a-Thon, so many educators are tweeting how thrilled their students are to connect with others globally.\n \nMagic, dynamic Twitter wall with #skypeathon tweets by @ShannonMMiller and many others:\nhttps://t.co/yTjPUuwed6\n#MicrosoftEDU #Skype2Learn https://t.co/RbziDgnr7z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "skypeathon",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						253,
+						266
+					]
+				},
+				{
+					"text": "Skype2Learn",
+					"indices": [
+						267,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shannonmmiller",
+					"name": "Shannon Miller",
+					"id": 18825537,
+					"id_str": "18825537",
+					"indices": [
+						196,
+						211
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yTjPUuwed6",
+					"expanded_url": "https://www.tweetbeam.com/show?id=GdRFq",
+					"display_url": "tweetbeam.com/show?id=GdRFq",
+					"indices": [
+						229,
+						252
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1062460864782106600,
+					"id_str": "1062460864782106630",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr6ehwEXgAYsvCg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr6ehwEXgAYsvCg.jpg",
+					"url": "https://t.co/RbziDgnr7z",
+					"display_url": "pic.twitter.com/RbziDgnr7z",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1062463296912142337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062460864782106600,
+					"id_str": "1062460864782106630",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr6ehwEXgAYsvCg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr6ehwEXgAYsvCg.jpg",
+					"url": "https://t.co/RbziDgnr7z",
+					"display_url": "pic.twitter.com/RbziDgnr7z",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1062463296912142337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19015,
+			"friends_count": 7095,
+			"listed_count": 589,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a blast! At this week's Skype-a-Thon, so many educators are tweeting how thrilled their students are to connect with others globally.\n \nMagic, dynamic Twitter wall with #skypeathon tweets by @ShannonMMiller and many others:\nhttps://t.co/yTjPUuwed6\n#MicrosoftEDU #Skype2Learn https://t.co/RbziDgnr7z"
+	},
+	{
 		"created_at": "Tue Nov 13 16:42:01 +0000 2018",
 		"id": 1062385105266716700,
 		"id_str": "1062385105266716672",
