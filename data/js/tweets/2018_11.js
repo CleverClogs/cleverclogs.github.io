@@ -1,6 +1,896 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 09:59:32 +0000 2018",
+		"id": 1062283815819927600,
+		"id_str": "1062283815819927553",
+		"full_text": "Okay, so we know Cloud File Attachments are coming to #OneNote – in fact, #WindowsInsiders have it already.\nNow, what does this all mean? What benefits does it bring? \n\nThat's where @SamuelMcNeill's story comes in. \nExcellent read, with video demo by Crispin Lockwood @cleanrockz https://t.co/K2q61yyy1m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "WindowsInsiders",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "samuelmcneill",
+					"name": "Sam McNeill",
+					"id": 89340013,
+					"id_str": "89340013",
+					"indices": [
+						182,
+						196
+					]
+				},
+				{
+					"screen_name": "cleanrockz",
+					"name": "Crispin Lockwood",
+					"id": 122088871,
+					"id_str": "122088871",
+					"indices": [
+						268,
+						279
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K2q61yyy1m",
+					"expanded_url": "https://twitter.com/samuelmcneill/status/1062203009864818688",
+					"display_url": "twitter.com/samuelmcneill/…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19018,
+			"friends_count": 7095,
+			"listed_count": 589,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24802,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062203009864818700,
+		"quoted_status_id_str": "1062203009864818688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K2q61yyy1m",
+			"expanded": "https://twitter.com/samuelmcneill/status/1062203009864818688",
+			"display": "twitter.com/samuelmcneill/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 13 04:38:26 +0000 2018",
+			"id": 1062203009864818700,
+			"id_str": "1062203009864818688",
+			"full_text": "Cloud Attachments In OneNote – Game Changer For Educators https://t.co/4L4qXFFdZO https://t.co/nRhXove15E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4L4qXFFdZO",
+						"expanded_url": "https://samuelmcneill.com/2018/11/13/cloud-attachments-in-onenote-game-changer-for-educators/",
+						"display_url": "samuelmcneill.com/2018/11/13/clo…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1062203006752514000,
+						"id_str": "1062203006752514055",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/Dr20AcDV4AcsO2h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dr20AcDV4AcsO2h.jpg",
+						"url": "https://t.co/nRhXove15E",
+						"display_url": "pic.twitter.com/nRhXove15E",
+						"expanded_url": "https://twitter.com/samuelmcneill/status/1062203009864818688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 999,
+								"h": 562,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 999,
+								"h": 562,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1062203006752514000,
+						"id_str": "1062203006752514055",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/Dr20AcDV4AcsO2h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dr20AcDV4AcsO2h.jpg",
+						"url": "https://t.co/nRhXove15E",
+						"display_url": "pic.twitter.com/nRhXove15E",
+						"expanded_url": "https://twitter.com/samuelmcneill/status/1062203009864818688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 999,
+								"h": 562,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 999,
+								"h": 562,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89340013,
+				"id_str": "89340013",
+				"name": "Sam McNeill",
+				"screen_name": "samuelmcneill",
+				"location": "New Zealand",
+				"description": "Education Solution Specialist with Microsoft. Former K-12 ICT Director.\nFollow my thoughts on ICT & Education at https://t.co/ABoeG2g1jp",
+				"url": "https://t.co/iqIexprOtV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iqIexprOtV",
+								"expanded_url": "http://www.samuelmcneill.com",
+								"display_url": "samuelmcneill.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ABoeG2g1jp",
+								"expanded_url": "http://concise.info/Tech_Ed",
+								"display_url": "concise.info/Tech_Ed",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2388,
+				"friends_count": 2381,
+				"listed_count": 248,
+				"created_at": "Thu Nov 12 01:34:27 +0000 2009",
+				"favourites_count": 4711,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11348,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970639354031849472/d6kGlJIK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970639354031849472/d6kGlJIK_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Okay, so we know Cloud File Attachments are coming to #OneNote – in fact, #WindowsInsiders have it already.\nNow, what does this all mean? What benefits does it bring? \n\nThat's where @SamuelMcNeill's story comes in. \nExcellent read, with video demo by Crispin Lockwood @cleanrockz https://t.co/K2q61yyy1m"
+	},
+	{
+		"created_at": "Tue Nov 13 22:58:29 +0000 2018",
+		"id": 1062479845643432000,
+		"id_str": "1062479845643431937",
+		"full_text": "Join #Lifeliqe webinar to learn how to engage students with #3D and #MicrosoftEDU #Office365 ➡️https://t.co/qHHy9Y2iFP 🌟 @TammyDunbar &amp; @ArcherJoe &amp; @ssnurssla take #OneNote + #PowerPoint + #MicrosoftTeams to the new level! @MicrosoftEDU #ARVRinEdu #MIEExpert",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lifeliqe",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "3D",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "Office365",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "PowerPoint",
+					"indices": [
+						184,
+						195
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						198,
+						213
+					]
+				},
+				{
+					"text": "ARVRinEdu",
+					"indices": [
+						246,
+						256
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						257,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TammyDunbar",
+					"name": "Tammy Dunbar, M.Ed.",
+					"id": 15911470,
+					"id_str": "15911470",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"screen_name": "ArcherJoe",
+					"name": "Joe Archer",
+					"id": 637050683,
+					"id_str": "637050683",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"screen_name": "ssnurssla",
+					"name": "Martin Bukacek",
+					"id": 170476320,
+					"id_str": "170476320",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						232,
+						245
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qHHy9Y2iFP",
+					"expanded_url": "http://bit.ly/2PWGHXl",
+					"display_url": "bit.ly/2PWGHXl",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3432845775,
+			"id_str": "3432845775",
+			"name": "Lifeliqe",
+			"screen_name": "Lifeliqe",
+			"location": "San Francisco, CA",
+			"description": "The first digital #STEM  curriculum that engages students with interactive 3D models. #NGSS and Common Core aligned. #AR, #VR and #Mixed reality enabled.",
+			"url": "https://t.co/pblbvV8kqH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pblbvV8kqH",
+							"expanded_url": "http://www.lifeliqe.com",
+							"display_url": "lifeliqe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2372,
+			"friends_count": 1990,
+			"listed_count": 279,
+			"created_at": "Thu Aug 20 15:07:13 +0000 2015",
+			"favourites_count": 5348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7377,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057654235167424512/IsjiISUa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057654235167424512/IsjiISUa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3432845775/1540894764",
+			"profile_link_color": "00A0F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join #Lifeliqe webinar to learn how to engage students with #3D and #MicrosoftEDU #Office365 ➡️https://t.co/qHHy9Y2iFP 🌟 @TammyDunbar &amp; @ArcherJoe &amp; @ssnurssla take #OneNote + #PowerPoint + #MicrosoftTeams to the new level! @MicrosoftEDU #ARVRinEdu #MIEExpert"
+	},
+	{
+		"created_at": "Tue Nov 13 23:36:46 +0000 2018",
+		"id": 1062489479955599400,
+		"id_str": "1062489479955599360",
+		"full_text": "Just in: the #MicrosoftWhiteboard team continually pushes out significant updates. \nHere's what's new in the iOS version, straight from the source.\n\nTake it away, @IanMikutel. https://t.co/IRTcTbhYJg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftWhiteboard",
+					"indices": [
+						13,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanMikutel",
+					"name": "Ian Mikutel",
+					"id": 2157421,
+					"id_str": "2157421",
+					"indices": [
+						163,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IRTcTbhYJg",
+					"expanded_url": "https://twitter.com/IanMikutel/status/1062471029656707072",
+					"display_url": "twitter.com/IanMikutel/sta…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19018,
+			"friends_count": 7095,
+			"listed_count": 589,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 27884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24802,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1062471029656707100,
+		"quoted_status_id_str": "1062471029656707072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IRTcTbhYJg",
+			"expanded": "https://twitter.com/IanMikutel/status/1062471029656707072",
+			"display": "twitter.com/IanMikutel/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 13 22:23:27 +0000 2018",
+			"id": 1062471029656707100,
+			"id_str": "1062471029656707072",
+			"full_text": "HUGE update for Microsoft Whiteboard for iOS today! \n\n🔒 Lock images to background\n✅ Accessibility Checker \n📝 Improved sticky note editing\n✍️ Hand drawn effect for tables &amp; shapes to impress your peers 😮 \n🌈 New loading animations\n😃Performance, usability &amp; bug fixes https://t.co/k4G0Qs1ePd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1062471011025604600,
+						"id_str": "1062471011025604609",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/Dr6nwVxU0AE7KEo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dr6nwVxU0AE7KEo.jpg",
+						"url": "https://t.co/k4G0Qs1ePd",
+						"display_url": "pic.twitter.com/k4G0Qs1ePd",
+						"expanded_url": "https://twitter.com/IanMikutel/status/1062471029656707072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1748,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 438,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 772,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1062471011025604600,
+						"id_str": "1062471011025604609",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/Dr6nwVxU0AE7KEo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dr6nwVxU0AE7KEo.jpg",
+						"url": "https://t.co/k4G0Qs1ePd",
+						"display_url": "pic.twitter.com/k4G0Qs1ePd",
+						"expanded_url": "https://twitter.com/IanMikutel/status/1062471029656707072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1748,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 438,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 772,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2157421,
+				"id_str": "2157421",
+				"name": "Ian Mikutel",
+				"screen_name": "IanMikutel",
+				"location": "Redmond, WA",
+				"description": "Sr Product Lead, Ink/AI/EDU @Microsoft Whiteboard. Host @TheBetterShow podcast 🎙. Investor - @ReadMeIO (YC W15), @SeeLaforge & @AmpleMeal. ❤️ food & fitness!",
+				"url": "https://t.co/NVlxG6E2NM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NVlxG6E2NM",
+								"expanded_url": "http://ianmik.com",
+								"display_url": "ianmik.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2215,
+				"friends_count": 1067,
+				"listed_count": 144,
+				"created_at": "Sun Mar 25 05:25:59 +0000 2007",
+				"favourites_count": 14607,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11608,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2157421/1404893964",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "df4875cc2df893ed",
+				"url": "https://api.twitter.com/1.1/geo/id/df4875cc2df893ed.json",
+				"place_type": "city",
+				"name": "Bellevue",
+				"full_name": "Bellevue, WA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.2232093,
+								47.5349648
+							],
+							[
+								-122.076327,
+								47.5349648
+							],
+							[
+								-122.076327,
+								47.660748
+							],
+							[
+								-122.2232093,
+								47.660748
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just in: the #MicrosoftWhiteboard team continually pushes out significant updates. \nHere's what's new in the iOS version, straight from the source.\n\nTake it away, @IanMikutel. https://t.co/IRTcTbhYJg"
+	},
+	{
 		"created_at": "Tue Nov 13 22:58:29 +0000 2018",
 		"id": 1062479845643432000,
 		"id_str": "1062479845643431937",
