@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 22:58:29 +0000 2018",
+		"id": 1062479845643432000,
+		"id_str": "1062479845643431937",
+		"full_text": "Join #Lifeliqe webinar to learn how to engage students with #3D and #MicrosoftEDU #Office365 ➡️https://t.co/qHHy9Y2iFP 🌟 @TammyDunbar &amp; @ArcherJoe &amp; @ssnurssla take #OneNote + #PowerPoint + #MicrosoftTeams to the new level! @MicrosoftEDU #ARVRinEdu #MIEExpert",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lifeliqe",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "3D",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"text": "Office365",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "PowerPoint",
+					"indices": [
+						184,
+						195
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						198,
+						213
+					]
+				},
+				{
+					"text": "ARVRinEdu",
+					"indices": [
+						246,
+						256
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						257,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TammyDunbar",
+					"name": "Tammy Dunbar, M.Ed.",
+					"id": 15911470,
+					"id_str": "15911470",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"screen_name": "ArcherJoe",
+					"name": "Joe Archer",
+					"id": 637050683,
+					"id_str": "637050683",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"screen_name": "ssnurssla",
+					"name": "Martin Bukacek",
+					"id": 170476320,
+					"id_str": "170476320",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						232,
+						245
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qHHy9Y2iFP",
+					"expanded_url": "http://bit.ly/2PWGHXl",
+					"display_url": "bit.ly/2PWGHXl",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3432845775,
+			"id_str": "3432845775",
+			"name": "Lifeliqe",
+			"screen_name": "Lifeliqe",
+			"location": "San Francisco, CA",
+			"description": "The first digital #STEM  curriculum that engages students with interactive 3D models. #NGSS and Common Core aligned. #AR, #VR and #Mixed reality enabled.",
+			"url": "https://t.co/pblbvV8kqH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pblbvV8kqH",
+							"expanded_url": "http://www.lifeliqe.com",
+							"display_url": "lifeliqe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2372,
+			"friends_count": 1990,
+			"listed_count": 279,
+			"created_at": "Thu Aug 20 15:07:13 +0000 2015",
+			"favourites_count": 5348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7377,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057654235167424512/IsjiISUa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057654235167424512/IsjiISUa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3432845775/1540894764",
+			"profile_link_color": "00A0F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join #Lifeliqe webinar to learn how to engage students with #3D and #MicrosoftEDU #Office365 ➡️https://t.co/qHHy9Y2iFP 🌟 @TammyDunbar &amp; @ArcherJoe &amp; @ssnurssla take #OneNote + #PowerPoint + #MicrosoftTeams to the new level! @MicrosoftEDU #ARVRinEdu #MIEExpert"
+	},
+	{
 		"created_at": "Tue Nov 13 23:36:46 +0000 2018",
 		"id": 1062489479955599400,
 		"id_str": "1062489479955599360",
