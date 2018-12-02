@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 02 18:49:35 +0000 2018",
+		"id": 1069302574627606500,
+		"id_str": "1069302574627606529",
+		"full_text": "\"On the second day of Christmas my OneNote sent to me, Replay and Rainbow Ink in a pear tree\"🎅🎄Counting down the days to #Christmas with an interactive Advent Calendar made in #OneNote #MicrosoftEdu #MIEExpert #EdTech #mfltwitterati #teacherlife @CVSTech 🤗@OneNoteEDU @OneNoteC https://t.co/MXG44Q87cp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Christmas",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						185,
+						198
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "EdTech",
+					"indices": [
+						210,
+						217
+					]
+				},
+				{
+					"text": "mfltwitterati",
+					"indices": [
+						218,
+						232
+					]
+				},
+				{
+					"text": "teacherlife",
+					"indices": [
+						233,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CVSTech",
+					"name": "CV Schools Tech Services",
+					"id": 34364580,
+					"id_str": "34364580",
+					"indices": [
+						246,
+						254
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						256,
+						267
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						268,
+						277
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1069299505844154400,
+					"id_str": "1069299505844154368",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1069299505844154368/pu/img/SDXi0niXfJHPWTyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1069299505844154368/pu/img/SDXi0niXfJHPWTyx.jpg",
+					"url": "https://t.co/MXG44Q87cp",
+					"display_url": "pic.twitter.com/MXG44Q87cp",
+					"expanded_url": "https://twitter.com/MissGEnrique/status/1069302574627606529/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 616,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 349,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1402,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069299505844154400,
+					"id_str": "1069299505844154368",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1069299505844154368/pu/img/SDXi0niXfJHPWTyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1069299505844154368/pu/img/SDXi0niXfJHPWTyx.jpg",
+					"url": "https://t.co/MXG44Q87cp",
+					"display_url": "pic.twitter.com/MXG44Q87cp",
+					"expanded_url": "https://twitter.com/MissGEnrique/status/1069302574627606529/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 616,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 349,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1402,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							701,
+							360
+						],
+						"duration_millis": 21473,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1069299505844154368/pu/vid/700x360/CuUac-HD2zrk_3lE.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1069299505844154368/pu/vid/350x180/EjGCudZzGR0EqlOP.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1069299505844154368/pu/vid/1402x720/UsnHDNDRtkdUU42N.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1069299505844154368/pu/pl/oeU2UJpA04bYEhV7.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4120721403,
+			"id_str": "4120721403",
+			"name": "Gloria Enrique",
+			"screen_name": "MissGEnrique",
+			"location": "",
+			"description": "Spanish & I.T. Teacher | #MIEExpert | #MIEFellow | #MIE Master Trainer| FlipGrid Ambassador | #SkypeMT | #TeachSDGs #edtech #OneNote #FlipgridFever 😊",
+			"url": "https://t.co/GOLWRWoUDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GOLWRWoUDG",
+							"expanded_url": "https://www.linkedin.com/in/gloria-enrique-655804124",
+							"display_url": "linkedin.com/in/gloria-enri…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9538,
+			"friends_count": 8496,
+			"listed_count": 496,
+			"created_at": "Thu Nov 05 17:14:25 +0000 2015",
+			"favourites_count": 20525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17197,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064136963215814657/gjgIIB_v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064136963215814657/gjgIIB_v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4120721403/1521374831",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"On the second day of Christmas my OneNote sent to me, Replay and Rainbow Ink in a pear tree\"🎅🎄Counting down the days to #Christmas with an interactive Advent Calendar made in #OneNote #MicrosoftEdu #MIEExpert #EdTech #mfltwitterati #teacherlife @CVSTech 🤗@OneNoteEDU @OneNoteC https://t.co/MXG44Q87cp"
+	},
+	{
 		"created_at": "Sun Dec 02 13:44:52 +0000 2018",
 		"id": 1069225890687713300,
 		"id_str": "1069225890687713281",
