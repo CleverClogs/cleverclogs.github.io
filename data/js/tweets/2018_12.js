@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 01 13:46:54 +0000 2018",
+		"id": 1068864015462555600,
+		"id_str": "1068864015462555648",
+		"full_text": "My school is a Google school, but I just joined the #MicrosoftEDU community and am excited to complete some online courses there. I am blown away by what @MicrosoftEDU is doing and the global reach and connectivity it has fostered. https://t.co/KETxreTHG1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						52,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						154,
+						167
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1068864007136792600,
+					"id_str": "1068864007136792577",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/DtVeJsKW0AETFoV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtVeJsKW0AETFoV.jpg",
+					"url": "https://t.co/KETxreTHG1",
+					"display_url": "pic.twitter.com/KETxreTHG1",
+					"expanded_url": "https://twitter.com/LFlemingEDU/status/1068864015462555648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 344,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 344,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068864007136792600,
+					"id_str": "1068864007136792577",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/DtVeJsKW0AETFoV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtVeJsKW0AETFoV.jpg",
+					"url": "https://t.co/KETxreTHG1",
+					"display_url": "pic.twitter.com/KETxreTHG1",
+					"expanded_url": "https://twitter.com/LFlemingEDU/status/1068864015462555648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 344,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 344,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1647650990,
+			"id_str": "1647650990",
+			"name": "Laura Fleming",
+			"screen_name": "LFlemingEDU",
+			"location": "Oakland, NJ",
+			"description": "Author #worldsofmaking, #makingGREATmakerspaces, #MakerspacesAtoZ, Adjunct Professor, @RutgersCESP, @handsoncoding, The World is Your Platform, #transmedia 🚀✨",
+			"url": "https://t.co/beTakVdTYO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/beTakVdTYO",
+							"expanded_url": "http://worldsofmaking.com",
+							"display_url": "worldsofmaking.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23268,
+			"friends_count": 5638,
+			"listed_count": 1165,
+			"created_at": "Mon Aug 05 12:06:01 +0000 2013",
+			"favourites_count": 105194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41017,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026943806686547969/kZXpq2sy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026943806686547969/kZXpq2sy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1647650990/1533585400",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My school is a Google school, but I just joined the #MicrosoftEDU community and am excited to complete some online courses there. I am blown away by what @MicrosoftEDU is doing and the global reach and connectivity it has fostered. https://t.co/KETxreTHG1"
+	},
+	{
 		"created_at": "Sun Dec 02 19:44:50 +0000 2018",
 		"id": 1069316481480122400,
 		"id_str": "1069316481480122368",
