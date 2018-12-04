@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 04 17:30:11 +0000 2018",
+		"id": 1070007370221158400,
+		"id_str": "1070007370221158401",
+		"full_text": "NEW! \"Copy Text from Picture\" is now more obviosuly named on the #OneNote app context menu.  Right click and extract the OCR'ed text from picture #edtech #mieexpert #edchat #dyslexia #accessibility #MicrosoftEDU https://t.co/55XiOZ5Jsk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "dyslexia",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						183,
+						197
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						198,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1070007029492674600,
+					"id_str": "1070007029492674560",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DtltuWQU8AAxz2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtltuWQU8AAxz2B.jpg",
+					"url": "https://t.co/55XiOZ5Jsk",
+					"display_url": "pic.twitter.com/55XiOZ5Jsk",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1070007370221158401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 823,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070007029492674600,
+					"id_str": "1070007029492674560",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DtltuWQU8AAxz2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtltuWQU8AAxz2B.jpg",
+					"url": "https://t.co/55XiOZ5Jsk",
+					"display_url": "pic.twitter.com/55XiOZ5Jsk",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1070007370221158401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 823,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15151,
+			"friends_count": 2703,
+			"listed_count": 694,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 46697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25051,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! \"Copy Text from Picture\" is now more obviosuly named on the #OneNote app context menu.  Right click and extract the OCR'ed text from picture #edtech #mieexpert #edchat #dyslexia #accessibility #MicrosoftEDU https://t.co/55XiOZ5Jsk"
+	},
+	{
 		"created_at": "Tue Dec 04 15:31:43 +0000 2018",
 		"id": 1069977556441546800,
 		"id_str": "1069977556441546752",
