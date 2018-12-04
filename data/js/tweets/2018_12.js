@@ -1,6 +1,560 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 04 19:17:55 +0000 2018",
+		"id": 1070034483477397500,
+		"id_str": "1070034483477397504",
+		"full_text": "@CatherineNakab2 @zelfstudie @MicrosoftEDU @OneNoteEDU @MissGEnrique @mtholfsen @tceamg @m_drez @TammyDunbar @karinam60 @ArcherJoe How to join a TweetMeet:\n1 Read #MicrosoftEDU blog next week. Previous posts: \nhttps://t.co/ZVcRaTvE4C\n2 Search in TweetDeck for #MSFTEduChat\n3 On Tue December 18 at 9pm EAT, @MicrosoftEDU and @TweetMeet will post questions\n4 Retweet question and post your answer in a comment https://t.co/tLGeEnnZod",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			407
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						163,
+						176
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						260,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatherineNakab2",
+					"name": "Catherine Nakabugo",
+					"id": 913850039939878900,
+					"id_str": "913850039939878912",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"screen_name": "MissGEnrique",
+					"name": "Gloria Enrique",
+					"id": 4120721403,
+					"id_str": "4120721403",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"screen_name": "tceamg",
+					"name": "Juan Miguel Guhlin",
+					"id": 708878892132540400,
+					"id_str": "708878892132540416",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"screen_name": "m_drez",
+					"name": "𝕄𝕚𝕔𝕙𝕒𝕖𝕝 𝔻𝕣𝕖𝕫𝕖𝕜",
+					"id": 464206869,
+					"id_str": "464206869",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"screen_name": "TammyDunbar",
+					"name": "Tammy Dunbar, M.Ed.",
+					"id": 15911470,
+					"id_str": "15911470",
+					"indices": [
+						96,
+						108
+					]
+				},
+				{
+					"screen_name": "karinam60",
+					"name": "Karina Batat #MSFTEduChat",
+					"id": 66782856,
+					"id_str": "66782856",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"screen_name": "ArcherJoe",
+					"name": "Joe Archer",
+					"id": 637050683,
+					"id_str": "637050683",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						306,
+						319
+					]
+				},
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						324,
+						334
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZVcRaTvE4C",
+					"expanded_url": "http://educationblog.microsoft.com/tag/tweetmeet",
+					"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1070034425860276200,
+					"id_str": "1070034425860276224",
+					"indices": [
+						408,
+						431
+					],
+					"media_url": "http://pbs.twimg.com/media/DtmGpBrXQAAyas0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtmGpBrXQAAyas0.jpg",
+					"url": "https://t.co/tLGeEnnZod",
+					"display_url": "pic.twitter.com/tLGeEnnZod",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1070034483477397504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1392,
+							"h": 786,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070034425860276200,
+					"id_str": "1070034425860276224",
+					"indices": [
+						408,
+						431
+					],
+					"media_url": "http://pbs.twimg.com/media/DtmGpBrXQAAyas0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtmGpBrXQAAyas0.jpg",
+					"url": "https://t.co/tLGeEnnZod",
+					"display_url": "pic.twitter.com/tLGeEnnZod",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1070034483477397504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1392,
+							"h": 786,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070030399546552300,
+		"in_reply_to_status_id_str": "1070030399546552320",
+		"in_reply_to_user_id": 913850039939878900,
+		"in_reply_to_user_id_str": "913850039939878912",
+		"in_reply_to_screen_name": "CatherineNakab2",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19273,
+			"friends_count": 7151,
+			"listed_count": 594,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CatherineNakab2 @zelfstudie @MicrosoftEDU @OneNoteEDU @MissGEnrique @mtholfsen @tceamg @m_drez @TammyDunbar @karinam60 @ArcherJoe How to join a TweetMeet:\n1 Read #MicrosoftEDU blog next week. Previous posts: \nhttps://t.co/ZVcRaTvE4C\n2 Search in TweetDeck for #MSFTEduChat\n3 On Tue December 18 at 9pm EAT, @MicrosoftEDU and @TweetMeet will post questions\n4 Retweet question and post your answer in a comment https://t.co/tLGeEnnZod"
+	},
+	{
+		"created_at": "Tue Dec 04 17:30:11 +0000 2018",
+		"id": 1070007370221158400,
+		"id_str": "1070007370221158401",
+		"full_text": "NEW! \"Copy Text from Picture\" is now more obviosuly named on the #OneNote app context menu.  Right click and extract the OCR'ed text from picture #edtech #mieexpert #edchat #dyslexia #accessibility #MicrosoftEDU https://t.co/55XiOZ5Jsk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "dyslexia",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						183,
+						197
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						198,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1070007029492674600,
+					"id_str": "1070007029492674560",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DtltuWQU8AAxz2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtltuWQU8AAxz2B.jpg",
+					"url": "https://t.co/55XiOZ5Jsk",
+					"display_url": "pic.twitter.com/55XiOZ5Jsk",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1070007370221158401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 823,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070007029492674600,
+					"id_str": "1070007029492674560",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/DtltuWQU8AAxz2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtltuWQU8AAxz2B.jpg",
+					"url": "https://t.co/55XiOZ5Jsk",
+					"display_url": "pic.twitter.com/55XiOZ5Jsk",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1070007370221158401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 823,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15152,
+			"friends_count": 2703,
+			"listed_count": 694,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 46697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25051,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! \"Copy Text from Picture\" is now more obviosuly named on the #OneNote app context menu.  Right click and extract the OCR'ed text from picture #edtech #mieexpert #edchat #dyslexia #accessibility #MicrosoftEDU https://t.co/55XiOZ5Jsk"
+	},
+	{
 		"created_at": "Tue Dec 04 17:30:11 +0000 2018",
 		"id": 1070007370221158400,
 		"id_str": "1070007370221158401",
