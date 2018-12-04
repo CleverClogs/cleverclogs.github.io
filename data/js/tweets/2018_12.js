@@ -135,6 +135,345 @@ Grailbird.data.tweets_2018_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 7,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s how I use Microsoft OneNote as my digital planner. #MIEExpert @msonenote #OneNote \n\nhttps://t.co/5MKCH5nHLF"
+	},
+	{
+		"created_at": "Mon Dec 03 22:52:36 +0000 2018",
+		"id": 1069726122299064300,
+		"id_str": "1069726122299064322",
+		"full_text": "@LFlemingEDU @OneNoteEDU @MicrosoftEDU Yes for sure I saw it. Delighted to welcome you, Laura.\nOver time you may also come across #FlipgridFever, #MicrosoftTeams, #Microsoft #LearningTools, #SkypeClassroom and #skypeathon, #MinecraftEdu, #HackingSTEM, #MicrosoftWhiteboard and more.\nOh and the #MSFTEduChat TweetMeets!",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			318
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						130,
+						144
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						146,
+						161
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "LearningTools",
+					"indices": [
+						174,
+						188
+					]
+				},
+				{
+					"text": "SkypeClassroom",
+					"indices": [
+						190,
+						205
+					]
+				},
+				{
+					"text": "skypeathon",
+					"indices": [
+						210,
+						221
+					]
+				},
+				{
+					"text": "MinecraftEdu",
+					"indices": [
+						223,
+						236
+					]
+				},
+				{
+					"text": "HackingSTEM",
+					"indices": [
+						238,
+						250
+					]
+				},
+				{
+					"text": "MicrosoftWhiteboard",
+					"indices": [
+						252,
+						272
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						294,
+						306
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LFlemingEDU",
+					"name": "Laura Fleming",
+					"id": 1647650990,
+					"id_str": "1647650990",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						25,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1069722839413076000,
+		"in_reply_to_status_id_str": "1069722839413075968",
+		"in_reply_to_user_id": 1647650990,
+		"in_reply_to_user_id_str": "1647650990",
+		"in_reply_to_screen_name": "LFlemingEDU",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19261,
+			"friends_count": 7148,
+			"listed_count": 594,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24949,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LFlemingEDU @OneNoteEDU @MicrosoftEDU Yes for sure I saw it. Delighted to welcome you, Laura.\nOver time you may also come across #FlipgridFever, #MicrosoftTeams, #Microsoft #LearningTools, #SkypeClassroom and #skypeathon, #MinecraftEdu, #HackingSTEM, #MicrosoftWhiteboard and more.\nOh and the #MSFTEduChat TweetMeets!"
+	},
+	{
+		"created_at": "Mon Dec 03 20:31:52 +0000 2018",
+		"id": 1069690705000493000,
+		"id_str": "1069690705000493057",
+		"full_text": "Here’s how I use Microsoft OneNote as my digital planner. #MIEExpert @msonenote #OneNote \n\nhttps://t.co/5MKCH5nHLF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						80,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						69,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5MKCH5nHLF",
+					"expanded_url": "https://mrallanmaths.wordpress.com/2018/12/03/using-onenote-as-a-planner-a-few-years-on/",
+					"display_url": "mrallanmaths.wordpress.com/2018/12/03/usi…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1156785420,
+			"id_str": "1156785420",
+			"name": "Mr Allan",
+			"screen_name": "mrallanmaths",
+			"location": "Fife",
+			"description": "Mathematics Teacher in a secondary school in Scotland. #MIEExpert Check out my maths OneNote at https://t.co/VCs8MkTIDl",
+			"url": "https://t.co/QkojLQOgIN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QkojLQOgIN",
+							"expanded_url": "http://mrallanmaths.wordpress.com",
+							"display_url": "mrallanmaths.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VCs8MkTIDl",
+							"expanded_url": "http://bit.ly/MathsOneNoteTeachers",
+							"display_url": "bit.ly/MathsOneNoteTe…",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2002,
+			"friends_count": 1490,
+			"listed_count": 77,
+			"created_at": "Thu Feb 07 10:56:38 +0000 2013",
+			"favourites_count": 4848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6524,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866763623397511169/wWfG9lAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866763623397511169/wWfG9lAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1156785420/1494699514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
 		"favorite_count": 22,
 		"favorited": false,
 		"retweeted": true,
