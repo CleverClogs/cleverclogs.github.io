@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 04 12:26:42 +0000 2018",
+		"id": 1069930998169829400,
+		"id_str": "1069930998169829376",
+		"full_text": "How many of these fine #MSFTEduChat TweetMeet hosts below do you recognize? What about their Twitter account names?\n\nWe've added all 143 of them to this Twitter list so that you can easily follow everyone:\nhttps://t.co/EYqjvCA1wj\n\nJoin us Tuesday Dec 18.\n\nThank you, @zelfstudie! https://t.co/9ilstA66fC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						267,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EYqjvCA1wj",
+					"expanded_url": "https://twitter.com/TweetMeet/lists/msfteduchat-2018-12/members",
+					"display_url": "twitter.com/TweetMeet/list…",
+					"indices": [
+						206,
+						229
+					]
+				},
+				{
+					"url": "https://t.co/9ilstA66fC",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1069900788158341120",
+					"display_url": "twitter.com/zelfstudie/sta…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19265,
+			"friends_count": 7149,
+			"listed_count": 594,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24954,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1069900788158341100,
+		"quoted_status_id_str": "1069900788158341120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9ilstA66fC",
+			"expanded": "https://twitter.com/zelfstudie/status/1069900788158341120",
+			"display": "twitter.com/zelfstudie/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 04 10:26:40 +0000 2018",
+			"id": 1069900788158341100,
+			"id_str": "1069900788158341120",
+			"full_text": "Will you join our #TweetMeet on Dec 18? Topic: Best of 2018. #MSFTEduChat #MIEExpert #edtech https://t.co/1BovPi8euB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TweetMeet",
+						"indices": [
+							18,
+							28
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							61,
+							73
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							74,
+							84
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							85,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1069900777748119600,
+						"id_str": "1069900777748119552",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DtkNFrqXQAAZ9zz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtkNFrqXQAAZ9zz.jpg",
+						"url": "https://t.co/1BovPi8euB",
+						"display_url": "pic.twitter.com/1BovPi8euB",
+						"expanded_url": "https://twitter.com/zelfstudie/status/1069900788158341120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1069900777748119600,
+						"id_str": "1069900777748119552",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DtkNFrqXQAAZ9zz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtkNFrqXQAAZ9zz.jpg",
+						"url": "https://t.co/1BovPi8euB",
+						"display_url": "pic.twitter.com/1BovPi8euB",
+						"expanded_url": "https://twitter.com/zelfstudie/status/1069900788158341120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149593681,
+				"id_str": "149593681",
+				"name": "Koen Timmers",
+				"screen_name": "zelfstudie",
+				"location": "Belgium",
+				"description": "Author | Speaker | Lecturer | @TeacherPrize Top10 17/18 | Founder https://t.co/sQfH7MJ819 & @SDGlabschools | #MIEexpert | @NatGeo Educator | ♡ #EdTech #Sdgs",
+				"url": "https://t.co/CMArT0rZSU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CMArT0rZSU",
+								"expanded_url": "http://www.timmers.me",
+								"display_url": "timmers.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sQfH7MJ819",
+								"expanded_url": "http://ProjectKakuma.com",
+								"display_url": "ProjectKakuma.com",
+								"indices": [
+									66,
+									89
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9751,
+				"friends_count": 7553,
+				"listed_count": 391,
+				"created_at": "Sat May 29 17:52:29 +0000 2010",
+				"favourites_count": 18358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8948,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D0D0D0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1512550696",
+				"profile_link_color": "D9650D",
+				"profile_sidebar_border_color": "0D0202",
+				"profile_sidebar_fill_color": "EDA426",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "86592634e53a5e3f",
+				"url": "https://api.twitter.com/1.1/geo/id/86592634e53a5e3f.json",
+				"place_type": "city",
+				"name": "Hasselt",
+				"full_name": "Hasselt, Belgium",
+				"country_code": "BE",
+				"country": "Belgium",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								5.2121062,
+								50.8677279
+							],
+							[
+								5.4145591,
+								50.8677279
+							],
+							[
+								5.4145591,
+								50.9815265
+							],
+							[
+								5.2121062,
+								50.9815265
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How many of these fine #MSFTEduChat TweetMeet hosts below do you recognize? What about their Twitter account names?\n\nWe've added all 143 of them to this Twitter list so that you can easily follow everyone:\nhttps://t.co/EYqjvCA1wj\n\nJoin us Tuesday Dec 18.\n\nThank you, @zelfstudie! https://t.co/9ilstA66fC"
+	},
+	{
 		"created_at": "Tue Dec 04 10:34:59 +0000 2018",
 		"id": 1069902880390475800,
 		"id_str": "1069902880390475776",
