@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 03 23:32:29 +0000 2018",
+		"id": 1069736159662800900,
+		"id_str": "1069736159662800896",
+		"full_text": "It is critical that we empower the next generation with the skills they need to thrive in the digital economy. This #CSEdWeek, I'm proud to announce @Microsoft's additional $10 million commitment to help @codeorg by 2020. @melindagates @hadip @jakebask https://t.co/siZGwJtFa2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CSEdWeek",
+					"indices": [
+						116,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"screen_name": "codeorg",
+					"name": "Code.org",
+					"id": 850107536,
+					"id_str": "850107536",
+					"indices": [
+						204,
+						212
+					]
+				},
+				{
+					"screen_name": "melindagates",
+					"name": "Melinda Gates",
+					"id": 161801527,
+					"id_str": "161801527",
+					"indices": [
+						222,
+						235
+					]
+				},
+				{
+					"screen_name": "hadip",
+					"name": "Hadi Partovi",
+					"id": 14130408,
+					"id_str": "14130408",
+					"indices": [
+						236,
+						242
+					]
+				},
+				{
+					"screen_name": "jakebask",
+					"name": "Jake Baskin",
+					"id": 218231846,
+					"id_str": "218231846",
+					"indices": [
+						243,
+						252
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1069736153425870800,
+					"id_str": "1069736153425870848",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Dth3XSRXgAAuTaO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dth3XSRXgAAuTaO.jpg",
+					"url": "https://t.co/siZGwJtFa2",
+					"display_url": "pic.twitter.com/siZGwJtFa2",
+					"expanded_url": "https://twitter.com/BradSmi/status/1069736159662800896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069736153425870800,
+					"id_str": "1069736153425870848",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Dth3XSRXgAAuTaO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dth3XSRXgAAuTaO.jpg",
+					"url": "https://t.co/siZGwJtFa2",
+					"display_url": "pic.twitter.com/siZGwJtFa2",
+					"expanded_url": "https://twitter.com/BradSmi/status/1069736159662800896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod1</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14505546,
+			"id_str": "14505546",
+			"name": "Brad Smith",
+			"screen_name": "BradSmi",
+			"location": "Redmond, Washington",
+			"description": "Microsoft President",
+			"url": "https://t.co/S9zRLBHMo9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S9zRLBHMo9",
+							"expanded_url": "http://news.microsoft.com/exec/brad-smith/",
+							"display_url": "news.microsoft.com/exec/brad-smit…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32381,
+			"friends_count": 622,
+			"listed_count": 805,
+			"created_at": "Thu Apr 24 02:48:26 +0000 2008",
+			"favourites_count": 887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2381,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675796491571560448/0EoCkMRa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675796491571560448/0EoCkMRa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14505546/1490648500",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is critical that we empower the next generation with the skills they need to thrive in the digital economy. This #CSEdWeek, I'm proud to announce @Microsoft's additional $10 million commitment to help @codeorg by 2020. @melindagates @hadip @jakebask https://t.co/siZGwJtFa2"
+	},
+	{
 		"created_at": "Tue Dec 04 12:26:42 +0000 2018",
 		"id": 1069930998169829400,
 		"id_str": "1069930998169829376",
