@@ -1,6 +1,1329 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 04 14:42:11 +0000 2018",
+		"id": 1069965093708927000,
+		"id_str": "1069965093708926982",
+		"full_text": "@saraellisa @msonenote Hi Sara, \nOn what type of device and using which #OneNote program are you getting this error message? \n\nWhat happens if you sign in to OneNote from a web browser? Do you see your notes there?",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saraellisa",
+					"name": "Sara Elisa Lowe",
+					"id": 22034524,
+					"id_str": "22034524",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1069960323938046000,
+		"in_reply_to_status_id_str": "1069960323938045953",
+		"in_reply_to_user_id": 22034524,
+		"in_reply_to_user_id_str": "22034524",
+		"in_reply_to_screen_name": "saraellisa",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19269,
+			"friends_count": 7150,
+			"listed_count": 595,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@saraellisa @msonenote Hi Sara, \nOn what type of device and using which #OneNote program are you getting this error message? \n\nWhat happens if you sign in to OneNote from a web browser? Do you see your notes there?"
+	},
+	{
+		"created_at": "Mon Dec 03 23:32:29 +0000 2018",
+		"id": 1069736159662800900,
+		"id_str": "1069736159662800896",
+		"full_text": "It is critical that we empower the next generation with the skills they need to thrive in the digital economy. This #CSEdWeek, I'm proud to announce @Microsoft's additional $10 million commitment to help @codeorg by 2020. @melindagates @hadip @jakebask https://t.co/siZGwJtFa2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CSEdWeek",
+					"indices": [
+						116,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"screen_name": "codeorg",
+					"name": "Code.org",
+					"id": 850107536,
+					"id_str": "850107536",
+					"indices": [
+						204,
+						212
+					]
+				},
+				{
+					"screen_name": "melindagates",
+					"name": "Melinda Gates",
+					"id": 161801527,
+					"id_str": "161801527",
+					"indices": [
+						222,
+						235
+					]
+				},
+				{
+					"screen_name": "hadip",
+					"name": "Hadi Partovi",
+					"id": 14130408,
+					"id_str": "14130408",
+					"indices": [
+						236,
+						242
+					]
+				},
+				{
+					"screen_name": "jakebask",
+					"name": "Jake Baskin",
+					"id": 218231846,
+					"id_str": "218231846",
+					"indices": [
+						243,
+						252
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1069736153425870800,
+					"id_str": "1069736153425870848",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Dth3XSRXgAAuTaO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dth3XSRXgAAuTaO.jpg",
+					"url": "https://t.co/siZGwJtFa2",
+					"display_url": "pic.twitter.com/siZGwJtFa2",
+					"expanded_url": "https://twitter.com/BradSmi/status/1069736159662800896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069736153425870800,
+					"id_str": "1069736153425870848",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/Dth3XSRXgAAuTaO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dth3XSRXgAAuTaO.jpg",
+					"url": "https://t.co/siZGwJtFa2",
+					"display_url": "pic.twitter.com/siZGwJtFa2",
+					"expanded_url": "https://twitter.com/BradSmi/status/1069736159662800896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod1</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14505546,
+			"id_str": "14505546",
+			"name": "Brad Smith",
+			"screen_name": "BradSmi",
+			"location": "Redmond, Washington",
+			"description": "Microsoft President",
+			"url": "https://t.co/S9zRLBHMo9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S9zRLBHMo9",
+							"expanded_url": "http://news.microsoft.com/exec/brad-smith/",
+							"display_url": "news.microsoft.com/exec/brad-smit…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32382,
+			"friends_count": 622,
+			"listed_count": 805,
+			"created_at": "Thu Apr 24 02:48:26 +0000 2008",
+			"favourites_count": 887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2381,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675796491571560448/0EoCkMRa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675796491571560448/0EoCkMRa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14505546/1490648500",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is critical that we empower the next generation with the skills they need to thrive in the digital economy. This #CSEdWeek, I'm proud to announce @Microsoft's additional $10 million commitment to help @codeorg by 2020. @melindagates @hadip @jakebask https://t.co/siZGwJtFa2"
+	},
+	{
+		"created_at": "Tue Dec 04 12:26:42 +0000 2018",
+		"id": 1069930998169829400,
+		"id_str": "1069930998169829376",
+		"full_text": "How many of these fine #MSFTEduChat TweetMeet hosts below do you recognize? What about their Twitter account names?\n\nWe've added all 143 of them to this Twitter list so that you can easily follow everyone:\nhttps://t.co/EYqjvCA1wj\n\nJoin us Tuesday Dec 18.\n\nThank you, @zelfstudie! https://t.co/9ilstA66fC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						267,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EYqjvCA1wj",
+					"expanded_url": "https://twitter.com/TweetMeet/lists/msfteduchat-2018-12/members",
+					"display_url": "twitter.com/TweetMeet/list…",
+					"indices": [
+						206,
+						229
+					]
+				},
+				{
+					"url": "https://t.co/9ilstA66fC",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1069900788158341120",
+					"display_url": "twitter.com/zelfstudie/sta…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19269,
+			"friends_count": 7150,
+			"listed_count": 595,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1069900788158341100,
+		"quoted_status_id_str": "1069900788158341120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9ilstA66fC",
+			"expanded": "https://twitter.com/zelfstudie/status/1069900788158341120",
+			"display": "twitter.com/zelfstudie/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 04 10:26:40 +0000 2018",
+			"id": 1069900788158341100,
+			"id_str": "1069900788158341120",
+			"full_text": "Will you join our #TweetMeet on Dec 18? Topic: Best of 2018. #MSFTEduChat #MIEExpert #edtech https://t.co/1BovPi8euB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TweetMeet",
+						"indices": [
+							18,
+							28
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							61,
+							73
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							74,
+							84
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							85,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1069900777748119600,
+						"id_str": "1069900777748119552",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DtkNFrqXQAAZ9zz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtkNFrqXQAAZ9zz.jpg",
+						"url": "https://t.co/1BovPi8euB",
+						"display_url": "pic.twitter.com/1BovPi8euB",
+						"expanded_url": "https://twitter.com/zelfstudie/status/1069900788158341120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1069900777748119600,
+						"id_str": "1069900777748119552",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DtkNFrqXQAAZ9zz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtkNFrqXQAAZ9zz.jpg",
+						"url": "https://t.co/1BovPi8euB",
+						"display_url": "pic.twitter.com/1BovPi8euB",
+						"expanded_url": "https://twitter.com/zelfstudie/status/1069900788158341120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149593681,
+				"id_str": "149593681",
+				"name": "Koen Timmers",
+				"screen_name": "zelfstudie",
+				"location": "Belgium",
+				"description": "Author | Speaker | Lecturer | @TeacherPrize Top10 17/18 | Founder https://t.co/sQfH7MJ819 & @SDGlabschools | #MIEexpert | @NatGeo Educator | ♡ #EdTech #Sdgs",
+				"url": "https://t.co/CMArT0rZSU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CMArT0rZSU",
+								"expanded_url": "http://www.timmers.me",
+								"display_url": "timmers.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sQfH7MJ819",
+								"expanded_url": "http://ProjectKakuma.com",
+								"display_url": "ProjectKakuma.com",
+								"indices": [
+									66,
+									89
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9754,
+				"friends_count": 7564,
+				"listed_count": 391,
+				"created_at": "Sat May 29 17:52:29 +0000 2010",
+				"favourites_count": 18364,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8948,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D0D0D0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1512550696",
+				"profile_link_color": "D9650D",
+				"profile_sidebar_border_color": "0D0202",
+				"profile_sidebar_fill_color": "EDA426",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "86592634e53a5e3f",
+				"url": "https://api.twitter.com/1.1/geo/id/86592634e53a5e3f.json",
+				"place_type": "city",
+				"name": "Hasselt",
+				"full_name": "Hasselt, Belgium",
+				"country_code": "BE",
+				"country": "Belgium",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								5.2121062,
+								50.8677279
+							],
+							[
+								5.4145591,
+								50.8677279
+							],
+							[
+								5.4145591,
+								50.9815265
+							],
+							[
+								5.2121062,
+								50.9815265
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How many of these fine #MSFTEduChat TweetMeet hosts below do you recognize? What about their Twitter account names?\n\nWe've added all 143 of them to this Twitter list so that you can easily follow everyone:\nhttps://t.co/EYqjvCA1wj\n\nJoin us Tuesday Dec 18.\n\nThank you, @zelfstudie! https://t.co/9ilstA66fC"
+	},
+	{
+		"created_at": "Tue Dec 04 10:34:59 +0000 2018",
+		"id": 1069902880390475800,
+		"id_str": "1069902880390475776",
+		"full_text": "@ComfortDisturb @anfield1974 Hi Courtney, \nI want to be sure I understand what you need. Can you send me a Twitter DM? \n\nhttps://t.co/JDiN4Rq21j",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ComfortDisturb",
+					"name": "Courtney",
+					"id": 858245726668603400,
+					"id_str": "858245726668603393",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "anfield1974",
+					"name": "Steve Crapnell",
+					"id": 158195502,
+					"id_str": "158195502",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JDiN4Rq21j",
+					"expanded_url": "https://twitter.com/messages/compose?recipient_id=2582768738",
+					"display_url": "twitter.com/messages/compo…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1069897103281872900,
+		"in_reply_to_status_id_str": "1069897103281872896",
+		"in_reply_to_user_id": 858245726668603400,
+		"in_reply_to_user_id_str": "858245726668603393",
+		"in_reply_to_screen_name": "ComfortDisturb",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19269,
+			"friends_count": 7150,
+			"listed_count": 595,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ComfortDisturb @anfield1974 Hi Courtney, \nI want to be sure I understand what you need. Can you send me a Twitter DM? \n\nhttps://t.co/JDiN4Rq21j"
+	},
+	{
+		"created_at": "Tue Dec 04 08:55:06 +0000 2018",
+		"id": 1069877745407221800,
+		"id_str": "1069877745407221760",
+		"full_text": "@remcoderooij @Cloudenius Okay. Please be so kind as to follow the instructions in the support page linked to above.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "remcoderooij",
+					"name": "Remco de Rooij",
+					"id": 89012522,
+					"id_str": "89012522",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Cloudenius",
+					"name": "Jean-Paul van Ravensberg",
+					"id": 96517105,
+					"id_str": "96517105",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1069876843661140000,
+		"in_reply_to_status_id_str": "1069876843661139968",
+		"in_reply_to_user_id": 89012522,
+		"in_reply_to_user_id_str": "89012522",
+		"in_reply_to_screen_name": "remcoderooij",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19269,
+			"friends_count": 7150,
+			"listed_count": 595,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@remcoderooij @Cloudenius Okay. Please be so kind as to follow the instructions in the support page linked to above."
+	},
+	{
+		"created_at": "Tue Dec 04 08:49:38 +0000 2018",
+		"id": 1069876368207433700,
+		"id_str": "1069876368207433729",
+		"full_text": "@remcoderooij @Cloudenius Couple of questions: when exactly did you perform that upgrade from 2016 to 2019, Remco? \nAm I assuming correctly that this is about a Office Profeesional Plus, the perpetual license of Office 2019 – not Office 365?",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "remcoderooij",
+					"name": "Remco de Rooij",
+					"id": 89012522,
+					"id_str": "89012522",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Cloudenius",
+					"name": "Jean-Paul van Ravensberg",
+					"id": 96517105,
+					"id_str": "96517105",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1069867616121118700,
+		"in_reply_to_status_id_str": "1069867616121118722",
+		"in_reply_to_user_id": 89012522,
+		"in_reply_to_user_id_str": "89012522",
+		"in_reply_to_screen_name": "remcoderooij",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19269,
+			"friends_count": 7150,
+			"listed_count": 595,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@remcoderooij @Cloudenius Couple of questions: when exactly did you perform that upgrade from 2016 to 2019, Remco? \nAm I assuming correctly that this is about a Office Profeesional Plus, the perpetual license of Office 2019 – not Office 365?"
+	},
+	{
+		"created_at": "Tue Dec 04 08:29:45 +0000 2018",
+		"id": 1069871365845590000,
+		"id_str": "1069871365845590016",
+		"full_text": "@remcoderooij @Cloudenius If you're noticing that #OneNote 2016 for Windows has gone missing from your Office 365 or your Office 2019 Professional Plus installation, you can read more about this at this Office Support page:\nhttps://t.co/MaPHZCcFuR \n\nhttps://t.co/b0JnxqqKFc",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "remcoderooij",
+					"name": "Remco de Rooij",
+					"id": 89012522,
+					"id_str": "89012522",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Cloudenius",
+					"name": "Jean-Paul van Ravensberg",
+					"id": 96517105,
+					"id_str": "96517105",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MaPHZCcFuR",
+					"expanded_url": "https://support.office.com/en-us/article/onenote-2016-is-missing-after-installing-office-2019-or-office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5",
+					"display_url": "support.office.com/en-us/article/…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1055431624001810400,
+					"id_str": "1055431624001810432",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/DqWleFlXcAAnkpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqWleFlXcAAnkpy.jpg",
+					"url": "https://t.co/b0JnxqqKFc",
+					"display_url": "pic.twitter.com/b0JnxqqKFc",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1055432053498503169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1015,
+							"h": 883,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1015,
+							"h": 883,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1055432053498503200,
+					"source_status_id_str": "1055432053498503169",
+					"source_user_id": 2582768738,
+					"source_user_id_str": "2582768738"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055431624001810400,
+					"id_str": "1055431624001810432",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/DqWleFlXcAAnkpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqWleFlXcAAnkpy.jpg",
+					"url": "https://t.co/b0JnxqqKFc",
+					"display_url": "pic.twitter.com/b0JnxqqKFc",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1055432053498503169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1015,
+							"h": 883,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1015,
+							"h": 883,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1055432053498503200,
+					"source_status_id_str": "1055432053498503169",
+					"source_user_id": 2582768738,
+					"source_user_id_str": "2582768738"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1069867616121118700,
+		"in_reply_to_status_id_str": "1069867616121118722",
+		"in_reply_to_user_id": 89012522,
+		"in_reply_to_user_id_str": "89012522",
+		"in_reply_to_screen_name": "remcoderooij",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19269,
+			"friends_count": 7150,
+			"listed_count": 595,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24956,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@remcoderooij @Cloudenius If you're noticing that #OneNote 2016 for Windows has gone missing from your Office 365 or your Office 2019 Professional Plus installation, you can read more about this at this Office Support page:\nhttps://t.co/MaPHZCcFuR \n\nhttps://t.co/b0JnxqqKFc"
+	},
+	{
 		"created_at": "Mon Dec 03 23:32:29 +0000 2018",
 		"id": 1069736159662800900,
 		"id_str": "1069736159662800896",
