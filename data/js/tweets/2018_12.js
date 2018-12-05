@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 05 13:00:35 +0000 2018",
+		"id": 1070301911704920000,
+		"id_str": "1070301911704920064",
+		"full_text": "Tune in with your students to hear how computer science brought the Harry Potter Kindle book to life in a new way. There is still time to register and join the free #CSEdWeek session and live Q&amp;A today! https://t.co/5qqRXdkhqd #Skype2Learn @codeorg https://t.co/ZJspeKuHN3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CSEdWeek",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "Skype2Learn",
+					"indices": [
+						231,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "codeorg",
+					"name": "Code.org",
+					"id": 850107536,
+					"id_str": "850107536",
+					"indices": [
+						244,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5qqRXdkhqd",
+					"expanded_url": "http://msft.social/PFFGtt",
+					"display_url": "msft.social/PFFGtt",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1070301774244995100,
+					"id_str": "1070301774244995075",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1070301774244995075/img/NnPUnd088WHDE8om.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1070301774244995075/img/NnPUnd088WHDE8om.jpg",
+					"url": "https://t.co/ZJspeKuHN3",
+					"display_url": "pic.twitter.com/ZJspeKuHN3",
+					"expanded_url": "https://twitter.com/SkypeClassroom/status/1070301911704920064/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070301774244995100,
+					"id_str": "1070301774244995075",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1070301774244995075/img/NnPUnd088WHDE8om.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1070301774244995075/img/NnPUnd088WHDE8om.jpg",
+					"url": "https://t.co/ZJspeKuHN3",
+					"display_url": "pic.twitter.com/ZJspeKuHN3",
+					"expanded_url": "https://twitter.com/SkypeClassroom/status/1070301911704920064/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30113,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1070301774244995075/vid/640x360/4pWWnK4BUNFX_9cS.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1070301774244995075/vid/1280x720/RdO8uDHuD8vHAXoH.mp4?tag=9"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1070301774244995075/vid/320x180/TqVBP4kdLVETTX95.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1070301774244995075/pl/UEc2rZOCnQVkBbfV.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 214027732,
+			"id_str": "214027732",
+			"name": "Skype Classroom",
+			"screen_name": "SkypeClassroom",
+			"location": "Everywhere",
+			"description": "Skype in the Classroom is a global #MicrosoftEDU community of educators creating collaborative & free Skype lessons.",
+			"url": "https://t.co/4j25UxAYF7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4j25UxAYF7",
+							"expanded_url": "http://www.skypeintheclassroom.com/",
+							"display_url": "skypeintheclassroom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103935,
+			"friends_count": 8550,
+			"listed_count": 1548,
+			"created_at": "Wed Nov 10 11:32:30 +0000 2010",
+			"favourites_count": 34974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "25AFF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969672572651503616/THcBAM0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969672572651503616/THcBAM0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/214027732/1542650875",
+			"profile_link_color": "00B0F0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAF1FA",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tune in with your students to hear how computer science brought the Harry Potter Kindle book to life in a new way. There is still time to register and join the free #CSEdWeek session and live Q&amp;A today! https://t.co/5qqRXdkhqd #Skype2Learn @codeorg https://t.co/ZJspeKuHN3"
+	},
+	{
 		"created_at": "Wed Dec 05 10:24:36 +0000 2018",
 		"id": 1070262654927806500,
 		"id_str": "1070262654927806465",
