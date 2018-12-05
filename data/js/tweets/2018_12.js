@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 05 10:24:36 +0000 2018",
+		"id": 1070262654927806500,
+		"id_str": "1070262654927806465",
+		"full_text": "@Scott_teach @ComfortDisturb Noticing that #OneNote 2016 for Windows has gone missing from your Office 365 or your Office 2019 Professional Plus installation? \nYou can read more about this at this Office Support page: \nhttps://t.co/MaPHZCcFuR \n\ncc @tonyhe365 \nhttps://t.co/b0JnxqqKFc",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						43,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Scott_teach",
+					"name": "Scott",
+					"id": 2620296470,
+					"id_str": "2620296470",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ComfortDisturb",
+					"name": "Courtney",
+					"id": 858245726668603400,
+					"id_str": "858245726668603393",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "tonyhe365",
+					"name": "Tony He",
+					"id": 1033443314282819600,
+					"id_str": "1033443314282819584",
+					"indices": [
+						248,
+						258
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MaPHZCcFuR",
+					"expanded_url": "https://support.office.com/en-us/article/onenote-2016-is-missing-after-installing-office-2019-or-office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5",
+					"display_url": "support.office.com/en-us/article/…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1055431624001810400,
+					"id_str": "1055431624001810432",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/DqWleFlXcAAnkpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqWleFlXcAAnkpy.jpg",
+					"url": "https://t.co/b0JnxqqKFc",
+					"display_url": "pic.twitter.com/b0JnxqqKFc",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1055432053498503169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1015,
+							"h": 883,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1015,
+							"h": 883,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1055432053498503200,
+					"source_status_id_str": "1055432053498503169",
+					"source_user_id": 2582768738,
+					"source_user_id_str": "2582768738"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055431624001810400,
+					"id_str": "1055431624001810432",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/DqWleFlXcAAnkpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqWleFlXcAAnkpy.jpg",
+					"url": "https://t.co/b0JnxqqKFc",
+					"display_url": "pic.twitter.com/b0JnxqqKFc",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1055432053498503169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1015,
+							"h": 883,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1015,
+							"h": 883,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1055432053498503200,
+					"source_status_id_str": "1055432053498503169",
+					"source_user_id": 2582768738,
+					"source_user_id_str": "2582768738"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070261882110402600,
+		"in_reply_to_status_id_str": "1070261882110402561",
+		"in_reply_to_user_id": 2620296470,
+		"in_reply_to_user_id_str": "2620296470",
+		"in_reply_to_screen_name": "Scott_teach",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19282,
+			"friends_count": 7152,
+			"listed_count": 594,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24964,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Scott_teach @ComfortDisturb Noticing that #OneNote 2016 for Windows has gone missing from your Office 365 or your Office 2019 Professional Plus installation? \nYou can read more about this at this Office Support page: \nhttps://t.co/MaPHZCcFuR \n\ncc @tonyhe365 \nhttps://t.co/b0JnxqqKFc"
+	},
+	{
 		"created_at": "Wed Dec 05 09:09:41 +0000 2018",
 		"id": 1070243804727394300,
 		"id_str": "1070243804727394306",
