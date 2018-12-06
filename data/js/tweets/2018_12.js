@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 06 17:12:02 +0000 2018",
+		"id": 1070727578590228500,
+		"id_str": "1070727578590228480",
+		"full_text": "Hey all you Microsoft Edge fans... we've been working on some plans to make Edge more compatible and more broadly available. We think this will make users, developers and IT Managers ALL happier with Edge! \n\nHere's the details... https://t.co/Ii7AeKyUfd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ii7AeKyUfd",
+					"expanded_url": "https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/#86hdHmPeOj1Xq32Q.97",
+					"display_url": "blogs.windows.com/windowsexperie…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16930986,
+			"id_str": "16930986",
+			"name": "Joe Belfiore",
+			"screen_name": "joebelfiore",
+			"location": "Redmond, WA",
+			"description": "Tweeting Microsoft Windows 10!  My team creates the Windows experience & Microsoft Edge.",
+			"url": "https://t.co/UTkpHW6ZsJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UTkpHW6ZsJ",
+							"expanded_url": "http://belfiore.land",
+							"display_url": "belfiore.land",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171467,
+			"friends_count": 191,
+			"listed_count": 2232,
+			"created_at": "Thu Oct 23 17:26:04 +0000 2008",
+			"favourites_count": 147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489500286/joeb_phone_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489500286/joeb_phone_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16930986/1424847525",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 354,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey all you Microsoft Edge fans... we've been working on some plans to make Edge more compatible and more broadly available. We think this will make users, developers and IT Managers ALL happier with Edge! \n\nHere's the details... https://t.co/Ii7AeKyUfd"
+	},
+	{
+		"created_at": "Wed Dec 05 18:08:21 +0000 2018",
+		"id": 1070379361918808000,
+		"id_str": "1070379361918808064",
+		"full_text": "Did you know that you can embed @Quizlet interactive flashcards directly in #OneNote? Share the news with your students, full OneNote supported embed list here: https://t.co/3pJmUOanoh #edtech #edchat #mieexpert #MicrosoftEDU https://t.co/spQlJKQzRo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						185,
+						192
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						193,
+						200
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						201,
+						211
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						212,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "quizlet",
+					"name": "Quizlet",
+					"id": 19879256,
+					"id_str": "19879256",
+					"indices": [
+						32,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3pJmUOanoh",
+					"expanded_url": "http://aka.ms/OneNoteEmbed",
+					"display_url": "aka.ms/OneNoteEmbed",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1070379011677638700,
+					"id_str": "1070379011677638656",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/DtrACj4UUAAVz8E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtrACj4UUAAVz8E.jpg",
+					"url": "https://t.co/spQlJKQzRo",
+					"display_url": "pic.twitter.com/spQlJKQzRo",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1070379361918808064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070379011677638700,
+					"id_str": "1070379011677638656",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/DtrACj4UUAAVz8E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtrACj4UUAAVz8E.jpg",
+					"url": "https://t.co/spQlJKQzRo",
+					"display_url": "pic.twitter.com/spQlJKQzRo",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1070379361918808064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15188,
+			"friends_count": 2736,
+			"listed_count": 694,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 46891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25112,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you know that you can embed @Quizlet interactive flashcards directly in #OneNote? Share the news with your students, full OneNote supported embed list here: https://t.co/3pJmUOanoh #edtech #edchat #mieexpert #MicrosoftEDU https://t.co/spQlJKQzRo"
+	},
+	{
 		"created_at": "Wed Dec 05 18:08:21 +0000 2018",
 		"id": 1070379361918808000,
 		"id_str": "1070379361918808064",
