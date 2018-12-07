@@ -67,6 +67,120 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 2293,
+			"friends_count": 1074,
+			"listed_count": 150,
+			"created_at": "Sun Mar 25 05:25:59 +0000 2007",
+			"favourites_count": 14867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2157421/1404893964",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Microsoft Whiteboard keeps rapidly improving based on user feedback:\n\n🆕TODAY\n\n🌈 More pen colors &amp; thicknesses ✅\n👀 Background colors &amp; grid-lines ✅\n⌨️ Type text directly w/ keyboard ✅ \n💻📱 Available NOW for Windows 10 &amp; iOS ✅\n\nLearn more 👇\nhttps://t.co/eHAqv13XBV"
+	},
+	{
+		"created_at": "Fri Dec 07 17:21:14 +0000 2018",
+		"id": 1071092283364192300,
+		"id_str": "1071092283364192256",
+		"full_text": "#Microsoft Whiteboard keeps rapidly improving based on user feedback:\n\n🆕TODAY\n\n🌈 More pen colors &amp; thicknesses ✅\n👀 Background colors &amp; grid-lines ✅\n⌨️ Type text directly w/ keyboard ✅ \n💻📱 Available NOW for Windows 10 &amp; iOS ✅\n\nLearn more 👇\nhttps://t.co/eHAqv13XBV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eHAqv13XBV",
+					"expanded_url": "http://msft.social/Byud2I",
+					"display_url": "msft.social/Byud2I",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2157421,
+			"id_str": "2157421",
+			"name": "Ian Mikutel",
+			"screen_name": "IanMikutel",
+			"location": "Redmond, WA",
+			"description": "Sr Product Lead, Ink/AI/EDU @Microsoft Whiteboard. Host @TheBetterShow podcast 🎙. Investor - @ReadMeIO (YC W15), @SeeLaforge & @AmpleMeal. ❤️ food & fitness!",
+			"url": "https://t.co/NVlxG6E2NM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NVlxG6E2NM",
+							"expanded_url": "http://ianmik.com",
+							"display_url": "ianmik.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 2292,
 			"friends_count": 1074,
 			"listed_count": 146,
