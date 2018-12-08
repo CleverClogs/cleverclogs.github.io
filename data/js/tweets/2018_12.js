@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 08 20:55:54 +0000 2018",
+		"id": 1071508692959400000,
+		"id_str": "1071508692959399936",
+		"full_text": "Newcomers, experts – you're all most welcome to the \"Best of 2018\" #MSFTEduchat TweetMeet. \n\n#Microsoft just announced the event on their blog, so do go check it out below.\n\nLocal event times:\nhttps://t.co/QQxzmsXhId\n#MicrosoftEDU #MIEExpert\n\nP.S. don't skip @fcotexeira's video! https://t.co/UzQZBghcQU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduchat",
+					"indices": [
+						67,
+						79
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						217,
+						230
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						231,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fcotexeira",
+					"name": "Francisco Texeira",
+					"id": 488780635,
+					"id_str": "488780635",
+					"indices": [
+						259,
+						270
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QQxzmsXhId",
+					"expanded_url": "https://www.timeanddate.com/worldclock/fixedtime.html?low=4&p1=234&iso=20181218T10&msg=%23MSFTEduChat%20TweetMeet%20on%20Dec%2018%20%E2%80%93%20Topic%3a%20%22Best%20of%202018%22&ah=1&sort=1",
+					"display_url": "timeanddate.com/worldclock/fix…",
+					"indices": [
+						193,
+						216
+					]
+				},
+				{
+					"url": "https://t.co/UzQZBghcQU",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1071135452252569605",
+					"display_url": "twitter.com/TweetMeet/stat…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19321,
+			"friends_count": 7157,
+			"listed_count": 594,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24974,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1071135452252569600,
+		"quoted_status_id_str": "1071135452252569605",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UzQZBghcQU",
+			"expanded": "https://twitter.com/TweetMeet/status/1071135452252569605",
+			"display": "twitter.com/TweetMeet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 07 20:12:47 +0000 2018",
+			"id": 1071135452252569600,
+			"id_str": "1071135452252569605",
+			"full_text": "Just imagine: 143 global hosts, 17 language tracks – including 3 brand-new ones!\nYes, we're talking about the #MSFTEduChat TweetMeet of Dec 18!\n\nRead the blog:\nhttps://t.co/WkxtMj06yC\nby @MicrosoftEDU \n#MicrosoftEDU #BestOf2018\n\nHosts clip:\nhttps://t.co/BiD9PEEyG2\nby @fcotexeira",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							110,
+							122
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							202,
+							215
+						]
+					},
+					{
+						"text": "BestOf2018",
+						"indices": [
+							216,
+							227
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							187,
+							200
+						]
+					},
+					{
+						"screen_name": "fcotexeira",
+						"name": "Francisco Texeira",
+						"id": 488780635,
+						"id_str": "488780635",
+						"indices": [
+							268,
+							279
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WkxtMj06yC",
+						"expanded_url": "https://educationblog.microsoft.com/2018/12/msfteduchat-tweetmeet-best-of-2018/",
+						"display_url": "educationblog.microsoft.com/2018/12/msfted…",
+						"indices": [
+							160,
+							183
+						]
+					},
+					{
+						"url": "https://t.co/BiD9PEEyG2",
+						"expanded_url": "https://youtube.com/watch?v=gPtGFB0KOHY",
+						"display_url": "youtube.com/watch?v=gPtGFB…",
+						"indices": [
+							241,
+							264
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central",
+				"screen_name": "TweetMeet",
+				"location": "World",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+				"url": "https://t.co/vTmAj2KFoN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTmAj2KFoN",
+								"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+								"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1364,
+				"friends_count": 939,
+				"listed_count": 13,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 658,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 404,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1543827157",
+				"profile_link_color": "E3008C",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Newcomers, experts – you're all most welcome to the \"Best of 2018\" #MSFTEduchat TweetMeet. \n\n#Microsoft just announced the event on their blog, so do go check it out below.\n\nLocal event times:\nhttps://t.co/QQxzmsXhId\n#MicrosoftEDU #MIEExpert\n\nP.S. don't skip @fcotexeira's video! https://t.co/UzQZBghcQU"
+	},
+	{
 		"created_at": "Sat Dec 08 11:46:25 +0000 2018",
 		"id": 1071370409084371000,
 		"id_str": "1071370409084370945",
