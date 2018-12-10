@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 10 18:41:30 +0000 2018",
+		"id": 1072199646808821800,
+		"id_str": "1072199646808821760",
+		"full_text": "Grab your device because @SachelleD &amp; I hope to see you for the 'Best of 2018' #MSFTEduChat on Dec. 18 at 1:00pm EST! Not sure what this whole TweetMeet thing is all about? Check out today's OCS Digital Journey blog post to help get you started https://t.co/mHc2VFtBTg #onslowdlt https://t.co/MsoJefZfXP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"text": "onslowdlt",
+					"indices": [
+						273,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SachelleD",
+					"name": "Sachelle",
+					"id": 572855104,
+					"id_str": "572855104",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mHc2VFtBTg",
+					"expanded_url": "https://www.onslow.k12.nc.us/Page/26599",
+					"display_url": "onslow.k12.nc.us/Page/26599",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072198374579994600,
+					"id_str": "1072198374579994625",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"url": "https://t.co/MsoJefZfXP",
+					"display_url": "pic.twitter.com/MsoJefZfXP",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1072199646808821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072198374579994600,
+					"id_str": "1072198374579994625",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"url": "https://t.co/MsoJefZfXP",
+					"display_url": "pic.twitter.com/MsoJefZfXP",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1072199646808821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 443760872,
+			"id_str": "443760872",
+			"name": "Mrs. Erin Holland",
+			"screen_name": "erinjurisich",
+			"location": "North Carolina, USA",
+			"description": "DLTF @ SHS in Onslow County #onslowdlt",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 145,
+			"listed_count": 12,
+			"created_at": "Thu Dec 22 14:23:32 +0000 2011",
+			"favourites_count": 1713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069370300733767685/--_xvN7N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069370300733767685/--_xvN7N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/443760872/1423937391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grab your device because @SachelleD &amp; I hope to see you for the 'Best of 2018' #MSFTEduChat on Dec. 18 at 1:00pm EST! Not sure what this whole TweetMeet thing is all about? Check out today's OCS Digital Journey blog post to help get you started https://t.co/mHc2VFtBTg #onslowdlt https://t.co/MsoJefZfXP"
+	},
+	{
+		"created_at": "Mon Dec 10 13:34:30 +0000 2018",
+		"id": 1072122386806300700,
+		"id_str": "1072122386806300678",
+		"full_text": "The @Forbes list of #AmericasMostJUST Companies is out — and we’re #1. https://t.co/i7hzEHMJoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AmericasMostJUST",
+					"indices": [
+						20,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Forbes",
+					"name": "Forbes",
+					"id": 91478624,
+					"id_str": "91478624",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i7hzEHMJoU",
+					"expanded_url": "https://www.forbes.com/sites/alexkonrad/2018/12/10/exclusive-ceo-interview-satya-nadella-reveals-how-microsoft-got-its-groove-back/#7dceff9f7acb",
+					"display_url": "forbes.com/sites/alexkonr…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74286565,
+			"id_str": "74286565",
+			"name": "Microsoft",
+			"screen_name": "Microsoft",
+			"location": "Redmond, WA",
+			"description": "We’re on a mission to empower every person and every organization on the planet to achieve more. Support: @MicrosoftHelps",
+			"url": "https://t.co/bKBtZeAFrh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKBtZeAFrh",
+							"expanded_url": "https://news.microsoft.com/",
+							"display_url": "news.microsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8467235,
+			"friends_count": 2566,
+			"listed_count": 22587,
+			"created_at": "Mon Sep 14 22:35:42 +0000 2009",
+			"favourites_count": 1419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14888,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00AEEF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1526060547",
+			"profile_link_color": "1570A6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 213,
+		"favorite_count": 575,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @Forbes list of #AmericasMostJUST Companies is out — and we’re #1. https://t.co/i7hzEHMJoU"
+	},
+	{
 		"created_at": "Mon Dec 10 13:34:30 +0000 2018",
 		"id": 1072122386806300700,
 		"id_str": "1072122386806300678",
