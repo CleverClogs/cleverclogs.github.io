@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 10 21:28:01 +0000 2018",
+		"id": 1072241551538040800,
+		"id_str": "1072241551538040838",
+		"full_text": "Check out my lastest blog post: \"Best of 2018\" #MIEFellow #MSFTEduChat @MicrosoftEduCa @OneNoteC @AllisonBTimmins @CanConnectEd @EmmaNaas72 @zelfstudie #ProjectKakuma @GEDSB @GEDSB21C \nhttps://t.co/8QF0QSxUug",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEFellow",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"text": "ProjectKakuma",
+					"indices": [
+						152,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEduCA",
+					"name": "Microsoft in Education Canada",
+					"id": 405043996,
+					"id_str": "405043996",
+					"indices": [
+						71,
+						86
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "AllisonBTimmins",
+					"name": "Allison Timmins",
+					"id": 217105034,
+					"id_str": "217105034",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"screen_name": "CanConnectEd",
+					"name": "Connect2019",
+					"id": 1063252986,
+					"id_str": "1063252986",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"screen_name": "EmmaNaas72",
+					"name": "Emma Nääs",
+					"id": 4391803529,
+					"id_str": "4391803529",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"screen_name": "GEDSB",
+					"name": "Grand Erie District School Board",
+					"id": 480675312,
+					"id_str": "480675312",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"screen_name": "GEDSB21C",
+					"name": "GrandErieEdTechTeam",
+					"id": 3075795306,
+					"id_str": "3075795306",
+					"indices": [
+						174,
+						183
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8QF0QSxUug",
+					"expanded_url": "https://wordsgrow.wordpress.com/2018/12/10/best-of-2018/",
+					"display_url": "wordsgrow.wordpress.com/2018/12/10/bes…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3248848295,
+			"id_str": "3248848295",
+			"name": "Lynn Thomas 🇨🇦",
+			"screen_name": "THOMLYNN101",
+			"location": "Ontario, Canada",
+			"description": "English Tch, #DLL @GEDSB #MIEFellow #MIEMasterTrainer #SurfaceMasterTrainer @D2L Champion #ProjectKakuma Global Ambassador #Bethechangetakethechallenge",
+			"url": "https://t.co/zWjfQN35VN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zWjfQN35VN",
+							"expanded_url": "https://wordsgrow.wordpress.com/",
+							"display_url": "wordsgrow.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1506,
+			"friends_count": 1771,
+			"listed_count": 30,
+			"created_at": "Tue May 12 21:32:14 +0000 2015",
+			"favourites_count": 17162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6179,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069328318976135174/0WJXW0Y4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069328318976135174/0WJXW0Y4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3248848295/1544475048",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out my lastest blog post: \"Best of 2018\" #MIEFellow #MSFTEduChat @MicrosoftEduCa @OneNoteC @AllisonBTimmins @CanConnectEd @EmmaNaas72 @zelfstudie #ProjectKakuma @GEDSB @GEDSB21C \nhttps://t.co/8QF0QSxUug"
+	},
+	{
+		"created_at": "Mon Dec 10 18:41:30 +0000 2018",
+		"id": 1072199646808821800,
+		"id_str": "1072199646808821760",
+		"full_text": "Grab your device because @SachelleD &amp; I hope to see you for the 'Best of 2018' #MSFTEduChat on Dec. 18 at 1:00pm EST! Not sure what this whole TweetMeet thing is all about? Check out today's OCS Digital Journey blog post to help get you started https://t.co/mHc2VFtBTg #onslowdlt https://t.co/MsoJefZfXP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"text": "onslowdlt",
+					"indices": [
+						273,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SachelleD",
+					"name": "Sachelle",
+					"id": 572855104,
+					"id_str": "572855104",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mHc2VFtBTg",
+					"expanded_url": "https://www.onslow.k12.nc.us/Page/26599",
+					"display_url": "onslow.k12.nc.us/Page/26599",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072198374579994600,
+					"id_str": "1072198374579994625",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"url": "https://t.co/MsoJefZfXP",
+					"display_url": "pic.twitter.com/MsoJefZfXP",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1072199646808821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072198374579994600,
+					"id_str": "1072198374579994625",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"url": "https://t.co/MsoJefZfXP",
+					"display_url": "pic.twitter.com/MsoJefZfXP",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1072199646808821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 443760872,
+			"id_str": "443760872",
+			"name": "Mrs. Erin Holland",
+			"screen_name": "erinjurisich",
+			"location": "North Carolina, USA",
+			"description": "DLTF @ SHS in Onslow County #onslowdlt",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 145,
+			"listed_count": 12,
+			"created_at": "Thu Dec 22 14:23:32 +0000 2011",
+			"favourites_count": 1716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069370300733767685/--_xvN7N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069370300733767685/--_xvN7N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/443760872/1423937391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grab your device because @SachelleD &amp; I hope to see you for the 'Best of 2018' #MSFTEduChat on Dec. 18 at 1:00pm EST! Not sure what this whole TweetMeet thing is all about? Check out today's OCS Digital Journey blog post to help get you started https://t.co/mHc2VFtBTg #onslowdlt https://t.co/MsoJefZfXP"
+	},
+	{
 		"created_at": "Mon Dec 10 18:41:30 +0000 2018",
 		"id": 1072199646808821800,
 		"id_str": "1072199646808821760",
