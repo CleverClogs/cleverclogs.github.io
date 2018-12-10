@@ -154,6 +154,203 @@ Grailbird.data.tweets_2018_12 =
 			"friends_count": 145,
 			"listed_count": 12,
 			"created_at": "Thu Dec 22 14:23:32 +0000 2011",
+			"favourites_count": 1716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069370300733767685/--_xvN7N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069370300733767685/--_xvN7N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/443760872/1423937391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grab your device because @SachelleD &amp; I hope to see you for the 'Best of 2018' #MSFTEduChat on Dec. 18 at 1:00pm EST! Not sure what this whole TweetMeet thing is all about? Check out today's OCS Digital Journey blog post to help get you started https://t.co/mHc2VFtBTg #onslowdlt https://t.co/MsoJefZfXP"
+	},
+	{
+		"created_at": "Mon Dec 10 18:41:30 +0000 2018",
+		"id": 1072199646808821800,
+		"id_str": "1072199646808821760",
+		"full_text": "Grab your device because @SachelleD &amp; I hope to see you for the 'Best of 2018' #MSFTEduChat on Dec. 18 at 1:00pm EST! Not sure what this whole TweetMeet thing is all about? Check out today's OCS Digital Journey blog post to help get you started https://t.co/mHc2VFtBTg #onslowdlt https://t.co/MsoJefZfXP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"text": "onslowdlt",
+					"indices": [
+						273,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SachelleD",
+					"name": "Sachelle",
+					"id": 572855104,
+					"id_str": "572855104",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mHc2VFtBTg",
+					"expanded_url": "https://www.onslow.k12.nc.us/Page/26599",
+					"display_url": "onslow.k12.nc.us/Page/26599",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072198374579994600,
+					"id_str": "1072198374579994625",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"url": "https://t.co/MsoJefZfXP",
+					"display_url": "pic.twitter.com/MsoJefZfXP",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1072199646808821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072198374579994600,
+					"id_str": "1072198374579994625",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuE2va2XgAEjVO2.jpg",
+					"url": "https://t.co/MsoJefZfXP",
+					"display_url": "pic.twitter.com/MsoJefZfXP",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1072199646808821760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 443760872,
+			"id_str": "443760872",
+			"name": "Mrs. Erin Holland",
+			"screen_name": "erinjurisich",
+			"location": "North Carolina, USA",
+			"description": "DLTF @ SHS in Onslow County #onslowdlt",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285,
+			"friends_count": 145,
+			"listed_count": 12,
+			"created_at": "Thu Dec 22 14:23:32 +0000 2011",
 			"favourites_count": 1714,
 			"utc_offset": null,
 			"time_zone": null,
