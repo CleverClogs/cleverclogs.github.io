@@ -78,6 +78,131 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 8467138,
+			"friends_count": 2566,
+			"listed_count": 22579,
+			"created_at": "Mon Sep 14 22:35:42 +0000 2009",
+			"favourites_count": 1418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14886,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00AEEF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1526060547",
+			"profile_link_color": "1570A6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @Forbes list of #AmericasMostJUST Companies is out — and we’re #1. https://t.co/i7hzEHMJoU"
+	},
+	{
+		"created_at": "Mon Dec 10 13:34:30 +0000 2018",
+		"id": 1072122386806300700,
+		"id_str": "1072122386806300678",
+		"full_text": "The @Forbes list of #AmericasMostJUST Companies is out — and we’re #1. https://t.co/i7hzEHMJoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AmericasMostJUST",
+					"indices": [
+						20,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Forbes",
+					"name": "Forbes",
+					"id": 91478624,
+					"id_str": "91478624",
+					"indices": [
+						4,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i7hzEHMJoU",
+					"expanded_url": "https://www.forbes.com/sites/alexkonrad/2018/12/10/exclusive-ceo-interview-satya-nadella-reveals-how-microsoft-got-its-groove-back/#7dceff9f7acb",
+					"display_url": "forbes.com/sites/alexkonr…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74286565,
+			"id_str": "74286565",
+			"name": "Microsoft",
+			"screen_name": "Microsoft",
+			"location": "Redmond, WA",
+			"description": "We’re on a mission to empower every person and every organization on the planet to achieve more. Support: @MicrosoftHelps",
+			"url": "https://t.co/bKBtZeAFrh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKBtZeAFrh",
+							"expanded_url": "https://news.microsoft.com/",
+							"display_url": "news.microsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 8467084,
 			"friends_count": 2566,
 			"listed_count": 22573,
