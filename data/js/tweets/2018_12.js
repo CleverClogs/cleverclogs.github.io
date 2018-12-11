@@ -238,6 +238,251 @@ Grailbird.data.tweets_2018_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One week from today! Join the #MSFTEduChat and share your 'Best of 2018' on Tuesday, December 18th at 1:00pm EST! Need to know more? Watch our #paperslide video! @SachelleD @TweetMeet @LBayne #onslowdlt https://t.co/SiGFNlRjvg"
+	},
+	{
+		"created_at": "Tue Dec 11 16:33:14 +0000 2018",
+		"id": 1072529754253901800,
+		"id_str": "1072529754253901824",
+		"full_text": "One week from today! Join the #MSFTEduChat and share your 'Best of 2018' on Tuesday, December 18th at 1:00pm EST! Need to know more? Watch our #paperslide video! @SachelleD @TweetMeet @LBayne #onslowdlt https://t.co/SiGFNlRjvg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"text": "paperslide",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"text": "onslowdlt",
+					"indices": [
+						192,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SachelleD",
+					"name": "Sachelle",
+					"id": 572855104,
+					"id_str": "572855104",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"screen_name": "LBayne",
+					"name": "Lindsay Bayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072528371895164900,
+					"id_str": "1072528371895164929",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1072528371895164929/pu/img/0dgUI-mb3XUj-z8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1072528371895164929/pu/img/0dgUI-mb3XUj-z8Y.jpg",
+					"url": "https://t.co/SiGFNlRjvg",
+					"display_url": "pic.twitter.com/SiGFNlRjvg",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1072529754253901824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072528371895164900,
+					"id_str": "1072528371895164929",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1072528371895164929/pu/img/0dgUI-mb3XUj-z8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1072528371895164929/pu/img/0dgUI-mb3XUj-z8Y.jpg",
+					"url": "https://t.co/SiGFNlRjvg",
+					"display_url": "pic.twitter.com/SiGFNlRjvg",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1072529754253901824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46173,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1072528371895164929/pu/vid/640x360/N5JYBh9aOnOKPDiS.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1072528371895164929/pu/pl/1qR-ds_2uXeOZ7a1.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1072528371895164929/pu/vid/1280x720/uvYjckLA9VkaqCsV.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1072528371895164929/pu/vid/320x180/XG2laKfPrm9ryoHX.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 443760872,
+			"id_str": "443760872",
+			"name": "Mrs. Erin Holland",
+			"screen_name": "erinjurisich",
+			"location": "North Carolina, USA",
+			"description": "DLTF @ SHS in Onslow County #onslowdlt",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 148,
+			"listed_count": 12,
+			"created_at": "Thu Dec 22 14:23:32 +0000 2011",
+			"favourites_count": 1743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069370300733767685/--_xvN7N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069370300733767685/--_xvN7N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/443760872/1423937391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
 		"favorite_count": 14,
 		"favorited": true,
 		"retweeted": true,
