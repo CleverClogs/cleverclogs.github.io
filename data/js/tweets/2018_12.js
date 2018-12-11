@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 16:33:14 +0000 2018",
+		"id": 1072529754253901800,
+		"id_str": "1072529754253901824",
+		"full_text": "One week from today! Join the #MSFTEduChat and share your 'Best of 2018' on Tuesday, December 18th at 1:00pm EST! Need to know more? Watch our #paperslide video! @SachelleD @TweetMeet @LBayne #onslowdlt https://t.co/SiGFNlRjvg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"text": "paperslide",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"text": "onslowdlt",
+					"indices": [
+						192,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SachelleD",
+					"name": "Sachelle",
+					"id": 572855104,
+					"id_str": "572855104",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"screen_name": "LBayne",
+					"name": "Lindsay Bayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072528371895164900,
+					"id_str": "1072528371895164929",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1072528371895164929/pu/img/0dgUI-mb3XUj-z8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1072528371895164929/pu/img/0dgUI-mb3XUj-z8Y.jpg",
+					"url": "https://t.co/SiGFNlRjvg",
+					"display_url": "pic.twitter.com/SiGFNlRjvg",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1072529754253901824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072528371895164900,
+					"id_str": "1072528371895164929",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1072528371895164929/pu/img/0dgUI-mb3XUj-z8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1072528371895164929/pu/img/0dgUI-mb3XUj-z8Y.jpg",
+					"url": "https://t.co/SiGFNlRjvg",
+					"display_url": "pic.twitter.com/SiGFNlRjvg",
+					"expanded_url": "https://twitter.com/erinjurisich/status/1072529754253901824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46173,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1072528371895164929/pu/vid/640x360/N5JYBh9aOnOKPDiS.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1072528371895164929/pu/pl/1qR-ds_2uXeOZ7a1.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1072528371895164929/pu/vid/1280x720/uvYjckLA9VkaqCsV.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1072528371895164929/pu/vid/320x180/XG2laKfPrm9ryoHX.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 443760872,
+			"id_str": "443760872",
+			"name": "Mrs. Erin Holland",
+			"screen_name": "erinjurisich",
+			"location": "North Carolina, USA",
+			"description": "DLTF @ SHS in Onslow County #onslowdlt",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 145,
+			"listed_count": 12,
+			"created_at": "Thu Dec 22 14:23:32 +0000 2011",
+			"favourites_count": 1720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 962,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069370300733767685/--_xvN7N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069370300733767685/--_xvN7N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/443760872/1423937391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One week from today! Join the #MSFTEduChat and share your 'Best of 2018' on Tuesday, December 18th at 1:00pm EST! Need to know more? Watch our #paperslide video! @SachelleD @TweetMeet @LBayne #onslowdlt https://t.co/SiGFNlRjvg"
+	},
+	{
+		"created_at": "Tue Dec 11 15:10:34 +0000 2018",
+		"id": 1072508951076450300,
+		"id_str": "1072508951076450304",
+		"full_text": "Check out the #MSFTEduChat Dec 2018 @Flipgrid This will be the largest &amp; most global, multilingual #MSFTEduChat TweetMeet to date. 140+ international hosts will be discussing the Best of 2018 w/you. #emsproud #MIEExpert #MIEE6 @OneNoteC @TweetMeet  https://t.co/XoPeMVXK3J https://t.co/TaYntnbrFU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "emsproud",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						213,
+						223
+					]
+				},
+				{
+					"text": "MIEE6",
+					"indices": [
+						224,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						231,
+						240
+					]
+				},
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						241,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XoPeMVXK3J",
+					"expanded_url": "https://flipgrid.com/100beba8",
+					"display_url": "flipgrid.com/100beba8",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072507442750283800,
+					"id_str": "1072507442750283779",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DuJP1jgX4AMYlk6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuJP1jgX4AMYlk6.jpg",
+					"url": "https://t.co/TaYntnbrFU",
+					"display_url": "pic.twitter.com/TaYntnbrFU",
+					"expanded_url": "https://twitter.com/jlo731/status/1072508951076450304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072507442750283800,
+					"id_str": "1072507442750283779",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DuJP1jgX4AMYlk6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuJP1jgX4AMYlk6.jpg",
+					"url": "https://t.co/TaYntnbrFU",
+					"display_url": "pic.twitter.com/TaYntnbrFU",
+					"expanded_url": "https://twitter.com/jlo731/status/1072508951076450304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95272661,
+			"id_str": "95272661",
+			"name": "Jeni Long",
+			"screen_name": "jlo731",
+			"location": "Fort Worth, TX",
+			"description": "Faith...Family...Friends...Fellowship...ITS who loves inspiring others and has a passion for teaching & learning w/technology! #MIEExpert #Flipgridambassador",
+			"url": "https://t.co/5Z58JNJrUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5Z58JNJrUa",
+							"expanded_url": "http://www.youtube.com/Jenallee",
+							"display_url": "youtube.com/Jenallee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 850,
+			"friends_count": 1118,
+			"listed_count": 24,
+			"created_at": "Mon Dec 07 20:32:16 +0000 2009",
+			"favourites_count": 8937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2210,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071134353005064192/muRK8Jev_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071134353005064192/muRK8Jev_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95272661/1543423384",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out the #MSFTEduChat Dec 2018 @Flipgrid This will be the largest &amp; most global, multilingual #MSFTEduChat TweetMeet to date. 140+ international hosts will be discussing the Best of 2018 w/you. #emsproud #MIEExpert #MIEE6 @OneNoteC @TweetMeet  https://t.co/XoPeMVXK3J https://t.co/TaYntnbrFU"
+	},
+	{
 		"created_at": "Tue Dec 11 15:10:34 +0000 2018",
 		"id": 1072508951076450300,
 		"id_str": "1072508951076450304",
