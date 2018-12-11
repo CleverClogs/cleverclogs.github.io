@@ -1,6 +1,638 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 15:01:16 +0000 2018",
+		"id": 1072506609383993300,
+		"id_str": "1072506609383993347",
+		"full_text": "NEW! Dictation is now rolled out 100% worldwide for #OneNote Online.  Built-in, mainstream, and free!  Try it out today #edtech #mieexpert #AssistiveTech #dyslexia #ATChat #MicrosoftEDU https://t.co/uLZ0JZwUWL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "AssistiveTech",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"text": "dyslexia",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"text": "ATChat",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						172,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072506108600860700,
+					"id_str": "1072506108600860672",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DuJOn5aXQAAHXWz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuJOn5aXQAAHXWz.jpg",
+					"url": "https://t.co/uLZ0JZwUWL",
+					"display_url": "pic.twitter.com/uLZ0JZwUWL",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1072506609383993347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 736,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1418,
+							"h": 870,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072506108600860700,
+					"id_str": "1072506108600860672",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DuJOn5aXQAAHXWz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuJOn5aXQAAHXWz.jpg",
+					"url": "https://t.co/uLZ0JZwUWL",
+					"display_url": "pic.twitter.com/uLZ0JZwUWL",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1072506609383993347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 736,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1418,
+							"h": 870,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15256,
+			"friends_count": 2959,
+			"listed_count": 696,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 47342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Dictation is now rolled out 100% worldwide for #OneNote Online.  Built-in, mainstream, and free!  Try it out today #edtech #mieexpert #AssistiveTech #dyslexia #ATChat #MicrosoftEDU https://t.co/uLZ0JZwUWL"
+	},
+	{
+		"created_at": "Mon Dec 10 21:30:01 +0000 2018",
+		"id": 1072242053202042900,
+		"id_str": "1072242053202042880",
+		"full_text": "We're discussing our favorite moments from 2018 during the #MSFTEduChat! Tune in on December 18 to learn from TweetMeet hosts and other #MicrosoftEDU fans from around the world. https://t.co/bZzAiedIrM https://t.co/ZsLWUCFjda",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						59,
+						71
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						136,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bZzAiedIrM",
+					"expanded_url": "http://msft.social/Z8lwtk",
+					"display_url": "msft.social/Z8lwtk",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072242050563756000,
+					"id_str": "1072242050563756038",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/DuFedskW0AYEyKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuFedskW0AYEyKb.jpg",
+					"url": "https://t.co/ZsLWUCFjda",
+					"display_url": "pic.twitter.com/ZsLWUCFjda",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1072242053202042880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072242050563756000,
+					"id_str": "1072242050563756038",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/DuFedskW0AYEyKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuFedskW0AYEyKb.jpg",
+					"url": "https://t.co/ZsLWUCFjda",
+					"display_url": "pic.twitter.com/ZsLWUCFjda",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1072242053202042880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17826187,
+			"id_str": "17826187",
+			"name": "Microsoft Education",
+			"screen_name": "MicrosoftEDU",
+			"location": "Redmond, WA",
+			"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+			"url": "https://t.co/Kq0bGCfbFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kq0bGCfbFO",
+							"expanded_url": "http://www.microsoft.com/education",
+							"display_url": "microsoft.com/education",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 338327,
+			"friends_count": 4345,
+			"listed_count": 3333,
+			"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+			"favourites_count": 20986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31070,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00BCF2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1508952382",
+			"profile_link_color": "0078D7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 47,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're discussing our favorite moments from 2018 during the #MSFTEduChat! Tune in on December 18 to learn from TweetMeet hosts and other #MicrosoftEDU fans from around the world. https://t.co/bZzAiedIrM https://t.co/ZsLWUCFjda"
+	},
+	{
+		"created_at": "Mon Dec 10 21:28:01 +0000 2018",
+		"id": 1072241551538040800,
+		"id_str": "1072241551538040838",
+		"full_text": "Check out my lastest blog post: \"Best of 2018\" #MIEFellow #MSFTEduChat @MicrosoftEduCa @OneNoteC @AllisonBTimmins @CanConnectEd @EmmaNaas72 @zelfstudie #ProjectKakuma @GEDSB @GEDSB21C \nhttps://t.co/8QF0QSxUug",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEFellow",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"text": "ProjectKakuma",
+					"indices": [
+						152,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEduCA",
+					"name": "Microsoft in Education Canada",
+					"id": 405043996,
+					"id_str": "405043996",
+					"indices": [
+						71,
+						86
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "AllisonBTimmins",
+					"name": "Allison Timmins",
+					"id": 217105034,
+					"id_str": "217105034",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"screen_name": "CanConnectEd",
+					"name": "Connect2019",
+					"id": 1063252986,
+					"id_str": "1063252986",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"screen_name": "EmmaNaas72",
+					"name": "Emma Nääs",
+					"id": 4391803529,
+					"id_str": "4391803529",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"screen_name": "GEDSB",
+					"name": "Grand Erie District School Board",
+					"id": 480675312,
+					"id_str": "480675312",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"screen_name": "GEDSB21C",
+					"name": "GrandErieEdTechTeam",
+					"id": 3075795306,
+					"id_str": "3075795306",
+					"indices": [
+						174,
+						183
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8QF0QSxUug",
+					"expanded_url": "https://wordsgrow.wordpress.com/2018/12/10/best-of-2018/",
+					"display_url": "wordsgrow.wordpress.com/2018/12/10/bes…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3248848295,
+			"id_str": "3248848295",
+			"name": "Lynn Thomas 🇨🇦",
+			"screen_name": "THOMLYNN101",
+			"location": "Ontario, Canada",
+			"description": "English Tch, #DLL @GEDSB #MIEFellow #MIEMasterTrainer #SurfaceMasterTrainer @D2L Champion #ProjectKakuma Global Ambassador #Bethechangetakethechallenge",
+			"url": "https://t.co/zWjfQN35VN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zWjfQN35VN",
+							"expanded_url": "https://wordsgrow.wordpress.com/",
+							"display_url": "wordsgrow.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1506,
+			"friends_count": 1771,
+			"listed_count": 30,
+			"created_at": "Tue May 12 21:32:14 +0000 2015",
+			"favourites_count": 17181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6182,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069328318976135174/0WJXW0Y4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069328318976135174/0WJXW0Y4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3248848295/1544475048",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out my lastest blog post: \"Best of 2018\" #MIEFellow #MSFTEduChat @MicrosoftEduCa @OneNoteC @AllisonBTimmins @CanConnectEd @EmmaNaas72 @zelfstudie #ProjectKakuma @GEDSB @GEDSB21C \nhttps://t.co/8QF0QSxUug"
+	},
+	{
 		"created_at": "Mon Dec 10 21:30:01 +0000 2018",
 		"id": 1072242053202042900,
 		"id_str": "1072242053202042880",
