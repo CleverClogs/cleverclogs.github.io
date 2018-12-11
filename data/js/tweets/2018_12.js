@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 15:10:34 +0000 2018",
+		"id": 1072508951076450300,
+		"id_str": "1072508951076450304",
+		"full_text": "Check out the #MSFTEduChat Dec 2018 @Flipgrid This will be the largest &amp; most global, multilingual #MSFTEduChat TweetMeet to date. 140+ international hosts will be discussing the Best of 2018 w/you. #emsproud #MIEExpert #MIEE6 @OneNoteC @TweetMeet  https://t.co/XoPeMVXK3J https://t.co/TaYntnbrFU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "emsproud",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						213,
+						223
+					]
+				},
+				{
+					"text": "MIEE6",
+					"indices": [
+						224,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						231,
+						240
+					]
+				},
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						241,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XoPeMVXK3J",
+					"expanded_url": "https://flipgrid.com/100beba8",
+					"display_url": "flipgrid.com/100beba8",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072507442750283800,
+					"id_str": "1072507442750283779",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DuJP1jgX4AMYlk6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuJP1jgX4AMYlk6.jpg",
+					"url": "https://t.co/TaYntnbrFU",
+					"display_url": "pic.twitter.com/TaYntnbrFU",
+					"expanded_url": "https://twitter.com/jlo731/status/1072508951076450304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072507442750283800,
+					"id_str": "1072507442750283779",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DuJP1jgX4AMYlk6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuJP1jgX4AMYlk6.jpg",
+					"url": "https://t.co/TaYntnbrFU",
+					"display_url": "pic.twitter.com/TaYntnbrFU",
+					"expanded_url": "https://twitter.com/jlo731/status/1072508951076450304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95272661,
+			"id_str": "95272661",
+			"name": "Jeni Long",
+			"screen_name": "jlo731",
+			"location": "Fort Worth, TX",
+			"description": "Faith...Family...Friends...Fellowship...ITS who loves inspiring others and has a passion for teaching & learning w/technology! #MIEExpert #Flipgridambassador",
+			"url": "https://t.co/5Z58JNJrUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5Z58JNJrUa",
+							"expanded_url": "http://www.youtube.com/Jenallee",
+							"display_url": "youtube.com/Jenallee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 1118,
+			"listed_count": 24,
+			"created_at": "Mon Dec 07 20:32:16 +0000 2009",
+			"favourites_count": 8932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071134353005064192/muRK8Jev_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071134353005064192/muRK8Jev_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95272661/1543423384",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out the #MSFTEduChat Dec 2018 @Flipgrid This will be the largest &amp; most global, multilingual #MSFTEduChat TweetMeet to date. 140+ international hosts will be discussing the Best of 2018 w/you. #emsproud #MIEExpert #MIEE6 @OneNoteC @TweetMeet  https://t.co/XoPeMVXK3J https://t.co/TaYntnbrFU"
+	},
+	{
+		"created_at": "Tue Dec 11 15:01:16 +0000 2018",
+		"id": 1072506609383993300,
+		"id_str": "1072506609383993347",
+		"full_text": "NEW! Dictation is now rolled out 100% worldwide for #OneNote Online.  Built-in, mainstream, and free!  Try it out today #edtech #mieexpert #AssistiveTech #dyslexia #ATChat #MicrosoftEDU https://t.co/uLZ0JZwUWL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "AssistiveTech",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"text": "dyslexia",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"text": "ATChat",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						172,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072506108600860700,
+					"id_str": "1072506108600860672",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DuJOn5aXQAAHXWz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuJOn5aXQAAHXWz.jpg",
+					"url": "https://t.co/uLZ0JZwUWL",
+					"display_url": "pic.twitter.com/uLZ0JZwUWL",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1072506609383993347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 736,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1418,
+							"h": 870,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072506108600860700,
+					"id_str": "1072506108600860672",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/DuJOn5aXQAAHXWz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuJOn5aXQAAHXWz.jpg",
+					"url": "https://t.co/uLZ0JZwUWL",
+					"display_url": "pic.twitter.com/uLZ0JZwUWL",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1072506609383993347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 736,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1418,
+							"h": 870,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15257,
+			"friends_count": 2959,
+			"listed_count": 696,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 47343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Dictation is now rolled out 100% worldwide for #OneNote Online.  Built-in, mainstream, and free!  Try it out today #edtech #mieexpert #AssistiveTech #dyslexia #ATChat #MicrosoftEDU https://t.co/uLZ0JZwUWL"
+	},
+	{
 		"created_at": "Tue Dec 11 15:01:16 +0000 2018",
 		"id": 1072506609383993300,
 		"id_str": "1072506609383993347",
