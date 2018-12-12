@@ -178,6 +178,230 @@ Grailbird.data.tweets_2018_12 =
 			},
 			"protected": false,
 			"followers_count": 15279,
+			"friends_count": 2982,
+			"listed_count": 696,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 47470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25263,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! \"Using OneNote has utterly transformed the way we teach at Myddelton College\" Blog at https://t.co/RP4NMhn9Ye @MyddeltonCol #cpchat #mieexpert #edtech #MicrosoftEDU https://t.co/bhOQLyCW8Z"
+	},
+	{
+		"created_at": "Wed Dec 12 18:56:22 +0000 2018",
+		"id": 1072928163418714100,
+		"id_str": "1072928163418714112",
+		"full_text": "NEW! \"Using OneNote has utterly transformed the way we teach at Myddelton College\" Blog at https://t.co/RP4NMhn9Ye @MyddeltonCol #cpchat #mieexpert #edtech #MicrosoftEDU https://t.co/bhOQLyCW8Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cpchat",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						156,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MyddeltonCol",
+					"name": "Myddelton College",
+					"id": 3576572895,
+					"id_str": "3576572895",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RP4NMhn9Ye",
+					"expanded_url": "https://educationblog.microsoft.com/2018/12/onenote-myddelton-college-teaching-transformed/#jIfmsLCy348T5qLS.99",
+					"display_url": "educationblog.microsoft.com/2018/12/onenot…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072927736488910800,
+					"id_str": "1072927736488910848",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"url": "https://t.co/bhOQLyCW8Z",
+					"display_url": "pic.twitter.com/bhOQLyCW8Z",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1072928163418714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072927736488910800,
+					"id_str": "1072927736488910848",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"url": "https://t.co/bhOQLyCW8Z",
+					"display_url": "pic.twitter.com/bhOQLyCW8Z",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1072928163418714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15279,
 			"friends_count": 2981,
 			"listed_count": 694,
 			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
