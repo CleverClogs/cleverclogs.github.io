@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 12 18:56:22 +0000 2018",
+		"id": 1072928163418714100,
+		"id_str": "1072928163418714112",
+		"full_text": "NEW! \"Using OneNote has utterly transformed the way we teach at Myddelton College\" Blog at https://t.co/RP4NMhn9Ye @MyddeltonCol #cpchat #mieexpert #edtech #MicrosoftEDU https://t.co/bhOQLyCW8Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cpchat",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						156,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MyddeltonCol",
+					"name": "Myddelton College",
+					"id": 3576572895,
+					"id_str": "3576572895",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RP4NMhn9Ye",
+					"expanded_url": "https://educationblog.microsoft.com/2018/12/onenote-myddelton-college-teaching-transformed/#jIfmsLCy348T5qLS.99",
+					"display_url": "educationblog.microsoft.com/2018/12/onenot…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072927736488910800,
+					"id_str": "1072927736488910848",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"url": "https://t.co/bhOQLyCW8Z",
+					"display_url": "pic.twitter.com/bhOQLyCW8Z",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1072928163418714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072927736488910800,
+					"id_str": "1072927736488910848",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"url": "https://t.co/bhOQLyCW8Z",
+					"display_url": "pic.twitter.com/bhOQLyCW8Z",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1072928163418714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15279,
+			"friends_count": 2981,
+			"listed_count": 694,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 47467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25261,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! \"Using OneNote has utterly transformed the way we teach at Myddelton College\" Blog at https://t.co/RP4NMhn9Ye @MyddeltonCol #cpchat #mieexpert #edtech #MicrosoftEDU https://t.co/bhOQLyCW8Z"
+	},
+	{
+		"created_at": "Wed Dec 12 04:47:36 +0000 2018",
+		"id": 1072714561244020700,
+		"id_str": "1072714561244020737",
+		"full_text": "This #MSFTEduChat is HUGE- we are 143 hosts!\nTwitter will 💥EXPLODE💥with incredible posts \nOn Dec 18 you just NEED to tune in\nAt 1pm EST this grand chat will begin.\nIt's global, international, the whole 🌎 will be there!\nTo reflect on 2018, to remember &amp; share!\n\nPlease join us! https://t.co/nIZULtAe7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						5,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072711691442536400,
+					"id_str": "1072711691442536450",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DuMJmZLXQAIPkB-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuMJmZLXQAIPkB-.jpg",
+					"url": "https://t.co/nIZULtAe7E",
+					"display_url": "pic.twitter.com/nIZULtAe7E",
+					"expanded_url": "https://twitter.com/kerszi/status/1072714561244020737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072711691442536400,
+					"id_str": "1072711691442536450",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DuMJmZLXQAIPkB-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuMJmZLXQAIPkB-.jpg",
+					"url": "https://t.co/nIZULtAe7E",
+					"display_url": "pic.twitter.com/nIZULtAe7E",
+					"expanded_url": "https://twitter.com/kerszi/status/1072714561244020737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595079922,
+			"id_str": "595079922",
+			"name": "Kathi Kersznowski",
+			"screen_name": "kerszi",
+			"location": "New Jersey, USA",
+			"description": "🤗Tech Integration Specialist, Presenter, Leader, Keynote Speaker, TOY, #MIEExpert, Empatico, Flipgrid, #Fliphunt, Buncee, #TeachSDGs, #LearningInTheLoo creator",
+			"url": "https://t.co/F3EubyVGqy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F3EubyVGqy",
+							"expanded_url": "http://kerszi.wordpress.com/",
+							"display_url": "kerszi.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10735,
+			"friends_count": 8091,
+			"listed_count": 616,
+			"created_at": "Wed May 30 23:31:13 +0000 2012",
+			"favourites_count": 33170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23698,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/965693674024824832/RXf0FQkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/965693674024824832/RXf0FQkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595079922/1460151831",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This #MSFTEduChat is HUGE- we are 143 hosts!\nTwitter will 💥EXPLODE💥with incredible posts \nOn Dec 18 you just NEED to tune in\nAt 1pm EST this grand chat will begin.\nIt's global, international, the whole 🌎 will be there!\nTo reflect on 2018, to remember &amp; share!\n\nPlease join us! https://t.co/nIZULtAe7E"
+	},
+	{
 		"created_at": "Wed Dec 12 04:47:36 +0000 2018",
 		"id": 1072714561244020700,
 		"id_str": "1072714561244020737",
