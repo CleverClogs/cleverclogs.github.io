@@ -321,6 +321,188 @@ Grailbird.data.tweets_2018_12 =
 			"friends_count": 8092,
 			"listed_count": 616,
 			"created_at": "Wed May 30 23:31:13 +0000 2012",
+			"favourites_count": 33167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23695,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/965693674024824832/RXf0FQkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/965693674024824832/RXf0FQkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595079922/1460151831",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This #MSFTEduChat is HUGE- we are 143 hosts!\nTwitter will 💥EXPLODE💥with incredible posts \nOn Dec 18 you just NEED to tune in\nAt 1pm EST this grand chat will begin.\nIt's global, international, the whole 🌎 will be there!\nTo reflect on 2018, to remember &amp; share!\n\nPlease join us! https://t.co/nIZULtAe7E"
+	},
+	{
+		"created_at": "Wed Dec 12 04:47:36 +0000 2018",
+		"id": 1072714561244020700,
+		"id_str": "1072714561244020737",
+		"full_text": "This #MSFTEduChat is HUGE- we are 143 hosts!\nTwitter will 💥EXPLODE💥with incredible posts \nOn Dec 18 you just NEED to tune in\nAt 1pm EST this grand chat will begin.\nIt's global, international, the whole 🌎 will be there!\nTo reflect on 2018, to remember &amp; share!\n\nPlease join us! https://t.co/nIZULtAe7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						5,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072711691442536400,
+					"id_str": "1072711691442536450",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DuMJmZLXQAIPkB-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuMJmZLXQAIPkB-.jpg",
+					"url": "https://t.co/nIZULtAe7E",
+					"display_url": "pic.twitter.com/nIZULtAe7E",
+					"expanded_url": "https://twitter.com/kerszi/status/1072714561244020737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072711691442536400,
+					"id_str": "1072711691442536450",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DuMJmZLXQAIPkB-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuMJmZLXQAIPkB-.jpg",
+					"url": "https://t.co/nIZULtAe7E",
+					"display_url": "pic.twitter.com/nIZULtAe7E",
+					"expanded_url": "https://twitter.com/kerszi/status/1072714561244020737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595079922,
+			"id_str": "595079922",
+			"name": "Kathi Kersznowski",
+			"screen_name": "kerszi",
+			"location": "New Jersey, USA",
+			"description": "🤗Tech Integration Specialist, Presenter, Leader, Keynote Speaker, TOY, #MIEExpert, Empatico, Flipgrid, #Fliphunt, Buncee, #TeachSDGs, #LearningInTheLoo creator",
+			"url": "https://t.co/F3EubyVGqy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F3EubyVGqy",
+							"expanded_url": "http://kerszi.wordpress.com/",
+							"display_url": "kerszi.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10738,
+			"friends_count": 8092,
+			"listed_count": 616,
+			"created_at": "Wed May 30 23:31:13 +0000 2012",
 			"favourites_count": 33166,
 			"utc_offset": null,
 			"time_zone": null,
