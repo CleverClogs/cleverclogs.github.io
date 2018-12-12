@@ -1,6 +1,519 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 12 20:56:19 +0000 2018",
+		"id": 1072958349178617900,
+		"id_str": "1072958349178617856",
+		"full_text": "Hey #WindowsInsiders, the second most requested snipping feature is now available to all of you. Please check it out and let us know what you think 😊 https://t.co/uiIykA3TwG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WindowsInsiders",
+					"indices": [
+						4,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uiIykA3TwG",
+					"expanded_url": "https://twitter.com/JenMsft/status/1072834299299278850",
+					"display_url": "twitter.com/JenMsft/status…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4196046747,
+			"id_str": "4196046747",
+			"name": "Snip & Sketch for Windows 10",
+			"screen_name": "SnipSketchApp",
+			"location": "Redmond, WA",
+			"description": "I help you capture and annotate anything on your screen ✂️✏️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 6,
+			"listed_count": 4,
+			"created_at": "Sun Nov 15 19:05:40 +0000 2015",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994675868759875587/HEzjKVL3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994675868759875587/HEzjKVL3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4196046747/1525984108",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072834299299278800,
+		"quoted_status_id_str": "1072834299299278850",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uiIykA3TwG",
+			"expanded": "https://twitter.com/JenMsft/status/1072834299299278850",
+			"display": "twitter.com/JenMsft/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 12 12:43:23 +0000 2018",
+			"id": 1072834299299278800,
+			"id_str": "1072834299299278850",
+			"full_text": "Window snip is now available for 100% of #WindowsInsiders in Fast - tried it yet? 😊\n\nTo start a new snip, you can:\n* Press WIN+Shift+S\n* Press New in Snip &amp; Sketch\n* Press Screen Snip in Action Center\n* Press PrtScn (if enabled)\n* Click back of pen (if enabled) https://t.co/Gqal9Qep28",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WindowsInsiders",
+						"indices": [
+							41,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1072833563723100200,
+						"id_str": "1072833563723100161",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/DuN4cSzU8AEPjmJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuN4cSzU8AEPjmJ.jpg",
+						"url": "https://t.co/Gqal9Qep28",
+						"display_url": "pic.twitter.com/Gqal9Qep28",
+						"expanded_url": "https://twitter.com/JenMsft/status/1072834299299278850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1809,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 687,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1072833563723100200,
+						"id_str": "1072833563723100161",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/DuN4cSzU8AEPjmJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuN4cSzU8AEPjmJ.jpg",
+						"url": "https://t.co/Gqal9Qep28",
+						"display_url": "pic.twitter.com/Gqal9Qep28",
+						"expanded_url": "https://twitter.com/JenMsft/status/1072834299299278850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1809,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 687,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3309105596,
+				"id_str": "3309105596",
+				"name": "Jen Gentleman 🌺",
+				"screen_name": "JenMsft",
+				"location": "Seattle, WA",
+				"description": "Software Engineer, Community Manager & #WindowsInsider on Shell team @ Microsoft. I work w/ Windows feedback 4 Start, Action center, taskbar, Windows Ink + more",
+				"url": "https://t.co/ACVIR7xvcT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ACVIR7xvcT",
+								"expanded_url": "https://www.instagram.com/jenmsft/",
+								"display_url": "instagram.com/jenmsft/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20042,
+				"friends_count": 229,
+				"listed_count": 412,
+				"created_at": "Fri Aug 07 22:21:33 +0000 2015",
+				"favourites_count": 150617,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40036,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987773638614048768/_Z7nZCoF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987773638614048768/_Z7nZCoF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309105596/1524338784",
+				"profile_link_color": "CB26D1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey #WindowsInsiders, the second most requested snipping feature is now available to all of you. Please check it out and let us know what you think 😊 https://t.co/uiIykA3TwG"
+	},
+	{
+		"created_at": "Wed Dec 12 18:56:22 +0000 2018",
+		"id": 1072928163418714100,
+		"id_str": "1072928163418714112",
+		"full_text": "NEW! \"Using OneNote has utterly transformed the way we teach at Myddelton College\" Blog at https://t.co/RP4NMhn9Ye @MyddeltonCol #cpchat #mieexpert #edtech #MicrosoftEDU https://t.co/bhOQLyCW8Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cpchat",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						156,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MyddeltonCol",
+					"name": "Myddelton College",
+					"id": 3576572895,
+					"id_str": "3576572895",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RP4NMhn9Ye",
+					"expanded_url": "https://educationblog.microsoft.com/2018/12/onenote-myddelton-college-teaching-transformed/#jIfmsLCy348T5qLS.99",
+					"display_url": "educationblog.microsoft.com/2018/12/onenot…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1072927736488910800,
+					"id_str": "1072927736488910848",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"url": "https://t.co/bhOQLyCW8Z",
+					"display_url": "pic.twitter.com/bhOQLyCW8Z",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1072928163418714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072927736488910800,
+					"id_str": "1072927736488910848",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuPOF3sV4AAfG7a.jpg",
+					"url": "https://t.co/bhOQLyCW8Z",
+					"display_url": "pic.twitter.com/bhOQLyCW8Z",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1072928163418714112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 833,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15282,
+			"friends_count": 2982,
+			"listed_count": 694,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 47473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! \"Using OneNote has utterly transformed the way we teach at Myddelton College\" Blog at https://t.co/RP4NMhn9Ye @MyddeltonCol #cpchat #mieexpert #edtech #MicrosoftEDU https://t.co/bhOQLyCW8Z"
+	},
+	{
 		"created_at": "Wed Dec 12 18:56:22 +0000 2018",
 		"id": 1072928163418714100,
 		"id_str": "1072928163418714112",
