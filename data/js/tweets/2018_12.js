@@ -1,6 +1,1160 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 14 18:59:58 +0000 2018",
+		"id": 1073653841827119100,
+		"id_str": "1073653841827119104",
+		"full_text": "@kurtsoeser @bradenroad24 @paphitisn Does the US international keyboard allow you to type [ ] regularly? Next to the P on your keyboard. \n\nNow heading for Marija's live webinar!",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kurtsoeser",
+					"name": "Kurt Söser",
+					"id": 55684861,
+					"id_str": "55684861",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "bradenroad24",
+					"name": "Noel Donnelly",
+					"id": 3040994974,
+					"id_str": "3040994974",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "paphitisn",
+					"name": "Nicos Paphitis",
+					"id": 241913187,
+					"id_str": "241913187",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1073653585769046000,
+		"in_reply_to_status_id_str": "1073653585769046017",
+		"in_reply_to_user_id": 55684861,
+		"in_reply_to_user_id_str": "55684861",
+		"in_reply_to_screen_name": "kurtsoeser",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19376,
+			"friends_count": 7158,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kurtsoeser @bradenroad24 @paphitisn Does the US international keyboard allow you to type [ ] regularly? Next to the P on your keyboard. \n\nNow heading for Marija's live webinar!"
+	},
+	{
+		"created_at": "Fri Dec 14 18:51:04 +0000 2018",
+		"id": 1073651602223972400,
+		"id_str": "1073651602223972354",
+		"full_text": "@kurtsoeser @bradenroad24 @paphitisn Just as an experiment, could you activate the US International keyboard input method on your computer? \nI'll install the Austrian language pack on mine and let you know how I get on.",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kurtsoeser",
+					"name": "Kurt Söser",
+					"id": 55684861,
+					"id_str": "55684861",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "bradenroad24",
+					"name": "Noel Donnelly",
+					"id": 3040994974,
+					"id_str": "3040994974",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "paphitisn",
+					"name": "Nicos Paphitis",
+					"id": 241913187,
+					"id_str": "241913187",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1073650051849838600,
+		"in_reply_to_status_id_str": "1073650051849838593",
+		"in_reply_to_user_id": 55684861,
+		"in_reply_to_user_id_str": "55684861",
+		"in_reply_to_screen_name": "kurtsoeser",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19376,
+			"friends_count": 7158,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kurtsoeser @bradenroad24 @paphitisn Just as an experiment, could you activate the US International keyboard input method on your computer? \nI'll install the Austrian language pack on mine and let you know how I get on."
+	},
+	{
+		"created_at": "Fri Dec 14 18:48:23 +0000 2018",
+		"id": 1073650929457606700,
+		"id_str": "1073650929457606657",
+		"full_text": "In just a few minutes, Marija Petreska will be streaming live again on her YouTube channel.\nSomething tells me this time it's going to be about the #MSFTEduChat TweetMeet of Dec 18.\n\nWill you join too? \n#MicrosoftEDU #MIEExpert\n\nLooking forward to this very much, @TeacherMarija! https://t.co/yP4r8DCnsV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						203,
+						216
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						217,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teachermarija",
+					"name": "Marija Petreska",
+					"id": 521427482,
+					"id_str": "521427482",
+					"indices": [
+						264,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yP4r8DCnsV",
+					"expanded_url": "https://twitter.com/teachermarija/status/1073634009605914624",
+					"display_url": "twitter.com/teachermarija/…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19376,
+			"friends_count": 7158,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1073634009605914600,
+		"quoted_status_id_str": "1073634009605914624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yP4r8DCnsV",
+			"expanded": "https://twitter.com/teachermarija/status/1073634009605914624",
+			"display": "twitter.com/teachermarija/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 14 17:41:09 +0000 2018",
+			"id": 1073634009605914600,
+			"id_str": "1073634009605914624",
+			"full_text": "At 7m GMT tune in for #LievWithMarija \nhttps://t.co/hwzy8zexwt\n\nLearn how to create stunning tweets for the upcoming #TweetMeet\n\n@OneNoteC @TweetMeet @MicrosoftEDU \n#mieexpert #microsoftedu #edtech https://t.co/KS7GLtVqeA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LievWithMarija",
+						"indices": [
+							22,
+							37
+						]
+					},
+					{
+						"text": "TweetMeet",
+						"indices": [
+							117,
+							127
+						]
+					},
+					{
+						"text": "mieexpert",
+						"indices": [
+							165,
+							175
+						]
+					},
+					{
+						"text": "microsoftedu",
+						"indices": [
+							176,
+							189
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							190,
+							197
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							129,
+							138
+						]
+					},
+					{
+						"screen_name": "TweetMeet",
+						"name": "TweetMeet Central",
+						"id": 15665199,
+						"id_str": "15665199",
+						"indices": [
+							139,
+							149
+						]
+					},
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							150,
+							163
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hwzy8zexwt",
+						"expanded_url": "http://bit.ly/CodingChristmasTweetMeet",
+						"display_url": "bit.ly/CodingChristma…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1073633247144407000,
+						"id_str": "1073633247144407040",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/DuZPv_sXcAARIVx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuZPv_sXcAARIVx.jpg",
+						"url": "https://t.co/KS7GLtVqeA",
+						"display_url": "pic.twitter.com/KS7GLtVqeA",
+						"expanded_url": "https://twitter.com/teachermarija/status/1073634009605914624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1073633247144407000,
+						"id_str": "1073633247144407040",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/DuZPv_sXcAARIVx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuZPv_sXcAARIVx.jpg",
+						"url": "https://t.co/KS7GLtVqeA",
+						"display_url": "pic.twitter.com/KS7GLtVqeA",
+						"expanded_url": "https://twitter.com/teachermarija/status/1073634009605914624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 521427482,
+				"id_str": "521427482",
+				"name": "Marija Petreska",
+				"screen_name": "teachermarija",
+				"location": "Macedonia",
+				"description": "English language teacher, MIE Fellow,  @ImmersiveMinds Associate",
+				"url": "https://t.co/546CoXQHMo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/546CoXQHMo",
+								"expanded_url": "https://about.me/petreskamarija",
+								"display_url": "about.me/petreskamarija",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3277,
+				"friends_count": 1893,
+				"listed_count": 553,
+				"created_at": "Sun Mar 11 15:48:42 +0000 2012",
+				"favourites_count": 6637,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 69786,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1069320789445550080/bGxTLa9m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069320789445550080/bGxTLa9m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/521427482/1543862377",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "9778812ea3fffe48",
+				"url": "https://api.twitter.com/1.1/geo/id/9778812ea3fffe48.json",
+				"place_type": "country",
+				"name": "Former Yugoslav Republic of Macedonia",
+				"full_name": "Former Yugoslav Republic of Macedonia",
+				"country_code": "MK",
+				"country": "Former Yugoslav Republic of Macedonia",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								20.452518,
+								40.8537833
+							],
+							[
+								23.034064,
+								40.8537833
+							],
+							[
+								23.034064,
+								42.3734055
+							],
+							[
+								20.452518,
+								42.3734055
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In just a few minutes, Marija Petreska will be streaming live again on her YouTube channel.\nSomething tells me this time it's going to be about the #MSFTEduChat TweetMeet of Dec 18.\n\nWill you join too? \n#MicrosoftEDU #MIEExpert\n\nLooking forward to this very much, @TeacherMarija! https://t.co/yP4r8DCnsV"
+	},
+	{
+		"created_at": "Fri Dec 14 14:57:26 +0000 2018",
+		"id": 1073592807783350300,
+		"id_str": "1073592807783350272",
+		"full_text": "Don't miss today's #LiveWithMarija \nOur topic is #CodingChristmas #ImmersiveChristmas &amp; how to prepare for a #TweetMeet \n\nhttps://t.co/hwzy8zexwt\n\n@OneNoteC @OneNoteEDU @msonenote @PlayCraftLearn @ImmersiveMinds \n #mieexpert #edtech #microsoftedu #edapps #minecraftedu #onenote https://t.co/BzYAqCR2VG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LiveWithMarija",
+					"indices": [
+						19,
+						34
+					]
+				},
+				{
+					"text": "CodingChristmas",
+					"indices": [
+						49,
+						65
+					]
+				},
+				{
+					"text": "ImmersiveChristmas",
+					"indices": [
+						66,
+						85
+					]
+				},
+				{
+					"text": "TweetMeet",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						218,
+						228
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						229,
+						236
+					]
+				},
+				{
+					"text": "microsoftedu",
+					"indices": [
+						237,
+						250
+					]
+				},
+				{
+					"text": "edapps",
+					"indices": [
+						251,
+						258
+					]
+				},
+				{
+					"text": "minecraftedu",
+					"indices": [
+						259,
+						272
+					]
+				},
+				{
+					"text": "onenote",
+					"indices": [
+						273,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						161,
+						172
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"screen_name": "PlayCraftLearn",
+					"name": "Minecraft Education",
+					"id": 3253758956,
+					"id_str": "3253758956",
+					"indices": [
+						184,
+						199
+					]
+				},
+				{
+					"screen_name": "ImmersiveMinds",
+					"name": "ImmersiveMinds",
+					"id": 757948716972113900,
+					"id_str": "757948716972113920",
+					"indices": [
+						200,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hwzy8zexwt",
+					"expanded_url": "http://bit.ly/CodingChristmasTweetMeet",
+					"display_url": "bit.ly/CodingChristma…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1073592531907166200,
+					"id_str": "1073592531907166210",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/DuYquDnWwAI2abb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuYquDnWwAI2abb.jpg",
+					"url": "https://t.co/BzYAqCR2VG",
+					"display_url": "pic.twitter.com/BzYAqCR2VG",
+					"expanded_url": "https://twitter.com/teachermarija/status/1073592807783350272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073592531907166200,
+					"id_str": "1073592531907166210",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/DuYquDnWwAI2abb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuYquDnWwAI2abb.jpg",
+					"url": "https://t.co/BzYAqCR2VG",
+					"display_url": "pic.twitter.com/BzYAqCR2VG",
+					"expanded_url": "https://twitter.com/teachermarija/status/1073592807783350272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 521427482,
+			"id_str": "521427482",
+			"name": "Marija Petreska",
+			"screen_name": "teachermarija",
+			"location": "Macedonia",
+			"description": "English language teacher, MIE Fellow,  @ImmersiveMinds Associate",
+			"url": "https://t.co/546CoXQHMo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/546CoXQHMo",
+							"expanded_url": "https://about.me/petreskamarija",
+							"display_url": "about.me/petreskamarija",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3277,
+			"friends_count": 1893,
+			"listed_count": 553,
+			"created_at": "Sun Mar 11 15:48:42 +0000 2012",
+			"favourites_count": 6637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69786,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069320789445550080/bGxTLa9m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069320789445550080/bGxTLa9m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/521427482/1543862377",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "9778812ea3fffe48",
+			"url": "https://api.twitter.com/1.1/geo/id/9778812ea3fffe48.json",
+			"place_type": "country",
+			"name": "Former Yugoslav Republic of Macedonia",
+			"full_name": "Former Yugoslav Republic of Macedonia",
+			"country_code": "MK",
+			"country": "Former Yugoslav Republic of Macedonia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							20.452518,
+							40.8537833
+						],
+						[
+							23.034064,
+							40.8537833
+						],
+						[
+							23.034064,
+							42.3734055
+						],
+						[
+							20.452518,
+							42.3734055
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't miss today's #LiveWithMarija \nOur topic is #CodingChristmas #ImmersiveChristmas &amp; how to prepare for a #TweetMeet \n\nhttps://t.co/hwzy8zexwt\n\n@OneNoteC @OneNoteEDU @msonenote @PlayCraftLearn @ImmersiveMinds \n #mieexpert #edtech #microsoftedu #edapps #minecraftedu #onenote https://t.co/BzYAqCR2VG"
+	},
+	{
+		"created_at": "Fri Dec 14 18:19:59 +0000 2018",
+		"id": 1073643783378661400,
+		"id_str": "1073643783378661376",
+		"full_text": "@kurtsoeser @bradenroad24 @paphitisn Are you saying that the keyboard shortcuts to increase and decrease #OneNote page tab levels I suggested don't work for you, Kurt?",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kurtsoeser",
+					"name": "Kurt Söser",
+					"id": 55684861,
+					"id_str": "55684861",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "bradenroad24",
+					"name": "Noel Donnelly",
+					"id": 3040994974,
+					"id_str": "3040994974",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "paphitisn",
+					"name": "Nicos Paphitis",
+					"id": 241913187,
+					"id_str": "241913187",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1073626730072600600,
+		"in_reply_to_status_id_str": "1073626730072600578",
+		"in_reply_to_user_id": 55684861,
+		"in_reply_to_user_id_str": "55684861",
+		"in_reply_to_screen_name": "kurtsoeser",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19376,
+			"friends_count": 7158,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24992,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kurtsoeser @bradenroad24 @paphitisn Are you saying that the keyboard shortcuts to increase and decrease #OneNote page tab levels I suggested don't work for you, Kurt?"
+	},
+	{
 		"created_at": "Fri Dec 14 16:49:25 +0000 2018",
 		"id": 1073620988460482600,
 		"id_str": "1073620988460482560",
