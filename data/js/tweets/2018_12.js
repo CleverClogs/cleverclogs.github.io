@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 17 19:55:07 +0000 2018",
+		"id": 1074754884682072000,
+		"id_str": "1074754884682072065",
+		"full_text": "Wondering what Team @TweetMeet does on the evening before the largest-ever global and multilingual #MSFTEduChat event?\n\nWell, among other things, we build a TweetDeck with 18 [!] search columns 💯.\nWhat does your Twitter dashboard look like?\n\nHere's ours:\n#MicrosoftEDU #MIEExpert https://t.co/KdmdWfDqz3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						255,
+						268
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						269,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1074754202876985300,
+					"id_str": "1074754202876985344",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DupLQNNXQAAyvav.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DupLQNNXQAAyvav.jpg",
+					"url": "https://t.co/KdmdWfDqz3",
+					"display_url": "pic.twitter.com/KdmdWfDqz3",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1074754884682072065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 851,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074754202876985300,
+					"id_str": "1074754202876985344",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DupLQNNXQAAyvav.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DupLQNNXQAAyvav.jpg",
+					"url": "https://t.co/KdmdWfDqz3",
+					"display_url": "pic.twitter.com/KdmdWfDqz3",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1074754884682072065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 283,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 851,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1409,
+			"friends_count": 943,
+			"listed_count": 16,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 426,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1543827157",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wondering what Team @TweetMeet does on the evening before the largest-ever global and multilingual #MSFTEduChat event?\n\nWell, among other things, we build a TweetDeck with 18 [!] search columns 💯.\nWhat does your Twitter dashboard look like?\n\nHere's ours:\n#MicrosoftEDU #MIEExpert https://t.co/KdmdWfDqz3"
+	},
+	{
 		"created_at": "Mon Dec 17 14:08:22 +0000 2018",
 		"id": 1074667624414502900,
 		"id_str": "1074667624414502913",
