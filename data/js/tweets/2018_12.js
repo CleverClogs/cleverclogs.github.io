@@ -212,6 +212,1026 @@ Grailbird.data.tweets_2018_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just in: the supercool, multilingual SuperSway for December 2018 has just been released.\n\nRead this fascinating #Sway story, with invitations for the #MSFTEduChat TweetMeet about #BestOf2018 in so many different languages:\n\nhttps://t.co/4lhwOu8r1m\n#MicrosoftEDU #MIEExpert https://t.co/SjHCHenxto"
+	},
+	{
+		"created_at": "Sun Dec 16 11:26:12 +0000 2018",
+		"id": 1074264425782263800,
+		"id_str": "1074264425782263808",
+		"full_text": "Fantastic project that the hosts for the global #MSFTEduChat TweetMeet have been working on: a new SuperSway!\n\nAfter checking out the #Sway out below, kindly help to promote by retweeting it.\n\nLocal event times for 215 countries:\nhttps://t.co/HWkS2g8Gnp\n\n#MIEExpert #MicrosoftEDU https://t.co/HORwu58Eoj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"text": "Sway",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						255,
+						265
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						266,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HWkS2g8Gnp",
+					"expanded_url": "https://www.timeanddate.com/worldclock/fixedtime.html?sort=1&p1=234&iso=20181218T10&msg=%23MSFTEduChat%20TweetMeet%20on%20Dec%2018%20%E2%80%93%20Topic%3a%20%22Best%20of%202018%22&ah=1&low=c",
+					"display_url": "timeanddate.com/worldclock/fix…",
+					"indices": [
+						230,
+						253
+					]
+				},
+				{
+					"url": "https://t.co/HORwu58Eoj",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1074016943181578248",
+					"display_url": "twitter.com/TweetMeet/stat…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19396,
+			"friends_count": 7171,
+			"listed_count": 598,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1074016943181578200,
+		"quoted_status_id_str": "1074016943181578248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HORwu58Eoj",
+			"expanded": "https://twitter.com/TweetMeet/status/1074016943181578248",
+			"display": "twitter.com/TweetMeet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 15 19:02:48 +0000 2018",
+			"id": 1074016943181578200,
+			"id_str": "1074016943181578248",
+			"full_text": "Just in: the supercool, multilingual SuperSway for December 2018 has just been released.\n\nRead this fascinating #Sway story, with invitations for the #MSFTEduChat TweetMeet about #BestOf2018 in so many different languages:\n\nhttps://t.co/4lhwOu8r1m\n#MicrosoftEDU #MIEExpert https://t.co/SjHCHenxto",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Sway",
+						"indices": [
+							112,
+							117
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							150,
+							162
+						]
+					},
+					{
+						"text": "BestOf2018",
+						"indices": [
+							179,
+							190
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							248,
+							261
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							262,
+							272
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4lhwOu8r1m",
+						"expanded_url": "https://sway.office.com/VZM5kQ8Beomtunfw",
+						"display_url": "sway.office.com/VZM5kQ8Beomtun…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1074011478569746400,
+						"id_str": "1074011478569746436",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/Duenv9jXgAQXeK0.png",
+						"media_url_https": "https://pbs.twimg.com/media/Duenv9jXgAQXeK0.png",
+						"url": "https://t.co/SjHCHenxto",
+						"display_url": "pic.twitter.com/SjHCHenxto",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1074016943181578248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1074011478569746400,
+						"id_str": "1074011478569746436",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/Duenv9jXgAQXeK0.png",
+						"media_url_https": "https://pbs.twimg.com/media/Duenv9jXgAQXeK0.png",
+						"url": "https://t.co/SjHCHenxto",
+						"display_url": "pic.twitter.com/SjHCHenxto",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1074016943181578248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central",
+				"screen_name": "TweetMeet",
+				"location": "World",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+				"url": "https://t.co/vTmAj2KFoN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTmAj2KFoN",
+								"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+								"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1401,
+				"friends_count": 943,
+				"listed_count": 13,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 768,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 425,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1543827157",
+				"profile_link_color": "E3008C",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic project that the hosts for the global #MSFTEduChat TweetMeet have been working on: a new SuperSway!\n\nAfter checking out the #Sway out below, kindly help to promote by retweeting it.\n\nLocal event times for 215 countries:\nhttps://t.co/HWkS2g8Gnp\n\n#MIEExpert #MicrosoftEDU https://t.co/HORwu58Eoj"
+	},
+	{
+		"created_at": "Fri Dec 14 22:05:17 +0000 2018",
+		"id": 1073700480834916400,
+		"id_str": "1073700480834916352",
+		"full_text": "What's your favorite #Office365 app?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Office365",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137365854,
+			"id_str": "137365854",
+			"name": "Office 365",
+			"screen_name": "Office365",
+			"location": "Redmond",
+			"description": "Office 365 is the essential productivity service designed to empower you to achieve every day.",
+			"url": "http://t.co/TTzzivuJW8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TTzzivuJW8",
+							"expanded_url": "http://office365.com",
+							"display_url": "office365.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 715373,
+			"friends_count": 3219,
+			"listed_count": 4700,
+			"created_at": "Mon Apr 26 15:03:04 +0000 2010",
+			"favourites_count": 3379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 60759,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EB3C00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065038124525342722/KkVyIqPN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065038124525342722/KkVyIqPN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137365854/1475169458",
+			"profile_link_color": "EB3C00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 263,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What's your favorite #Office365 app?"
+	},
+	{
+		"created_at": "Fri Dec 14 20:55:01 +0000 2018",
+		"id": 1073682798114938900,
+		"id_str": "1073682798114938882",
+		"full_text": "Improved link below to the #MSFTEduChat TweetMeet announcement podcast episode by Sachelle Dorencamp and Erin Holland. \n\nWow @SachelleD and @ErinJurisich, you two definitely know how to create a buzz together!\nThank you so much. This really helps! https://t.co/jVu4NkwncY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						27,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SachelleD",
+					"name": "Sachelle",
+					"id": 572855104,
+					"id_str": "572855104",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"screen_name": "erinjurisich",
+					"name": "Mrs. Erin Holland",
+					"id": 443760872,
+					"id_str": "443760872",
+					"indices": [
+						140,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jVu4NkwncY",
+					"expanded_url": "https://twitter.com/SachelleD/status/1073355650674159622",
+					"display_url": "twitter.com/SachelleD/stat…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19396,
+			"friends_count": 7171,
+			"listed_count": 598,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1073355650674159600,
+		"quoted_status_id_str": "1073355650674159622",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jVu4NkwncY",
+			"expanded": "https://twitter.com/SachelleD/status/1073355650674159622",
+			"display": "twitter.com/SachelleD/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 13 23:15:03 +0000 2018",
+			"id": 1073355650674159600,
+			"id_str": "1073355650674159622",
+			"full_text": "The next #onslowdlt podcast is up &amp; this week we focus on the #MSFTEduChat  Dec 18 @ 1:00 PM EST. We are happy to share you can click here https://t.co/jw8UVwMWmG to subscribe to our podcast on iTunes or your podcast app. Make sure you listen to episode 4 about Tuesdays TweetMeet https://t.co/1MgcUoanRF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "onslowdlt",
+						"indices": [
+							9,
+							19
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							66,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jw8UVwMWmG",
+						"expanded_url": "https://apple.co/2rBgSBj",
+						"display_url": "apple.co/2rBgSBj",
+						"indices": [
+							143,
+							166
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1073355231608627200,
+						"id_str": "1073355231608627202",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/DuVS5XHW4AIINTy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuVS5XHW4AIINTy.jpg",
+						"url": "https://t.co/1MgcUoanRF",
+						"display_url": "pic.twitter.com/1MgcUoanRF",
+						"expanded_url": "https://twitter.com/SachelleD/status/1073355650674159622/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1073355231608627200,
+						"id_str": "1073355231608627202",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/DuVS5XHW4AIINTy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuVS5XHW4AIINTy.jpg",
+						"url": "https://t.co/1MgcUoanRF",
+						"display_url": "pic.twitter.com/1MgcUoanRF",
+						"expanded_url": "https://twitter.com/SachelleD/status/1073355650674159622/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 572855104,
+				"id_str": "572855104",
+				"name": "Sachelle",
+				"screen_name": "SachelleD",
+				"location": "",
+				"description": "Digital Learning and Teaching Facilitator, Microsoft Education Fangirl, Certified MIE, MIE Master Trainer",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 483,
+				"friends_count": 386,
+				"listed_count": 24,
+				"created_at": "Sun May 06 17:39:02 +0000 2012",
+				"favourites_count": 4889,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2161,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1069303815730577408/5z3NDfmY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069303815730577408/5z3NDfmY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/572855104/1543781499",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Improved link below to the #MSFTEduChat TweetMeet announcement podcast episode by Sachelle Dorencamp and Erin Holland. \n\nWow @SachelleD and @ErinJurisich, you two definitely know how to create a buzz together!\nThank you so much. This really helps! https://t.co/jVu4NkwncY"
+	},
+	{
+		"created_at": "Sat Dec 15 19:02:48 +0000 2018",
+		"id": 1074016943181578200,
+		"id_str": "1074016943181578248",
+		"full_text": "Just in: the supercool, multilingual SuperSway for December 2018 has just been released.\n\nRead this fascinating #Sway story, with invitations for the #MSFTEduChat TweetMeet about #BestOf2018 in so many different languages:\n\nhttps://t.co/4lhwOu8r1m\n#MicrosoftEDU #MIEExpert https://t.co/SjHCHenxto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sway",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						150,
+						162
+					]
+				},
+				{
+					"text": "BestOf2018",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						248,
+						261
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						262,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4lhwOu8r1m",
+					"expanded_url": "https://sway.office.com/VZM5kQ8Beomtunfw",
+					"display_url": "sway.office.com/VZM5kQ8Beomtun…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1074011478569746400,
+					"id_str": "1074011478569746436",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/Duenv9jXgAQXeK0.png",
+					"media_url_https": "https://pbs.twimg.com/media/Duenv9jXgAQXeK0.png",
+					"url": "https://t.co/SjHCHenxto",
+					"display_url": "pic.twitter.com/SjHCHenxto",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1074016943181578248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074011478569746400,
+					"id_str": "1074011478569746436",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/Duenv9jXgAQXeK0.png",
+					"media_url_https": "https://pbs.twimg.com/media/Duenv9jXgAQXeK0.png",
+					"url": "https://t.co/SjHCHenxto",
+					"display_url": "pic.twitter.com/SjHCHenxto",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1074016943181578248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1401,
+			"friends_count": 943,
+			"listed_count": 13,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 425,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1543827157",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
 		"retweet_count": 39,
 		"favorite_count": 62,
 		"favorited": false,
