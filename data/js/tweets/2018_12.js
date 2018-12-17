@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 17 14:08:22 +0000 2018",
+		"id": 1074667624414502900,
+		"id_str": "1074667624414502913",
+		"full_text": "@MrLuukkonen @Sfm36 @kerszi @CMcKee27 @annkozma723 @jessxbo @JenWilliamsEdu @Lanny_Watkins @Savvy_Educator @LFlemingEDU Those are all good questions and we DO listen. \nWhen we first started out with the TweetMeets in the summer of 2016, we had two events, at 10am and at 4pm PST. The one at 4pm was much less popular. \nWe are gradually extending the TweetMeet hours as described in my earlier tweet.",
+		"truncated": false,
+		"display_text_range": [
+			120,
+			399
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrLuukkonen",
+					"name": "Mr. Luukkonen",
+					"id": 601593054,
+					"id_str": "601593054",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Sfm36",
+					"name": "Sarah Clark",
+					"id": 384551986,
+					"id_str": "384551986",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"screen_name": "kerszi",
+					"name": "Kathi Kersznowski",
+					"id": 595079922,
+					"id_str": "595079922",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"screen_name": "CMcKee27",
+					"name": "Christine McKee",
+					"id": 58142152,
+					"id_str": "58142152",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "annkozma723",
+					"name": "Ann Kozma 📱🌎📖",
+					"id": 526629851,
+					"id_str": "526629851",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "jessxbo",
+					"name": "Jess Boyce",
+					"id": 511231856,
+					"id_str": "511231856",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"screen_name": "JenWilliamsEdu",
+					"name": "Jennifer Williams",
+					"id": 495519949,
+					"id_str": "495519949",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "Lanny_Watkins",
+					"name": "Paul 'Lanny' Watkins",
+					"id": 772415035,
+					"id_str": "772415035",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"screen_name": "Savvy_Educator",
+					"name": "Jornea Armant Erwin",
+					"id": 1708895202,
+					"id_str": "1708895202",
+					"indices": [
+						91,
+						106
+					]
+				},
+				{
+					"screen_name": "LFlemingEDU",
+					"name": "Laura Fleming",
+					"id": 1647650990,
+					"id_str": "1647650990",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1074666855971737600,
+		"in_reply_to_status_id_str": "1074666855971737600",
+		"in_reply_to_user_id": 601593054,
+		"in_reply_to_user_id_str": "601593054",
+		"in_reply_to_screen_name": "MrLuukkonen",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19400,
+			"friends_count": 7171,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MrLuukkonen @Sfm36 @kerszi @CMcKee27 @annkozma723 @jessxbo @JenWilliamsEdu @Lanny_Watkins @Savvy_Educator @LFlemingEDU Those are all good questions and we DO listen. \nWhen we first started out with the TweetMeets in the summer of 2016, we had two events, at 10am and at 4pm PST. The one at 4pm was much less popular. \nWe are gradually extending the TweetMeet hours as described in my earlier tweet."
+	},
+	{
+		"created_at": "Mon Dec 17 13:31:04 +0000 2018",
+		"id": 1074658236362567700,
+		"id_str": "1074658236362567680",
+		"full_text": "@MrLuukkonen @kerszi @CMcKee27 @annkozma723 @jessxbo @JenWilliamsEdu @Lanny_Watkins @Savvy_Educator @Sfm36 @LFlemingEDU We welcome your answers at any time during or after this global and multilingual #MSFTEduChat event. \n\nTweetMeet discussion question timings for this month, in case you want to schedule your answers. Kindly quote the original question number and question with your answer. https://t.co/WH6yWGC9ru",
+		"truncated": false,
+		"display_text_range": [
+			120,
+			392
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						201,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrLuukkonen",
+					"name": "Mr. Luukkonen",
+					"id": 601593054,
+					"id_str": "601593054",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "kerszi",
+					"name": "Kathi Kersznowski",
+					"id": 595079922,
+					"id_str": "595079922",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "CMcKee27",
+					"name": "Christine McKee",
+					"id": 58142152,
+					"id_str": "58142152",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"screen_name": "annkozma723",
+					"name": "Ann Kozma 📱🌎📖",
+					"id": 526629851,
+					"id_str": "526629851",
+					"indices": [
+						31,
+						43
+					]
+				},
+				{
+					"screen_name": "jessxbo",
+					"name": "Jess Boyce",
+					"id": 511231856,
+					"id_str": "511231856",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"screen_name": "JenWilliamsEdu",
+					"name": "Jennifer Williams",
+					"id": 495519949,
+					"id_str": "495519949",
+					"indices": [
+						53,
+						68
+					]
+				},
+				{
+					"screen_name": "Lanny_Watkins",
+					"name": "Paul 'Lanny' Watkins",
+					"id": 772415035,
+					"id_str": "772415035",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"screen_name": "Savvy_Educator",
+					"name": "Jornea Armant Erwin",
+					"id": 1708895202,
+					"id_str": "1708895202",
+					"indices": [
+						84,
+						99
+					]
+				},
+				{
+					"screen_name": "Sfm36",
+					"name": "Sarah Clark",
+					"id": 384551986,
+					"id_str": "384551986",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"screen_name": "LFlemingEDU",
+					"name": "Laura Fleming",
+					"id": 1647650990,
+					"id_str": "1647650990",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1074657539676082200,
+					"id_str": "1074657539676082176",
+					"indices": [
+						393,
+						416
+					],
+					"media_url": "http://pbs.twimg.com/media/DunzVquWkAA8hFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DunzVquWkAA8hFx.jpg",
+					"url": "https://t.co/WH6yWGC9ru",
+					"display_url": "pic.twitter.com/WH6yWGC9ru",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1074658236362567680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074657539676082200,
+					"id_str": "1074657539676082176",
+					"indices": [
+						393,
+						416
+					],
+					"media_url": "http://pbs.twimg.com/media/DunzVquWkAA8hFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DunzVquWkAA8hFx.jpg",
+					"url": "https://t.co/WH6yWGC9ru",
+					"display_url": "pic.twitter.com/WH6yWGC9ru",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1074658236362567680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1074655879641755600,
+		"in_reply_to_status_id_str": "1074655879641755653",
+		"in_reply_to_user_id": 601593054,
+		"in_reply_to_user_id_str": "601593054",
+		"in_reply_to_screen_name": "MrLuukkonen",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19400,
+			"friends_count": 7171,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MrLuukkonen @kerszi @CMcKee27 @annkozma723 @jessxbo @JenWilliamsEdu @Lanny_Watkins @Savvy_Educator @Sfm36 @LFlemingEDU We welcome your answers at any time during or after this global and multilingual #MSFTEduChat event. \n\nTweetMeet discussion question timings for this month, in case you want to schedule your answers. Kindly quote the original question number and question with your answer. https://t.co/WH6yWGC9ru"
+	},
+	{
 		"created_at": "Mon Dec 17 12:51:58 +0000 2018",
 		"id": 1074648397477494800,
 		"id_str": "1074648397477494784",
