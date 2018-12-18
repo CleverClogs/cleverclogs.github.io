@@ -1,6 +1,632 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 18 09:57:06 +0000 2018",
+		"id": 1074966780232241200,
+		"id_str": "1074966780232241159",
+		"full_text": "In class or busy while today's #MSFTEduChat TweetMeet takes place?\n\nNo worries. Just respond at a time that suits you best, or schedule your tweets in advance. WIll you include the original question in your tweet?\n\nHere are the timings for the 4 #BestOf2018 discussion questions: https://t.co/iW0pBR7AtJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						31,
+						43
+					]
+				},
+				{
+					"text": "BestOf2018",
+					"indices": [
+						246,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1074965919380705300,
+					"id_str": "1074965919380705280",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DusLzupWkAABkgU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DusLzupWkAABkgU.jpg",
+					"url": "https://t.co/iW0pBR7AtJ",
+					"display_url": "pic.twitter.com/iW0pBR7AtJ",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1074966780232241159/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074965919380705300,
+					"id_str": "1074965919380705280",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DusLzupWkAABkgU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DusLzupWkAABkgU.jpg",
+					"url": "https://t.co/iW0pBR7AtJ",
+					"display_url": "pic.twitter.com/iW0pBR7AtJ",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1074966780232241159/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1413,
+			"friends_count": 947,
+			"listed_count": 15,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1543827157",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In class or busy while today's #MSFTEduChat TweetMeet takes place?\n\nNo worries. Just respond at a time that suits you best, or schedule your tweets in advance. WIll you include the original question in your tweet?\n\nHere are the timings for the 4 #BestOf2018 discussion questions: https://t.co/iW0pBR7AtJ"
+	},
+	{
+		"created_at": "Mon Dec 17 22:54:58 +0000 2018",
+		"id": 1074800147064873000,
+		"id_str": "1074800147064872960",
+		"full_text": "Join us tomorrow for the most #Onederful #MSFTEduChat TweetMeet ever featuring Over 140 educators \"Best of 2018\" #Bestof2018 #MicrosoftEdu\n\nI encourage all of my followers to join us. It will be very worthwhile! 🦄🚀\n \nRead more at https://t.co/lFGB1O0XOX @OneNoteC @MicrosoftEDU https://t.co/yHBDDQrdEH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onederful",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"text": "Bestof2018",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						125,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						254,
+						263
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						264,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lFGB1O0XOX",
+					"expanded_url": "https://educationblog.microsoft.com/2018/12/msfteduchat-tweetmeet-best-of-2018/#R9y2kVE1vSXXMZXp.99",
+					"display_url": "educationblog.microsoft.com/2018/12/msfted…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1074798129051066400,
+					"id_str": "1074798129051066368",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DupzNC9X4AAQxx9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DupzNC9X4AAQxx9.jpg",
+					"url": "https://t.co/yHBDDQrdEH",
+					"display_url": "pic.twitter.com/yHBDDQrdEH",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1074800147064872960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074798129051066400,
+					"id_str": "1074798129051066368",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DupzNC9X4AAQxx9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DupzNC9X4AAQxx9.jpg",
+					"url": "https://t.co/yHBDDQrdEH",
+					"display_url": "pic.twitter.com/yHBDDQrdEH",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1074800147064872960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705409101220675600,
+			"id_str": "705409101220675584",
+			"name": "Stephen Eustace 💻",
+			"screen_name": "eustace_stephen",
+			"location": "Ireland",
+			"description": "Teacher of Math, ICT 💻 Accounting | Assistant Principal | #MIEExpert #SurfaceExpert #MIEFellow #Onederful #FlipGridFever #eTwinning #eTedding 🦄🚀",
+			"url": "https://t.co/zHTbFylUH9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zHTbFylUH9",
+							"expanded_url": "http://www.onederful.eu",
+							"display_url": "onederful.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10738,
+			"friends_count": 10986,
+			"listed_count": 138,
+			"created_at": "Thu Mar 03 15:06:50 +0000 2016",
+			"favourites_count": 9893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6736,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074119956814548992/8p9Glx0o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074119956814548992/8p9Glx0o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705409101220675584/1508596248",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us tomorrow for the most #Onederful #MSFTEduChat TweetMeet ever featuring Over 140 educators \"Best of 2018\" #Bestof2018 #MicrosoftEdu\n\nI encourage all of my followers to join us. It will be very worthwhile! 🦄🚀\n \nRead more at https://t.co/lFGB1O0XOX @OneNoteC @MicrosoftEDU https://t.co/yHBDDQrdEH"
+	},
+	{
+		"created_at": "Mon Dec 17 18:25:36 +0000 2018",
+		"id": 1074732356609691600,
+		"id_str": "1074732356609691648",
+		"full_text": "NoteStreaming puts educators in charge of designing the learning experience. In this blog from @tomgrissom, you’ll learn how to utilize your own #OneNote Class Notebook to implement this pedagogy-first framework: https://t.co/Sban4GshMk https://t.co/RnaOePfQt4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomgrissom",
+					"name": "Tom Grissom",
+					"id": 15348616,
+					"id_str": "15348616",
+					"indices": [
+						95,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Sban4GshMk",
+					"expanded_url": "http://msft.social/52C9wU",
+					"display_url": "msft.social/52C9wU",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1074732352348319700,
+					"id_str": "1074732352348319746",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/Duo3YVpXcAIBjvh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Duo3YVpXcAIBjvh.jpg",
+					"url": "https://t.co/RnaOePfQt4",
+					"display_url": "pic.twitter.com/RnaOePfQt4",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1074732356609691648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1074732352348319700,
+					"id_str": "1074732352348319746",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/Duo3YVpXcAIBjvh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Duo3YVpXcAIBjvh.jpg",
+					"url": "https://t.co/RnaOePfQt4",
+					"display_url": "pic.twitter.com/RnaOePfQt4",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1074732356609691648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3096566760,
+			"id_str": "3096566760",
+			"name": "OneNote Education",
+			"screen_name": "OneNoteEDU",
+			"location": "Redmond, WA",
+			"description": "Connecting educators to OneNote resources and information. An official channel for Microsoft OneNote.",
+			"url": "http://t.co/VAJyjQIbaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VAJyjQIbaK",
+							"expanded_url": "http://onenoteineducation.com/",
+							"display_url": "onenoteineducation.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68049,
+			"friends_count": 848,
+			"listed_count": 763,
+			"created_at": "Wed Mar 18 17:56:27 +0000 2015",
+			"favourites_count": 10101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096566760/1455659611",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NoteStreaming puts educators in charge of designing the learning experience. In this blog from @tomgrissom, you’ll learn how to utilize your own #OneNote Class Notebook to implement this pedagogy-first framework: https://t.co/Sban4GshMk https://t.co/RnaOePfQt4"
+	},
+	{
 		"created_at": "Mon Dec 17 22:54:58 +0000 2018",
 		"id": 1074800147064873000,
 		"id_str": "1074800147064872960",
