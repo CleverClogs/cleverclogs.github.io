@@ -86,12 +86,12 @@ Grailbird.data.tweets_2018_12 =
 			"friends_count": 887,
 			"listed_count": 18,
 			"created_at": "Fri Feb 10 20:51:20 +0000 2012",
-			"favourites_count": 2996,
+			"favourites_count": 3000,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1905,
+			"statuses_count": 1906,
 			"lang": "es",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -456,7 +456,7 @@ Grailbird.data.tweets_2018_12 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 1,
-			"favorite_count": 12,
+			"favorite_count": 13,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -469,6 +469,476 @@ Grailbird.data.tweets_2018_12 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "🧙‍♂️ Proud to have organized the first Escape Room ever using #OneNote and #MicrosoftTeams, in my school @MaristasMalaga. \n\n🙌 Thanks to my colleagues for collaboration, to @OneNoteC for support, and to ALL my students 👏👏👏 (3ESO=9th grade) for their enthusiasm. https://t.co/6y5rRUCduJ"
+	},
+	{
+		"created_at": "Wed Dec 19 17:01:16 +0000 2018",
+		"id": 1075435910865539100,
+		"id_str": "1075435910865539072",
+		"full_text": "🧙♂️ Proud to have organized the first Escape Room ever using #OneNote and #MicrosoftTeams, in my school @MaristasMalaga. \n\n🙌 Thanks to my colleagues for collaboration, to @OneNoteC for support, and to ALL my students 👏👏👏 (3ESO=9th grade) for their enthusiasm. https://t.co/6y5rRUCduJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						75,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MaristasMalaga",
+					"name": "Maristas Málaga",
+					"id": 1546146241,
+					"id_str": "1546146241",
+					"indices": [
+						105,
+						120
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						172,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6y5rRUCduJ",
+					"expanded_url": "https://twitter.com/MaristasMalaga/status/1075432696850071555",
+					"display_url": "twitter.com/MaristasMalaga…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 488780635,
+			"id_str": "488780635",
+			"name": "Francisco Texeira",
+			"screen_name": "fcotexeira",
+			"location": "Málaga, Andalucía",
+			"description": "Longlife learner, #MIEExpert, #MIEMasterTrainer, #MSFTEduChat @TweetMeet's assistant, certified #MOS & #MCE at @MaristasMalaga #TeamsLover running @TeamsCentral",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 815,
+			"friends_count": 887,
+			"listed_count": 18,
+			"created_at": "Fri Feb 10 20:51:20 +0000 2012",
+			"favourites_count": 2996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1905,
+			"lang": "es",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021083001978007554/rn26ZaDP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021083001978007554/rn26ZaDP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/488780635/1529434643",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075432696850071600,
+		"quoted_status_id_str": "1075432696850071555",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6y5rRUCduJ",
+			"expanded": "https://twitter.com/MaristasMalaga/status/1075432696850071555",
+			"display": "twitter.com/MaristasMalaga…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 19 16:48:30 +0000 2018",
+			"id": 1075432696850071600,
+			"id_str": "1075432696850071555",
+			"full_text": "Primer Escape Room con los alumnos de 3º de ESO, organizado por #MIEExpert @fcotexeira y la colaboración de 10 profesores del claustro.\nLas pruebas se han realizado online con #OneNote y #MicrosoftTeams.\nEnhorabuena a todos los participantes.\n@MaristasMedit @MicrosoftEduEsp https://t.co/vGxjoAfATJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							64,
+							74
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							176,
+							184
+						]
+					},
+					{
+						"text": "MicrosoftTeams",
+						"indices": [
+							187,
+							202
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "fcotexeira",
+						"name": "Francisco Texeira",
+						"id": 488780635,
+						"id_str": "488780635",
+						"indices": [
+							75,
+							86
+						]
+					},
+					{
+						"screen_name": "MaristasMedit",
+						"name": "MaristasMediterranea",
+						"id": 369806880,
+						"id_str": "369806880",
+						"indices": [
+							243,
+							257
+						]
+					},
+					{
+						"screen_name": "MicrosoftEduEsp",
+						"name": "Microsoft Educación",
+						"id": 960546007,
+						"id_str": "960546007",
+						"indices": [
+							258,
+							274
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1075432681431818200,
+						"id_str": "1075432681431818241",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Duy0U2yW4AEly8S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Duy0U2yW4AEly8S.jpg",
+						"url": "https://t.co/vGxjoAfATJ",
+						"display_url": "pic.twitter.com/vGxjoAfATJ",
+						"expanded_url": "https://twitter.com/MaristasMalaga/status/1075432696850071555/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075432681431818200,
+						"id_str": "1075432681431818241",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Duy0U2yW4AEly8S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Duy0U2yW4AEly8S.jpg",
+						"url": "https://t.co/vGxjoAfATJ",
+						"display_url": "pic.twitter.com/vGxjoAfATJ",
+						"expanded_url": "https://twitter.com/MaristasMalaga/status/1075432696850071555/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1075432681347924000,
+						"id_str": "1075432681347923968",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Duy0U2eWwAA1-7k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Duy0U2eWwAA1-7k.jpg",
+						"url": "https://t.co/vGxjoAfATJ",
+						"display_url": "pic.twitter.com/vGxjoAfATJ",
+						"expanded_url": "https://twitter.com/MaristasMalaga/status/1075432696850071555/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1075432681343737900,
+						"id_str": "1075432681343737857",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Duy0U2dW4AEQZdX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Duy0U2dW4AEQZdX.jpg",
+						"url": "https://t.co/vGxjoAfATJ",
+						"display_url": "pic.twitter.com/vGxjoAfATJ",
+						"expanded_url": "https://twitter.com/MaristasMalaga/status/1075432696850071555/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1075432681339584500,
+						"id_str": "1075432681339584512",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/Duy0U2cXgAASXEO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Duy0U2cXgAASXEO.jpg",
+						"url": "https://t.co/vGxjoAfATJ",
+						"display_url": "pic.twitter.com/vGxjoAfATJ",
+						"expanded_url": "https://twitter.com/MaristasMalaga/status/1075432696850071555/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1546146241,
+				"id_str": "1546146241",
+				"name": "Maristas Málaga",
+				"screen_name": "MaristasMalaga",
+				"location": "",
+				"description": "Colegio 👨🏼🏫 #MARISTAS Nª Sª de la Victoria #Málaga @Maristasmedit #Educación diferente con #pedagogía de la presencia y la #solidaridad 🌸🌸🌸 #masqueaulas",
+				"url": "https://t.co/Wbo9C2mtyB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Wbo9C2mtyB",
+								"expanded_url": "http://www.maristasmalaga.com",
+								"display_url": "maristasmalaga.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2338,
+				"friends_count": 298,
+				"listed_count": 37,
+				"created_at": "Tue Jun 25 16:26:38 +0000 2013",
+				"favourites_count": 5956,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6234,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/932948538409046016/XSkbeNmg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/932948538409046016/XSkbeNmg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1546146241/1536927337",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "es"
+		},
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🧙♂️ Proud to have organized the first Escape Room ever using #OneNote and #MicrosoftTeams, in my school @MaristasMalaga. \n\n🙌 Thanks to my colleagues for collaboration, to @OneNoteC for support, and to ALL my students 👏👏👏 (3ESO=9th grade) for their enthusiasm. https://t.co/6y5rRUCduJ"
 	},
 	{
 		"created_at": "Wed Dec 19 17:01:16 +0000 2018",
