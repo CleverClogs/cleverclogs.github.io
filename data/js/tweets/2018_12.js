@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 20 15:04:02 +0000 2018",
+		"id": 1075768796240011300,
+		"id_str": "1075768796240011269",
+		"full_text": "@MoaskeFoto @Gervercom Let's cc @RezaJooyandeh @dolange @LauraCatPJs @stickynotes",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MoaskeFoto",
+					"name": "Marco Maas 🐱‍👤",
+					"id": 93607596,
+					"id_str": "93607596",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Gervercom",
+					"name": "Gerard Verbrugge",
+					"id": 18717493,
+					"id_str": "18717493",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "RezaJooyandeh",
+					"name": "Reza Jooyandeh 🌈",
+					"id": 2246117322,
+					"id_str": "2246117322",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"screen_name": "dolange",
+					"name": "Donovan Lange",
+					"id": 10693582,
+					"id_str": "10693582",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"screen_name": "LauraCatPJs",
+					"name": "Laura Butler, Goddess of Engineers",
+					"id": 760954730612797400,
+					"id_str": "760954730612797440",
+					"indices": [
+						56,
+						68
+					]
+				},
+				{
+					"screen_name": "stickynotes",
+					"name": "Sticky Notes",
+					"id": 774181166924509200,
+					"id_str": "774181166924509184",
+					"indices": [
+						69,
+						81
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1074644284966608900,
+		"in_reply_to_status_id_str": "1074644284966608902",
+		"in_reply_to_user_id": 93607596,
+		"in_reply_to_user_id_str": "93607596",
+		"in_reply_to_screen_name": "MoaskeFoto",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19439,
+			"friends_count": 7178,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25025,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@MoaskeFoto @Gervercom Let's cc @RezaJooyandeh @dolange @LauraCatPJs @stickynotes"
+	},
+	{
+		"created_at": "Thu Dec 20 14:37:31 +0000 2018",
+		"id": 1075762123085471700,
+		"id_str": "1075762123085471746",
+		"full_text": "Proud of my first #microbit project, thanks to the personal guidance by #MIEExpert Pauline Maas @4pip.\n   \nTogether with ⁦@PeterHeldens⁩ she develops the impressive @microbit101 kit with 101 fun &amp; crafty micro:bit projects.\n\n#OneNote notebook preview:  \nhttps://t.co/a1O6xU4ABa https://t.co/jU50vZCz3V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "microbit",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						229,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "4pip",
+					"name": "Pauline Maas",
+					"id": 18724943,
+					"id_str": "18724943",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"screen_name": "PeterHeldens",
+					"name": "Peter Heldens",
+					"id": 35695092,
+					"id_str": "35695092",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"screen_name": "microbit101",
+					"name": "microbit101",
+					"id": 884163413496254500,
+					"id_str": "884163413496254465",
+					"indices": [
+						165,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a1O6xU4ABa",
+					"expanded_url": "https://1drv.ms/f/s!ArildptAssUIpIgoSXDV9Wx_y23uxQ",
+					"display_url": "1drv.ms/f/s!ArildptAss…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1075760914895462400,
+					"id_str": "1075760914895462400",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Du3e2juX4AAIZYU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du3e2juX4AAIZYU.jpg",
+					"url": "https://t.co/jU50vZCz3V",
+					"display_url": "pic.twitter.com/jU50vZCz3V",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1075762123085471746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 481,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075760914895462400,
+					"id_str": "1075760914895462400",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/Du3e2juX4AAIZYU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du3e2juX4AAIZYU.jpg",
+					"url": "https://t.co/jU50vZCz3V",
+					"display_url": "pic.twitter.com/jU50vZCz3V",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1075762123085471746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 481,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19439,
+			"friends_count": 7178,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25025,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proud of my first #microbit project, thanks to the personal guidance by #MIEExpert Pauline Maas @4pip.\n   \nTogether with ⁦@PeterHeldens⁩ she develops the impressive @microbit101 kit with 101 fun &amp; crafty micro:bit projects.\n\n#OneNote notebook preview:  \nhttps://t.co/a1O6xU4ABa https://t.co/jU50vZCz3V"
+	},
+	{
 		"created_at": "Thu Dec 20 00:20:58 +0000 2018",
 		"id": 1075546564586889200,
 		"id_str": "1075546564586889221",
