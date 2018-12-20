@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 20 00:20:58 +0000 2018",
+		"id": 1075546564586889200,
+		"id_str": "1075546564586889221",
+		"full_text": "@yves_laliberte @THOMLYNN101 @mspaperless @MicrosoftEduCA @ArcherJoe @Chorzele @MicrosoftEDU @LiaDeCicco Mes félicitations, Yves!",
+		"truncated": false,
+		"display_text_range": [
+			105,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yves_laliberte",
+					"name": "Yves Laliberte",
+					"id": 739484622,
+					"id_str": "739484622",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "THOMLYNN101",
+					"name": "Lynn Thomas 🇨🇦",
+					"id": 3248848295,
+					"id_str": "3248848295",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "mspaperless",
+					"name": "Kristine Holloway",
+					"id": 3641917637,
+					"id_str": "3641917637",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "MicrosoftEduCA",
+					"name": "Microsoft in Education Canada",
+					"id": 405043996,
+					"id_str": "405043996",
+					"indices": [
+						42,
+						57
+					]
+				},
+				{
+					"screen_name": "ArcherJoe",
+					"name": "Joe Archer",
+					"id": 637050683,
+					"id_str": "637050683",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "Chorzele",
+					"name": "Mrs. Horzelenberg",
+					"id": 3130029814,
+					"id_str": "3130029814",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						79,
+						92
+					]
+				},
+				{
+					"screen_name": "LiaDeCicco",
+					"name": "Lia DeCicco",
+					"id": 23328809,
+					"id_str": "23328809",
+					"indices": [
+						93,
+						104
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1075536649226866700,
+		"in_reply_to_status_id_str": "1075536649226866688",
+		"in_reply_to_user_id": 739484622,
+		"in_reply_to_user_id_str": "739484622",
+		"in_reply_to_screen_name": "yves_laliberte",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19438,
+			"friends_count": 7179,
+			"listed_count": 598,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@yves_laliberte @THOMLYNN101 @mspaperless @MicrosoftEduCA @ArcherJoe @Chorzele @MicrosoftEDU @LiaDeCicco Mes félicitations, Yves!"
+	},
+	{
 		"created_at": "Wed Dec 19 22:50:32 +0000 2018",
 		"id": 1075523806205304800,
 		"id_str": "1075523806205304833",
@@ -188,7 +364,7 @@ Grailbird.data.tweets_2018_12 =
 		"created_at": "Wed Dec 19 17:01:16 +0000 2018",
 		"id": 1075435910865539100,
 		"id_str": "1075435910865539072",
-		"full_text": "🧙‍♂️ Proud to have organized the first Escape Room ever using #OneNote and #MicrosoftTeams, in my school @MaristasMalaga. \n\n🙌 Thanks to my colleagues for collaboration, to @OneNoteC for support, and to ALL my students 👏👏👏 (3ESO=9th grade) for their enthusiasm. https://t.co/6y5rRUCduJ",
+		"full_text": "🧙♂️ Proud to have organized the first Escape Room ever using #OneNote and #MicrosoftTeams, in my school @MaristasMalaga. \n\n🙌 Thanks to my colleagues for collaboration, to @OneNoteC for support, and to ALL my students 👏👏👏 (3ESO=9th grade) for their enthusiasm. https://t.co/6y5rRUCduJ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -579,7 +755,7 @@ Grailbird.data.tweets_2018_12 =
 				"name": "Maristas Málaga",
 				"screen_name": "MaristasMalaga",
 				"location": "",
-				"description": "Colegio 👨🏼‍🏫 #MARISTAS Nª Sª de la Victoria #Málaga @Maristasmedit #Educación diferente con #pedagogía de la presencia y la #solidaridad 🌸🌸🌸 #masqueaulas",
+				"description": "Colegio 👨🏼🏫 #MARISTAS Nª Sª de la Victoria #Málaga @Maristasmedit #Educación diferente con #pedagogía de la presencia y la #solidaridad 🌸🌸🌸 #masqueaulas",
 				"url": "https://t.co/Wbo9C2mtyB",
 				"entities": {
 					"url": {
@@ -652,7 +828,7 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "🧙‍♂️ Proud to have organized the first Escape Room ever using #OneNote and #MicrosoftTeams, in my school @MaristasMalaga. \n\n🙌 Thanks to my colleagues for collaboration, to @OneNoteC for support, and to ALL my students 👏👏👏 (3ESO=9th grade) for their enthusiasm. https://t.co/6y5rRUCduJ"
+		"text": "🧙♂️ Proud to have organized the first Escape Room ever using #OneNote and #MicrosoftTeams, in my school @MaristasMalaga. \n\n🙌 Thanks to my colleagues for collaboration, to @OneNoteC for support, and to ALL my students 👏👏👏 (3ESO=9th grade) for their enthusiasm. https://t.co/6y5rRUCduJ"
 	},
 	{
 		"created_at": "Wed Dec 19 17:01:16 +0000 2018",
