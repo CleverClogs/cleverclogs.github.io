@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 21 17:29:02 +0000 2018",
+		"id": 1076167673166340100,
+		"id_str": "1076167673166340096",
+		"full_text": "As an #ArtsEd curriculum leader, #MIEExpert @l_whitmarsh uses #OneNote to encourage a creative learning experience for all student artists. See how Lee uses #edtech to share staff resources and student portfolios here: https://t.co/D5RsbMYYuv https://t.co/oaxM0ffh9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArtsEd",
+					"indices": [
+						6,
+						13
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "l_whitmarsh",
+					"name": "Lee Whitmarsh",
+					"id": 4243119677,
+					"id_str": "4243119677",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D5RsbMYYuv",
+					"expanded_url": "http://msft.social/lJYqYO",
+					"display_url": "msft.social/lJYqYO",
+					"indices": [
+						219,
+						242
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1076167667659231200,
+					"id_str": "1076167667659231240",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/Du9Qyr2W0AgI_tY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du9Qyr2W0AgI_tY.jpg",
+					"url": "https://t.co/oaxM0ffh9o",
+					"display_url": "pic.twitter.com/oaxM0ffh9o",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1076167673166340096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076167667659231200,
+					"id_str": "1076167667659231240",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/Du9Qyr2W0AgI_tY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du9Qyr2W0AgI_tY.jpg",
+					"url": "https://t.co/oaxM0ffh9o",
+					"display_url": "pic.twitter.com/oaxM0ffh9o",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1076167673166340096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Prod2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3096566760,
+			"id_str": "3096566760",
+			"name": "OneNote Education",
+			"screen_name": "OneNoteEDU",
+			"location": "Redmond, WA",
+			"description": "Connecting educators to OneNote resources and information. An official channel for Microsoft OneNote.",
+			"url": "http://t.co/VAJyjQIbaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VAJyjQIbaK",
+							"expanded_url": "http://onenoteineducation.com/",
+							"display_url": "onenoteineducation.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68105,
+			"friends_count": 848,
+			"listed_count": 764,
+			"created_at": "Wed Mar 18 17:56:27 +0000 2015",
+			"favourites_count": 10198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096566760/1455659611",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As an #ArtsEd curriculum leader, #MIEExpert @l_whitmarsh uses #OneNote to encourage a creative learning experience for all student artists. See how Lee uses #edtech to share staff resources and student portfolios here: https://t.co/D5RsbMYYuv https://t.co/oaxM0ffh9o"
+	},
+	{
+		"created_at": "Thu Dec 20 17:43:30 +0000 2018",
+		"id": 1075808927575466000,
+		"id_str": "1075808927575465984",
+		"full_text": "NEW! Give yourself an awesome holiday gift - #MIEExpert and super creative @teachermarija has her own YouTube channel! Subscribe today and learn how to make the most of your #edtech tools - https://t.co/h6CpIwEp2e #OneNote #elearning https://t.co/eXDMdFvcmc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						214,
+						222
+					]
+				},
+				{
+					"text": "elearning",
+					"indices": [
+						223,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teachermarija",
+					"name": "Marija Petreska",
+					"id": 521427482,
+					"id_str": "521427482",
+					"indices": [
+						75,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h6CpIwEp2e",
+					"expanded_url": "http://msft.social/0rqlJ4",
+					"display_url": "msft.social/0rqlJ4",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1075808916997529600,
+					"id_str": "1075808916997529600",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Du4KgpfV4AA-BaW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du4KgpfV4AA-BaW.jpg",
+					"url": "https://t.co/eXDMdFvcmc",
+					"display_url": "pic.twitter.com/eXDMdFvcmc",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1075808927575465984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075808916997529600,
+					"id_str": "1075808916997529600",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/Du4KgpfV4AA-BaW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du4KgpfV4AA-BaW.jpg",
+					"url": "https://t.co/eXDMdFvcmc",
+					"display_url": "pic.twitter.com/eXDMdFvcmc",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1075808927575465984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15408,
+			"friends_count": 3023,
+			"listed_count": 700,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 48569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Give yourself an awesome holiday gift - #MIEExpert and super creative @teachermarija has her own YouTube channel! Subscribe today and learn how to make the most of your #edtech tools - https://t.co/h6CpIwEp2e #OneNote #elearning https://t.co/eXDMdFvcmc"
+	},
+	{
 		"created_at": "Thu Dec 20 17:43:30 +0000 2018",
 		"id": 1075808927575466000,
 		"id_str": "1075808927575465984",
