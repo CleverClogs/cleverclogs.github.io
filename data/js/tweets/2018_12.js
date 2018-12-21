@@ -1,6 +1,158 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 21 22:23:35 +0000 2018",
+		"id": 1076241800074022900,
+		"id_str": "1076241800074022913",
+		"full_text": "@dnbrv @msonenote Want a keyboard shortcut to create a Quick Note in #OneNote #Windows10? \nFollow the brilliant steps lined out by @StefanWischner:  \nhttps://t.co/xYEgXSti3r\n\nI just tested them once again and they work for me. I defined Ctrl+Shift+N to create a new page in my Quick Notes section.",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			297
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dnbrv",
+					"name": "Denis Baranov",
+					"id": 14461920,
+					"id_str": "14461920",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						7,
+						17
+					]
+				},
+				{
+					"screen_name": "StefanWischner",
+					"name": "Stefan Wischner",
+					"id": 246435670,
+					"id_str": "246435670",
+					"indices": [
+						131,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xYEgXSti3r",
+					"expanded_url": "https://answers.microsoft.com/en-us/msoffice/forum/msoffice_onenote-mso_win10-mso_2016/quick-notes-moving-from-one-note-2016-to-one-note/0d42d0f6-da7a-4ed9-8175-7b69b84e57b1",
+					"display_url": "answers.microsoft.com/en-us/msoffice…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1076125156207218700,
+		"in_reply_to_status_id_str": "1076125156207218688",
+		"in_reply_to_user_id": 14461920,
+		"in_reply_to_user_id_str": "14461920",
+		"in_reply_to_screen_name": "dnbrv",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19448,
+			"friends_count": 7188,
+			"listed_count": 598,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25031,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@dnbrv @msonenote Want a keyboard shortcut to create a Quick Note in #OneNote #Windows10? \nFollow the brilliant steps lined out by @StefanWischner:  \nhttps://t.co/xYEgXSti3r\n\nI just tested them once again and they work for me. I defined Ctrl+Shift+N to create a new page in my Quick Notes section."
+	},
+	{
 		"created_at": "Fri Dec 21 21:45:03 +0000 2018",
 		"id": 1076232104294391800,
 		"id_str": "1076232104294391809",
