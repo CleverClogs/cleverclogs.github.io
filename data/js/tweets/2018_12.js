@@ -196,6 +196,247 @@ Grailbird.data.tweets_2018_12 =
 			"protected": false,
 			"followers_count": 15426,
 			"friends_count": 3015,
+			"listed_count": 700,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 48794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25540,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 82,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! The \"#OneNote Education PD for Teachers\" Pinterest board has been updated: https://t.co/XX0AOUTktb #edtech #edchat #elearning #mieexpert #TOSAchat #cpchat #MicrosoftEDU https://t.co/HwUukbUCMC"
+	},
+	{
+		"created_at": "Sun Dec 23 22:34:10 +0000 2018",
+		"id": 1076969241578942500,
+		"id_str": "1076969241578942464",
+		"full_text": "NEW! The \"#OneNote Education PD for Teachers\" Pinterest board has been updated: https://t.co/XX0AOUTktb #edtech #edchat #elearning #mieexpert #TOSAchat #cpchat #MicrosoftEDU https://t.co/HwUukbUCMC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "elearning",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "TOSAchat",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "cpchat",
+					"indices": [
+						152,
+						159
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						160,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XX0AOUTktb",
+					"expanded_url": "https://www.pinterest.com/miketholfsen/onenote-education-pd-for-teachers",
+					"display_url": "pinterest.com/miketholfsen/o…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1076968655315886100,
+					"id_str": "1076968655315886083",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/DvIpSTZVYAMPCSp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvIpSTZVYAMPCSp.jpg",
+					"url": "https://t.co/HwUukbUCMC",
+					"display_url": "pic.twitter.com/HwUukbUCMC",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1076969241578942464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1162,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076968655315886100,
+					"id_str": "1076968655315886083",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/DvIpSTZVYAMPCSp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvIpSTZVYAMPCSp.jpg",
+					"url": "https://t.co/HwUukbUCMC",
+					"display_url": "pic.twitter.com/HwUukbUCMC",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1076969241578942464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1162,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15426,
+			"friends_count": 3015,
 			"listed_count": 697,
 			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
 			"favourites_count": 48794,
