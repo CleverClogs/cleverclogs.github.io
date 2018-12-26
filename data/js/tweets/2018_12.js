@@ -163,6 +163,216 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 10153,
+			"friends_count": 7882,
+			"listed_count": 396,
+			"created_at": "Sat May 29 17:52:29 +0000 2010",
+			"favourites_count": 19421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9049,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D0D0D0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1512550696",
+			"profile_link_color": "D9650D",
+			"profile_sidebar_border_color": "0D0202",
+			"profile_sidebar_fill_color": "EDA426",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Merry Christmas to all teachers who made room for empathy in their classrooms during the Climate Action project, the Innovation project and the Kakuma project. \n&gt; 3 cases how @globalgoals and #edtech can find their place in classrooms across the world. \n#teachsdgs https://t.co/rXYH9pYkwC"
+	},
+	{
+		"created_at": "Tue Dec 25 11:16:14 +0000 2018",
+		"id": 1077523408135614500,
+		"id_str": "1077523408135614464",
+		"full_text": "Merry Christmas to all teachers who made room for empathy in their classrooms during the Climate Action project, the Innovation project and the Kakuma project. \n&gt; 3 cases how @globalgoals and #edtech can find their place in classrooms across the world. \n#teachsdgs https://t.co/rXYH9pYkwC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "teachsdgs",
+					"indices": [
+						257,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "globalgoals",
+					"name": "Global Goals",
+					"id": 3084871924,
+					"id_str": "3084871924",
+					"indices": [
+						178,
+						190
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077521985901682700,
+					"id_str": "1077521985901682688",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/DvQgiYdX4AAaoX5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvQgiYdX4AAaoX5.jpg",
+					"url": "https://t.co/rXYH9pYkwC",
+					"display_url": "pic.twitter.com/rXYH9pYkwC",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1077523408135614464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 794,
+							"h": 549,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 794,
+							"h": 549,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077521985901682700,
+					"id_str": "1077521985901682688",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/DvQgiYdX4AAaoX5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvQgiYdX4AAaoX5.jpg",
+					"url": "https://t.co/rXYH9pYkwC",
+					"display_url": "pic.twitter.com/rXYH9pYkwC",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1077523408135614464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 794,
+							"h": 549,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 470,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 794,
+							"h": 549,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149593681,
+			"id_str": "149593681",
+			"name": "Koen Timmers",
+			"screen_name": "zelfstudie",
+			"location": "Belgium",
+			"description": "Author | Speaker | Lecturer | @TeacherPrize Top10 17/18 | Founder https://t.co/sQfH7MJ819 & @SDGlabschools | #MIEexpert | @NatGeo Educator | ♡ #EdTech #Sdgs",
+			"url": "https://t.co/CMArT0rZSU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CMArT0rZSU",
+							"expanded_url": "http://www.timmers.me",
+							"display_url": "timmers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sQfH7MJ819",
+							"expanded_url": "http://ProjectKakuma.com",
+							"display_url": "ProjectKakuma.com",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 10152,
 			"friends_count": 7882,
 			"listed_count": 396,
