@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 27 19:45:50 +0000 2018",
+		"id": 1078376429866373100,
+		"id_str": "1078376429866373121",
+		"full_text": "Thank you @TweetDeck sincerely for repairing the ever-so-useful Twitter List export feature, and also mentioning it on your new Release Notes page:\n\nhttps://t.co/DLSn7sZUXS\n\nTry this at home: add your own list as a column to TweetDeck, then Edit the column and export the list: https://t.co/0pJYnAV4kI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetDeck",
+					"name": "TweetDeck",
+					"id": 14803701,
+					"id_str": "14803701",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DLSn7sZUXS",
+					"expanded_url": "https://twitter.com/i/tweetdeck_release_notes",
+					"display_url": "twitter.com/i/tweetdeck_re…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1078376427807039500,
+					"id_str": "1078376427807039489",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DvcppcmX4AEsUoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvcppcmX4AEsUoq.jpg",
+					"url": "https://t.co/0pJYnAV4kI",
+					"display_url": "pic.twitter.com/0pJYnAV4kI",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1078376429866373121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 894,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1526,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078376427807039500,
+					"id_str": "1078376427807039489",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DvcppcmX4AEsUoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvcppcmX4AEsUoq.jpg",
+					"url": "https://t.co/0pJYnAV4kI",
+					"display_url": "pic.twitter.com/0pJYnAV4kI",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1078376429866373121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 894,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1526,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19482,
+			"friends_count": 7221,
+			"listed_count": 597,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25037,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @TweetDeck sincerely for repairing the ever-so-useful Twitter List export feature, and also mentioning it on your new Release Notes page:\n\nhttps://t.co/DLSn7sZUXS\n\nTry this at home: add your own list as a column to TweetDeck, then Edit the column and export the list: https://t.co/0pJYnAV4kI"
+	},
+	{
 		"created_at": "Thu Dec 27 16:20:43 +0000 2018",
 		"id": 1078324808545390600,
 		"id_str": "1078324808545390592",
