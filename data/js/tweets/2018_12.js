@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 26 18:00:04 +0000 2018",
+		"id": 1077987424863608800,
+		"id_str": "1077987424863608832",
+		"full_text": "And we are live! Sticky Notes are now available on OneNote mobile in both iOS and Android. Please download the latest update from Store and give us a spin. We love hearing from you. Do try it out and let us know your feedback. Happy holidays 😀 https://t.co/YPSveASzOB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YPSveASzOB",
+					"expanded_url": "https://twitter.com/amrita_rout/status/1050056373260701696",
+					"display_url": "twitter.com/amrita_rout/st…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2933785406,
+			"id_str": "2933785406",
+			"name": "Amrita Rout",
+			"screen_name": "amrita_rout",
+			"location": "",
+			"description": "Product manager on the awesome NoTa, Notes and Tasks team at Microsoft",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73,
+			"friends_count": 70,
+			"listed_count": 2,
+			"created_at": "Wed Dec 17 17:18:16 +0000 2014",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/545267895358324736/dFb9aw_C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/545267895358324736/dFb9aw_C_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050056373260701700,
+		"quoted_status_id_str": "1050056373260701696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YPSveASzOB",
+			"expanded": "https://twitter.com/amrita_rout/status/1050056373260701696",
+			"display": "twitter.com/amrita_rout/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 10 16:12:03 +0000 2018",
+			"id": 1050056373260701700,
+			"id_str": "1050056373260701696",
+			"full_text": "Howdy people, Your @stickynotes from Windows now sync with OneNote Android Beta. Go try it now and absolutely let us know your feedback!!!! We are so excited about this awesome new offering within OneNote and hope you are too. @OneNoteC https://t.co/qp6lfzgrTA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stickynotes",
+						"name": "Sticky Notes",
+						"id": 774181166924509200,
+						"id_str": "774181166924509184",
+						"indices": [
+							19,
+							31
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							227,
+							236
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1050055834871435300,
+						"id_str": "1050055834871435270",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/DpKMN-fWkAY-WjW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpKMN-fWkAY-WjW.jpg",
+						"url": "https://t.co/qp6lfzgrTA",
+						"display_url": "pic.twitter.com/qp6lfzgrTA",
+						"expanded_url": "https://twitter.com/amrita_rout/status/1050056373260701696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1050055834871435300,
+						"id_str": "1050055834871435270",
+						"indices": [
+							237,
+							260
+						],
+						"media_url": "http://pbs.twimg.com/media/DpKMN-fWkAY-WjW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpKMN-fWkAY-WjW.jpg",
+						"url": "https://t.co/qp6lfzgrTA",
+						"display_url": "pic.twitter.com/qp6lfzgrTA",
+						"expanded_url": "https://twitter.com/amrita_rout/status/1050056373260701696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2933785406,
+				"id_str": "2933785406",
+				"name": "Amrita Rout",
+				"screen_name": "amrita_rout",
+				"location": "",
+				"description": "Product manager on the awesome NoTa, Notes and Tasks team at Microsoft",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73,
+				"friends_count": 70,
+				"listed_count": 2,
+				"created_at": "Wed Dec 17 17:18:16 +0000 2014",
+				"favourites_count": 179,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 142,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/545267895358324736/dFb9aw_C_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/545267895358324736/dFb9aw_C_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And we are live! Sticky Notes are now available on OneNote mobile in both iOS and Android. Please download the latest update from Store and give us a spin. We love hearing from you. Do try it out and let us know your feedback. Happy holidays 😀 https://t.co/YPSveASzOB"
+	},
+	{
 		"created_at": "Thu Dec 27 19:45:50 +0000 2018",
 		"id": 1078376429866373100,
 		"id_str": "1078376429866373121",
