@@ -201,6 +201,254 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 15471,
+			"friends_count": 3037,
+			"listed_count": 700,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 49119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25597,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The \"Microsoft Inclusive Classroom\" Pinterest board has been updated. Check it out, share within your district. Built-in, mainstream, non-stigmatizing &amp; FREE! #edtech #TOSAchat #AssistiveTech #ATChat #cpchat #accessibility #SPED #mieexpert #MicrosoftEDU\n\nhttps://t.co/k0JA0mZDWy https://t.co/x9D4MGSRS3"
+	},
+	{
+		"created_at": "Fri Dec 28 18:38:14 +0000 2018",
+		"id": 1078721803223130100,
+		"id_str": "1078721803223130117",
+		"full_text": "The \"Microsoft Inclusive Classroom\" Pinterest board has been updated. Check it out, share within your district. Built-in, mainstream, non-stigmatizing &amp; FREE! #edtech #TOSAchat #AssistiveTech #ATChat #cpchat #accessibility #SPED #mieexpert #MicrosoftEDU\n\nhttps://t.co/k0JA0mZDWy https://t.co/x9D4MGSRS3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "TOSAchat",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "AssistiveTech",
+					"indices": [
+						181,
+						195
+					]
+				},
+				{
+					"text": "ATChat",
+					"indices": [
+						196,
+						203
+					]
+				},
+				{
+					"text": "cpchat",
+					"indices": [
+						204,
+						211
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						212,
+						226
+					]
+				},
+				{
+					"text": "SPED",
+					"indices": [
+						227,
+						232
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						233,
+						243
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						244,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k0JA0mZDWy",
+					"expanded_url": "https://www.pinterest.com/miketholfsen/microsoft-inclusive-classroom-and-accessibility/",
+					"display_url": "pinterest.com/miketholfsen/m…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1078721179026829300,
+					"id_str": "1078721179026829313",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/DvhjMm-VsAExAtI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvhjMm-VsAExAtI.jpg",
+					"url": "https://t.co/x9D4MGSRS3",
+					"display_url": "pic.twitter.com/x9D4MGSRS3",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1078721803223130117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1082,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078721179026829300,
+					"id_str": "1078721179026829313",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/DvhjMm-VsAExAtI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvhjMm-VsAExAtI.jpg",
+					"url": "https://t.co/x9D4MGSRS3",
+					"display_url": "pic.twitter.com/x9D4MGSRS3",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1078721803223130117/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1082,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 15472,
 			"friends_count": 3037,
 			"listed_count": 701,
