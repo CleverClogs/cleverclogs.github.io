@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 27 16:20:43 +0000 2018",
+		"id": 1078324808545390600,
+		"id_str": "1078324808545390592",
+		"full_text": "The \"You Can\" video series by #MicrosoftEDU is just awesome.\n\nBonus tip: did you know you can live-embed this YouTube playlist directly in a #OneNote page?\n\nSimply grab the playlist web address from your browser address bar and paste it into a OneNote page.\n\n#oEmbed https://t.co/fmDNoWnkeC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "oEmbed",
+					"indices": [
+						259,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fmDNoWnkeC",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1078050284062965761",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						267,
+						290
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19491,
+			"friends_count": 7223,
+			"listed_count": 600,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25040,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1078050284062965800,
+		"quoted_status_id_str": "1078050284062965761",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fmDNoWnkeC",
+			"expanded": "https://twitter.com/mtholfsen/status/1078050284062965761",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 26 22:09:51 +0000 2018",
+			"id": 1078050284062965800,
+			"id_str": "1078050284062965761",
+			"full_text": "Want some short, sweet, and useful how-to 90 second videos on #MicrosoftEDU products? Subscribe to the \"You Can\" YouTube Channel and check these out. More coming in 2019! https://t.co/4IqAlbVCK5 #edtech #mieexpert #edtechchat #K12 #cpchat #TOSAchat https://t.co/imPjxZKCk3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							62,
+							75
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							195,
+							202
+						]
+					},
+					{
+						"text": "mieexpert",
+						"indices": [
+							203,
+							213
+						]
+					},
+					{
+						"text": "edtechchat",
+						"indices": [
+							214,
+							225
+						]
+					},
+					{
+						"text": "K12",
+						"indices": [
+							226,
+							230
+						]
+					},
+					{
+						"text": "cpchat",
+						"indices": [
+							231,
+							238
+						]
+					},
+					{
+						"text": "TOSAchat",
+						"indices": [
+							239,
+							248
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4IqAlbVCK5",
+						"expanded_url": "https://www.youtube.com/playlist?list=PLiluTszfwwMKx-yVe7ekBX6gsLIHf1Z8k",
+						"display_url": "youtube.com/playlist?list=…",
+						"indices": [
+							171,
+							194
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1078049904407175200,
+						"id_str": "1078049904407175169",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/DvYArSJVYAEVVVJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvYArSJVYAEVVVJ.jpg",
+						"url": "https://t.co/imPjxZKCk3",
+						"display_url": "pic.twitter.com/imPjxZKCk3",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1078050284062965761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 690,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1177,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1078049904407175200,
+						"id_str": "1078049904407175169",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/DvYArSJVYAEVVVJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DvYArSJVYAEVVVJ.jpg",
+						"url": "https://t.co/imPjxZKCk3",
+						"display_url": "pic.twitter.com/imPjxZKCk3",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1078050284062965761/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 690,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1177,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+				"url": "https://t.co/ANIFpSE2FB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSE2FB",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15468,
+				"friends_count": 3045,
+				"listed_count": 701,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 49052,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25582,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 19,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The \"You Can\" video series by #MicrosoftEDU is just awesome.\n\nBonus tip: did you know you can live-embed this YouTube playlist directly in a #OneNote page?\n\nSimply grab the playlist web address from your browser address bar and paste it into a OneNote page.\n\n#oEmbed https://t.co/fmDNoWnkeC"
+	},
+	{
 		"created_at": "Fri Dec 28 12:55:03 +0000 2018",
 		"id": 1078635438699696100,
 		"id_str": "1078635438699696128",
