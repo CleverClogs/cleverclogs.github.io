@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 02 22:37:25 +0000 2019",
+		"id": 1080593934986948600,
+		"id_str": "1080593934986948610",
+		"full_text": "@AirborneGeek @erinstellato Just saw this conversation and if you allow me to comment: I was just about to say the exact same thing.\n\nIf your data in your #OneNote notebook are of any value to you, then don't store your notebooks on Dropbox.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AirborneGeek",
+					"name": "Kerry Tyler",
+					"id": 15238474,
+					"id_str": "15238474",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "erinstellato",
+					"name": "Erin Stellato",
+					"id": 121222342,
+					"id_str": "121222342",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1080593340251422700,
+		"in_reply_to_status_id_str": "1080593340251422721",
+		"in_reply_to_user_id": 15238474,
+		"in_reply_to_user_id_str": "15238474",
+		"in_reply_to_screen_name": "AirborneGeek",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19547,
+			"friends_count": 7237,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AirborneGeek @erinstellato Just saw this conversation and if you allow me to comment: I was just about to say the exact same thing.\n\nIf your data in your #OneNote notebook are of any value to you, then don't store your notebooks on Dropbox."
+	},
+	{
 		"created_at": "Wed Jan 02 21:08:54 +0000 2019",
 		"id": 1080571658166026200,
 		"id_str": "1080571658166026240",
