@@ -305,6 +305,162 @@ Grailbird.data.tweets_2019_01 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m using #OneNote as my #OneWord Journal.  You can, too - it’s easy (and really rewarding!)  https://t.co/jTuQPZcTuW #MicrosoftEdu #MIEExpert @OneNoteC @OneNoteEDU"
+	},
+	{
+		"created_at": "Thu Jan 03 04:03:45 +0000 2019",
+		"id": 1080676061384458200,
+		"id_str": "1080676061384458240",
+		"full_text": "I’m using #OneNote as my #OneWord Journal.  You can, too - it’s easy (and really rewarding!)  https://t.co/jTuQPZcTuW #MicrosoftEdu #MIEExpert @OneNoteC @OneNoteEDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "OneWord",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						132,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						153,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jTuQPZcTuW",
+					"expanded_url": "https://kerszi.wordpress.com/2019/01/03/onenote-as-a-oneword-journal/",
+					"display_url": "kerszi.wordpress.com/2019/01/03/one…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595079922,
+			"id_str": "595079922",
+			"name": "Kathi Kersznowski",
+			"screen_name": "kerszi",
+			"location": "New Jersey, USA",
+			"description": "🤗Tech Integration Specialist, Presenter, Leader, Keynote Speaker, TOY, #MIEExpert, Empatico, Flipgrid, #Fliphunt, Buncee, #TeachSDGs, #LearningInTheLoo creator",
+			"url": "https://t.co/F3EubyVGqy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F3EubyVGqy",
+							"expanded_url": "http://kerszi.wordpress.com/",
+							"display_url": "kerszi.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10860,
+			"friends_count": 8111,
+			"listed_count": 614,
+			"created_at": "Wed May 30 23:31:13 +0000 2012",
+			"favourites_count": 33720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24067,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075231891123552256/L8B55vD4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075231891123552256/L8B55vD4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595079922/1460151831",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": true,
