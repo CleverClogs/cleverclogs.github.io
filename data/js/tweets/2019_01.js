@@ -65,6 +65,316 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 86581,
+			"friends_count": 65175,
+			"listed_count": 1902,
+			"created_at": "Sat Mar 14 14:22:25 +0000 2009",
+			"favourites_count": 43174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10331,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080964735128940544/f9-JKe6k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080964735128940544/f9-JKe6k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24374097/1546557052",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1080895341753495600,
+		"quoted_status_id_str": "1080895341753495556",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hhFK2lxmB1",
+			"expanded": "https://twitter.com/MadalynSklar/status/1080895341753495556",
+			"display": "twitter.com/MadalynSklar/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 03 18:35:06 +0000 2019",
+			"id": 1080895341753495600,
+			"id_str": "1080895341753495556",
+			"full_text": "Q4: What does the self-care principle of “owning your life” mean and how can a Twitter strategy support it? #TwitterSmarter https://t.co/vcHGsvWjCn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TwitterSmarter",
+						"indices": [
+							108,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1080895339912142800,
+						"id_str": "1080895339912142850",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/DwAclbbWoAIEgA1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwAclbbWoAIEgA1.jpg",
+						"url": "https://t.co/vcHGsvWjCn",
+						"display_url": "pic.twitter.com/vcHGsvWjCn",
+						"expanded_url": "https://twitter.com/MadalynSklar/status/1080895341753495556/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1080895339912142800,
+						"id_str": "1080895339912142850",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/DwAclbbWoAIEgA1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwAclbbWoAIEgA1.jpg",
+						"url": "https://t.co/vcHGsvWjCn",
+						"display_url": "pic.twitter.com/vcHGsvWjCn",
+						"expanded_url": "https://twitter.com/MadalynSklar/status/1080895341753495556/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14164297,
+				"id_str": "14164297",
+				"name": "Madalyn Sklar 🚀 Social Media Consultant",
+				"screen_name": "MadalynSklar",
+				"location": "Houston, TX",
+				"description": "Twitter Marketing Expert. Host #TwitterSmarter chat Thurs 1pm ET and podcast. https://t.co/nBDQrJYmZT. #SocialROI chat host Tues 5pm ET. #CTCpodcast host.",
+				"url": "https://t.co/Oaeqp32FDf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Oaeqp32FDf",
+								"expanded_url": "http://www.madalynsklar.com",
+								"display_url": "madalynsklar.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nBDQrJYmZT",
+								"expanded_url": "http://bit.ly/twittersmarter",
+								"display_url": "bit.ly/twittersmarter",
+								"indices": [
+									78,
+									101
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 70786,
+				"friends_count": 51330,
+				"listed_count": 4689,
+				"created_at": "Mon Mar 17 17:00:38 +0000 2008",
+				"favourites_count": 131527,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 189947,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971518376076984320/eQdX_nIQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971518376076984320/eQdX_nIQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14164297/1485550174",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How many of you keep a journal? written or digital?  I find this to be very useful.  talk to siri right into Notes or @msonenote \n\n#TwitterSmarter https://t.co/hhFK2lxmB1"
+	},
+	{
+		"created_at": "Thu Jan 03 18:43:03 +0000 2019",
+		"id": 1080897344248467500,
+		"id_str": "1080897344248467457",
+		"full_text": "How many of you keep a journal? written or digital?  I find this to be very useful.  talk to siri right into Notes or @msonenote \n\n#TwitterSmarter https://t.co/hhFK2lxmB1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TwitterSmarter",
+					"indices": [
+						131,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hhFK2lxmB1",
+					"expanded_url": "https://twitter.com/MadalynSklar/status/1080895341753495556",
+					"display_url": "twitter.com/MadalynSklar/s…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24374097,
+			"id_str": "24374097",
+			"name": "Denmark98",
+			"screen_name": "denmark98",
+			"location": "Denmark",
+			"description": "“Because in order to be able to think, you have to risk being offensive.\" | That rug really tied the room together, did it not?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 86578,
 			"friends_count": 65175,
 			"listed_count": 1902,
