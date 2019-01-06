@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 06 17:28:21 +0000 2019",
+		"id": 1081965706688778200,
+		"id_str": "1081965706688778240",
+		"full_text": "📢 #MicrosoftTeams everywhere…\n\n20 teachers from 9 different countries, discussing about the questions for next #MSFTEduChat TweetMeet, on a shared #OneNote notebook. Simply great!\n\nThey are #TeamsLovers https://t.co/fjhastvPZH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						2,
+						17
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "TeamsLovers",
+					"indices": [
+						190,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fjhastvPZH",
+					"expanded_url": "https://twitter.com/fcotexeira/status/1081963667426553857",
+					"display_url": "twitter.com/fcotexeira/sta…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1020219219689033700,
+			"id_str": "1020219219689033729",
+			"name": "Teams Central",
+			"screen_name": "TeamsCentral",
+			"location": "World",
+			"description": "Independent selection of #MicrosoftTeams news & updates, and a meeting point for #TeamsLovers, by @fcotexeira – MCE, MOS, MIE Expert & @TweetMeet's assistant.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 634,
+			"friends_count": 863,
+			"listed_count": 7,
+			"created_at": "Fri Jul 20 08:09:51 +0000 2018",
+			"favourites_count": 359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 268,
+			"lang": "es",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026758462750044160/arY8RVp6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026758462750044160/arY8RVp6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1020219219689033729/1535288988",
+			"profile_link_color": "5558AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081963667426553900,
+		"quoted_status_id_str": "1081963667426553857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fjhastvPZH",
+			"expanded": "https://twitter.com/fcotexeira/status/1081963667426553857",
+			"display": "twitter.com/fcotexeira/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 06 17:20:14 +0000 2019",
+			"id": 1081963667426553900,
+			"id_str": "1081963667426553857",
+			"full_text": "At this very moment, all teachers participating in next #MSFTEduChat TweetMeet are in a call within #MicrosoftTeams, organizing the event which will take place on January 15, at 10:00am PST, about Transforming Classroom Time. https://t.co/RMjWEMRwYL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							56,
+							68
+						]
+					},
+					{
+						"text": "MicrosoftTeams",
+						"indices": [
+							100,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1081963642302681100,
+						"id_str": "1081963642302681090",
+						"indices": [
+							226,
+							249
+						],
+						"media_url": "http://pbs.twimg.com/media/DwPoMz9W0AIGyBj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwPoMz9W0AIGyBj.jpg",
+						"url": "https://t.co/RMjWEMRwYL",
+						"display_url": "pic.twitter.com/RMjWEMRwYL",
+						"expanded_url": "https://twitter.com/fcotexeira/status/1081963667426553857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 774,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1081963642302681100,
+						"id_str": "1081963642302681090",
+						"indices": [
+							226,
+							249
+						],
+						"media_url": "http://pbs.twimg.com/media/DwPoMz9W0AIGyBj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwPoMz9W0AIGyBj.jpg",
+						"url": "https://t.co/RMjWEMRwYL",
+						"display_url": "pic.twitter.com/RMjWEMRwYL",
+						"expanded_url": "https://twitter.com/fcotexeira/status/1081963667426553857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 774,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 488780635,
+				"id_str": "488780635",
+				"name": "Francisco Texeira",
+				"screen_name": "fcotexeira",
+				"location": "Málaga, Andalucía",
+				"description": "Longlife learner, #MIEExpert, #MIEMasterTrainer, #MSFTEduChat @TweetMeet's assistant, certified #MOS & #MCE at @MaristasMalaga #TeamsLover running @TeamsCentral",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 833,
+				"friends_count": 915,
+				"listed_count": 18,
+				"created_at": "Fri Feb 10 20:51:20 +0000 2012",
+				"favourites_count": 3026,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1918,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021083001978007554/rn26ZaDP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021083001978007554/rn26ZaDP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/488780635/1529434643",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 #MicrosoftTeams everywhere…\n\n20 teachers from 9 different countries, discussing about the questions for next #MSFTEduChat TweetMeet, on a shared #OneNote notebook. Simply great!\n\nThey are #TeamsLovers https://t.co/fjhastvPZH"
+	},
+	{
 		"created_at": "Sun Jan 06 11:49:23 +0000 2019",
 		"id": 1081880405702332400,
 		"id_str": "1081880405702332416",
