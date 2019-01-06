@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 06 03:55:24 +0000 2019",
+		"id": 1081761123748040700,
+		"id_str": "1081761123748040705",
+		"full_text": "Excited to use my @MSAUedu @OneNoteEDU account as my Teacher Planner for 2019! Especially the section for daily reflections at the bottom of my DWP to allow me to be a more reflective practitioner! Thanks to @MsBeccaChapman for the inspiration! Includes all admin and teaching. https://t.co/kqPVGQqdWm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSAUedu",
+					"name": "Microsoft Education",
+					"id": 3666731533,
+					"id_str": "3666731533",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "MsBeccaChapman",
+					"name": "Rebecca Chapman",
+					"id": 991879939317088300,
+					"id_str": "991879939317088256",
+					"indices": [
+						208,
+						223
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081761077602340900,
+					"id_str": "1081761077602340865",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1081761077602340865/pu/img/T7g8aTZRoApF1xWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1081761077602340865/pu/img/T7g8aTZRoApF1xWA.jpg",
+					"url": "https://t.co/kqPVGQqdWm",
+					"display_url": "pic.twitter.com/kqPVGQqdWm",
+					"expanded_url": "https://twitter.com/MasielloMiss/status/1081761123748040705/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081761077602340900,
+					"id_str": "1081761077602340865",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1081761077602340865/pu/img/T7g8aTZRoApF1xWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1081761077602340865/pu/img/T7g8aTZRoApF1xWA.jpg",
+					"url": "https://t.co/kqPVGQqdWm",
+					"display_url": "pic.twitter.com/kqPVGQqdWm",
+					"expanded_url": "https://twitter.com/MasielloMiss/status/1081761123748040705/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36802,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1081761077602340865/pu/vid/480x480/KWCoLXgsRRANxvwJ.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1081761077602340865/pu/vid/320x320/MtfwoUFy4IONJZEj.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1081761077602340865/pu/pl/DiTdZ_fpF2OrWe7G.m3u8?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1081761077602340865/pu/vid/720x720/uDfYIetpftPeigRy.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 932866692601987100,
+			"id_str": "932866692601987072",
+			"name": "Miss Kate Masiello",
+			"screen_name": "MasielloMiss",
+			"location": "",
+			"description": "Year 4️⃣. ICT 💻. HASS Enthusiast 🌏. Positive Mindset 🧠. Apple Teacher 🍎. Seesaw and Book Creator Ambassador 📣. Sacred Heart Primary School, Thornlie 🏡.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140,
+			"friends_count": 139,
+			"listed_count": 1,
+			"created_at": "Tue Nov 21 07:02:06 +0000 2017",
+			"favourites_count": 710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981907007782318080/YZmR7bDQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981907007782318080/YZmR7bDQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/932866692601987072/1521642677",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to use my @MSAUedu @OneNoteEDU account as my Teacher Planner for 2019! Especially the section for daily reflections at the bottom of my DWP to allow me to be a more reflective practitioner! Thanks to @MsBeccaChapman for the inspiration! Includes all admin and teaching. https://t.co/kqPVGQqdWm"
+	},
+	{
+		"created_at": "Sun Jan 06 10:01:45 +0000 2019",
+		"id": 1081853319151120400,
+		"id_str": "1081853319151120384",
+		"full_text": "@LoryanStrant @UCMadScientist @tomarbuthnot @WordPress @msonenote #OneNote 2016 for Windows still supports the \"Send To Blog\" from the File &gt; Send menu. It takes your richly formatted OneNote page and forwards it to your SharePoint or WordPress blog through Microsoft Word.",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LoryanStrant",
+					"name": "Loryan Strant",
+					"id": 134424707,
+					"id_str": "134424707",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "UCMadScientist",
+					"name": "James \"UC Mad Scientist\" Arber",
+					"id": 36588761,
+					"id_str": "36588761",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "tomarbuthnot",
+					"name": "Tom Arbuthnot",
+					"id": 25867445,
+					"id_str": "25867445",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "WordPress",
+					"name": "WordPress",
+					"id": 685513,
+					"id_str": "685513",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						55,
+						65
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1081779871649488900,
+		"in_reply_to_status_id_str": "1081779871649488896",
+		"in_reply_to_user_id": 134424707,
+		"in_reply_to_user_id_str": "134424707",
+		"in_reply_to_screen_name": "LoryanStrant",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19567,
+			"friends_count": 7242,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25060,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LoryanStrant @UCMadScientist @tomarbuthnot @WordPress @msonenote #OneNote 2016 for Windows still supports the \"Send To Blog\" from the File &gt; Send menu. It takes your richly formatted OneNote page and forwards it to your SharePoint or WordPress blog through Microsoft Word."
+	},
+	{
 		"created_at": "Sat Jan 05 08:57:35 +0000 2019",
 		"id": 1081474780958728200,
 		"id_str": "1081474780958728192",
