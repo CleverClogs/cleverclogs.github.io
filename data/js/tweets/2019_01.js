@@ -241,6 +241,285 @@ Grailbird.data.tweets_2019_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
+			"statuses_count": 69939,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069320789445550080/bGxTLa9m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069320789445550080/bGxTLa9m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/521427482/1543862377",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn about #OneNoteEdu in #OneNote with my #OneNoteCourse\n\nhttps://t.co/AzztOqfddN \nsponsored by @OneNoteC \n\n@OneNoteEDU @msonenote #edtech #edapps #mieexpert #showcaseschool #microsoftedu #msfteduchat https://t.co/83Xbmi6Tam"
+	},
+	{
+		"created_at": "Mon Jan 07 09:08:28 +0000 2019",
+		"id": 1082202295855693800,
+		"id_str": "1082202295855693824",
+		"full_text": "Learn about #OneNoteEdu in #OneNote with my #OneNoteCourse\n\nhttps://t.co/AzztOqfddN \nsponsored by @OneNoteC \n\n@OneNoteEDU @msonenote #edtech #edapps #mieexpert #showcaseschool #microsoftedu #msfteduchat https://t.co/83Xbmi6Tam",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNoteEdu",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"text": "OneNoteCourse",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "edapps",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "showcaseschool",
+					"indices": [
+						160,
+						175
+					]
+				},
+				{
+					"text": "microsoftedu",
+					"indices": [
+						176,
+						189
+					]
+				},
+				{
+					"text": "msfteduchat",
+					"indices": [
+						190,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AzztOqfddN",
+					"expanded_url": "http://bit.ly/OneNoteCourse",
+					"display_url": "bit.ly/OneNoteCourse",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082201781688549400,
+					"id_str": "1082201781688549377",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/DwTAyWTXQAEpQJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwTAyWTXQAEpQJR.jpg",
+					"url": "https://t.co/83Xbmi6Tam",
+					"display_url": "pic.twitter.com/83Xbmi6Tam",
+					"expanded_url": "https://twitter.com/teachermarija/status/1082202295855693824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1752,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082201781688549400,
+					"id_str": "1082201781688549377",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/DwTAyWTXQAEpQJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwTAyWTXQAEpQJR.jpg",
+					"url": "https://t.co/83Xbmi6Tam",
+					"display_url": "pic.twitter.com/83Xbmi6Tam",
+					"expanded_url": "https://twitter.com/teachermarija/status/1082202295855693824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1752,
+							"h": 1049,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 521427482,
+			"id_str": "521427482",
+			"name": "Marija Petreska",
+			"screen_name": "teachermarija",
+			"location": "Macedonia",
+			"description": "English language teacher, MIE Fellow,  @ImmersiveMinds Associate",
+			"url": "https://t.co/546CoXQHMo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/546CoXQHMo",
+							"expanded_url": "https://about.me/petreskamarija",
+							"display_url": "about.me/petreskamarija",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3290,
+			"friends_count": 1904,
+			"listed_count": 549,
+			"created_at": "Sun Mar 11 15:48:42 +0000 2012",
+			"favourites_count": 6714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
 			"statuses_count": 69938,
 			"lang": "en",
 			"contributors_enabled": false,
