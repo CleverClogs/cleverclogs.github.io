@@ -841,6 +841,861 @@ Grailbird.data.tweets_2019_01 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 3,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 #MicrosoftTeams everywhere…\n\n20 teachers from 9 different countries, discussing about the questions for next #MSFTEduChat TweetMeet, on a shared #OneNote notebook. Simply great!\n\nThey are #TeamsLovers https://t.co/fjhastvPZH"
+	},
+	{
+		"created_at": "Sun Jan 06 16:41:53 +0000 2019",
+		"id": 1081954014793736200,
+		"id_str": "1081954014793736192",
+		"full_text": "Handwriting videos have had a sparkly upgrade ready for my sparkly new screen! @SarahPeek7 what do you reckon?? Thanks @msonenote! #edtech #sneintondigitaljourney https://t.co/ymWYchN2N1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "sneintondigitaljourney",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahPeek7",
+					"name": "Sarah Peek",
+					"id": 979300121203626000,
+					"id_str": "979300121203625984",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						119,
+						129
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081953926151315500,
+					"id_str": "1081953926151315456",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1081953926151315456/pu/img/jd-msXJ16LAmbJy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1081953926151315456/pu/img/jd-msXJ16LAmbJy1.jpg",
+					"url": "https://t.co/ymWYchN2N1",
+					"display_url": "pic.twitter.com/ymWYchN2N1",
+					"expanded_url": "https://twitter.com/mrswalkerteach/status/1081954014793736192/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081953926151315500,
+					"id_str": "1081953926151315456",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1081953926151315456/pu/img/jd-msXJ16LAmbJy1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1081953926151315456/pu/img/jd-msXJ16LAmbJy1.jpg",
+					"url": "https://t.co/ymWYchN2N1",
+					"display_url": "pic.twitter.com/ymWYchN2N1",
+					"expanded_url": "https://twitter.com/mrswalkerteach/status/1081954014793736192/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 17865,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1081953926151315456/pu/vid/240x180/Qf8Tmy7SWqMt6YYv.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1081953926151315456/pu/pl/HAgM717Y-WfORA-W.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1081953926151315456/pu/vid/960x720/0E8NFPg8TWNMkZzG.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1081953926151315456/pu/vid/480x360/Fnpoxew4LKgkfwf4.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 523607655,
+			"id_str": "523607655",
+			"name": "Rachel Walker",
+			"screen_name": "mrswalkerteach",
+			"location": "England",
+			"description": "Primary Teacher, Maths and Digital Leader and SLE. Wife, musician and Jesus follower. All views my own.",
+			"url": "https://t.co/h1YlvCRGrY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h1YlvCRGrY",
+							"expanded_url": "http://blueskyteacher.wordpress.com",
+							"display_url": "blueskyteacher.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 780,
+			"friends_count": 1288,
+			"listed_count": 10,
+			"created_at": "Tue Mar 13 19:49:20 +0000 2012",
+			"favourites_count": 2837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013124644419915776/rc8CUutg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013124644419915776/rc8CUutg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/523607655/1488741488",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Handwriting videos have had a sparkly upgrade ready for my sparkly new screen! @SarahPeek7 what do you reckon?? Thanks @msonenote! #edtech #sneintondigitaljourney https://t.co/ymWYchN2N1"
+	},
+	{
+		"created_at": "Mon Jan 07 01:56:19 +0000 2019",
+		"id": 1082093541810192400,
+		"id_str": "1082093541810192384",
+		"full_text": "@wheninaustin @msonenote This thread from just a few weeks ago explains how to create a global keyboard shortcut to launch a new page in the #OneNote app for #Windows10: \n\nhttps://t.co/RwvQ7Qj7Q2\nfull credit to @StefanWischner",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						158,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wheninaustin",
+					"name": "Terry Grier",
+					"id": 103615607,
+					"id_str": "103615607",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "StefanWischner",
+					"name": "Stefan Wischner",
+					"id": 246435670,
+					"id_str": "246435670",
+					"indices": [
+						211,
+						226
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RwvQ7Qj7Q2",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1076241800074022913",
+					"display_url": "twitter.com/OneNoteC/statu…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1081991269952442400,
+		"in_reply_to_status_id_str": "1081991269952442373",
+		"in_reply_to_user_id": 103615607,
+		"in_reply_to_user_id_str": "103615607",
+		"in_reply_to_screen_name": "wheninaustin",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19575,
+			"friends_count": 7244,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25067,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1076241800074022900,
+		"quoted_status_id_str": "1076241800074022913",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RwvQ7Qj7Q2",
+			"expanded": "https://twitter.com/OneNoteC/status/1076241800074022913",
+			"display": "twitter.com/OneNoteC/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 21 22:23:35 +0000 2018",
+			"id": 1076241800074022900,
+			"id_str": "1076241800074022913",
+			"full_text": "@dnbrv @msonenote Want a keyboard shortcut to create a Quick Note in #OneNote #Windows10? \nFollow the brilliant steps lined out by @StefanWischner:  \nhttps://t.co/xYEgXSti3r\n\nI just tested them once again and they work for me. I defined Ctrl+Shift+N to create a new page in my Quick Notes section.",
+			"truncated": false,
+			"display_text_range": [
+				18,
+				297
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							69,
+							77
+						]
+					},
+					{
+						"text": "Windows10",
+						"indices": [
+							78,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dnbrv",
+						"name": "Denis Baranov",
+						"id": 14461920,
+						"id_str": "14461920",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							7,
+							17
+						]
+					},
+					{
+						"screen_name": "StefanWischner",
+						"name": "Stefan Wischner",
+						"id": 246435670,
+						"id_str": "246435670",
+						"indices": [
+							131,
+							146
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xYEgXSti3r",
+						"expanded_url": "https://answers.microsoft.com/en-us/msoffice/forum/msoffice_onenote-mso_win10-mso_2016/quick-notes-moving-from-one-note-2016-to-one-note/0d42d0f6-da7a-4ed9-8175-7b69b84e57b1",
+						"display_url": "answers.microsoft.com/en-us/msoffice…",
+						"indices": [
+							150,
+							173
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1076125156207218700,
+			"in_reply_to_status_id_str": "1076125156207218688",
+			"in_reply_to_user_id": 14461920,
+			"in_reply_to_user_id_str": "14461920",
+			"in_reply_to_screen_name": "dnbrv",
+			"user": {
+				"id": 2582768738,
+				"id_str": "2582768738",
+				"name": "OneNote Central",
+				"screen_name": "OneNoteC",
+				"location": "World",
+				"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+				"url": "https://t.co/Udn06tcMta",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Udn06tcMta",
+								"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+								"display_url": "onen.link/onenote-commun…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19575,
+				"friends_count": 7244,
+				"listed_count": 599,
+				"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+				"favourites_count": 28316,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25067,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+				"profile_link_color": "7719AA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@wheninaustin @msonenote This thread from just a few weeks ago explains how to create a global keyboard shortcut to launch a new page in the #OneNote app for #Windows10: \n\nhttps://t.co/RwvQ7Qj7Q2\nfull credit to @StefanWischner"
+	},
+	{
+		"created_at": "Sun Jan 06 17:28:21 +0000 2019",
+		"id": 1081965706688778200,
+		"id_str": "1081965706688778240",
+		"full_text": "📢 #MicrosoftTeams everywhere…\n\n20 teachers from 9 different countries, discussing about the questions for next #MSFTEduChat TweetMeet, on a shared #OneNote notebook. Simply great!\n\nThey are #TeamsLovers https://t.co/fjhastvPZH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						2,
+						17
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "TeamsLovers",
+					"indices": [
+						190,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fjhastvPZH",
+					"expanded_url": "https://twitter.com/fcotexeira/status/1081963667426553857",
+					"display_url": "twitter.com/fcotexeira/sta…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1020219219689033700,
+			"id_str": "1020219219689033729",
+			"name": "Teams Central",
+			"screen_name": "TeamsCentral",
+			"location": "World",
+			"description": "Independent selection of #MicrosoftTeams news & updates, and a meeting point for #TeamsLovers, by @fcotexeira – MCE, MOS, MIE Expert & @TweetMeet's assistant.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 637,
+			"friends_count": 863,
+			"listed_count": 7,
+			"created_at": "Fri Jul 20 08:09:51 +0000 2018",
+			"favourites_count": 359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 268,
+			"lang": "es",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026758462750044160/arY8RVp6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026758462750044160/arY8RVp6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1020219219689033729/1535288988",
+			"profile_link_color": "5558AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1081963667426553900,
+		"quoted_status_id_str": "1081963667426553857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fjhastvPZH",
+			"expanded": "https://twitter.com/fcotexeira/status/1081963667426553857",
+			"display": "twitter.com/fcotexeira/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 06 17:20:14 +0000 2019",
+			"id": 1081963667426553900,
+			"id_str": "1081963667426553857",
+			"full_text": "At this very moment, all teachers participating in next #MSFTEduChat TweetMeet are in a call within #MicrosoftTeams, organizing the event which will take place on January 15, at 10:00am PST, about Transforming Classroom Time. https://t.co/RMjWEMRwYL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							56,
+							68
+						]
+					},
+					{
+						"text": "MicrosoftTeams",
+						"indices": [
+							100,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1081963642302681100,
+						"id_str": "1081963642302681090",
+						"indices": [
+							226,
+							249
+						],
+						"media_url": "http://pbs.twimg.com/media/DwPoMz9W0AIGyBj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwPoMz9W0AIGyBj.jpg",
+						"url": "https://t.co/RMjWEMRwYL",
+						"display_url": "pic.twitter.com/RMjWEMRwYL",
+						"expanded_url": "https://twitter.com/fcotexeira/status/1081963667426553857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 774,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1081963642302681100,
+						"id_str": "1081963642302681090",
+						"indices": [
+							226,
+							249
+						],
+						"media_url": "http://pbs.twimg.com/media/DwPoMz9W0AIGyBj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwPoMz9W0AIGyBj.jpg",
+						"url": "https://t.co/RMjWEMRwYL",
+						"display_url": "pic.twitter.com/RMjWEMRwYL",
+						"expanded_url": "https://twitter.com/fcotexeira/status/1081963667426553857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 774,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 488780635,
+				"id_str": "488780635",
+				"name": "Francisco Texeira",
+				"screen_name": "fcotexeira",
+				"location": "Málaga, Andalucía",
+				"description": "Longlife learner, #MIEExpert, #MIEMasterTrainer, #MSFTEduChat @TweetMeet's assistant, certified #MOS & #MCE at @MaristasMalaga #TeamsLover running @TeamsCentral",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 835,
+				"friends_count": 915,
+				"listed_count": 18,
+				"created_at": "Fri Feb 10 20:51:20 +0000 2012",
+				"favourites_count": 3029,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1918,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1021083001978007554/rn26ZaDP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021083001978007554/rn26ZaDP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/488780635/1529434643",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
 			"favorite_count": 20,
 			"favorited": false,
 			"retweeted": false,
