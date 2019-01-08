@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 19:05:33 +0000 2019",
+		"id": 1082714945446383600,
+		"id_str": "1082714945446383618",
+		"full_text": "Awesome Twitter conversation about #OneNote and #MicrosoftWhiteboard, covering digital ink, sync performance, and what’s coming in the near future: https://t.co/itQ0tfitcd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "MicrosoftWhiteboard",
+					"indices": [
+						48,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/itQ0tfitcd",
+					"expanded_url": "https://twitter.com/luisefreese/status/1082516843745738752",
+					"display_url": "twitter.com/luisefreese/st…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19588,
+			"friends_count": 7246,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25072,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082516843745738800,
+		"quoted_status_id_str": "1082516843745738752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/itQ0tfitcd",
+			"expanded": "https://twitter.com/luisefreese/status/1082516843745738752",
+			"display": "twitter.com/luisefreese/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 08 05:58:22 +0000 2019",
+			"id": 1082516843745738800,
+			"id_str": "1082516843745738752",
+			"full_text": "This is what I call #businesscreativity and #functionaldrawing! Using ink to think, draft and ideate 💡#microsoftwhiteboard - thanks for sharing @8bitclassroom ever tried to collaborate with someone else in Whiteboard? https://t.co/xHlFnnh4JA @DarrellaaS @regarding365 @IanMikutel https://t.co/EBeYLRaCZo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "businesscreativity",
+						"indices": [
+							20,
+							39
+						]
+					},
+					{
+						"text": "functionaldrawing",
+						"indices": [
+							44,
+							62
+						]
+					},
+					{
+						"text": "microsoftwhiteboard",
+						"indices": [
+							102,
+							122
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "8bitclassroom",
+						"name": "Mr. Dang",
+						"id": 854149007211241500,
+						"id_str": "854149007211241472",
+						"indices": [
+							144,
+							158
+						]
+					},
+					{
+						"screen_name": "DarrellaaS",
+						"name": "Darrell as a Service 🛎",
+						"id": 401809242,
+						"id_str": "401809242",
+						"indices": [
+							242,
+							253
+						]
+					},
+					{
+						"screen_name": "regarding365",
+						"name": "REgarding 365",
+						"id": 815825241108664300,
+						"id_str": "815825241108664320",
+						"indices": [
+							254,
+							267
+						]
+					},
+					{
+						"screen_name": "IanMikutel",
+						"name": "Ian Mikutel",
+						"id": 2157421,
+						"id_str": "2157421",
+						"indices": [
+							268,
+							279
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xHlFnnh4JA",
+						"expanded_url": "https://sway.office.com/TISu3A5PBOH9rfaF",
+						"display_url": "sway.office.com/TISu3A5PBOH9rf…",
+						"indices": [
+							218,
+							241
+						]
+					},
+					{
+						"url": "https://t.co/EBeYLRaCZo",
+						"expanded_url": "https://twitter.com/8bitclassroom/status/1082512948587679744",
+						"display_url": "twitter.com/8bitclassroom/…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 914007249395347500,
+				"id_str": "914007249395347458",
+				"name": "👩🏻‍🎤 Luise Freese | Microsoft MVP | InkingNinja",
+				"screen_name": "LuiseFreese",
+				"location": "Home: Düsseldorf, Deutschland",
+				"description": "#Office365 Consultant | MVP |Sketchnote Artist | Speaker  \n\nI win the hearts and minds of employees when it comes to being adaptive change and adopt Office365",
+				"url": "https://t.co/Xk99VXVZkm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xk99VXVZkm",
+								"expanded_url": "http://www.raeuberleiterin.de",
+								"display_url": "raeuberleiterin.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2810,
+				"friends_count": 1255,
+				"listed_count": 66,
+				"created_at": "Sat Sep 30 06:01:24 +0000 2017",
+				"favourites_count": 21001,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8436,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971112151975911430/ugG5kUrN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971112151975911430/ugG5kUrN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/914007249395347458/1537527716",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0b1ac542e43013b7",
+				"url": "https://api.twitter.com/1.1/geo/id/0b1ac542e43013b7.json",
+				"place_type": "city",
+				"name": "Siegburg",
+				"full_name": "Siegburg, Deutschland",
+				"country_code": "DE",
+				"country": "Germany",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								7.174178,
+								50.779767
+							],
+							[
+								7.310495,
+								50.779767
+							],
+							[
+								7.310495,
+								50.827895
+							],
+							[
+								7.174178,
+								50.827895
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1082512948587679700,
+			"quoted_status_id_str": "1082512948587679744",
+			"quoted_status_permalink": {
+				"url": "https://t.co/EBeYLRaCZo",
+				"expanded": "https://twitter.com/8bitclassroom/status/1082512948587679744",
+				"display": "twitter.com/8bitclassroom/…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Awesome Twitter conversation about #OneNote and #MicrosoftWhiteboard, covering digital ink, sync performance, and what’s coming in the near future: https://t.co/itQ0tfitcd"
+	},
+	{
+		"created_at": "Sun Jan 06 21:05:32 +0000 2019",
+		"id": 1082020366397014000,
+		"id_str": "1082020366397014016",
+		"full_text": "The latest @Office365 @Surrey365 @Surrey_Schools #LearningFlash featuring @AndreaLangelaar and how she  uses @msonenote to connect and collaborate. #sd36learn https://t.co/DghBXF9mec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LearningFlash",
+					"indices": [
+						49,
+						63
+					]
+				},
+				{
+					"text": "sd36learn",
+					"indices": [
+						148,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "Surrey365",
+					"name": "Office365 in SD36",
+					"id": 1008811568232947700,
+					"id_str": "1008811568232947712",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"screen_name": "Surrey_Schools",
+					"name": "Surrey Schools",
+					"id": 382336460,
+					"id_str": "382336460",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"screen_name": "AndreaLangelaar",
+					"name": "Andrea Langelaar",
+					"id": 478284577,
+					"id_str": "478284577",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DghBXF9mec",
+					"expanded_url": "https://vimeo.com/309675085",
+					"display_url": "vimeo.com/309675085",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1008811568232947700,
+			"id_str": "1008811568232947712",
+			"name": "Office365 in SD36",
+			"screen_name": "Surrey365",
+			"location": "Surrey, British Columbia",
+			"description": "Official account of Microsoft Office 365 deployment in Surrey Schools",
+			"url": "https://t.co/xRCbjskV2L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xRCbjskV2L",
+							"expanded_url": "http://www.surreyschools.ca/office365",
+							"display_url": "surreyschools.ca/office365",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108,
+			"friends_count": 13,
+			"listed_count": 0,
+			"created_at": "Mon Jun 18 20:39:55 +0000 2018",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1008811855144411136/qi_bXJnw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008811855144411136/qi_bXJnw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1008811568232947712/1529355370",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The latest @Office365 @Surrey365 @Surrey_Schools #LearningFlash featuring @AndreaLangelaar and how she  uses @msonenote to connect and collaborate. #sd36learn https://t.co/DghBXF9mec"
+	},
+	{
 		"created_at": "Tue Jan 08 15:37:11 +0000 2019",
 		"id": 1082662506479390700,
 		"id_str": "1082662506479390725",
