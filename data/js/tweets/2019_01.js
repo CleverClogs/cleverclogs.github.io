@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 12:05:41 +0000 2019",
+		"id": 1082971672330858500,
+		"id_str": "1082971672330858496",
+		"full_text": "The nifty pop-ups in @MicrosoftEdge house many useful features by @OxfordWords:\n1. IPA phonetic transcription\n2. speak aloud\n3. word category\n4. plural form\n5. synonyms\n6. sample sentences\n7. etymology\n\nPin it to the sidebar for persistent look-ups.\n\nPracticing @Snagit skills: 😜 https://t.co/a8zoQJ36WS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEdge",
+					"name": "Microsoft Edge",
+					"id": 19315174,
+					"id_str": "19315174",
+					"indices": [
+						21,
+						35
+					]
+				},
+				{
+					"screen_name": "OxfordWords",
+					"name": "Oxford Dictionaries",
+					"id": 249150179,
+					"id_str": "249150179",
+					"indices": [
+						66,
+						78
+					]
+				},
+				{
+					"screen_name": "Snagit",
+					"name": "TechSmith Snagit",
+					"id": 21217380,
+					"id_str": "21217380",
+					"indices": [
+						262,
+						269
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082967709502107600,
+					"id_str": "1082967709502107648",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwd5ZNwXcAAJ9MY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwd5ZNwXcAAJ9MY.jpg",
+					"url": "https://t.co/a8zoQJ36WS",
+					"display_url": "pic.twitter.com/a8zoQJ36WS",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1082971672330858496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1374,
+							"h": 958,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 837,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082967709502107600,
+					"id_str": "1082967709502107648",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwd5ZNwXcAAJ9MY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwd5ZNwXcAAJ9MY.jpg",
+					"url": "https://t.co/a8zoQJ36WS",
+					"display_url": "pic.twitter.com/a8zoQJ36WS",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1082971672330858496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1374,
+							"h": 958,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 837,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1082959207677263900,
+		"in_reply_to_status_id_str": "1082959207677263872",
+		"in_reply_to_user_id": 2582768738,
+		"in_reply_to_user_id_str": "2582768738",
+		"in_reply_to_screen_name": "OneNoteC",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19592,
+			"friends_count": 7246,
+			"listed_count": 599,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25075,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The nifty pop-ups in @MicrosoftEdge house many useful features by @OxfordWords:\n1. IPA phonetic transcription\n2. speak aloud\n3. word category\n4. plural form\n5. synonyms\n6. sample sentences\n7. etymology\n\nPin it to the sidebar for persistent look-ups.\n\nPracticing @Snagit skills: 😜 https://t.co/a8zoQJ36WS"
+	},
+	{
 		"created_at": "Wed Jan 09 11:16:10 +0000 2019",
 		"id": 1082959207677263900,
 		"id_str": "1082959207677263872",
