@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 07:26:00 +0000 2019",
+		"id": 1082538897391931400,
+		"id_str": "1082538897391931392",
+		"full_text": "Sticky Notes from Microsoft – a nifty little app to tidy up fiddly bits of paper https://t.co/XyBB3VaHx6 || Bitter Grounds Magazine\n\n#Microsoft #stickynotes #apps #Android #Windows https://t.co/D7ESC61prK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "stickynotes",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "apps",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "Android",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "Windows",
+					"indices": [
+						172,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XyBB3VaHx6",
+					"expanded_url": "https://bittergrounds.com/sticky-notes-from-microsoft-a-nifty-little-app-to-tidy-up-fiddly-bits-of-paper/",
+					"display_url": "bittergrounds.com/sticky-notes-f…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082382860546277400,
+					"id_str": "1082382860546277376",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/DwVlehnVAAA2DVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwVlehnVAAA2DVs.jpg",
+					"url": "https://t.co/D7ESC61prK",
+					"display_url": "pic.twitter.com/D7ESC61prK",
+					"expanded_url": "https://twitter.com/catpaw/status/1082538897391931392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 379,
+							"h": 846,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 305,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 379,
+							"h": 846,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082382860546277400,
+					"id_str": "1082382860546277376",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/DwVlehnVAAA2DVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwVlehnVAAA2DVs.jpg",
+					"url": "https://t.co/D7ESC61prK",
+					"display_url": "pic.twitter.com/D7ESC61prK",
+					"expanded_url": "https://twitter.com/catpaw/status/1082538897391931392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 379,
+							"h": 846,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 305,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 379,
+							"h": 846,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9117482,
+			"id_str": "9117482",
+			"name": "Bitter Grounds",
+			"screen_name": "catpaw",
+			"location": "Toronto, Canada",
+			"description": "One day I'll take over the world. Choose now - be a loyal minion or be one of the downtrodden who will serve my every whim.. oh wait what's the difference?",
+			"url": "http://t.co/g4mzfDgI5D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g4mzfDgI5D",
+							"expanded_url": "http://www.bittergrounds.com/",
+							"display_url": "bittergrounds.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1068,
+			"friends_count": 1452,
+			"listed_count": 104,
+			"created_at": "Thu Sep 27 02:02:31 +0000 2007",
+			"favourites_count": 14632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34245,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959217293120102401/cPahyK3F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959217293120102401/cPahyK3F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9117482/1475886748",
+			"profile_link_color": "355E3B",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sticky Notes from Microsoft – a nifty little app to tidy up fiddly bits of paper https://t.co/XyBB3VaHx6 || Bitter Grounds Magazine\n\n#Microsoft #stickynotes #apps #Android #Windows https://t.co/D7ESC61prK"
+	},
+	{
 		"created_at": "Wed Jan 09 12:05:41 +0000 2019",
 		"id": 1082971672330858500,
 		"id_str": "1082971672330858496",
