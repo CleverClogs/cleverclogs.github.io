@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 18:13:50 +0000 2019",
+		"id": 1083064317010948100,
+		"id_str": "1083064317010948097",
+		"full_text": "Meeting notes, this one in @msonenote. The highlighter marker is surprisingly fun. https://t.co/IKZYxinPny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						27,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083064313055793200,
+					"id_str": "1083064313055793153",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DwfRQSCX0AEVJon.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwfRQSCX0AEVJon.jpg",
+					"url": "https://t.co/IKZYxinPny",
+					"display_url": "pic.twitter.com/IKZYxinPny",
+					"expanded_url": "https://twitter.com/H_HoppBruce/status/1083064317010948097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1055,
+							"h": 1035,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1055,
+							"h": 1035,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083064313055793200,
+					"id_str": "1083064313055793153",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DwfRQSCX0AEVJon.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwfRQSCX0AEVJon.jpg",
+					"url": "https://t.co/IKZYxinPny",
+					"display_url": "pic.twitter.com/IKZYxinPny",
+					"expanded_url": "https://twitter.com/H_HoppBruce/status/1083064317010948097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1055,
+							"h": 1035,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1055,
+							"h": 1035,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85654004,
+			"id_str": "85654004",
+			"name": "Heather Hopp-Bruce",
+			"screen_name": "H_HoppBruce",
+			"location": "Boston, MA",
+			"description": "Boston Globe Design Director. What it is, is beautiful. #factsmatter @bostonglobe @globevisuals",
+			"url": "https://t.co/UMs40JWCGY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UMs40JWCGY",
+							"expanded_url": "http://bostonglobe.com",
+							"display_url": "bostonglobe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 368,
+			"listed_count": 25,
+			"created_at": "Tue Oct 27 20:27:08 +0000 2009",
+			"favourites_count": 2225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/473298140477411328/V9m-N1zY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/473298140477411328/V9m-N1zY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85654004/1493837174",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meeting notes, this one in @msonenote. The highlighter marker is surprisingly fun. https://t.co/IKZYxinPny"
+	},
+	{
+		"created_at": "Wed Jan 09 14:54:54 +0000 2019",
+		"id": 1083014256071753700,
+		"id_str": "1083014256071753728",
+		"full_text": "Meet our wonderful, global hosts for the next #MSFTEduChat, which will be about Transforming Classroom Time. \n\nKindly follow all January 15 TweetMeet hosts through this Twitter List:\nhttps://t.co/Lw75OMecbh\n\nLocal event times:\nhttps://t.co/EL0Lot3AUR\n\n#MicrosoftEDU #ChangeMakers https://t.co/w2Pz7GrIFo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						252,
+						265
+					]
+				},
+				{
+					"text": "ChangeMakers",
+					"indices": [
+						266,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lw75OMecbh",
+					"expanded_url": "https://twitter.com/tweetmeet/msfteduchat-2019-01",
+					"display_url": "twitter.com/tweetmeet/msft…",
+					"indices": [
+						183,
+						206
+					]
+				},
+				{
+					"url": "https://t.co/EL0Lot3AUR",
+					"expanded_url": "https://www.timeanddate.com/worldclock/fixedtime.html?low=c&p1=234&iso=20190115T10&msg=%23MSFTEduChat%20TweetMeet%20%e2%80%93%20Jan%2015&ah=1&sort=1",
+					"display_url": "timeanddate.com/worldclock/fix…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083014056192213000,
+					"id_str": "1083014056192212992",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Dweji8oXgAApouS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dweji8oXgAApouS.jpg",
+					"url": "https://t.co/w2Pz7GrIFo",
+					"display_url": "pic.twitter.com/w2Pz7GrIFo",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1083014256071753728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083014056192213000,
+					"id_str": "1083014056192212992",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Dweji8oXgAApouS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dweji8oXgAApouS.jpg",
+					"url": "https://t.co/w2Pz7GrIFo",
+					"display_url": "pic.twitter.com/w2Pz7GrIFo",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1083014256071753728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1551,
+			"friends_count": 976,
+			"listed_count": 14,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1545855124",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meet our wonderful, global hosts for the next #MSFTEduChat, which will be about Transforming Classroom Time. \n\nKindly follow all January 15 TweetMeet hosts through this Twitter List:\nhttps://t.co/Lw75OMecbh\n\nLocal event times:\nhttps://t.co/EL0Lot3AUR\n\n#MicrosoftEDU #ChangeMakers https://t.co/w2Pz7GrIFo"
+	},
+	{
+		"created_at": "Wed Jan 09 17:33:40 +0000 2019",
+		"id": 1083054209128226800,
+		"id_str": "1083054209128226816",
+		"full_text": "NEW! Translation comes to the Immersive Reader! Either by word, or the entire document.  Read aloud, picture dictionary, syllables, parts of speech and more. Details at the blog: https://t.co/28WBfQjGXG #ELL #TESOL #edtech #mieexpert #FlipgridFever https://t.co/VtvpBC1HU0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELL",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "TESOL",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						215,
+						222
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						223,
+						233
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						234,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/28WBfQjGXG",
+					"expanded_url": "http://aka.ms/LearningToolsJanuary2019",
+					"display_url": "aka.ms/LearningToolsJ…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083053750766297100,
+					"id_str": "1083053750766297089",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/DwfHpecUYAEPhK2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwfHpecUYAEPhK2.jpg",
+					"url": "https://t.co/VtvpBC1HU0",
+					"display_url": "pic.twitter.com/VtvpBC1HU0",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083054209128226816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083053750766297100,
+					"id_str": "1083053750766297089",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/DwfHpecUYAEPhK2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwfHpecUYAEPhK2.jpg",
+					"url": "https://t.co/VtvpBC1HU0",
+					"display_url": "pic.twitter.com/VtvpBC1HU0",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083054209128226816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15603,
+			"friends_count": 3039,
+			"listed_count": 702,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 49709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25794,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Translation comes to the Immersive Reader! Either by word, or the entire document.  Read aloud, picture dictionary, syllables, parts of speech and more. Details at the blog: https://t.co/28WBfQjGXG #ELL #TESOL #edtech #mieexpert #FlipgridFever https://t.co/VtvpBC1HU0"
+	},
+	{
 		"created_at": "Wed Jan 09 17:33:40 +0000 2019",
 		"id": 1083054209128226800,
 		"id_str": "1083054209128226816",
