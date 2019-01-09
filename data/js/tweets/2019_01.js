@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 20:16:01 +0000 2019",
+		"id": 1082732680343707600,
+		"id_str": "1082732680343707648",
+		"full_text": "Using #OneNote Class Notebook in #MicrosoftTeams, educators can create spaces for the whole class to store and share text, voice notes, images, and more. Explore this page to learn how to best facilitate this dual #edtech experience: https://t.co/jk28xdKJ9k https://t.co/eOgwYKfLiK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jk28xdKJ9k",
+					"expanded_url": "http://msft.social/onUVAI",
+					"display_url": "msft.social/onUVAI",
+					"indices": [
+						234,
+						257
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082732675520217100,
+					"id_str": "1082732675520217089",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwajob8XQAEBUjV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwajob8XQAEBUjV.jpg",
+					"url": "https://t.co/eOgwYKfLiK",
+					"display_url": "pic.twitter.com/eOgwYKfLiK",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1082732680343707648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082732675520217100,
+					"id_str": "1082732675520217089",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwajob8XQAEBUjV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwajob8XQAEBUjV.jpg",
+					"url": "https://t.co/eOgwYKfLiK",
+					"display_url": "pic.twitter.com/eOgwYKfLiK",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1082732680343707648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3096566760,
+			"id_str": "3096566760",
+			"name": "OneNote Education",
+			"screen_name": "OneNoteEDU",
+			"location": "Redmond, WA",
+			"description": "Connecting educators to OneNote resources and information. An official channel for Microsoft OneNote.",
+			"url": "http://t.co/VAJyjQIbaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VAJyjQIbaK",
+							"expanded_url": "http://onenoteineducation.com/",
+							"display_url": "onenoteineducation.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68363,
+			"friends_count": 851,
+			"listed_count": 765,
+			"created_at": "Wed Mar 18 17:56:27 +0000 2015",
+			"favourites_count": 10286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17180,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096566760/1455659611",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Using #OneNote Class Notebook in #MicrosoftTeams, educators can create spaces for the whole class to store and share text, voice notes, images, and more. Explore this page to learn how to best facilitate this dual #edtech experience: https://t.co/jk28xdKJ9k https://t.co/eOgwYKfLiK"
+	},
+	{
 		"created_at": "Tue Jan 08 19:05:33 +0000 2019",
 		"id": 1082714945446383600,
 		"id_str": "1082714945446383618",
@@ -227,7 +433,7 @@ Grailbird.data.tweets_2019_01 =
 			"user": {
 				"id": 914007249395347500,
 				"id_str": "914007249395347458",
-				"name": "👩🏻‍🎤 Luise Freese | Microsoft MVP | InkingNinja",
+				"name": "👩🏻🎤 Luise Freese | Microsoft MVP | InkingNinja",
 				"screen_name": "LuiseFreese",
 				"location": "Home: Düsseldorf, Deutschland",
 				"description": "#Office365 Consultant | MVP |Sketchnote Artist | Speaker  \n\nI win the hearts and minds of employees when it comes to being adaptive change and adopt Office365",
