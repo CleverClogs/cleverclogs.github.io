@@ -1,10 +1,685 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 17:27:07 +0000 2019",
+		"id": 1083414948120674300,
+		"id_str": "1083414948120674304",
+		"full_text": "NEW! Now educators can turn the Math pane on/off for students when using Class Notebook.  Details at the blog: https://t.co/TQnQE8hzY7 #mathchat #edtech #mieexpert #MicrosoftEDU https://t.co/eq3JHc8zqv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mathchat",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						164,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TQnQE8hzY7",
+					"expanded_url": "http://aka.ms/OneNoteJanuary2019",
+					"display_url": "aka.ms/OneNoteJanuary…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083414764540256300,
+					"id_str": "1083414764540256256",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DwkP_PjV4AAriOI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwkP_PjV4AAriOI.jpg",
+					"url": "https://t.co/eq3JHc8zqv",
+					"display_url": "pic.twitter.com/eq3JHc8zqv",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083414948120674304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 492,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 492,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083414764540256300,
+					"id_str": "1083414764540256256",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DwkP_PjV4AAriOI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwkP_PjV4AAriOI.jpg",
+					"url": "https://t.co/eq3JHc8zqv",
+					"display_url": "pic.twitter.com/eq3JHc8zqv",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083414948120674304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 492,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 492,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15637,
+			"friends_count": 3042,
+			"listed_count": 705,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 49862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25821,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Now educators can turn the Math pane on/off for students when using Class Notebook.  Details at the blog: https://t.co/TQnQE8hzY7 #mathchat #edtech #mieexpert #MicrosoftEDU https://t.co/eq3JHc8zqv"
+	},
+	{
+		"created_at": "Thu Jan 10 17:43:00 +0000 2019",
+		"id": 1083418946210951200,
+		"id_str": "1083418946210951173",
+		"full_text": "Coming Soon: #OneNote Class Notebook Toolbar improvements: Individual and Group distribution, Cross Notebook Review, Distribute Section Group and Undo. For the Windows 10 app, Online, iPad and Mac.  More at the blog: https://t.co/TQnQE8hzY7 #edtech #edchat #mieexpert https://t.co/VlplUrQahW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						241,
+						248
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						249,
+						256
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						257,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TQnQE8hzY7",
+					"expanded_url": "http://aka.ms/OneNoteJanuary2019",
+					"display_url": "aka.ms/OneNoteJanuary…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083418596934541300,
+					"id_str": "1083418596934541312",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/DwkTeUVV4AAk9yA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwkTeUVV4AAk9yA.jpg",
+					"url": "https://t.co/VlplUrQahW",
+					"display_url": "pic.twitter.com/VlplUrQahW",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083418946210951173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 583,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 927,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 927,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083418596934541300,
+					"id_str": "1083418596934541312",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/DwkTeUVV4AAk9yA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwkTeUVV4AAk9yA.jpg",
+					"url": "https://t.co/VlplUrQahW",
+					"display_url": "pic.twitter.com/VlplUrQahW",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083418946210951173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 583,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 927,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 927,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1083418741122027500,
+					"id_str": "1083418741122027520",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/DwkTmteUUAAAkT9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwkTmteUUAAAkT9.jpg",
+					"url": "https://t.co/VlplUrQahW",
+					"display_url": "pic.twitter.com/VlplUrQahW",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083418946210951173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1056,
+							"h": 918,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 591,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1056,
+							"h": 918,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15637,
+			"friends_count": 3042,
+			"listed_count": 705,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 49862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25821,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coming Soon: #OneNote Class Notebook Toolbar improvements: Individual and Group distribution, Cross Notebook Review, Distribute Section Group and Undo. For the Windows 10 app, Online, iPad and Mac.  More at the blog: https://t.co/TQnQE8hzY7 #edtech #edchat #mieexpert https://t.co/VlplUrQahW"
+	},
+	{
 		"created_at": "Thu Jan 10 17:01:20 +0000 2019",
 		"id": 1083408458882310100,
 		"id_str": "1083408458882310144",
 		"full_text": "Teachers asked, we listened 💜 New #OneNote Class Notebook updates for Win 10 app, Web, iPad &amp; Mac!\n \n📚 Cross notebook distribution\n🗄 Copy Content Library\n🏃🏻‍♂️ Fast page distribution\n🍎 Mac LMS/SIS Integration\n🍭 &amp; more\n \nhttps://t.co/TQnQE8hzY7\n \n#edtech #mieexpert #MicrosoftEDU https://t.co/7MOutgoFGB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						254,
+						261
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						262,
+						272
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						273,
+						286
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TQnQE8hzY7",
+					"expanded_url": "http://aka.ms/OneNoteJanuary2019",
+					"display_url": "aka.ms/OneNoteJanuary…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083408452875997200,
+					"id_str": "1083408452875997184",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/DwkKP2xUUAATjDl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwkKP2xUUAATjDl.jpg",
+					"url": "https://t.co/7MOutgoFGB",
+					"display_url": "pic.twitter.com/7MOutgoFGB",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083408458882310144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1029,
+							"h": 661,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1029,
+							"h": 661,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083408452875997200,
+					"id_str": "1083408452875997184",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/DwkKP2xUUAATjDl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwkKP2xUUAATjDl.jpg",
+					"url": "https://t.co/7MOutgoFGB",
+					"display_url": "pic.twitter.com/7MOutgoFGB",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083408458882310144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1029,
+							"h": 661,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1029,
+							"h": 661,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15637,
+			"friends_count": 3042,
+			"listed_count": 705,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 49862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25821,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Teachers asked, we listened 💜 New #OneNote Class Notebook updates for Win 10 app, Web, iPad &amp; Mac!\n \n📚 Cross notebook distribution\n🗄 Copy Content Library\n🏃🏻‍♂️ Fast page distribution\n🍎 Mac LMS/SIS Integration\n🍭 &amp; more\n \nhttps://t.co/TQnQE8hzY7\n \n#edtech #mieexpert #MicrosoftEDU https://t.co/7MOutgoFGB"
+	},
+	{
+		"created_at": "Thu Jan 10 17:01:20 +0000 2019",
+		"id": 1083408458882310100,
+		"id_str": "1083408458882310144",
+		"full_text": "Teachers asked, we listened 💜 New #OneNote Class Notebook updates for Win 10 app, Web, iPad &amp; Mac!\n \n📚 Cross notebook distribution\n🗄 Copy Content Library\n🏃🏻♂️ Fast page distribution\n🍎 Mac LMS/SIS Integration\n🍭 &amp; more\n \nhttps://t.co/TQnQE8hzY7\n \n#edtech #mieexpert #MicrosoftEDU https://t.co/7MOutgoFGB",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -211,7 +886,7 @@ Grailbird.data.tweets_2019_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Teachers asked, we listened 💜 New #OneNote Class Notebook updates for Win 10 app, Web, iPad &amp; Mac!\n \n📚 Cross notebook distribution\n🗄 Copy Content Library\n🏃🏻‍♂️ Fast page distribution\n🍎 Mac LMS/SIS Integration\n🍭 &amp; more\n \nhttps://t.co/TQnQE8hzY7\n \n#edtech #mieexpert #MicrosoftEDU https://t.co/7MOutgoFGB"
+		"text": "Teachers asked, we listened 💜 New #OneNote Class Notebook updates for Win 10 app, Web, iPad &amp; Mac!\n \n📚 Cross notebook distribution\n🗄 Copy Content Library\n🏃🏻♂️ Fast page distribution\n🍎 Mac LMS/SIS Integration\n🍭 &amp; more\n \nhttps://t.co/TQnQE8hzY7\n \n#edtech #mieexpert #MicrosoftEDU https://t.co/7MOutgoFGB"
 	},
 	{
 		"created_at": "Thu Jan 10 14:43:59 +0000 2019",
