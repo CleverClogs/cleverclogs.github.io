@@ -3,6 +3,218 @@ Grailbird.data.tweets_2019_01 =
 	{
 		"created_at": "Fri Jan 11 18:37:59 +0000 2019",
 		"id": 1083795173044338700,
+		"id_str": "1083830788393762816",
+		"full_text": "19 Fine hosts from all over the world are busy preparing the #MSFTEduChat of Tuesday January 15 for you.\n\nFollow them all from this Twitter list: \nhttps://t.co/Lw75OMecbh\n\nWe're also proudly presenting these #ChangeMakers here, in a brand-new animated GIF: https://t.co/cnh7hOj957",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						61,
+						73
+					]
+				},
+				{
+					"text": "ChangeMakers",
+					"indices": [
+						208,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lw75OMecbh",
+					"expanded_url": "https://twitter.com/tweetmeet/msfteduchat-2019-01",
+					"display_url": "twitter.com/tweetmeet/msft…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083794072656072700,
+					"id_str": "1083794072656072706",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dwpo94ZW0AILu8o.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dwpo94ZW0AILu8o.jpg",
+					"url": "https://t.co/cnh7hOj957",
+					"display_url": "pic.twitter.com/cnh7hOj957",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1083795173044338689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083794072656072700,
+					"id_str": "1083794072656072706",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dwpo94ZW0AILu8o.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dwpo94ZW0AILu8o.jpg",
+					"url": "https://t.co/cnh7hOj957",
+					"display_url": "pic.twitter.com/cnh7hOj957",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1083795173044338689/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							455,
+							256
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dwpo94ZW0AILu8o.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1563,
+			"friends_count": 976,
+			"listed_count": 14,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 467,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1545855124",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "19 Fine hosts from all over the world are busy preparing the #MSFTEduChat of Tuesday January 15 for you.\n\nFollow them all from this Twitter list: \nhttps://t.co/Lw75OMecbh\n\nWe're also proudly presenting these #ChangeMakers here, in a brand-new animated GIF: https://t.co/cnh7hOj957"
+	},
+	{
+		"created_at": "Fri Jan 11 18:37:59 +0000 2019",
+		"id": 1083795173044338700,
 		"id_str": "1083795173044338689",
 		"full_text": "19 Fine hosts from all over the world are busy preparing the #MSFTEduChat of Tuesday January 15 for you.\n\nFollow them all from this Twitter list: \nhttps://t.co/Lw75OMecbh\n\nWe're also proudly presenting these #ChangeMakers here, in a brand-new animated GIF: https://t.co/cnh7hOj957",
 		"truncated": false,
