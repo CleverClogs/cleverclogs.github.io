@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 17:14:40 +0000 2019",
+		"id": 1083774204359503900,
+		"id_str": "1083774204359503873",
+		"full_text": "UPDATED! The \"Periodic Table of Microsoft Learning Tools\" has been updated with our newest Translate, Dictation and Math features. Full PPT deck is here: https://t.co/5H3moiFjVp #edtech #ELL #ESL #accessibility #edchat #FlipgridFever #SPED #cpchat #mieexpert #MicrosoftEDU https://t.co/nQpJae1EGl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "ELL",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "ESL",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						196,
+						210
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						211,
+						218
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						219,
+						233
+					]
+				},
+				{
+					"text": "SPED",
+					"indices": [
+						234,
+						239
+					]
+				},
+				{
+					"text": "cpchat",
+					"indices": [
+						240,
+						247
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						248,
+						258
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						259,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5H3moiFjVp",
+					"expanded_url": "http://aka.ms/InclusiveISTE",
+					"display_url": "aka.ms/InclusiveISTE",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083773562710708200,
+					"id_str": "1083773562710708225",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DwpWUC5U0AE9ALq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwpWUC5U0AE9ALq.jpg",
+					"url": "https://t.co/nQpJae1EGl",
+					"display_url": "pic.twitter.com/nQpJae1EGl",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083774204359503873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1769,
+							"h": 993,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083773562710708200,
+					"id_str": "1083773562710708225",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DwpWUC5U0AE9ALq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwpWUC5U0AE9ALq.jpg",
+					"url": "https://t.co/nQpJae1EGl",
+					"display_url": "pic.twitter.com/nQpJae1EGl",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083774204359503873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1769,
+							"h": 993,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15654,
+			"friends_count": 3049,
+			"listed_count": 703,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 50050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25844,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UPDATED! The \"Periodic Table of Microsoft Learning Tools\" has been updated with our newest Translate, Dictation and Math features. Full PPT deck is here: https://t.co/5H3moiFjVp #edtech #ELL #ESL #accessibility #edchat #FlipgridFever #SPED #cpchat #mieexpert #MicrosoftEDU https://t.co/nQpJae1EGl"
+	},
+	{
+		"created_at": "Fri Jan 11 17:50:31 +0000 2019",
+		"id": 1083783227721031700,
+		"id_str": "1083783227721031680",
+		"full_text": "@NJTechHour @mtholfsen Just right-click in your browser and copy?",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NJTechHour",
+					"name": "Theodore Ragavas",
+					"id": 819271019441651700,
+					"id_str": "819271019441651712",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1083777799922569200,
+		"in_reply_to_status_id_str": "1083777799922569216",
+		"in_reply_to_user_id": 819271019441651700,
+		"in_reply_to_user_id_str": "819271019441651712",
+		"in_reply_to_screen_name": "NJTechHour",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19606,
+			"friends_count": 7247,
+			"listed_count": 600,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NJTechHour @mtholfsen Just right-click in your browser and copy?"
+	},
+	{
 		"created_at": "Fri Jan 11 13:19:35 +0000 2019",
 		"id": 1083715042313490400,
 		"id_str": "1083715042313490432",
