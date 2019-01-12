@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 15:35:35 +0000 2019",
+		"id": 1084111655481589800,
+		"id_str": "1084117420749606912",
+		"full_text": "oh @msonenote @OneNoteEDU this is making my day ... math guide built right in :)\n\n👍👍👍👍👍👍👍👍👍v\nwhere were you when I was studying?\n👍👍👍👍👍👍👍👍👍 https://t.co/FDJRThHyhx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084111390049214500,
+					"id_str": "1084111390049214469",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwuJkLzWoAUnqNE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwuJkLzWoAUnqNE.jpg",
+					"url": "https://t.co/FDJRThHyhx",
+					"display_url": "pic.twitter.com/FDJRThHyhx",
+					"expanded_url": "https://twitter.com/denmark98/status/1084111655481589760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084111390049214500,
+					"id_str": "1084111390049214469",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DwuJkLzWoAUnqNE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DwuJkLzWoAUnqNE.jpg",
+					"url": "https://t.co/FDJRThHyhx",
+					"display_url": "pic.twitter.com/FDJRThHyhx",
+					"expanded_url": "https://twitter.com/denmark98/status/1084111655481589760/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DwuJkLzWoAUnqNE.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24374097,
+			"id_str": "24374097",
+			"name": "Denmark98",
+			"screen_name": "denmark98",
+			"location": "Denmark",
+			"description": "“Because in order to be able to think, you have to risk being offensive.\" | That rug really tied the room together, did it not?",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86499,
+			"friends_count": 65162,
+			"listed_count": 1902,
+			"created_at": "Sat Mar 14 14:22:25 +0000 2009",
+			"favourites_count": 43347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082003586131738624/mw6-TiBA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082003586131738624/mw6-TiBA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24374097/1546804639",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "oh @msonenote @OneNoteEDU this is making my day ... math guide built right in :)\n\n👍👍👍👍👍👍👍👍👍v\nwhere were you when I was studying?\n👍👍👍👍👍👍👍👍👍 https://t.co/FDJRThHyhx"
+	},
+	{
 		"created_at": "Sat Jan 12 09:32:41 +0000 2019",
 		"id": 1084020328240738300,
 		"id_str": "1084020328240738304",
