@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 17:57:56 +0000 2019",
+		"id": 1084147482026786800,
+		"id_str": "1084148454039916545",
+		"full_text": "On cloud nine just thinking about #RoadtoE2! Thank you #MicrosoftEDU &amp; @MicrosoftEduCA for this amazing opportunity. @LiaDeCicco @marthajez @LBayne #MIEExpert #MIEFellow @GEDSB @GEDSB21C https://t.co/NriKlLJPaK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RoadtoE2",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						55,
+						68
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "MIEFellow",
+					"indices": [
+						163,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEduCA",
+					"name": "Microsoft in Education Canada",
+					"id": 405043996,
+					"id_str": "405043996",
+					"indices": [
+						75,
+						90
+					]
+				},
+				{
+					"screen_name": "LiaDeCicco",
+					"name": "Lia DeCicco",
+					"id": 23328809,
+					"id_str": "23328809",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"screen_name": "marthajez",
+					"name": "Martha Jez",
+					"id": 214950861,
+					"id_str": "214950861",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"screen_name": "LBayne",
+					"name": "Lindsay Bayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"screen_name": "GEDSB",
+					"name": "Grand Erie District School Board",
+					"id": 480675312,
+					"id_str": "480675312",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"screen_name": "GEDSB21C",
+					"name": "GrandErieEdTechTeam",
+					"id": 3075795306,
+					"id_str": "3075795306",
+					"indices": [
+						181,
+						190
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084147110449078300,
+					"id_str": "1084147110449078272",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1084147110449078272/pu/img/2dZX8nAKAZtDREUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1084147110449078272/pu/img/2dZX8nAKAZtDREUE.jpg",
+					"url": "https://t.co/NriKlLJPaK",
+					"display_url": "pic.twitter.com/NriKlLJPaK",
+					"expanded_url": "https://twitter.com/THOMLYNN101/status/1084147482026786816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084147110449078300,
+					"id_str": "1084147110449078272",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1084147110449078272/pu/img/2dZX8nAKAZtDREUE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1084147110449078272/pu/img/2dZX8nAKAZtDREUE.jpg",
+					"url": "https://t.co/NriKlLJPaK",
+					"display_url": "pic.twitter.com/NriKlLJPaK",
+					"expanded_url": "https://twitter.com/THOMLYNN101/status/1084147482026786816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 44981,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1084147110449078272/pu/vid/720x1280/9MjEGxsIMs9s1lbZ.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1084147110449078272/pu/vid/360x640/U3mNSrZLgq_n8yJz.mp4?tag=8"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1084147110449078272/pu/vid/320x568/dzDDQGvQM3MvMYNB.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1084147110449078272/pu/pl/hLi9OsDptUnYlDmA.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3248848295,
+			"id_str": "3248848295",
+			"name": "Lynn Thomas 🇨🇦",
+			"screen_name": "THOMLYNN101",
+			"location": "Ontario, Canada",
+			"description": "English Tch Digital Lead Learner #E2\n#MIEFellow #MIEExpert #MIEMasterTrainer #ProjectKakuma @D2L Champion #TeachSDGs Ambassador  #Bethechangetakethechallenge",
+			"url": "https://t.co/zWjfQN35VN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zWjfQN35VN",
+							"expanded_url": "https://wordsgrow.wordpress.com/",
+							"display_url": "wordsgrow.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1620,
+			"friends_count": 1883,
+			"listed_count": 34,
+			"created_at": "Tue May 12 21:32:14 +0000 2015",
+			"favourites_count": 18521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6572,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069328318976135174/0WJXW0Y4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069328318976135174/0WJXW0Y4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3248848295/1546451004",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On cloud nine just thinking about #RoadtoE2! Thank you #MicrosoftEDU &amp; @MicrosoftEduCA for this amazing opportunity. @LiaDeCicco @marthajez @LBayne #MIEExpert #MIEFellow @GEDSB @GEDSB21C https://t.co/NriKlLJPaK"
+	},
+	{
 		"created_at": "Sat Jan 12 15:35:35 +0000 2019",
 		"id": 1084111655481589800,
 		"id_str": "1084117420749606912",
