@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 00:08:15 +0000 2019",
+		"id": 1083878284025163800,
+		"id_str": "1083880026293051393",
+		"full_text": "Translate in the Immersive Reader is now LIVE fully globally deployed  💯 now. In Word Online, #OneNote Online, WIn10 app, iPad, and Mac,  Outlook Online, @MicrosoftTeams and @Flipgrid! Go give it a spin 🚀🚀🚀 #edtech #ELL #ESL #SPED #a11y #mieexpert #FlipgridFever #MicrosoftEDU https://t.co/KJV8Kw5zFZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						207,
+						214
+					]
+				},
+				{
+					"text": "ELL",
+					"indices": [
+						215,
+						219
+					]
+				},
+				{
+					"text": "ESL",
+					"indices": [
+						220,
+						224
+					]
+				},
+				{
+					"text": "SPED",
+					"indices": [
+						225,
+						230
+					]
+				},
+				{
+					"text": "a11y",
+					"indices": [
+						231,
+						236
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						237,
+						247
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						248,
+						262
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						263,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						174,
+						183
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083876808326430700,
+					"id_str": "1083876808326430720",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwq0NuyUwAAxPDf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwq0NuyUwAAxPDf.jpg",
+					"url": "https://t.co/KJV8Kw5zFZ",
+					"display_url": "pic.twitter.com/KJV8Kw5zFZ",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083878284025163776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 658,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083876808326430700,
+					"id_str": "1083876808326430720",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwq0NuyUwAAxPDf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwq0NuyUwAAxPDf.jpg",
+					"url": "https://t.co/KJV8Kw5zFZ",
+					"display_url": "pic.twitter.com/KJV8Kw5zFZ",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1083878284025163776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 658,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1122,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15665,
+			"friends_count": 3049,
+			"listed_count": 707,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 50070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25850,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Translate in the Immersive Reader is now LIVE fully globally deployed  💯 now. In Word Online, #OneNote Online, WIn10 app, iPad, and Mac,  Outlook Online, @MicrosoftTeams and @Flipgrid! Go give it a spin 🚀🚀🚀 #edtech #ELL #ESL #SPED #a11y #mieexpert #FlipgridFever #MicrosoftEDU https://t.co/KJV8Kw5zFZ"
+	},
+	{
 		"created_at": "Fri Jan 11 18:37:59 +0000 2019",
 		"id": 1083795173044338700,
 		"id_str": "1083830788393762816",
