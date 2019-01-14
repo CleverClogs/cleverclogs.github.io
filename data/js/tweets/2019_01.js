@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 18:49:04 +0000 2019",
+		"id": 1084885123420643300,
+		"id_str": "1084885123420643329",
+		"full_text": "Who else will be attending #BETT2019 London? \nLooking forward to meeting with you there.\n#OneNote ##MSFTEduChat https://t.co/3Zds21LsRc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BETT2019",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						99,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Zds21LsRc",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1084871147857035270",
+					"display_url": "twitter.com/eustace_stephe…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19631,
+			"friends_count": 7246,
+			"listed_count": 600,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25098,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084871147857035300,
+		"quoted_status_id_str": "1084871147857035270",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3Zds21LsRc",
+			"expanded": "https://twitter.com/eustace_stephen/status/1084871147857035270",
+			"display": "twitter.com/eustace_stephe…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 14 17:53:32 +0000 2019",
+			"id": 1084871147857035300,
+			"id_str": "1084871147857035270",
+			"full_text": "Just under 9 days until #BETT2019 😃It's going to be a #Onederful event and a great opportunity to build your #PLN and meet like minded people #MIEExpert #FlipgridFever #edtech #edchat #edchatie #MicrosoftEdu #education #CPD 🚀🦄 https://t.co/sPieu8Tnzx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				226
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BETT2019",
+						"indices": [
+							24,
+							33
+						]
+					},
+					{
+						"text": "Onederful",
+						"indices": [
+							54,
+							64
+						]
+					},
+					{
+						"text": "PLN",
+						"indices": [
+							109,
+							113
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							142,
+							152
+						]
+					},
+					{
+						"text": "FlipgridFever",
+						"indices": [
+							153,
+							167
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							168,
+							175
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							176,
+							183
+						]
+					},
+					{
+						"text": "edchatie",
+						"indices": [
+							184,
+							193
+						]
+					},
+					{
+						"text": "MicrosoftEdu",
+						"indices": [
+							194,
+							207
+						]
+					},
+					{
+						"text": "education",
+						"indices": [
+							208,
+							218
+						]
+					},
+					{
+						"text": "CPD",
+						"indices": [
+							219,
+							223
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1084870183607562200,
+						"id_str": "1084870183607562240",
+						"indices": [
+							227,
+							250
+						],
+						"media_url": "http://pbs.twimg.com/media/Dw47ryFXcAA4jpc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dw47ryFXcAA4jpc.jpg",
+						"url": "https://t.co/sPieu8Tnzx",
+						"display_url": "pic.twitter.com/sPieu8Tnzx",
+						"expanded_url": "https://twitter.com/eustace_stephen/status/1084871147857035270/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1841,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1084870183607562200,
+						"id_str": "1084870183607562240",
+						"indices": [
+							227,
+							250
+						],
+						"media_url": "http://pbs.twimg.com/media/Dw47ryFXcAA4jpc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dw47ryFXcAA4jpc.jpg",
+						"url": "https://t.co/sPieu8Tnzx",
+						"display_url": "pic.twitter.com/sPieu8Tnzx",
+						"expanded_url": "https://twitter.com/eustace_stephen/status/1084871147857035270/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1841,
+								"h": 1036,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 705409101220675600,
+				"id_str": "705409101220675584",
+				"name": "Stephen Eustace 💻",
+				"screen_name": "eustace_stephen",
+				"location": "Ireland",
+				"description": "Teacher of Math, ICT 💻 Accounting | Assistant Principal | #MIEExpert #SurfaceExpert #MIEFellow #Onederful #FlipGridFever #eTwinning #eTedding 🦄🚀",
+				"url": "https://t.co/zHTbFylUH9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zHTbFylUH9",
+								"expanded_url": "http://www.onederful.eu",
+								"display_url": "onederful.eu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11452,
+				"friends_count": 11312,
+				"listed_count": 142,
+				"created_at": "Thu Mar 03 15:06:50 +0000 2016",
+				"favourites_count": 10173,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6963,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083163727267020800/_wPMJGXw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083163727267020800/_wPMJGXw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/705409101220675584/1508596248",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who else will be attending #BETT2019 London? \nLooking forward to meeting with you there.\n#OneNote ##MSFTEduChat https://t.co/3Zds21LsRc"
+	},
+	{
 		"created_at": "Sun Jan 13 20:50:35 +0000 2019",
 		"id": 1084553319136354300,
 		"id_str": "1084776324860989440",
