@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 21:27:50 +0000 2019",
+		"id": 1084925078226300900,
+		"id_str": "1085155773397848064",
+		"full_text": "We all know #Flipgrid is great to empower #StudentVoice, but did you know that #MSFTEduChat Hosts use it to invite YOU to the monthly TweetMeet events? \n\nWatch their videos about Transforming Classroom Time now:\nhttps://t.co/SMawjGMrZG\n\n#FlipgridFever #MicrosoftEDU #ChangeMakers https://t.co/uvHgyLZOE6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flipgrid",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "StudentVoice",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						237,
+						251
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						252,
+						265
+					]
+				},
+				{
+					"text": "ChangeMakers",
+					"indices": [
+						266,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SMawjGMrZG",
+					"expanded_url": "https://flipgrid.com/c43d81a5",
+					"display_url": "flipgrid.com/c43d81a5",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084924183124103200,
+					"id_str": "1084924183124103169",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw5sy99X0AED7xC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw5sy99X0AED7xC.jpg",
+					"url": "https://t.co/uvHgyLZOE6",
+					"display_url": "pic.twitter.com/uvHgyLZOE6",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1084925078226300928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084924183124103200,
+					"id_str": "1084924183124103169",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw5sy99X0AED7xC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw5sy99X0AED7xC.jpg",
+					"url": "https://t.co/uvHgyLZOE6",
+					"display_url": "pic.twitter.com/uvHgyLZOE6",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1084925078226300928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU about topics relevant to educators. \nTweets by Marjolein Hoekstra @OneNoteC",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1596,
+			"friends_count": 976,
+			"listed_count": 15,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1545855124",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We all know #Flipgrid is great to empower #StudentVoice, but did you know that #MSFTEduChat Hosts use it to invite YOU to the monthly TweetMeet events? \n\nWatch their videos about Transforming Classroom Time now:\nhttps://t.co/SMawjGMrZG\n\n#FlipgridFever #MicrosoftEDU #ChangeMakers https://t.co/uvHgyLZOE6"
+	},
+	{
 		"created_at": "Mon Jan 14 18:49:04 +0000 2019",
 		"id": 1084885123420643300,
 		"id_str": "1084885123420643329",
