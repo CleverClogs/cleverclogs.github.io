@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 16 15:45:11 +0000 2019",
+		"id": 1085563623248986100,
+		"id_str": "1085579538065694722",
+		"full_text": "How to EMBED @geogebra applets and Ss' #GeoGebra constructions into #Microsoft #OneNote.  Yes, it's THAT EASY! 😀 #YouTube live (starting shortly): https://t.co/2pvRiFXt7e. @OneNoteC @OneNoteEDU @msonenote #MTBoS #ITeachMath #LMS #Math #Maths",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GeoGebra",
+					"indices": [
+						39,
+						48
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "MTBoS",
+					"indices": [
+						205,
+						211
+					]
+				},
+				{
+					"text": "ITeachMath",
+					"indices": [
+						212,
+						223
+					]
+				},
+				{
+					"text": "LMS",
+					"indices": [
+						224,
+						228
+					]
+				},
+				{
+					"text": "Math",
+					"indices": [
+						229,
+						234
+					]
+				},
+				{
+					"text": "Maths",
+					"indices": [
+						235,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "geogebra",
+					"name": "GeoGebra",
+					"id": 71234465,
+					"id_str": "71234465",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						172,
+						181
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						182,
+						193
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						194,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2pvRiFXt7e",
+					"expanded_url": "http://youtu.be/TBOpSBx4fY0",
+					"display_url": "youtu.be/TBOpSBx4fY0",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2274001713,
+			"id_str": "2274001713",
+			"name": "Tim Brzezinski",
+			"screen_name": "dynamic_math",
+			"location": "Connecticut, USA",
+			"description": "Proud dad of 3 boys, Husband of 1 amazing wife, #Math teacher, Independent #MathEd consultant, PT #Math faculty @CCSU, Accredited @geogebra trainer & author",
+			"url": "https://t.co/AkTi12gJ2D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AkTi12gJ2D",
+							"expanded_url": "https://www.facebook.com/BrzezinskiMath/",
+							"display_url": "facebook.com/BrzezinskiMath/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3657,
+			"friends_count": 992,
+			"listed_count": 101,
+			"created_at": "Sat Jan 11 02:06:43 +0000 2014",
+			"favourites_count": 9640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925025115095617538/24FxgN9-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925025115095617538/24FxgN9-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2274001713/1524842885",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to EMBED @geogebra applets and Ss' #GeoGebra constructions into #Microsoft #OneNote.  Yes, it's THAT EASY! 😀 #YouTube live (starting shortly): https://t.co/2pvRiFXt7e. @OneNoteC @OneNoteEDU @msonenote #MTBoS #ITeachMath #LMS #Math #Maths"
+	},
+	{
 		"created_at": "Tue Jan 15 19:02:03 +0000 2019",
 		"id": 1085250780116987900,
 		"id_str": "1085542222135783424",
