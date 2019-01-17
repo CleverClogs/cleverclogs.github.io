@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 21:56:10 +0000 2019",
+		"id": 1086019372785823700,
+		"id_str": "1086034938166685702",
+		"full_text": "Look what just popped up in the most #Onederful #OneNote app for #Windows10!! Customised tags!! 🤩🚀🚀 #productivity #MicrosoftEDU #MIEExpert #edtech 🦄 https://t.co/UUY8KQXyVP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onederful",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "productivity",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						139,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086017172009308200,
+					"id_str": "1086017172009308160",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/DxJO3S2W0AAV-Qm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxJO3S2W0AAV-Qm.jpg",
+					"url": "https://t.co/UUY8KQXyVP",
+					"display_url": "pic.twitter.com/UUY8KQXyVP",
+					"expanded_url": "https://twitter.com/MissGEnrique/status/1086019372785823744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1293,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086017172009308200,
+					"id_str": "1086017172009308160",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/DxJO3S2W0AAV-Qm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxJO3S2W0AAV-Qm.jpg",
+					"url": "https://t.co/UUY8KQXyVP",
+					"display_url": "pic.twitter.com/UUY8KQXyVP",
+					"expanded_url": "https://twitter.com/MissGEnrique/status/1086019372785823744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1293,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4120721403,
+			"id_str": "4120721403",
+			"name": "Gloria Enrique",
+			"screen_name": "MissGEnrique",
+			"location": "",
+			"description": "Spanish & I.T. Teacher | #MIEExpert | #MIEFellow | #MIE Master Trainer| FlipGrid Ambassador | #SkypeMT | #TeachSDGs #edtech #OneNote #FlipgridFever 😊",
+			"url": "https://t.co/GOLWRWoUDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GOLWRWoUDG",
+							"expanded_url": "https://www.linkedin.com/in/gloria-enrique-655804124",
+							"display_url": "linkedin.com/in/gloria-enri…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10532,
+			"friends_count": 9545,
+			"listed_count": 494,
+			"created_at": "Thu Nov 05 17:14:25 +0000 2015",
+			"favourites_count": 21397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080083921239502848/lpEyOaRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080083921239502848/lpEyOaRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4120721403/1521374831",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look what just popped up in the most #Onederful #OneNote app for #Windows10!! Customised tags!! 🤩🚀🚀 #productivity #MicrosoftEDU #MIEExpert #edtech 🦄 https://t.co/UUY8KQXyVP"
+	},
+	{
 		"created_at": "Thu Jan 17 11:58:11 +0000 2019",
 		"id": 1085868885344174100,
 		"id_str": "1085868885344174080",
