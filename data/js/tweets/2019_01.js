@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 19:43:23 +0000 2019",
+		"id": 1086348346766196700,
+		"id_str": "1086366763128967169",
+		"full_text": "NEW! We've put together all the top Inclusive Classroom links into a single \"Ultimate\" page in the Microsoft Educator Community! 👇   https://t.co/Omwk1ExAlB #edtech #edchat #mieexpert #a11y #accessibility #ATChat #LDChat #tlchat #BETT2019 #MicrosoftEDU https://t.co/hseb8gTb9A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						157,
+						164
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "a11y",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						190,
+						204
+					]
+				},
+				{
+					"text": "ATChat",
+					"indices": [
+						205,
+						212
+					]
+				},
+				{
+					"text": "LDChat",
+					"indices": [
+						213,
+						220
+					]
+				},
+				{
+					"text": "tlchat",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"text": "BETT2019",
+					"indices": [
+						229,
+						238
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						239,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Omwk1ExAlB",
+					"expanded_url": "https://aka.ms/InclusiveUltimate",
+					"display_url": "aka.ms/InclusiveUltim…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086344601093304300,
+					"id_str": "1086344601093304320",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/DxN4qLPUcAAvzaL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxN4qLPUcAAvzaL.jpg",
+					"url": "https://t.co/hseb8gTb9A",
+					"display_url": "pic.twitter.com/hseb8gTb9A",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1086348346766196736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2027,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 684,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086344601093304300,
+					"id_str": "1086344601093304320",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/DxN4qLPUcAAvzaL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxN4qLPUcAAvzaL.jpg",
+					"url": "https://t.co/hseb8gTb9A",
+					"display_url": "pic.twitter.com/hseb8gTb9A",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1086348346766196736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2027,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 684,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #BETT2019 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15807,
+			"friends_count": 3086,
+			"listed_count": 702,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 50806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26008,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! We've put together all the top Inclusive Classroom links into a single \"Ultimate\" page in the Microsoft Educator Community! 👇   https://t.co/Omwk1ExAlB #edtech #edchat #mieexpert #a11y #accessibility #ATChat #LDChat #tlchat #BETT2019 #MicrosoftEDU https://t.co/hseb8gTb9A"
+	},
+	{
 		"created_at": "Fri Jan 18 17:54:14 +0000 2019",
 		"id": 1086320877933719600,
 		"id_str": "1086339558562844679",
