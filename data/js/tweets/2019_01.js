@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 18 17:54:14 +0000 2019",
+		"id": 1086320877933719600,
+		"id_str": "1086339558562844679",
+		"full_text": "I'll be presenting at the @Bett_show! 11:30am, daily at the #MicrosoftEDU Learn Live Theater. Detailed schedule here: https://t.co/P9q9xqYaCk  #mieexpert #BETT2019\n\n\"Increasing #Accessibility and Fostering Inclusive Classrooms\" https://t.co/7Q8kpn9nWj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						60,
+						73
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"text": "BETT2019",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"text": "Accessibility",
+					"indices": [
+						177,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bett_show",
+					"name": "Bett",
+					"id": 28354758,
+					"id_str": "28354758",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P9q9xqYaCk",
+					"expanded_url": "https://educationblog.microsoft.com/2019/01/microsoft-bett-2019-schedule/",
+					"display_url": "educationblog.microsoft.com/2019/01/micros…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086320088536408000,
+					"id_str": "1086320088536408064",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/DxNiXW2VYAA-PFG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxNiXW2VYAA-PFG.jpg",
+					"url": "https://t.co/7Q8kpn9nWj",
+					"display_url": "pic.twitter.com/7Q8kpn9nWj",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1086320877933719552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1801,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086320088536408000,
+					"id_str": "1086320088536408064",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/DxNiXW2VYAA-PFG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxNiXW2VYAA-PFG.jpg",
+					"url": "https://t.co/7Q8kpn9nWj",
+					"display_url": "pic.twitter.com/7Q8kpn9nWj",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1086320877933719552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1801,
+							"h": 1016,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #BETT2019 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15802,
+			"friends_count": 3086,
+			"listed_count": 702,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 50801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'll be presenting at the @Bett_show! 11:30am, daily at the #MicrosoftEDU Learn Live Theater. Detailed schedule here: https://t.co/P9q9xqYaCk  #mieexpert #BETT2019\n\n\"Increasing #Accessibility and Fostering Inclusive Classrooms\" https://t.co/7Q8kpn9nWj"
+	},
+	{
 		"created_at": "Thu Jan 17 08:57:31 +0000 2019",
 		"id": 1085823419080421400,
 		"id_str": "1086236547136016385",
