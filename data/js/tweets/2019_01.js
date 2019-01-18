@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 08:57:31 +0000 2019",
+		"id": 1085823419080421400,
+		"id_str": "1086236547136016385",
+		"full_text": "😀So happy!\nThanks to @TweetMeet, @MicrosoftEDU and #ShowcaseSchool @MaristasMalaga I'll be attending #BETT2019 in London\n\nIt'll be a unique opportunity to...\n✔️Meet other #MIEExpert from all over the world\n✔️Learn from the experts\n✔️Empower my students and colleagues\n\nKeep tuned https://t.co/QyyBplxKgT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShowcaseSchool",
+					"indices": [
+						51,
+						66
+					]
+				},
+				{
+					"text": "BETT2019",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						171,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central #MSFTEduChat",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						33,
+						46
+					]
+				},
+				{
+					"screen_name": "MaristasMalaga",
+					"name": "Maristas Málaga",
+					"id": 1546146241,
+					"id_str": "1546146241",
+					"indices": [
+						67,
+						82
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085822274530435100,
+					"id_str": "1085822274530435073",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DxGdmxKX4AE3Nz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxGdmxKX4AE3Nz7.jpg",
+					"url": "https://t.co/QyyBplxKgT",
+					"display_url": "pic.twitter.com/QyyBplxKgT",
+					"expanded_url": "https://twitter.com/fcotexeira/status/1085823419080421376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1245,
+							"h": 653,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085822274530435100,
+					"id_str": "1085822274530435073",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DxGdmxKX4AE3Nz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxGdmxKX4AE3Nz7.jpg",
+					"url": "https://t.co/QyyBplxKgT",
+					"display_url": "pic.twitter.com/QyyBplxKgT",
+					"expanded_url": "https://twitter.com/fcotexeira/status/1085823419080421376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1245,
+							"h": 653,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 488780635,
+			"id_str": "488780635",
+			"name": "Francisco Texeira",
+			"screen_name": "fcotexeira",
+			"location": "Málaga, Andalucía",
+			"description": "Longlife learner, #MIEExpert, #MIEMasterTrainer, #MSFTEduChat TweetMeet Team member, certified #MOS & #MCE at @MaristasMalaga #TeamsLover running @TeamsCentral",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 849,
+			"friends_count": 927,
+			"listed_count": 18,
+			"created_at": "Fri Feb 10 20:51:20 +0000 2012",
+			"favourites_count": 3104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1959,
+			"lang": "es",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084543850352398338/L6Ai3ury_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084543850352398338/L6Ai3ury_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/488780635/1529434643",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "😀So happy!\nThanks to @TweetMeet, @MicrosoftEDU and #ShowcaseSchool @MaristasMalaga I'll be attending #BETT2019 in London\n\nIt'll be a unique opportunity to...\n✔️Meet other #MIEExpert from all over the world\n✔️Learn from the experts\n✔️Empower my students and colleagues\n\nKeep tuned https://t.co/QyyBplxKgT"
+	},
+	{
 		"created_at": "Thu Jan 17 21:56:10 +0000 2019",
 		"id": 1086019372785823700,
 		"id_str": "1086034938166685702",
