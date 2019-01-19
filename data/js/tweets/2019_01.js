@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 01:32:08 +0000 2019",
+		"id": 1086436109511385100,
+		"id_str": "1086595854138556416",
+		"full_text": "The new #OneNote Class Notebook features are now 100% rolled out globally in Windows 10, Online and iPad. Mac is at 50%. Try them out today! More at the blog: https://t.co/TQnQE8hzY7 https://t.co/d4xQ5zKEPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TQnQE8hzY7",
+					"expanded_url": "http://aka.ms/OneNoteJanuary2019",
+					"display_url": "aka.ms/OneNoteJanuary…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086435907396223000,
+					"id_str": "1086435907396222976",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/DxPLs5uUwAAdvSp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxPLs5uUwAAdvSp.jpg",
+					"url": "https://t.co/d4xQ5zKEPr",
+					"display_url": "pic.twitter.com/d4xQ5zKEPr",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1086436109511385088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1267,
+							"h": 840,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086435907396223000,
+					"id_str": "1086435907396222976",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/DxPLs5uUwAAdvSp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxPLs5uUwAAdvSp.jpg",
+					"url": "https://t.co/d4xQ5zKEPr",
+					"display_url": "pic.twitter.com/d4xQ5zKEPr",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1086436109511385088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1267,
+							"h": 840,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #BETT2019 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15820,
+			"friends_count": 3098,
+			"listed_count": 702,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 50884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26019,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The new #OneNote Class Notebook features are now 100% rolled out globally in Windows 10, Online and iPad. Mac is at 50%. Try them out today! More at the blog: https://t.co/TQnQE8hzY7 https://t.co/d4xQ5zKEPr"
+	},
+	{
 		"created_at": "Fri Jan 18 22:05:42 +0000 2019",
 		"id": 1086384161034854400,
 		"id_str": "1086384161034854401",
