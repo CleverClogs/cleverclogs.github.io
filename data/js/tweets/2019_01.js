@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 20 15:39:57 +0000 2019",
+		"id": 1087011860388479000,
+		"id_str": "1087011860388478976",
+		"full_text": "@gregdabelstein @townesy77 @Outlook @msonenote @OneNoteEDU The Send to OneNote button in Outlook 2016 is based on now-deprecated COM APIs. It sends Outlook items as text in OneNote.  \n\nThe Send to OneNote printer app is basically a virtual printer driver that  inserts a copy of anything you print into a new OneNote page, as an  image.",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			336
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gregdabelstein",
+					"name": "Greg Dabelstein",
+					"id": 32228791,
+					"id_str": "32228791",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "townesy77",
+					"name": "Megan Townes",
+					"id": 27093634,
+					"id_str": "27093634",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "Outlook",
+					"name": "Outlook",
+					"id": 605805760,
+					"id_str": "605805760",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1086881339322773500,
+		"in_reply_to_status_id_str": "1086881339322773504",
+		"in_reply_to_user_id": 32228791,
+		"in_reply_to_user_id_str": "32228791",
+		"in_reply_to_screen_name": "gregdabelstein",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19717,
+			"friends_count": 7249,
+			"listed_count": 601,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gregdabelstein @townesy77 @Outlook @msonenote @OneNoteEDU The Send to OneNote button in Outlook 2016 is based on now-deprecated COM APIs. It sends Outlook items as text in OneNote.  \n\nThe Send to OneNote printer app is basically a virtual printer driver that  inserts a copy of anything you print into a new OneNote page, as an  image."
+	},
+	{
 		"created_at": "Sat Jan 19 18:41:16 +0000 2019",
 		"id": 1086695100716105700,
 		"id_str": "1086695100716105731",
