@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 18:52:26 +0000 2019",
+		"id": 1087785072600719400,
+		"id_str": "1087786969864773633",
+		"full_text": "#Onederful things are happening! 🚀🦄\n\nWhat's New in EDU – Bett Edition (SPOILERS 🤣)\nSeven new Windows 10 devices!\nMobile grading in Teams!\nFree Computer Science Curriculum in Teams with MakeCode! \n\nhttps://t.co/iKxxbQiba1\n #MicrosoftEdu #msfteduchat #Bett2019 #MIEExpert #edtech https://t.co/LTxtehU84Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onederful",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						222,
+						235
+					]
+				},
+				{
+					"text": "msfteduchat",
+					"indices": [
+						236,
+						248
+					]
+				},
+				{
+					"text": "Bett2019",
+					"indices": [
+						249,
+						258
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						259,
+						269
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						270,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iKxxbQiba1",
+					"expanded_url": "https://educationblog.microsoft.com/2019/01/whats-new-in-edu-bett-edition/",
+					"display_url": "educationblog.microsoft.com/2019/01/whats-…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087783839223697400,
+					"id_str": "1087783839223697409",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DxiVo3FW0AEI9XY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxiVo3FW0AEI9XY.jpg",
+					"url": "https://t.co/LTxtehU84Z",
+					"display_url": "pic.twitter.com/LTxtehU84Z",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1087785072600719360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 851,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1927,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087783839223697400,
+					"id_str": "1087783839223697409",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/DxiVo3FW0AEI9XY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxiVo3FW0AEI9XY.jpg",
+					"url": "https://t.co/LTxtehU84Z",
+					"display_url": "pic.twitter.com/LTxtehU84Z",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1087785072600719360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 851,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1927,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705409101220675600,
+			"id_str": "705409101220675584",
+			"name": "Stephen Eustace 💻",
+			"screen_name": "eustace_stephen",
+			"location": "Ireland",
+			"description": "Teacher of Math, ICT 💻 Accounting | Assistant Principal | #MIEExpert #SurfaceExpert #MIEFellow #Onederful #FlipGridFever #eTwinning #eTedding 🦄🚀",
+			"url": "https://t.co/zHTbFylUH9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zHTbFylUH9",
+							"expanded_url": "http://www.onederful.eu",
+							"display_url": "onederful.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12085,
+			"friends_count": 11862,
+			"listed_count": 143,
+			"created_at": "Thu Mar 03 15:06:50 +0000 2016",
+			"favourites_count": 10509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083163727267020800/_wPMJGXw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083163727267020800/_wPMJGXw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705409101220675584/1508596248",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Onederful things are happening! 🚀🦄\n\nWhat's New in EDU – Bett Edition (SPOILERS 🤣)\nSeven new Windows 10 devices!\nMobile grading in Teams!\nFree Computer Science Curriculum in Teams with MakeCode! \n\nhttps://t.co/iKxxbQiba1\n #MicrosoftEdu #msfteduchat #Bett2019 #MIEExpert #edtech https://t.co/LTxtehU84Z"
+	},
+	{
+		"created_at": "Tue Jan 22 18:36:05 +0000 2019",
+		"id": 1087780960727375900,
+		"id_str": "1087780960727375873",
+		"full_text": "How to get a crew of a hundred #MicrosoftEDU conference staff in one picture.\nSee you this week at #BETT2019. https://t.co/Bu2qoLUOwP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"text": "BETT2019",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bu2qoLUOwP",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1087770883064762372",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19732,
+			"friends_count": 7252,
+			"listed_count": 601,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087770883064762400,
+		"quoted_status_id_str": "1087770883064762372",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Bu2qoLUOwP",
+			"expanded": "https://twitter.com/mtholfsen/status/1087770883064762372",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 22 17:56:02 +0000 2019",
+			"id": 1087770883064762400,
+			"id_str": "1087770883064762372",
+			"full_text": "Behind the scenes at the #MicrosoftEDU booth. The crew is hyped to meet educators from all over the world at #Bett2019 tomorrow 🎉🎉🎉\n\nCome by booth E300 and say 👋 https://t.co/ZYiHTXpYBE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							25,
+							38
+						]
+					},
+					{
+						"text": "Bett2019",
+						"indices": [
+							109,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1087770826009727000,
+						"id_str": "1087770826009726977",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/DxiJzZFX0AEzo51.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxiJzZFX0AEzo51.jpg",
+						"url": "https://t.co/ZYiHTXpYBE",
+						"display_url": "pic.twitter.com/ZYiHTXpYBE",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1087770883064762372/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1087770826009727000,
+						"id_str": "1087770826009726977",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/DxiJzZFX0AEzo51.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxiJzZFX0AEzo51.jpg",
+						"url": "https://t.co/ZYiHTXpYBE",
+						"display_url": "pic.twitter.com/ZYiHTXpYBE",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1087770883064762372/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #BETT2019 @OneNoteEDU @MicrosoftEDU",
+				"url": "https://t.co/ANIFpSE2FB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSE2FB",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15909,
+				"friends_count": 3096,
+				"listed_count": 699,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 51199,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26109,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to get a crew of a hundred #MicrosoftEDU conference staff in one picture.\nSee you this week at #BETT2019. https://t.co/Bu2qoLUOwP"
+	},
+	{
 		"created_at": "Tue Jan 22 17:07:50 +0000 2019",
 		"id": 1087758749736022000,
 		"id_str": "1087770810163646465",
