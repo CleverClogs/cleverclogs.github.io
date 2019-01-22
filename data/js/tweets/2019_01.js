@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 09:06:21 +0000 2019",
+		"id": 1087637582924652500,
+		"id_str": "1087637582924652544",
+		"full_text": "Fascinating, interactive Twitter wall of @Bett_Show tweets.\nTap, click, hover or simply sit back.\n\nIs your tweet on it yet?\nUse hashtags #MicrosoftEDU #Bett2019 https://t.co/mESgPyOzUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"text": "Bett2019",
+					"indices": [
+						151,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bett_show",
+					"name": "Bett",
+					"id": 28354758,
+					"id_str": "28354758",
+					"indices": [
+						41,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mESgPyOzUD",
+					"expanded_url": "https://twitter.com/microsoftedu/status/1087439695288696832",
+					"display_url": "twitter.com/microsoftedu/s…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19729,
+			"friends_count": 7249,
+			"listed_count": 601,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25111,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087439695288696800,
+		"quoted_status_id_str": "1087439695288696832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mESgPyOzUD",
+			"expanded": "https://twitter.com/microsoftedu/status/1087439695288696832",
+			"display": "twitter.com/microsoftedu/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 21 20:00:01 +0000 2019",
+			"id": 1087439695288696800,
+			"id_str": "1087439695288696832",
+			"full_text": "#Bett2019 is full of inspiration, ideas and tips for empowering students in the classroom. Whether you’re at the event or following along at home, check out the #MicrosoftEDU TweetBeam to see what educators are most excited about: https://t.co/Q8NPmIJjxz https://t.co/QSTTDIn8ZZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Bett2019",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							161,
+							174
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Q8NPmIJjxz",
+						"expanded_url": "http://msft.social/x87vM5",
+						"display_url": "msft.social/x87vM5",
+						"indices": [
+							231,
+							254
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1087439691203444700,
+						"id_str": "1087439691203444739",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/media/DxdcozzXgAM2LFe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxdcozzXgAM2LFe.jpg",
+						"url": "https://t.co/QSTTDIn8ZZ",
+						"display_url": "pic.twitter.com/QSTTDIn8ZZ",
+						"expanded_url": "https://twitter.com/MicrosoftEDU/status/1087439695288696832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1087439691203444700,
+						"id_str": "1087439691203444739",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/media/DxdcozzXgAM2LFe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxdcozzXgAM2LFe.jpg",
+						"url": "https://t.co/QSTTDIn8ZZ",
+						"display_url": "pic.twitter.com/QSTTDIn8ZZ",
+						"expanded_url": "https://twitter.com/MicrosoftEDU/status/1087439695288696832/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17826187,
+				"id_str": "17826187",
+				"name": "Microsoft Education",
+				"screen_name": "MicrosoftEDU",
+				"location": "Redmond, WA",
+				"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+				"url": "https://t.co/Kq0bGCfbFO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Kq0bGCfbFO",
+								"expanded_url": "http://www.microsoft.com/education",
+								"display_url": "microsoft.com/education",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 339492,
+				"friends_count": 4341,
+				"listed_count": 3325,
+				"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+				"favourites_count": 21302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 31965,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00BCF2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1508952382",
+				"profile_link_color": "0078D7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fascinating, interactive Twitter wall of @Bett_Show tweets.\nTap, click, hover or simply sit back.\n\nIs your tweet on it yet?\nUse hashtags #MicrosoftEDU #Bett2019 https://t.co/mESgPyOzUD"
+	},
+	{
 		"created_at": "Sun Jan 20 21:34:52 +0000 2019",
 		"id": 1087101176649269200,
 		"id_str": "1087375718256918529",
