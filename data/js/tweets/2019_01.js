@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 10:19:31 +0000 2019",
+		"id": 1087655995688538100,
+		"id_str": "1087655995688538113",
+		"full_text": "#Microsoft Font Maker for #Windows10 should support other writing scripts and diacritic marks. The current incarnation is clearly target at English users only.\nGood point, @MathieuNathali5.\nWe should support that feature request in the Feedback Hub. https://t.co/HvSEgWcaEz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MathieuNathali5",
+					"name": "Nathalie Mathieu",
+					"id": 954059591536513000,
+					"id_str": "954059591536513024",
+					"indices": [
+						172,
+						188
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HvSEgWcaEz",
+					"expanded_url": "https://twitter.com/mathieunathali5/status/1087647082972893184",
+					"display_url": "twitter.com/mathieunathali…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19729,
+			"friends_count": 7249,
+			"listed_count": 601,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25112,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1087647082972893200,
+		"quoted_status_id_str": "1087647082972893184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HvSEgWcaEz",
+			"expanded": "https://twitter.com/mathieunathali5/status/1087647082972893184",
+			"display": "twitter.com/mathieunathali…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 22 09:44:06 +0000 2019",
+			"id": 1087647082972893200,
+			"id_str": "1087647082972893184",
+			"full_text": "Hey #Microsoft, would it be possible to add these letters - é, è, à, ù - to your wonderful Microsoft Font Maker App so that we, French people, can create our own font AND type in French? That would be awesome! ✍️🇫🇷🤩 https://t.co/JU2XYS1bVs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Microsoft",
+						"indices": [
+							4,
+							14
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JU2XYS1bVs",
+						"expanded_url": "https://twitter.com/MathieuNathali5/status/1087269760168050694",
+						"display_url": "twitter.com/MathieuNathali…",
+						"indices": [
+							216,
+							239
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 954059591536513000,
+				"id_str": "954059591536513024",
+				"name": "Nathalie Mathieu",
+				"screen_name": "MathieuNathali5",
+				"location": "Bourgogne, France",
+				"description": "Busy Bee 🐝| Mother of 2 👫 | English teacher 🇬🇧 | Working on ways to develop collaboration between teachers & students 🤝\n#MIEExpert #office365",
+				"url": "https://t.co/3mVnv3w3zS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3mVnv3w3zS",
+								"expanded_url": "http://www.groupesaintbenigne.fr/",
+								"display_url": "groupesaintbenigne.fr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 318,
+				"friends_count": 273,
+				"listed_count": 8,
+				"created_at": "Thu Jan 18 18:35:07 +0000 2018",
+				"favourites_count": 1226,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 563,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080568648937418753/RRYPAwWP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080568648937418753/RRYPAwWP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/954059591536513024/1527616650",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1087269760168050700,
+			"quoted_status_id_str": "1087269760168050694",
+			"quoted_status_permalink": {
+				"url": "https://t.co/JU2XYS1bVs",
+				"expanded": "https://twitter.com/MathieuNathali5/status/1087269760168050694",
+				"display": "twitter.com/MathieuNathali…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Microsoft Font Maker for #Windows10 should support other writing scripts and diacritic marks. The current incarnation is clearly target at English users only.\nGood point, @MathieuNathali5.\nWe should support that feature request in the Feedback Hub. https://t.co/HvSEgWcaEz"
+	},
+	{
 		"created_at": "Tue Jan 22 09:06:21 +0000 2019",
 		"id": 1087637582924652500,
 		"id_str": "1087637582924652544",
