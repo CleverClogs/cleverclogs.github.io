@@ -1,6 +1,727 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 17:05:14 +0000 2019",
+		"id": 1087758097098199000,
+		"id_str": "1087759552932732930",
+		"full_text": "NEW! The Immersive Reader in virtual reality beta is launching tomorrow! This is a totally focused and immersive experience.  Stop by the #MicrosoftEDU stand E300 at #Bett2019 this week to try it out yourself. It's pretty amazing! \n\n#mieexpert #SPED #edtech #AssistiveTech https://t.co/8mXZkhZcm5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						138,
+						151
+					]
+				},
+				{
+					"text": "Bett2019",
+					"indices": [
+						166,
+						175
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						233,
+						243
+					]
+				},
+				{
+					"text": "SPED",
+					"indices": [
+						244,
+						249
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						250,
+						257
+					]
+				},
+				{
+					"text": "AssistiveTech",
+					"indices": [
+						258,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087757836594090000,
+					"id_str": "1087757836594089985",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxh9_TvWkAEByUz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxh9_TvWkAEByUz.jpg",
+					"url": "https://t.co/8mXZkhZcm5",
+					"display_url": "pic.twitter.com/8mXZkhZcm5",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1087758097098199041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1143,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087757836594090000,
+					"id_str": "1087757836594089985",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/Dxh9_TvWkAEByUz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dxh9_TvWkAEByUz.jpg",
+					"url": "https://t.co/8mXZkhZcm5",
+					"display_url": "pic.twitter.com/8mXZkhZcm5",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1087758097098199041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1143,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #BETT2019 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15909,
+			"friends_count": 3096,
+			"listed_count": 701,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 51187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! The Immersive Reader in virtual reality beta is launching tomorrow! This is a totally focused and immersive experience.  Stop by the #MicrosoftEDU stand E300 at #Bett2019 this week to try it out yourself. It's pretty amazing! \n\n#mieexpert #SPED #edtech #AssistiveTech https://t.co/8mXZkhZcm5"
+	},
+	{
+		"created_at": "Tue Jan 22 17:03:17 +0000 2019",
+		"id": 1087757606905675800,
+		"id_str": "1087759538856624128",
+		"full_text": "NEW! An amazing set up @MicrosoftTeams updates for EDU: Assignment GradeSync w/ SISes (@MyPowerSchool, @CapitaSIMS, and @InfiniteCampus), @Turnitin for plagiarism check, MakeCode integration &amp; mobile grading.  more at the https://t.co/RkZzarwV3c #edtech #Bett2019 #MicrosoftEDU https://t.co/7r4hqZ8P73",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						250,
+						257
+					]
+				},
+				{
+					"text": "Bett2019",
+					"indices": [
+						258,
+						267
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						268,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						23,
+						38
+					]
+				},
+				{
+					"screen_name": "MyPowerSchool",
+					"name": "PowerSchool",
+					"id": 2852286465,
+					"id_str": "2852286465",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"screen_name": "CapitaSIMS",
+					"name": "Capita SIMS",
+					"id": 351503029,
+					"id_str": "351503029",
+					"indices": [
+						103,
+						114
+					]
+				},
+				{
+					"screen_name": "InfiniteCampus",
+					"name": "Infinite Campus",
+					"id": 37957453,
+					"id_str": "37957453",
+					"indices": [
+						120,
+						135
+					]
+				},
+				{
+					"screen_name": "Turnitin",
+					"name": "Turnitin",
+					"id": 132203530,
+					"id_str": "132203530",
+					"indices": [
+						138,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RkZzarwV3c",
+					"expanded_url": "http://aka.ms/NewInEDUBettTuesday",
+					"display_url": "aka.ms/NewInEDUBettTu…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087757391633047600,
+					"id_str": "1087757391633047555",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dxh9laIX4AMc6AI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dxh9laIX4AMc6AI.jpg",
+					"url": "https://t.co/7r4hqZ8P73",
+					"display_url": "pic.twitter.com/7r4hqZ8P73",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1087757606905675776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087757391633047600,
+					"id_str": "1087757391633047555",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dxh9laIX4AMc6AI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dxh9laIX4AMc6AI.jpg",
+					"url": "https://t.co/7r4hqZ8P73",
+					"display_url": "pic.twitter.com/7r4hqZ8P73",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1087757606905675776/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							450,
+							253
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dxh9laIX4AMc6AI.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #BETT2019 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15909,
+			"friends_count": 3096,
+			"listed_count": 701,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 51187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! An amazing set up @MicrosoftTeams updates for EDU: Assignment GradeSync w/ SISes (@MyPowerSchool, @CapitaSIMS, and @InfiniteCampus), @Turnitin for plagiarism check, MakeCode integration &amp; mobile grading.  more at the https://t.co/RkZzarwV3c #edtech #Bett2019 #MicrosoftEDU https://t.co/7r4hqZ8P73"
+	},
+	{
+		"created_at": "Tue Jan 22 17:08:03 +0000 2019",
+		"id": 1087758804547190800,
+		"id_str": "1087759441481609216",
+		"full_text": "NEW! Turnitin integration with @MicrosoftTeams to do quick plagiarism checks for assignments.  This will include #OneNote in the future as well! #edtech #Bett2019 #mieexpert #MicrosoftEdu https://t.co/5fx1d0DVNw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "Bett2019",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						174,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087758456176676900,
+					"id_str": "1087758456176676864",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dxh-jX3WkAAJduc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dxh-jX3WkAAJduc.jpg",
+					"url": "https://t.co/5fx1d0DVNw",
+					"display_url": "pic.twitter.com/5fx1d0DVNw",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1087758804547190784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087758456176676900,
+					"id_str": "1087758456176676864",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dxh-jX3WkAAJduc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dxh-jX3WkAAJduc.jpg",
+					"url": "https://t.co/5fx1d0DVNw",
+					"display_url": "pic.twitter.com/5fx1d0DVNw",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1087758804547190784/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							450,
+							253
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dxh-jX3WkAAJduc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #BETT2019 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15909,
+			"friends_count": 3096,
+			"listed_count": 701,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 51187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26103,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Turnitin integration with @MicrosoftTeams to do quick plagiarism checks for assignments.  This will include #OneNote in the future as well! #edtech #Bett2019 #mieexpert #MicrosoftEdu https://t.co/5fx1d0DVNw"
+	},
+	{
 		"created_at": "Tue Jan 22 10:57:21 +0000 2019",
 		"id": 1087665517882761200,
 		"id_str": "1087684871680610304",
