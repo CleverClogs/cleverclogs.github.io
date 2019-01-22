@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 17:07:50 +0000 2019",
+		"id": 1087758749736022000,
+		"id_str": "1087770810163646465",
+		"full_text": "What’s New in EDU is back for another episode and bringing you big news from #MicrosoftEDU. Watch the video, then check out the blog for our full list of updates leading into #Bett2019.  https://t.co/feI7rl5rPS #edtech https://t.co/n8Lv5pHGts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"text": "Bett2019",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						211,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/feI7rl5rPS",
+					"expanded_url": "http://msft.social/gjdRwD",
+					"display_url": "msft.social/gjdRwD",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1087758555577573400,
+					"id_str": "1087758555577573376",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1087758555577573376/img/kSu4O7uZazTVAFiY.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1087758555577573376/img/kSu4O7uZazTVAFiY.jpg",
+					"url": "https://t.co/n8Lv5pHGts",
+					"display_url": "pic.twitter.com/n8Lv5pHGts",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1087758749736022017/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087758555577573400,
+					"id_str": "1087758555577573376",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1087758555577573376/img/kSu4O7uZazTVAFiY.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1087758555577573376/img/kSu4O7uZazTVAFiY.jpg",
+					"url": "https://t.co/n8Lv5pHGts",
+					"display_url": "pic.twitter.com/n8Lv5pHGts",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1087758749736022017/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27736,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1087758555577573376/vid/1280x720/rZTGukBTUAFz0Qh0.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1087758555577573376/vid/640x360/kuEVYPO60v7flV1g.mp4?tag=9"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1087758555577573376/vid/320x180/5duJkVBl63yL8kgS.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1087758555577573376/pl/XkKBNbHefVQg83h5.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17826187,
+			"id_str": "17826187",
+			"name": "Microsoft Education",
+			"screen_name": "MicrosoftEDU",
+			"location": "Redmond, WA",
+			"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+			"url": "https://t.co/Kq0bGCfbFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kq0bGCfbFO",
+							"expanded_url": "http://www.microsoft.com/education",
+							"display_url": "microsoft.com/education",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339520,
+			"friends_count": 4341,
+			"listed_count": 3323,
+			"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+			"favourites_count": 21311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31987,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00BCF2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1508952382",
+			"profile_link_color": "0078D7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What’s New in EDU is back for another episode and bringing you big news from #MicrosoftEDU. Watch the video, then check out the blog for our full list of updates leading into #Bett2019.  https://t.co/feI7rl5rPS #edtech https://t.co/n8Lv5pHGts"
+	},
+	{
 		"created_at": "Tue Jan 22 17:05:14 +0000 2019",
 		"id": 1087758097098199000,
 		"id_str": "1087759552932732930",
