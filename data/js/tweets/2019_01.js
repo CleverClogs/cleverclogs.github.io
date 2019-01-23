@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 19:37:47 +0000 2019",
+		"id": 1088158874857807900,
+		"id_str": "1088202054357655552",
+		"full_text": "Coming soon to a video near you: New interactive features for #MicrosoftStream. https://t.co/DJtocOxgl3 https://t.co/9RkyRgeZzi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftStream",
+					"indices": [
+						62,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DJtocOxgl3",
+					"expanded_url": "http://msft.social/jFu4iu",
+					"display_url": "msft.social/jFu4iu",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088158765315170300,
+					"id_str": "1088158765315170305",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxnqobnWoAE_RrL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxnqobnWoAE_RrL.jpg",
+					"url": "https://t.co/9RkyRgeZzi",
+					"display_url": "pic.twitter.com/9RkyRgeZzi",
+					"expanded_url": "https://twitter.com/MicrosoftStream/status/1088158874857807873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 708,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1830,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088158765315170300,
+					"id_str": "1088158765315170305",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxnqobnWoAE_RrL.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxnqobnWoAE_RrL.jpg",
+					"url": "https://t.co/9RkyRgeZzi",
+					"display_url": "pic.twitter.com/9RkyRgeZzi",
+					"expanded_url": "https://twitter.com/MicrosoftStream/status/1088158874857807873/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 708,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1830,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							36
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DxnqobnWoAE_RrL.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748312285026742300,
+			"id_str": "748312285026742274",
+			"name": "Microsoft Stream",
+			"screen_name": "MicrosoftStream",
+			"location": "Redmond, WA",
+			"description": "The official Twitter handle for the Microsoft Stream team. Follow for news, updates, and much more. #MicrosoftStream",
+			"url": "https://t.co/oEqvAW019K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oEqvAW019K",
+							"expanded_url": "http://stream.microsoft.com",
+							"display_url": "stream.microsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1400,
+			"friends_count": 0,
+			"listed_count": 61,
+			"created_at": "Thu Jun 30 00:28:46 +0000 2016",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 550,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/874716265260109824/IFQo058y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/874716265260109824/IFQo058y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748312285026742274/1468857140",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coming soon to a video near you: New interactive features for #MicrosoftStream. https://t.co/DJtocOxgl3 https://t.co/9RkyRgeZzi"
+	},
+	{
 		"created_at": "Wed Jan 23 13:47:00 +0000 2019",
 		"id": 1088070596964073500,
 		"id_str": "1088089759673696257",
