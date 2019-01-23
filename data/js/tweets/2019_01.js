@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 12:45:12 +0000 2019",
+		"id": 1088055045466345500,
+		"id_str": "1088055045466345473",
+		"full_text": "Michelle Zimmerman @mrzphd just started her #Bett2019 session about what 21st-Century Learning looks like. \n\nThe Schools Theatre here at @Bett_Show is filled to the rim. Awesome presentation. \nMichelle’s school @rentonprep is a #Microsoft Flagship School.\n#MicrosoftEDU https://t.co/q4zXw6aSI1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bett2019",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						228,
+						238
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						256,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrzphd",
+					"name": "Michelle R. Zimmerman, PhD",
+					"id": 887144389,
+					"id_str": "887144389",
+					"indices": [
+						19,
+						26
+					]
+				},
+				{
+					"screen_name": "Bett_show",
+					"name": "Bett",
+					"id": 28354758,
+					"id_str": "28354758",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"screen_name": "rentonprep",
+					"name": "Renton Prep",
+					"id": 2385468954,
+					"id_str": "2385468954",
+					"indices": [
+						211,
+						222
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088055010846486500,
+					"id_str": "1088055010846486528",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/DxmMRIGWsAAr99S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxmMRIGWsAAr99S.jpg",
+					"url": "https://t.co/q4zXw6aSI1",
+					"display_url": "pic.twitter.com/q4zXw6aSI1",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1088055045466345473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088055010846486500,
+					"id_str": "1088055010846486528",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/DxmMRIGWsAAr99S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxmMRIGWsAAr99S.jpg",
+					"url": "https://t.co/q4zXw6aSI1",
+					"display_url": "pic.twitter.com/q4zXw6aSI1",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1088055045466345473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19749,
+			"friends_count": 7252,
+			"listed_count": 601,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25126,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Michelle Zimmerman @mrzphd just started her #Bett2019 session about what 21st-Century Learning looks like. \n\nThe Schools Theatre here at @Bett_Show is filled to the rim. Awesome presentation. \nMichelle’s school @rentonprep is a #Microsoft Flagship School.\n#MicrosoftEDU https://t.co/q4zXw6aSI1"
+	},
+	{
 		"created_at": "Wed Jan 23 12:12:32 +0000 2019",
 		"id": 1088046826337566700,
 		"id_str": "1088046826337566722",
