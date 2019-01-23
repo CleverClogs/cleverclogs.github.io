@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 13:47:00 +0000 2019",
+		"id": 1088070596964073500,
+		"id_str": "1088089759673696257",
+		"full_text": "Really interesting discussion panel taking place now in the #MicrosoftEdu stand in #Bett2019 about how #edtech tools can support teaching and learning in your classroom with @mtholfsen @OneNoteC @AdamShortShorts @justinchando #MIEExpert #OneNote #MicrosoftTeams #FlipgridFever https://t.co/hawrSrPZ7n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						60,
+						73
+					]
+				},
+				{
+					"text": "Bett2019",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						226,
+						236
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						237,
+						245
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						246,
+						261
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						262,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"screen_name": "AdamShortShorts",
+					"name": "Adam Parker Goldberg",
+					"id": 905639635744940000,
+					"id_str": "905639635744940032",
+					"indices": [
+						195,
+						211
+					]
+				},
+				{
+					"screen_name": "justinchando",
+					"name": "Justin Chando",
+					"id": 108410718,
+					"id_str": "108410718",
+					"indices": [
+						212,
+						225
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088070567364833300,
+					"id_str": "1088070567364833280",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DxmaaopWsAAtwJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxmaaopWsAAtwJf.jpg",
+					"url": "https://t.co/hawrSrPZ7n",
+					"display_url": "pic.twitter.com/hawrSrPZ7n",
+					"expanded_url": "https://twitter.com/MissGEnrique/status/1088070596964073472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088070567364833300,
+					"id_str": "1088070567364833280",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DxmaaopWsAAtwJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxmaaopWsAAtwJf.jpg",
+					"url": "https://t.co/hawrSrPZ7n",
+					"display_url": "pic.twitter.com/hawrSrPZ7n",
+					"expanded_url": "https://twitter.com/MissGEnrique/status/1088070596964073472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4120721403,
+			"id_str": "4120721403",
+			"name": "Gloria Enrique",
+			"screen_name": "MissGEnrique",
+			"location": "",
+			"description": "Spanish & I.T. Teacher | #MIEExpert | #MIEFellow | #MIE Master Trainer| FlipGrid Ambassador | #SkypeMT | #TeachSDGs #edtech #OneNote #FlipgridFever 😊",
+			"url": "https://t.co/GOLWRWoUDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GOLWRWoUDG",
+							"expanded_url": "https://www.linkedin.com/in/gloria-enrique-655804124",
+							"display_url": "linkedin.com/in/gloria-enri…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10878,
+			"friends_count": 9798,
+			"listed_count": 493,
+			"created_at": "Thu Nov 05 17:14:25 +0000 2015",
+			"favourites_count": 21547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17715,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080083921239502848/lpEyOaRM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080083921239502848/lpEyOaRM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4120721403/1521374831",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really interesting discussion panel taking place now in the #MicrosoftEdu stand in #Bett2019 about how #edtech tools can support teaching and learning in your classroom with @mtholfsen @OneNoteC @AdamShortShorts @justinchando #MIEExpert #OneNote #MicrosoftTeams #FlipgridFever https://t.co/hawrSrPZ7n"
+	},
+	{
 		"created_at": "Wed Jan 23 12:45:12 +0000 2019",
 		"id": 1088055045466345500,
 		"id_str": "1088055045466345473",
