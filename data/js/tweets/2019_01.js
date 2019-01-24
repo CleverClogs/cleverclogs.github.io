@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 16:22:12 +0000 2019",
+		"id": 1088472043731992600,
+		"id_str": "1088566823807844354",
+		"full_text": "Need to learn how to take notes with OneNote for Windows 10? Check out my new course: OneNote for Windows 10 Essential Training\n\n...its now available on LinkedIn Learning:\nhttps://t.co/PfIEJCXgHa\n\nand on https://t.co/ZN1qKST36P:\nhttps://t.co/p2uQKz66Wb https://t.co/mFi1nTJsR3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PfIEJCXgHa",
+					"expanded_url": "https://www.linkedin.com/learning/onenote-for-windows-10-essential-training",
+					"display_url": "linkedin.com/learning/oneno…",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"url": "https://t.co/ZN1qKST36P",
+					"expanded_url": "http://Lynda.com",
+					"display_url": "Lynda.com",
+					"indices": [
+						204,
+						227
+					]
+				},
+				{
+					"url": "https://t.co/p2uQKz66Wb",
+					"expanded_url": "https://www.lynda.com/OneNote-tutorials/OneNote-Windows-10-Essential-Training/797718-2.html",
+					"display_url": "lynda.com/OneNote-tutori…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088471937662083100,
+					"id_str": "1088471937662083074",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/DxsHddhUYAI5gom.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxsHddhUYAI5gom.jpg",
+					"url": "https://t.co/mFi1nTJsR3",
+					"display_url": "pic.twitter.com/mFi1nTJsR3",
+					"expanded_url": "https://twitter.com/HeatherSeverino/status/1088472043731992576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1290,
+							"h": 806,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088471937662083100,
+					"id_str": "1088471937662083074",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/DxsHddhUYAI5gom.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxsHddhUYAI5gom.jpg",
+					"url": "https://t.co/mFi1nTJsR3",
+					"display_url": "pic.twitter.com/mFi1nTJsR3",
+					"expanded_url": "https://twitter.com/HeatherSeverino/status/1088472043731992576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1290,
+							"h": 806,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 464152101,
+			"id_str": "464152101",
+			"name": "Heather Severino",
+			"screen_name": "HeatherSeverino",
+			"location": "Daytona Beach, Florida",
+			"description": "Microsoft MVP, Microsoft Certified Trainer, MCT Regional Lead, MOS Master while on land, by sea an adventurer looking for sea turtles.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471,
+			"friends_count": 397,
+			"listed_count": 37,
+			"created_at": "Sat Jan 14 22:25:03 +0000 2012",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 268,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2439210328/cnkfohvevqdu537o56o2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2439210328/cnkfohvevqdu537o56o2_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Need to learn how to take notes with OneNote for Windows 10? Check out my new course: OneNote for Windows 10 Essential Training\n\n...its now available on LinkedIn Learning:\nhttps://t.co/PfIEJCXgHa\n\nand on https://t.co/ZN1qKST36P:\nhttps://t.co/p2uQKz66Wb https://t.co/mFi1nTJsR3"
+	},
+	{
 		"created_at": "Thu Jan 24 13:58:04 +0000 2019",
 		"id": 1088435771856638000,
 		"id_str": "1088446290608832512",
