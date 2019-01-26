@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 22:58:59 +0000 2019",
+		"id": 1089296670326571000,
+		"id_str": "1089298223200636930",
+		"full_text": "Great to see our Y10 cohort taking advantage of the power of the pen on their devices @mtholfsen @OneNoteC @JayThompsonEdu https://t.co/rgThpzvnm5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"screen_name": "JayThompsonEdu",
+					"name": "Jay Thompson",
+					"id": 3978566486,
+					"id_str": "3978566486",
+					"indices": [
+						107,
+						122
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089296652249096200,
+					"id_str": "1089296652249096192",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx31iKxUYAAd1f5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx31iKxUYAAd1f5.jpg",
+					"url": "https://t.co/rgThpzvnm5",
+					"display_url": "pic.twitter.com/rgThpzvnm5",
+					"expanded_url": "https://twitter.com/stevesingapore/status/1089296670326571008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089296652249096200,
+					"id_str": "1089296652249096192",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx31iKxUYAAd1f5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx31iKxUYAAd1f5.jpg",
+					"url": "https://t.co/rgThpzvnm5",
+					"display_url": "pic.twitter.com/rgThpzvnm5",
+					"expanded_url": "https://twitter.com/stevesingapore/status/1089296670326571008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200186236,
+			"id_str": "200186236",
+			"name": "Steve Morgan",
+			"screen_name": "stevesingapore",
+			"location": "Singapore",
+			"description": "Head of Technology for Learning. French/Spanish teacher. Microsoft Expert, Fellow and Trainer. Apple trainer.",
+			"url": "https://t.co/RafoZoKsYQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RafoZoKsYQ",
+							"expanded_url": "http://www.stevesingapore.com",
+							"display_url": "stevesingapore.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1069,
+			"friends_count": 969,
+			"listed_count": 53,
+			"created_at": "Fri Oct 08 17:17:31 +0000 2010",
+			"favourites_count": 3147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3512,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959083738897399808/2AglX7hH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959083738897399808/2AglX7hH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200186236/1425900016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to see our Y10 cohort taking advantage of the power of the pen on their devices @mtholfsen @OneNoteC @JayThompsonEdu https://t.co/rgThpzvnm5"
+	},
+	{
 		"created_at": "Sat Jan 26 14:56:36 +0000 2019",
 		"id": 1089175275265556500,
 		"id_str": "1089175460704075777",
