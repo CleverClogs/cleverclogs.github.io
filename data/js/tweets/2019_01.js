@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 25 15:27:47 +0000 2019",
+		"id": 1088820735408246800,
+		"id_str": "1089084336182317056",
+		"full_text": "Looking for the \"Increasing Accessibility and Fostering Inclusive Classrooms\" PPT deck I've been presenting all week at at the @Bett_Show?  Here is the link - please share broadly! https://t.co/AC5wcDpFsp \n\n#Bett2019 #mieexpert #MicrosoftEDU https://t.co/JELykbRNkF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bett2019",
+					"indices": [
+						207,
+						216
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						217,
+						227
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						228,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bett_show",
+					"name": "Bett",
+					"id": 28354758,
+					"id_str": "28354758",
+					"indices": [
+						127,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AC5wcDpFsp",
+					"expanded_url": "https://aka.ms/InclusiveBETT",
+					"display_url": "aka.ms/InclusiveBETT",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1088820452032761900,
+					"id_str": "1088820452032761858",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/DxxEbquX0AINBtV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxxEbquX0AINBtV.jpg",
+					"url": "https://t.co/JELykbRNkF",
+					"display_url": "pic.twitter.com/JELykbRNkF",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1088820735408246791/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1492,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088820452032761900,
+					"id_str": "1088820452032761858",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/DxxEbquX0AINBtV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxxEbquX0AINBtV.jpg",
+					"url": "https://t.co/JELykbRNkF",
+					"display_url": "pic.twitter.com/JELykbRNkF",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1088820735408246791/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 904,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1492,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #BETT2019 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16063,
+			"friends_count": 3116,
+			"listed_count": 703,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 51734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26219,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking for the \"Increasing Accessibility and Fostering Inclusive Classrooms\" PPT deck I've been presenting all week at at the @Bett_Show?  Here is the link - please share broadly! https://t.co/AC5wcDpFsp \n\n#Bett2019 #mieexpert #MicrosoftEDU https://t.co/JELykbRNkF"
+	},
+	{
 		"created_at": "Thu Jan 24 16:22:12 +0000 2019",
 		"id": 1088472043731992600,
 		"id_str": "1088566823807844354",
