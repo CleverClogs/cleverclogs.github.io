@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 12:00:01 +0000 2019",
+		"id": 1089130837457678300,
+		"id_str": "1089833959326957568",
+		"full_text": "Thank you to everyone who visited us at #Bett2019 and who tuned in online! We covered a lot of ground this year, so let us know what you’d like to learn more about or how else we can help you in 2019! And get all the news updates here: https://t.co/zSRtSHRJbx #MicrosoftEDU https://t.co/URna74PCML",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bett2019",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						260,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zSRtSHRJbx",
+					"expanded_url": "http://msft.social/9h1hMC",
+					"display_url": "msft.social/9h1hMC",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1089130834257502200,
+					"id_str": "1089130834257502211",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx1euSnX4AMZvea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx1euSnX4AMZvea.jpg",
+					"url": "https://t.co/URna74PCML",
+					"display_url": "pic.twitter.com/URna74PCML",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1089130837457678338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089130834257502200,
+					"id_str": "1089130834257502211",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx1euSnX4AMZvea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx1euSnX4AMZvea.jpg",
+					"url": "https://t.co/URna74PCML",
+					"display_url": "pic.twitter.com/URna74PCML",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1089130837457678338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17826187,
+			"id_str": "17826187",
+			"name": "Microsoft Education",
+			"screen_name": "MicrosoftEDU",
+			"location": "Redmond, WA",
+			"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+			"url": "https://t.co/Kq0bGCfbFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kq0bGCfbFO",
+							"expanded_url": "http://www.microsoft.com/education",
+							"display_url": "microsoft.com/education",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 340317,
+			"friends_count": 4341,
+			"listed_count": 3326,
+			"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+			"favourites_count": 21456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32122,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00BCF2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1508952382",
+			"profile_link_color": "0078D7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you to everyone who visited us at #Bett2019 and who tuned in online! We covered a lot of ground this year, so let us know what you’d like to learn more about or how else we can help you in 2019! And get all the news updates here: https://t.co/zSRtSHRJbx #MicrosoftEDU https://t.co/URna74PCML"
+	},
+	{
 		"created_at": "Sun Jan 27 20:13:03 +0000 2019",
 		"id": 1089617302310608900,
 		"id_str": "1089617302310608897",
