@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 15:30:07 +0000 2019",
+		"id": 1089908488527102000,
+		"id_str": "1089929711877279746",
+		"full_text": "When you learn about some AH-MAZING new @OneNoteEDU updates and you present at the @Microsoft booth tomorrow for #FETC... you stay in bed and make sure to NEW features are highlighted in your presentation!! What’s a girl to do?!? #sleepin #WorkLifeBalance #MIEExpert #lrnchat https://t.co/rpCShmtIKn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FETC",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "sleepin",
+					"indices": [
+						230,
+						238
+					]
+				},
+				{
+					"text": "WorkLifeBalance",
+					"indices": [
+						239,
+						255
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						256,
+						266
+					]
+				},
+				{
+					"text": "lrnchat",
+					"indices": [
+						267,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089908480113295400,
+					"id_str": "1089908480113295361",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DyAh_PLWwAEVgOt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyAh_PLWwAEVgOt.jpg",
+					"url": "https://t.co/rpCShmtIKn",
+					"display_url": "pic.twitter.com/rpCShmtIKn",
+					"expanded_url": "https://twitter.com/AGlover4EDU/status/1089908488527101952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089908480113295400,
+					"id_str": "1089908480113295361",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DyAh_PLWwAEVgOt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyAh_PLWwAEVgOt.jpg",
+					"url": "https://t.co/rpCShmtIKn",
+					"display_url": "pic.twitter.com/rpCShmtIKn",
+					"expanded_url": "https://twitter.com/AGlover4EDU/status/1089908488527101952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 756977218983780400,
+			"id_str": "756977218983780352",
+			"name": "Amanda Glover",
+			"screen_name": "AGlover4EDU",
+			"location": "Florida, USA",
+			"description": "#InstructionalDesigner • #STEM Coordinator • #Innovator • Problem Solver • #Collaborator • #Maker • @Area3STEM Founder • #MIEExpert Follow my Class @Glover_HGE",
+			"url": "https://t.co/9uDz6BI18Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9uDz6BI18Y",
+							"expanded_url": "http://aglover4edu.com",
+							"display_url": "aglover4edu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3413,
+			"friends_count": 3037,
+			"listed_count": 123,
+			"created_at": "Sat Jul 23 22:20:07 +0000 2016",
+			"favourites_count": 17153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9145,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982431125422379008/HQj2kebb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982431125422379008/HQj2kebb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/756977218983780352/1530323962",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you learn about some AH-MAZING new @OneNoteEDU updates and you present at the @Microsoft booth tomorrow for #FETC... you stay in bed and make sure to NEW features are highlighted in your presentation!! What’s a girl to do?!? #sleepin #WorkLifeBalance #MIEExpert #lrnchat https://t.co/rpCShmtIKn"
+	},
+	{
 		"created_at": "Sat Jan 26 12:00:01 +0000 2019",
 		"id": 1089130837457678300,
 		"id_str": "1089833959326957568",
