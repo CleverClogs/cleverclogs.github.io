@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 15:46:27 +0000 2019",
+		"id": 1090274986537963500,
+		"id_str": "1090274986537963520",
+		"full_text": "@J_Bimmerle @annkozma723 @EdTechBites @FriendsinFourth @MrMerrillsClass @justinchando @kerszi @VirtualGiff @HollandEdTech The dynamic #FETC Twitter wall is pretty mesmerizing, don't you think? \n\nThere's a typically a new custom wall for every #edtech event where #MicrosoftEDU has a presence, with fine-tuned selection criteria to match hashtags and key product groups 💃",
+		"truncated": false,
+		"display_text_range": [
+			122,
+			370
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FETC",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						243,
+						250
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						263,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "J_Bimmerle",
+					"name": "John Bimmerle",
+					"id": 168776368,
+					"id_str": "168776368",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "annkozma723",
+					"name": "Ann Kozma 📱🌎📖",
+					"id": 526629851,
+					"id_str": "526629851",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "EdTechBites",
+					"name": "Gabriel Carrillo",
+					"id": 321166235,
+					"id_str": "321166235",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "FriendsinFourth",
+					"name": "Kristin Merrill",
+					"id": 2737934532,
+					"id_str": "2737934532",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"screen_name": "MrMerrillsClass",
+					"name": "Joe Merrill ",
+					"id": 3633623001,
+					"id_str": "3633623001",
+					"indices": [
+						55,
+						71
+					]
+				},
+				{
+					"screen_name": "justinchando",
+					"name": "Justin Chando",
+					"id": 108410718,
+					"id_str": "108410718",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"screen_name": "kerszi",
+					"name": "Kathi Kersznowski",
+					"id": 595079922,
+					"id_str": "595079922",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"screen_name": "VirtualGiff",
+					"name": "Jen Giffen",
+					"id": 360965292,
+					"id_str": "360965292",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"screen_name": "HollandEdTech",
+					"name": "Holly Holland",
+					"id": 3390194687,
+					"id_str": "3390194687",
+					"indices": [
+						107,
+						121
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1090245588975800300,
+		"in_reply_to_status_id_str": "1090245588975800322",
+		"in_reply_to_user_id": 168776368,
+		"in_reply_to_user_id_str": "168776368",
+		"in_reply_to_screen_name": "J_Bimmerle",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19820,
+			"friends_count": 7266,
+			"listed_count": 600,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@J_Bimmerle @annkozma723 @EdTechBites @FriendsinFourth @MrMerrillsClass @justinchando @kerszi @VirtualGiff @HollandEdTech The dynamic #FETC Twitter wall is pretty mesmerizing, don't you think? \n\nThere's a typically a new custom wall for every #edtech event where #MicrosoftEDU has a presence, with fine-tuned selection criteria to match hashtags and key product groups 💃"
+	},
+	{
 		"created_at": "Tue Jan 29 13:31:21 +0000 2019",
 		"id": 1090240984343023600,
 		"id_str": "1090240984343023617",
