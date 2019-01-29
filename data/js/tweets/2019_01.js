@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 17:38:05 +0000 2019",
+		"id": 1090303077226172400,
+		"id_str": "1090304443629924355",
+		"full_text": "During #Bett2019 we announced seven new laptops and two-in-one tablets to help schools who continue to operate on very limited budgets, including the Lenovo 300E that can use a No.2 Pencil as a stylus. Learn about these devices at @GeekWire. https://t.co/vilLjNOs3f https://t.co/MkpVcsVCAD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bett2019",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "geekwire",
+					"name": "GeekWire",
+					"id": 255784266,
+					"id_str": "255784266",
+					"indices": [
+						231,
+						240
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vilLjNOs3f",
+					"expanded_url": "https://www.geekwire.com/2019/microsoft-unveils-new-windows-10-devices-digital-learning-tools-students-teachers/",
+					"display_url": "geekwire.com/2019/microsoft…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1090302294967500800,
+					"id_str": "1090302294967500800",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1090302294967500800/pu/img/VMqsycy0nTHIUzOT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1090302294967500800/pu/img/VMqsycy0nTHIUzOT.jpg",
+					"url": "https://t.co/MkpVcsVCAD",
+					"display_url": "pic.twitter.com/MkpVcsVCAD",
+					"expanded_url": "https://twitter.com/bnholzapfel/status/1090303077226172416/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090302294967500800,
+					"id_str": "1090302294967500800",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1090302294967500800/pu/img/VMqsycy0nTHIUzOT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1090302294967500800/pu/img/VMqsycy0nTHIUzOT.jpg",
+					"url": "https://t.co/MkpVcsVCAD",
+					"display_url": "pic.twitter.com/MkpVcsVCAD",
+					"expanded_url": "https://twitter.com/bnholzapfel/status/1090303077226172416/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 2304,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1090302294967500800/pu/pl/dI7b1NkVbE0y_ogJ.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1090302294967500800/pu/vid/640x360/lk8GvPE318akWSN-.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1090302294967500800/pu/vid/320x180/ys9l6sSnNIaTjdHX.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1090302294967500800/pu/vid/1280x720/VdPp9EpV-rjs9Pf_.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 466961923,
+			"id_str": "466961923",
+			"name": "Barbara Holzapfel",
+			"screen_name": "bnholzapfel",
+			"location": "",
+			"description": "Dedicated to innovation, life-ready learning, and inclusion in the tech industry. GM of Education Marketing at @Microsoft. Opinions are my own. #WomeninTech",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13458,
+			"friends_count": 465,
+			"listed_count": 62,
+			"created_at": "Wed Jan 18 00:03:42 +0000 2012",
+			"favourites_count": 998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 467,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032357528556818432/KUJJxhdS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032357528556818432/KUJJxhdS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/466961923/1534968144",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "During #Bett2019 we announced seven new laptops and two-in-one tablets to help schools who continue to operate on very limited budgets, including the Lenovo 300E that can use a No.2 Pencil as a stylus. Learn about these devices at @GeekWire. https://t.co/vilLjNOs3f https://t.co/MkpVcsVCAD"
+	},
+	{
 		"created_at": "Tue Jan 29 15:46:27 +0000 2019",
 		"id": 1090274986537963500,
 		"id_str": "1090274986537963520",
