@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 23:20:25 +0000 2019",
+		"id": 1090389229673369600,
+		"id_str": "1090389229673369600",
+		"full_text": "@mtholfsen @worldhistorytea @justinchando @MicrosoftTeams @OneNoteEDU @sig225 @lisahighfill For even more context about #Hyperdocs and #Microsoft #OneNote, check out this Twitter search query:\nhttps://t.co/BjCYKMlJ5N\n\nThe many types of interactive object you can live-embed in OneNote have great potential – in my book (wink). \ncc @lhighfill\n#oEmbed",
+		"truncated": false,
+		"display_text_range": [
+			92,
+			349
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hyperdocs",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "oEmbed",
+					"indices": [
+						342,
+						349
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "worldhistorytea",
+					"name": "jgreene",
+					"id": 48003100,
+					"id_str": "48003100",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "justinchando",
+					"name": "Justin Chando",
+					"id": 108410718,
+					"id_str": "108410718",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						42,
+						57
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						58,
+						69
+					]
+				},
+				{
+					"screen_name": "sig225",
+					"name": "Cal Armstrong",
+					"id": 12895782,
+					"id_str": "12895782",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"screen_name": "lisahighfill",
+					"name": "Lisa Highfill",
+					"id": 488663006,
+					"id_str": "488663006",
+					"indices": [
+						78,
+						91
+					]
+				},
+				{
+					"screen_name": "lhighfill",
+					"name": "Lisa Highfill",
+					"id": 50918564,
+					"id_str": "50918564",
+					"indices": [
+						331,
+						341
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BjCYKMlJ5N",
+					"expanded_url": "https://twitter.com/search?f=tweets&q=hyperdocs%20%20OneNote%20OR%20MSOneNote%20OR%20OneNoteC%20OR%20OneNoteEDU%20OR%20MTholfsen&src=typd",
+					"display_url": "twitter.com/search?f=tweet…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1090385854361669600,
+		"in_reply_to_status_id_str": "1090385854361669632",
+		"in_reply_to_user_id": 27673327,
+		"in_reply_to_user_id_str": "27673327",
+		"in_reply_to_screen_name": "mtholfsen",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19826,
+			"friends_count": 7277,
+			"listed_count": 600,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mtholfsen @worldhistorytea @justinchando @MicrosoftTeams @OneNoteEDU @sig225 @lisahighfill For even more context about #Hyperdocs and #Microsoft #OneNote, check out this Twitter search query:\nhttps://t.co/BjCYKMlJ5N\n\nThe many types of interactive object you can live-embed in OneNote have great potential – in my book (wink). \ncc @lhighfill\n#oEmbed"
+	},
+	{
 		"created_at": "Tue Jan 29 22:40:33 +0000 2019",
 		"id": 1090379198626259000,
 		"id_str": "1090379198626258946",
