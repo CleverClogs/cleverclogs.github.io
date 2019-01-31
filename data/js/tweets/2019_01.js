@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 31 14:49:50 +0000 2019",
+		"id": 1090985511865409500,
+		"id_str": "1090985607038468096",
+		"full_text": "Love that @MicrosoftTeams and @Turnitin are getting together!  They're holding a webinar in a couple weeks :  https://t.co/2mCvUzshYI  #MIEExpert #edtech https://t.co/1LUknuF4Of",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "Turnitin",
+					"name": "Turnitin",
+					"id": 132203530,
+					"id_str": "132203530",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2mCvUzshYI",
+					"expanded_url": "https://www.turnitin.com/events/virtual/microsoft-webinar-2#.XFMKGWDH5d8.twitter",
+					"display_url": "turnitin.com/events/virtual…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1090985506207232000,
+					"id_str": "1090985506207232000",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/DyP1iaCU8AA_HJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyP1iaCU8AA_HJ-.jpg",
+					"url": "https://t.co/1LUknuF4Of",
+					"display_url": "pic.twitter.com/1LUknuF4Of",
+					"expanded_url": "https://twitter.com/sig225/status/1090985511865409537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 401,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1795,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090985506207232000,
+					"id_str": "1090985506207232000",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/DyP1iaCU8AA_HJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyP1iaCU8AA_HJ-.jpg",
+					"url": "https://t.co/1LUknuF4Of",
+					"display_url": "pic.twitter.com/1LUknuF4Of",
+					"expanded_url": "https://twitter.com/sig225/status/1090985511865409537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 401,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1795,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12895782,
+			"id_str": "12895782",
+			"name": "Cal Armstrong",
+			"screen_name": "sig225",
+			"location": "Canada",
+			"description": "I learn; I help others learn\nMathematics Educator / Microsoft Education Fellow / PCMI - Institute for Advanced Study  / Aux Police A/Sgt\n[Opinions are my own]",
+			"url": "https://t.co/kozg07sk6j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kozg07sk6j",
+							"expanded_url": "http://about.me/armstrongc",
+							"display_url": "about.me/armstrongc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4505,
+			"friends_count": 3252,
+			"listed_count": 338,
+			"created_at": "Thu Jan 31 01:40:55 +0000 2008",
+			"favourites_count": 12202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25877,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12895782/1503200733",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "ABD9FC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love that @MicrosoftTeams and @Turnitin are getting together!  They're holding a webinar in a couple weeks :  https://t.co/2mCvUzshYI  #MIEExpert #edtech https://t.co/1LUknuF4Of"
+	},
+	{
 		"created_at": "Thu Jan 24 18:21:26 +0000 2019",
 		"id": 1088502049346596900,
 		"id_str": "1090967899957792768",
