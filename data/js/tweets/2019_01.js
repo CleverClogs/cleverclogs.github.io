@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 18:21:26 +0000 2019",
+		"id": 1088502049346596900,
+		"id_str": "1090967899957792768",
+		"full_text": "NEW!!! Dyslexia Awareness Training with @MicrosoftEDU Celebrities like @richardbranson @OrlandoJBloom join expert teachers from @MillfieldPrep @SchenckSchool 2 world leading dyslexia schools in our inspiration training 👉 https://t.co/qHXSO4aekv #SpellingItOut #ValueOfDyslexia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpellingItOut",
+					"indices": [
+						245,
+						259
+					]
+				},
+				{
+					"text": "ValueOfDyslexia",
+					"indices": [
+						260,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "richardbranson",
+					"name": "Richard Branson",
+					"id": 8161232,
+					"id_str": "8161232",
+					"indices": [
+						71,
+						86
+					]
+				},
+				{
+					"screen_name": "OrlandoJBloom",
+					"name": "Orlando Bloom",
+					"id": 70540548,
+					"id_str": "70540548",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"screen_name": "MillfieldPrep",
+					"name": "Millfield Prep",
+					"id": 237881710,
+					"id_str": "237881710",
+					"indices": [
+						128,
+						142
+					]
+				},
+				{
+					"screen_name": "SchenckSchool",
+					"name": "The Schenck School",
+					"id": 1964987329,
+					"id_str": "1964987329",
+					"indices": [
+						143,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qHXSO4aekv",
+					"expanded_url": "https://aka.ms/MECMadeByDyslexia",
+					"display_url": "aka.ms/MECMadeByDysle…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 846743880661942300,
+			"id_str": "846743880661942273",
+			"name": "Made By Dyslexia",
+			"screen_name": "MadeByDyslexia",
+			"location": "Worldwide",
+			"description": "We’re a global charity led by successful dyslexics. Our mission is to help the world understand the #ValueOfDyslexia #DyslexicThinking #MadeByDyslexia",
+			"url": "https://t.co/2DGohCIiLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2DGohCIiLd",
+							"expanded_url": "http://Madebydyslexia.org",
+							"display_url": "Madebydyslexia.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9149,
+			"friends_count": 329,
+			"listed_count": 51,
+			"created_at": "Tue Mar 28 15:20:47 +0000 2017",
+			"favourites_count": 3344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2575,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050730615719583744/S3nTLJ0B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050730615719583744/S3nTLJ0B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/846743880661942273/1539694194",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 131,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW!!! Dyslexia Awareness Training with @MicrosoftEDU Celebrities like @richardbranson @OrlandoJBloom join expert teachers from @MillfieldPrep @SchenckSchool 2 world leading dyslexia schools in our inspiration training 👉 https://t.co/qHXSO4aekv #SpellingItOut #ValueOfDyslexia"
+	},
+	{
 		"created_at": "Wed Jan 30 17:58:00 +0000 2019",
 		"id": 1090670480061841400,
 		"id_str": "1090925638343712768",
