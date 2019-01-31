@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 17:58:00 +0000 2019",
+		"id": 1090670480061841400,
+		"id_str": "1090925638343712768",
+		"full_text": "This is sooo cool!! WOW!! A big Thank you to @OneNoteEDU  for this honor. #OneNote ROCKS!\n@OneNoteC you were the driving force behind my #OneNote animations TY\n#MicrosoftEdu https://t.co/0GH32R6OQx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						160,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0GH32R6OQx",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1088853259631112192",
+					"display_url": "twitter.com/OneNoteEDU/sta…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 241913187,
+			"id_str": "241913187",
+			"name": "Nicos Paphitis",
+			"screen_name": "paphitisn",
+			"location": "Cyprus",
+			"description": "ICT Teacher / MIE Fellow /MIE Expert/Master Trainer / The Junior & Senior School (Nicosia)\nE2 2018 1st runner up group challenge\nHobby: Wing Chun Kung Fu",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 446,
+			"friends_count": 613,
+			"listed_count": 8,
+			"created_at": "Sun Jan 23 13:11:30 +0000 2011",
+			"favourites_count": 2645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 953,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972714437063905285/kPABQKyB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972714437063905285/kPABQKyB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/241913187/1537607705",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088853259631112200,
+		"quoted_status_id_str": "1088853259631112192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0GH32R6OQx",
+			"expanded": "https://twitter.com/OneNoteEDU/status/1088853259631112192",
+			"display": "twitter.com/OneNoteEDU/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 25 17:37:01 +0000 2019",
+			"id": 1088853259631112200,
+			"id_str": "1088853259631112192",
+			"full_text": "#MIEExpert @paphitisn knows there are times when students don't want to or won't do something, but there’s no “can’t”. For him, it's about being honest &amp; not looking for excuses. We couldn’t agree more! Follow Nicos &amp; his Daily Edventure here: https://t.co/CvD2LTjRZE #OneNote https://t.co/Ai4PaiQEya",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							276,
+							284
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "paphitisn",
+						"name": "Nicos Paphitis",
+						"id": 241913187,
+						"id_str": "241913187",
+						"indices": [
+							11,
+							21
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CvD2LTjRZE",
+						"expanded_url": "http://msft.social/fc0U3I",
+						"display_url": "msft.social/fc0U3I",
+						"indices": [
+							252,
+							275
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1088853255797567500,
+						"id_str": "1088853255797567488",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/DxxiRGRXcAA3U7s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxxiRGRXcAA3U7s.jpg",
+						"url": "https://t.co/Ai4PaiQEya",
+						"display_url": "pic.twitter.com/Ai4PaiQEya",
+						"expanded_url": "https://twitter.com/OneNoteEDU/status/1088853259631112192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088853255797567500,
+						"id_str": "1088853255797567488",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/DxxiRGRXcAA3U7s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxxiRGRXcAA3U7s.jpg",
+						"url": "https://t.co/Ai4PaiQEya",
+						"display_url": "pic.twitter.com/Ai4PaiQEya",
+						"expanded_url": "https://twitter.com/OneNoteEDU/status/1088853259631112192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3096566760,
+				"id_str": "3096566760",
+				"name": "OneNote Education",
+				"screen_name": "OneNoteEDU",
+				"location": "Redmond, WA",
+				"description": "Connecting educators to OneNote resources and information. An official channel for Microsoft OneNote.",
+				"url": "http://t.co/VAJyjQIbaK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VAJyjQIbaK",
+								"expanded_url": "http://onenoteineducation.com/",
+								"display_url": "onenoteineducation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68986,
+				"friends_count": 858,
+				"listed_count": 771,
+				"created_at": "Wed Mar 18 17:56:27 +0000 2015",
+				"favourites_count": 10658,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17383,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096566760/1455659611",
+				"profile_link_color": "80397B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is sooo cool!! WOW!! A big Thank you to @OneNoteEDU  for this honor. #OneNote ROCKS!\n@OneNoteC you were the driving force behind my #OneNote animations TY\n#MicrosoftEdu https://t.co/0GH32R6OQx"
+	},
+	{
 		"created_at": "Wed Jan 30 22:48:55 +0000 2019",
 		"id": 1090743691130667000,
 		"id_str": "1090743691130667010",
