@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 04 02:21:04 +0000 2019",
+		"id": 1092246632320532500,
+		"id_str": "1092347962758520833",
+		"full_text": "Just aired: Our #SuperBowl commercial. \nWhen everybody plays, we all win. \nhttps://t.co/6EEhbvWMN8 #SBLIII https://t.co/bztkL9AUOT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperBowl",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"text": "SBLIII",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6EEhbvWMN8",
+					"expanded_url": "https://www.microsoft.com/en-us/empowering/",
+					"display_url": "microsoft.com/en-us/empoweri…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1091448700163973100,
+					"id_str": "1091448700163973120",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DyhP_IeUwAEsfsz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyhP_IeUwAEsfsz.jpg",
+					"url": "https://t.co/bztkL9AUOT",
+					"display_url": "pic.twitter.com/bztkL9AUOT",
+					"expanded_url": "https://twitter.com/Microsoft/status/1092246632320532480/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091448700163973100,
+					"id_str": "1091448700163973120",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DyhP_IeUwAEsfsz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyhP_IeUwAEsfsz.jpg",
+					"url": "https://t.co/bztkL9AUOT",
+					"display_url": "pic.twitter.com/bztkL9AUOT",
+					"expanded_url": "https://twitter.com/Microsoft/status/1092246632320532480/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 61061,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1091448700163973120/vid/1280x720/PYO_Lb5N_KuNGKjE.mp4?tag=9"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1091448700163973120/vid/320x180/GVFwIcP4Q2JftDDD.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1091448700163973120/pl/theTrb36jT4SHDkd.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1091448700163973120/vid/640x360/69PgFS8GxFWZKAFw.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Microsoft Super Bowl Commercial 2019: We All Win",
+						"description": "When technology empowers each of us, it empowers all of us.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.microsoft.com/en-us/empowering/"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74286565,
+			"id_str": "74286565",
+			"name": "Microsoft",
+			"screen_name": "Microsoft",
+			"location": "Redmond, WA",
+			"description": "We’re on a mission to empower every person and every organization on the planet to achieve more. Support: @MicrosoftHelps",
+			"url": "https://t.co/bKBtZeAFrh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bKBtZeAFrh",
+							"expanded_url": "https://news.microsoft.com/",
+							"display_url": "news.microsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8492029,
+			"friends_count": 2568,
+			"listed_count": 22611,
+			"created_at": "Mon Sep 14 22:35:42 +0000 2009",
+			"favourites_count": 1575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15137,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00AEEF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875416480547917824/R6wl9gWl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1545335794",
+			"profile_link_color": "1570A6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6356,
+		"favorite_count": 28413,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just aired: Our #SuperBowl commercial. \nWhen everybody plays, we all win. \nhttps://t.co/6EEhbvWMN8 #SBLIII https://t.co/bztkL9AUOT"
+	},
+	{
 		"created_at": "Sat Feb 02 10:31:29 +0000 2019",
 		"id": 1091645274919972900,
 		"id_str": "1091645274919972864",
