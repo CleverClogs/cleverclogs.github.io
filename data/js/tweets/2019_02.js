@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 23:37:02 +0000 2019",
+		"id": 1092930125455339500,
+		"id_str": "1092930740566835201",
+		"full_text": "Combine paper and digital notebook seamlessly : the best of both worlds ! \ncc/ @frankkendralla @getRocketbook @OneNoteC @Jared_DeCamp \nhttps://t.co/5zqFBXhNDj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankkendralla",
+					"name": "Frank Kendralla",
+					"id": 82140534,
+					"id_str": "82140534",
+					"indices": [
+						79,
+						94
+					]
+				},
+				{
+					"screen_name": "getRocketbook",
+					"name": "Rocketbook",
+					"id": 2338925881,
+					"id_str": "2338925881",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"screen_name": "Jared_DeCamp",
+					"name": "Jared DeCamp",
+					"id": 3005666891,
+					"id_str": "3005666891",
+					"indices": [
+						120,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5zqFBXhNDj",
+					"expanded_url": "http://onenote.pro/en/2019/02/06/rocketbook/",
+					"display_url": "onenote.pro/en/2019/02/06/…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4916034934,
+			"id_str": "4916034934",
+			"name": "Albin LABELLE",
+			"screen_name": "Noteadviser",
+			"location": "France",
+			"description": "Utilisateur enthousiaste de OneNote, au service de la communauté francophone. Microsoft #MVP #OneNote",
+			"url": "https://t.co/krhCOillh2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/krhCOillh2",
+							"expanded_url": "http://www.onenote.pro/",
+							"display_url": "onenote.pro",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110,
+			"friends_count": 44,
+			"listed_count": 17,
+			"created_at": "Mon Feb 15 22:00:21 +0000 2016",
+			"favourites_count": 2018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 246,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820622803800064000/xz9khfNW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820622803800064000/xz9khfNW_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Combine paper and digital notebook seamlessly : the best of both worlds ! \ncc/ @frankkendralla @getRocketbook @OneNoteC @Jared_DeCamp \nhttps://t.co/5zqFBXhNDj"
+	},
+	{
 		"created_at": "Mon Feb 04 02:21:04 +0000 2019",
 		"id": 1092246632320532500,
 		"id_str": "1092347962758520833",
