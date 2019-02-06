@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 11:57:38 +0000 2019",
+		"id": 1093116503724052500,
+		"id_str": "1093116503724052480",
+		"full_text": "Funny little bunny finishing their late-night homework.\n6 New #Microsoft Adventure Friends stickers now available in #OneNote on the Insert menu.\n\nView all stickers:\nhttps://t.co/1CzzyKzkxG\n\nRabbit as live-embeddable animated GIF:\nhttps://t.co/CiD7kX6eIf \nby @MicrosoftEDU\n#oEmbed https://t.co/g6Q3T7HRq4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "oEmbed",
+					"indices": [
+						273,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						259,
+						272
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1CzzyKzkxG",
+					"expanded_url": "https://www.onenote.com/officeaddins/stickers?filter=teacher&clientlogging=false&fromAR=1",
+					"display_url": "onenote.com/officeaddins/s…",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/CiD7kX6eIf",
+					"expanded_url": "https://media.giphy.com/media/7JEPMRdfPLfq1sjZUJ/giphy.gif",
+					"display_url": "media.giphy.com/media/7JEPMRdf…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093116463077040100,
+					"id_str": "1093116463077040129",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093116463077040129/pu/img/_BrxaaNhZ-zleSFN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093116463077040129/pu/img/_BrxaaNhZ-zleSFN.jpg",
+					"url": "https://t.co/g6Q3T7HRq4",
+					"display_url": "pic.twitter.com/g6Q3T7HRq4",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1093116503724052480/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093116463077040100,
+					"id_str": "1093116463077040129",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1093116463077040129/pu/img/_BrxaaNhZ-zleSFN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1093116463077040129/pu/img/_BrxaaNhZ-zleSFN.jpg",
+					"url": "https://t.co/g6Q3T7HRq4",
+					"display_url": "pic.twitter.com/g6Q3T7HRq4",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1093116503724052480/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 10767,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1093116463077040129/pu/pl/Tv3pOo34XF0ponrq.m3u8?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1093116463077040129/pu/vid/720x720/LpLzDuY5GlaCidrB.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1093116463077040129/pu/vid/480x480/ih6mr13FN74edDFX.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1093116463077040129/pu/vid/320x320/mqMUQXtNyy_RTi_L.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19870,
+			"friends_count": 7296,
+			"listed_count": 602,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1537441563",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Funny little bunny finishing their late-night homework.\n6 New #Microsoft Adventure Friends stickers now available in #OneNote on the Insert menu.\n\nView all stickers:\nhttps://t.co/1CzzyKzkxG\n\nRabbit as live-embeddable animated GIF:\nhttps://t.co/CiD7kX6eIf \nby @MicrosoftEDU\n#oEmbed https://t.co/g6Q3T7HRq4"
+	},
+	{
 		"created_at": "Tue Feb 05 23:37:02 +0000 2019",
 		"id": 1092930125455339500,
 		"id_str": "1092930740566835201",
