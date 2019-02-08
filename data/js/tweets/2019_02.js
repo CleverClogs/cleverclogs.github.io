@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 10:38:38 +0000 2019",
+		"id": 1093821399939063800,
+		"id_str": "1093857851607531520",
+		"full_text": "So proud to announce our hosts for the global #MSFTEduChat TweetMeet about #Literacy. \n\nFollow all hosts from this Twitter List:\nhttps://t.co/WwjZxxRz2h\n\nWill you join us Tuesday, February 19? Check the local event times:\nhttps://t.co/8SYRKCtJID\n #MicrosoftEDU https://t.co/3Yx7zV601J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"text": "Literacy",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						247,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WwjZxxRz2h",
+					"expanded_url": "https://twitter.com/tweetmeet/msfteduchat-2019-02",
+					"display_url": "twitter.com/tweetmeet/msft…",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/8SYRKCtJID",
+					"expanded_url": "https://www.timeanddate.com/worldclock/fixedtime.html?low=c&p1=234&iso=20190219T10&msg=%23MSFTEduChat%20TweetMeet%20%e2%80%93%20Feb%2019%20%e2%80%93%20Literacy&ah=1&sort=1",
+					"display_url": "timeanddate.com/worldclock/fix…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1093820504778129400,
+					"id_str": "1093820504778129409",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy4H9CtWwAEwckA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy4H9CtWwAEwckA.jpg",
+					"url": "https://t.co/3Yx7zV601J",
+					"display_url": "pic.twitter.com/3Yx7zV601J",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1093821399939063808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093820504778129400,
+					"id_str": "1093820504778129409",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy4H9CtWwAEwckA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy4H9CtWwAEwckA.jpg",
+					"url": "https://t.co/3Yx7zV601J",
+					"display_url": "pic.twitter.com/3Yx7zV601J",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1093821399939063808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1761,
+			"friends_count": 1090,
+			"listed_count": 14,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 518,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1547987300",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So proud to announce our hosts for the global #MSFTEduChat TweetMeet about #Literacy. \n\nFollow all hosts from this Twitter List:\nhttps://t.co/WwjZxxRz2h\n\nWill you join us Tuesday, February 19? Check the local event times:\nhttps://t.co/8SYRKCtJID\n #MicrosoftEDU https://t.co/3Yx7zV601J"
+	},
+	{
 		"created_at": "Wed Feb 06 18:26:55 +0000 2019",
 		"id": 1093214470338498600,
 		"id_str": "1093214470338498563",
