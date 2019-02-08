@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 20:30:00 +0000 2019",
+		"id": 1093607832707100700,
+		"id_str": "1093992689589276673",
+		"full_text": "#Jenallee is all over this @TweetBeam wall today at the @MicrosoftEDU booth 🙌🏻 \nCome by and see us to learn all about @Flipgrid  #EMSProud #MIEExpert  #emstechsperts #StudentVoice #FlipgridFever https://t.co/46pyKxwL3P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jenallee",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "EMSProud",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"text": "emstechsperts",
+					"indices": [
+						151,
+						165
+					]
+				},
+				{
+					"text": "StudentVoice",
+					"indices": [
+						166,
+						179
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						180,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetBeam",
+					"name": "TweetBeam",
+					"id": 564771834,
+					"id_str": "564771834",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						56,
+						69
+					]
+				},
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093607823726891000,
+					"id_str": "1093607823726891009",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy1GhYDUUAEn0PD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy1GhYDUUAEn0PD.jpg",
+					"url": "https://t.co/46pyKxwL3P",
+					"display_url": "pic.twitter.com/46pyKxwL3P",
+					"expanded_url": "https://twitter.com/jlo731/status/1093607832707100672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093607823726891000,
+					"id_str": "1093607823726891009",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy1GhYDUUAEn0PD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy1GhYDUUAEn0PD.jpg",
+					"url": "https://t.co/46pyKxwL3P",
+					"display_url": "pic.twitter.com/46pyKxwL3P",
+					"expanded_url": "https://twitter.com/jlo731/status/1093607832707100672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093607823731085300,
+					"id_str": "1093607823731085312",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy1GhYEUUAAM5fd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy1GhYEUUAAM5fd.jpg",
+					"url": "https://t.co/46pyKxwL3P",
+					"display_url": "pic.twitter.com/46pyKxwL3P",
+					"expanded_url": "https://twitter.com/jlo731/status/1093607832707100672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093607823496249300,
+					"id_str": "1093607823496249344",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy1GhXMVAAAzgwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy1GhXMVAAAzgwM.jpg",
+					"url": "https://t.co/46pyKxwL3P",
+					"display_url": "pic.twitter.com/46pyKxwL3P",
+					"expanded_url": "https://twitter.com/jlo731/status/1093607832707100672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093607823739502600,
+					"id_str": "1093607823739502592",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy1GhYGUwAAUOAm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy1GhYGUwAAUOAm.jpg",
+					"url": "https://t.co/46pyKxwL3P",
+					"display_url": "pic.twitter.com/46pyKxwL3P",
+					"expanded_url": "https://twitter.com/jlo731/status/1093607832707100672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95272661,
+			"id_str": "95272661",
+			"name": "Jeni Long",
+			"screen_name": "jlo731",
+			"location": "Fort Worth, TX",
+			"description": "ITS who loves inspiring others & has a passion for teaching & lrng w/tech! MIE Master Trainer #MIEExpert #OneNote lover #FETC #TCEA #MSFTEduChat @MicrosoftEDU",
+			"url": "https://t.co/5Z58JNJrUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5Z58JNJrUa",
+							"expanded_url": "http://www.youtube.com/Jenallee",
+							"display_url": "youtube.com/Jenallee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1149,
+			"friends_count": 1505,
+			"listed_count": 28,
+			"created_at": "Mon Dec 07 20:32:16 +0000 2009",
+			"favourites_count": 10827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2610,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076138427177828355/FdGYpuKD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076138427177828355/FdGYpuKD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95272661/1545394749",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Jenallee is all over this @TweetBeam wall today at the @MicrosoftEDU booth 🙌🏻 \nCome by and see us to learn all about @Flipgrid  #EMSProud #MIEExpert  #emstechsperts #StudentVoice #FlipgridFever https://t.co/46pyKxwL3P"
+	},
+	{
 		"created_at": "Fri Feb 08 10:38:38 +0000 2019",
 		"id": 1093821399939063800,
 		"id_str": "1093857851607531520",
