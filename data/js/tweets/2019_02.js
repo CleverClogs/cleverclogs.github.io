@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 10 18:36:01 +0000 2019",
+		"id": 1094666311576227800,
+		"id_str": "1094733359329263619",
+		"full_text": "Check out this #Onederful resource \"Conecta Cuatro\" made in #OneNote to help students learn all about \"El Presente de los Verbos Regulares -Present Tense\" 🦄🤩\n\nhttps://t.co/JGIFHytOfa \n\n#MIEExpert #Edtech #MFL #MicrosoftEDU #Spanish #langchat https://t.co/vy7woWwwYp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onederful",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "Edtech",
+					"indices": [
+						196,
+						203
+					]
+				},
+				{
+					"text": "MFL",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						209,
+						222
+					]
+				},
+				{
+					"text": "Spanish",
+					"indices": [
+						223,
+						231
+					]
+				},
+				{
+					"text": "langchat",
+					"indices": [
+						232,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JGIFHytOfa",
+					"expanded_url": "https://youtu.be/r5-5F6VR2ZQ",
+					"display_url": "youtu.be/r5-5F6VR2ZQ",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1094664988449558500,
+					"id_str": "1094664988449558534",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/DzEIAdiX0AYP9Os.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzEIAdiX0AYP9Os.jpg",
+					"url": "https://t.co/vy7woWwwYp",
+					"display_url": "pic.twitter.com/vy7woWwwYp",
+					"expanded_url": "https://twitter.com/MissGEnrique/status/1094666311576227841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094664988449558500,
+					"id_str": "1094664988449558534",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/DzEIAdiX0AYP9Os.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzEIAdiX0AYP9Os.jpg",
+					"url": "https://t.co/vy7woWwwYp",
+					"display_url": "pic.twitter.com/vy7woWwwYp",
+					"expanded_url": "https://twitter.com/MissGEnrique/status/1094666311576227841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4120721403,
+			"id_str": "4120721403",
+			"name": "Gloria Enrique",
+			"screen_name": "MissGEnrique",
+			"location": "",
+			"description": "Spanish & I.T. Teacher | #MIEExpert | #MIEFellow | #MIE Master Trainer| FlipGrid Ambassador | #SkypeMT | #TeachSDGs #edtech #OneNote #FlipgridFever 😊",
+			"url": "https://t.co/GOLWRWoUDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GOLWRWoUDG",
+							"expanded_url": "https://www.linkedin.com/in/gloria-enrique-655804124",
+							"display_url": "linkedin.com/in/gloria-enri…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11297,
+			"friends_count": 9941,
+			"listed_count": 492,
+			"created_at": "Thu Nov 05 17:14:25 +0000 2015",
+			"favourites_count": 22122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18003,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089995838301048841/vZxUPNif_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089995838301048841/vZxUPNif_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4120721403/1521374831",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out this #Onederful resource \"Conecta Cuatro\" made in #OneNote to help students learn all about \"El Presente de los Verbos Regulares -Present Tense\" 🦄🤩\n\nhttps://t.co/JGIFHytOfa \n\n#MIEExpert #Edtech #MFL #MicrosoftEDU #Spanish #langchat https://t.co/vy7woWwwYp"
+	},
+	{
 		"created_at": "Sun Feb 10 08:32:37 +0000 2019",
 		"id": 1094514460792778800,
 		"id_str": "1094534037484511232",
@@ -184,7 +425,7 @@ Grailbird.data.tweets_2019_02 =
 			"name": "Lisa Hoang",
 			"screen_name": "BuLisaBisa",
 			"location": "",
-			"description": "👩🏻‍🏫 Teacher • Counsellor • Lifelong Learner • She/Her 💞🌏 #Wellbeing | #MentalHealth | #Languages | #21stcenturyskills | #SEL | #PositiveEducation 🌱🌿🌳",
+			"description": "👩🏻🏫 Teacher • Counsellor • Lifelong Learner • She/Her 💞🌏 #Wellbeing | #MentalHealth | #Languages | #21stcenturyskills | #SEL | #PositiveEducation 🌱🌿🌳",
 			"url": null,
 			"entities": {
 				"description": {
