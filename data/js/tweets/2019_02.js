@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 10 08:32:37 +0000 2019",
+		"id": 1094514460792778800,
+		"id_str": "1094534037484511232",
+		"full_text": "We’ve been working on Our Class Mantras so here’s my first #sketchnote for 2019 using @msonenote @OneNoteC 📝\n\nFeels good to be #sketchnoting &amp; flexing my #creative muscles again.💥🖊 \n\n#edutwitter #growthmindset #learning #RelationshipsMatter #progressnotperfection https://t.co/kiHQtI7Pho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sketchnote",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"text": "sketchnoting",
+					"indices": [
+						127,
+						140
+					]
+				},
+				{
+					"text": "creative",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "edutwitter",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"text": "growthmindset",
+					"indices": [
+						199,
+						213
+					]
+				},
+				{
+					"text": "learning",
+					"indices": [
+						214,
+						223
+					]
+				},
+				{
+					"text": "RelationshipsMatter",
+					"indices": [
+						224,
+						244
+					]
+				},
+				{
+					"text": "progressnotperfection",
+					"indices": [
+						245,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094514436872667100,
+					"id_str": "1094514436872667137",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/DzB_FNNVAAE3u6Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzB_FNNVAAE3u6Q.jpg",
+					"url": "https://t.co/kiHQtI7Pho",
+					"display_url": "pic.twitter.com/kiHQtI7Pho",
+					"expanded_url": "https://twitter.com/BuLisaBisa/status/1094514460792778753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1318,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094514436872667100,
+					"id_str": "1094514436872667137",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/DzB_FNNVAAE3u6Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzB_FNNVAAE3u6Q.jpg",
+					"url": "https://t.co/kiHQtI7Pho",
+					"display_url": "pic.twitter.com/kiHQtI7Pho",
+					"expanded_url": "https://twitter.com/BuLisaBisa/status/1094514460792778753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1318,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961518821302399000,
+			"id_str": "961518821302398977",
+			"name": "Lisa Hoang",
+			"screen_name": "BuLisaBisa",
+			"location": "",
+			"description": "👩🏻‍🏫 Teacher • Counsellor • Lifelong Learner • She/Her 💞🌏 #Wellbeing | #MentalHealth | #Languages | #21stcenturyskills | #SEL | #PositiveEducation 🌱🌿🌳",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 380,
+			"friends_count": 262,
+			"listed_count": 6,
+			"created_at": "Thu Feb 08 08:35:25 +0000 2018",
+			"favourites_count": 1049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 654,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961524854284431360/bxnqKKNf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961524854284431360/bxnqKKNf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961518821302398977/1518079509",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’ve been working on Our Class Mantras so here’s my first #sketchnote for 2019 using @msonenote @OneNoteC 📝\n\nFeels good to be #sketchnoting &amp; flexing my #creative muscles again.💥🖊 \n\n#edutwitter #growthmindset #learning #RelationshipsMatter #progressnotperfection https://t.co/kiHQtI7Pho"
+	},
+	{
 		"created_at": "Sat Feb 09 11:30:43 +0000 2019",
 		"id": 1094196894086164500,
 		"id_str": "1094197691242946560",
