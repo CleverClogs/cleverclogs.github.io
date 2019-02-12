@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 11 19:39:02 +0000 2019",
+		"id": 1095044558080086000,
+		"id_str": "1095257235490594817",
+		"full_text": "Join host @lesliefisher and #MicrosoftEDU experts @IanMikutel, @mtholfsen, @OneNoteC, @justinchando, &amp; @AdamShortShorts as they discuss the latest and greatest innovations at #Bett2019. Watch the live Q&amp;A and comment your own questions below! https://t.co/0Xh1F1jwSF https://t.co/USiZWIXTh5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"text": "Bett2019",
+					"indices": [
+						179,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lesliefisher",
+					"name": "Leslie Fisher",
+					"id": 13651112,
+					"id_str": "13651112",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "IanMikutel",
+					"name": "Ian Mikutel",
+					"id": 2157421,
+					"id_str": "2157421",
+					"indices": [
+						50,
+						61
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"screen_name": "justinchando",
+					"name": "Justin Chando",
+					"id": 108410718,
+					"id_str": "108410718",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"screen_name": "AdamShortShorts",
+					"name": "Adam Parker Goldberg",
+					"id": 905639635744940000,
+					"id_str": "905639635744940032",
+					"indices": [
+						107,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0Xh1F1jwSF",
+					"expanded_url": "http://msft.social/URnvdu",
+					"display_url": "msft.social/URnvdu",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095044551834779600,
+					"id_str": "1095044551834779648",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/DzJhN9VWwAA9hd9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzJhN9VWwAA9hd9.jpg",
+					"url": "https://t.co/USiZWIXTh5",
+					"display_url": "pic.twitter.com/USiZWIXTh5",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1095044558080086021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095044551834779600,
+					"id_str": "1095044551834779648",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/DzJhN9VWwAA9hd9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzJhN9VWwAA9hd9.jpg",
+					"url": "https://t.co/USiZWIXTh5",
+					"display_url": "pic.twitter.com/USiZWIXTh5",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1095044558080086021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3096566760,
+			"id_str": "3096566760",
+			"name": "OneNote Education",
+			"screen_name": "OneNoteEDU",
+			"location": "Redmond, WA",
+			"description": "Connecting educators to OneNote resources and information. An official channel for Microsoft OneNote.",
+			"url": "http://t.co/VAJyjQIbaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VAJyjQIbaK",
+							"expanded_url": "http://onenoteineducation.com/",
+							"display_url": "onenoteineducation.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69207,
+			"friends_count": 859,
+			"listed_count": 773,
+			"created_at": "Wed Mar 18 17:56:27 +0000 2015",
+			"favourites_count": 10828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17476,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096566760/1455659611",
+			"profile_link_color": "80397B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join host @lesliefisher and #MicrosoftEDU experts @IanMikutel, @mtholfsen, @OneNoteC, @justinchando, &amp; @AdamShortShorts as they discuss the latest and greatest innovations at #Bett2019. Watch the live Q&amp;A and comment your own questions below! https://t.co/0Xh1F1jwSF https://t.co/USiZWIXTh5"
+	},
+	{
 		"created_at": "Mon Feb 11 18:40:17 +0000 2019",
 		"id": 1095029772135120900,
 		"id_str": "1095029772135120897",
