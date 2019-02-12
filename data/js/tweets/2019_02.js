@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 13:42:46 +0000 2019",
+		"id": 1095317289707155500,
+		"id_str": "1095318539064492032",
+		"full_text": "The Twins Challenge: Office 365 versus Office 2019\n👑 Who wins? \nhttps://t.co/j6q8l6mgle #edtech #MIEExpert https://t.co/1byMqlBzEt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j6q8l6mgle",
+					"expanded_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2019/02/06/the-twins-challenge-office-365-crushes-office-2019/?_lrsc=16f3a846-c346-4a80-8901-cc2014aca351",
+					"display_url": "microsoft.com/en-us/microsof…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095316404373520400,
+					"id_str": "1095316404373520384",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DzNYd29XgAAyux9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzNYd29XgAAyux9.jpg",
+					"url": "https://t.co/1byMqlBzEt",
+					"display_url": "pic.twitter.com/1byMqlBzEt",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1095317289707155461/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1576,
+							"h": 892,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095316404373520400,
+					"id_str": "1095316404373520384",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DzNYd29XgAAyux9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzNYd29XgAAyux9.jpg",
+					"url": "https://t.co/1byMqlBzEt",
+					"display_url": "pic.twitter.com/1byMqlBzEt",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1095317289707155461/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1576,
+							"h": 892,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149593681,
+			"id_str": "149593681",
+			"name": "Koen Timmers",
+			"screen_name": "zelfstudie",
+			"location": "Belgium",
+			"description": "Author | Speaker | Lecturer | @TeacherPrize Top10 17/18 | Founder https://t.co/sQfH7MJ819 & @SDGlabschools | #MIEexpert | @NatGeo Educator | ♡ #EdTech #Sdgs",
+			"url": "https://t.co/CMArT0rZSU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CMArT0rZSU",
+							"expanded_url": "http://www.timmers.me",
+							"display_url": "timmers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sQfH7MJ819",
+							"expanded_url": "http://ProjectKakuma.com",
+							"display_url": "ProjectKakuma.com",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10736,
+			"friends_count": 8680,
+			"listed_count": 404,
+			"created_at": "Sat May 29 17:52:29 +0000 2010",
+			"favourites_count": 20574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9175,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D0D0D0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1512550696",
+			"profile_link_color": "D9650D",
+			"profile_sidebar_border_color": "0D0202",
+			"profile_sidebar_fill_color": "EDA426",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Twins Challenge: Office 365 versus Office 2019\n👑 Who wins? \nhttps://t.co/j6q8l6mgle #edtech #MIEExpert https://t.co/1byMqlBzEt"
+	},
+	{
 		"created_at": "Mon Feb 11 19:39:02 +0000 2019",
 		"id": 1095044558080086000,
 		"id_str": "1095257235490594817",
