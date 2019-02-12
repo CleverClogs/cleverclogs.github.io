@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 17:21:55 +0000 2019",
+		"id": 1095372440866340900,
+		"id_str": "1095439831977656322",
+		"full_text": "Just in: Microsoft Education just announced the February 19 #MSFTEduChat TweetMeet about #Literacy.\n\nRead the announcement, listing top-notch resources and host info:\nhttps://t.co/7tQfn2QvFj\nby @MicrosoftEDU\n#MIEExpert #MicrosoftEDU\n\nBrand-new animated GIF presenting the hosts: https://t.co/uqxyayZdkv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"text": "Literacy",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						208,
+						218
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						219,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						194,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7tQfn2QvFj",
+					"expanded_url": "https://educationblog.microsoft.com/en-us/2019/02/tweetmeet-literacy-msfteduchat/",
+					"display_url": "educationblog.microsoft.com/en-us/2019/02/…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095371928381079600,
+					"id_str": "1095371928381079559",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzOK9yAWwAc5r--.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzOK9yAWwAc5r--.jpg",
+					"url": "https://t.co/uqxyayZdkv",
+					"display_url": "pic.twitter.com/uqxyayZdkv",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1095372440866340864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 490,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 490,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095371928381079600,
+					"id_str": "1095371928381079559",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DzOK9yAWwAc5r--.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DzOK9yAWwAc5r--.jpg",
+					"url": "https://t.co/uqxyayZdkv",
+					"display_url": "pic.twitter.com/uqxyayZdkv",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1095372440866340864/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 490,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 874,
+							"h": 490,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							437,
+							245
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DzOK9yAWwAc5r--.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1781,
+			"friends_count": 1107,
+			"listed_count": 14,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1547987300",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just in: Microsoft Education just announced the February 19 #MSFTEduChat TweetMeet about #Literacy.\n\nRead the announcement, listing top-notch resources and host info:\nhttps://t.co/7tQfn2QvFj\nby @MicrosoftEDU\n#MIEExpert #MicrosoftEDU\n\nBrand-new animated GIF presenting the hosts: https://t.co/uqxyayZdkv"
+	},
+	{
 		"created_at": "Tue Feb 12 20:09:49 +0000 2019",
 		"id": 1095414695119515600,
 		"id_str": "1095414695119515649",
