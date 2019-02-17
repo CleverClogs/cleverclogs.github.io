@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 22:22:47 +0000 2019",
+		"id": 1097260093354246100,
+		"id_str": "1097264770485506048",
+		"full_text": "Join us on Feb 19th! We’ll be talking #Literacy at #MSFTEduChat at 1 pm EST! Learn more about what, why, &amp; how at https://t.co/OZn0ES55Yj See ya in Twitter-Land! #MicrosoftEdu #iamncce #nccechat https://t.co/0UrlyHMg3S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Literacy",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						166,
+						179
+					]
+				},
+				{
+					"text": "iamncce",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "nccechat",
+					"indices": [
+						189,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OZn0ES55Yj",
+					"expanded_url": "http://tinyurl.com/MSFTEduChatLiteracy",
+					"display_url": "tinyurl.com/MSFTEduChatLit…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097260049330831400,
+					"id_str": "1097260049330831360",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097260049330831360/pu/img/j0CoyFS9DMzmoqTo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097260049330831360/pu/img/j0CoyFS9DMzmoqTo.jpg",
+					"url": "https://t.co/0UrlyHMg3S",
+					"display_url": "pic.twitter.com/0UrlyHMg3S",
+					"expanded_url": "https://twitter.com/HollandEdTech/status/1097260093354246146/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097260049330831400,
+					"id_str": "1097260049330831360",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097260049330831360/pu/img/j0CoyFS9DMzmoqTo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097260049330831360/pu/img/j0CoyFS9DMzmoqTo.jpg",
+					"url": "https://t.co/0UrlyHMg3S",
+					"display_url": "pic.twitter.com/0UrlyHMg3S",
+					"expanded_url": "https://twitter.com/HollandEdTech/status/1097260093354246146/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 12252,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097260049330831360/pu/vid/320x568/kl1jDfSxJQV55XFS.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1097260049330831360/pu/pl/60ELdDLjlFetRxWr.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097260049330831360/pu/vid/360x640/_OmwNMIQekJ2klB0.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097260049330831360/pu/vid/720x1280/YoMQXLQSi4HT3Ztg.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3390194687,
+			"id_str": "3390194687",
+			"name": "Holly Holland",
+			"screen_name": "HollandEdTech",
+			"location": "Tampa, FL",
+			"description": "Reading Coach | #MIEExpert | #SkypeMasterTeacher | OneNote Avenger | @Seesaw Ambassador | @Flipgrid Ambassador | Mommy to 2 boys | #NCCEchat| #IamNCCE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1380,
+			"friends_count": 1175,
+			"listed_count": 54,
+			"created_at": "Fri Jul 24 00:34:02 +0000 2015",
+			"favourites_count": 6289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2838,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091715391234154496/BUo0zcDR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091715391234154496/BUo0zcDR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3390194687/1549451000",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4ec01c9dbc693497",
+			"url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json",
+			"place_type": "admin",
+			"name": "Florida",
+			"full_name": "Florida, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-87.634643,
+							24.396308
+						],
+						[
+							-79.974307,
+							24.396308
+						],
+						[
+							-79.974307,
+							31.001056
+						],
+						[
+							-87.634643,
+							31.001056
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us on Feb 19th! We’ll be talking #Literacy at #MSFTEduChat at 1 pm EST! Learn more about what, why, &amp; how at https://t.co/OZn0ES55Yj See ya in Twitter-Land! #MicrosoftEdu #iamncce #nccechat https://t.co/0UrlyHMg3S"
+	},
+	{
 		"created_at": "Thu Feb 14 20:12:07 +0000 2019",
 		"id": 1096140050025263100,
 		"id_str": "1097082981972430849",
