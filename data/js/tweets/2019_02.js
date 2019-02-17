@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 19:42:37 +0000 2019",
+		"id": 1096495011036831700,
+		"id_str": "1097072570938085377",
+		"full_text": "Look what the TweetMeet hosts collaborated on this week: the new multilingual SuperSway for February 19.\nThis gorgeous #Sway in 5 different languages invites you all for the upcoming #MSFTEduChat about #Literacy. Kindly retweet:\n\nhttps://t.co/ZL1HWx12cc\n#MicrosoftEDU #MIEExpert https://t.co/zRv225wY2l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sway",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						183,
+						195
+					]
+				},
+				{
+					"text": "Literacy",
+					"indices": [
+						202,
+						211
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						254,
+						267
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						268,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZL1HWx12cc",
+					"expanded_url": "https://sway.office.com/7DhXmuhOKvqr0pzB",
+					"display_url": "sway.office.com/7DhXmuhOKvqr0p…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096494998122627100,
+					"id_str": "1096494998122627073",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeIZC0XgAEQl_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeIZC0XgAEQl_P.jpg",
+					"url": "https://t.co/zRv225wY2l",
+					"display_url": "pic.twitter.com/zRv225wY2l",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1096495011036831744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096494998122627100,
+					"id_str": "1096494998122627073",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeIZC0XgAEQl_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeIZC0XgAEQl_P.jpg",
+					"url": "https://t.co/zRv225wY2l",
+					"display_url": "pic.twitter.com/zRv225wY2l",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1096495011036831744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1802,
+			"friends_count": 1121,
+			"listed_count": 14,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 535,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1547987300",
+			"profile_link_color": "FF0090",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look what the TweetMeet hosts collaborated on this week: the new multilingual SuperSway for February 19.\nThis gorgeous #Sway in 5 different languages invites you all for the upcoming #MSFTEduChat about #Literacy. Kindly retweet:\n\nhttps://t.co/ZL1HWx12cc\n#MicrosoftEDU #MIEExpert https://t.co/zRv225wY2l"
+	},
+	{
 		"created_at": "Sat Feb 16 08:52:39 +0000 2019",
 		"id": 1096693828927537200,
 		"id_str": "1096693828927537153",
