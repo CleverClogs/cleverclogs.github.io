@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 12:29:08 +0000 2019",
+		"id": 1097473086964797400,
+		"id_str": "1097473086964797447",
+		"full_text": "💡 Undocumented @Snagit tip: \nInstantly apply a double border and a shadow on any image on the Windows clipboard with this #Snagit preset.\nNote Copy to Clipboard is enabled.\n\nThis works really well if you want to make your screenshots in #OneNote stand out from the background. https://t.co/c4vt5ABqrJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Snagit",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						237,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Snagit",
+					"name": "TechSmith Snagit",
+					"id": 21217380,
+					"id_str": "21217380",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097472298716680200,
+					"id_str": "1097472298716680192",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DzsBPbPW0AA_juC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzsBPbPW0AA_juC.jpg",
+					"url": "https://t.co/c4vt5ABqrJ",
+					"display_url": "pic.twitter.com/c4vt5ABqrJ",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1097473086964797447/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1355,
+							"h": 763,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097472298716680200,
+					"id_str": "1097472298716680192",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/DzsBPbPW0AA_juC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzsBPbPW0AA_juC.jpg",
+					"url": "https://t.co/c4vt5ABqrJ",
+					"display_url": "pic.twitter.com/c4vt5ABqrJ",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1097473086964797447/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1355,
+							"h": 763,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19970,
+			"friends_count": 7313,
+			"listed_count": 603,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550491006",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💡 Undocumented @Snagit tip: \nInstantly apply a double border and a shadow on any image on the Windows clipboard with this #Snagit preset.\nNote Copy to Clipboard is enabled.\n\nThis works really well if you want to make your screenshots in #OneNote stand out from the background. https://t.co/c4vt5ABqrJ"
+	},
+	{
 		"created_at": "Mon Feb 18 11:02:36 +0000 2019",
 		"id": 1097451310662639600,
 		"id_str": "1097451310662639616",
