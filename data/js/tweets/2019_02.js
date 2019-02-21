@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 00:27:01 +0000 2019",
+		"id": 1098378523490738200,
+		"id_str": "1098491466379337729",
+		"full_text": "Join @annkozma723, @justinchando and I as we are co-host #TOSAchat, this Monday, Feb. 25th @ 8:00pm PST. \n\nOur theme is \"Making Learning Magical\" 🦄🌈💜💚 We look forward to learning from all of you! #edtech #edchat #MIEExpert #FlipgridFever #OneNote #MicrosoftEDU https://t.co/WGMv4X5PRz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TOSAchat",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						196,
+						203
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						204,
+						211
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						212,
+						222
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						223,
+						237
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						238,
+						246
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						247,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annkozma723",
+					"name": "Ann Kozma 📱🌎📖",
+					"id": 526629851,
+					"id_str": "526629851",
+					"indices": [
+						5,
+						17
+					]
+				},
+				{
+					"screen_name": "justinchando",
+					"name": "Justin Chando",
+					"id": 108410718,
+					"id_str": "108410718",
+					"indices": [
+						19,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098377196538720300,
+					"id_str": "1098377196538720261",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz44PaUUcAUEbJu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz44PaUUcAUEbJu.jpg",
+					"url": "https://t.co/WGMv4X5PRz",
+					"display_url": "pic.twitter.com/WGMv4X5PRz",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1098378523490738176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1567,
+							"h": 875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098377196538720300,
+					"id_str": "1098377196538720261",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz44PaUUcAUEbJu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz44PaUUcAUEbJu.jpg",
+					"url": "https://t.co/WGMv4X5PRz",
+					"display_url": "pic.twitter.com/WGMv4X5PRz",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1098378523490738176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1567,
+							"h": 875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16536,
+			"friends_count": 3167,
+			"listed_count": 704,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 54295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26837,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join @annkozma723, @justinchando and I as we are co-host #TOSAchat, this Monday, Feb. 25th @ 8:00pm PST. \n\nOur theme is \"Making Learning Magical\" 🦄🌈💜💚 We look forward to learning from all of you! #edtech #edchat #MIEExpert #FlipgridFever #OneNote #MicrosoftEDU https://t.co/WGMv4X5PRz"
+	},
+	{
 		"created_at": "Wed Feb 20 23:54:28 +0000 2019",
 		"id": 1098370331105026000,
 		"id_str": "1098370331105026048",
