@@ -1,6 +1,174 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 16:11:23 +0000 2019",
+		"id": 1098616182062702600,
+		"id_str": "1098616182062702594",
+		"full_text": "Notice the striking visual and auditory resemblance between the Pure  Imagination promo video for the new #SamsungFold and the #Microsoft  #Surface Studio trailer sung by @DarlingTarlingg.\n\nFold:\nhttps://t.co/b78tS8MrQ5\n\nStudio:\nhttps://t.co/l9kcECS3O3\ncc @ralfgroene @panos_panay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SamsungFold",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "Surface",
+					"indices": [
+						139,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DarlingTarlingg",
+					"name": "Stephanie Tarling",
+					"id": 791795164415090700,
+					"id_str": "791795164415090688",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"screen_name": "ralfgroene",
+					"name": "Ralf Groene",
+					"id": 883666477,
+					"id_str": "883666477",
+					"indices": [
+						256,
+						267
+					]
+				},
+				{
+					"screen_name": "panos_panay",
+					"name": "Panos Panay",
+					"id": 20416077,
+					"id_str": "20416077",
+					"indices": [
+						268,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b78tS8MrQ5",
+					"expanded_url": "https://www.youtube.com/watch?v=7r_UgNcJtzQ",
+					"display_url": "youtube.com/watch?v=7r_UgN…",
+					"indices": [
+						196,
+						219
+					]
+				},
+				{
+					"url": "https://t.co/l9kcECS3O3",
+					"expanded_url": "https://www.youtube.com/watch?v=ifZXp2geVKI",
+					"display_url": "youtube.com/watch?v=ifZXp2…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20001,
+			"friends_count": 7321,
+			"listed_count": 603,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25205,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550699372",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Notice the striking visual and auditory resemblance between the Pure  Imagination promo video for the new #SamsungFold and the #Microsoft  #Surface Studio trailer sung by @DarlingTarlingg.\n\nFold:\nhttps://t.co/b78tS8MrQ5\n\nStudio:\nhttps://t.co/l9kcECS3O3\ncc @ralfgroene @panos_panay"
+	},
+	{
 		"created_at": "Thu Feb 21 00:27:01 +0000 2019",
 		"id": 1098378523490738200,
 		"id_str": "1098491466379337729",
