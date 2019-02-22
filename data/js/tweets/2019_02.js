@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 19:22:48 +0000 2019",
+		"id": 1099026742465843200,
+		"id_str": "1099027298550976513",
+		"full_text": "Here is a brief sample of how I am using @msonenote to encourage collaboration and feedback @cagifted @sched #CAGcon See more at \"How Technology Can Change Your Life\" Sat 3:30 @OneNoteC @OneNoteEDU https://t.co/AnpRr5Iyz6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CAGcon",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"screen_name": "cagifted",
+					"name": "California Association for the Gifted",
+					"id": 54631913,
+					"id_str": "54631913",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"screen_name": "sched",
+					"name": "Sched",
+					"id": 14439079,
+					"id_str": "14439079",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						186,
+						197
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099025847820808200,
+					"id_str": "1099025847820808193",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099025847820808193/pu/img/LjoSsIEoEOV1eu3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099025847820808193/pu/img/LjoSsIEoEOV1eu3m.jpg",
+					"url": "https://t.co/AnpRr5Iyz6",
+					"display_url": "pic.twitter.com/AnpRr5Iyz6",
+					"expanded_url": "https://twitter.com/EricSorenson7/status/1099026742465843200/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099025847820808200,
+					"id_str": "1099025847820808193",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1099025847820808193/pu/img/LjoSsIEoEOV1eu3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1099025847820808193/pu/img/LjoSsIEoEOV1eu3m.jpg",
+					"url": "https://t.co/AnpRr5Iyz6",
+					"display_url": "pic.twitter.com/AnpRr5Iyz6",
+					"expanded_url": "https://twitter.com/EricSorenson7/status/1099026742465843200/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28395,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099025847820808193/pu/vid/1280x720/V65FltBtwluIqZpV.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1099025847820808193/pu/pl/HTfs3gVe1twTXb9A.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099025847820808193/pu/vid/320x180/XOaQM2UrbqrRfqjP.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1099025847820808193/pu/vid/640x360/S2cckAVDeSdmmE60.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3271138706,
+			"id_str": "3271138706",
+			"name": "Eric Sorenson",
+			"screen_name": "EricSorenson7",
+			"location": "Rancho Cucamonga, CA",
+			"description": "4th Grade Teacher, M. Ed. Leadership, District Webmaster, 1:1 classroom, GATE, Certified MIE, Central School District",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 168,
+			"listed_count": 9,
+			"created_at": "Tue Jul 07 16:20:01 +0000 2015",
+			"favourites_count": 372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099025237100752897/mCg-_Aan_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099025237100752897/mCg-_Aan_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3271138706/1521136968",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is a brief sample of how I am using @msonenote to encourage collaboration and feedback @cagifted @sched #CAGcon See more at \"How Technology Can Change Your Life\" Sat 3:30 @OneNoteC @OneNoteEDU https://t.co/AnpRr5Iyz6"
+	},
+	{
 		"created_at": "Fri Feb 22 18:20:13 +0000 2019",
 		"id": 1099010990069436400,
 		"id_str": "1099010990069436417",
