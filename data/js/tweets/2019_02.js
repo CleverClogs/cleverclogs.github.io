@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 01:19:15 +0000 2019",
+		"id": 1099116443671552000,
+		"id_str": "1099294876599025664",
+		"full_text": "Going to #NCCE19 next week? Come by and visit us at booth 209!  I’ll be presenting the Microsoft Inclusive Classroom on Wednesday, Feb. 27th all day long...#MIEExpert #MicrosoftEDU https://t.co/Q77ePEjqnG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCCE19",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						167,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099116435467513900,
+					"id_str": "1099116435467513857",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D0DYkx7VsAEgj6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0DYkx7VsAEgj6T.jpg",
+					"url": "https://t.co/Q77ePEjqnG",
+					"display_url": "pic.twitter.com/Q77ePEjqnG",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1099116443671552001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099116435467513900,
+					"id_str": "1099116435467513857",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/D0DYkx7VsAEgj6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0DYkx7VsAEgj6T.jpg",
+					"url": "https://t.co/Q77ePEjqnG",
+					"display_url": "pic.twitter.com/Q77ePEjqnG",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1099116443671552001/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16565,
+			"friends_count": 3173,
+			"listed_count": 704,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 54508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26882,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Going to #NCCE19 next week? Come by and visit us at booth 209!  I’ll be presenting the Microsoft Inclusive Classroom on Wednesday, Feb. 27th all day long...#MIEExpert #MicrosoftEDU https://t.co/Q77ePEjqnG"
+	},
+	{
 		"created_at": "Fri Feb 22 19:22:48 +0000 2019",
 		"id": 1099026742465843200,
 		"id_str": "1099027298550976513",
