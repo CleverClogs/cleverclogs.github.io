@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 14:01:31 +0000 2019",
+		"id": 1098945886007279600,
+		"id_str": "1099713820434550784",
+		"full_text": "I get wayyyy too excited when people ask me to explain why I use OneNote and what it is. I’m like a vegan of the OneNote world.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248371354,
+			"id_str": "248371354",
+			"name": "Adam 🏳️‍🌈🎮",
+			"screen_name": "GaymerChat",
+			"location": "",
+			"description": "I carry a Gameboy Pocket in my pocket. Games, Anime, stuff, wannabe YouTuber, Gay, he/him #gaymer #gamer #StarTrek #Anime #Nintendo #NintendoSwitch #Warcraft",
+			"url": "https://t.co/kKodcQaaMQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kKodcQaaMQ",
+							"expanded_url": "http://www.instagram.com/gaymeradam",
+							"display_url": "instagram.com/gaymeradam",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10562,
+			"friends_count": 8064,
+			"listed_count": 65,
+			"created_at": "Sun Feb 06 21:24:52 +0000 2011",
+			"favourites_count": 25306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14293,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094488900700131328/IUIJpaj1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094488900700131328/IUIJpaj1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248371354/1453372794",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 139,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I get wayyyy too excited when people ask me to explain why I use OneNote and what it is. I’m like a vegan of the OneNote world."
+	},
+	{
 		"created_at": "Sun Feb 24 09:07:12 +0000 2019",
 		"id": 1099596596822581200,
 		"id_str": "1099596596822581250",
