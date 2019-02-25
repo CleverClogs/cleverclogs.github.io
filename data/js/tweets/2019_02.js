@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 25 11:04:19 +0000 2019",
+		"id": 1099988457148026900,
+		"id_str": "1099988457148026880",
+		"full_text": "@lexeyka9 This is most definitely not a joke ;-)\nA full overview of available resources on Inclusive Classrooms is here: https://t.co/eWbl7Auw5N\n\nYou may also want to check out @MTholfsen's incredible presentation on the subject: \nhttps://t.co/pziNRA5VMA\n\nMike welcomes feedback ;-) https://t.co/2oghh7LWIw",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lexeyka9",
+					"name": "Alexey Shabanov",
+					"id": 1275820512,
+					"id_str": "1275820512",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						177,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eWbl7Auw5N",
+					"expanded_url": "https://aka.ms/InclusiveUltimate",
+					"display_url": "aka.ms/InclusiveUltim…",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/pziNRA5VMA",
+					"expanded_url": "https://aka.ms/InclusiveDeck",
+					"display_url": "aka.ms/InclusiveDeck",
+					"indices": [
+						231,
+						254
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1099988004062531600,
+					"id_str": "1099988004062531584",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/D0PxQv9WkAA_Q1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0PxQv9WkAA_Q1E.jpg",
+					"url": "https://t.co/2oghh7LWIw",
+					"display_url": "pic.twitter.com/2oghh7LWIw",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1099988457148026880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1215,
+							"h": 691,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099988004062531600,
+					"id_str": "1099988004062531584",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/D0PxQv9WkAA_Q1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0PxQv9WkAA_Q1E.jpg",
+					"url": "https://t.co/2oghh7LWIw",
+					"display_url": "pic.twitter.com/2oghh7LWIw",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1099988457148026880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1215,
+							"h": 691,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1099969658738880500,
+		"in_reply_to_status_id_str": "1099969658738880512",
+		"in_reply_to_user_id": 1275820512,
+		"in_reply_to_user_id_str": "1275820512",
+		"in_reply_to_screen_name": "lexeyka9",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20049,
+			"friends_count": 7332,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25215,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550768614",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@lexeyka9 This is most definitely not a joke ;-)\nA full overview of available resources on Inclusive Classrooms is here: https://t.co/eWbl7Auw5N\n\nYou may also want to check out @MTholfsen's incredible presentation on the subject: \nhttps://t.co/pziNRA5VMA\n\nMike welcomes feedback ;-) https://t.co/2oghh7LWIw"
+	},
+	{
 		"created_at": "Sun Feb 24 21:04:17 +0000 2019",
 		"id": 1099777053212192800,
 		"id_str": "1099777053212192770",
