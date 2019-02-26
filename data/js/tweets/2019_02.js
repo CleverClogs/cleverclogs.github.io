@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 18:30:09 +0000 2019",
+		"id": 1100463041127346200,
+		"id_str": "1100470843707019264",
+		"full_text": "The feedback to our launch has been wonderful and many of you asked how we got to the place we are. We shared our thoughts on what Lyra is, how it works and why we made it.\n\nGive it a read 👉 https://t.co/qZVBtPfjLg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qZVBtPfjLg",
+					"expanded_url": "https://getlyra.svbtle.com/say-hello-to-lyra",
+					"display_url": "getlyra.svbtle.com/say-hello-to-l…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 821534838641557500,
+			"id_str": "821534838641557506",
+			"name": "Lyra",
+			"screen_name": "lyraapp",
+			"location": "",
+			"description": "Lyra is the easiest, most affordable symbol to speech app for children with autism. Based on the latest research, designed alongside parents and professionals.",
+			"url": "https://t.co/ZPcr7UywWP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZPcr7UywWP",
+							"expanded_url": "http://www.getlyra.com",
+							"display_url": "getlyra.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111,
+			"friends_count": 23,
+			"listed_count": 1,
+			"created_at": "Wed Jan 18 01:49:03 +0000 2017",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095137467357892610/Vaq27-5v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095137467357892610/Vaq27-5v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/821534838641557506/1549978754",
+			"profile_link_color": "90306E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The feedback to our launch has been wonderful and many of you asked how we got to the place we are. We shared our thoughts on what Lyra is, how it works and why we made it.\n\nGive it a read 👉 https://t.co/qZVBtPfjLg"
+	},
+	{
 		"created_at": "Tue Feb 26 17:32:10 +0000 2019",
 		"id": 1100448449034620900,
 		"id_str": "1100448449034620931",
