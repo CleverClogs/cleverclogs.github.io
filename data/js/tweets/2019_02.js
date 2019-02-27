@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 27 14:14:00 +0000 2019",
+		"id": 1100760968643133400,
+		"id_str": "1100760968643133440",
+		"full_text": "Insightful post on what makes remote teams work. This resonates with me as part of Team @TweetMeet because of how we collaborate with the #MSFTEduChat hosts through #MicrosoftTeams. \nNote the importance of the visual aspect in what makes @RezaJooyandeh's team flourish. https://t.co/bwLDWO00W1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						165,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central #MSFTEduChat",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"screen_name": "RezaJooyandeh",
+					"name": "Reza Jooyandeh 🌈",
+					"id": 2246117322,
+					"id_str": "2246117322",
+					"indices": [
+						238,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bwLDWO00W1",
+					"expanded_url": "https://twitter.com/RezaJooyandeh/status/1100593788597153792",
+					"display_url": "twitter.com/RezaJooyandeh/…",
+					"indices": [
+						270,
+						293
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20056,
+			"friends_count": 7341,
+			"listed_count": 603,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550768614",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100593788597153800,
+		"quoted_status_id_str": "1100593788597153792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bwLDWO00W1",
+			"expanded": "https://twitter.com/RezaJooyandeh/status/1100593788597153792",
+			"display": "twitter.com/RezaJooyandeh/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 27 03:09:41 +0000 2019",
+			"id": 1100593788597153800,
+			"id_str": "1100593788597153792",
+			"full_text": "👋🏼 #WindowsInsiders. Do you want to know more about how we have been working in @stickynotes as a remote team? Checkout my write-up: https://t.co/R9lPtBqtTO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WindowsInsiders",
+						"indices": [
+							3,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stickynotes",
+						"name": "Sticky Notes",
+						"id": 774181166924509200,
+						"id_str": "774181166924509184",
+						"indices": [
+							80,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/R9lPtBqtTO",
+						"expanded_url": "https://link.medium.com/hBWXtAXWCU",
+						"display_url": "link.medium.com/hBWXtAXWCU",
+						"indices": [
+							133,
+							156
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2246117322,
+				"id_str": "2246117322",
+				"name": "Reza Jooyandeh 🌈",
+				"screen_name": "RezaJooyandeh",
+				"location": "Vancouver, British Columbia",
+				"description": "Engineering Manager for Microsoft Sticky Notes Windows. Opinions are my own.🌈\nHe/Him/His",
+				"url": "https://t.co/FqWzmR0oSe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FqWzmR0oSe",
+								"expanded_url": "http://www.jooyandeh.com",
+								"display_url": "jooyandeh.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 543,
+				"friends_count": 135,
+				"listed_count": 22,
+				"created_at": "Sat Dec 14 20:37:36 +0000 2013",
+				"favourites_count": 643,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 375,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921411519648227328/3P_t0ehm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921411519648227328/3P_t0ehm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2246117322/1530074267",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Insightful post on what makes remote teams work. This resonates with me as part of Team @TweetMeet because of how we collaborate with the #MSFTEduChat hosts through #MicrosoftTeams. \nNote the importance of the visual aspect in what makes @RezaJooyandeh's team flourish. https://t.co/bwLDWO00W1"
+	},
+	{
 		"created_at": "Wed Feb 27 07:50:17 +0000 2019",
 		"id": 1100664402532098000,
 		"id_str": "1100727423619026944",
