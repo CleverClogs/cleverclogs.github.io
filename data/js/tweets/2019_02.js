@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 27 07:50:17 +0000 2019",
+		"id": 1100664402532098000,
+		"id_str": "1100727423619026944",
+		"full_text": "Created this for @Sharp_Europe at #ISE2019. One demo revolved around a change to an illustration live on large screen prior to adding update to a PowerPoint presentation. Drawn while communicating with clients online, inked in @OneNoteC, finished in #Paint3D. https://t.co/9Tma3z82kN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ISE2019",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"text": "Paint3D",
+					"indices": [
+						250,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sharp_Europe",
+					"name": "Sharp Europe",
+					"id": 53401745,
+					"id_str": "53401745",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						227,
+						236
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100664390909657100,
+					"id_str": "1100664390909657088",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ZYbpUXgAAUBoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ZYbpUXgAAUBoq.jpg",
+					"url": "https://t.co/9Tma3z82kN",
+					"display_url": "pic.twitter.com/9Tma3z82kN",
+					"expanded_url": "https://twitter.com/Kercal/status/1100664402532098048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 951,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1522,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100664390909657100,
+					"id_str": "1100664390909657088",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ZYbpUXgAAUBoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ZYbpUXgAAUBoq.jpg",
+					"url": "https://t.co/9Tma3z82kN",
+					"display_url": "pic.twitter.com/9Tma3z82kN",
+					"expanded_url": "https://twitter.com/Kercal/status/1100664402532098048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 951,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1522,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19986805,
+			"id_str": "19986805",
+			"name": "Totes AmazePauls",
+			"screen_name": "Kercal",
+			"location": "Surrey, UK.",
+			"description": "Touchscreen, IWB, VR Artist/Writer\\Teacher (all ages). Occasional tech Artist in Res. #DigitalArt #Paint3D #ArtRage #Edtech #VR #MIEexpert insta: paulkercal",
+			"url": "https://t.co/NPgvRkunis",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NPgvRkunis",
+							"expanded_url": "http://www.kercal.co.uk",
+							"display_url": "kercal.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1748,
+			"friends_count": 2723,
+			"listed_count": 169,
+			"created_at": "Tue Feb 03 17:30:24 +0000 2009",
+			"favourites_count": 17316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32646,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855533724766785536/0sPbD3pi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855533724766785536/0sPbD3pi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19986805/1549799277",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Created this for @Sharp_Europe at #ISE2019. One demo revolved around a change to an illustration live on large screen prior to adding update to a PowerPoint presentation. Drawn while communicating with clients online, inked in @OneNoteC, finished in #Paint3D. https://t.co/9Tma3z82kN"
+	},
+	{
 		"created_at": "Tue Feb 26 17:24:14 +0000 2019",
 		"id": 1100446453669871600,
 		"id_str": "1100504430296907776",
