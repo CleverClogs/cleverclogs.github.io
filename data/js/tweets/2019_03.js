@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Feb 27 17:40:15 +0000 2019",
+		"id": 1100812870311440400,
+		"id_str": "1101481905831198720",
+		"full_text": "Learn how to make a ✨OneNote Digital Breakout✨ with @BobEikenberry in this episode of The #Jenallee Show. 👉 https://t.co/88ypDe2v6o   Click the link 👇to access the breakout guide that will walk you through the process https://t.co/CSdyK1Oe1n #EMSproud #MIEExpert #Microsoftedu https://t.co/qcKPNgZM84",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jenallee",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "EMSproud",
+					"indices": [
+						242,
+						251
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						252,
+						262
+					]
+				},
+				{
+					"text": "Microsoftedu",
+					"indices": [
+						263,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BobEikenberry",
+					"name": "Bob Eikenberry",
+					"id": 3327517106,
+					"id_str": "3327517106",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/88ypDe2v6o",
+					"expanded_url": "https://youtu.be/op6SisyZOEk",
+					"display_url": "youtu.be/op6SisyZOEk",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/CSdyK1Oe1n",
+					"expanded_url": "http://www.emsisd.com/breakout",
+					"display_url": "emsisd.com/breakout",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1100811465152479200,
+					"id_str": "1100811465152479232",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D0beMfkXQAAXCEb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0beMfkXQAAXCEb.jpg",
+					"url": "https://t.co/qcKPNgZM84",
+					"display_url": "pic.twitter.com/qcKPNgZM84",
+					"expanded_url": "https://twitter.com/jlo731/status/1100812870311440390/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 689,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 689,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100811465152479200,
+					"id_str": "1100811465152479232",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D0beMfkXQAAXCEb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0beMfkXQAAXCEb.jpg",
+					"url": "https://t.co/qcKPNgZM84",
+					"display_url": "pic.twitter.com/qcKPNgZM84",
+					"expanded_url": "https://twitter.com/jlo731/status/1100812870311440390/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 689,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 689,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95272661,
+			"id_str": "95272661",
+			"name": "Jeni Long",
+			"screen_name": "jlo731",
+			"location": "Fort Worth, TX",
+			"description": "ITS who loves inspiring others & has a passion for teaching & lrng w/tech! MIE Master Trainer #MIEExpert #OneNote lover #FETC #TCEA #MSFTEduChat @MicrosoftEDU",
+			"url": "https://t.co/5Z58JNJrUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5Z58JNJrUa",
+							"expanded_url": "http://www.youtube.com/Jenallee",
+							"display_url": "youtube.com/Jenallee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1250,
+			"friends_count": 1688,
+			"listed_count": 31,
+			"created_at": "Mon Dec 07 20:32:16 +0000 2009",
+			"favourites_count": 11751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2805,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076138427177828355/FdGYpuKD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076138427177828355/FdGYpuKD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95272661/1550770067",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learn how to make a ✨OneNote Digital Breakout✨ with @BobEikenberry in this episode of The #Jenallee Show. 👉 https://t.co/88ypDe2v6o   Click the link 👇to access the breakout guide that will walk you through the process https://t.co/CSdyK1Oe1n #EMSproud #MIEExpert #Microsoftedu https://t.co/qcKPNgZM84"
+	},
+	{
 		"created_at": "Fri Mar 01 11:40:48 +0000 2019",
 		"id": 1101447187802849300,
 		"id_str": "1101447187802849281",
