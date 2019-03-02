@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 02 20:00:36 +0000 2019",
+		"id": 1101892095424557000,
+		"id_str": "1101935354188349440",
+		"full_text": "Yay for @TweetMeet !! excited to chat with all of these amazing people! #STEM #MIEExpert #msfteduchat https://t.co/3PDybKv0d2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEM",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "msfteduchat",
+					"indices": [
+						89,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central #MSFTEduChat",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101891119955275800,
+					"id_str": "1101891119955275776",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D0q0IrIXcAAanlx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0q0IrIXcAAanlx.jpg",
+					"url": "https://t.co/3PDybKv0d2",
+					"display_url": "pic.twitter.com/3PDybKv0d2",
+					"expanded_url": "https://twitter.com/Michelle4EDU/status/1101892095424557058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1015,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101891119955275800,
+					"id_str": "1101891119955275776",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/D0q0IrIXcAAanlx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0q0IrIXcAAanlx.jpg",
+					"url": "https://t.co/3PDybKv0d2",
+					"display_url": "pic.twitter.com/3PDybKv0d2",
+					"expanded_url": "https://twitter.com/Michelle4EDU/status/1101892095424557058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1015,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 337,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 595,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1160421440,
+			"id_str": "1160421440",
+			"name": "Michelle N. Moore",
+			"screen_name": "Michelle4EDU",
+			"location": "Tampa, FL",
+			"description": "Educator • Thought Partner • Problem Solver • Connector • Latina • Hablo español • #HCPSTeach & #edcampHCPS Co-Founder • @EmpaticoOrg Connnector #sparkempathy",
+			"url": "https://t.co/tmy6stmmFZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tmy6stmmFZ",
+							"expanded_url": "http://Michelle4Edu.com",
+							"display_url": "Michelle4Edu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6214,
+			"friends_count": 4965,
+			"listed_count": 364,
+			"created_at": "Fri Feb 08 15:07:21 +0000 2013",
+			"favourites_count": 51059,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31336,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936772285066723329/LXm56C6r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936772285066723329/LXm56C6r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160421440/1546825081",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yay for @TweetMeet !! excited to chat with all of these amazing people! #STEM #MIEExpert #msfteduchat https://t.co/3PDybKv0d2"
+	},
+	{
 		"created_at": "Fri Mar 01 17:01:28 +0000 2019",
 		"id": 1101527888153653200,
 		"id_str": "1101527960073498626",
