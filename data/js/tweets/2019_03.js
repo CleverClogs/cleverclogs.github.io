@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 18:26:35 +0000 2019",
+		"id": 1102260663504691200,
+		"id_str": "1102274082182180866",
+		"full_text": "UPDATED! The \"Periodic Table of Learning Tools\" 🛠\n\nIncludes #OneNote iPad &amp; Mac math ➗, more Flipgrid platforms 💯, &amp; Windows 10 Dictation 🎤 #edtech #mieexpert #dyslexia #AssistiveTech #cpchat #accessibility #FlipgridFever #MicrosoftEDU\n \nFull deck 👉 https://t.co/C1FQm1ZN3Q https://t.co/n60eGcJhpj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "dyslexia",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "AssistiveTech",
+					"indices": [
+						177,
+						191
+					]
+				},
+				{
+					"text": "cpchat",
+					"indices": [
+						192,
+						199
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						200,
+						214
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						215,
+						229
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						230,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C1FQm1ZN3Q",
+					"expanded_url": "http://aka.ms/InclusiveDeck",
+					"display_url": "aka.ms/InclusiveDeck",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102257740854878200,
+					"id_str": "1102257740854878209",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/D0wBk0aUYAEnM6h.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0wBk0aUYAEnM6h.png",
+					"url": "https://t.co/n60eGcJhpj",
+					"display_url": "pic.twitter.com/n60eGcJhpj",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1102260663504691200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1306,
+							"h": 733,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102257740854878200,
+					"id_str": "1102257740854878209",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/D0wBk0aUYAEnM6h.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0wBk0aUYAEnM6h.png",
+					"url": "https://t.co/n60eGcJhpj",
+					"display_url": "pic.twitter.com/n60eGcJhpj",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1102260663504691200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1306,
+							"h": 733,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16677,
+			"friends_count": 3220,
+			"listed_count": 708,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 55492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27144,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UPDATED! The \"Periodic Table of Learning Tools\" 🛠\n\nIncludes #OneNote iPad &amp; Mac math ➗, more Flipgrid platforms 💯, &amp; Windows 10 Dictation 🎤 #edtech #mieexpert #dyslexia #AssistiveTech #cpchat #accessibility #FlipgridFever #MicrosoftEDU\n \nFull deck 👉 https://t.co/C1FQm1ZN3Q https://t.co/n60eGcJhpj"
+	},
+	{
 		"created_at": "Sat Mar 02 20:00:36 +0000 2019",
 		"id": 1101892095424557000,
 		"id_str": "1101935354188349440",
