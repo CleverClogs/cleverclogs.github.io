@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 22:29:43 +0000 2019",
+		"id": 1102637155812368400,
+		"id_str": "1102697657900953607",
+		"full_text": "The next season of You Can in :90 is coming! In this new set of #edtip videos, you’ll get tips from #Bett2019, how to amplify student voices with @Flipgrid, and more! Tune in here: https://t.co/E8JG5aPY2c #MicrosoftEDU https://t.co/0oxiImwsJB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtip",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "Bett2019",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						205,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						146,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E8JG5aPY2c",
+					"expanded_url": "http://msft.social/0Hvyz3",
+					"display_url": "msft.social/0Hvyz3",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102637052703789000,
+					"id_str": "1102637052703789059",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1102637052703789059/img/fHBi6kbAxO9Gfj1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1102637052703789059/img/fHBi6kbAxO9Gfj1f.jpg",
+					"url": "https://t.co/0oxiImwsJB",
+					"display_url": "pic.twitter.com/0oxiImwsJB",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1102637155812368384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102637052703789000,
+					"id_str": "1102637052703789059",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1102637052703789059/img/fHBi6kbAxO9Gfj1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1102637052703789059/img/fHBi6kbAxO9Gfj1f.jpg",
+					"url": "https://t.co/0oxiImwsJB",
+					"display_url": "pic.twitter.com/0oxiImwsJB",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1102637155812368384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19853,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1102637052703789059/vid/320x180/2E9TY7_etFeolAro.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1102637052703789059/pl/pLwpu_zh2Dc1I3F2.m3u8?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1102637052703789059/vid/1280x720/3nyH_Cf7i8UfnmrC.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1102637052703789059/vid/640x360/-O9sKfk9oUJ9iyx_.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17826187,
+			"id_str": "17826187",
+			"name": "Microsoft Education",
+			"screen_name": "MicrosoftEDU",
+			"location": "Redmond, WA",
+			"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+			"url": "https://t.co/Kq0bGCfbFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kq0bGCfbFO",
+							"expanded_url": "http://www.microsoft.com/education",
+							"display_url": "microsoft.com/education",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 342272,
+			"friends_count": 4375,
+			"listed_count": 3328,
+			"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+			"favourites_count": 21710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32955,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00BCF2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1508952382",
+			"profile_link_color": "0078D7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The next season of You Can in :90 is coming! In this new set of #edtip videos, you’ll get tips from #Bett2019, how to amplify student voices with @Flipgrid, and more! Tune in here: https://t.co/E8JG5aPY2c #MicrosoftEDU https://t.co/0oxiImwsJB"
+	},
+	{
 		"created_at": "Mon Mar 04 19:13:23 +0000 2019",
 		"id": 1102645239909515300,
 		"id_str": "1102648251050807296",
