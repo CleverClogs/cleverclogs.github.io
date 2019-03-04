@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 04 19:13:23 +0000 2019",
+		"id": 1102645239909515300,
+		"id_str": "1102648251050807296",
+		"full_text": "NEW! ‘You Can in :90’ Season 2 gets you going with Minecraft, #OneNote, Teams and PowerPoint tips. I also see @annkozma723, 📺 star for @Flipgrid! 💚💜 #edtech #mieexpert #FlipgridFever #MicrosoftEDU\n\nLink 👉https://t.co/TQW7rNtWsr https://t.co/8i0JF8jJuV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						168,
+						182
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						183,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annkozma723",
+					"name": "Ann Kozma 📱🌎📖",
+					"id": 526629851,
+					"id_str": "526629851",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						135,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TQW7rNtWsr",
+					"expanded_url": "https://educationblog.microsoft.com/en-us/2019/03/you-can-in-90-season-2-gets-you-going-with-minecraft-onenote-teams-and-powerpoint-tips/",
+					"display_url": "educationblog.microsoft.com/en-us/2019/03/…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102645024611659800,
+					"id_str": "1102645024611659777",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/D01hzs1UcAExYJ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D01hzs1UcAExYJ2.jpg",
+					"url": "https://t.co/8i0JF8jJuV",
+					"display_url": "pic.twitter.com/8i0JF8jJuV",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1102645239909515264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1281,
+							"h": 874,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102645024611659800,
+					"id_str": "1102645024611659777",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/D01hzs1UcAExYJ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D01hzs1UcAExYJ2.jpg",
+					"url": "https://t.co/8i0JF8jJuV",
+					"display_url": "pic.twitter.com/8i0JF8jJuV",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1102645239909515264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1281,
+							"h": 874,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16702,
+			"friends_count": 3221,
+			"listed_count": 709,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 55585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27175,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! ‘You Can in :90’ Season 2 gets you going with Minecraft, #OneNote, Teams and PowerPoint tips. I also see @annkozma723, 📺 star for @Flipgrid! 💚💜 #edtech #mieexpert #FlipgridFever #MicrosoftEDU\n\nLink 👉https://t.co/TQW7rNtWsr https://t.co/8i0JF8jJuV"
+	},
+	{
 		"created_at": "Sun Mar 03 18:26:35 +0000 2019",
 		"id": 1102260663504691200,
 		"id_str": "1102274082182180866",
