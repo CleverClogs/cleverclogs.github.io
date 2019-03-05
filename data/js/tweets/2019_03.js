@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 15:40:30 +0000 2019",
+		"id": 1102779656103706600,
+		"id_str": "1102957063343357952",
+		"full_text": "Love this use of #OneNote with a #breakout in #STEM \n#MIEExpert https://t.co/vY0IgSZ9vx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"text": "breakout",
+					"indices": [
+						33,
+						42
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vY0IgSZ9vx",
+					"expanded_url": "https://twitter.com/pslcoleman/status/1102779364318408704",
+					"display_url": "twitter.com/pslcoleman/sta…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12895782,
+			"id_str": "12895782",
+			"name": "Cal Armstrong",
+			"screen_name": "sig225",
+			"location": "Canada",
+			"description": "I learn; I help others learn\nMathematics Educator / Microsoft Education Fellow / PCMI - Institute for Advanced Study  / Aux Police A/Sgt\n[Opinions are my own]",
+			"url": "https://t.co/kozg07sk6j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kozg07sk6j",
+							"expanded_url": "http://about.me/armstrongc",
+							"display_url": "about.me/armstrongc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4589,
+			"friends_count": 3286,
+			"listed_count": 340,
+			"created_at": "Thu Jan 31 01:40:55 +0000 2008",
+			"favourites_count": 12712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26263,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12895782/1503200733",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "ABD9FC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102779364318408700,
+		"quoted_status_id_str": "1102779364318408704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vY0IgSZ9vx",
+			"expanded": "https://twitter.com/pslcoleman/status/1102779364318408704",
+			"display": "twitter.com/pslcoleman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 05 03:54:23 +0000 2019",
+			"id": 1102779364318408700,
+			"id_str": "1102779364318408704",
+			"full_text": "One of my favourite lessons for the year. Digital breakout using @msonenote and the password protect feature. Students use the patient diagnose as a password to move onto the next section. #appliedlearning Find out more: https://t.co/zFEwZ04pJs #lcgshpe https://t.co/JkIAWJg28K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "appliedlearning",
+						"indices": [
+							189,
+							205
+						]
+					},
+					{
+						"text": "lcgshpe",
+						"indices": [
+							245,
+							253
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							65,
+							75
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zFEwZ04pJs",
+						"expanded_url": "https://slowchathealth.com/2017/11/26/digital-breakout/",
+						"display_url": "slowchathealth.com/2017/11/26/dig…",
+						"indices": [
+							221,
+							244
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1102774838328844300,
+						"id_str": "1102774838328844288",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/D03X32nUYAAvDOQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D03X32nUYAAvDOQ.jpg",
+						"url": "https://t.co/JkIAWJg28K",
+						"display_url": "pic.twitter.com/JkIAWJg28K",
+						"expanded_url": "https://twitter.com/pslcoleman/status/1102779364318408704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 646,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1281,
+								"h": 690,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1102774838328844300,
+						"id_str": "1102774838328844288",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/D03X32nUYAAvDOQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D03X32nUYAAvDOQ.jpg",
+						"url": "https://t.co/JkIAWJg28K",
+						"display_url": "pic.twitter.com/JkIAWJg28K",
+						"expanded_url": "https://twitter.com/pslcoleman/status/1102779364318408704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 646,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1281,
+								"h": 690,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1102774838333124600,
+						"id_str": "1102774838333124608",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/D03X32oVsAAEAXU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D03X32oVsAAEAXU.jpg",
+						"url": "https://t.co/JkIAWJg28K",
+						"display_url": "pic.twitter.com/JkIAWJg28K",
+						"expanded_url": "https://twitter.com/pslcoleman/status/1102779364318408704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1076,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1076,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 316,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 456320725,
+				"id_str": "456320725",
+				"name": "Pat Coleman",
+				"screen_name": "pslcoleman",
+				"location": "Launceston, Tasmania",
+				"description": "Senior school #physed #healthed teacher. Passionate about #edtech. Always looking for ways to improve my teaching #pegeeks #aussiephysed #MIEExpert",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 455,
+				"friends_count": 380,
+				"listed_count": 32,
+				"created_at": "Fri Jan 06 03:41:15 +0000 2012",
+				"favourites_count": 592,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 638,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/666742255445671936/ueokKBqp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/666742255445671936/ueokKBqp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/456320725/1447798753",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this use of #OneNote with a #breakout in #STEM \n#MIEExpert https://t.co/vY0IgSZ9vx"
+	},
+	{
 		"created_at": "Tue Mar 05 14:59:42 +0000 2019",
 		"id": 1102946636106514400,
 		"id_str": "1102946795993350144",
