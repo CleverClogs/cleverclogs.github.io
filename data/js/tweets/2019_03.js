@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 19:06:06 +0000 2019",
+		"id": 1103008805758165000,
+		"id_str": "1103008805758164992",
+		"full_text": "@alberto_hrv @mtholfsen @OneNoteEDU @justinchando @MicrosoftTeams Congratulations, #SuperTwins. \nTo infinity and beyond!",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperTwins",
+					"indices": [
+						83,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alberto_hrv",
+					"name": "Alberto Herraez, M.Ed",
+					"id": 852520911383085000,
+					"id_str": "852520911383085056",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "justinchando",
+					"name": "Justin Chando",
+					"id": 108410718,
+					"id_str": "108410718",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						50,
+						65
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1103005596083617800,
+		"in_reply_to_status_id_str": "1103005596083617792",
+		"in_reply_to_user_id": 852520911383085000,
+		"in_reply_to_user_id_str": "852520911383085056",
+		"in_reply_to_screen_name": "alberto_hrv",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20114,
+			"friends_count": 7371,
+			"listed_count": 604,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550768614",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alberto_hrv @mtholfsen @OneNoteEDU @justinchando @MicrosoftTeams Congratulations, #SuperTwins. \nTo infinity and beyond!"
+	},
+	{
+		"created_at": "Tue Mar 05 18:46:51 +0000 2019",
+		"id": 1103002459050401800,
+		"id_str": "1103003960451964929",
+		"full_text": "NEW! Join me, @pittmansplace &amp; @bethdudycha for a free @edwebnet webinar - \"Increasing #Accessibility &amp; Fostering Inclusive Classrooms\" 👩‍👩‍👧‍👧 #edtech #mieexpert #dyslexia #SPED #FlipgridFever #ATchat #edchat #MicrosoftEDU\n\n⌚March 26th, 3-4pm EST\n👉 Sign up: https://t.co/7XnuUkvetJ https://t.co/WDnwiDnIyW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			290
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Accessibility",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						152,
+						159
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"text": "dyslexia",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "SPED",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						187,
+						201
+					]
+				},
+				{
+					"text": "ATchat",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						210,
+						217
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						218,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pittmansplace",
+					"name": "Lauren Pittman",
+					"id": 3294396287,
+					"id_str": "3294396287",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "bethdudycha",
+					"name": "Beth Dudycha",
+					"id": 766143404514377700,
+					"id_str": "766143404514377729",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "edwebnet",
+					"name": "edWeb.net",
+					"id": 39849458,
+					"id_str": "39849458",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7XnuUkvetJ",
+					"expanded_url": "https://home.edweb.net/webinar/digitalcontent20190326/",
+					"display_url": "home.edweb.net/webinar/digita…",
+					"indices": [
+						267,
+						290
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1103000851243688000,
+					"id_str": "1103000851243687936",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/D06lbiVVYAA3Bpq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D06lbiVVYAA3Bpq.jpg",
+					"url": "https://t.co/WDnwiDnIyW",
+					"display_url": "pic.twitter.com/WDnwiDnIyW",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1103002459050401792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 746,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1442,
+							"h": 896,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103000851243688000,
+					"id_str": "1103000851243687936",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/D06lbiVVYAA3Bpq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D06lbiVVYAA3Bpq.jpg",
+					"url": "https://t.co/WDnwiDnIyW",
+					"display_url": "pic.twitter.com/WDnwiDnIyW",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1103002459050401792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 746,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1442,
+							"h": 896,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16726,
+			"friends_count": 3224,
+			"listed_count": 708,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 55698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27216,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Join me, @pittmansplace &amp; @bethdudycha for a free @edwebnet webinar - \"Increasing #Accessibility &amp; Fostering Inclusive Classrooms\" 👩‍👩‍👧‍👧 #edtech #mieexpert #dyslexia #SPED #FlipgridFever #ATchat #edchat #MicrosoftEDU\n\n⌚March 26th, 3-4pm EST\n👉 Sign up: https://t.co/7XnuUkvetJ https://t.co/WDnwiDnIyW"
+	},
+	{
 		"created_at": "Tue Mar 05 15:40:30 +0000 2019",
 		"id": 1102779656103706600,
 		"id_str": "1102957063343357952",
