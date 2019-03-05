@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 14:59:42 +0000 2019",
+		"id": 1102946636106514400,
+		"id_str": "1102946795993350144",
+		"full_text": "Need quick answers to your pressing #Onenote questions? View my OneNote Quick Tips course now available on LinkedIn Learning: https://t.co/y83wRVMtFQ\nand on https://t.co/ZN1qKST36P:\nhttps://t.co/cgzjr3uGEn\n\n#LinkidinLearning https://t.co/k4yaWAi0sb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onenote",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"text": "LinkidinLearning",
+					"indices": [
+						207,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y83wRVMtFQ",
+					"expanded_url": "https://www.linkedin.com/learning/onenote-quick-tips",
+					"display_url": "linkedin.com/learning/oneno…",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/ZN1qKST36P",
+					"expanded_url": "http://Lynda.com",
+					"display_url": "Lynda.com",
+					"indices": [
+						157,
+						180
+					]
+				},
+				{
+					"url": "https://t.co/cgzjr3uGEn",
+					"expanded_url": "https://www.lynda.com/Business-tutorials/OneNote-Quick-Tips/774890-2.html",
+					"display_url": "lynda.com/Business-tutor…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1102946558872571900,
+					"id_str": "1102946558872571905",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/D050DTfW0AEOh2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D050DTfW0AEOh2M.jpg",
+					"url": "https://t.co/k4yaWAi0sb",
+					"display_url": "pic.twitter.com/k4yaWAi0sb",
+					"expanded_url": "https://twitter.com/HeatherSeverino/status/1102946636106514432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 979,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 979,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102946558872571900,
+					"id_str": "1102946558872571905",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/D050DTfW0AEOh2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D050DTfW0AEOh2M.jpg",
+					"url": "https://t.co/k4yaWAi0sb",
+					"display_url": "pic.twitter.com/k4yaWAi0sb",
+					"expanded_url": "https://twitter.com/HeatherSeverino/status/1102946636106514432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 979,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 979,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 464152101,
+			"id_str": "464152101",
+			"name": "Heather Severino",
+			"screen_name": "HeatherSeverino",
+			"location": "Daytona Beach, Florida",
+			"description": "Microsoft MVP, Microsoft Certified Trainer, MCT Regional Lead, MOS Master while on land, by sea an adventurer looking for sea turtles.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 447,
+			"listed_count": 44,
+			"created_at": "Sat Jan 14 22:25:03 +0000 2012",
+			"favourites_count": 672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2439210328/cnkfohvevqdu537o56o2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2439210328/cnkfohvevqdu537o56o2_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Need quick answers to your pressing #Onenote questions? View my OneNote Quick Tips course now available on LinkedIn Learning: https://t.co/y83wRVMtFQ\nand on https://t.co/ZN1qKST36P:\nhttps://t.co/cgzjr3uGEn\n\n#LinkidinLearning https://t.co/k4yaWAi0sb"
+	},
+	{
 		"created_at": "Tue Mar 05 09:30:39 +0000 2019",
 		"id": 1102863035365056500,
 		"id_str": "1102863987182571520",
