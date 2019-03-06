@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 22:34:38 +0000 2019",
+		"id": 1103423671379599400,
+		"id_str": "1103423671379599361",
+		"full_text": "Shared #OneNote notebooks are essential to organizing the #MSFTEduChat TweetMeet events. \n\nTake a behind-the-scenes peek during one of our #MicrosoftTeams preparatory calls showing @AnicaTrickovic collaborating with two of this month's international hosts: @jecamis @AnitaSimac74 https://t.co/xVA2NK6wYZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						139,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnicaTrickovic",
+					"name": "Anica Tričković #MSFTEduChat",
+					"id": 3062086342,
+					"id_str": "3062086342",
+					"indices": [
+						181,
+						196
+					]
+				},
+				{
+					"screen_name": "jecamis",
+					"name": "Jelena Kenić #MSFTEduChat Host",
+					"id": 327429577,
+					"id_str": "327429577",
+					"indices": [
+						257,
+						265
+					]
+				},
+				{
+					"screen_name": "AnitaSimac74",
+					"name": "Anita Šimac",
+					"id": 790123076507824100,
+					"id_str": "790123076507824128",
+					"indices": [
+						266,
+						279
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xVA2NK6wYZ",
+					"expanded_url": "https://twitter.com/jecamis/status/1103314318043635716",
+					"display_url": "twitter.com/jecamis/status…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20121,
+			"friends_count": 7370,
+			"listed_count": 604,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25246,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550768614",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1103314318043635700,
+		"quoted_status_id_str": "1103314318043635716",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xVA2NK6wYZ",
+			"expanded": "https://twitter.com/jecamis/status/1103314318043635716",
+			"display": "twitter.com/jecamis/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 06 15:20:06 +0000 2019",
+			"id": 1103314318043635700,
+			"id_str": "1103314318043635716",
+			"full_text": "@AnitaSimac74 ,@AnicaTrickovic &amp; I prepare 1st three-lingual TweetMeet. March 19th - don't forget! Let's talk about #MakeWhatsNext &amp; #STEM\n\nAnita, Anica &amp; ja pripremamo prvi trojezični TweetMeet koji će se održati 19. marta. Pratite #TweetMeetHR ili #TweetMeetSR.\n\n #MSFTEduChat https://t.co/6w01zrjXIU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				290
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MakeWhatsNext",
+						"indices": [
+							120,
+							134
+						]
+					},
+					{
+						"text": "STEM",
+						"indices": [
+							141,
+							146
+						]
+					},
+					{
+						"text": "TweetMeetHR",
+						"indices": [
+							245,
+							257
+						]
+					},
+					{
+						"text": "TweetMeetSR",
+						"indices": [
+							262,
+							274
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							278,
+							290
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AnitaSimac74",
+						"name": "Anita Šimac",
+						"id": 790123076507824100,
+						"id_str": "790123076507824128",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "AnicaTrickovic",
+						"name": "Anica Tričković #MSFTEduChat",
+						"id": 3062086342,
+						"id_str": "3062086342",
+						"indices": [
+							15,
+							30
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1103314236372148200,
+						"id_str": "1103314236372148225",
+						"indices": [
+							291,
+							314
+						],
+						"media_url": "http://pbs.twimg.com/media/D0_Cc86X4AEenQV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0_Cc86X4AEenQV.jpg",
+						"url": "https://t.co/6w01zrjXIU",
+						"display_url": "pic.twitter.com/6w01zrjXIU",
+						"expanded_url": "https://twitter.com/jecamis/status/1103314318043635716/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 636,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 723,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1103314236372148200,
+						"id_str": "1103314236372148225",
+						"indices": [
+							291,
+							314
+						],
+						"media_url": "http://pbs.twimg.com/media/D0_Cc86X4AEenQV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0_Cc86X4AEenQV.jpg",
+						"url": "https://t.co/6w01zrjXIU",
+						"display_url": "pic.twitter.com/6w01zrjXIU",
+						"expanded_url": "https://twitter.com/jecamis/status/1103314318043635716/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 636,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 723,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 790123076507824100,
+			"in_reply_to_user_id_str": "790123076507824128",
+			"in_reply_to_screen_name": "AnitaSimac74",
+			"user": {
+				"id": 327429577,
+				"id_str": "327429577",
+				"name": "Jelena Kenić #MSFTEduChat Host",
+				"screen_name": "jecamis",
+				"location": "Čačak, Srbija",
+				"description": "eTwinning Ambassador; Erasmus + Ambassador; Microsoft Innovative Educator (MIE) Expert; Global Math Project Ambassador; Teacher of Mathematics",
+				"url": "https://t.co/e7TBrTkgfY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e7TBrTkgfY",
+								"expanded_url": "http://www.jelenakenic.weebly.com",
+								"display_url": "jelenakenic.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 344,
+				"listed_count": 24,
+				"created_at": "Fri Jul 01 15:11:46 +0000 2011",
+				"favourites_count": 665,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 316,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1101938075536711680/1qB8wrYJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101938075536711680/1qB8wrYJ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/327429577/1551310194",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shared #OneNote notebooks are essential to organizing the #MSFTEduChat TweetMeet events. \n\nTake a behind-the-scenes peek during one of our #MicrosoftTeams preparatory calls showing @AnicaTrickovic collaborating with two of this month's international hosts: @jecamis @AnitaSimac74 https://t.co/xVA2NK6wYZ"
+	},
+	{
 		"created_at": "Wed Mar 06 22:10:52 +0000 2019",
 		"id": 1103417690054631400,
 		"id_str": "1103417690054631425",
