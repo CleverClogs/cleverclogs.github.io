@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 09:09:19 +0000 2019",
+		"id": 1103220886088237000,
+		"id_str": "1103221008507523072",
+		"full_text": "Came upon @drrebeccaray 'Daily Choices' in my #bulletjournal so I created a #sketchnote version using @OneNoteC @msonenote 🗒️\n\nWe make these choices, every day.\nWe pause &amp; create these micro moments.\nWe choose #vulnerability #compassion #calm #community #authenticity #LOVE 💗✨ https://t.co/0hHY3VheTN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bulletjournal",
+					"indices": [
+						46,
+						60
+					]
+				},
+				{
+					"text": "sketchnote",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"text": "vulnerability",
+					"indices": [
+						214,
+						228
+					]
+				},
+				{
+					"text": "compassion",
+					"indices": [
+						229,
+						240
+					]
+				},
+				{
+					"text": "calm",
+					"indices": [
+						241,
+						246
+					]
+				},
+				{
+					"text": "community",
+					"indices": [
+						247,
+						257
+					]
+				},
+				{
+					"text": "authenticity",
+					"indices": [
+						258,
+						271
+					]
+				},
+				{
+					"text": "LOVE",
+					"indices": [
+						272,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drrebeccaray",
+					"name": "Rebecca Ray",
+					"id": 813548792960061400,
+					"id_str": "813548792960061440",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103219263970525200,
+					"id_str": "1103219263970525184",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D09sE1JUwAAEZR4.png",
+					"media_url_https": "https://pbs.twimg.com/media/D09sE1JUwAAEZR4.png",
+					"url": "https://t.co/0hHY3VheTN",
+					"display_url": "pic.twitter.com/0hHY3VheTN",
+					"expanded_url": "https://twitter.com/BuLisaBisa/status/1103220886088237056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 804,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 798,
+							"h": 804,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103219263970525200,
+					"id_str": "1103219263970525184",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D09sE1JUwAAEZR4.png",
+					"media_url_https": "https://pbs.twimg.com/media/D09sE1JUwAAEZR4.png",
+					"url": "https://t.co/0hHY3VheTN",
+					"display_url": "pic.twitter.com/0hHY3VheTN",
+					"expanded_url": "https://twitter.com/BuLisaBisa/status/1103220886088237056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 804,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 798,
+							"h": 804,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961518821302399000,
+			"id_str": "961518821302398977",
+			"name": "Lisa Hoang",
+			"screen_name": "BuLisaBisa",
+			"location": "",
+			"description": "👩🏻‍🏫 Teacher • Counsellor • Lifelong Learner • She/Her 💞🌏 #Wellbeing | #MentalHealth | #Languages | #21stcenturyskills | #SEL | #PositiveEducation 🌱🌿🌳",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396,
+			"friends_count": 263,
+			"listed_count": 6,
+			"created_at": "Thu Feb 08 08:35:25 +0000 2018",
+			"favourites_count": 1147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961524854284431360/bxnqKKNf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961524854284431360/bxnqKKNf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961518821302398977/1518079509",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Came upon @drrebeccaray 'Daily Choices' in my #bulletjournal so I created a #sketchnote version using @OneNoteC @msonenote 🗒️\n\nWe make these choices, every day.\nWe pause &amp; create these micro moments.\nWe choose #vulnerability #compassion #calm #community #authenticity #LOVE 💗✨ https://t.co/0hHY3VheTN"
+	},
+	{
 		"created_at": "Wed Mar 06 07:23:18 +0000 2019",
 		"id": 1103189618621583400,
 		"id_str": "1103194328053227521",
