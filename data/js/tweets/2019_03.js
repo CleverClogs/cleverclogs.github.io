@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 17:02:15 +0000 2019",
+		"id": 1103339465580396500,
+		"id_str": "1103340024588918784",
+		"full_text": "The #HowToTrainYourDragon broadcast with author &amp; illustrator @CressidaCowell starts in just 1 hour! Join us to learn how to bring stories to life and stay tuned for a LIVE Q&amp;A. #Skype2Learn\n\n➡ https://t.co/9rEs4174BB https://t.co/K4IulYWFcy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HowToTrainYourDragon",
+					"indices": [
+						4,
+						25
+					]
+				},
+				{
+					"text": "Skype2Learn",
+					"indices": [
+						186,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CressidaCowell",
+					"name": "Cressida Cowell",
+					"id": 509962767,
+					"id_str": "509962767",
+					"indices": [
+						66,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9rEs4174BB",
+					"expanded_url": "http://msft.social/pxGs6I",
+					"display_url": "msft.social/pxGs6I",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1103339460303958000,
+					"id_str": "1103339460303958018",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/D0_ZZLYWsAIDwtU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0_ZZLYWsAIDwtU.jpg",
+					"url": "https://t.co/K4IulYWFcy",
+					"display_url": "pic.twitter.com/K4IulYWFcy",
+					"expanded_url": "https://twitter.com/SkypeClassroom/status/1103339465580396550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 563,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 993,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103339460303958000,
+					"id_str": "1103339460303958018",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/D0_ZZLYWsAIDwtU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0_ZZLYWsAIDwtU.jpg",
+					"url": "https://t.co/K4IulYWFcy",
+					"display_url": "pic.twitter.com/K4IulYWFcy",
+					"expanded_url": "https://twitter.com/SkypeClassroom/status/1103339465580396550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 563,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 993,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 214027732,
+			"id_str": "214027732",
+			"name": "Skype Classroom",
+			"screen_name": "SkypeClassroom",
+			"location": "Everywhere",
+			"description": "Bringing the 🌎 to every classroom and empowering global voice through free live educational experiences! #MicrosoftEDU #Skype2Learn",
+			"url": "https://t.co/4j25UxjnNz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4j25UxjnNz",
+							"expanded_url": "http://www.skypeintheclassroom.com/",
+							"display_url": "skypeintheclassroom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105166,
+			"friends_count": 8547,
+			"listed_count": 1557,
+			"created_at": "Wed Nov 10 11:32:30 +0000 2010",
+			"favourites_count": 37455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29885,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "25AFF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969672572651503616/THcBAM0D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969672572651503616/THcBAM0D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/214027732/1544454650",
+			"profile_link_color": "00B0F0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAF1FA",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #HowToTrainYourDragon broadcast with author &amp; illustrator @CressidaCowell starts in just 1 hour! Join us to learn how to bring stories to life and stay tuned for a LIVE Q&amp;A. #Skype2Learn\n\n➡ https://t.co/9rEs4174BB https://t.co/K4IulYWFcy"
+	},
+	{
 		"created_at": "Wed Mar 06 09:09:19 +0000 2019",
 		"id": 1103220886088237000,
 		"id_str": "1103221008507523072",
@@ -194,7 +404,7 @@ Grailbird.data.tweets_2019_03 =
 			"name": "Lisa Hoang",
 			"screen_name": "BuLisaBisa",
 			"location": "",
-			"description": "👩🏻‍🏫 Teacher • Counsellor • Lifelong Learner • She/Her 💞🌏 #Wellbeing | #MentalHealth | #Languages | #21stcenturyskills | #SEL | #PositiveEducation 🌱🌿🌳",
+			"description": "👩🏻🏫 Teacher • Counsellor • Lifelong Learner • She/Her 💞🌏 #Wellbeing | #MentalHealth | #Languages | #21stcenturyskills | #SEL | #PositiveEducation 🌱🌿🌳",
 			"url": null,
 			"entities": {
 				"description": {
