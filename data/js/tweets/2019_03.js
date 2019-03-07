@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 07 21:05:59 +0000 2019",
+		"id": 1103763249193873400,
+		"id_str": "1103763749679362057",
+		"full_text": "NEW! See how Matt Harrison works with autistic students, Immersive Reader 📖, and VR to transform learning intervention 💯\n\n👉https://t.co/FqfGCNf4XR #edtech #mieexpert #autism #AssistiveTech #MicrosfotEDU https://t.co/Jrg0r9XfCi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"text": "autism",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "AssistiveTech",
+					"indices": [
+						174,
+						188
+					]
+				},
+				{
+					"text": "MicrosfotEDU",
+					"indices": [
+						189,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FqfGCNf4XR",
+					"expanded_url": "https://educationblog.microsoft.com/en-au/2019/03/virtual-bombs-and-immersive-reader-transform-learning-intervention/",
+					"display_url": "educationblog.microsoft.com/en-au/2019/03/…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1103762250588778500,
+					"id_str": "1103762250588778502",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D1FZ6z7UcAYXeG4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1FZ6z7UcAYXeG4.jpg",
+					"url": "https://t.co/Jrg0r9XfCi",
+					"display_url": "pic.twitter.com/Jrg0r9XfCi",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1103763249193873408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1064,
+							"h": 597,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1064,
+							"h": 597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103762250588778500,
+					"id_str": "1103762250588778502",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D1FZ6z7UcAYXeG4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1FZ6z7UcAYXeG4.jpg",
+					"url": "https://t.co/Jrg0r9XfCi",
+					"display_url": "pic.twitter.com/Jrg0r9XfCi",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1103763249193873408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1064,
+							"h": 597,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1064,
+							"h": 597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16767,
+			"friends_count": 3225,
+			"listed_count": 708,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 55885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27260,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! See how Matt Harrison works with autistic students, Immersive Reader 📖, and VR to transform learning intervention 💯\n\n👉https://t.co/FqfGCNf4XR #edtech #mieexpert #autism #AssistiveTech #MicrosfotEDU https://t.co/Jrg0r9XfCi"
+	},
+	{
 		"created_at": "Wed Mar 06 23:41:23 +0000 2019",
 		"id": 1103440468220788700,
 		"id_str": "1103440468220788741",
