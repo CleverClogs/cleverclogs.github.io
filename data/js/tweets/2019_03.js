@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 12:31:13 +0000 2019",
+		"id": 1104721368007000000,
+		"id_str": "1104721368007000064",
+		"full_text": "Seen the new interactive #MakeWhatsNext Twitter wall yet, with tweets from all across #Microsoft leaders and brands?\n📢 Find your favorite tweet on this TweetBeam, create a nice screenshot and pass that on to your followers together with the TweetBeam web address.\n#IWD2019 #IWD https://t.co/7sIYM1B8qX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MakeWhatsNext",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "IWD2019",
+					"indices": [
+						264,
+						272
+					]
+				},
+				{
+					"text": "IWD",
+					"indices": [
+						273,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7sIYM1B8qX",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1104419511845953538",
+					"display_url": "twitter.com/TweetMeet/stat…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20167,
+			"friends_count": 7369,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25256,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550768614",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1104419511845953500,
+		"quoted_status_id_str": "1104419511845953538",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7sIYM1B8qX",
+			"expanded": "https://twitter.com/TweetMeet/status/1104419511845953538",
+			"display": "twitter.com/TweetMeet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 09 16:31:45 +0000 2019",
+			"id": 1104419511845953500,
+			"id_str": "1104419511845953538",
+			"full_text": "Incredible to see the company-wide, heartfelt dedication at #Microsoft to empower young women around the world to #MakeWhatsNext. \n\nDynamic, interactive Twitter wall:\nhttps://t.co/I5InDkoyhR\n\nTap, click, hover or just sit back and enjoy the show.\n#MicrosoftEDU #IWD2019 #STEM https://t.co/iPCFJJaCZy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Microsoft",
+						"indices": [
+							60,
+							70
+						]
+					},
+					{
+						"text": "MakeWhatsNext",
+						"indices": [
+							114,
+							128
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							247,
+							260
+						]
+					},
+					{
+						"text": "IWD2019",
+						"indices": [
+							261,
+							269
+						]
+					},
+					{
+						"text": "STEM",
+						"indices": [
+							270,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/I5InDkoyhR",
+						"expanded_url": "https://www.tweetbeam.com/show?id=3EdmO",
+						"display_url": "tweetbeam.com/show?id=3EdmO",
+						"indices": [
+							167,
+							190
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1104418472111546400,
+						"id_str": "1104418472111546374",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/D1Ouv7mWoAYxooL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1Ouv7mWoAYxooL.jpg",
+						"url": "https://t.co/iPCFJJaCZy",
+						"display_url": "pic.twitter.com/iPCFJJaCZy",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1104419511845953538/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1284,
+								"h": 739,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 691,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1104418472111546400,
+						"id_str": "1104418472111546374",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/D1Ouv7mWoAYxooL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1Ouv7mWoAYxooL.jpg",
+						"url": "https://t.co/iPCFJJaCZy",
+						"display_url": "pic.twitter.com/iPCFJJaCZy",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1104419511845953538/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1284,
+								"h": 739,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 691,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central #MSFTEduChat",
+				"screen_name": "TweetMeet",
+				"location": "World",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+				"url": "https://t.co/vTmAj2KFoN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTmAj2KFoN",
+								"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+								"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1921,
+				"friends_count": 1350,
+				"listed_count": 18,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 1096,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 593,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1551090552",
+				"profile_link_color": "FF0090",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seen the new interactive #MakeWhatsNext Twitter wall yet, with tweets from all across #Microsoft leaders and brands?\n📢 Find your favorite tweet on this TweetBeam, create a nice screenshot and pass that on to your followers together with the TweetBeam web address.\n#IWD2019 #IWD https://t.co/7sIYM1B8qX"
+	},
+	{
 		"created_at": "Sun Mar 10 09:23:15 +0000 2019",
 		"id": 1104674065049157600,
 		"id_str": "1104674065049157632",
