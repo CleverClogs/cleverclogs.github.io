@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 10 20:52:27 +0000 2019",
+		"id": 1104674065049157600,
+		"id_str": "1104847509493567489",
+		"full_text": "Contagiously hilarious.\nYes, the #eTwinz are at it again. Watch the inimitable #MIEExpert teachers @alberto_hrv and @mmarioherraez compete in the next two episodes of their #Road2E2 video series below.\n\nFunniest #OneNote clips ever. https://t.co/CzmzDe6SX3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eTwinz",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "Road2E2",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						212,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alberto_hrv",
+					"name": "Alberto Herraez, M.Ed",
+					"id": 852520911383085000,
+					"id_str": "852520911383085056",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"screen_name": "mmarioherraez",
+					"name": "Mario Herraez M.Ed",
+					"id": 902180372858888200,
+					"id_str": "902180372858888192",
+					"indices": [
+						116,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CzmzDe6SX3",
+					"expanded_url": "https://twitter.com/alberto_hrv/status/1104483147075379200",
+					"display_url": "twitter.com/alberto_hrv/st…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20168,
+			"friends_count": 7370,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550768614",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1104483147075379200,
+		"quoted_status_id_str": "1104483147075379200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CzmzDe6SX3",
+			"expanded": "https://twitter.com/alberto_hrv/status/1104483147075379200",
+			"display": "twitter.com/alberto_hrv/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 09 20:44:37 +0000 2019",
+			"id": 1104483147075379200,
+			"id_str": "1104483147075379200",
+			"full_text": "🚨Welcome back to #Road2e2 with #eTwinz 🚨\n\nToday, we talked about the power⚡of @OneNoteEDU 💜. A tool that is changing the life of many students around the world 🌍\n\nDon’t forget to watch the second part and participate in the giveaway! 🎉\n\nPart 1/2\n\n#MIEExpert #MicrosoftEDU https://t.co/a7FZjC39Xh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Road2e2",
+						"indices": [
+							17,
+							25
+						]
+					},
+					{
+						"text": "eTwinz",
+						"indices": [
+							31,
+							38
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							247,
+							257
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							258,
+							271
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							78,
+							89
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1104480307586031600,
+						"id_str": "1104480307586031616",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1104480307586031616/pu/img/gSfFA6p3zQTy0lNG.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1104480307586031616/pu/img/gSfFA6p3zQTy0lNG.jpg",
+						"url": "https://t.co/a7FZjC39Xh",
+						"display_url": "pic.twitter.com/a7FZjC39Xh",
+						"expanded_url": "https://twitter.com/alberto_hrv/status/1104483147075379200/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1104480307586031600,
+						"id_str": "1104480307586031616",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1104480307586031616/pu/img/gSfFA6p3zQTy0lNG.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1104480307586031616/pu/img/gSfFA6p3zQTy0lNG.jpg",
+						"url": "https://t.co/a7FZjC39Xh",
+						"display_url": "pic.twitter.com/a7FZjC39Xh",
+						"expanded_url": "https://twitter.com/alberto_hrv/status/1104483147075379200/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 138633,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1104480307586031616/pu/pl/GPtCmVU9jymhS0ZP.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1104480307586031616/pu/vid/640x360/D5i3Z5nSDjBBdaUu.mp4?tag=8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1104480307586031616/pu/vid/320x180/CQlde7qgRk6OkM9T.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852520911383085000,
+				"id_str": "852520911383085056",
+				"name": "Alberto Herraez, M.Ed",
+				"screen_name": "alberto_hrv",
+				"location": "Farmington, UT",
+				"description": "Spaniard | Utah | 2019 @UCET Outstanding Young Educator of the year | #MIEExpert & #MIETrainer | #MSFTEduChat host | @SkypeClassroom MT | @Flipgrid Ambassador",
+				"url": "https://t.co/hIi2qKrHpQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hIi2qKrHpQ",
+								"expanded_url": "http://www.linkedin.com/in/albertoherraezvelazquez",
+								"display_url": "linkedin.com/in/albertoherr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2374,
+				"friends_count": 3380,
+				"listed_count": 37,
+				"created_at": "Thu Apr 13 13:56:39 +0000 2017",
+				"favourites_count": 7113,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2185,
+				"lang": "es",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075423785602363392/tYnQHmhy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075423785602363392/tYnQHmhy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852520911383085056/1549381998",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Contagiously hilarious.\nYes, the #eTwinz are at it again. Watch the inimitable #MIEExpert teachers @alberto_hrv and @mmarioherraez compete in the next two episodes of their #Road2E2 video series below.\n\nFunniest #OneNote clips ever. https://t.co/CzmzDe6SX3"
+	},
+	{
 		"created_at": "Sun Mar 10 12:31:13 +0000 2019",
 		"id": 1104721368007000000,
 		"id_str": "1104721368007000064",
