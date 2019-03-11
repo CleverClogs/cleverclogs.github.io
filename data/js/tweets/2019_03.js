@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 11 16:16:29 +0000 2019",
+		"id": 1105137413272289300,
+		"id_str": "1105140445926080513",
+		"full_text": "Early in her career, @misskyritsis found it hard to keep track of all her students’ learning data. She tested a variety of logbooks and digital platforms but nothing was able to compile evidence like she wanted. Then she discovered #OneNote. Read more: https://t.co/GfsZOuehjY https://t.co/zWaG6KGNtQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						232,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misskyritsis",
+					"name": "Eleni Kyritsis",
+					"id": 1461879277,
+					"id_str": "1461879277",
+					"indices": [
+						21,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GfsZOuehjY",
+					"expanded_url": "http://msft.social/RDCxJo",
+					"display_url": "msft.social/RDCxJo",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105137406104215600,
+					"id_str": "1105137406104215555",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D1Y8nZbWoAM9naV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1Y8nZbWoAM9naV.jpg",
+					"url": "https://t.co/zWaG6KGNtQ",
+					"display_url": "pic.twitter.com/zWaG6KGNtQ",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1105137413272289281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105137406104215600,
+					"id_str": "1105137406104215555",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D1Y8nZbWoAM9naV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1Y8nZbWoAM9naV.jpg",
+					"url": "https://t.co/zWaG6KGNtQ",
+					"display_url": "pic.twitter.com/zWaG6KGNtQ",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1105137413272289281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17826187,
+			"id_str": "17826187",
+			"name": "Microsoft Education",
+			"screen_name": "MicrosoftEDU",
+			"location": "Redmond, WA",
+			"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+			"url": "https://t.co/Kq0bGCfbFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kq0bGCfbFO",
+							"expanded_url": "http://www.microsoft.com/education",
+							"display_url": "microsoft.com/education",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 342737,
+			"friends_count": 4374,
+			"listed_count": 3334,
+			"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+			"favourites_count": 21772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33107,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00BCF2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1508952382",
+			"profile_link_color": "0078D7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Early in her career, @misskyritsis found it hard to keep track of all her students’ learning data. She tested a variety of logbooks and digital platforms but nothing was able to compile evidence like she wanted. Then she discovered #OneNote. Read more: https://t.co/GfsZOuehjY https://t.co/zWaG6KGNtQ"
+	},
+	{
 		"created_at": "Mon Mar 11 12:22:17 +0000 2019",
 		"id": 1105081506312212500,
 		"id_str": "1105081506312212480",
