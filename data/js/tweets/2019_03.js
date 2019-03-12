@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 13:30:24 +0000 2019",
+		"id": 1105461037279703000,
+		"id_str": "1105461037279703040",
+		"full_text": "Great new Twitter account to follow: @MinMaxLife, by a software engineer who calls using #OneNote 'invaluable'.\nJust scroll through their tweets.... https://t.co/RtKu2yY0SV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MinMaxLife",
+					"name": "MinMax Life",
+					"id": 1102739829027090400,
+					"id_str": "1102739829027090432",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RtKu2yY0SV",
+					"expanded_url": "https://twitter.com/MinMaxLife/status/1105256563445358593",
+					"display_url": "twitter.com/MinMaxLife/sta…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20178,
+			"friends_count": 7372,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25260,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550768614",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105256563445358600,
+		"quoted_status_id_str": "1105256563445358593",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RtKu2yY0SV",
+			"expanded": "https://twitter.com/MinMaxLife/status/1105256563445358593",
+			"display": "twitter.com/MinMaxLife/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 11 23:57:54 +0000 2019",
+			"id": 1105256563445358600,
+			"id_str": "1105256563445358593",
+			"full_text": "OneNote is my favorite tool for taking notes, mind mapping, and high-level project planning. I’ve used it ever since college, where it became an invaluable tool for organizing my life.  #developer #programmer #computerscience #study #webdev #code #dev #tech #devlife #onenote https://t.co/E2cHsoOSYz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "developer",
+						"indices": [
+							186,
+							196
+						]
+					},
+					{
+						"text": "programmer",
+						"indices": [
+							197,
+							208
+						]
+					},
+					{
+						"text": "computerscience",
+						"indices": [
+							209,
+							225
+						]
+					},
+					{
+						"text": "study",
+						"indices": [
+							226,
+							232
+						]
+					},
+					{
+						"text": "webdev",
+						"indices": [
+							233,
+							240
+						]
+					},
+					{
+						"text": "code",
+						"indices": [
+							241,
+							246
+						]
+					},
+					{
+						"text": "dev",
+						"indices": [
+							247,
+							251
+						]
+					},
+					{
+						"text": "tech",
+						"indices": [
+							252,
+							257
+						]
+					},
+					{
+						"text": "devlife",
+						"indices": [
+							258,
+							266
+						]
+					},
+					{
+						"text": "onenote",
+						"indices": [
+							267,
+							275
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1105256522739724300,
+						"id_str": "1105256522739724288",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/D1ao85eVsAAvwD-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1ao85eVsAAvwD-.jpg",
+						"url": "https://t.co/E2cHsoOSYz",
+						"display_url": "pic.twitter.com/E2cHsoOSYz",
+						"expanded_url": "https://twitter.com/MinMaxLife/status/1105256563445358593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1105256522739724300,
+						"id_str": "1105256522739724288",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/D1ao85eVsAAvwD-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1ao85eVsAAvwD-.jpg",
+						"url": "https://t.co/E2cHsoOSYz",
+						"display_url": "pic.twitter.com/E2cHsoOSYz",
+						"expanded_url": "https://twitter.com/MinMaxLife/status/1105256563445358593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1638,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1102739829027090400,
+				"id_str": "1102739829027090432",
+				"name": "MinMax Life",
+				"screen_name": "MinMaxLife",
+				"location": "Salt Lake City, UT",
+				"description": "Software engineer documenting a journey of productivity, study, and entrepreneurship.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13,
+				"friends_count": 4,
+				"listed_count": 0,
+				"created_at": "Tue Mar 05 01:17:17 +0000 2019",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103114742359482368/jNAkDpd4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103114742359482368/jNAkDpd4_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great new Twitter account to follow: @MinMaxLife, by a software engineer who calls using #OneNote 'invaluable'.\nJust scroll through their tweets.... https://t.co/RtKu2yY0SV"
+	},
+	{
 		"created_at": "Mon Mar 11 16:16:29 +0000 2019",
 		"id": 1105137413272289300,
 		"id_str": "1105140445926080513",
