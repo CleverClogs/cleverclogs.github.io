@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 00:19:07 +0000 2019",
+		"id": 1105624291641618400,
+		"id_str": "1105624291641618437",
+		"full_text": "@shfarnsworth @mtholfsen @eolsonteacher @web20classroom @openupresources @JenWilliamsEdu @8Amber8 @THLibrariZen @kmishmael @LBrookePowers @MsReidReads What a great new chapter for you, Shaelynn. Congratulations on this wonderful opportunity. Thank you again for your support of the #MSFTEduChat TweetMeets and the #MicrosoftEDU community at large.",
+		"truncated": false,
+		"display_text_range": [
+			151,
+			347
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						282,
+						294
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						314,
+						327
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shfarnsworth",
+					"name": "𝚂𝚑𝚊𝚎𝚕𝚢𝚗𝚗 𝙵𝚊𝚛𝚗𝚜𝚠𝚘𝚛𝚝𝚑",
+					"id": 119564381,
+					"id_str": "119564381",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "eolsonteacher",
+					"name": "Erin Olson",
+					"id": 114936629,
+					"id_str": "114936629",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "web20classroom",
+					"name": "𝚂𝚝𝚎𝚟𝚎𝚗 𝚆. 𝙰𝚗𝚍𝚎𝚛𝚜𝚘𝚗",
+					"id": 21827584,
+					"id_str": "21827584",
+					"indices": [
+						40,
+						55
+					]
+				},
+				{
+					"screen_name": "openupresources",
+					"name": "Open Up Resources",
+					"id": 240224538,
+					"id_str": "240224538",
+					"indices": [
+						56,
+						72
+					]
+				},
+				{
+					"screen_name": "JenWilliamsEdu",
+					"name": "Jennifer Williams",
+					"id": 495519949,
+					"id_str": "495519949",
+					"indices": [
+						73,
+						88
+					]
+				},
+				{
+					"screen_name": "8Amber8",
+					"name": "Amber Teamann",
+					"id": 30315497,
+					"id_str": "30315497",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"screen_name": "THLibrariZen",
+					"name": "Lynn Kleinmeyer",
+					"id": 2738870594,
+					"id_str": "2738870594",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"screen_name": "kmishmael",
+					"name": "Kristina Ishmael",
+					"id": 58933798,
+					"id_str": "58933798",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"screen_name": "LBrookePowers",
+					"name": "Brooke Powers",
+					"id": 1347097430,
+					"id_str": "1347097430",
+					"indices": [
+						123,
+						137
+					]
+				},
+				{
+					"screen_name": "MsReidReads",
+					"name": "Jess Reid Sliwerski",
+					"id": 3185760983,
+					"id_str": "3185760983",
+					"indices": [
+						138,
+						150
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1105519342542835700,
+		"in_reply_to_status_id_str": "1105519342542835712",
+		"in_reply_to_user_id": 119564381,
+		"in_reply_to_user_id_str": "119564381",
+		"in_reply_to_screen_name": "shfarnsworth",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20185,
+			"friends_count": 7374,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25261,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550768614",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shfarnsworth @mtholfsen @eolsonteacher @web20classroom @openupresources @JenWilliamsEdu @8Amber8 @THLibrariZen @kmishmael @LBrookePowers @MsReidReads What a great new chapter for you, Shaelynn. Congratulations on this wonderful opportunity. Thank you again for your support of the #MSFTEduChat TweetMeets and the #MicrosoftEDU community at large."
+	},
+	{
 		"created_at": "Tue Mar 12 13:30:24 +0000 2019",
 		"id": 1105461037279703000,
 		"id_str": "1105461037279703040",
