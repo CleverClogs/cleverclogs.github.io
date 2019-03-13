@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 19:56:32 +0000 2019",
+		"id": 1105920597333344300,
+		"id_str": "1105920597333344256",
+		"full_text": "Drum roll.... \nThe international hosts team for the #MSFTEduChat uses #MicrosoftTeams, #OneNote, #Flipgrid, #Sway and a number of other tools on a daily basis to prepare for the TweetMeet of Tue March 19. \n\nWill you join us on event day? Check the blog post below for details: https://t.co/yDxZKeYMvj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						52,
+						64
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						70,
+						85
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "Flipgrid",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"text": "Sway",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yDxZKeYMvj",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1105588518519230464",
+					"display_url": "twitter.com/TweetMeet/stat…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20186,
+			"friends_count": 7374,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550768614",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105588518519230500,
+		"quoted_status_id_str": "1105588518519230464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yDxZKeYMvj",
+			"expanded": "https://twitter.com/TweetMeet/status/1105588518519230464",
+			"display": "twitter.com/TweetMeet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 12 21:56:58 +0000 2019",
+			"id": 1105588518519230500,
+			"id_str": "1105588518519230464",
+			"full_text": "🥁 Just in: Microsoft Education just announced the #MSFTEduChat of March 19 on their blog.\nThis month's theme: #MakeWhatsNext &amp; #STEM.\nGet more details, resources and host info here: \n\nhttps://t.co/5KjY5uZGgL \n#MicrosoftEDU\n\n💖 Thank you all for your 🔁Retweets ↩Replies 👍Likes https://t.co/IZNOXR0QF3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							50,
+							62
+						]
+					},
+					{
+						"text": "MakeWhatsNext",
+						"indices": [
+							110,
+							124
+						]
+					},
+					{
+						"text": "STEM",
+						"indices": [
+							131,
+							136
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							213,
+							226
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5KjY5uZGgL",
+						"expanded_url": "https://educationblog.microsoft.com/en-us/2019/03/empower-learners-to-makewhatsnext-with-stem/",
+						"display_url": "educationblog.microsoft.com/en-us/2019/03/…",
+						"indices": [
+							188,
+							211
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1105578804624404500,
+						"id_str": "1105578804624404485",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/D1fOELDWsAUzf6O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1fOELDWsAUzf6O.jpg",
+						"url": "https://t.co/IZNOXR0QF3",
+						"display_url": "pic.twitter.com/IZNOXR0QF3",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1105588518519230464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1820,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1105578804624404500,
+						"id_str": "1105578804624404485",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/D1fOELDWsAUzf6O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D1fOELDWsAUzf6O.jpg",
+						"url": "https://t.co/IZNOXR0QF3",
+						"display_url": "pic.twitter.com/IZNOXR0QF3",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1105588518519230464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1820,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central #MSFTEduChat",
+				"screen_name": "TweetMeet",
+				"location": "World",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+				"url": "https://t.co/vTmAj2KFoN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTmAj2KFoN",
+								"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+								"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1934,
+				"friends_count": 1367,
+				"listed_count": 18,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 1130,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 609,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1551090552",
+				"profile_link_color": "FF0090",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Drum roll.... \nThe international hosts team for the #MSFTEduChat uses #MicrosoftTeams, #OneNote, #Flipgrid, #Sway and a number of other tools on a daily basis to prepare for the TweetMeet of Tue March 19. \n\nWill you join us on event day? Check the blog post below for details: https://t.co/yDxZKeYMvj"
+	},
+	{
 		"created_at": "Wed Mar 13 00:19:07 +0000 2019",
 		"id": 1105624291641618400,
 		"id_str": "1105624291641618437",
