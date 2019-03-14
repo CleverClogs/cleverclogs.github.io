@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 13 23:25:47 +0000 2019",
+		"id": 1105971364471672800,
+		"id_str": "1105973258157998081",
+		"full_text": "NEW! An improved #OneNote Windows 10 navigation design 😱 based on YOUR feedback - rolling out to Office Insiders right now. Take it for a spin, send us feedback 💜 More to come...\n\nCheck out the video below 👇 #edtech #mieexpert #MicrosoftEDU https://t.co/mrOUm2n7zB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						208,
+						215
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						216,
+						226
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						227,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105970223209943000,
+					"id_str": "1105970223209943040",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1105970223209943040/pu/img/GM3kyRq9ffL-zZK2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1105970223209943040/pu/img/GM3kyRq9ffL-zZK2.jpg",
+					"url": "https://t.co/mrOUm2n7zB",
+					"display_url": "pic.twitter.com/mrOUm2n7zB",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1105971364471672834/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105970223209943000,
+					"id_str": "1105970223209943040",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1105970223209943040/pu/img/GM3kyRq9ffL-zZK2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1105970223209943040/pu/img/GM3kyRq9ffL-zZK2.jpg",
+					"url": "https://t.co/mrOUm2n7zB",
+					"display_url": "pic.twitter.com/mrOUm2n7zB",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1105971364471672834/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							281,
+							180
+						],
+						"duration_millis": 20533,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1105970223209943040/pu/vid/562x360/rvOHr0vSqBgRyBcL.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1105970223209943040/pu/vid/1124x720/syr6-UhEVJRarGGh.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1105970223209943040/pu/pl/gw7_NOtXZVHlCbQK.m3u8?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1105970223209943040/pu/vid/280x180/0e72NOjLupy0WzVK.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16886,
+			"friends_count": 3115,
+			"listed_count": 711,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 56584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! An improved #OneNote Windows 10 navigation design 😱 based on YOUR feedback - rolling out to Office Insiders right now. Take it for a spin, send us feedback 💜 More to come...\n\nCheck out the video below 👇 #edtech #mieexpert #MicrosoftEDU https://t.co/mrOUm2n7zB"
+	},
+	{
 		"created_at": "Wed Mar 13 19:56:32 +0000 2019",
 		"id": 1105920597333344300,
 		"id_str": "1105920597333344256",
