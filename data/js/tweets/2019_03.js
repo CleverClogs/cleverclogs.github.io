@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 14 10:58:07 +0000 2019",
+		"id": 1105877511274152000,
+		"id_str": "1106147489504264193",
+		"full_text": "Curious about the March 19 #MSFTeduChat on #MakeWhatsNext &amp; #STEM?\n\nThis brand-new Invitation #Sway contains all TweetMeet essentials in an attractive and interactive story format: \nhttps://t.co/xzvbpdPrOV\n#MicrosoftEDU\n\n📢 P.S. Stay tuned for the multilingual SuperSway version. https://t.co/65krgMd4Sh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTeduChat",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"text": "MakeWhatsNext",
+					"indices": [
+						43,
+						57
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "Sway",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						210,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xzvbpdPrOV",
+					"expanded_url": "https://sway.office.com/tnLZdsE3nFEpAmLQ",
+					"display_url": "sway.office.com/tnLZdsE3nFEpAm…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1105874840819548200,
+					"id_str": "1105874840819548160",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jbTv0XQAAKmmq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jbTv0XQAAKmmq.jpg",
+					"url": "https://t.co/65krgMd4Sh",
+					"display_url": "pic.twitter.com/65krgMd4Sh",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1105877511274151937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105874840819548200,
+					"id_str": "1105874840819548160",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/D1jbTv0XQAAKmmq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1jbTv0XQAAKmmq.jpg",
+					"url": "https://t.co/65krgMd4Sh",
+					"display_url": "pic.twitter.com/65krgMd4Sh",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1105877511274151937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1937,
+			"friends_count": 1367,
+			"listed_count": 18,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 612,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1551090552",
+			"profile_link_color": "FF0090",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Curious about the March 19 #MSFTeduChat on #MakeWhatsNext &amp; #STEM?\n\nThis brand-new Invitation #Sway contains all TweetMeet essentials in an attractive and interactive story format: \nhttps://t.co/xzvbpdPrOV\n#MicrosoftEDU\n\n📢 P.S. Stay tuned for the multilingual SuperSway version. https://t.co/65krgMd4Sh"
+	},
+	{
 		"created_at": "Wed Mar 13 23:25:47 +0000 2019",
 		"id": 1105971364471672800,
 		"id_str": "1105973258157998081",
