@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 17:12:47 +0000 2019",
+		"id": 1108053520866000900,
+		"id_str": "1108053715880235015",
+		"full_text": "❓ Q1. What is the value and impact of Science, Technology, Engineering and Math #STEM education?\n\n#MakeWhatsNext #MSFTEduChat #MicrosoftEDU \nhttps://t.co/g6WIB2Xtwp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEM",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "MakeWhatsNext",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						126,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104737750048297000,
+					"id_str": "1104737750048296961",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TRIWmX0AEvm2b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TRIWmX0AEvm2b.jpg",
+					"url": "https://t.co/g6WIB2Xtwp",
+					"display_url": "pic.twitter.com/g6WIB2Xtwp",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104737761112793089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104737761112793100,
+					"source_status_id_str": "1104737761112793089",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104737750048297000,
+					"id_str": "1104737750048296961",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TRIWmX0AEvm2b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TRIWmX0AEvm2b.jpg",
+					"url": "https://t.co/g6WIB2Xtwp",
+					"display_url": "pic.twitter.com/g6WIB2Xtwp",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104737761112793089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104737761112793100,
+					"source_status_id_str": "1104737761112793089",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1977,
+			"friends_count": 1375,
+			"listed_count": 19,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 644,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1551090552",
+			"profile_link_color": "FF0090",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❓ Q1. What is the value and impact of Science, Technology, Engineering and Math #STEM education?\n\n#MakeWhatsNext #MSFTEduChat #MicrosoftEDU \nhttps://t.co/g6WIB2Xtwp"
+	},
+	{
+		"created_at": "Tue Mar 19 17:12:14 +0000 2019",
+		"id": 1108050774381211600,
+		"id_str": "1108053579930185730",
+		"full_text": "📢 Opening question:\nHow do learners become #FutureReady to #MakeWhatsNext in their future career?\n\n#MSFTEduChat #MicrosoftEDU\n#STEM https://t.co/YIJYUTQciH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FutureReady",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"text": "MakeWhatsNext",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104737701578920000,
+					"id_str": "1104737701578919936",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TRFiCX0AAPZj4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TRFiCX0AAPZj4.jpg",
+					"url": "https://t.co/YIJYUTQciH",
+					"display_url": "pic.twitter.com/YIJYUTQciH",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104737711817216000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104737711817216000,
+					"source_status_id_str": "1104737711817216000",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104737701578920000,
+					"id_str": "1104737701578919936",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TRFiCX0AAPZj4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TRFiCX0AAPZj4.jpg",
+					"url": "https://t.co/YIJYUTQciH",
+					"display_url": "pic.twitter.com/YIJYUTQciH",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104737711817216000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104737711817216000,
+					"source_status_id_str": "1104737711817216000",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1977,
+			"friends_count": 1375,
+			"listed_count": 19,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 644,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1551090552",
+			"profile_link_color": "FF0090",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 Opening question:\nHow do learners become #FutureReady to #MakeWhatsNext in their future career?\n\n#MSFTEduChat #MicrosoftEDU\n#STEM https://t.co/YIJYUTQciH"
+	},
+	{
 		"created_at": "Tue Mar 19 10:37:30 +0000 2019",
 		"id": 1107744975205384200,
 		"id_str": "1107954240843104256",
