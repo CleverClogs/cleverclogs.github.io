@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 18:33:31 +0000 2019",
+		"id": 1108069126969479200,
+		"id_str": "1108074035252989953",
+		"full_text": "✍ We hope you all enjoyed this TweetMeet as much as we did. \nPlease help Team @TweetMeet improve by giving us your honest feedback through this short Microsoft Forms survey: \n\nhttps://t.co/MOjeHz872B\n#MSFTEduChat #MicrosoftEDU #STEM #MakeWhatsNext https://t.co/9PQKpchRcQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						200,
+						212
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						213,
+						226
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						227,
+						232
+					]
+				},
+				{
+					"text": "MakeWhatsNext",
+					"indices": [
+						233,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central #MSFTEduChat",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MOjeHz872B",
+					"expanded_url": "https://twt.mt/survey1903",
+					"display_url": "twt.mt/survey1903",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1106639749933121500,
+					"id_str": "1106639749933121537",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/D1uS_UUXQAE8gET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1uS_UUXQAE8gET.jpg",
+					"url": "https://t.co/9PQKpchRcQ",
+					"display_url": "pic.twitter.com/9PQKpchRcQ",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1106639758929915904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1106639758929915900,
+					"source_status_id_str": "1106639758929915904",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106639749933121500,
+					"id_str": "1106639749933121537",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/D1uS_UUXQAE8gET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1uS_UUXQAE8gET.jpg",
+					"url": "https://t.co/9PQKpchRcQ",
+					"display_url": "pic.twitter.com/9PQKpchRcQ",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1106639758929915904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1106639758929915900,
+					"source_status_id_str": "1106639758929915904",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1987,
+			"friends_count": 1375,
+			"listed_count": 19,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1551090552",
+			"profile_link_color": "FF0090",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✍ We hope you all enjoyed this TweetMeet as much as we did. \nPlease help Team @TweetMeet improve by giving us your honest feedback through this short Microsoft Forms survey: \n\nhttps://t.co/MOjeHz872B\n#MSFTEduChat #MicrosoftEDU #STEM #MakeWhatsNext https://t.co/9PQKpchRcQ"
+	},
+	{
+		"created_at": "Tue Mar 19 18:33:11 +0000 2019",
+		"id": 1108068628946186200,
+		"id_str": "1108073952390406144",
+		"full_text": "Wow. Together you totally blew the roof off of Twitter today! Thanks everyone for an incredible #MSFTEduChat.\n\nOn Tues April 16th the TweetMeet topic will be \"Teaching Happiness\".\n\nRead more:\nhttps://t.co/RpbBhg9Q1D\nby @bnholzapfel @Sparvell\n\n#MicrosoftEDU #SEL #TeachingHappiness https://t.co/WY9lObRLaO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						96,
+						108
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						243,
+						256
+					]
+				},
+				{
+					"text": "SEL",
+					"indices": [
+						257,
+						261
+					]
+				},
+				{
+					"text": "TeachingHappiness",
+					"indices": [
+						262,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bnholzapfel",
+					"name": "Barbara Holzapfel",
+					"id": 466961923,
+					"id_str": "466961923",
+					"indices": [
+						219,
+						231
+					]
+				},
+				{
+					"screen_name": "sparvell",
+					"name": "Mark Sparvell",
+					"id": 33184994,
+					"id_str": "33184994",
+					"indices": [
+						232,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RpbBhg9Q1D",
+					"expanded_url": "https://educationblog.microsoft.com/en-us/2019/02/emotion-and-cognition-in-the-age-of-ai-new-research-from-microsoft-education-and-the-economist-intelligence-unit/",
+					"display_url": "educationblog.microsoft.com/en-us/2019/02/…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108068627239047200,
+					"id_str": "1108068627239047168",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Cmi7FWkAAODmu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2Cmi7FWkAAODmu.jpg",
+					"url": "https://t.co/WY9lObRLaO",
+					"display_url": "pic.twitter.com/WY9lObRLaO",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1108068628946186240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108068627239047200,
+					"id_str": "1108068627239047168",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Cmi7FWkAAODmu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2Cmi7FWkAAODmu.jpg",
+					"url": "https://t.co/WY9lObRLaO",
+					"display_url": "pic.twitter.com/WY9lObRLaO",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1108068628946186240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1987,
+			"friends_count": 1375,
+			"listed_count": 19,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 653,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1551090552",
+			"profile_link_color": "FF0090",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow. Together you totally blew the roof off of Twitter today! Thanks everyone for an incredible #MSFTEduChat.\n\nOn Tues April 16th the TweetMeet topic will be \"Teaching Happiness\".\n\nRead more:\nhttps://t.co/RpbBhg9Q1D\nby @bnholzapfel @Sparvell\n\n#MicrosoftEDU #SEL #TeachingHappiness https://t.co/WY9lObRLaO"
+	},
+	{
 		"created_at": "Tue Mar 19 17:48:43 +0000 2019",
 		"id": 1108062580222902300,
 		"id_str": "1108062759349075968",
