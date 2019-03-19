@@ -1,6 +1,646 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 17:48:43 +0000 2019",
+		"id": 1108062580222902300,
+		"id_str": "1108062759349075968",
+		"full_text": "❓ Q4. Who or what resources inspire you to create irresistible #STEM experiences?\n\n#MSFTEduChat #MakeWhatsNext \n#WomansHistoryMonth #MicrosoftEDU \nhttps://t.co/RtGI3dobjQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEM",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"text": "MakeWhatsNext",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"text": "WomansHistoryMonth",
+					"indices": [
+						112,
+						131
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						132,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104738389180452900,
+					"id_str": "1104738389180452866",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TRtjjWkAIc-JZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TRtjjWkAIc-JZ.jpg",
+					"url": "https://t.co/RtGI3dobjQ",
+					"display_url": "pic.twitter.com/RtGI3dobjQ",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104738400278589440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104738400278589400,
+					"source_status_id_str": "1104738400278589440",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104738389180452900,
+					"id_str": "1104738389180452866",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TRtjjWkAIc-JZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TRtjjWkAIc-JZ.jpg",
+					"url": "https://t.co/RtGI3dobjQ",
+					"display_url": "pic.twitter.com/RtGI3dobjQ",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104738400278589440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104738400278589400,
+					"source_status_id_str": "1104738400278589440",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1982,
+			"friends_count": 1375,
+			"listed_count": 19,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 656,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1551090552",
+			"profile_link_color": "FF0090",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❓ Q4. Who or what resources inspire you to create irresistible #STEM experiences?\n\n#MSFTEduChat #MakeWhatsNext \n#WomansHistoryMonth #MicrosoftEDU \nhttps://t.co/RtGI3dobjQ"
+	},
+	{
+		"created_at": "Tue Mar 19 17:39:19 +0000 2019",
+		"id": 1108059559959150600,
+		"id_str": "1108060392922722304",
+		"full_text": "❓ Q3. How can teachers support and engage _all_ students to love #STEM?\n\n#MakeWhatsNext\n#MSFTEduChat #MicrosoftEDU  https://t.co/FNUIHOcXSD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEM",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "MakeWhatsNext",
+					"indices": [
+						73,
+						87
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						101,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104738205092495400,
+					"id_str": "1104738205092495360",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TRi1xXQAAj80A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TRi1xXQAAj80A.jpg",
+					"url": "https://t.co/FNUIHOcXSD",
+					"display_url": "pic.twitter.com/FNUIHOcXSD",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104738214206754817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104738214206754800,
+					"source_status_id_str": "1104738214206754817",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104738205092495400,
+					"id_str": "1104738205092495360",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TRi1xXQAAj80A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TRi1xXQAAj80A.jpg",
+					"url": "https://t.co/FNUIHOcXSD",
+					"display_url": "pic.twitter.com/FNUIHOcXSD",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104738214206754817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104738214206754800,
+					"source_status_id_str": "1104738214206754817",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1982,
+			"friends_count": 1375,
+			"listed_count": 19,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 656,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1551090552",
+			"profile_link_color": "FF0090",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❓ Q3. How can teachers support and engage _all_ students to love #STEM?\n\n#MakeWhatsNext\n#MSFTEduChat #MicrosoftEDU  https://t.co/FNUIHOcXSD"
+	},
+	{
+		"created_at": "Tue Mar 19 17:26:08 +0000 2019",
+		"id": 1108056539238187000,
+		"id_str": "1108057075140214784",
+		"full_text": "❓ Q2. How do your learners apply #STEM to #MakeWhatsNext and solve real-world problems? Share pictures and stories.\n\n#MSFTEduChat #MicrosoftEDU\nhttps://t.co/5IN7RJnhtB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEM",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "MakeWhatsNext",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						130,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104738016407572500,
+					"id_str": "1104738016407572481",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TRX23X0AESytN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TRX23X0AESytN.jpg",
+					"url": "https://t.co/5IN7RJnhtB",
+					"display_url": "pic.twitter.com/5IN7RJnhtB",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104738025593061377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104738025593061400,
+					"source_status_id_str": "1104738025593061377",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104738016407572500,
+					"id_str": "1104738016407572481",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TRX23X0AESytN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TRX23X0AESytN.jpg",
+					"url": "https://t.co/5IN7RJnhtB",
+					"display_url": "pic.twitter.com/5IN7RJnhtB",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104738025593061377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104738025593061400,
+					"source_status_id_str": "1104738025593061377",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1982,
+			"friends_count": 1375,
+			"listed_count": 19,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 656,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1551090552",
+			"profile_link_color": "FF0090",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❓ Q2. How do your learners apply #STEM to #MakeWhatsNext and solve real-world problems? Share pictures and stories.\n\n#MSFTEduChat #MicrosoftEDU\nhttps://t.co/5IN7RJnhtB"
+	},
+	{
 		"created_at": "Tue Mar 19 17:12:47 +0000 2019",
 		"id": 1108053520866000900,
 		"id_str": "1108053715880235015",
