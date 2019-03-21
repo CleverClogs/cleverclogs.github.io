@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 18:08:11 +0000 2019",
+		"id": 1108791019896746000,
+		"id_str": "1108792434291548160",
+		"full_text": "I am so excited &amp; honored to be the @OneNoteEDU spotlight teacher this week! Thank you 💜 I love modeling &amp; showing Admin, Ts &amp; Ss how to use efficient #OneNote tools. They are #Lifechanging 🙌 @MicrosoftEDU @mtholfsen @OneNoteC #EMSProud #MIEExpert #Jenallee #edtech #Onederful https://t.co/SwywZoDrUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "Lifechanging",
+					"indices": [
+						188,
+						201
+					]
+				},
+				{
+					"text": "EMSProud",
+					"indices": [
+						239,
+						248
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						249,
+						259
+					]
+				},
+				{
+					"text": "Jenallee",
+					"indices": [
+						260,
+						269
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						270,
+						277
+					]
+				},
+				{
+					"text": "Onederful",
+					"indices": [
+						278,
+						288
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						204,
+						217
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						218,
+						228
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						229,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SwywZoDrUD",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1108775783693205506",
+					"display_url": "twitter.com/OneNoteEDU/sta…",
+					"indices": [
+						289,
+						312
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95272661,
+			"id_str": "95272661",
+			"name": "Jeni Long",
+			"screen_name": "jlo731",
+			"location": "Fort Worth, TX",
+			"description": "ITS who loves inspiring others & has a passion for teaching & lrng w/tech! MIE Master Trainer #MIEExpert #OneNote lover #FETC #TCEA #MSFTEduChat @MicrosoftEDU",
+			"url": "https://t.co/5Z58JNJrUa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5Z58JNJrUa",
+							"expanded_url": "http://www.youtube.com/Jenallee",
+							"display_url": "youtube.com/Jenallee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1336,
+			"friends_count": 1801,
+			"listed_count": 31,
+			"created_at": "Mon Dec 07 20:32:16 +0000 2009",
+			"favourites_count": 12470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076138427177828355/FdGYpuKD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076138427177828355/FdGYpuKD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95272661/1550770067",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108775783693205500,
+		"quoted_status_id_str": "1108775783693205506",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SwywZoDrUD",
+			"expanded": "https://twitter.com/OneNoteEDU/status/1108775783693205506",
+			"display": "twitter.com/OneNoteEDU/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 21 17:02:01 +0000 2019",
+			"id": 1108775783693205500,
+			"id_str": "1108775783693205506",
+			"full_text": "We're spotlighting #MIEExpert and #Jenallee partner @jlo731 this week! Check out all of her awesome #edtech teaching resources. 👇 \n\nVlog: https://t.co/HWkRTUfskQ\n\nOneblog: https://t.co/gp3SBpOB1l \n\nLearning Tools Notebook: https://t.co/27hXtCJS6v https://t.co/n8MchO7MnT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							19,
+							29
+						]
+					},
+					{
+						"text": "Jenallee",
+						"indices": [
+							34,
+							43
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							100,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jlo731",
+						"name": "Jeni Long",
+						"id": 95272661,
+						"id_str": "95272661",
+						"indices": [
+							52,
+							59
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HWkRTUfskQ",
+						"expanded_url": "http://msft.social/oTlBD1",
+						"display_url": "msft.social/oTlBD1",
+						"indices": [
+							138,
+							161
+						]
+					},
+					{
+						"url": "https://t.co/gp3SBpOB1l",
+						"expanded_url": "http://msft.social/yODKXP",
+						"display_url": "msft.social/yODKXP",
+						"indices": [
+							172,
+							195
+						]
+					},
+					{
+						"url": "https://t.co/27hXtCJS6v",
+						"expanded_url": "http://msft.social/eXiQSc",
+						"display_url": "msft.social/eXiQSc",
+						"indices": [
+							223,
+							246
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1108775779297620000,
+						"id_str": "1108775779297619968",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/D2MpslyXcAAeV6n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2MpslyXcAAeV6n.jpg",
+						"url": "https://t.co/n8MchO7MnT",
+						"display_url": "pic.twitter.com/n8MchO7MnT",
+						"expanded_url": "https://twitter.com/OneNoteEDU/status/1108775783693205506/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1108775779297620000,
+						"id_str": "1108775779297619968",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/D2MpslyXcAAeV6n.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2MpslyXcAAeV6n.jpg",
+						"url": "https://t.co/n8MchO7MnT",
+						"display_url": "pic.twitter.com/n8MchO7MnT",
+						"expanded_url": "https://twitter.com/OneNoteEDU/status/1108775783693205506/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3096566760,
+				"id_str": "3096566760",
+				"name": "OneNote Education",
+				"screen_name": "OneNoteEDU",
+				"location": "Redmond, WA",
+				"description": "Connecting educators to OneNote resources and information. An official channel for Microsoft OneNote.",
+				"url": "http://t.co/VAJyjQIbaK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VAJyjQIbaK",
+								"expanded_url": "http://onenoteineducation.com/",
+								"display_url": "onenoteineducation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70159,
+				"friends_count": 867,
+				"listed_count": 780,
+				"created_at": "Wed Mar 18 17:56:27 +0000 2015",
+				"favourites_count": 11332,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17820,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096566760/1455659611",
+				"profile_link_color": "80397B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am so excited &amp; honored to be the @OneNoteEDU spotlight teacher this week! Thank you 💜 I love modeling &amp; showing Admin, Ts &amp; Ss how to use efficient #OneNote tools. They are #Lifechanging 🙌 @MicrosoftEDU @mtholfsen @OneNoteC #EMSProud #MIEExpert #Jenallee #edtech #Onederful https://t.co/SwywZoDrUD"
+	},
+	{
 		"created_at": "Wed Mar 20 21:09:07 +0000 2019",
 		"id": 1108461271735631900,
 		"id_str": "1108475581933518851",
