@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 00:13:36 +0000 2019",
+		"id": 1108884393190481900,
+		"id_str": "1108884393190481920",
+		"full_text": "Some seriously stylish #Microsoft #Surface sketching here.\nGo through @IrberWolfgang's Twitter profile and be inspired.\n\ncc @panos_panay @ralfgroene \n#OneNote https://t.co/8BgYtjTxSH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"text": "Surface",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						150,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IrberWolfgang",
+					"name": "Wolfgang Irber",
+					"id": 2735012655,
+					"id_str": "2735012655",
+					"indices": [
+						70,
+						84
+					]
+				},
+				{
+					"screen_name": "panos_panay",
+					"name": "Panos Panay",
+					"id": 20416077,
+					"id_str": "20416077",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"screen_name": "ralfgroene",
+					"name": "Ralf Groene",
+					"id": 883666477,
+					"id_str": "883666477",
+					"indices": [
+						137,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8BgYtjTxSH",
+					"expanded_url": "https://twitter.com/IrberWolfgang/status/1092688026734682112",
+					"display_url": "twitter.com/IrberWolfgang/…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20277,
+			"friends_count": 7370,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1550768614",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092688026734682100,
+		"quoted_status_id_str": "1092688026734682112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8BgYtjTxSH",
+			"expanded": "https://twitter.com/IrberWolfgang/status/1092688026734682112",
+			"display": "twitter.com/IrberWolfgang/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 05 07:35:01 +0000 2019",
+			"id": 1092688026734682100,
+			"id_str": "1092688026734682112",
+			"full_text": "After using #Surface devices for so many years, I was asked by customers if I'd like to run courses for them so they can use them better. And I did. This year I was running my first sessions. Good to see how it triggers #creativity &amp; #productivity &amp; #fun. @surface https://t.co/YZax9ZefGD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Surface",
+						"indices": [
+							12,
+							20
+						]
+					},
+					{
+						"text": "creativity",
+						"indices": [
+							220,
+							231
+						]
+					},
+					{
+						"text": "productivity",
+						"indices": [
+							238,
+							251
+						]
+					},
+					{
+						"text": "fun",
+						"indices": [
+							258,
+							262
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "surface",
+						"name": "Microsoft Surface",
+						"id": 612076511,
+						"id_str": "612076511",
+						"indices": [
+							264,
+							272
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1092688021315571700,
+						"id_str": "1092688021315571713",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/DyoB91DW0AEfiQm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyoB91DW0AEfiQm.jpg",
+						"url": "https://t.co/YZax9ZefGD",
+						"display_url": "pic.twitter.com/YZax9ZefGD",
+						"expanded_url": "https://twitter.com/IrberWolfgang/status/1092688026734682112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1092688021315571700,
+						"id_str": "1092688021315571713",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/DyoB91DW0AEfiQm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyoB91DW0AEfiQm.jpg",
+						"url": "https://t.co/YZax9ZefGD",
+						"display_url": "pic.twitter.com/YZax9ZefGD",
+						"expanded_url": "https://twitter.com/IrberWolfgang/status/1092688026734682112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2735012655,
+				"id_str": "2735012655",
+				"name": "Wolfgang Irber",
+				"screen_name": "IrberWolfgang",
+				"location": "Neubeuern",
+				"description": "Creating visuals & illustrations for enterprises to make communication more effective and engaging.",
+				"url": "http://t.co/6DL9LQj4AP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6DL9LQj4AP",
+								"expanded_url": "http://www.wirber.de",
+								"display_url": "wirber.de",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 99,
+				"friends_count": 89,
+				"listed_count": 3,
+				"created_at": "Wed Aug 06 12:10:21 +0000 2014",
+				"favourites_count": 176,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 321,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980051985847259137/TAc7nnmy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980051985847259137/TAc7nnmy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2735012655/1484324986",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some seriously stylish #Microsoft #Surface sketching here.\nGo through @IrberWolfgang's Twitter profile and be inspired.\n\ncc @panos_panay @ralfgroene \n#OneNote https://t.co/8BgYtjTxSH"
+	},
+	{
 		"created_at": "Thu Mar 21 18:08:11 +0000 2019",
 		"id": 1108791019896746000,
 		"id_str": "1108792434291548160",
