@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 13:22:59 +0000 2019",
+		"id": 1109790492672356400,
+		"id_str": "1109807823490375680",
+		"full_text": "Preparing for #E2 with the official @MicrosoftEDU OneNote guide - it promises to be an action-packed week! 🔥🇫🇷🇮🇪\n\n#8Days\n#Road2E2\n#Countdown2E2 https://t.co/zx4HYTN0YI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "E2",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "8Days",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "Road2E2",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "Countdown2E2",
+					"indices": [
+						130,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						36,
+						49
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109789234641150000,
+					"id_str": "1109789234641149955",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D2bDbdJWoAMW54j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2bDbdJWoAMW54j.jpg",
+					"url": "https://t.co/zx4HYTN0YI",
+					"display_url": "pic.twitter.com/zx4HYTN0YI",
+					"expanded_url": "https://twitter.com/Cloughglass/status/1109790492672356353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109789234641150000,
+					"id_str": "1109789234641149955",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D2bDbdJWoAMW54j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2bDbdJWoAMW54j.jpg",
+					"url": "https://t.co/zx4HYTN0YI",
+					"display_url": "pic.twitter.com/zx4HYTN0YI",
+					"expanded_url": "https://twitter.com/Cloughglass/status/1109790492672356353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 493,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 289,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740927546,
+			"id_str": "740927546",
+			"name": "Hugh Meenagh",
+			"screen_name": "Cloughglass",
+			"location": "Ireland",
+			"description": "Husband | Principal | Innovation and Leadership in Edu | BEd | MSc | PQH | MIEE | #E2 Paris 2019 | #MSFTEduChat Host I Still Learning | Opinions are my own!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1104,
+			"friends_count": 1105,
+			"listed_count": 82,
+			"created_at": "Mon Aug 06 16:11:49 +0000 2012",
+			"favourites_count": 5550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1409,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102649953632075778/p00hJKSg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102649953632075778/p00hJKSg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740927546/1551399935",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Preparing for #E2 with the official @MicrosoftEDU OneNote guide - it promises to be an action-packed week! 🔥🇫🇷🇮🇪\n\n#8Days\n#Road2E2\n#Countdown2E2 https://t.co/zx4HYTN0YI"
+	},
+	{
 		"created_at": "Fri Mar 22 00:13:36 +0000 2019",
 		"id": 1108884393190481900,
 		"id_str": "1108884393190481920",
