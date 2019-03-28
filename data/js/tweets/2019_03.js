@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 23:18:12 +0000 2019",
+		"id": 1111407168324927500,
+		"id_str": "1111407168324927489",
+		"full_text": "Attending Microsoft #E2 in Paris this coming week? \nQuickly check if all your Team members are on this Twitter List yet:\n\nhttps://t.co/IBI9xdZTE9\n#MicrosoftEDU #MIEExpert #Road2e2 https://t.co/B95426ZKfm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "E2",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						146,
+						159
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"text": "Road2e2",
+					"indices": [
+						171,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IBI9xdZTE9",
+					"expanded_url": "https://twitter.com/OneNoteC/lists/microsoft-e2-paris-2019",
+					"display_url": "twitter.com/OneNoteC/lists…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1111406876258820100,
+					"id_str": "1111406876258820098",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D2yCqlxVYAI2v6J.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2yCqlxVYAI2v6J.png",
+					"url": "https://t.co/B95426ZKfm",
+					"display_url": "pic.twitter.com/B95426ZKfm",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1111407168324927489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 742,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111406876258820100,
+					"id_str": "1111406876258820098",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/D2yCqlxVYAI2v6J.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2yCqlxVYAI2v6J.png",
+					"url": "https://t.co/B95426ZKfm",
+					"display_url": "pic.twitter.com/B95426ZKfm",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1111407168324927489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 742,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 439,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20350,
+			"friends_count": 7392,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Attending Microsoft #E2 in Paris this coming week? \nQuickly check if all your Team members are on this Twitter List yet:\n\nhttps://t.co/IBI9xdZTE9\n#MicrosoftEDU #MIEExpert #Road2e2 https://t.co/B95426ZKfm"
+	},
+	{
 		"created_at": "Thu Mar 28 19:07:41 +0000 2019",
 		"id": 1111312241297494000,
 		"id_str": "1111344122202329088",
