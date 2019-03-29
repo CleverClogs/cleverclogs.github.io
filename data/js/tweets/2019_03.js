@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 29 23:04:10 +0000 2019",
+		"id": 1111766022724431900,
+		"id_str": "1111766022724431873",
+		"full_text": "New must-watch episode of the informative and entertaining #Jenallee show.\n\nMike Tholfsen announces exciting improvements coming to #OneNote over the next few months. Just to name a few: even more feature parity with Class Notebook 2016 add-in, page templates, pinned notebooks... https://t.co/g9XyifEUgg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jenallee",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g9XyifEUgg",
+					"expanded_url": "https://twitter.com/Jenallee1/status/1111751640216993794",
+					"display_url": "twitter.com/Jenallee1/stat…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20369,
+			"friends_count": 7400,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25294,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1111751640216993800,
+		"quoted_status_id_str": "1111751640216993794",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g9XyifEUgg",
+			"expanded": "https://twitter.com/Jenallee1/status/1111751640216993794",
+			"display": "twitter.com/Jenallee1/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 29 22:07:01 +0000 2019",
+			"id": 1111751640216993800,
+			"id_str": "1111751640216993794",
+			"full_text": "Oh. My. Goodness!🤩 #Jenallee just interviewed the one &amp; only \n✨@mtholfsen ✨ \n\nCheck out this episode of The #Jenallee Show to hear Mike share how  @OneNoteEDU &amp; @MicrosoftEDU are empowering ALL Ss! \n👉https://t.co/oyyCMh6380  \n\n#EMSProud #Accessibility #Onederful #MIEEXpert https://t.co/Z7LPEJn0K8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Jenallee",
+						"indices": [
+							19,
+							28
+						]
+					},
+					{
+						"text": "Jenallee",
+						"indices": [
+							112,
+							121
+						]
+					},
+					{
+						"text": "EMSProud",
+						"indices": [
+							235,
+							244
+						]
+					},
+					{
+						"text": "Accessibility",
+						"indices": [
+							245,
+							259
+						]
+					},
+					{
+						"text": "Onederful",
+						"indices": [
+							260,
+							270
+						]
+					},
+					{
+						"text": "MIEEXpert",
+						"indices": [
+							271,
+							281
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							67,
+							77
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							151,
+							162
+						]
+					},
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							169,
+							182
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oyyCMh6380",
+						"expanded_url": "https://youtu.be/r6FZISzK0UA",
+						"display_url": "youtu.be/r6FZISzK0UA",
+						"indices": [
+							208,
+							231
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1111750164488835100,
+						"id_str": "1111750164488835072",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/D2264mFW0AAi2BK.png",
+						"media_url_https": "https://pbs.twimg.com/media/D2264mFW0AAi2BK.png",
+						"url": "https://t.co/Z7LPEJn0K8",
+						"display_url": "pic.twitter.com/Z7LPEJn0K8",
+						"expanded_url": "https://twitter.com/Jenallee1/status/1111751640216993794/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 439,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 781,
+								"h": 504,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 781,
+								"h": 504,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1111750164488835100,
+						"id_str": "1111750164488835072",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/D2264mFW0AAi2BK.png",
+						"media_url_https": "https://pbs.twimg.com/media/D2264mFW0AAi2BK.png",
+						"url": "https://t.co/Z7LPEJn0K8",
+						"display_url": "pic.twitter.com/Z7LPEJn0K8",
+						"expanded_url": "https://twitter.com/Jenallee1/status/1111751640216993794/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 439,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 781,
+								"h": 504,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 781,
+								"h": 504,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 971576715809083400,
+				"id_str": "971576715809083393",
+				"name": "@Jenallee",
+				"screen_name": "Jenallee1",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Thu Mar 08 02:41:54 +0000 2018",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971578044703010817/lMtOUuGq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971578044703010817/lMtOUuGq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/971576715809083393/1520477305",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New must-watch episode of the informative and entertaining #Jenallee show.\n\nMike Tholfsen announces exciting improvements coming to #OneNote over the next few months. Just to name a few: even more feature parity with Class Notebook 2016 add-in, page templates, pinned notebooks... https://t.co/g9XyifEUgg"
+	},
+	{
 		"created_at": "Fri Mar 29 20:43:06 +0000 2019",
 		"id": 1111730522659672000,
 		"id_str": "1111730522659672064",
