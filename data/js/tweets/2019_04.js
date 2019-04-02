@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 16:11:54 +0000 2019",
+		"id": 1113111826173227000,
+		"id_str": "1113111826173227009",
+		"full_text": "Whoosh!\nMagnificent and addictive wave greetings from all of us at #E2 in Paris.\n\nDon’t miss the video compilation of #road2e2 journeys featuring so many #MIEExpert educators.\nSo lovely and powerful, @LBayne.\n#MicrosoftEDU https://t.co/n03SGOHIkg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "E2",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "road2e2",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						209,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LBayne",
+					"name": "Lindsay Bayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						200,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n03SGOHIkg",
+					"expanded_url": "https://twitter.com/lbayne/status/1113103419881984007",
+					"display_url": "twitter.com/lbayne/status/…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central #E2",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20406,
+			"friends_count": 7438,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25302,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113103419881984000,
+		"quoted_status_id_str": "1113103419881984007",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n03SGOHIkg",
+			"expanded": "https://twitter.com/lbayne/status/1113103419881984007",
+			"display": "twitter.com/lbayne/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 02 15:38:30 +0000 2019",
+			"id": 1113103419881984000,
+			"id_str": "1113103419881984007",
+			"full_text": "Celebrating the end of an epic day with a 🌊 and Day 1 of  #E2  “Who’s New in #MicrosoftEDU” featuring incredible educators from all over the world including @THOMLYNN101 @MathieuNathali5 now live on Facebook: https://t.co/Qli3atfbln\n\n@sdelafosse @OneNoteC @TweetMeet https://t.co/HmW9skSZkD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "E2",
+						"indices": [
+							58,
+							61
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							77,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "THOMLYNN101",
+						"name": "Lynn Thomas 🇨🇦",
+						"id": 3248848295,
+						"id_str": "3248848295",
+						"indices": [
+							157,
+							169
+						]
+					},
+					{
+						"screen_name": "MathieuNathali5",
+						"name": "Nathalie Mathieu",
+						"id": 954059591536513000,
+						"id_str": "954059591536513024",
+						"indices": [
+							170,
+							186
+						]
+					},
+					{
+						"screen_name": "sdelafosse",
+						"name": "Sonja Delafosse",
+						"id": 111110878,
+						"id_str": "111110878",
+						"indices": [
+							234,
+							245
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central #E2",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							246,
+							255
+						]
+					},
+					{
+						"screen_name": "TweetMeet",
+						"name": "TweetMeet Central #MSFTEduChat #E2",
+						"id": 15665199,
+						"id_str": "15665199",
+						"indices": [
+							256,
+							266
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Qli3atfbln",
+						"expanded_url": "https://www.facebook.com/microsoftineducation/videos/330480867821273/",
+						"display_url": "facebook.com/microsoftinedu…",
+						"indices": [
+							209,
+							232
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1113103391021039600,
+						"id_str": "1113103391021039618",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113103391021039618/pu/img/oHPimLsfv88AY14U.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113103391021039618/pu/img/oHPimLsfv88AY14U.jpg",
+						"url": "https://t.co/HmW9skSZkD",
+						"display_url": "pic.twitter.com/HmW9skSZkD",
+						"expanded_url": "https://twitter.com/LBayne/status/1113103419881984007/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1113103391021039600,
+						"id_str": "1113103391021039618",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113103391021039618/pu/img/oHPimLsfv88AY14U.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113103391021039618/pu/img/oHPimLsfv88AY14U.jpg",
+						"url": "https://t.co/HmW9skSZkD",
+						"display_url": "pic.twitter.com/HmW9skSZkD",
+						"expanded_url": "https://twitter.com/LBayne/status/1113103419881984007/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 4067,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1113103391021039618/pu/pl/_0fZ2iuTJxw8smhU.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1113103391021039618/pu/vid/640x360/MeYkeCFOdXKFP-5q.mp4?tag=8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1113103391021039618/pu/vid/320x180/pDfz44hkGPpRDIdD.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1113103391021039618/pu/vid/1280x720/CsaAi3oECxsQxmoX.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18954505,
+				"id_str": "18954505",
+				"name": "Lindsay Bayne",
+				"screen_name": "LBayne",
+				"location": "Indiana, USA",
+				"description": "Triathlete, amateur artist, blind optimist, #EdTech Enthusiast on the #MicrosoftEdu team-- Follow  @MicrosoftEdu Excited to stream live from #BETT2019 Jan 22-26",
+				"url": "https://t.co/MF974Vc93K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MF974Vc93K",
+								"expanded_url": "http://EducationBlog.Microsoft.com",
+								"display_url": "EducationBlog.Microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2383,
+				"friends_count": 1434,
+				"listed_count": 170,
+				"created_at": "Tue Jan 13 21:34:28 +0000 2009",
+				"favourites_count": 6452,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5407,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1082215604084297728/Ghu3qMoM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082215604084297728/Ghu3qMoM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18954505/1473207396",
+				"profile_link_color": "5C2D91",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0952af9d5156c000",
+				"url": "https://api.twitter.com/1.1/geo/id/0952af9d5156c000.json",
+				"place_type": "poi",
+				"name": "Paris Marriott Rive Gauche Hotel & Conference Center",
+				"full_name": "Paris Marriott Rive Gauche Hotel & Conference Center",
+				"country_code": "FR",
+				"country": "France",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								2.33953,
+								48.83188
+							],
+							[
+								2.33953,
+								48.83188
+							],
+							[
+								2.33953,
+								48.83188
+							],
+							[
+								2.33953,
+								48.83188
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whoosh!\nMagnificent and addictive wave greetings from all of us at #E2 in Paris.\n\nDon’t miss the video compilation of #road2e2 journeys featuring so many #MIEExpert educators.\nSo lovely and powerful, @LBayne.\n#MicrosoftEDU https://t.co/n03SGOHIkg"
+	},
+	{
 		"created_at": "Tue Apr 02 12:11:39 +0000 2019",
 		"id": 1113051364245037000,
 		"id_str": "1113051364245037062",
