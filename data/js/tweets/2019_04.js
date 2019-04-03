@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 03 18:52:15 +0000 2019",
+		"id": 1113514567622066200,
+		"id_str": "1113514567622066176",
+		"full_text": "Caught on camera.\nHilarious #OneNoteAvenger award ceremony for Jornea Armant Erwin from Team @Flipgrid st #ET.\n\nCongratulations, @Savvy_Educator - looking forward to the amazing things you’ll create in #Microsoft #OneNote.\n\nWith @MTholfsen @annkozma723 @Jessxbo @AdamShortShorts https://t.co/q1xAisMOfp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNoteAvenger",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"text": "ET",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						202,
+						212
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						213,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"screen_name": "Savvy_Educator",
+					"name": "Jornea Armant Erwin",
+					"id": 1708895202,
+					"id_str": "1708895202",
+					"indices": [
+						129,
+						144
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						229,
+						239
+					]
+				},
+				{
+					"screen_name": "annkozma723",
+					"name": "Ann Kozma 📱🌎📖",
+					"id": 526629851,
+					"id_str": "526629851",
+					"indices": [
+						240,
+						252
+					]
+				},
+				{
+					"screen_name": "jessxbo",
+					"name": "Jess Boyce",
+					"id": 511231856,
+					"id_str": "511231856",
+					"indices": [
+						253,
+						261
+					]
+				},
+				{
+					"screen_name": "AdamShortShorts",
+					"name": "Adam Parker Goldberg",
+					"id": 905639635744940000,
+					"id_str": "905639635744940032",
+					"indices": [
+						262,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q1xAisMOfp",
+					"expanded_url": "https://twitter.com/flipgrid/status/1113505581619265537",
+					"display_url": "twitter.com/flipgrid/statu…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central #E2",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20421,
+			"friends_count": 7441,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25306,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113505581619265500,
+		"quoted_status_id_str": "1113505581619265537",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q1xAisMOfp",
+			"expanded": "https://twitter.com/flipgrid/status/1113505581619265537",
+			"display": "twitter.com/flipgrid/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 03 18:16:33 +0000 2019",
+			"id": 1113505581619265500,
+			"id_str": "1113505581619265537",
+			"full_text": "The @Savvy_Educator just got a little more 💎 SAVVY! \n\nOn Day 2 of #E2 Jornea has proven her 💪 expertise with @OneNoteEDU in...\n\n⏱ Saving time\n🗄 Keeping organized\n🌈 Collaborating globally\n\nAnd is now officially a #OneNoteAvenger 🦸🏾‍♀️\n\n#FlipgridFever 💚 https://t.co/5Hzs96rlf9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "E2",
+						"indices": [
+							66,
+							69
+						]
+					},
+					{
+						"text": "OneNoteAvenger",
+						"indices": [
+							212,
+							227
+						]
+					},
+					{
+						"text": "FlipgridFever",
+						"indices": [
+							235,
+							249
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Savvy_Educator",
+						"name": "Jornea Armant Erwin",
+						"id": 1708895202,
+						"id_str": "1708895202",
+						"indices": [
+							4,
+							19
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							109,
+							120
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1113505023231701000,
+						"id_str": "1113505023231700994",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113505023231700994/pu/img/2PPMH1YqJX-emTOJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113505023231700994/pu/img/2PPMH1YqJX-emTOJ.jpg",
+						"url": "https://t.co/5Hzs96rlf9",
+						"display_url": "pic.twitter.com/5Hzs96rlf9",
+						"expanded_url": "https://twitter.com/Flipgrid/status/1113505581619265537/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1113505023231701000,
+						"id_str": "1113505023231700994",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113505023231700994/pu/img/2PPMH1YqJX-emTOJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113505023231700994/pu/img/2PPMH1YqJX-emTOJ.jpg",
+						"url": "https://t.co/5Hzs96rlf9",
+						"display_url": "pic.twitter.com/5Hzs96rlf9",
+						"expanded_url": "https://twitter.com/Flipgrid/status/1113505581619265537/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 53915,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1113505023231700994/pu/vid/320x180/IC_2PwlxB6uW4ddb.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1113505023231700994/pu/pl/jEoUd5JgXPahNtDN.m3u8?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1113505023231700994/pu/vid/1280x720/phW33ha1BNbv3xIN.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1113505023231700994/pu/vid/640x360/KemNgSlqkvyHbMDb.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630608702,
+				"id_str": "630608702",
+				"name": "Flipgrid",
+				"screen_name": "Flipgrid",
+				"location": "Minneapolis",
+				"description": "Empower every voice 💚 Social learning for millions of PreK to PhD educators, students + families across 180 countries 🚀 #FlipgridFever",
+				"url": "https://t.co/L1gEiVeJIk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L1gEiVeJIk",
+								"expanded_url": "http://www.flipgrid.com",
+								"display_url": "flipgrid.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72721,
+				"friends_count": 13920,
+				"listed_count": 643,
+				"created_at": "Sun Jul 08 23:31:43 +0000 2012",
+				"favourites_count": 304927,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 122092,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "292929",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092886169203834880/VT78A6cq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092886169203834880/VT78A6cq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630608702/1548520133",
+				"profile_link_color": "129441",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "09f6a7707f18e0b1",
+				"url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json",
+				"place_type": "city",
+				"name": "Paris",
+				"full_name": "Paris, France",
+				"country_code": "FR",
+				"country": "France",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								2.2241006,
+								48.8155214
+							],
+							[
+								2.4699053,
+								48.8155214
+							],
+							[
+								2.4699053,
+								48.9021461
+							],
+							[
+								2.2241006,
+								48.9021461
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Caught on camera.\nHilarious #OneNoteAvenger award ceremony for Jornea Armant Erwin from Team @Flipgrid st #ET.\n\nCongratulations, @Savvy_Educator - looking forward to the amazing things you’ll create in #Microsoft #OneNote.\n\nWith @MTholfsen @annkozma723 @Jessxbo @AdamShortShorts https://t.co/q1xAisMOfp"
+	},
+	{
 		"created_at": "Wed Apr 03 14:14:55 +0000 2019",
 		"id": 1113444772977487900,
 		"id_str": "1113444772977487872",
