@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 22:03:48 +0000 2019",
+		"id": 1113770703755665400,
+		"id_str": "1113925158199230465",
+		"full_text": "I have seen many things at #E2 but I have to admit that this may be one of the most #Onederful\n\nI entered the \"Circle of Trust\" ⭕ wearing the \"Cone of Silence 🚀\n\nAmazing things coming with #OneNote\n\n#MIEExpert #MicrosoftEDU #e22019\n\n🚀🦄🌈 https://t.co/SypKUsTuYV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "E2",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "Onederful",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						189,
+						197
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						210,
+						223
+					]
+				},
+				{
+					"text": "e22019",
+					"indices": [
+						224,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113770677482471400,
+					"id_str": "1113770677482471424",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Toh7iWwAA2amw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Toh7iWwAA2amw.jpg",
+					"url": "https://t.co/SypKUsTuYV",
+					"display_url": "pic.twitter.com/SypKUsTuYV",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1113770703755665409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113770677482471400,
+					"id_str": "1113770677482471424",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/D3Toh7iWwAA2amw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3Toh7iWwAA2amw.jpg",
+					"url": "https://t.co/SypKUsTuYV",
+					"display_url": "pic.twitter.com/SypKUsTuYV",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1113770703755665409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 759,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705409101220675600,
+			"id_str": "705409101220675584",
+			"name": "Stephen Eustace",
+			"screen_name": "eustace_stephen",
+			"location": "Ireland",
+			"description": "Teacher of Math 🎲, ICT 💻 & Business, Assistant Principal 💼 #STEM #SurfaceExpert #MIEFellow #Onederful #FlipGridFever #MicrosoftEDU #MinecraftEDU 🦄🚀",
+			"url": "https://t.co/zHTbFylUH9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zHTbFylUH9",
+							"expanded_url": "http://www.onederful.eu",
+							"display_url": "onederful.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14149,
+			"friends_count": 14592,
+			"listed_count": 150,
+			"created_at": "Thu Mar 03 15:06:50 +0000 2016",
+			"favourites_count": 12897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8693,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089514071504883712/zgevcdma_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089514071504883712/zgevcdma_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705409101220675584/1548619203",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have seen many things at #E2 but I have to admit that this may be one of the most #Onederful\n\nI entered the \"Circle of Trust\" ⭕ wearing the \"Cone of Silence 🚀\n\nAmazing things coming with #OneNote\n\n#MIEExpert #MicrosoftEDU #e22019\n\n🚀🦄🌈 https://t.co/SypKUsTuYV"
+	},
+	{
 		"created_at": "Thu Apr 04 08:34:51 +0000 2019",
 		"id": 1113719964991742000,
 		"id_str": "1113721578901200897",
