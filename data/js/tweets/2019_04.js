@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 04 08:34:51 +0000 2019",
+		"id": 1113719964991742000,
+		"id_str": "1113721578901200897",
+		"full_text": "Soaring to new heights 🌏 #OneNote Avenger (@NewsFromNew) scales the Sistine Chapel 🇮🇹 \n\nThis stunning masterpiece done by @andyperryer #TheEnglishDaVinci #TheEnglishMichelangelo\n\n#E2 #MIEExpert #MicrosoftEDU https://t.co/nPYfUaKnoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "TheEnglishDaVinci",
+					"indices": [
+						135,
+						153
+					]
+				},
+				{
+					"text": "TheEnglishMichelangelo",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"text": "E2",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						194,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewsFromNew",
+					"name": "Repton New House",
+					"id": 972545155,
+					"id_str": "972545155",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "andyperryer",
+					"name": "Andy Perryer",
+					"id": 18356501,
+					"id_str": "18356501",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113719959841013800,
+					"id_str": "1113719959841013760",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D3S6ZxmWAAANA1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3S6ZxmWAAANA1s.jpg",
+					"url": "https://t.co/nPYfUaKnoU",
+					"display_url": "pic.twitter.com/nPYfUaKnoU",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1113719964991741953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 630,
+							"h": 301,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 630,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 301,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113719959841013800,
+					"id_str": "1113719959841013760",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D3S6ZxmWAAANA1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3S6ZxmWAAANA1s.jpg",
+					"url": "https://t.co/nPYfUaKnoU",
+					"display_url": "pic.twitter.com/nPYfUaKnoU",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1113719964991741953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 630,
+							"h": 301,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 630,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 301,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #E2 #Road2E2 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17332,
+			"friends_count": 3164,
+			"listed_count": 714,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 58751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28004,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Soaring to new heights 🌏 #OneNote Avenger (@NewsFromNew) scales the Sistine Chapel 🇮🇹 \n\nThis stunning masterpiece done by @andyperryer #TheEnglishDaVinci #TheEnglishMichelangelo\n\n#E2 #MIEExpert #MicrosoftEDU https://t.co/nPYfUaKnoU"
+	},
+	{
 		"created_at": "Wed Apr 03 18:52:15 +0000 2019",
 		"id": 1113514567622066200,
 		"id_str": "1113514567622066176",
@@ -199,7 +437,7 @@ Grailbird.data.tweets_2019_04 =
 			"created_at": "Wed Apr 03 18:16:33 +0000 2019",
 			"id": 1113505581619265500,
 			"id_str": "1113505581619265537",
-			"full_text": "The @Savvy_Educator just got a little more 💎 SAVVY! \n\nOn Day 2 of #E2 Jornea has proven her 💪 expertise with @OneNoteEDU in...\n\n⏱ Saving time\n🗄 Keeping organized\n🌈 Collaborating globally\n\nAnd is now officially a #OneNoteAvenger 🦸🏾‍♀️\n\n#FlipgridFever 💚 https://t.co/5Hzs96rlf9",
+			"full_text": "The @Savvy_Educator just got a little more 💎 SAVVY! \n\nOn Day 2 of #E2 Jornea has proven her 💪 expertise with @OneNoteEDU in...\n\n⏱ Saving time\n🗄 Keeping organized\n🌈 Collaborating globally\n\nAnd is now officially a #OneNoteAvenger 🦸🏾♀️\n\n#FlipgridFever 💚 https://t.co/5Hzs96rlf9",
 			"truncated": false,
 			"display_text_range": [
 				0,
