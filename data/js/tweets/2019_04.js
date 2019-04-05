@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 18:16:53 +0000 2019",
+		"id": 1114230441748377600,
+		"id_str": "1114230441748377600",
+		"full_text": "Are your tweets on the #E2 Twitter wall too?\nSo nice when #E22019 Paris 🗼attendees discover the new, dynamic and interactive TweetBeam.\n\nTry it out yourself here and post a screenshot from your own tweets:\nhttps://t.co/T7x80Vzwqs\n#MicrosoftEDU\n\nGlad you like it, @CatDourmousi! https://t.co/NYKpATKncf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "E2",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "E22019",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						230,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatDourmousi",
+					"name": "Catherine Dourmousi",
+					"id": 898526215576965100,
+					"id_str": "898526215576965120",
+					"indices": [
+						263,
+						276
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T7x80Vzwqs",
+					"expanded_url": "https://twt.mt/E2-2019-TweetBeam",
+					"display_url": "twt.mt/E2-2019-TweetB…",
+					"indices": [
+						206,
+						229
+					]
+				},
+				{
+					"url": "https://t.co/NYKpATKncf",
+					"expanded_url": "https://twitter.com/CatDourmousi/status/1114228051695550465",
+					"display_url": "twitter.com/CatDourmousi/s…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20454,
+			"friends_count": 7455,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114228051695550500,
+		"quoted_status_id_str": "1114228051695550465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NYKpATKncf",
+			"expanded": "https://twitter.com/CatDourmousi/status/1114228051695550465",
+			"display": "twitter.com/CatDourmousi/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 05 18:07:23 +0000 2019",
+			"id": 1114228051695550500,
+			"id_str": "1114228051695550465",
+			"full_text": "Fantastic to read all those powerful messages from #E2 on TweetBeam! Surprised to see myself there too!\n 🤩 🤩 🤩 https://t.co/YvlUm82nuU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "E2",
+						"indices": [
+							51,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1114228036264759300,
+						"id_str": "1114228036264759298",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/D3aIftxXkAIqJ-4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3aIftxXkAIqJ-4.jpg",
+						"url": "https://t.co/YvlUm82nuU",
+						"display_url": "pic.twitter.com/YvlUm82nuU",
+						"expanded_url": "https://twitter.com/CatDourmousi/status/1114228051695550465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1151,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114228036264759300,
+						"id_str": "1114228036264759298",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/D3aIftxXkAIqJ-4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3aIftxXkAIqJ-4.jpg",
+						"url": "https://t.co/YvlUm82nuU",
+						"display_url": "pic.twitter.com/YvlUm82nuU",
+						"expanded_url": "https://twitter.com/CatDourmousi/status/1114228051695550465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1151,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 898526215576965100,
+				"id_str": "898526215576965120",
+				"name": "Catherine Dourmousi",
+				"screen_name": "CatDourmousi",
+				"location": "Athens Greece",
+				"description": "EFL teacher. St. Michael's College, VT, USA. Mother, Educator, Traveller, Yoga lover #MIEExpert #E22019\n Microsoft Certified Educator",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 304,
+				"friends_count": 636,
+				"listed_count": 6,
+				"created_at": "Fri Aug 18 12:45:18 +0000 2017",
+				"favourites_count": 944,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 507,
+				"lang": "el",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1076485823867043840/fNwYlJe8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076485823867043840/fNwYlJe8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/898526215576965120/1554471324",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are your tweets on the #E2 Twitter wall too?\nSo nice when #E22019 Paris 🗼attendees discover the new, dynamic and interactive TweetBeam.\n\nTry it out yourself here and post a screenshot from your own tweets:\nhttps://t.co/T7x80Vzwqs\n#MicrosoftEDU\n\nGlad you like it, @CatDourmousi! https://t.co/NYKpATKncf"
+	},
+	{
 		"created_at": "Fri Apr 05 16:19:12 +0000 2019",
 		"id": 1114168494826893300,
 		"id_str": "1114200824522125313",
