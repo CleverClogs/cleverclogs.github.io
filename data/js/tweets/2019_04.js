@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 18:47:25 +0000 2019",
+		"id": 1114238128246726700,
+		"id_str": "1114238128246726656",
+		"full_text": "#OneNote and #Flipgrid are among #E2 Paris 🗼attendees' favorite tools.\nNo wonder: help from #OneNoteAvengers is always around the corner!\n\nYet another hilarious, impromptu #FlipgridFever video from the event, featuring @AnnKozma723 and @MTholfsen\n#MIEExpert #MicrosoftEDU #E22019 https://t.co/SdMGv4XlC2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Flipgrid",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "E2",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "OneNoteAvengers",
+					"indices": [
+						92,
+						108
+					]
+				},
+				{
+					"text": "FlipgridFever",
+					"indices": [
+						172,
+						186
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						247,
+						257
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						258,
+						271
+					]
+				},
+				{
+					"text": "E22019",
+					"indices": [
+						272,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annkozma723",
+					"name": "Ann Kozma 📱🌎📖",
+					"id": 526629851,
+					"id_str": "526629851",
+					"indices": [
+						219,
+						231
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						236,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SdMGv4XlC2",
+					"expanded_url": "https://twitter.com/Flipgrid/status/1113819198654955523",
+					"display_url": "twitter.com/Flipgrid/statu…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20454,
+			"friends_count": 7455,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25314,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113819198654955500,
+		"quoted_status_id_str": "1113819198654955523",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SdMGv4XlC2",
+			"expanded": "https://twitter.com/Flipgrid/status/1113819198654955523",
+			"display": "twitter.com/Flipgrid/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 04 15:02:45 +0000 2019",
+			"id": 1113819198654955500,
+			"id_str": "1113819198654955523",
+			"full_text": "🌃 When disorganization, miscommunication, and chronological chaos overwhelm...\n\nThe 🦸‍♀️ #OneNoteAvengers 🦸‍♂️ rise to the occasion!\n\n☎️ Tag the #EduHeroes who support and empower YOU!\n\n#FlipgridFever 💚\n#E2 🇫🇷 https://t.co/X2NjzbXQ1A",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNoteAvengers",
+						"indices": [
+							89,
+							105
+						]
+					},
+					{
+						"text": "EduHeroes",
+						"indices": [
+							145,
+							155
+						]
+					},
+					{
+						"text": "FlipgridFever",
+						"indices": [
+							186,
+							200
+						]
+					},
+					{
+						"text": "E2",
+						"indices": [
+							203,
+							206
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1113819027015708700,
+						"id_str": "1113819027015708672",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113819027015708672/pu/img/FWs8OprTiGvQOjtm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113819027015708672/pu/img/FWs8OprTiGvQOjtm.jpg",
+						"url": "https://t.co/X2NjzbXQ1A",
+						"display_url": "pic.twitter.com/X2NjzbXQ1A",
+						"expanded_url": "https://twitter.com/Flipgrid/status/1113819198654955523/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1113819027015708700,
+						"id_str": "1113819027015708672",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1113819027015708672/pu/img/FWs8OprTiGvQOjtm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1113819027015708672/pu/img/FWs8OprTiGvQOjtm.jpg",
+						"url": "https://t.co/X2NjzbXQ1A",
+						"display_url": "pic.twitter.com/X2NjzbXQ1A",
+						"expanded_url": "https://twitter.com/Flipgrid/status/1113819198654955523/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 65065,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1113819027015708672/pu/pl/GoOSBIquBgKeDr1i.m3u8?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1113819027015708672/pu/vid/1280x720/sRfDgSl1pfvmGNMn.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1113819027015708672/pu/vid/640x360/2018Ii5r8kJYcgzS.mp4?tag=8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1113819027015708672/pu/vid/320x180/zC1zQNsErW0x2qaj.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630608702,
+				"id_str": "630608702",
+				"name": "Flipgrid",
+				"screen_name": "Flipgrid",
+				"location": "Minneapolis",
+				"description": "Empower every voice 💚 Social learning for millions of PreK to PhD educators, students + families across 180 countries 🚀 #FlipgridFever",
+				"url": "https://t.co/L1gEiVeJIk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L1gEiVeJIk",
+								"expanded_url": "http://www.flipgrid.com",
+								"display_url": "flipgrid.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72924,
+				"friends_count": 13932,
+				"listed_count": 643,
+				"created_at": "Sun Jul 08 23:31:43 +0000 2012",
+				"favourites_count": 305668,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 122386,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "292929",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1092886169203834880/VT78A6cq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092886169203834880/VT78A6cq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630608702/1548520133",
+				"profile_link_color": "129441",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "09f6a7707f18e0b1",
+				"url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json",
+				"place_type": "city",
+				"name": "Paris",
+				"full_name": "Paris, France",
+				"country_code": "FR",
+				"country": "France",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								2.2241006,
+								48.8155214
+							],
+							[
+								2.4699053,
+								48.8155214
+							],
+							[
+								2.4699053,
+								48.9021461
+							],
+							[
+								2.2241006,
+								48.9021461
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 109,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OneNote and #Flipgrid are among #E2 Paris 🗼attendees' favorite tools.\nNo wonder: help from #OneNoteAvengers is always around the corner!\n\nYet another hilarious, impromptu #FlipgridFever video from the event, featuring @AnnKozma723 and @MTholfsen\n#MIEExpert #MicrosoftEDU #E22019 https://t.co/SdMGv4XlC2"
+	},
+	{
 		"created_at": "Fri Apr 05 18:16:53 +0000 2019",
 		"id": 1114230441748377600,
 		"id_str": "1114230441748377600",
