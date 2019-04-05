@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 20:12:34 +0000 2019",
+		"id": 1114259553917571100,
+		"id_str": "1114259553917571072",
+		"full_text": "Congratulations to #OneNote and #Flipgrid expert Kathi Kersznowski for accepting a new job at @i2eEDU.\n\nLooking forward very much to what you'll be learning and teaching to others, @kerszi. Best of luck in this new chapter in your life. \n#MIEExpert #MicrosoftEDU https://t.co/FL1FIDl1Tz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "Flipgrid",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						238,
+						248
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						249,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "i2eEDU",
+					"name": "insight2execution",
+					"id": 3971674694,
+					"id_str": "3971674694",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"screen_name": "kerszi",
+					"name": "Kathi Kersznowski",
+					"id": 595079922,
+					"id_str": "595079922",
+					"indices": [
+						181,
+						188
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FL1FIDl1Tz",
+					"expanded_url": "https://twitter.com/kerszi/status/1113577977567166464",
+					"display_url": "twitter.com/kerszi/status/…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20456,
+			"friends_count": 7455,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25315,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113577977567166500,
+		"quoted_status_id_str": "1113577977567166464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FL1FIDl1Tz",
+			"expanded": "https://twitter.com/kerszi/status/1113577977567166464",
+			"display": "twitter.com/kerszi/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 03 23:04:13 +0000 2019",
+			"id": 1113577977567166500,
+			"id_str": "1113577977567166464",
+			"full_text": "I’m really excited and proud to announce that I have joined the Insight2Execution team as a professional learning specialist!  I get to work at what I truly love...teaching educators &amp; organizations about the wonderful things they can achieve with Microsoft Education! 🌟 #i2e https://t.co/dhbpRSw1uD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "i2e",
+						"indices": [
+							275,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1113577973783855100,
+						"id_str": "1113577973783855106",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/D3Q5RGUWAAIikmv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3Q5RGUWAAIikmv.jpg",
+						"url": "https://t.co/dhbpRSw1uD",
+						"display_url": "pic.twitter.com/dhbpRSw1uD",
+						"expanded_url": "https://twitter.com/kerszi/status/1113577977567166464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 663,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 686,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1113577973783855100,
+						"id_str": "1113577973783855106",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/D3Q5RGUWAAIikmv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3Q5RGUWAAIikmv.jpg",
+						"url": "https://t.co/dhbpRSw1uD",
+						"display_url": "pic.twitter.com/dhbpRSw1uD",
+						"expanded_url": "https://twitter.com/kerszi/status/1113577977567166464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 663,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 686,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595079922,
+				"id_str": "595079922",
+				"name": "Kathi Kersznowski",
+				"screen_name": "kerszi",
+				"location": "New Jersey, USA",
+				"description": "TechIntegration Expert, Global Presenter, Keynote Speaker, MIEExpert, Empatico, Flipgrid, #LearningInTheLoo & #Fliphunt creator, #GlobalGoalsSchools, #TeachSDGs",
+				"url": "https://t.co/F3EubyVGqy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F3EubyVGqy",
+								"expanded_url": "http://kerszi.wordpress.com/",
+								"display_url": "kerszi.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11968,
+				"friends_count": 8438,
+				"listed_count": 620,
+				"created_at": "Wed May 30 23:31:13 +0000 2012",
+				"favourites_count": 36476,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26293,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1109051636209471493/5tkEX1Wq_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109051636209471493/5tkEX1Wq_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595079922/1552876844",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 147,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to #OneNote and #Flipgrid expert Kathi Kersznowski for accepting a new job at @i2eEDU.\n\nLooking forward very much to what you'll be learning and teaching to others, @kerszi. Best of luck in this new chapter in your life. \n#MIEExpert #MicrosoftEDU https://t.co/FL1FIDl1Tz"
+	},
+	{
 		"created_at": "Fri Apr 05 18:47:25 +0000 2019",
 		"id": 1114238128246726700,
 		"id_str": "1114238128246726656",
@@ -187,7 +531,7 @@ Grailbird.data.tweets_2019_04 =
 			"created_at": "Thu Apr 04 15:02:45 +0000 2019",
 			"id": 1113819198654955500,
 			"id_str": "1113819198654955523",
-			"full_text": "🌃 When disorganization, miscommunication, and chronological chaos overwhelm...\n\nThe 🦸‍♀️ #OneNoteAvengers 🦸‍♂️ rise to the occasion!\n\n☎️ Tag the #EduHeroes who support and empower YOU!\n\n#FlipgridFever 💚\n#E2 🇫🇷 https://t.co/X2NjzbXQ1A",
+			"full_text": "🌃 When disorganization, miscommunication, and chronological chaos overwhelm...\n\nThe 🦸♀️ #OneNoteAvengers 🦸♂️ rise to the occasion!\n\n☎️ Tag the #EduHeroes who support and empower YOU!\n\n#FlipgridFever 💚\n#E2 🇫🇷 https://t.co/X2NjzbXQ1A",
 			"truncated": false,
 			"display_text_range": [
 				0,
