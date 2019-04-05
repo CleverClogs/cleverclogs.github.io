@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 13:41:51 +0000 2019",
+		"id": 1114161229159915500,
+		"id_str": "1114161229159915520",
+		"full_text": "With an incredible eye for visual and esthetic detail, Marija’s comprehensive, multi-part #OneNote Course is a true treasure trove – and it’s free for all.\n\nThe pleasure’s been all mine, @TeacherMarija.\n#MicrosoftEDU https://t.co/Iwfc2tbMUX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						203,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teachermarija",
+					"name": "Marija Petreska",
+					"id": 521427482,
+					"id_str": "521427482",
+					"indices": [
+						187,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Iwfc2tbMUX",
+					"expanded_url": "https://twitter.com/teachermarija/status/1114157993598255110",
+					"display_url": "twitter.com/teachermarija/…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20452,
+			"friends_count": 7451,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25310,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114157993598255100,
+		"quoted_status_id_str": "1114157993598255110",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Iwfc2tbMUX",
+			"expanded": "https://twitter.com/teachermarija/status/1114157993598255110",
+			"display": "twitter.com/teachermarija/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 05 13:29:00 +0000 2019",
+			"id": 1114157993598255100,
+			"id_str": "1114157993598255110",
+			"full_text": "💭🧠I'm so grateful 🙏🏻to @OneNoteC for supporting this💎 to be public and accessible to all educators 💡\n\n🎉If you still haven't checked out the https://t.co/AzztOqfddN make sure you do \n\n#onenote #onenoteedu #mieexpert #microsoftedu #edtech #edapps https://t.co/8z2EmgfvuS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "onenote",
+						"indices": [
+							183,
+							191
+						]
+					},
+					{
+						"text": "onenoteedu",
+						"indices": [
+							192,
+							203
+						]
+					},
+					{
+						"text": "mieexpert",
+						"indices": [
+							204,
+							214
+						]
+					},
+					{
+						"text": "microsoftedu",
+						"indices": [
+							215,
+							228
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							229,
+							236
+						]
+					},
+					{
+						"text": "edapps",
+						"indices": [
+							237,
+							244
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							23,
+							32
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AzztOqfddN",
+						"expanded_url": "http://bit.ly/OneNoteCourse",
+						"display_url": "bit.ly/OneNoteCourse",
+						"indices": [
+							140,
+							163
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1114157859808383000,
+						"id_str": "1114157859808382976",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/D3ZIq6GWkAAnq3U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3ZIq6GWkAAnq3U.jpg",
+						"url": "https://t.co/8z2EmgfvuS",
+						"display_url": "pic.twitter.com/8z2EmgfvuS",
+						"expanded_url": "https://twitter.com/teachermarija/status/1114157993598255110/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 815,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1588,
+								"h": 1079,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114157859808383000,
+						"id_str": "1114157859808382976",
+						"indices": [
+							245,
+							268
+						],
+						"media_url": "http://pbs.twimg.com/media/D3ZIq6GWkAAnq3U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3ZIq6GWkAAnq3U.jpg",
+						"url": "https://t.co/8z2EmgfvuS",
+						"display_url": "pic.twitter.com/8z2EmgfvuS",
+						"expanded_url": "https://twitter.com/teachermarija/status/1114157993598255110/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 815,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1588,
+								"h": 1079,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 521427482,
+				"id_str": "521427482",
+				"name": "Marija Petreska",
+				"screen_name": "teachermarija",
+				"location": "Macedonia",
+				"description": "English language teacher, MIE Fellow,  @ImmersiveMinds Associate",
+				"url": "https://t.co/546CoXQHMo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/546CoXQHMo",
+								"expanded_url": "https://about.me/petreskamarija",
+								"display_url": "about.me/petreskamarija",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3407,
+				"friends_count": 738,
+				"listed_count": 546,
+				"created_at": "Sun Mar 11 15:48:42 +0000 2012",
+				"favourites_count": 8078,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 71210,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1090888767081205760/Kuzs6mSi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090888767081205760/Kuzs6mSi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/521427482/1549969195",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With an incredible eye for visual and esthetic detail, Marija’s comprehensive, multi-part #OneNote Course is a true treasure trove – and it’s free for all.\n\nThe pleasure’s been all mine, @TeacherMarija.\n#MicrosoftEDU https://t.co/Iwfc2tbMUX"
+	},
+	{
 		"created_at": "Fri Apr 05 06:24:40 +0000 2019",
 		"id": 1114051207604199400,
 		"id_str": "1114051207604199424",
@@ -161,7 +537,7 @@ Grailbird.data.tweets_2019_04 =
 			"created_at": "Thu Apr 04 13:16:18 +0000 2019",
 			"id": 1113792411283722200,
 			"id_str": "1113792411283722242",
-			"full_text": "Inspired by @mtholfsen 🦸‍♂️ @jimmyfallon + the collaborative, organizational, and time management 💜 powers of @OneNoteEDU, we’re proud to drop our 🦸‍♀️ #OneNoteAvenger 🎶 #E2 a cappella rendition!\n\nFt. @mmarioherraez and @alberto_hrv\n\n#FlipgridFever 💚 #MicrosoftEdu https://t.co/yyqqty3Ufn",
+			"full_text": "Inspired by @mtholfsen 🦸♂️ @jimmyfallon + the collaborative, organizational, and time management 💜 powers of @OneNoteEDU, we’re proud to drop our 🦸♀️ #OneNoteAvenger 🎶 #E2 a cappella rendition!\n\nFt. @mmarioherraez and @alberto_hrv\n\n#FlipgridFever 💚 #MicrosoftEdu https://t.co/yyqqty3Ufn",
 			"truncated": false,
 			"display_text_range": [
 				0,
