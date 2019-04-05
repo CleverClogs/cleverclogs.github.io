@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 16:19:12 +0000 2019",
+		"id": 1114168494826893300,
+		"id_str": "1114200824522125313",
+		"full_text": "Here’s to the #TheHumanMeme of the week at #E2, #OneNote Avenger @NewsFromNew and the artist 🎨, @andyturner32 🇬🇧 \n\nThanks for the collage, @TinaLEJones \n\n#MicrosoftEDU https://t.co/V2FX3Gnv18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheHumanMeme",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"text": "E2",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						154,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewsFromNew",
+					"name": "Repton New House",
+					"id": 972545155,
+					"id_str": "972545155",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"screen_name": "andyturner32",
+					"name": "Andy Turner",
+					"id": 1558945915,
+					"id_str": "1558945915",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"screen_name": "TinaLEJones",
+					"name": "Tina Jones",
+					"id": 2786877863,
+					"id_str": "2786877863",
+					"indices": [
+						139,
+						151
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114168481346478100,
+					"id_str": "1114168481346478081",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ZSVKaX4AEqWOO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ZSVKaX4AEqWOO.jpg",
+					"url": "https://t.co/V2FX3Gnv18",
+					"display_url": "pic.twitter.com/V2FX3Gnv18",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1114168494826893312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114168481346478100,
+					"id_str": "1114168481346478081",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ZSVKaX4AEqWOO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ZSVKaX4AEqWOO.jpg",
+					"url": "https://t.co/V2FX3Gnv18",
+					"display_url": "pic.twitter.com/V2FX3Gnv18",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1114168494826893312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #E2 #Road2E2 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17364,
+			"friends_count": 3168,
+			"listed_count": 715,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 58986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s to the #TheHumanMeme of the week at #E2, #OneNote Avenger @NewsFromNew and the artist 🎨, @andyturner32 🇬🇧 \n\nThanks for the collage, @TinaLEJones \n\n#MicrosoftEDU https://t.co/V2FX3Gnv18"
+	},
+	{
 		"created_at": "Fri Apr 05 13:41:51 +0000 2019",
 		"id": 1114161229159915500,
 		"id_str": "1114161229159915520",
