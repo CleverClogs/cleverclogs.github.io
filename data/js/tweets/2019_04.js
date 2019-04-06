@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 00:11:31 +0000 2019",
+		"id": 1114319686869684200,
+		"id_str": "1114319686869684225",
+		"full_text": "So nice to receive post-#E2 endorsements...\nThank you, James Wilton - and good luck with your new Twitter account @JDWEdTech. \n\nSurely @MTholfsen will want to announce the new Twitter account of fantastic #OneNoteAvenger @NewsFromNew.\n\n#E2 Paris 🗼 #E22019 #OneNote #MicrosoftEDU https://t.co/JyHum1jCEH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "E2",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "OneNoteAvenger",
+					"indices": [
+						205,
+						220
+					]
+				},
+				{
+					"text": "E2",
+					"indices": [
+						236,
+						239
+					]
+				},
+				{
+					"text": "E22019",
+					"indices": [
+						248,
+						255
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						256,
+						264
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						265,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JDWEdTech",
+					"name": "James Wilton",
+					"id": 1114148359269441500,
+					"id_str": "1114148359269441538",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"screen_name": "NewsFromNew",
+					"name": "Repton New House",
+					"id": 972545155,
+					"id_str": "972545155",
+					"indices": [
+						221,
+						233
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JyHum1jCEH",
+					"expanded_url": "https://twitter.com/JDWEdTech/status/1114317060014772224",
+					"display_url": "twitter.com/JDWEdTech/stat…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20464,
+			"friends_count": 7458,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25316,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114317060014772200,
+		"quoted_status_id_str": "1114317060014772224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JyHum1jCEH",
+			"expanded": "https://twitter.com/JDWEdTech/status/1114317060014772224",
+			"display": "twitter.com/JDWEdTech/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 06 00:01:04 +0000 2019",
+			"id": 1114317060014772200,
+			"id_str": "1114317060014772224",
+			"full_text": "After a life-changing, life-affirming experience at #E22019 with all the extraordinary folk @MicrosoftEDU, time for a fresh new Twitter handle dedicated to #EdTech #Teaching adventures 🎓🙌 🖥 especially  @OneNoteC @MicrosoftTeams https://t.co/mF54neyoLM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "E22019",
+						"indices": [
+							52,
+							59
+						]
+					},
+					{
+						"text": "EdTech",
+						"indices": [
+							156,
+							163
+						]
+					},
+					{
+						"text": "Teaching",
+						"indices": [
+							164,
+							173
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							92,
+							105
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							202,
+							211
+						]
+					},
+					{
+						"screen_name": "MicrosoftTeams",
+						"name": "Microsoft Teams",
+						"id": 817461289081409500,
+						"id_str": "817461289081409536",
+						"indices": [
+							212,
+							227
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1114317052926406700,
+						"id_str": "1114317052926406658",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/D3bZdKrWsAIBQeS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3bZdKrWsAIBQeS.jpg",
+						"url": "https://t.co/mF54neyoLM",
+						"display_url": "pic.twitter.com/mF54neyoLM",
+						"expanded_url": "https://twitter.com/JDWEdTech/status/1114317060014772224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 821,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1402,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 466,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114317052926406700,
+						"id_str": "1114317052926406658",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/media/D3bZdKrWsAIBQeS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3bZdKrWsAIBQeS.jpg",
+						"url": "https://t.co/mF54neyoLM",
+						"display_url": "pic.twitter.com/mF54neyoLM",
+						"expanded_url": "https://twitter.com/JDWEdTech/status/1114317060014772224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 821,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1402,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 466,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1114148359269441500,
+				"id_str": "1114148359269441538",
+				"name": "James Wilton",
+				"screen_name": "JDWEdTech",
+				"location": "Repton, England",
+				"description": "#EnglishTeacher, ex-HoD and current #Housemaster - #MicrosoftEDU #MIEExpert #MCE loving #EdTech to buy back time for the most important stuff #OneNote #Learning",
+				"url": "https://t.co/43YShgS6lu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/43YShgS6lu",
+								"expanded_url": "https://www.twitter.com/newsfromnew",
+								"display_url": "twitter.com/newsfromnew",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4,
+				"friends_count": 2,
+				"listed_count": 3,
+				"created_at": "Fri Apr 05 12:50:43 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114148595169677312/H3ME2tz0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114148595169677312/H3ME2tz0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114148359269441538/1554469091",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So nice to receive post-#E2 endorsements...\nThank you, James Wilton - and good luck with your new Twitter account @JDWEdTech. \n\nSurely @MTholfsen will want to announce the new Twitter account of fantastic #OneNoteAvenger @NewsFromNew.\n\n#E2 Paris 🗼 #E22019 #OneNote #MicrosoftEDU https://t.co/JyHum1jCEH"
+	},
+	{
 		"created_at": "Fri Apr 05 20:12:34 +0000 2019",
 		"id": 1114259553917571100,
 		"id_str": "1114259553917571072",
