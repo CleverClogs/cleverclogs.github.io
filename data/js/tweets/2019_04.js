@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 13:46:23 +0000 2019",
+		"id": 1114887143128739800,
+		"id_str": "1114887143128739842",
+		"full_text": "Teaching Happiness appeals to many educators around the world every single day.\n\nCheck the new TweetMeet Invitation #Sway below, introducing the topic and the hosts of the #MSFTEduChat of Tuesday, April 16.\n\nYour promotion much appreciated.\n#MicrosoftEDU #SEL #TeachingHappiness https://t.co/kQ8Xk0cdau",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sway",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						241,
+						254
+					]
+				},
+				{
+					"text": "SEL",
+					"indices": [
+						255,
+						259
+					]
+				},
+				{
+					"text": "TeachingHappiness",
+					"indices": [
+						260,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kQ8Xk0cdau",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1114292284047204354",
+					"display_url": "twitter.com/TweetMeet/stat…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20479,
+			"friends_count": 7463,
+			"listed_count": 606,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114292284047204400,
+		"quoted_status_id_str": "1114292284047204354",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kQ8Xk0cdau",
+			"expanded": "https://twitter.com/TweetMeet/status/1114292284047204354",
+			"display": "twitter.com/TweetMeet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 05 22:22:37 +0000 2019",
+			"id": 1114292284047204400,
+			"id_str": "1114292284047204354",
+			"full_text": "📢 Just in: new TweetMeet Invitation #Sway for the next #MSFTEduChat.\nJoin the 15 hosts below to discuss #TeachingHappiness and social-emotional learning.\n\nEvent date: Tuesday, April 16\nhttps://t.co/gK6XpXubbR\n\nPlease share in a retweet why this interests you.\n#MicrosoftEDU #SEL https://t.co/bsASEnEyJ2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Sway",
+						"indices": [
+							36,
+							41
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							55,
+							67
+						]
+					},
+					{
+						"text": "TeachingHappiness",
+						"indices": [
+							104,
+							122
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							260,
+							273
+						]
+					},
+					{
+						"text": "SEL",
+						"indices": [
+							274,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gK6XpXubbR",
+						"expanded_url": "https://sway.office.com/jevZ3dk6UYkm9FLJ",
+						"display_url": "sway.office.com/jevZ3dk6UYkm9F…",
+						"indices": [
+							185,
+							208
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1114289561784528900,
+						"id_str": "1114289561784528896",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/D3bAc-MXsAAdAvz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3bAc-MXsAAdAvz.jpg",
+						"url": "https://t.co/bsASEnEyJ2",
+						"display_url": "pic.twitter.com/bsASEnEyJ2",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1114292284047204354/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1820,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114289561784528900,
+						"id_str": "1114289561784528896",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/D3bAc-MXsAAdAvz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3bAc-MXsAAdAvz.jpg",
+						"url": "https://t.co/bsASEnEyJ2",
+						"display_url": "pic.twitter.com/bsASEnEyJ2",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1114292284047204354/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1820,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central #MSFTEduChat",
+				"screen_name": "TweetMeet",
+				"location": "World",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+				"url": "https://t.co/vTmAj2KFoN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTmAj2KFoN",
+								"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+								"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2130,
+				"friends_count": 1637,
+				"listed_count": 19,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 1262,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 688,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1553290210",
+				"profile_link_color": "E3008C",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Teaching Happiness appeals to many educators around the world every single day.\n\nCheck the new TweetMeet Invitation #Sway below, introducing the topic and the hosts of the #MSFTEduChat of Tuesday, April 16.\n\nYour promotion much appreciated.\n#MicrosoftEDU #SEL #TeachingHappiness https://t.co/kQ8Xk0cdau"
+	},
+	{
 		"created_at": "Sat Apr 06 18:41:04 +0000 2019",
 		"id": 1114598916836745200,
 		"id_str": "1114598916836745216",
