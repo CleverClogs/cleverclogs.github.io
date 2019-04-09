@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 16:06:30 +0000 2019",
+		"id": 1115646107114266600,
+		"id_str": "1115647182999367680",
+		"full_text": "\"Language should never be a barrier\" 🌎 Excellent new blog post from @web20classroom #edtech #ELL #mieexpert #MicrosoftEDU @mstranslator \n👉 https://t.co/qWLNuZxBn2 https://t.co/5y43WNTGvZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "ELL",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						108,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "web20classroom",
+					"name": "𝚂𝚝𝚎𝚟𝚎𝚗 𝚆. 𝙰𝚗𝚍𝚎𝚛𝚜𝚘𝚗",
+					"id": 21827584,
+					"id_str": "21827584",
+					"indices": [
+						68,
+						83
+					]
+				},
+				{
+					"screen_name": "mstranslator",
+					"name": "Microsoft Translator",
+					"id": 77333869,
+					"id_str": "77333869",
+					"indices": [
+						122,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qWLNuZxBn2",
+					"expanded_url": "http://blog.web20classroom.org/2019/04/language-should-never-be-barrier.html",
+					"display_url": "blog.web20classroom.org/2019/04/langua…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1115645761780441100,
+					"id_str": "1115645761780441089",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D3uR6M4X4AEaS_l.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3uR6M4X4AEaS_l.png",
+					"url": "https://t.co/5y43WNTGvZ",
+					"display_url": "pic.twitter.com/5y43WNTGvZ",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1115646107114266625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 510,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 501,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 510,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115645761780441100,
+					"id_str": "1115645761780441089",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D3uR6M4X4AEaS_l.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3uR6M4X4AEaS_l.png",
+					"url": "https://t.co/5y43WNTGvZ",
+					"display_url": "pic.twitter.com/5y43WNTGvZ",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1115646107114266625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 510,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 501,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 510,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #E2 #Road2E2 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17422,
+			"friends_count": 3174,
+			"listed_count": 715,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 59207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Language should never be a barrier\" 🌎 Excellent new blog post from @web20classroom #edtech #ELL #mieexpert #MicrosoftEDU @mstranslator \n👉 https://t.co/qWLNuZxBn2 https://t.co/5y43WNTGvZ"
+	},
+	{
 		"created_at": "Sun Apr 07 21:07:44 +0000 2019",
 		"id": 1114998215722577900,
 		"id_str": "1114998215722577921",
