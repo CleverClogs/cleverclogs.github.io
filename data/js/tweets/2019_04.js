@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 22:04:46 +0000 2019",
+		"id": 1116462117421498400,
+		"id_str": "1116462117421498369",
+		"full_text": "Such a wonderful post about the versatility of #OneNote in the classroom by Joe Archer.\nHow he has carved his way through courses and other #PD learning resources to then come up with creative ideas for custom lessons is simply amazing.\n\nThank you, @ArcherJoe. https://t.co/D0ozFBYu5R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "PD",
+					"indices": [
+						140,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArcherJoe",
+					"name": "Joe Archer",
+					"id": 637050683,
+					"id_str": "637050683",
+					"indices": [
+						249,
+						259
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D0ozFBYu5R",
+					"expanded_url": "https://twitter.com/archerjoe/status/1116459131538419713",
+					"display_url": "twitter.com/archerjoe/stat…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20549,
+			"friends_count": 7475,
+			"listed_count": 605,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25321,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116459131538419700,
+		"quoted_status_id_str": "1116459131538419713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D0ozFBYu5R",
+			"expanded": "https://twitter.com/archerjoe/status/1116459131538419713",
+			"display": "twitter.com/archerjoe/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 11 21:52:54 +0000 2019",
+			"id": 1116459131538419700,
+			"id_str": "1116459131538419713",
+			"full_text": "It's a #Onederful thing....OneNote! @OneNoteEDU @OneNoteC @eustace_stephen #OneNote #GEDSB21C #MIEExpert #MicrosoftEDU @LiaDeCicco @MarioAsta1 @MicrosoftEduCA https://t.co/i6HxfStnpY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Onederful",
+						"indices": [
+							7,
+							17
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							75,
+							83
+						]
+					},
+					{
+						"text": "GEDSB21C",
+						"indices": [
+							84,
+							93
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							94,
+							104
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							105,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							36,
+							47
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							48,
+							57
+						]
+					},
+					{
+						"screen_name": "eustace_stephen",
+						"name": "Stephen Eustace",
+						"id": 705409101220675600,
+						"id_str": "705409101220675584",
+						"indices": [
+							58,
+							74
+						]
+					},
+					{
+						"screen_name": "LiaDeCicco",
+						"name": "Lia DeCicco",
+						"id": 23328809,
+						"id_str": "23328809",
+						"indices": [
+							119,
+							130
+						]
+					},
+					{
+						"screen_name": "MarioAsta1",
+						"name": "Mario Asta",
+						"id": 3650276780,
+						"id_str": "3650276780",
+						"indices": [
+							131,
+							142
+						]
+					},
+					{
+						"screen_name": "MicrosoftEduCA",
+						"name": "Microsoft in Education Canada",
+						"id": 405043996,
+						"id_str": "405043996",
+						"indices": [
+							143,
+							158
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/i6HxfStnpY",
+						"expanded_url": "https://sites.granderie.ca/jarcher/2019/04/11/its-a-onederful-thing-onenote/",
+						"display_url": "sites.granderie.ca/jarcher/2019/0…",
+						"indices": [
+							159,
+							182
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 637050683,
+				"id_str": "637050683",
+				"name": "Joe Archer",
+				"screen_name": "ArcherJoe",
+				"location": "Port Dover, Ontario",
+				"description": "Teach Gr 6 #E2 2019 #DLL @GEDSB #MiEFellow #MiEExpert #MIETrainer Founder of #ArchersTNTClassroom #Podcast #MinecraftEdu #Micro:bit MEC; https://t.co/PEyeu0QxOh",
+				"url": "https://t.co/rqcjMjL2qC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rqcjMjL2qC",
+								"expanded_url": "https://about.me/joe.archer",
+								"display_url": "about.me/joe.archer",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PEyeu0QxOh",
+								"expanded_url": "http://bit.ly/JArcher",
+								"display_url": "bit.ly/JArcher",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3851,
+				"friends_count": 4339,
+				"listed_count": 248,
+				"created_at": "Mon Jul 16 15:24:37 +0000 2012",
+				"favourites_count": 3471,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33061,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1106723495944179712/1MW5xUO1_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106723495944179712/1MW5xUO1_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/637050683/1554114299",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Such a wonderful post about the versatility of #OneNote in the classroom by Joe Archer.\nHow he has carved his way through courses and other #PD learning resources to then come up with creative ideas for custom lessons is simply amazing.\n\nThank you, @ArcherJoe. https://t.co/D0ozFBYu5R"
+	},
+	{
 		"created_at": "Thu Apr 11 19:30:12 +0000 2019",
 		"id": 1116423219299459100,
 		"id_str": "1116423219299459073",
