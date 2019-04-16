@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 07:55:13 +0000 2019",
+		"id": 1118060259657048000,
+		"id_str": "1118060259657048065",
+		"full_text": "Are you new to the #MIEExpert program and the #Microsoft Educator Community?\n\n#MIEFellow @ShafiqueWaqas' video below helps you get started. \nWill you share it with others who might benefit?\n\nAfter watching it, join the #MicrosoftEDU Community at https://t.co/KDGrGk5mjJ https://t.co/vfQFf31p1V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "MIEFellow",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						219,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShafiqueWaqas",
+					"name": "Waqas Shafique",
+					"id": 1229556384,
+					"id_str": "1229556384",
+					"indices": [
+						89,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KDGrGk5mjJ",
+					"expanded_url": "https://education.microsoft.com",
+					"display_url": "education.microsoft.com",
+					"indices": [
+						246,
+						269
+					]
+				},
+				{
+					"url": "https://t.co/vfQFf31p1V",
+					"expanded_url": "https://twitter.com/ShafiqueWaqas/status/1118049150275289089",
+					"display_url": "twitter.com/ShafiqueWaqas/…",
+					"indices": [
+						270,
+						293
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20608,
+			"friends_count": 7481,
+			"listed_count": 611,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25334,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1118049150275289100,
+		"quoted_status_id_str": "1118049150275289089",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vfQFf31p1V",
+			"expanded": "https://twitter.com/ShafiqueWaqas/status/1118049150275289089",
+			"display": "twitter.com/ShafiqueWaqas/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 16 07:11:04 +0000 2019",
+			"id": 1118049150275289100,
+			"id_str": "1118049150275289089",
+			"full_text": "Do you want to become #CertifiedMIEExpert and need guidance  ? Here is a video tutorial having step by step guidance of becoming #CertifiedMIEExpert for Year 2019.\nhttps://t.co/XCwkNJgiDP\n@jibranjamshad @OneNoteC @sdelafosse @mtholfsen @MicrosoftEDU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CertifiedMIEExpert",
+						"indices": [
+							22,
+							41
+						]
+					},
+					{
+						"text": "CertifiedMIEExpert",
+						"indices": [
+							129,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jibranjamshad",
+						"name": "Jibran J",
+						"id": 70612843,
+						"id_str": "70612843",
+						"indices": [
+							188,
+							202
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							203,
+							212
+						]
+					},
+					{
+						"screen_name": "sdelafosse",
+						"name": "Sonja Delafosse",
+						"id": 111110878,
+						"id_str": "111110878",
+						"indices": [
+							213,
+							224
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							225,
+							235
+						]
+					},
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							236,
+							249
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XCwkNJgiDP",
+						"expanded_url": "https://youtu.be/Xo-eiNOdncA",
+						"display_url": "youtu.be/Xo-eiNOdncA",
+						"indices": [
+							164,
+							187
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1229556384,
+				"id_str": "1229556384",
+				"name": "Waqas Shafique",
+				"screen_name": "ShafiqueWaqas",
+				"location": "Rawalpindi, Pakistan",
+				"description": "Microsoft Innovative Educator Fellow / Master Trainer",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 280,
+				"friends_count": 338,
+				"listed_count": 20,
+				"created_at": "Fri Mar 01 11:09:19 +0000 2013",
+				"favourites_count": 500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 455,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1117090535406219265/HE8ZOfU9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117090535406219265/HE8ZOfU9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1229556384/1554616567",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you new to the #MIEExpert program and the #Microsoft Educator Community?\n\n#MIEFellow @ShafiqueWaqas' video below helps you get started. \nWill you share it with others who might benefit?\n\nAfter watching it, join the #MicrosoftEDU Community at https://t.co/KDGrGk5mjJ https://t.co/vfQFf31p1V"
+	},
+	{
 		"created_at": "Tue Apr 16 06:39:53 +0000 2019",
 		"id": 1118041303227490300,
 		"id_str": "1118041303227490305",
