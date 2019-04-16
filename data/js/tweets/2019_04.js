@@ -1,6 +1,639 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 17:15:03 +0000 2019",
+		"id": 1118200379496386600,
+		"id_str": "1118201149625126913",
+		"full_text": "❓ Q1. What role do happiness, well-being and social-emotional skills play in teaching and learning?\n\n#TeachingHappiness #SEL \n#MSFTEduChat #MicrosoftEDU\nhttps://t.co/QyQ4YvmyQ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeachingHappiness",
+					"indices": [
+						101,
+						119
+					]
+				},
+				{
+					"text": "SEL",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						139,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114871789916762100,
+					"id_str": "1114871789916762112",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jR_HAXsAAd60X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3jR_HAXsAAd60X.jpg",
+					"url": "https://t.co/QyQ4YvmyQ2",
+					"display_url": "pic.twitter.com/QyQ4YvmyQ2",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1114871799928492033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1114871799928492000,
+					"source_status_id_str": "1114871799928492033",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114871789916762100,
+					"id_str": "1114871789916762112",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jR_HAXsAAd60X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3jR_HAXsAAd60X.jpg",
+					"url": "https://t.co/QyQ4YvmyQ2",
+					"display_url": "pic.twitter.com/QyQ4YvmyQ2",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1114871799928492033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1114871799928492000,
+					"source_status_id_str": "1114871799928492033",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2266,
+			"friends_count": 1858,
+			"listed_count": 21,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1555344980",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❓ Q1. What role do happiness, well-being and social-emotional skills play in teaching and learning?\n\n#TeachingHappiness #SEL \n#MSFTEduChat #MicrosoftEDU\nhttps://t.co/QyQ4YvmyQ2"
+	},
+	{
+		"created_at": "Tue Apr 16 17:02:29 +0000 2019",
+		"id": 1118197644889874400,
+		"id_str": "1118197983810605056",
+		"full_text": "❓ Opening question:\nWhat do #TeachingHappiness and emotional well-being mean to you?\n#SEL\n#MSFTEduChat #MicrosoftEDU https://t.co/OJSQj4CkOA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeachingHappiness",
+					"indices": [
+						28,
+						46
+					]
+				},
+				{
+					"text": "SEL",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						103,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114871741254447100,
+					"id_str": "1114871741254447106",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jR8RuXsAIdqf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3jR8RuXsAIdqf_.jpg",
+					"url": "https://t.co/OJSQj4CkOA",
+					"display_url": "pic.twitter.com/OJSQj4CkOA",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1114871751920451585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1114871751920451600,
+					"source_status_id_str": "1114871751920451585",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114871741254447100,
+					"id_str": "1114871741254447106",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D3jR8RuXsAIdqf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3jR8RuXsAIdqf_.jpg",
+					"url": "https://t.co/OJSQj4CkOA",
+					"display_url": "pic.twitter.com/OJSQj4CkOA",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1114871751920451585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1114871751920451600,
+					"source_status_id_str": "1114871751920451585",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2266,
+			"friends_count": 1858,
+			"listed_count": 21,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1555344980",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❓ Opening question:\nWhat do #TeachingHappiness and emotional well-being mean to you?\n#SEL\n#MSFTEduChat #MicrosoftEDU https://t.co/OJSQj4CkOA"
+	},
+	{
+		"created_at": "Tue Apr 16 17:02:21 +0000 2019",
+		"id": 1118197374470578200,
+		"id_str": "1118197950314942464",
+		"full_text": "🎈 We're so happy to welcome you all to today's global and multilingual TweetMeet. \n\nWe've got 6 questions lined up for you. Ready?\n\n#TeachingHappiness #SEL\n#MSFTEduChat #MicrosoftEDU https://t.co/P5SeIH0o0G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeachingHappiness",
+					"indices": [
+						132,
+						150
+					]
+				},
+				{
+					"text": "SEL",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						169,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104732992453398500,
+					"id_str": "1104732992453398528",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TMzbLW0AA_yfy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TMzbLW0AA_yfy.jpg",
+					"url": "https://t.co/P5SeIH0o0G",
+					"display_url": "pic.twitter.com/P5SeIH0o0G",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104733001026621441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104733001026621400,
+					"source_status_id_str": "1104733001026621441",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104732992453398500,
+					"id_str": "1104732992453398528",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D1TMzbLW0AA_yfy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1TMzbLW0AA_yfy.jpg",
+					"url": "https://t.co/P5SeIH0o0G",
+					"display_url": "pic.twitter.com/P5SeIH0o0G",
+					"expanded_url": "https://twitter.com/WhosTalking/status/1104733001026621441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1104733001026621400,
+					"source_status_id_str": "1104733001026621441",
+					"source_user_id": 18578140,
+					"source_user_id_str": "18578140"
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2266,
+			"friends_count": 1858,
+			"listed_count": 21,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 732,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988509178615549952/hwFi4JQp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1555344980",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 We're so happy to welcome you all to today's global and multilingual TweetMeet. \n\nWe've got 6 questions lined up for you. Ready?\n\n#TeachingHappiness #SEL\n#MSFTEduChat #MicrosoftEDU https://t.co/P5SeIH0o0G"
+	},
+	{
 		"created_at": "Tue Apr 16 13:21:05 +0000 2019",
 		"id": 1118141893957890000,
 		"id_str": "1118142269725528071",
