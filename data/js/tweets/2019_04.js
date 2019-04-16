@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 06:39:53 +0000 2019",
+		"id": 1118041303227490300,
+		"id_str": "1118041303227490305",
+		"full_text": "📢 The #MSFTEduChat TweetMeet on #TeachingHappiness and #SEL is taking place today, Tuesday April 16.\n\nCheck the local event times:\nhttps://t.co/3ufAX1VTNr\n\nLearn more from the SuperSway below and kindly share.\n#MicrosoftEDU #MIEExpert https://t.co/hw6P1nioax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "TeachingHappiness",
+					"indices": [
+						32,
+						50
+					]
+				},
+				{
+					"text": "SEL",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						210,
+						223
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						224,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3ufAX1VTNr",
+					"expanded_url": "https://www.timeanddate.com/worldclock/fixedtime.html?sort=1&p1=234&iso=20190416T10&msg=%23MSFTEduChat%20TweetMeet%20%e2%80%93%20April%2016%20%e2%80%93%20Teaching%20Happiness&ah=1&low=c",
+					"display_url": "timeanddate.com/worldclock/fix…",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/hw6P1nioax",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1117359313603969025",
+					"display_url": "twitter.com/OneNoteC/statu…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20608,
+			"friends_count": 7481,
+			"listed_count": 611,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25333,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117359313603969000,
+		"quoted_status_id_str": "1117359313603969025",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hw6P1nioax",
+			"expanded": "https://twitter.com/OneNoteC/status/1117359313603969025",
+			"display": "twitter.com/OneNoteC/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 14 09:29:54 +0000 2019",
+			"id": 1117359313603969000,
+			"id_str": "1117359313603969025",
+			"full_text": "📢 #Microsoft invites all educators to join the #MSFTEduChat TweetMeet of Tuesday April 16. \nThe topic: #TeachingHappiness.\n\nFind the details in the #SuperSway below, with a TweetMeet Invitation #Sway for each of the 7 language tracks for this month.\n\n#MicrosoftEDU #SEL https://t.co/ZR1MHEx5uk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Microsoft",
+						"indices": [
+							2,
+							12
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							47,
+							59
+						]
+					},
+					{
+						"text": "TeachingHappiness",
+						"indices": [
+							103,
+							121
+						]
+					},
+					{
+						"text": "SuperSway",
+						"indices": [
+							148,
+							158
+						]
+					},
+					{
+						"text": "Sway",
+						"indices": [
+							194,
+							199
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							251,
+							264
+						]
+					},
+					{
+						"text": "SEL",
+						"indices": [
+							265,
+							269
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZR1MHEx5uk",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1116784101128908800",
+						"display_url": "twitter.com/TweetMeet/stat…",
+						"indices": [
+							270,
+							293
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2582768738,
+				"id_str": "2582768738",
+				"name": "OneNote Central",
+				"screen_name": "OneNoteC",
+				"location": "World",
+				"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+				"url": "https://t.co/Udn06tcMta",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Udn06tcMta",
+								"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+								"display_url": "onen.link/onenote-commun…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20608,
+				"friends_count": 7481,
+				"listed_count": 611,
+				"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+				"favourites_count": 28587,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25333,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+				"profile_link_color": "7719AA",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1116784101128908800,
+			"quoted_status_id_str": "1116784101128908800",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ZR1MHEx5uk",
+				"expanded": "https://twitter.com/TweetMeet/status/1116784101128908800",
+				"display": "twitter.com/TweetMeet/stat…"
+			},
+			"retweet_count": 26,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 The #MSFTEduChat TweetMeet on #TeachingHappiness and #SEL is taking place today, Tuesday April 16.\n\nCheck the local event times:\nhttps://t.co/3ufAX1VTNr\n\nLearn more from the SuperSway below and kindly share.\n#MicrosoftEDU #MIEExpert https://t.co/hw6P1nioax"
+	},
+	{
 		"created_at": "Mon Apr 15 11:40:44 +0000 2019",
 		"id": 1117754625451491300,
 		"id_str": "1117754625451491328",
