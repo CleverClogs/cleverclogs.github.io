@@ -1,6 +1,137 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 16 13:21:05 +0000 2019",
+		"id": 1118141893957890000,
+		"id_str": "1118142269725528071",
+		"full_text": "What makes you happy? I'm prepping for a keynote and plan to use this https://t.co/5BS9OBfMes Can you quickly respond? Like right now? (-: thanks a TWILLION #sparvellous #MIEExpert",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sparvellous",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						170,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5BS9OBfMes",
+					"expanded_url": "http://aka.ms/happy1",
+					"display_url": "aka.ms/happy1",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33184994,
+			"id_str": "33184994",
+			"name": "Mark Sparvell",
+			"screen_name": "sparvell",
+			"location": "Kirkland, Washington State",
+			"description": "Education Professional Thought Leader #technology #education #innovation #leader . All opinions expressed are my own.  https://t.co/yKfvMSrdXN",
+			"url": "https://t.co/xKuFNajmEh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xKuFNajmEh",
+							"expanded_url": "http://www.sparvell.com",
+							"display_url": "sparvell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yKfvMSrdXN",
+							"expanded_url": "http://linkedin.com/in/sparvell",
+							"display_url": "linkedin.com/in/sparvell",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6278,
+			"friends_count": 7103,
+			"listed_count": 271,
+			"created_at": "Sun Apr 19 12:01:03 +0000 2009",
+			"favourites_count": 5081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10749,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817872217748815873/DV9Z-Stk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817872217748815873/DV9Z-Stk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33184994/1483852943",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What makes you happy? I'm prepping for a keynote and plan to use this https://t.co/5BS9OBfMes Can you quickly respond? Like right now? (-: thanks a TWILLION #sparvellous #MIEExpert"
+	},
+	{
 		"created_at": "Tue Apr 16 10:01:18 +0000 2019",
 		"id": 1118087104511316000,
 		"id_str": "1118091989751410688",
