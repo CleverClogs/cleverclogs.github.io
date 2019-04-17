@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 17 10:50:37 +0000 2019",
+		"id": 1118466791070732300,
+		"id_str": "1118466791070732289",
+		"full_text": "Educators at Turkish #Microsoft Showcase School \"Özel ÇakabeyOkulları\" proudly use #MicrosoftEDU technologies, among which #OneNote and #MicrosoftStream.\n\nNice promotion video, @cakabeyokullari.\n[Turkish] hat tip: @egvetek https://t.co/XjBDdplFxi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						83,
+						96
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "MicrosoftStream",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cakabeyokullari",
+					"name": "Özel ÇakabeyOkulları",
+					"id": 762908576453132300,
+					"id_str": "762908576453132288",
+					"indices": [
+						177,
+						193
+					]
+				},
+				{
+					"screen_name": "egvetek",
+					"name": "Murat Özkan - Eğitim ve Teknoloji",
+					"id": 794142868680114200,
+					"id_str": "794142868680114177",
+					"indices": [
+						214,
+						222
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XjBDdplFxi",
+					"expanded_url": "https://twitter.com/cakabeyokullari/status/1117684810707808256",
+					"display_url": "twitter.com/cakabeyokullar…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20620,
+			"friends_count": 7485,
+			"listed_count": 611,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25347,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1553353146",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117684810707808300,
+		"quoted_status_id_str": "1117684810707808256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XjBDdplFxi",
+			"expanded": "https://twitter.com/cakabeyokullari/status/1117684810707808256",
+			"display": "twitter.com/cakabeyokullar…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 15 07:03:19 +0000 2019",
+			"id": 1117684810707808300,
+			"id_str": "1117684810707808256",
+			"full_text": "Çakabeylilerin öğrenme aşklarında, eğitim teknolojilerindeki uzmanlığımızın payı büyüktür.🖱🖥⌨💻 @MicrosoftEDU\n@MicrosoftTR @OneNoteEDU @mtholfsen @SMART_Tech\n@AppleEDU #edtech\n#msshowcaseschool #OneNote\n#egitimteknolojileri #educationaltechnology\n#egitim #K12 #MindMap https://t.co/99BTPz8T7e",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							167,
+							174
+						]
+					},
+					{
+						"text": "msshowcaseschool",
+						"indices": [
+							175,
+							192
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							193,
+							201
+						]
+					},
+					{
+						"text": "egitimteknolojileri",
+						"indices": [
+							202,
+							222
+						]
+					},
+					{
+						"text": "educationaltechnology",
+						"indices": [
+							223,
+							245
+						]
+					},
+					{
+						"text": "egitim",
+						"indices": [
+							246,
+							253
+						]
+					},
+					{
+						"text": "K12",
+						"indices": [
+							254,
+							258
+						]
+					},
+					{
+						"text": "MindMap",
+						"indices": [
+							259,
+							267
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MicrosoftEDU",
+						"name": "Microsoft Education",
+						"id": 17826187,
+						"id_str": "17826187",
+						"indices": [
+							95,
+							108
+						]
+					},
+					{
+						"screen_name": "MicrosoftTR",
+						"name": "Microsoft Türkiye",
+						"id": 20056008,
+						"id_str": "20056008",
+						"indices": [
+							109,
+							121
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							122,
+							133
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							134,
+							144
+						]
+					},
+					{
+						"screen_name": "SMART_Tech",
+						"name": "SMART Technologies",
+						"id": 21775117,
+						"id_str": "21775117",
+						"indices": [
+							145,
+							156
+						]
+					},
+					{
+						"screen_name": "AppleEDU",
+						"name": "Apple Education",
+						"id": 468741166,
+						"id_str": "468741166",
+						"indices": [
+							157,
+							166
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1117684577613570000,
+						"id_str": "1117684577613570048",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117684577613570048/pu/img/mmiCMOl4JVCfMuj5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117684577613570048/pu/img/mmiCMOl4JVCfMuj5.jpg",
+						"url": "https://t.co/99BTPz8T7e",
+						"display_url": "pic.twitter.com/99BTPz8T7e",
+						"expanded_url": "https://twitter.com/cakabeyokullari/status/1117684810707808256/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1117684577613570000,
+						"id_str": "1117684577613570048",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117684577613570048/pu/img/mmiCMOl4JVCfMuj5.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117684577613570048/pu/img/mmiCMOl4JVCfMuj5.jpg",
+						"url": "https://t.co/99BTPz8T7e",
+						"display_url": "pic.twitter.com/99BTPz8T7e",
+						"expanded_url": "https://twitter.com/cakabeyokullari/status/1117684810707808256/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 58920,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1117684577613570048/pu/vid/1280x720/QQK-GIxp_p6_5rDE.mp4?tag=8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1117684577613570048/pu/vid/320x180/8HqlUop8VO71Sl6L.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1117684577613570048/pu/vid/640x360/75QUoJ-TEmTOJhcm.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1117684577613570048/pu/pl/qwEKZo_kSD2AyAMG.m3u8?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 762908576453132300,
+				"id_str": "762908576453132288",
+				"name": "Özel ÇakabeyOkulları",
+				"screen_name": "cakabeyokullari",
+				"location": "Çiğli, İzmir",
+				"description": "Özel Çakabey Okulları'nın resmi twitter hesabıdır.",
+				"url": "https://t.co/LhMIcYGwas",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LhMIcYGwas",
+								"expanded_url": "http://www.cakabey.k12.tr",
+								"display_url": "cakabey.k12.tr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 315,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Tue Aug 09 07:09:13 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 586,
+				"lang": "tr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/765857044104679425/bBOkFkJM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/765857044104679425/bBOkFkJM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/762908576453132288/1470914302",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tr"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ro",
+		"text": "Educators at Turkish #Microsoft Showcase School \"Özel ÇakabeyOkulları\" proudly use #MicrosoftEDU technologies, among which #OneNote and #MicrosoftStream.\n\nNice promotion video, @cakabeyokullari.\n[Turkish] hat tip: @egvetek https://t.co/XjBDdplFxi"
+	},
+	{
 		"created_at": "Tue Apr 16 21:23:18 +0000 2019",
 		"id": 1118263622013280300,
 		"id_str": "1118263622013280256",
