@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 08:05:11 +0000 2019",
+		"id": 1118610081980063700,
+		"id_str": "1118787544425140224",
+		"full_text": "We love seeing our educators connect with and learn from each other. So we'd like to know: What country are you from and what grade(s)/subject(s) do you teach? Let's get to know each other! #MicrosoftEDU #globaled https://t.co/XqMoGDso8n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						190,
+						203
+					]
+				},
+				{
+					"text": "globaled",
+					"indices": [
+						204,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1118610079819927600,
+					"id_str": "1118610079819927555",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/D4YZ8OHWkAMJpoW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4YZ8OHWkAMJpoW.jpg",
+					"url": "https://t.co/XqMoGDso8n",
+					"display_url": "pic.twitter.com/XqMoGDso8n",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1118610081980063746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1116,
+							"h": 628,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1116,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118610079819927600,
+					"id_str": "1118610079819927555",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/D4YZ8OHWkAMJpoW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4YZ8OHWkAMJpoW.jpg",
+					"url": "https://t.co/XqMoGDso8n",
+					"display_url": "pic.twitter.com/XqMoGDso8n",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1118610081980063746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1116,
+							"h": 628,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1116,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17826187,
+			"id_str": "17826187",
+			"name": "Microsoft Education",
+			"screen_name": "MicrosoftEDU",
+			"location": "Redmond, WA",
+			"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+			"url": "https://t.co/Kq0bGCfbFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kq0bGCfbFO",
+							"expanded_url": "http://www.microsoft.com/education",
+							"display_url": "microsoft.com/education",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 344701,
+			"friends_count": 4372,
+			"listed_count": 3333,
+			"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+			"favourites_count": 22365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33928,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00BCF2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1508952382",
+			"profile_link_color": "0078D7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We love seeing our educators connect with and learn from each other. So we'd like to know: What country are you from and what grade(s)/subject(s) do you teach? Let's get to know each other! #MicrosoftEDU #globaled https://t.co/XqMoGDso8n"
+	},
+	{
 		"created_at": "Wed Apr 17 15:10:49 +0000 2019",
 		"id": 1118532271970095100,
 		"id_str": "1118532271970095104",
