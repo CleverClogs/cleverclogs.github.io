@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 08:17:11 +0000 2019",
+		"id": 1117137459287089200,
+		"id_str": "1119152952902438912",
+		"full_text": "What does a vacationing #OneNote Avenger 💜 do at a mask making class in Venice 🇮🇹? #MicrosoftEDU https://t.co/413gFnhAga",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						83,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117137398503280600,
+					"id_str": "1117137398503280641",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Dei4sXkAEow4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Dei4sXkAEow4I.jpg",
+					"url": "https://t.co/413gFnhAga",
+					"display_url": "pic.twitter.com/413gFnhAga",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1117137459287089154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 579,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1744,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117137398503280600,
+					"id_str": "1117137398503280641",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Dei4sXkAEow4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Dei4sXkAEow4I.jpg",
+					"url": "https://t.co/413gFnhAga",
+					"display_url": "pic.twitter.com/413gFnhAga",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1117137459287089154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 579,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1744,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #E2 #Road2E2 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17584,
+			"friends_count": 3174,
+			"listed_count": 719,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 59658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What does a vacationing #OneNote Avenger 💜 do at a mask making class in Venice 🇮🇹? #MicrosoftEDU https://t.co/413gFnhAga"
+	},
+	{
 		"created_at": "Thu Apr 18 15:48:50 +0000 2019",
 		"id": 1118904228586639400,
 		"id_str": "1118904228586639361",
