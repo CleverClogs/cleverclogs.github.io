@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 20:34:10 +0000 2019",
+		"id": 1119697285791666200,
+		"id_str": "1119700809267204096",
+		"full_text": "NEW! \"Become a #OneNote Ninja with this PD Collection\" - my very first @Wakelet ✨💜 I'm now riding the #WakeletWave 🌊#edtech #MIEexpert \n\n👉 https://t.co/c8gyMOVyi9 https://t.co/Uagq4g0g32",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "WakeletWave",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "MIEexpert",
+					"indices": [
+						124,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/c8gyMOVyi9",
+					"expanded_url": "https://wakelet.com/wake/dfce60d8-ec46-4e20-b695-4955aaf140be",
+					"display_url": "wakelet.com/wake/dfce60d8-…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119695035870498800,
+					"id_str": "1119695035870498816",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D4n0s-XUUAArV7m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4n0s-XUUAArV7m.jpg",
+					"url": "https://t.co/Uagq4g0g32",
+					"display_url": "pic.twitter.com/Uagq4g0g32",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1119697285791666176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1153,
+							"h": 747,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1153,
+							"h": 747,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119695035870498800,
+					"id_str": "1119695035870498816",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/D4n0s-XUUAArV7m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4n0s-XUUAArV7m.jpg",
+					"url": "https://t.co/Uagq4g0g32",
+					"display_url": "pic.twitter.com/Uagq4g0g32",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1119697285791666176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1153,
+							"h": 747,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1153,
+							"h": 747,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #E2 #Road2E2 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17601,
+			"friends_count": 3175,
+			"listed_count": 720,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 59733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28279,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! \"Become a #OneNote Ninja with this PD Collection\" - my very first @Wakelet ✨💜 I'm now riding the #WakeletWave 🌊#edtech #MIEexpert \n\n👉 https://t.co/c8gyMOVyi9 https://t.co/Uagq4g0g32"
+	},
+	{
 		"created_at": "Fri Apr 19 11:31:44 +0000 2019",
 		"id": 1119201912123826200,
 		"id_str": "1119201912123826176",
