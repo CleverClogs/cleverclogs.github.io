@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 18:34:08 +0000 2019",
+		"id": 1120395376912207900,
+		"id_str": "1120395376912207872",
+		"full_text": "Did you know you can live-embed #Excel Online spreadsheets, #Word Online documents and #PowerPoint Online presentations in #OneNote?\n\nLearn from Albin Labelle below how these OneDrive-based file attachments relate to conventional OneNote file attachments.\n\nThank you @Noteadviser! https://t.co/EurW5Setkx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Excel",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "Word",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "PowerPoint",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						123,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Noteadviser",
+					"name": "Albin LABELLE",
+					"id": 4916034934,
+					"id_str": "4916034934",
+					"indices": [
+						267,
+						279
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EurW5Setkx",
+					"expanded_url": "https://twitter.com/Noteadviser/status/1120376049290874880",
+					"display_url": "twitter.com/Noteadviser/st…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20693,
+			"friends_count": 7490,
+			"listed_count": 611,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120376049290874900,
+		"quoted_status_id_str": "1120376049290874880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EurW5Setkx",
+			"expanded": "https://twitter.com/Noteadviser/status/1120376049290874880",
+			"display": "twitter.com/Noteadviser/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 22 17:17:20 +0000 2019",
+			"id": 1120376049290874900,
+			"id_str": "1120376049290874880",
+			"full_text": "Embed #Office365 files directly in #OneNote, and get a live preview of its content. Great for co-authoring !\ncc/ @OneNoteC \nhttps://t.co/1UHD8ziEb5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Office365",
+						"indices": [
+							6,
+							16
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							35,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							113,
+							122
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1UHD8ziEb5",
+						"expanded_url": "http://onenote.pro/en/2019/04/22/live-office-files/",
+						"display_url": "onenote.pro/en/2019/04/22/…",
+						"indices": [
+							124,
+							147
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4916034934,
+				"id_str": "4916034934",
+				"name": "Albin LABELLE",
+				"screen_name": "Noteadviser",
+				"location": "France",
+				"description": "Utilisateur enthousiaste de OneNote, au service de la communauté francophone. Microsoft #MVP #OneNote",
+				"url": "https://t.co/krhCOillh2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/krhCOillh2",
+								"expanded_url": "http://www.onenote.pro/",
+								"display_url": "onenote.pro",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 117,
+				"friends_count": 46,
+				"listed_count": 18,
+				"created_at": "Mon Feb 15 22:00:21 +0000 2016",
+				"favourites_count": 2335,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 260,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/820622803800064000/xz9khfNW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/820622803800064000/xz9khfNW_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you know you can live-embed #Excel Online spreadsheets, #Word Online documents and #PowerPoint Online presentations in #OneNote?\n\nLearn from Albin Labelle below how these OneDrive-based file attachments relate to conventional OneNote file attachments.\n\nThank you @Noteadviser! https://t.co/EurW5Setkx"
+	},
+	{
 		"created_at": "Sun Apr 21 19:24:39 +0000 2019",
 		"id": 1120045703441600500,
 		"id_str": "1120045703441600513",
