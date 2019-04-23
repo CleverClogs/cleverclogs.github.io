@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 16:09:29 +0000 2019",
+		"id": 1120721360949522400,
+		"id_str": "1120721360949522432",
+		"full_text": "Premium e-reader running #OneNote.\nThe new A4-size @OnyxBoox Max 2 Pro runs Android 6.0 and comes with a \nWacom digitizer. \nMore specs in this blog post:\n\nhttps://t.co/y7B073L32B\nDetailed review: https://t.co/osUG1LlQyk\nby @GoodEReader https://t.co/yXMfDN5rVj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						25,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OnyxBoox",
+					"name": "ONYX BOOX",
+					"id": 1024617904426442800,
+					"id_str": "1024617904426442752",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "Goodereader",
+					"name": "Good e-Reader",
+					"id": 93138546,
+					"id_str": "93138546",
+					"indices": [
+						223,
+						235
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y7B073L32B",
+					"expanded_url": "https://goodereader.com/blog/onyx-boox/onyx-boox-max2-pro-in-black-is-available-early-may",
+					"display_url": "goodereader.com/blog/onyx-boox…",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/osUG1LlQyk",
+					"expanded_url": "https://www.youtube.com/watch?v=_3MayIj5O9E",
+					"display_url": "youtube.com/watch?v=_3MayI…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1120716878937239600,
+					"id_str": "1120716878937239553",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/D42WEEbWsAEhO4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D42WEEbWsAEhO4R.jpg",
+					"url": "https://t.co/yXMfDN5rVj",
+					"display_url": "pic.twitter.com/yXMfDN5rVj",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1120721360949522432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120716878937239600,
+					"id_str": "1120716878937239553",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/D42WEEbWsAEhO4R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D42WEEbWsAEhO4R.jpg",
+					"url": "https://t.co/yXMfDN5rVj",
+					"display_url": "pic.twitter.com/yXMfDN5rVj",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1120721360949522432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20710,
+			"friends_count": 7492,
+			"listed_count": 611,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25358,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Premium e-reader running #OneNote.\nThe new A4-size @OnyxBoox Max 2 Pro runs Android 6.0 and comes with a \nWacom digitizer. \nMore specs in this blog post:\n\nhttps://t.co/y7B073L32B\nDetailed review: https://t.co/osUG1LlQyk\nby @GoodEReader https://t.co/yXMfDN5rVj"
+	},
+	{
 		"created_at": "Tue Apr 23 08:56:34 +0000 2019",
 		"id": 1120612414146469900,
 		"id_str": "1120612414146469888",
