@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 08:56:34 +0000 2019",
+		"id": 1120612414146469900,
+		"id_str": "1120612414146469888",
+		"full_text": "Fantastic. \nTwitter thread with the color names and RGB decimal color values of the new #Office365 program icons, by Joël de Bruijn. \n\nCovers #OneNote, #Excel, #Word, #PowerPoint, #Outlook, #OneDrive and #MicrosoftTeams.\n\nGreat work, @blogisch. https://t.co/AO0HglBFpL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Office365",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "Excel",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "Word",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "PowerPoint",
+					"indices": [
+						167,
+						178
+					]
+				},
+				{
+					"text": "Outlook",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "OneDrive",
+					"indices": [
+						190,
+						199
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						204,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blogisch",
+					"name": "Joël de Bruijn",
+					"id": 11014332,
+					"id_str": "11014332",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AO0HglBFpL",
+					"expanded_url": "https://twitter.com/blogisch/status/1120599063546736641",
+					"display_url": "twitter.com/blogisch/statu…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20703,
+			"friends_count": 7490,
+			"listed_count": 611,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25357,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1120599063546736600,
+		"quoted_status_id_str": "1120599063546736641",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AO0HglBFpL",
+			"expanded": "https://twitter.com/blogisch/status/1120599063546736641",
+			"display": "twitter.com/blogisch/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 23 08:03:31 +0000 2019",
+			"id": 1120599063546736600,
+			"id_str": "1120599063546736641",
+			"full_text": "🤔 Want to use the beautiful new colors of Office 365 Icons?\n💡 In docs/manuals etc?\n⚓  https://t.co/ggJ2wv0frX\n💃 @Microsoft365\n\n📢 Thread: Colorname, Colorcodes, Icon , Elements\n\n1/49",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Microsoft365",
+						"name": "Microsoft 365",
+						"id": 898250146797846500,
+						"id_str": "898250146797846528",
+						"indices": [
+							112,
+							125
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ggJ2wv0frX",
+						"expanded_url": "https://medium.com/microsoft-design/redesigning-the-office-app-icons-to-embrace-a-new-world-of-work-91d72608ee8f",
+						"display_url": "medium.com/microsoft-desi…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11014332,
+				"id_str": "11014332",
+				"name": "Joël de Bruijn",
+				"screen_name": "blogisch",
+				"location": "Tilburg, Nederland",
+				"description": "Informatiemanager voor OnderwijsgroepTilburg MBO. Deelt wat hij schrijft, schrijft wat hij leert. Nu: edu-crypto en zelfsoevereiniteit. Live-Edublogger.",
+				"url": "https://t.co/EUEEK19f8N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EUEEK19f8N",
+								"expanded_url": "http://www.blogisch.nl",
+								"display_url": "blogisch.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1047,
+				"friends_count": 1752,
+				"listed_count": 59,
+				"created_at": "Mon Dec 10 10:03:16 +0000 2007",
+				"favourites_count": 5323,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14601,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/510355959768567808/8noconMR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/510355959768567808/8noconMR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11014332/1410513327",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic. \nTwitter thread with the color names and RGB decimal color values of the new #Office365 program icons, by Joël de Bruijn. \n\nCovers #OneNote, #Excel, #Word, #PowerPoint, #Outlook, #OneDrive and #MicrosoftTeams.\n\nGreat work, @blogisch. https://t.co/AO0HglBFpL"
+	},
+	{
 		"created_at": "Mon Apr 22 18:34:08 +0000 2019",
 		"id": 1120395376912207900,
 		"id_str": "1120395376912207872",
