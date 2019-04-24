@@ -1,6 +1,175 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 24 12:16:39 +0000 2019",
+		"id": 1121025156405694500,
+		"id_str": "1121025156405694464",
+		"full_text": "Key components for curriculum delivery at Cornerstone Academy Trust are  #OneNote Class Notebook, #MicrosoftTeams and @SharePoint.\n\n#Office365 user adoption podcast with head teacher Jonathan Bishop:\nhttps://t.co/2A2kRlNFDr\nby @Tonyp543212003 from @CloudDesignBox\nwith @broadclyst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						98,
+						113
+					]
+				},
+				{
+					"text": "Office365",
+					"indices": [
+						132,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SharePoint",
+					"name": "Microsoft SharePoint",
+					"id": 26541422,
+					"id_str": "26541422",
+					"indices": [
+						118,
+						129
+					]
+				},
+				{
+					"screen_name": "Tonyp543212003",
+					"name": "Tony Phillips",
+					"id": 20598162,
+					"id_str": "20598162",
+					"indices": [
+						227,
+						242
+					]
+				},
+				{
+					"screen_name": "CloudDesignBox",
+					"name": "Cloud Design Box",
+					"id": 3329307657,
+					"id_str": "3329307657",
+					"indices": [
+						248,
+						263
+					]
+				},
+				{
+					"screen_name": "broadclyst",
+					"name": "Jonathan Bishop",
+					"id": 219320331,
+					"id_str": "219320331",
+					"indices": [
+						269,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2A2kRlNFDr",
+					"expanded_url": "https://www.youtube.com/watch?v=FxS97sOxGUc",
+					"display_url": "youtube.com/watch?v=FxS97s…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20723,
+			"friends_count": 7496,
+			"listed_count": 611,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25361,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Key components for curriculum delivery at Cornerstone Academy Trust are  #OneNote Class Notebook, #MicrosoftTeams and @SharePoint.\n\n#Office365 user adoption podcast with head teacher Jonathan Bishop:\nhttps://t.co/2A2kRlNFDr\nby @Tonyp543212003 from @CloudDesignBox\nwith @broadclyst"
+	},
+	{
 		"created_at": "Tue Apr 23 18:42:55 +0000 2019",
 		"id": 1120759974660067300,
 		"id_str": "1120759974660067329",
