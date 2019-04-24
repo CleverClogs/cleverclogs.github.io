@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 24 17:20:39 +0000 2019",
+		"id": 1121101659143385100,
+		"id_str": "1121101659143385089",
+		"full_text": "#Wakelet + #OneNote = 💖  \n\n⚡Top tip for Chrome and Edge Chromium users:\nafter copying the Wakelet web address from your browser, use the right-click option Paste &gt; Keep Text Only option in #OneNote.   \n\n#oEmbed\nhttps://t.co/tJ3OtBuVm6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wakelet",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						192,
+						200
+					]
+				},
+				{
+					"text": "oEmbed",
+					"indices": [
+						206,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121086860149841900,
+					"id_str": "1121086860149841921",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121086860149841921/pu/img/pswwtXWrkk1O0YNW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121086860149841921/pu/img/pswwtXWrkk1O0YNW.jpg",
+					"url": "https://t.co/tJ3OtBuVm6",
+					"display_url": "pic.twitter.com/tJ3OtBuVm6",
+					"expanded_url": "https://twitter.com/wakelet/status/1121087078534610944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1121087078534611000,
+					"source_status_id_str": "1121087078534610944",
+					"source_user_id": 169922611,
+					"source_user_id_str": "169922611"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121086860149841900,
+					"id_str": "1121086860149841921",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121086860149841921/pu/img/pswwtXWrkk1O0YNW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121086860149841921/pu/img/pswwtXWrkk1O0YNW.jpg",
+					"url": "https://t.co/tJ3OtBuVm6",
+					"display_url": "pic.twitter.com/tJ3OtBuVm6",
+					"expanded_url": "https://twitter.com/wakelet/status/1121087078534610944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1121087078534611000,
+					"source_status_id_str": "1121087078534610944",
+					"source_user_id": 169922611,
+					"source_user_id_str": "169922611",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 62040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1121086860149841921/pu/pl/g295k1L-UPF0UX8H.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121086860149841921/pu/vid/1280x720/tGmPVS8J9nyDsXPC.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121086860149841921/pu/vid/320x180/o8Z6t0qQ0kYQplbz.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121086860149841921/pu/vid/640x360/zqr5LhpaKCCfUI0M.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 169922611,
+							"id_str": "169922611",
+							"name": "Wakelet",
+							"screen_name": "wakelet",
+							"location": "Earth",
+							"description": "Create amazing collections using articles, videos, images, tweets, text & more. Also on iOS & Android. Need help? Tweet @WakeletSupport #TheHumansAreComing 🤖💙",
+							"url": "https://t.co/SUrUncXo54",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/SUrUncXo54",
+											"expanded_url": "https://www.wakelet.com",
+											"display_url": "wakelet.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 10275,
+							"friends_count": 1681,
+							"listed_count": 261,
+							"created_at": "Fri Jul 23 14:12:25 +0000 2010",
+							"favourites_count": 11418,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 8299,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/801510624727597063/QSU3j4mk_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/801510624727597063/QSU3j4mk_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/169922611/1534370709",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20731,
+			"friends_count": 7496,
+			"listed_count": 611,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25363,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Wakelet + #OneNote = 💖  \n\n⚡Top tip for Chrome and Edge Chromium users:\nafter copying the Wakelet web address from your browser, use the right-click option Paste &gt; Keep Text Only option in #OneNote.   \n\n#oEmbed\nhttps://t.co/tJ3OtBuVm6"
+	},
+	{
 		"created_at": "Wed Apr 24 16:08:05 +0000 2019",
 		"id": 1121082083269664800,
 		"id_str": "1121083397122723841",
