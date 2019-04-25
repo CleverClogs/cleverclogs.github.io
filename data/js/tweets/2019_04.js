@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 25 16:27:55 +0000 2019",
+		"id": 1121450776533065700,
+		"id_str": "1121450776533065728",
+		"full_text": "What better way to summarize the conversation around the new #Wakelet + #OneNote integration than through a Wakelet Collection? \n\nSuch a great gesture by @MTholfsen - see below: \n#oEmbed https://t.co/OH1X4d7ylr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wakelet",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "oEmbed",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						154,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OH1X4d7ylr",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1121404423861829632",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20743,
+			"friends_count": 7503,
+			"listed_count": 612,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121404423861829600,
+		"quoted_status_id_str": "1121404423861829632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OH1X4d7ylr",
+			"expanded": "https://twitter.com/mtholfsen/status/1121404423861829632",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 25 13:23:43 +0000 2019",
+			"id": 1121404423861829600,
+			"id_str": "1121404423861829632",
+			"full_text": "Missed the big @Wakelet and #OneNote announcment yesterday 🌊 💜? \n\nHere is a nice Tweet round-up (made with @Wakelet) and some fun educator reactions ✨ @BeckyKeene #edtech #elearning #mieexpert #edchat #K12 #WakeletWave #MicrosoftEDU\n\nhttps://t.co/F49EJUk5ij",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				257
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							28,
+							36
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							163,
+							170
+						]
+					},
+					{
+						"text": "elearning",
+						"indices": [
+							171,
+							181
+						]
+					},
+					{
+						"text": "mieexpert",
+						"indices": [
+							182,
+							192
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							193,
+							200
+						]
+					},
+					{
+						"text": "K12",
+						"indices": [
+							201,
+							205
+						]
+					},
+					{
+						"text": "WakeletWave",
+						"indices": [
+							206,
+							218
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							219,
+							232
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wakelet",
+						"name": "Wakelet",
+						"id": 169922611,
+						"id_str": "169922611",
+						"indices": [
+							15,
+							23
+						]
+					},
+					{
+						"screen_name": "wakelet",
+						"name": "Wakelet",
+						"id": 169922611,
+						"id_str": "169922611",
+						"indices": [
+							107,
+							115
+						]
+					},
+					{
+						"screen_name": "BeckyKeene",
+						"name": "Becky Keene",
+						"id": 253925945,
+						"id_str": "253925945",
+						"indices": [
+							151,
+							162
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/F49EJUk5ij",
+						"expanded_url": "https://wakelet.com/wake/2395388f-1815-4179-975a-1df20a6e2d1a",
+						"display_url": "wakelet.com/wake/2395388f-…",
+						"indices": [
+							234,
+							257
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #E2 #Road2E2 @OneNoteEDU @MicrosoftEDU",
+				"url": "https://t.co/ANIFpSE2FB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSE2FB",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17714,
+				"friends_count": 3181,
+				"listed_count": 720,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 60355,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28395,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What better way to summarize the conversation around the new #Wakelet + #OneNote integration than through a Wakelet Collection? \n\nSuch a great gesture by @MTholfsen - see below: \n#oEmbed https://t.co/OH1X4d7ylr"
+	},
+	{
 		"created_at": "Thu Apr 25 10:30:11 +0000 2019",
 		"id": 1121360752248610800,
 		"id_str": "1121360752248610817",
