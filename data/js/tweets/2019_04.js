@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 25 10:30:11 +0000 2019",
+		"id": 1121360752248610800,
+		"id_str": "1121360752248610817",
+		"full_text": "The brand-new #Wakelet + #OneNote integration works across most platforms, including Windows, #macOS, #iOS and OneNote Online.\n\nHere's a short and sweet screencast demo by Alfonso Mendoza Jr on his iPhone.\n\nThank you so much, @TechTeacher1381. https://t.co/nyCnnUER3g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wakelet",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "macOS",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "iOS",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TechTeacher1381",
+					"name": "Alfonso Mendoza Jr.",
+					"id": 825402416933765100,
+					"id_str": "825402416933765122",
+					"indices": [
+						226,
+						242
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nyCnnUER3g",
+					"expanded_url": "https://twitter.com/TechTeacher1381/status/1121211910467280896",
+					"display_url": "twitter.com/TechTeacher138…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20738,
+			"friends_count": 7503,
+			"listed_count": 612,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121211910467280900,
+		"quoted_status_id_str": "1121211910467280896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nyCnnUER3g",
+			"expanded": "https://twitter.com/TechTeacher1381/status/1121211910467280896",
+			"display": "twitter.com/TechTeacher138…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 25 00:38:45 +0000 2019",
+			"id": 1121211910467280900,
+			"id_str": "1121211910467280896",
+			"full_text": "Here is a demo of how awesome  @msonenote iPhone app and @wakelet work together! @OneNoteEDU \n#Wakelet #WakeletWave #OneNote #MIE #MicrosoftEDU #AwesomeSauce https://t.co/GBWnr0N01a",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Wakelet",
+						"indices": [
+							94,
+							102
+						]
+					},
+					{
+						"text": "WakeletWave",
+						"indices": [
+							103,
+							115
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							116,
+							124
+						]
+					},
+					{
+						"text": "MIE",
+						"indices": [
+							125,
+							129
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							130,
+							143
+						]
+					},
+					{
+						"text": "AwesomeSauce",
+						"indices": [
+							144,
+							157
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							31,
+							41
+						]
+					},
+					{
+						"screen_name": "wakelet",
+						"name": "Wakelet",
+						"id": 169922611,
+						"id_str": "169922611",
+						"indices": [
+							57,
+							65
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							81,
+							92
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1121211800845000700,
+						"id_str": "1121211800845000704",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121211800845000704/pu/img/WXTEtmLol0ui_2He.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121211800845000704/pu/img/WXTEtmLol0ui_2He.jpg",
+						"url": "https://t.co/GBWnr0N01a",
+						"display_url": "pic.twitter.com/GBWnr0N01a",
+						"expanded_url": "https://twitter.com/TechTeacher1381/status/1121211910467280896/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 315,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 592,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121211800845000700,
+						"id_str": "1121211800845000704",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121211800845000704/pu/img/WXTEtmLol0ui_2He.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121211800845000704/pu/img/WXTEtmLol0ui_2He.jpg",
+						"url": "https://t.co/GBWnr0N01a",
+						"display_url": "pic.twitter.com/GBWnr0N01a",
+						"expanded_url": "https://twitter.com/TechTeacher1381/status/1121211910467280896/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 315,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 555,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 592,
+								"h": 1280,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								37,
+								80
+							],
+							"duration_millis": 78927,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1121211800845000704/pu/vid/320x690/H0EkW_n_nd6Fg4AL.mp4?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1121211800845000704/pu/vid/360x778/2LCcV_u2plPdqT5R.mp4?tag=8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1121211800845000704/pu/vid/592x1280/yOFLiSQCZsZ8fwlk.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1121211800845000704/pu/pl/2mEi1QWV640HzGL0.m3u8?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 825402416933765100,
+				"id_str": "825402416933765122",
+				"name": "Alfonso Mendoza Jr.",
+				"screen_name": "TechTeacher1381",
+				"location": "Texas, USA",
+				"description": "Servant of God, Husband, Google Certified Trainer, EdPuzzle Certified Educator, Ozobot Certified Educator, Merge Cube Ambassador, Wakelet Ambassador.",
+				"url": "https://t.co/Ki6OLXS8Gu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ki6OLXS8Gu",
+								"expanded_url": "https://about.me/techteacher1381",
+								"display_url": "about.me/techteacher1381",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 848,
+				"friends_count": 1693,
+				"listed_count": 9,
+				"created_at": "Sat Jan 28 17:57:26 +0000 2017",
+				"favourites_count": 6148,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3770,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971550831341375493/_-i9iJfS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971550831341375493/_-i9iJfS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/825402416933765122/1536882431",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The brand-new #Wakelet + #OneNote integration works across most platforms, including Windows, #macOS, #iOS and OneNote Online.\n\nHere's a short and sweet screencast demo by Alfonso Mendoza Jr on his iPhone.\n\nThank you so much, @TechTeacher1381. https://t.co/nyCnnUER3g"
+	},
+	{
 		"created_at": "Thu Apr 25 08:46:56 +0000 2019",
 		"id": 1121178154280869900,
 		"id_str": "1121334765104390144",
