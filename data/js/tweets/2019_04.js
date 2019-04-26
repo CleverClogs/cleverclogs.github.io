@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 21:17:18 +0000 2019",
+		"id": 1121885991432872000,
+		"id_str": "1121885991432871936",
+		"full_text": "#Android users, #OneNote Beta has been updated.\nCan you guess what's changed?\n\n💡 Tip: get early access to updates of OneNote for Android by signing up for Beta versions.\nMore info on the #OfficeInsiders OneNote Android blog:\nhttps://t.co/zo285L3Qvg\n\n#FollowFriday: @Amrita_Rout https://t.co/eAl2uGSy29",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Android",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "OfficeInsiders",
+					"indices": [
+						187,
+						202
+					]
+				},
+				{
+					"text": "FollowFriday",
+					"indices": [
+						250,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amrita_rout",
+					"name": "Amrita Rout",
+					"id": 2933785406,
+					"id_str": "2933785406",
+					"indices": [
+						265,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zo285L3Qvg",
+					"expanded_url": "https://aka.ms/onabeta",
+					"display_url": "aka.ms/onabeta",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1121885989373448200,
+					"id_str": "1121885989373448192",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D5G9XQMXkAAEH-I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5G9XQMXkAAEH-I.jpg",
+					"url": "https://t.co/eAl2uGSy29",
+					"display_url": "pic.twitter.com/eAl2uGSy29",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1121885991432871936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1013,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1013,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 574,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121885989373448200,
+					"id_str": "1121885989373448192",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D5G9XQMXkAAEH-I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5G9XQMXkAAEH-I.jpg",
+					"url": "https://t.co/eAl2uGSy29",
+					"display_url": "pic.twitter.com/eAl2uGSy29",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1121885991432871936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1013,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1013,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 574,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20759,
+			"friends_count": 7506,
+			"listed_count": 614,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25370,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Android users, #OneNote Beta has been updated.\nCan you guess what's changed?\n\n💡 Tip: get early access to updates of OneNote for Android by signing up for Beta versions.\nMore info on the #OfficeInsiders OneNote Android blog:\nhttps://t.co/zo285L3Qvg\n\n#FollowFriday: @Amrita_Rout https://t.co/eAl2uGSy29"
+	},
+	{
 		"created_at": "Fri Apr 26 07:55:20 +0000 2019",
 		"id": 1121684170122514400,
 		"id_str": "1121684170122514433",
