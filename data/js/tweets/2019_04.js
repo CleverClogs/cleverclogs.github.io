@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 26 07:55:20 +0000 2019",
+		"id": 1121684170122514400,
+		"id_str": "1121684170122514433",
+		"full_text": "What an inspiring, out-of the-box OneNote teacher.\nJoe Archer keeps coming up with new ways to use #OneNote - not only with his students, but also for his own learning and professional development.\n\nConsider joining @ArcherJoe's impressive Write To Give project. More info below: https://t.co/5lp2auEPkn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArcherJoe",
+					"name": "Joe Archer",
+					"id": 637050683,
+					"id_str": "637050683",
+					"indices": [
+						216,
+						226
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5lp2auEPkn",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1121492827844771842",
+					"display_url": "twitter.com/OneNoteEDU/sta…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20749,
+			"friends_count": 7504,
+			"listed_count": 612,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25369,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121492827844771800,
+		"quoted_status_id_str": "1121492827844771842",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5lp2auEPkn",
+			"expanded": "https://twitter.com/OneNoteEDU/status/1121492827844771842",
+			"display": "twitter.com/OneNoteEDU/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 25 19:15:01 +0000 2019",
+			"id": 1121492827844771800,
+			"id_str": "1121492827844771842",
+			"full_text": "#MIEExpert @ArcherJoe is passionate about #inclusion &amp; personalized learning. He loves that #OneNote allows him to manage class projects while providing each student with individual feedback. Check out his blog for links to his OneNote binders! #edtech https://t.co/DlSS0VD8qG https://t.co/ayQEpME4uq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "inclusion",
+						"indices": [
+							42,
+							52
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							96,
+							104
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							249,
+							256
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArcherJoe",
+						"name": "Joe Archer",
+						"id": 637050683,
+						"id_str": "637050683",
+						"indices": [
+							11,
+							21
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DlSS0VD8qG",
+						"expanded_url": "http://msft.social/njnLX7",
+						"display_url": "msft.social/njnLX7",
+						"indices": [
+							257,
+							280
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1121492824975970300,
+						"id_str": "1121492824975970306",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/D5BXyErXkAISbyJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5BXyErXkAISbyJ.jpg",
+						"url": "https://t.co/ayQEpME4uq",
+						"display_url": "pic.twitter.com/ayQEpME4uq",
+						"expanded_url": "https://twitter.com/OneNoteEDU/status/1121492827844771842/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121492824975970300,
+						"id_str": "1121492824975970306",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/D5BXyErXkAISbyJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5BXyErXkAISbyJ.jpg",
+						"url": "https://t.co/ayQEpME4uq",
+						"display_url": "pic.twitter.com/ayQEpME4uq",
+						"expanded_url": "https://twitter.com/OneNoteEDU/status/1121492827844771842/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 676,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3096566760,
+				"id_str": "3096566760",
+				"name": "OneNote Education",
+				"screen_name": "OneNoteEDU",
+				"location": "Redmond, WA",
+				"description": "Connecting educators to OneNote resources and information. An official channel for Microsoft OneNote.",
+				"url": "http://t.co/VAJyjQIbaK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VAJyjQIbaK",
+								"expanded_url": "http://onenoteineducation.com/",
+								"display_url": "onenoteineducation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71050,
+				"friends_count": 870,
+				"listed_count": 791,
+				"created_at": "Wed Mar 18 17:56:27 +0000 2015",
+				"favourites_count": 11737,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18109,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780405135927185408/Q67p7_8x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096566760/1455659611",
+				"profile_link_color": "80397B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What an inspiring, out-of the-box OneNote teacher.\nJoe Archer keeps coming up with new ways to use #OneNote - not only with his students, but also for his own learning and professional development.\n\nConsider joining @ArcherJoe's impressive Write To Give project. More info below: https://t.co/5lp2auEPkn"
+	},
+	{
 		"created_at": "Thu Apr 25 18:27:33 +0000 2019",
 		"id": 1121480885080141800,
 		"id_str": "1121480885080141825",
