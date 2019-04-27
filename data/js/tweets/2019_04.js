@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 14:56:51 +0000 2019",
+		"id": 1122152634763370500,
+		"id_str": "1122152634763370496",
+		"full_text": "Whoa. That's quite a cat 😻 being let out of the #OneNote roadmap bag here!\n\nYou want Section Page Templates in #OneNote for #Windows10?\nYou got it.\n💖 Oh, and you say you want Page Sorting? \nYes, indeed that too is coming.\n\nOpen @Benminnn's tweet below and zoom in on the image: https://t.co/TRaBuBvEUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						124,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						228,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TRaBuBvEUN",
+					"expanded_url": "https://twitter.com/Benminnn/status/1121873548807528448",
+					"display_url": "twitter.com/Benminnn/statu…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20766,
+			"friends_count": 7506,
+			"listed_count": 614,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25371,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1121873548807528400,
+		"quoted_status_id_str": "1121873548807528448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TRaBuBvEUN",
+			"expanded": "https://twitter.com/Benminnn/status/1121873548807528448",
+			"display": "twitter.com/Benminnn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 26 20:27:52 +0000 2019",
+			"id": 1121873548807528400,
+			"id_str": "1121873548807528448",
+			"full_text": "Coming up soon, Section Page Templates in OneNote Win10! @msonenote #OneNote https://t.co/hB6a4UoI5F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							68,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							57,
+							67
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1121873197652041700,
+						"id_str": "1121873197652041728",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/D5GxurUU4AAnPGA.png",
+						"media_url_https": "https://pbs.twimg.com/media/D5GxurUU4AAnPGA.png",
+						"url": "https://t.co/hB6a4UoI5F",
+						"display_url": "pic.twitter.com/hB6a4UoI5F",
+						"expanded_url": "https://twitter.com/Benminnn/status/1121873548807528448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 351,
+								"h": 738,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 351,
+								"h": 738,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 323,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1121873197652041700,
+						"id_str": "1121873197652041728",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/D5GxurUU4AAnPGA.png",
+						"media_url_https": "https://pbs.twimg.com/media/D5GxurUU4AAnPGA.png",
+						"url": "https://t.co/hB6a4UoI5F",
+						"display_url": "pic.twitter.com/hB6a4UoI5F",
+						"expanded_url": "https://twitter.com/Benminnn/status/1121873548807528448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 351,
+								"h": 738,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 351,
+								"h": 738,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 323,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15697208,
+				"id_str": "15697208",
+				"name": "Ben Hodes",
+				"screen_name": "Benminnn",
+				"location": "Seattle, WA",
+				"description": "Area man 📝 PM Manager OneNote",
+				"url": "https://t.co/L80RszWp0N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L80RszWp0N",
+								"expanded_url": "http://thisisaponzischeme.com",
+								"display_url": "thisisaponzischeme.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 368,
+				"friends_count": 204,
+				"listed_count": 13,
+				"created_at": "Sat Aug 02 02:08:04 +0000 2008",
+				"favourites_count": 502,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 415,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824820392489480192/2BgUvjEg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824820392489480192/2BgUvjEg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15697208/1507162195",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 78,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whoa. That's quite a cat 😻 being let out of the #OneNote roadmap bag here!\n\nYou want Section Page Templates in #OneNote for #Windows10?\nYou got it.\n💖 Oh, and you say you want Page Sorting? \nYes, indeed that too is coming.\n\nOpen @Benminnn's tweet below and zoom in on the image: https://t.co/TRaBuBvEUN"
+	},
+	{
 		"created_at": "Fri Apr 26 21:17:18 +0000 2019",
 		"id": 1121885991432872000,
 		"id_str": "1121885991432871936",
