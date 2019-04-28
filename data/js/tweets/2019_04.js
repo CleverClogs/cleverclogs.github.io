@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 28 18:03:07 +0000 2019",
+		"id": 1120598730816794600,
+		"id_str": "1122561899516899329",
+		"full_text": "Here is a friendly reminder from @RichardBranson to take our #DyslexiaAwareness course on @microsoftEDU! https://t.co/IAOBtYzUik https://t.co/EYS1tRbiai",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DyslexiaAwareness",
+					"indices": [
+						61,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "richardbranson",
+					"name": "Richard Branson",
+					"id": 8161232,
+					"id_str": "8161232",
+					"indices": [
+						33,
+						48
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						90,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IAOBtYzUik",
+					"expanded_url": "https://bit.ly/2CivqLX",
+					"display_url": "bit.ly/2CivqLX",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1120598683689652200,
+					"id_str": "1120598683689652224",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120598683689652224/pu/img/lkSuv4iWt0EMI2tS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120598683689652224/pu/img/lkSuv4iWt0EMI2tS.jpg",
+					"url": "https://t.co/EYS1tRbiai",
+					"display_url": "pic.twitter.com/EYS1tRbiai",
+					"expanded_url": "https://twitter.com/MadeByDyslexia/status/1120598730816794624/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120598683689652200,
+					"id_str": "1120598683689652224",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1120598683689652224/pu/img/lkSuv4iWt0EMI2tS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1120598683689652224/pu/img/lkSuv4iWt0EMI2tS.jpg",
+					"url": "https://t.co/EYS1tRbiai",
+					"display_url": "pic.twitter.com/EYS1tRbiai",
+					"expanded_url": "https://twitter.com/MadeByDyslexia/status/1120598730816794624/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29520,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120598683689652224/pu/vid/720x720/Z-MLuXabovyfUAxq.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120598683689652224/pu/vid/480x480/pteUR2vUbcinuKto.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1120598683689652224/pu/pl/jSuOePRBvBOW2VvG.m3u8?tag=8"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1120598683689652224/pu/vid/320x320/5b71sIBBxDSNVe8u.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 846743880661942300,
+			"id_str": "846743880661942273",
+			"name": "Made By Dyslexia",
+			"screen_name": "MadeByDyslexia",
+			"location": "Worldwide",
+			"description": "We’re a global charity led by successful dyslexics. Our mission is to help the world understand the #ValueOfDyslexia #DyslexicThinking #MadeByDyslexia",
+			"url": "https://t.co/2DGohCIiLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2DGohCIiLd",
+							"expanded_url": "http://Madebydyslexia.org",
+							"display_url": "Madebydyslexia.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9973,
+			"friends_count": 378,
+			"listed_count": 51,
+			"created_at": "Tue Mar 28 15:20:47 +0000 2017",
+			"favourites_count": 3835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2929,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050730615719583744/S3nTLJ0B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050730615719583744/S3nTLJ0B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/846743880661942273/1539694194",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is a friendly reminder from @RichardBranson to take our #DyslexiaAwareness course on @microsoftEDU! https://t.co/IAOBtYzUik https://t.co/EYS1tRbiai"
+	},
+	{
 		"created_at": "Sun Apr 28 17:17:45 +0000 2019",
 		"id": 1122550482000654300,
 		"id_str": "1122550482000654339",
