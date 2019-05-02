@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 21:43:47 +0000 2019",
+		"id": 1124066984344342500,
+		"id_str": "1124066984344342529",
+		"full_text": "What we’ve all been waiting for in #OneNote Class Notebook on the modern versions of OneNote:\n\nPage distribution to multiple notebooks!\n#MicrosoftEdu https://t.co/JSwsuAB9ot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						136,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JSwsuAB9ot",
+					"expanded_url": "https://twitter.com/microsoftedu/status/1124058508222246912",
+					"display_url": "twitter.com/microsoftedu/s…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20871,
+			"friends_count": 7524,
+			"listed_count": 616,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25389,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124058508222246900,
+		"quoted_status_id_str": "1124058508222246912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JSwsuAB9ot",
+			"expanded": "https://twitter.com/microsoftedu/status/1124058508222246912",
+			"display": "twitter.com/microsoftedu/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 02 21:10:07 +0000 2019",
+			"id": 1124058508222246900,
+			"id_str": "1124058508222246912",
+			"full_text": "Now you can distribute a page to multiple Class Notebooks with a single click, saving you time when assigning the same project for multiple classes! Available for the #OneNote Windows 10 app, Online, iPad, and Mac. https://t.co/TZRLxXNIdM #edtech https://t.co/med0tzOKDy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							167,
+							175
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							239,
+							246
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TZRLxXNIdM",
+						"expanded_url": "http://msft.social/2N4HVi",
+						"display_url": "msft.social/2N4HVi",
+						"indices": [
+							215,
+							238
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1124058484524429300,
+						"id_str": "1124058484524429320",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1124058484524429320/img/nNWopqQOB_w3ltnu.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1124058484524429320/img/nNWopqQOB_w3ltnu.jpg",
+						"url": "https://t.co/med0tzOKDy",
+						"display_url": "pic.twitter.com/med0tzOKDy",
+						"expanded_url": "https://twitter.com/MicrosoftEDU/status/1124058508222246912/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1116,
+								"h": 628,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1116,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124058484524429300,
+						"id_str": "1124058484524429320",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1124058484524429320/img/nNWopqQOB_w3ltnu.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1124058484524429320/img/nNWopqQOB_w3ltnu.jpg",
+						"url": "https://t.co/med0tzOKDy",
+						"display_url": "pic.twitter.com/med0tzOKDy",
+						"expanded_url": "https://twitter.com/MicrosoftEDU/status/1124058508222246912/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1116,
+								"h": 628,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1116,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								279,
+								157
+							],
+							"duration_millis": 9051,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1124058484524429320/vid/478x270/tzqkNDe6ZsG-0aqM.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1124058484524429320/vid/1116x628/QLLeWqeT7WtGiawR.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1124058484524429320/vid/638x360/MIBx-4hSG61ydnCa.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1124058484524429320/pl/XaQY2caUH_rRaKfG.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17826187,
+				"id_str": "17826187",
+				"name": "Microsoft Education",
+				"screen_name": "MicrosoftEDU",
+				"location": "Redmond, WA",
+				"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+				"url": "https://t.co/Kq0bGCfbFO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Kq0bGCfbFO",
+								"expanded_url": "http://www.microsoft.com/education",
+								"display_url": "microsoft.com/education",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 345270,
+				"friends_count": 4369,
+				"listed_count": 3350,
+				"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+				"favourites_count": 22674,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 34183,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00BCF2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062798346409074688/6pQHQSeL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1508952382",
+				"profile_link_color": "0078D7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What we’ve all been waiting for in #OneNote Class Notebook on the modern versions of OneNote:\n\nPage distribution to multiple notebooks!\n#MicrosoftEdu https://t.co/JSwsuAB9ot"
+	},
+	{
 		"created_at": "Thu May 02 19:29:39 +0000 2019",
 		"id": 1124033227855933400,
 		"id_str": "1124033227855933441",
