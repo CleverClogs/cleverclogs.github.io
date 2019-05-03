@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 11:03:07 +0000 2019",
+		"id": 1124268139733299200,
+		"id_str": "1124268139733299200",
+		"full_text": "@OlafNennker @mtholfsen @OneNoteEDU @msonenote @MicrosoftEDU @arbar13 @sdelafosse @RobynHrivnatz @sparvell @LBayne Giphy animated GIFs are supported in the #OneNote app for #Windows10.\n\nSimply copy the Short Link or the GIF Link for the desired animated GIF to the clipboard and paste it into a OneNote page. The GIF player will instantly be displayed. \n\nExample:\nhttps://t.co/hp6U3I0pT3\n#oEmbed https://t.co/TWiuWg6PIp",
+		"truncated": false,
+		"display_text_range": [
+			115,
+			395
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "oEmbed",
+					"indices": [
+						388,
+						395
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OlafNennker",
+					"name": "Olaf NK",
+					"id": 238084354,
+					"id_str": "238084354",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						47,
+						60
+					]
+				},
+				{
+					"screen_name": "arbar13",
+					"name": "Ari Schorr",
+					"id": 36726617,
+					"id_str": "36726617",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"screen_name": "sdelafosse",
+					"name": "Sonja Delafosse",
+					"id": 111110878,
+					"id_str": "111110878",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "RobynHrivnatz",
+					"name": "Robyn Hrivnatz",
+					"id": 27044576,
+					"id_str": "27044576",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"screen_name": "sparvell",
+					"name": "Mark Sparvell",
+					"id": 33184994,
+					"id_str": "33184994",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"screen_name": "LBayne",
+					"name": "Lindsay Bayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						107,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hp6U3I0pT3",
+					"expanded_url": "https://gph.is/2zzwhJa",
+					"display_url": "gph.is/2zzwhJa",
+					"indices": [
+						364,
+						387
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1124267791387889700,
+					"id_str": "1124267791387889664",
+					"indices": [
+						396,
+						419
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124267791387889664/pu/img/8edVkI5Rwui7e1jx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124267791387889664/pu/img/8edVkI5Rwui7e1jx.jpg",
+					"url": "https://t.co/TWiuWg6PIp",
+					"display_url": "pic.twitter.com/TWiuWg6PIp",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1124268139733299200/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124267791387889700,
+					"id_str": "1124267791387889664",
+					"indices": [
+						396,
+						419
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124267791387889664/pu/img/8edVkI5Rwui7e1jx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124267791387889664/pu/img/8edVkI5Rwui7e1jx.jpg",
+					"url": "https://t.co/TWiuWg6PIp",
+					"display_url": "pic.twitter.com/TWiuWg6PIp",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1124268139733299200/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1124267791387889664/pu/vid/480x480/y8tFiGGYTecV9QB6.mp4?tag=9"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1124267791387889664/pu/vid/320x320/H2GRI8CVGRUtlTs1.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1124267791387889664/pu/pl/87-FCn-RtCjtH1Qb.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1124265007016026100,
+		"in_reply_to_status_id_str": "1124265007016026112",
+		"in_reply_to_user_id": 238084354,
+		"in_reply_to_user_id_str": "238084354",
+		"in_reply_to_screen_name": "OlafNennker",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20879,
+			"friends_count": 7524,
+			"listed_count": 615,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25391,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@OlafNennker @mtholfsen @OneNoteEDU @msonenote @MicrosoftEDU @arbar13 @sdelafosse @RobynHrivnatz @sparvell @LBayne Giphy animated GIFs are supported in the #OneNote app for #Windows10.\n\nSimply copy the Short Link or the GIF Link for the desired animated GIF to the clipboard and paste it into a OneNote page. The GIF player will instantly be displayed. \n\nExample:\nhttps://t.co/hp6U3I0pT3\n#oEmbed https://t.co/TWiuWg6PIp"
+	},
+	{
 		"created_at": "Fri May 03 09:58:59 +0000 2019",
 		"id": 1123253779825143800,
 		"id_str": "1124252000395431936",
