@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 08:33:42 +0000 2019",
+		"id": 1124592926795948000,
+		"id_str": "1124592926795948038",
+		"full_text": "Math teacher Sascha Sohn demonstrates how the Replay feature in #OneNote for #Windows10 helps students visualize and understand linear functions. \n\nWatch @SohnSascha's screencast video below: https://t.co/2VciXBgOMI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SohnSascha",
+					"name": "Sascha Sohn",
+					"id": 712212369338974200,
+					"id_str": "712212369338974209",
+					"indices": [
+						154,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2VciXBgOMI",
+					"expanded_url": "https://twitter.com/SohnSascha/status/1124575201168166912",
+					"display_url": "twitter.com/SohnSascha/sta…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20891,
+			"friends_count": 7526,
+			"listed_count": 616,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25395,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124575201168166900,
+		"quoted_status_id_str": "1124575201168166912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2VciXBgOMI",
+			"expanded": "https://twitter.com/SohnSascha/status/1124575201168166912",
+			"display": "twitter.com/SohnSascha/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 04 07:23:16 +0000 2019",
+			"id": 1124575201168166900,
+			"id_str": "1124575201168166912",
+			"full_text": "Gestern habe ich mit meiner 8. Kl. die lin. Funktionen wiederholt. Das #OneNote Feature \"Wiedergeben\" ist einfach zur Visualisierung der Zusammenhänge im Nachhinein sehr gut geeignet. Leider fehlt bei der orangen Funktionsgleichung die Steigung 2. #twitterlehrerzimmer #surface https://t.co/KmgqicM19F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							71,
+							79
+						]
+					},
+					{
+						"text": "twitterlehrerzimmer",
+						"indices": [
+							248,
+							268
+						]
+					},
+					{
+						"text": "surface",
+						"indices": [
+							269,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1124574008396189700,
+						"id_str": "1124574008396189697",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124574008396189697/pu/img/zegxfl2jVms_zGuX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124574008396189697/pu/img/zegxfl2jVms_zGuX.jpg",
+						"url": "https://t.co/KmgqicM19F",
+						"display_url": "pic.twitter.com/KmgqicM19F",
+						"expanded_url": "https://twitter.com/SohnSascha/status/1124575201168166912/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124574008396189700,
+						"id_str": "1124574008396189697",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124574008396189697/pu/img/zegxfl2jVms_zGuX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124574008396189697/pu/img/zegxfl2jVms_zGuX.jpg",
+						"url": "https://t.co/KmgqicM19F",
+						"display_url": "pic.twitter.com/KmgqicM19F",
+						"expanded_url": "https://twitter.com/SohnSascha/status/1124575201168166912/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 56165,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1124574008396189697/pu/vid/480x480/Ha3SMJHwKpOvbd8q.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1124574008396189697/pu/vid/320x320/OUYedUMGaRODT6TN.mp4?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1124574008396189697/pu/vid/720x720/FfjVhZ4dxYWsbbkM.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1124574008396189697/pu/pl/H2SaTdKBnrNwSj7-.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 712212369338974200,
+				"id_str": "712212369338974209",
+				"name": "Sascha Sohn",
+				"screen_name": "SohnSascha",
+				"location": "Ostbevern, Deutschland",
+				"description": "Lehrer | Gymnasium | NRW | Mathematik | Physik | #Surface | #iPad #MicrosoftEDU | #DigitaleBildung   #Office365 | #MSFTEduChat Alumni",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 573,
+				"friends_count": 844,
+				"listed_count": 14,
+				"created_at": "Tue Mar 22 09:40:35 +0000 2016",
+				"favourites_count": 1993,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 388,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1105368510589472768/uiwJkxyh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105368510589472768/uiwJkxyh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/712212369338974209/1547993807",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Math teacher Sascha Sohn demonstrates how the Replay feature in #OneNote for #Windows10 helps students visualize and understand linear functions. \n\nWatch @SohnSascha's screencast video below: https://t.co/2VciXBgOMI"
+	},
+	{
 		"created_at": "Sat May 04 06:06:23 +0000 2019",
 		"id": 1124555855251345400,
 		"id_str": "1124555855251345410",
