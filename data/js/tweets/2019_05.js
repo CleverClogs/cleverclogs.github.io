@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 14:13:43 +0000 2019",
+		"id": 1125011400827469800,
+		"id_str": "1125040884041617411",
+		"full_text": "So Win10 #OneNote now does &lt;Insert PrintOut&gt; of @Office365 files now!  It does push them into a PDF that it also attaches... but this is great progress!  \n#MIEExpert https://t.co/0blZK3um5Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						161,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						54,
+						64
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125011395454619600,
+					"id_str": "1125011395454619648",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D5zX51JW0AARFNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5zX51JW0AARFNI.jpg",
+					"url": "https://t.co/0blZK3um5Y",
+					"display_url": "pic.twitter.com/0blZK3um5Y",
+					"expanded_url": "https://twitter.com/sig225/status/1125011400827469825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 931,
+							"h": 571,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 931,
+							"h": 571,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125011395454619600,
+					"id_str": "1125011395454619648",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/D5zX51JW0AARFNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5zX51JW0AARFNI.jpg",
+					"url": "https://t.co/0blZK3um5Y",
+					"display_url": "pic.twitter.com/0blZK3um5Y",
+					"expanded_url": "https://twitter.com/sig225/status/1125011400827469825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 931,
+							"h": 571,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 931,
+							"h": 571,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12895782,
+			"id_str": "12895782",
+			"name": "Cal Armstrong",
+			"screen_name": "sig225",
+			"location": "Canada",
+			"description": "I learn; I help others learn\nMathematics Educator / Microsoft Education Fellow / PCMI - Institute for Advanced Study  / Aux Police A/Sgt\n[Opinions are my own]",
+			"url": "https://t.co/kozg07sk6j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kozg07sk6j",
+							"expanded_url": "http://about.me/armstrongc",
+							"display_url": "about.me/armstrongc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4692,
+			"friends_count": 3346,
+			"listed_count": 343,
+			"created_at": "Thu Jan 31 01:40:55 +0000 2008",
+			"favourites_count": 13467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26885,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775127662452879362/e9Uy2F72_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12895782/1503200733",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "ABD9FC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So Win10 #OneNote now does &lt;Insert PrintOut&gt; of @Office365 files now!  It does push them into a PDF that it also attaches... but this is great progress!  \n#MIEExpert https://t.co/0blZK3um5Y"
+	},
+	{
 		"created_at": "Sat May 04 20:07:29 +0000 2019",
 		"id": 1124767525634551800,
 		"id_str": "1124767525634551810",
