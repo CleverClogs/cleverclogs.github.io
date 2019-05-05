@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 19:17:43 +0000 2019",
+		"id": 1125117386422718500,
+		"id_str": "1125117386422718466",
+		"full_text": "Short screencast by #MVP Nate Chamberlain of what the nifty \"New Notebook\" dialog in #OneNote for #Windows10 looks like.\nIf you're not seeing this update yet, then please be patient. #Microsoft often rolls out new features to a small group first.\n\nThanks for sharing, @chambernate https://t.co/WAyR8qkGv2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MVP",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						183,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chambernate",
+					"name": "Nate Chamberlain 🏳️‍🌈🌻",
+					"id": 1463566356,
+					"id_str": "1463566356",
+					"indices": [
+						268,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WAyR8qkGv2",
+					"expanded_url": "https://twitter.com/chambernate/status/1124776244510429188",
+					"display_url": "twitter.com/chambernate/st…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20906,
+			"friends_count": 7527,
+			"listed_count": 616,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25401,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124776244510429200,
+		"quoted_status_id_str": "1124776244510429188",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WAyR8qkGv2",
+			"expanded": "https://twitter.com/chambernate/status/1124776244510429188",
+			"display": "twitter.com/chambernate/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 04 20:42:08 +0000 2019",
+			"id": 1124776244510429200,
+			"id_str": "1124776244510429188",
+			"full_text": "I love @msonenote's \"New Notebook\" dialog. Easily jump into a notebook pre-populated with relevant sections for your purpose (Windows 10 version) https://t.co/sk6NTODdDY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				145
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							7,
+							17
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1124776114327642100,
+						"id_str": "1124776114327642114",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124776114327642114/pu/img/Lk-pd92vDtkYgZQt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124776114327642114/pu/img/Lk-pd92vDtkYgZQt.jpg",
+						"url": "https://t.co/sk6NTODdDY",
+						"display_url": "pic.twitter.com/sk6NTODdDY",
+						"expanded_url": "https://twitter.com/chambernate/status/1124776244510429188/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1064,
+								"h": 924,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 591,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1064,
+								"h": 924,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124776114327642100,
+						"id_str": "1124776114327642114",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124776114327642114/pu/img/Lk-pd92vDtkYgZQt.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124776114327642114/pu/img/Lk-pd92vDtkYgZQt.jpg",
+						"url": "https://t.co/sk6NTODdDY",
+						"display_url": "pic.twitter.com/sk6NTODdDY",
+						"expanded_url": "https://twitter.com/chambernate/status/1124776244510429188/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 1064,
+								"h": 924,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 591,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1064,
+								"h": 924,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								38,
+								33
+							],
+							"duration_millis": 13913,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1124776114327642114/pu/pl/MRUaacw542apyjFW.m3u8?tag=9"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1124776114327642114/pu/vid/206x180/5quopvkrU-_L8s1K.mp4?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1124776114327642114/pu/vid/414x360/76soGNcwmVsEJjos.mp4?tag=9"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1124776114327642114/pu/vid/828x720/UNtQAcmQCR088ZcP.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1463566356,
+				"id_str": "1463566356",
+				"name": "Nate Chamberlain 🏳️‍🌈🌻",
+				"screen_name": "chambernate",
+				"location": "Lawrence, KS",
+				"description": "Microsoft MVP & O365 MCSA, Author of The ABCs of SharePoint (https://t.co/lecYgU64Qe) and Rise of the Advocates (https://t.co/jUQd1d8U4Q) and Director of #LSPUG",
+				"url": "https://t.co/71r9s6hr48",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/71r9s6hr48",
+								"expanded_url": "http://www.sharepointlibrarian.com",
+								"display_url": "sharepointlibrarian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lecYgU64Qe",
+								"expanded_url": "http://amzn.to/2Pzoi1D",
+								"display_url": "amzn.to/2Pzoi1D",
+								"indices": [
+									61,
+									84
+								]
+							},
+							{
+								"url": "https://t.co/jUQd1d8U4Q",
+								"expanded_url": "https://amzn.to/2I8gJ2C",
+								"display_url": "amzn.to/2I8gJ2C",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1289,
+				"friends_count": 1045,
+				"listed_count": 43,
+				"created_at": "Tue May 28 01:53:30 +0000 2013",
+				"favourites_count": 10262,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7944,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1030573465781370880/pnqGpFN3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030573465781370880/pnqGpFN3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1463566356/1549997253",
+				"profile_link_color": "0051BA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 78,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Short screencast by #MVP Nate Chamberlain of what the nifty \"New Notebook\" dialog in #OneNote for #Windows10 looks like.\nIf you're not seeing this update yet, then please be patient. #Microsoft often rolls out new features to a small group first.\n\nThanks for sharing, @chambernate https://t.co/WAyR8qkGv2"
+	},
+	{
 		"created_at": "Sun May 05 18:15:56 +0000 2019",
 		"id": 1125101627952615400,
 		"id_str": "1125101839031181314",
