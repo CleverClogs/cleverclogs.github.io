@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 12:06:36 +0000 2019",
+		"id": 1125371092909154300,
+		"id_str": "1125371281245908992",
+		"full_text": "From Ireland to Afghanistan, Kenya to Canada, we are ALL on the same mission. #NoMorePlastic. \nThousands of students across 69 countries focussing on potential solutions. Hear hear! https://t.co/eI9BUpQfDr https://t.co/lALL5BAx5f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoMorePlastic",
+					"indices": [
+						78,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eI9BUpQfDr",
+					"expanded_url": "https://no.moreplastic.info/topics",
+					"display_url": "no.moreplastic.info/topics",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125370773814829000,
+					"id_str": "1125370773814829057",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D54ewZ3W4AE6gcd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D54ewZ3W4AE6gcd.jpg",
+					"url": "https://t.co/lALL5BAx5f",
+					"display_url": "pic.twitter.com/lALL5BAx5f",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1125371092909154310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125370773814829000,
+					"id_str": "1125370773814829057",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D54ewZ3W4AE6gcd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D54ewZ3W4AE6gcd.jpg",
+					"url": "https://t.co/lALL5BAx5f",
+					"display_url": "pic.twitter.com/lALL5BAx5f",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1125371092909154310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125370773856763900,
+					"id_str": "1125370773856763905",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D54ewaBWwAEYdVT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D54ewaBWwAEYdVT.jpg",
+					"url": "https://t.co/lALL5BAx5f",
+					"display_url": "pic.twitter.com/lALL5BAx5f",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1125371092909154310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125370773877792800,
+					"id_str": "1125370773877792770",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D54ewaGXoAIsEH8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D54ewaGXoAIsEH8.jpg",
+					"url": "https://t.co/lALL5BAx5f",
+					"display_url": "pic.twitter.com/lALL5BAx5f",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1125371092909154310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1125370773944840200,
+					"id_str": "1125370773944840192",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/D54ewaWWsAA334b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D54ewaWWsAA334b.jpg",
+					"url": "https://t.co/lALL5BAx5f",
+					"display_url": "pic.twitter.com/lALL5BAx5f",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1125371092909154310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149593681,
+			"id_str": "149593681",
+			"name": "Koen Timmers",
+			"screen_name": "zelfstudie",
+			"location": "Belgium",
+			"description": "Author | Speaker | Lecturer | FRSA | @TeacherPrize Top10 | Founder https://t.co/sQfH7Mrx9B & @SDGlabschools | #MIEexpert | @NatGeo Educator | ♡ #EdTech #Sdgs",
+			"url": "https://t.co/CMArT0rZSU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CMArT0rZSU",
+							"expanded_url": "http://www.timmers.me",
+							"display_url": "timmers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sQfH7Mrx9B",
+							"expanded_url": "http://ProjectKakuma.com",
+							"display_url": "ProjectKakuma.com",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11785,
+			"friends_count": 9838,
+			"listed_count": 409,
+			"created_at": "Sat May 29 17:52:29 +0000 2010",
+			"favourites_count": 23189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9565,
+			"lang": "nl",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D0D0D0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963590632886489088/qxR2ZWWa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1512550696",
+			"profile_link_color": "D9650D",
+			"profile_sidebar_border_color": "0D0202",
+			"profile_sidebar_fill_color": "EDA426",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From Ireland to Afghanistan, Kenya to Canada, we are ALL on the same mission. #NoMorePlastic. \nThousands of students across 69 countries focussing on potential solutions. Hear hear! https://t.co/eI9BUpQfDr https://t.co/lALL5BAx5f"
+	},
+	{
 		"created_at": "Sun May 05 20:29:31 +0000 2019",
 		"id": 1125135454695755800,
 		"id_str": "1125135454695755777",
