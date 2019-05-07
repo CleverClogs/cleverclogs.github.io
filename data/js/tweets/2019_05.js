@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 21:04:46 +0000 2019",
+		"id": 1125869102260736000,
+		"id_str": "1125869102260736000",
+		"full_text": "@MS_Tech_Tchr @OneNoteEDU @edpuzzle To live-embed the @edpuzzle below in #OneNote, follow these steps:\n\n1. Open the link in your browser\n2. Copy the link web address from your browser address bar\n3. Paste the web address into a OneNote page:\nhttps://t.co/e9xyScoWCa\n\n#oEmbed https://t.co/uG3ZxJl2ai",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "oEmbed",
+					"indices": [
+						267,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MS_Tech_Tchr",
+					"name": "Donna M.",
+					"id": 2148024854,
+					"id_str": "2148024854",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "edpuzzle",
+					"name": "Edpuzzle",
+					"id": 1632870468,
+					"id_str": "1632870468",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "edpuzzle",
+					"name": "Edpuzzle",
+					"id": 1632870468,
+					"id_str": "1632870468",
+					"indices": [
+						54,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e9xyScoWCa",
+					"expanded_url": "https://edpuzzle.com/media/5798e4d9bad5d1680b87aeeb",
+					"display_url": "edpuzzle.com/media/5798e4d9…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125869093813403600,
+					"id_str": "1125869093813403648",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D5_j-chWwAAxJIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5_j-chWwAAxJIs.jpg",
+					"url": "https://t.co/uG3ZxJl2ai",
+					"display_url": "pic.twitter.com/uG3ZxJl2ai",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1125869102260736000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1418,
+							"h": 971,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125869093813403600,
+					"id_str": "1125869093813403648",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/D5_j-chWwAAxJIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5_j-chWwAAxJIs.jpg",
+					"url": "https://t.co/uG3ZxJl2ai",
+					"display_url": "pic.twitter.com/uG3ZxJl2ai",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1125869102260736000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1418,
+							"h": 971,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1125823126208680000,
+		"in_reply_to_status_id_str": "1125823126208679937",
+		"in_reply_to_user_id": 2148024854,
+		"in_reply_to_user_id_str": "2148024854",
+		"in_reply_to_screen_name": "MS_Tech_Tchr",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20930,
+			"friends_count": 7532,
+			"listed_count": 622,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25416,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MS_Tech_Tchr @OneNoteEDU @edpuzzle To live-embed the @edpuzzle below in #OneNote, follow these steps:\n\n1. Open the link in your browser\n2. Copy the link web address from your browser address bar\n3. Paste the web address into a OneNote page:\nhttps://t.co/e9xyScoWCa\n\n#oEmbed https://t.co/uG3ZxJl2ai"
+	},
+	{
 		"created_at": "Tue May 07 20:03:14 +0000 2019",
 		"id": 1125853619117592600,
 		"id_str": "1125853619117592579",
