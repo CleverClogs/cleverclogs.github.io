@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 08:21:05 +0000 2019",
+		"id": 1125675276241862700,
+		"id_str": "1125676916038565889",
+		"full_text": "Just in from @TwitterSupport: \nQuote Retweets may now contain images, an animated GIF or a video - see below.\n\nThis is good news for participants in Twitter chats, such as #MSFTEduChat TweetMeets.\n\nThis also works on the #NewTwitter web app.\nTweetMeet Tips animated GIF as proof: https://t.co/yE6KPXWnMw https://t.co/h05CKUOx3Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			303
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "NewTwitter",
+					"indices": [
+						221,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterSupport",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yE6KPXWnMw",
+					"expanded_url": "https://twitter.com/TwitterSupport/status/1125479034513645569",
+					"display_url": "twitter.com/TwitterSupport…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1125675265097646100,
+					"id_str": "1125675265097646081",
+					"indices": [
+						304,
+						327
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D58zsISWwAEYOqW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D58zsISWwAEYOqW.jpg",
+					"url": "https://t.co/h05CKUOx3Z",
+					"display_url": "pic.twitter.com/h05CKUOx3Z",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1125675276241862656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125675265097646100,
+					"id_str": "1125675265097646081",
+					"indices": [
+						304,
+						327
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D58zsISWwAEYOqW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D58zsISWwAEYOqW.jpg",
+					"url": "https://t.co/h05CKUOx3Z",
+					"display_url": "pic.twitter.com/h05CKUOx3Z",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1125675276241862656/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							455,
+							256
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D58zsISWwAEYOqW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2378,
+			"friends_count": 2011,
+			"listed_count": 21,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 766,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1555675669",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125479034513645600,
+		"quoted_status_id_str": "1125479034513645569",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yE6KPXWnMw",
+			"expanded": "https://twitter.com/TwitterSupport/status/1125479034513645569",
+			"display": "twitter.com/TwitterSupport…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 06 19:14:46 +0000 2019",
+			"id": 1125479034513645600,
+			"id_str": "1125479034513645569",
+			"full_text": "It's easy to express yourself by Retweeting with a comment. What if you could take it a step further and include media? Starting today, you can! Retweet with photos, a GIF, or a video to really make your reaction pop. Available on iOS, Android, and https://t.co/AzMLIfU3jB. https://t.co/Oir5Hpkb2F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AzMLIfU3jB",
+						"expanded_url": "https://mobile.twitter.com",
+						"display_url": "mobile.twitter.com",
+						"indices": [
+							249,
+							272
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1125478846289985500,
+						"id_str": "1125478846289985536",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D56BDDNUwAAxsUD.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D56BDDNUwAAxsUD.jpg",
+						"url": "https://t.co/Oir5Hpkb2F",
+						"display_url": "pic.twitter.com/Oir5Hpkb2F",
+						"expanded_url": "https://twitter.com/TwitterSupport/status/1125479034513645569/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1125478846289985500,
+						"id_str": "1125478846289985536",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D56BDDNUwAAxsUD.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D56BDDNUwAAxsUD.jpg",
+						"url": "https://t.co/Oir5Hpkb2F",
+						"display_url": "pic.twitter.com/Oir5Hpkb2F",
+						"expanded_url": "https://twitter.com/TwitterSupport/status/1125479034513645569/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D56BDDNUwAAxsUD.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17874544,
+				"id_str": "17874544",
+				"name": "Twitter Support",
+				"screen_name": "TwitterSupport",
+				"location": "Twitter HQ",
+				"description": "Your official source for Twitter Support. We're available 24/7 via Direct Message to answer account questions. Follow us for tips, tricks, and announcements.",
+				"url": "https://t.co/heEvRrl4yN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/heEvRrl4yN",
+								"expanded_url": "https://help.twitter.com",
+								"display_url": "help.twitter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5859794,
+				"friends_count": 17,
+				"listed_count": 15140,
+				"created_at": "Thu Dec 04 18:51:57 +0000 2008",
+				"favourites_count": 300,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 27951,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/941807338171777025/PRP6vwDq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/941807338171777025/PRP6vwDq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1499274456",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1179,
+			"favorite_count": 3215,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just in from @TwitterSupport: \nQuote Retweets may now contain images, an animated GIF or a video - see below.\n\nThis is good news for participants in Twitter chats, such as #MSFTEduChat TweetMeets.\n\nThis also works on the #NewTwitter web app.\nTweetMeet Tips animated GIF as proof: https://t.co/yE6KPXWnMw https://t.co/h05CKUOx3Z"
+	},
+	{
 		"created_at": "Tue May 07 07:52:42 +0000 2019",
 		"id": 1125669771872211000,
 		"id_str": "1125669771872210944",
