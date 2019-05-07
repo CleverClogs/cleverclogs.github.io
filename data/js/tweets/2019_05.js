@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 16:23:45 +0000 2019",
+		"id": 1125788385182748700,
+		"id_str": "1125798384793804800",
+		"full_text": "NEW! Dark Mode 🌑 for #OneNote Windows 10 is now rolling out to Office Insiders 😍 #edtech #edchat #MIEExpert #MicrosoftEDU\n\n1) Click \"...\" in the upper right\n2) Choose \"Settings\", then \"Options\"\n3) Join the \"Dark\" side https://t.co/xeYzN56VEs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						108,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1125788184174927900,
+					"id_str": "1125788184174927872",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/D5-aY4oUIAAQ8Ll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5-aY4oUIAAQ8Ll.jpg",
+					"url": "https://t.co/xeYzN56VEs",
+					"display_url": "pic.twitter.com/xeYzN56VEs",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1125788385182748672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1125788184174927900,
+					"id_str": "1125788184174927872",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/D5-aY4oUIAAQ8Ll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5-aY4oUIAAQ8Ll.jpg",
+					"url": "https://t.co/xeYzN56VEs",
+					"display_url": "pic.twitter.com/xeYzN56VEs",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1125788385182748672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #Accessibility @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17985,
+			"friends_count": 3198,
+			"listed_count": 727,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 61873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28703,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Dark Mode 🌑 for #OneNote Windows 10 is now rolling out to Office Insiders 😍 #edtech #edchat #MIEExpert #MicrosoftEDU\n\n1) Click \"...\" in the upper right\n2) Choose \"Settings\", then \"Options\"\n3) Join the \"Dark\" side https://t.co/xeYzN56VEs"
+	},
+	{
 		"created_at": "Tue May 07 15:02:37 +0000 2019",
 		"id": 1125777965369970700,
 		"id_str": "1125777965369970690",
