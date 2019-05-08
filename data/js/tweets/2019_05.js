@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 18:57:19 +0000 2019",
+		"id": 1126199418057822200,
+		"id_str": "1126199418057822208",
+		"full_text": "@MS_Tech_Tchr @OneNoteEDU @edpuzzle @mtholfsen @justinchando I understand, so the common denominator that stops the live-embedding is that the @EdPuzzle objects are part of an assignment in #OneNote? \n\nI think it's best to submit a problem report to https://t.co/ezBkUCozT8 about this, right @MTholfsen?",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			303
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						190,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MS_Tech_Tchr",
+					"name": "Donna M.",
+					"id": 2148024854,
+					"id_str": "2148024854",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "edpuzzle",
+					"name": "Edpuzzle",
+					"id": 1632870468,
+					"id_str": "1632870468",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "justinchando",
+					"name": "Justin Chando",
+					"id": 108410718,
+					"id_str": "108410718",
+					"indices": [
+						47,
+						60
+					]
+				},
+				{
+					"screen_name": "edpuzzle",
+					"name": "Edpuzzle",
+					"id": 1632870468,
+					"id_str": "1632870468",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						292,
+						302
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ezBkUCozT8",
+					"expanded_url": "https://aka.ms/EduSupport",
+					"display_url": "aka.ms/EduSupport",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1126198596322381800,
+		"in_reply_to_status_id_str": "1126198596322381825",
+		"in_reply_to_user_id": 2148024854,
+		"in_reply_to_user_id_str": "2148024854",
+		"in_reply_to_screen_name": "MS_Tech_Tchr",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20944,
+			"friends_count": 7536,
+			"listed_count": 622,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25418,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MS_Tech_Tchr @OneNoteEDU @edpuzzle @mtholfsen @justinchando I understand, so the common denominator that stops the live-embedding is that the @EdPuzzle objects are part of an assignment in #OneNote? \n\nI think it's best to submit a problem report to https://t.co/ezBkUCozT8 about this, right @MTholfsen?"
+	},
+	{
 		"created_at": "Wed May 08 12:39:17 +0000 2019",
 		"id": 1126104282472824800,
 		"id_str": "1126104282472824832",
