@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 16:12:30 +0000 2019",
+		"id": 1126520327385829400,
+		"id_str": "1126520327385829381",
+		"full_text": "I'm without words.\nLaura has just announced she's stepping down from the NoTa Team, which includes #OneNote.\nRead the thread below. \n\nThank you sincerely for all you've done for the OneNote community, for educators and all OneNote fans around the world,, @LauraCatPJs. 🍪+😿 https://t.co/LKJ9a8mUCR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LauraCatPJs",
+					"name": "Laura Butler, 👸🦹🏾‍♀️🧝🏻‍♀️ of 💻",
+					"id": 760954730612797400,
+					"id_str": "760954730612797440",
+					"indices": [
+						255,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LKJ9a8mUCR",
+					"expanded_url": "https://twitter.com/LauraCatPJs/status/1126512869250437124",
+					"display_url": "twitter.com/LauraCatPJs/st…",
+					"indices": [
+						273,
+						296
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20949,
+			"friends_count": 7537,
+			"listed_count": 622,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126512869250437100,
+		"quoted_status_id_str": "1126512869250437124",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LKJ9a8mUCR",
+			"expanded": "https://twitter.com/LauraCatPJs/status/1126512869250437124",
+			"display": "twitter.com/LauraCatPJs/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 09 15:42:52 +0000 2019",
+			"id": 1126512869250437100,
+			"id_str": "1126512869250437124",
+			"full_text": "Hi tweeps.  I have some news.  As of today I have stepped down from running @msonenote @stickynotes and @MicrosoftToDo and they are moving to @ShilpaRan.\n\n1/",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							76,
+							86
+						]
+					},
+					{
+						"screen_name": "stickynotes",
+						"name": "Sticky Notes",
+						"id": 774181166924509200,
+						"id_str": "774181166924509184",
+						"indices": [
+							87,
+							99
+						]
+					},
+					{
+						"screen_name": "MicrosoftToDo",
+						"name": "Microsoft To-Do",
+						"id": 846381363544707100,
+						"id_str": "846381363544707074",
+						"indices": [
+							104,
+							118
+						]
+					},
+					{
+						"screen_name": "ShilpaRan",
+						"name": "Shilpa Ranganathan",
+						"id": 890372445269446700,
+						"id_str": "890372445269446656",
+						"indices": [
+							142,
+							152
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 760954730612797400,
+				"id_str": "760954730612797440",
+				"name": "Laura Butler, 👸🦹🏾‍♀️🧝🏻‍♀️ of 💻",
+				"screen_name": "LauraCatPJs",
+				"location": "Seattle, Earth, Sol, Milky Way",
+				"description": "Vice President & Technical Fellow 🍪Yogi 🐻and Mary Poppins of Tech 🍪 #BlackLivesMatter @KalAcademy @RainierScholars @eji_org",
+				"url": "https://t.co/l357DESfTS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l357DESfTS",
+								"expanded_url": "https://www.linkedin.com/in/lauracatpjs",
+								"display_url": "linkedin.com/in/lauracatpjs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7637,
+				"friends_count": 74,
+				"listed_count": 164,
+				"created_at": "Wed Aug 03 21:45:20 +0000 2016",
+				"favourites_count": 44227,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18324,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061738377047760896/fAVhAhfl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061738377047760896/fAVhAhfl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/760954730612797440/1472326676",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm without words.\nLaura has just announced she's stepping down from the NoTa Team, which includes #OneNote.\nRead the thread below. \n\nThank you sincerely for all you've done for the OneNote community, for educators and all OneNote fans around the world,, @LauraCatPJs. 🍪+😿 https://t.co/LKJ9a8mUCR"
+	},
+	{
 		"created_at": "Wed May 08 21:38:41 +0000 2019",
 		"id": 1126240028307402800,
 		"id_str": "1126240028307402752",
