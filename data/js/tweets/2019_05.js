@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 22:41:30 +0000 2019",
+		"id": 1126618224408375300,
+		"id_str": "1126618224408375297",
+		"full_text": "@NotedByRyan @LauraCatPJs @OneNoteEDU @mtholfsen @Benminnn @tonyhe365 @msonenote @stickynotes @marcusash @MicrosoftToDo These fancy, nerdy red shoes, you mean?\n\nhttps://t.co/x4paxQhkKf",
+		"truncated": false,
+		"display_text_range": [
+			120,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotedByRyan",
+					"name": "Ryan McMinn",
+					"id": 729049944133226500,
+					"id_str": "729049944133226496",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "LauraCatPJs",
+					"name": "Laura Butler, 👸🦹🏾‍♀️🧝🏻‍♀️ of 💻",
+					"id": 760954730612797400,
+					"id_str": "760954730612797440",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "Benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"screen_name": "tonyhe365",
+					"name": "Tony He",
+					"id": 1033443314282819600,
+					"id_str": "1033443314282819584",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"screen_name": "stickynotes",
+					"name": "Sticky Notes",
+					"id": 774181166924509200,
+					"id_str": "774181166924509184",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"screen_name": "marcusash",
+					"name": "Marcus Ash",
+					"id": 6139482,
+					"id_str": "6139482",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"screen_name": "MicrosoftToDo",
+					"name": "Microsoft To-Do",
+					"id": 846381363544707100,
+					"id_str": "846381363544707074",
+					"indices": [
+						105,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x4paxQhkKf",
+					"expanded_url": "https://twitter.com/LauraCatPJs/status/1124143241375281152",
+					"display_url": "twitter.com/LauraCatPJs/st…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1126609265408352300,
+		"in_reply_to_status_id_str": "1126609265408352256",
+		"in_reply_to_user_id": 729049944133226500,
+		"in_reply_to_user_id_str": "729049944133226496",
+		"in_reply_to_screen_name": "NotedByRyan",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20954,
+			"friends_count": 7540,
+			"listed_count": 622,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25424,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124143241375281200,
+		"quoted_status_id_str": "1124143241375281152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x4paxQhkKf",
+			"expanded": "https://twitter.com/LauraCatPJs/status/1124143241375281152",
+			"display": "twitter.com/LauraCatPJs/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 03 02:46:48 +0000 2019",
+			"id": 1124143241375281200,
+			"id_str": "1124143241375281152",
+			"full_text": "Any other @Microsoft folks here at the @geekwire awards?  I'm standing against the back wall looking at the r side of the stage.  \n\nIf you want a nerdy introvert pal come hang.  This me https://t.co/HCR7VeUsGR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Microsoft",
+						"name": "Microsoft",
+						"id": 74286565,
+						"id_str": "74286565",
+						"indices": [
+							10,
+							20
+						]
+					},
+					{
+						"screen_name": "geekwire",
+						"name": "GeekWire",
+						"id": 255784266,
+						"id_str": "255784266",
+						"indices": [
+							39,
+							48
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1124143201063858200,
+						"id_str": "1124143201063858177",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/D5nCSRAU8AEKhG4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5nCSRAU8AEKhG4.jpg",
+						"url": "https://t.co/HCR7VeUsGR",
+						"display_url": "pic.twitter.com/HCR7VeUsGR",
+						"expanded_url": "https://twitter.com/LauraCatPJs/status/1124143241375281152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124143201063858200,
+						"id_str": "1124143201063858177",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/D5nCSRAU8AEKhG4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5nCSRAU8AEKhG4.jpg",
+						"url": "https://t.co/HCR7VeUsGR",
+						"display_url": "pic.twitter.com/HCR7VeUsGR",
+						"expanded_url": "https://twitter.com/LauraCatPJs/status/1124143241375281152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 760954730612797400,
+				"id_str": "760954730612797440",
+				"name": "Laura Butler, 👸🦹🏾‍♀️🧝🏻‍♀️ of 💻",
+				"screen_name": "LauraCatPJs",
+				"location": "Seattle, Earth, Sol, Milky Way",
+				"description": "Vice President & Technical Fellow 🍪Yogi 🐻and Mary Poppins of Tech 🍪 #BlackLivesMatter @KalAcademy @RainierScholars @eji_org",
+				"url": "https://t.co/l357DESfTS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l357DESfTS",
+								"expanded_url": "https://www.linkedin.com/in/lauracatpjs",
+								"display_url": "linkedin.com/in/lauracatpjs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7660,
+				"friends_count": 74,
+				"listed_count": 165,
+				"created_at": "Wed Aug 03 21:45:20 +0000 2016",
+				"favourites_count": 44308,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18337,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061738377047760896/fAVhAhfl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061738377047760896/fAVhAhfl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/760954730612797440/1472326676",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@NotedByRyan @LauraCatPJs @OneNoteEDU @mtholfsen @Benminnn @tonyhe365 @msonenote @stickynotes @marcusash @MicrosoftToDo These fancy, nerdy red shoes, you mean?\n\nhttps://t.co/x4paxQhkKf"
+	},
+	{
 		"created_at": "Thu May 09 18:23:52 +0000 2019",
 		"id": 1126552942440357900,
 		"id_str": "1126553387418435585",
