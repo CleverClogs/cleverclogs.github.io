@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 17:02:00 +0000 2019",
+		"id": 1126532697176678400,
+		"id_str": "1126532786628825088",
+		"full_text": "Today we launched the @mstranslator for Education site: a site with free resources, tools, and how-to guides for live captioning and translation. https://t.co/y8dF5y4myy #TranslatorEDU #MicrosoftEDU https://t.co/msEXdnmCnP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TranslatorEDU",
+					"indices": [
+						170,
+						184
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						185,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mstranslator",
+					"name": "Microsoft Translator",
+					"id": 77333869,
+					"id_str": "77333869",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y8dF5y4myy",
+					"expanded_url": "http://www.aka.ms/translatoredu",
+					"display_url": "aka.ms/translatoredu",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126532694488129500,
+					"id_str": "1126532694488129536",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D6I_hFrUIAAl_wc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6I_hFrUIAAl_wc.jpg",
+					"url": "https://t.co/msEXdnmCnP",
+					"display_url": "pic.twitter.com/msEXdnmCnP",
+					"expanded_url": "https://twitter.com/mstranslator/status/1126532697176678400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 539,
+							"h": 303,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 539,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 539,
+							"h": 303,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126532694488129500,
+					"id_str": "1126532694488129536",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/D6I_hFrUIAAl_wc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6I_hFrUIAAl_wc.jpg",
+					"url": "https://t.co/msEXdnmCnP",
+					"display_url": "pic.twitter.com/msEXdnmCnP",
+					"expanded_url": "https://twitter.com/mstranslator/status/1126532697176678400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 539,
+							"h": 303,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 539,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 539,
+							"h": 303,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77333869,
+			"id_str": "77333869",
+			"name": "Microsoft Translator",
+			"screen_name": "mstranslator",
+			"location": "Seattle, WA",
+			"description": "Microsoft's powerful automatic translation service powers translations in our phone and PC apps, Office, and Bing, as well as on many partner apps and sites.",
+			"url": "http://t.co/IKYEbvWi7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/IKYEbvWi7U",
+							"expanded_url": "http://www.microsoft.com/Translator",
+							"display_url": "microsoft.com/Translator",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27939,
+			"friends_count": 39,
+			"listed_count": 215,
+			"created_at": "Fri Sep 25 22:59:34 +0000 2009",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F1F2C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955890554683908096/Kd1GjGWn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955890554683908096/Kd1GjGWn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77333869/1517352312",
+			"profile_link_color": "226DC9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8CCBEA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we launched the @mstranslator for Education site: a site with free resources, tools, and how-to guides for live captioning and translation. https://t.co/y8dF5y4myy #TranslatorEDU #MicrosoftEDU https://t.co/msEXdnmCnP"
+	},
+	{
 		"created_at": "Thu May 09 16:12:30 +0000 2019",
 		"id": 1126520327385829400,
 		"id_str": "1126520327385829381",
@@ -24,7 +234,7 @@ Grailbird.data.tweets_2019_05 =
 			"user_mentions": [
 				{
 					"screen_name": "LauraCatPJs",
-					"name": "Laura Butler, 👸🦹🏾‍♀️🧝🏻‍♀️ of 💻",
+					"name": "Laura Butler, 👸🦹🏾♀️🧝🏻♀️ of 💻",
 					"id": 760954730612797400,
 					"id_str": "760954730612797440",
 					"indices": [
@@ -190,7 +400,7 @@ Grailbird.data.tweets_2019_05 =
 			"user": {
 				"id": 760954730612797400,
 				"id_str": "760954730612797440",
-				"name": "Laura Butler, 👸🦹🏾‍♀️🧝🏻‍♀️ of 💻",
+				"name": "Laura Butler, 👸🦹🏾♀️🧝🏻♀️ of 💻",
 				"screen_name": "LauraCatPJs",
 				"location": "Seattle, Earth, Sol, Milky Way",
 				"description": "Vice President & Technical Fellow 🍪Yogi 🐻and Mary Poppins of Tech 🍪 #BlackLivesMatter @KalAcademy @RainierScholars @eji_org",
