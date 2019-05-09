@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 18:23:52 +0000 2019",
+		"id": 1126552942440357900,
+		"id_str": "1126553387418435585",
+		"full_text": "Join our superstar hosts to discuss Inclusive Classrooms and #Accessibility 💯\n⌚ Tuesday May 21, at 10am PDT | 1pm EDT \n\nThis Sway has details: 📃 https://t.co/Bb0901IrR4\n\n#MSFTEduChat #MIEExpert #AssistiveTech #dyslexia #a11y #ATChat #SPEDChat #SPED #MicrosoftEDU https://t.co/4sBgAxYEac",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Accessibility",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						170,
+						182
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"text": "AssistiveTech",
+					"indices": [
+						194,
+						208
+					]
+				},
+				{
+					"text": "dyslexia",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "a11y",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "ATChat",
+					"indices": [
+						225,
+						232
+					]
+				},
+				{
+					"text": "SPEDChat",
+					"indices": [
+						233,
+						242
+					]
+				},
+				{
+					"text": "SPED",
+					"indices": [
+						243,
+						248
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						249,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bb0901IrR4",
+					"expanded_url": "https://sway.office.com/YytIJ61uH8kC6IPm",
+					"display_url": "sway.office.com/YytIJ61uH8kC6I…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1126550498830536700,
+					"id_str": "1126550498830536706",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/D6JPtcBVUAIdCc8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6JPtcBVUAIdCc8.jpg",
+					"url": "https://t.co/4sBgAxYEac",
+					"display_url": "pic.twitter.com/4sBgAxYEac",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1126552942440357888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1588,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126550498830536700,
+					"id_str": "1126550498830536706",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/D6JPtcBVUAIdCc8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6JPtcBVUAIdCc8.jpg",
+					"url": "https://t.co/4sBgAxYEac",
+					"display_url": "pic.twitter.com/4sBgAxYEac",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1126552942440357888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1588,
+							"h": 898,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #Accessibility @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18078,
+			"friends_count": 3203,
+			"listed_count": 728,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 62075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28754,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join our superstar hosts to discuss Inclusive Classrooms and #Accessibility 💯\n⌚ Tuesday May 21, at 10am PDT | 1pm EDT \n\nThis Sway has details: 📃 https://t.co/Bb0901IrR4\n\n#MSFTEduChat #MIEExpert #AssistiveTech #dyslexia #a11y #ATChat #SPEDChat #SPED #MicrosoftEDU https://t.co/4sBgAxYEac"
+	},
+	{
 		"created_at": "Thu May 09 17:02:00 +0000 2019",
 		"id": 1126532697176678400,
 		"id_str": "1126532786628825088",
