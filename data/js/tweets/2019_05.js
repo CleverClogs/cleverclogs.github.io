@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 04:33:44 +0000 2019",
+		"id": 1127419646401892400,
+		"id_str": "1127431639871754242",
+		"full_text": "Why hello there Dark Mode in OneNote 😏\nAm I the only one who finds this just a little bit sexy? @OneNoteEDU @msonenote @OneNoteC @UNSWEngineering https://t.co/kREB9cCQXZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						96,
+						107
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"screen_name": "UNSWEngineering",
+					"name": "UNSW Engineering",
+					"id": 2432748481,
+					"id_str": "2432748481",
+					"indices": [
+						129,
+						145
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127419628756422700,
+					"id_str": "1127419628756422656",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D6VmLdTUUAAUPtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6VmLdTUUAAUPtf.jpg",
+					"url": "https://t.co/kREB9cCQXZ",
+					"display_url": "pic.twitter.com/kREB9cCQXZ",
+					"expanded_url": "https://twitter.com/DrKellermann/status/1127419646401892352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1450,
+							"h": 1578,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1103,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127419628756422700,
+					"id_str": "1127419628756422656",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/D6VmLdTUUAAUPtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6VmLdTUUAAUPtf.jpg",
+					"url": "https://t.co/kREB9cCQXZ",
+					"display_url": "pic.twitter.com/kREB9cCQXZ",
+					"expanded_url": "https://twitter.com/DrKellermann/status/1127419646401892352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1450,
+							"h": 1578,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1103,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46991202,
+			"id_str": "46991202",
+			"name": "Dr David C. Kellermann",
+			"screen_name": "DrKellermann",
+			"location": "Australia",
+			"description": "Lecturer and academic at UNSW Sydney. #EducationInnovation",
+			"url": "https://t.co/IJ4eCokbS5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IJ4eCokbS5",
+							"expanded_url": "https://au.linkedin.com/in/dkellermann",
+							"display_url": "au.linkedin.com/in/dkellermann",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 216,
+			"listed_count": 0,
+			"created_at": "Sat Jun 13 23:59:32 +0000 2009",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 129,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1008587604105703424/PDngaDTU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008587604105703424/PDngaDTU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46991202/1529301172",
+			"profile_link_color": "FFE600",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why hello there Dark Mode in OneNote 😏\nAm I the only one who finds this just a little bit sexy? @OneNoteEDU @msonenote @OneNoteC @UNSWEngineering https://t.co/kREB9cCQXZ"
+	},
+	{
 		"created_at": "Sat May 11 23:41:09 +0000 2019",
 		"id": 1126550013918580700,
 		"id_str": "1127358009770958848",
