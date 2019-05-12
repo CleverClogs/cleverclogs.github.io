@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 23:41:09 +0000 2019",
+		"id": 1126550013918580700,
+		"id_str": "1127358009770958848",
+		"full_text": "I used @msonenote extensively during my Masters Thesis. It was a life-saver back then. I just started it up again and its now:\n1. Gorgeous\n2. More intuitive\n3. More powerful\n\nReally impressed with it. It makes me want to journal more and note-take more.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 401763464,
+			"id_str": "401763464",
+			"name": "Matt Cromwell",
+			"screen_name": "learnwithmattc",
+			"location": "San Diego, CA",
+			"description": "Partner and Head of Support and Community Outreach at @ImpressOrg. Proud co-author of @GiveWP and Admin of @AdvancedWP",
+			"url": "https://t.co/pm2k33NmFn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pm2k33NmFn",
+							"expanded_url": "https://www.mattcromwell.com",
+							"display_url": "mattcromwell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3433,
+			"friends_count": 1647,
+			"listed_count": 283,
+			"created_at": "Mon Oct 31 01:48:19 +0000 2011",
+			"favourites_count": 12614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6365,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "270909",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113927118197379073/l0bujRPg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113927118197379073/l0bujRPg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/401763464/1505844531",
+			"profile_link_color": "270909",
+			"profile_sidebar_border_color": "4F606E",
+			"profile_sidebar_fill_color": "CFB988",
+			"profile_text_color": "565047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I used @msonenote extensively during my Masters Thesis. It was a life-saver back then. I just started it up again and its now:\n1. Gorgeous\n2. More intuitive\n3. More powerful\n\nReally impressed with it. It makes me want to journal more and note-take more."
+	},
+	{
 		"created_at": "Sat May 11 14:14:29 +0000 2019",
 		"id": 1127215403124568000,
 		"id_str": "1127215403124568064",
