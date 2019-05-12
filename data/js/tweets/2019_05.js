@@ -1,6 +1,161 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 10:15:00 +0000 2019",
+		"id": 1127517523417731100,
+		"id_str": "1127517523417731072",
+		"full_text": "@mashable @remarkablepaper So, if you already have an #iPadPro + Pencil and/or a #Surface device + Pen, does the #Remarkable add any value? Barrier-free #notetaking?\n\nThis automatically makes me wonder if @ulrikahedlund has tried the Remarkable...",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iPadPro",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "Surface",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "Remarkable",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"text": "notetaking",
+					"indices": [
+						153,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mashable",
+					"name": "Mashable",
+					"id": 972651,
+					"id_str": "972651",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "remarkablepaper",
+					"name": "reMarkable",
+					"id": 737534308563324900,
+					"id_str": "737534308563324929",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "ulrikahedlund",
+					"name": "Ulrika Hedlund",
+					"id": 118924116,
+					"id_str": "118924116",
+					"indices": [
+						205,
+						219
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1127506539466711000,
+		"in_reply_to_status_id_str": "1127506539466711040",
+		"in_reply_to_user_id": 2582768738,
+		"in_reply_to_user_id_str": "2582768738",
+		"in_reply_to_screen_name": "OneNoteC",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20994,
+			"friends_count": 7547,
+			"listed_count": 624,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25430,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mashable @remarkablepaper So, if you already have an #iPadPro + Pencil and/or a #Surface device + Pen, does the #Remarkable add any value? Barrier-free #notetaking?\n\nThis automatically makes me wonder if @ulrikahedlund has tried the Remarkable..."
+	},
+	{
 		"created_at": "Sun May 12 04:33:44 +0000 2019",
 		"id": 1127419646401892400,
 		"id_str": "1127431639871754242",
