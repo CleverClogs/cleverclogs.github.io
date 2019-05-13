@@ -1,10 +1,476 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 13 11:51:23 +0000 2019",
+		"id": 1127904166704234500,
+		"id_str": "1127904166704234497",
+		"full_text": "❓ Educators, how inclusive and accessible is your classroom?\nThat's the topic of the #MSFTEduChat TweetMeet on Tuesday May 21.\n\nBeautiful TweetMeet Invitation #Sway below, with the 5 questions, host bios and event details.\n\n#inclusion #accessibility\n#MicrosoftEDU #MIEExpert https://t.co/i34ezMwVLd https://t.co/I8Gu4vMLLM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			298
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						85,
+						97
+					]
+				},
+				{
+					"text": "Sway",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "inclusion",
+					"indices": [
+						224,
+						234
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						235,
+						249
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						250,
+						263
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						264,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i34ezMwVLd",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1126538627285168133",
+					"display_url": "twitter.com/TweetMeet/stat…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1127904153794220000,
+					"id_str": "1127904153794220038",
+					"indices": [
+						299,
+						322
+					],
+					"media_url": "http://pbs.twimg.com/media/D6ce2huXkAYUpjK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6ce2huXkAYUpjK.jpg",
+					"url": "https://t.co/I8Gu4vMLLM",
+					"display_url": "pic.twitter.com/I8Gu4vMLLM",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1127904166704234497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127904153794220000,
+					"id_str": "1127904153794220038",
+					"indices": [
+						299,
+						322
+					],
+					"media_url": "http://pbs.twimg.com/media/D6ce2huXkAYUpjK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6ce2huXkAYUpjK.jpg",
+					"url": "https://t.co/I8Gu4vMLLM",
+					"display_url": "pic.twitter.com/I8Gu4vMLLM",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1127904166704234497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21003,
+			"friends_count": 7549,
+			"listed_count": 624,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25435,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126538627285168100,
+		"quoted_status_id_str": "1126538627285168133",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i34ezMwVLd",
+			"expanded": "https://twitter.com/TweetMeet/status/1126538627285168133",
+			"display": "twitter.com/TweetMeet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 09 17:25:13 +0000 2019",
+			"id": 1126538627285168100,
+			"id_str": "1126538627285168133",
+			"full_text": "📢 Just in: our brand-new TweetMeet Invitation #Sway for May 21.\n\nJoin our passionate hosts to discuss Inclusive Classrooms and #Accessibility:\nhttps://t.co/mFLvL3aaqi\n\nPlease share in a retweet why this interests you. Use #MSFTEduChat.\n#inclusion #MicrosoftEDU\nAnimated GIF: https://t.co/748pxOLlFp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Sway",
+						"indices": [
+							46,
+							51
+						]
+					},
+					{
+						"text": "Accessibility",
+						"indices": [
+							127,
+							141
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							222,
+							234
+						]
+					},
+					{
+						"text": "inclusion",
+						"indices": [
+							236,
+							246
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							247,
+							260
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mFLvL3aaqi",
+						"expanded_url": "https://sway.office.com/YytIJ61uH8kC6IPm",
+						"display_url": "sway.office.com/YytIJ61uH8kC6I…",
+						"indices": [
+							143,
+							166
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1126538603004403700,
+						"id_str": "1126538603004403712",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6JE5AnXoAAza3D.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6JE5AnXoAAza3D.jpg",
+						"url": "https://t.co/748pxOLlFp",
+						"display_url": "pic.twitter.com/748pxOLlFp",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1126538627285168133/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1126538603004403700,
+						"id_str": "1126538603004403712",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6JE5AnXoAAza3D.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6JE5AnXoAAza3D.jpg",
+						"url": "https://t.co/748pxOLlFp",
+						"display_url": "pic.twitter.com/748pxOLlFp",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1126538627285168133/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								600,
+								337
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D6JE5AnXoAAza3D.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central #MSFTEduChat",
+				"screen_name": "TweetMeet",
+				"location": "World",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+				"url": "https://t.co/vTmAj2KFoN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTmAj2KFoN",
+								"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+								"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2457,
+				"friends_count": 2037,
+				"listed_count": 22,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 1603,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 774,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1555675669",
+				"profile_link_color": "E3008C",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❓ Educators, how inclusive and accessible is your classroom?\nThat's the topic of the #MSFTEduChat TweetMeet on Tuesday May 21.\n\nBeautiful TweetMeet Invitation #Sway below, with the 5 questions, host bios and event details.\n\n#inclusion #accessibility\n#MicrosoftEDU #MIEExpert https://t.co/i34ezMwVLd https://t.co/I8Gu4vMLLM"
+	},
+	{
 		"created_at": "Sun May 12 23:41:55 +0000 2019",
 		"id": 1127720590389936100,
 		"id_str": "1127720590389936128",
-		"full_text": "@brunohorvat @joebelfiore If you like the Format Painter in #OneNote for #Windows10 and want ultra-fast access to it, consider using its keyboard shortcuts instead of the ribbon command.\n\nOnce Ctrl+Shift+C and Ctrl+Shift+V are settled in your muscle memory, you'll work so much faster. 🏋️‍♀️",
+		"full_text": "@brunohorvat @joebelfiore If you like the Format Painter in #OneNote for #Windows10 and want ultra-fast access to it, consider using its keyboard shortcuts instead of the ribbon command.\n\nOnce Ctrl+Shift+C and Ctrl+Shift+V are settled in your muscle memory, you'll work so much faster. 🏋️♀️",
 		"truncated": false,
 		"display_text_range": [
 			26,
@@ -129,7 +595,7 @@ Grailbird.data.tweets_2019_05 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@brunohorvat @joebelfiore If you like the Format Painter in #OneNote for #Windows10 and want ultra-fast access to it, consider using its keyboard shortcuts instead of the ribbon command.\n\nOnce Ctrl+Shift+C and Ctrl+Shift+V are settled in your muscle memory, you'll work so much faster. 🏋️‍♀️"
+		"text": "@brunohorvat @joebelfiore If you like the Format Painter in #OneNote for #Windows10 and want ultra-fast access to it, consider using its keyboard shortcuts instead of the ribbon command.\n\nOnce Ctrl+Shift+C and Ctrl+Shift+V are settled in your muscle memory, you'll work so much faster. 🏋️♀️"
 	},
 	{
 		"created_at": "Sun May 12 16:36:21 +0000 2019",
