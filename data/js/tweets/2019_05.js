@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 11:44:39 +0000 2019",
+		"id": 1128019240953339900,
+		"id_str": "1128264858628128768",
+		"full_text": "Want to learn how to make classrooms more inclusive and accessible? Join the next @TweetMeet on Tuesday, May 21! https://t.co/ImScIHZwEs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central #MSFTEduChat",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ImScIHZwEs",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1126538627285168133",
+					"display_url": "twitter.com/TweetMeet/stat…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 458619342,
+			"id_str": "458619342",
+			"name": "MSFT Accessibility",
+			"screen_name": "MSFTEnable",
+			"location": "Redmond, WA",
+			"description": "Hello! We're here with news, insights, and updates from Microsoft Accessibility.",
+			"url": "https://t.co/nyzY7wGZ7P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nyzY7wGZ7P",
+							"expanded_url": "http://www.microsoft.com/accessibility",
+							"display_url": "microsoft.com/accessibility",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25141,
+			"friends_count": 10519,
+			"listed_count": 706,
+			"created_at": "Sun Jan 08 19:26:40 +0000 2012",
+			"favourites_count": 55981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12901,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001560600030281730/9PhnSxS3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001560600030281730/9PhnSxS3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/458619342/1549664984",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126538627285168100,
+		"quoted_status_id_str": "1126538627285168133",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ImScIHZwEs",
+			"expanded": "https://twitter.com/TweetMeet/status/1126538627285168133",
+			"display": "twitter.com/TweetMeet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 09 17:25:13 +0000 2019",
+			"id": 1126538627285168100,
+			"id_str": "1126538627285168133",
+			"full_text": "📢 Just in: our brand-new TweetMeet Invitation #Sway for May 21.\n\nJoin our passionate hosts to discuss Inclusive Classrooms and #Accessibility:\nhttps://t.co/mFLvL3aaqi\n\nPlease share in a retweet why this interests you. Use #MSFTEduChat.\n#inclusion #MicrosoftEDU\nAnimated GIF: https://t.co/748pxOLlFp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Sway",
+						"indices": [
+							46,
+							51
+						]
+					},
+					{
+						"text": "Accessibility",
+						"indices": [
+							127,
+							141
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							222,
+							234
+						]
+					},
+					{
+						"text": "inclusion",
+						"indices": [
+							236,
+							246
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							247,
+							260
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mFLvL3aaqi",
+						"expanded_url": "https://sway.office.com/YytIJ61uH8kC6IPm",
+						"display_url": "sway.office.com/YytIJ61uH8kC6I…",
+						"indices": [
+							143,
+							166
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1126538603004403700,
+						"id_str": "1126538603004403712",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6JE5AnXoAAza3D.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6JE5AnXoAAza3D.jpg",
+						"url": "https://t.co/748pxOLlFp",
+						"display_url": "pic.twitter.com/748pxOLlFp",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1126538627285168133/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1126538603004403700,
+						"id_str": "1126538603004403712",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D6JE5AnXoAAza3D.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D6JE5AnXoAAza3D.jpg",
+						"url": "https://t.co/748pxOLlFp",
+						"display_url": "pic.twitter.com/748pxOLlFp",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1126538627285168133/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								600,
+								337
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D6JE5AnXoAAza3D.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central #MSFTEduChat",
+				"screen_name": "TweetMeet",
+				"location": "World",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+				"url": "https://t.co/vTmAj2KFoN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTmAj2KFoN",
+								"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+								"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2465,
+				"friends_count": 2038,
+				"listed_count": 22,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 1625,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 778,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1555675669",
+				"profile_link_color": "E3008C",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 17,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to learn how to make classrooms more inclusive and accessible? Join the next @TweetMeet on Tuesday, May 21! https://t.co/ImScIHZwEs"
+	},
+	{
 		"created_at": "Mon May 13 21:37:48 +0000 2019",
 		"id": 1128051745295413200,
 		"id_str": "1128051745295413249",
