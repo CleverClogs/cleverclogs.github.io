@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 17:54:40 +0000 2019",
+		"id": 1128720364626903000,
+		"id_str": "1128720364626903041",
+		"full_text": "💡 Tablet Pro is an advanced tool to interact with #OneNote, Photoshop and other Windows apps without a keyboard, through a docked 'artist pad'.\n\nFree trial and full feature overview:\nhttps://t.co/WioUCvJHRg\n\nOnenote tips tutorials:\nhttps://t.co/VaGSCr15JK\n\n#productivity #Surface",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "productivity",
+					"indices": [
+						257,
+						270
+					]
+				},
+				{
+					"text": "Surface",
+					"indices": [
+						271,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WioUCvJHRg",
+					"expanded_url": "https://tabletpro.com",
+					"display_url": "tabletpro.com",
+					"indices": [
+						183,
+						206
+					]
+				},
+				{
+					"url": "https://t.co/VaGSCr15JK",
+					"expanded_url": "https://www.youtube.com/playlist?list=PLNPlJ0AWro94K3_XoN8tTtNs1QFVpooja",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21022,
+			"friends_count": 7550,
+			"listed_count": 625,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💡 Tablet Pro is an advanced tool to interact with #OneNote, Photoshop and other Windows apps without a keyboard, through a docked 'artist pad'.\n\nFree trial and full feature overview:\nhttps://t.co/WioUCvJHRg\n\nOnenote tips tutorials:\nhttps://t.co/VaGSCr15JK\n\n#productivity #Surface"
+	},
+	{
+		"created_at": "Wed May 15 17:40:11 +0000 2019",
+		"id": 1128716721026666500,
+		"id_str": "1128716721026666497",
+		"full_text": "@JDWEdTech @MicrosoftEDU @OneNoteEDU @ReptonSchool @ReptonLearning What a wonderful write-up on the #MicrosoftEDU blog about your use of #OneNote by you, James.",
+		"truncated": false,
+		"display_text_range": [
+			67,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						137,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JDWEdTech",
+					"name": "James Wilton",
+					"id": 1114148359269441500,
+					"id_str": "1114148359269441538",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						25,
+						36
+					]
+				},
+				{
+					"screen_name": "ReptonSchool",
+					"name": "Repton School",
+					"id": 313367427,
+					"id_str": "313367427",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"screen_name": "ReptonLearning",
+					"name": "Repton Learning",
+					"id": 1057226510812225500,
+					"id_str": "1057226510812225536",
+					"indices": [
+						51,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128707736592633900,
+		"in_reply_to_status_id_str": "1128707736592633857",
+		"in_reply_to_user_id": 1114148359269441500,
+		"in_reply_to_user_id_str": "1114148359269441538",
+		"in_reply_to_screen_name": "JDWEdTech",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21022,
+			"friends_count": 7550,
+			"listed_count": 625,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JDWEdTech @MicrosoftEDU @OneNoteEDU @ReptonSchool @ReptonLearning What a wonderful write-up on the #MicrosoftEDU blog about your use of #OneNote by you, James."
+	},
+	{
 		"created_at": "Wed May 15 16:27:46 +0000 2019",
 		"id": 1128692361960271900,
 		"id_str": "1128698498742988801",
