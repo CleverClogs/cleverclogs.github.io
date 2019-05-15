@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 16:27:46 +0000 2019",
+		"id": 1128692361960271900,
+		"id_str": "1128698498742988801",
+		"full_text": "BIG NEWS! Announcing @Buncee and #OneNote 💛💜 integration to make learning fun and easy - together. Try it out today 🚀 #edtech #edchat #MIEExpert #MicrosoftEDU @mariearturi \n\n📽 below, Details at the blog: https://t.co/hjIFUYE8QR https://t.co/SE4vS4pVxi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						145,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Buncee",
+					"name": "buncee",
+					"id": 245854064,
+					"id_str": "245854064",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "mariearturi",
+					"name": "marie clarke arturi",
+					"id": 277147032,
+					"id_str": "277147032",
+					"indices": [
+						159,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hjIFUYE8QR",
+					"expanded_url": "http://aka.ms/OneNoteBuncee",
+					"display_url": "aka.ms/OneNoteBuncee",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1128691898128924700,
+					"id_str": "1128691898128924673",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1128691898128924673/pu/img/U2vEiV1c2hxc1dgN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1128691898128924673/pu/img/U2vEiV1c2hxc1dgN.jpg",
+					"url": "https://t.co/SE4vS4pVxi",
+					"display_url": "pic.twitter.com/SE4vS4pVxi",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1128692361960271873/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 719,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1202,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128691898128924700,
+					"id_str": "1128691898128924673",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1128691898128924673/pu/img/U2vEiV1c2hxc1dgN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1128691898128924673/pu/img/U2vEiV1c2hxc1dgN.jpg",
+					"url": "https://t.co/SE4vS4pVxi",
+					"display_url": "pic.twitter.com/SE4vS4pVxi",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1128692361960271873/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 719,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1202,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							601,
+							360
+						],
+						"duration_millis": 30200,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1128691898128924673/pu/vid/300x180/GsZ-NXVkkmIz7idC.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1128691898128924673/pu/pl/tRD1ogf-5IvRMN26.m3u8?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1128691898128924673/pu/vid/1202x720/EWXA0-2lWIt_lNr_.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1128691898128924673/pu/vid/600x360/nFElFPcfkxutQ5wZ.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #Accessibility @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18199,
+			"friends_count": 3222,
+			"listed_count": 730,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 62404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28854,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BIG NEWS! Announcing @Buncee and #OneNote 💛💜 integration to make learning fun and easy - together. Try it out today 🚀 #edtech #edchat #MIEExpert #MicrosoftEDU @mariearturi \n\n📽 below, Details at the blog: https://t.co/hjIFUYE8QR https://t.co/SE4vS4pVxi"
+	},
+	{
 		"created_at": "Tue May 14 11:44:39 +0000 2019",
 		"id": 1128019240953339900,
 		"id_str": "1128264858628128768",
