@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 18:12:06 +0000 2019",
+		"id": 1129440214890344400,
+		"id_str": "1129449528388669441",
+		"full_text": "Ms Zenk teaches types of #data. 1st: interesting visual ways to express data, types of drinks at #Starbucks and amount of exercise it would take to use calories. The 2nd was investigating bivariate data to look at ratios between handspan &amp; height. #onenoteedu #showcaseschool https://t.co/N3JQRRgAmI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "data",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "Starbucks",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "onenoteedu",
+					"indices": [
+						252,
+						263
+					]
+				},
+				{
+					"text": "showcaseschool",
+					"indices": [
+						264,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129440209622274000,
+					"id_str": "1129440209622274049",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yT4vmUEAEA78N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yT4vmUEAEA78N.jpg",
+					"url": "https://t.co/N3JQRRgAmI",
+					"display_url": "pic.twitter.com/N3JQRRgAmI",
+					"expanded_url": "https://twitter.com/mrzphd/status/1129440214890344448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129440209622274000,
+					"id_str": "1129440209622274049",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yT4vmUEAEA78N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yT4vmUEAEA78N.jpg",
+					"url": "https://t.co/N3JQRRgAmI",
+					"display_url": "pic.twitter.com/N3JQRRgAmI",
+					"expanded_url": "https://twitter.com/mrzphd/status/1129440214890344448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129440209622323200,
+					"id_str": "1129440209622323202",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yT4vmU0AIK9z3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yT4vmU0AIK9z3.jpg",
+					"url": "https://t.co/N3JQRRgAmI",
+					"display_url": "pic.twitter.com/N3JQRRgAmI",
+					"expanded_url": "https://twitter.com/mrzphd/status/1129440214890344448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129440209639075800,
+					"id_str": "1129440209639075840",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yT4vqUcAARMXW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yT4vqUcAARMXW.jpg",
+					"url": "https://t.co/N3JQRRgAmI",
+					"display_url": "pic.twitter.com/N3JQRRgAmI",
+					"expanded_url": "https://twitter.com/mrzphd/status/1129440214890344448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129440209626488800,
+					"id_str": "1129440209626488832",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yT4vnUYAAM_1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yT4vnUYAAM_1j.jpg",
+					"url": "https://t.co/N3JQRRgAmI",
+					"display_url": "pic.twitter.com/N3JQRRgAmI",
+					"expanded_url": "https://twitter.com/mrzphd/status/1129440214890344448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887144389,
+			"id_str": "887144389",
+			"name": "Michelle R. Zimmerman, PhD",
+			"screen_name": "mrzphd",
+			"location": "",
+			"description": "To inspire passion, the unexpected, and learning from failure in a new generation • Author • MVP • NCCE Trainer • #MIEExpert • #MicrosoftEdu • #ShowcaseSchool",
+			"url": "https://t.co/J3Dw6evzl2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J3Dw6evzl2",
+							"expanded_url": "http://www.rentonprep.org",
+							"display_url": "rentonprep.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2935,
+			"friends_count": 1294,
+			"listed_count": 406,
+			"created_at": "Wed Oct 17 16:29:10 +0000 2012",
+			"favourites_count": 3887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11024,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/696165793097080833/7D40H22X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/696165793097080833/7D40H22X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887144389/1454826953",
+			"profile_link_color": "5B5375",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "a96f188f5de647b5",
+			"url": "https://api.twitter.com/1.1/geo/id/a96f188f5de647b5.json",
+			"place_type": "city",
+			"name": "Renton",
+			"full_name": "Renton, WA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.253717,
+							47.423263
+						],
+						[
+							-122.135079,
+							47.423263
+						],
+						[
+							-122.135079,
+							47.539933
+						],
+						[
+							-122.253717,
+							47.539933
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ms Zenk teaches types of #data. 1st: interesting visual ways to express data, types of drinks at #Starbucks and amount of exercise it would take to use calories. The 2nd was investigating bivariate data to look at ratios between handspan &amp; height. #onenoteedu #showcaseschool https://t.co/N3JQRRgAmI"
+	},
+	{
 		"created_at": "Fri May 17 15:28:58 +0000 2019",
 		"id": 1129406936217264100,
 		"id_str": "1129408473685536770",
