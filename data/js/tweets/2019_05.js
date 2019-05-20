@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 16:37:36 +0000 2019",
+		"id": 1130512772465172500,
+		"id_str": "1130512908818026496",
+		"full_text": "Please retweet, send email, make phone calls (wha?) to all your Mac-user friends... new Edge \"canary-for-Mac\" is ready for testing! https://t.co/gSkVDlfXrq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gSkVDlfXrq",
+					"expanded_url": "https://twitter.com/MSEdgeDev/status/1130506452026531840",
+					"display_url": "twitter.com/MSEdgeDev/stat…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16930986,
+			"id_str": "16930986",
+			"name": "Joe Belfiore",
+			"screen_name": "joebelfiore",
+			"location": "Redmond, WA",
+			"description": "My \"Essential Products\" team works on Windows 10, Microsoft Edge, Microsoft OneNote, and a host of mobile experiences including MS Launcher.  Send ideas and q's",
+			"url": "https://t.co/UTkpHW6ZsJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UTkpHW6ZsJ",
+							"expanded_url": "http://belfiore.land",
+							"display_url": "belfiore.land",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 170207,
+			"friends_count": 196,
+			"listed_count": 2239,
+			"created_at": "Thu Oct 23 17:26:04 +0000 2008",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2283,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489500286/joeb_phone_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489500286/joeb_phone_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16930986/1424847525",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130506452026531800,
+		"quoted_status_id_str": "1130506452026531840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gSkVDlfXrq",
+			"expanded": "https://twitter.com/MSEdgeDev/status/1130506452026531840",
+			"display": "twitter.com/MSEdgeDev/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 20 16:11:56 +0000 2019",
+			"id": 1130506452026531800,
+			"id_str": "1130506452026531840",
+			"full_text": "Microsoft Edge for Mac is out now on our Canary branch! Check out our latest blog post to learn all you need to know about Microsoft Edge on Mac.\n\nhttps://t.co/6zKuo74OM4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6zKuo74OM4",
+						"expanded_url": "https://blogs.windows.com/msedgedev/2019/05/20/microsoft-edge-macos-canary-preview/#fDfwqLCZqc5IWL0F.97",
+						"display_url": "blogs.windows.com/msedgedev/2019…",
+						"indices": [
+							147,
+							170
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1141081634,
+				"id_str": "1141081634",
+				"name": "Microsoft Edge Dev",
+				"screen_name": "MSEdgeDev",
+				"location": "Redmond, WA",
+				"description": "Official news and updates from the Microsoft Edge team on #MicrosoftEdge and #InternetExplorer",
+				"url": "https://t.co/oHPtUqCX4P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oHPtUqCX4P",
+								"expanded_url": "http://www.microsoftedgeinsider.com",
+								"display_url": "microsoftedgeinsider.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67802,
+				"friends_count": 106,
+				"listed_count": 1116,
+				"created_at": "Sat Feb 02 00:26:21 +0000 2013",
+				"favourites_count": 800,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2948,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "282828",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/615660764842430465/VNNF2rAI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/615660764842430465/VNNF2rAI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141081634/1538519428",
+				"profile_link_color": "0078D7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 110,
+			"favorite_count": 188,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 56,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please retweet, send email, make phone calls (wha?) to all your Mac-user friends... new Edge \"canary-for-Mac\" is ready for testing! https://t.co/gSkVDlfXrq"
+	},
+	{
 		"created_at": "Mon May 20 14:29:08 +0000 2019",
 		"id": 1130480581496778800,
 		"id_str": "1130480581496778752",
