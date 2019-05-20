@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 14:29:08 +0000 2019",
+		"id": 1130480581496778800,
+		"id_str": "1130480581496778752",
+		"full_text": "💖 Delighted to see the overwhelming response to the new do-it-yourself TweetMeet Friend Cards. \nHave you created one yet? Open the PowerPoint below and follow the instructions.\n\n#MSFTEduChat #MicrosoftEDU #MIEExpert #DIY https://t.co/ChgMiRl4wq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						178,
+						190
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						191,
+						204
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						205,
+						215
+					]
+				},
+				{
+					"text": "DIY",
+					"indices": [
+						216,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ChgMiRl4wq",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1130199326649663494",
+					"display_url": "twitter.com/TweetMeet/stat…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21065,
+			"friends_count": 7555,
+			"listed_count": 627,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25454,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1555676470",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130199326649663500,
+		"quoted_status_id_str": "1130199326649663494",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ChgMiRl4wq",
+			"expanded": "https://twitter.com/TweetMeet/status/1130199326649663494",
+			"display": "twitter.com/TweetMeet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 19 19:51:32 +0000 2019",
+			"id": 1130199326649663500,
+			"id_str": "1130199326649663494",
+			"full_text": "💖 NEW!! Are you a fan of the global #MSFTEduChat TweetMeets?\nShow it off by creating your own TweetMeet Friend Card, just like the one below. \n\nEdit this PowerPoint:\nhttps://t.co/CxwG5RyZx4\nAdd your headshot image and text to slide 3. \nExport slide as a PNG image.\n\n#MicrosoftEDU https://t.co/aPQTWdLMNW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							36,
+							48
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							266,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CxwG5RyZx4",
+						"expanded_url": "https://twt.mt/friend-cards",
+						"display_url": "twt.mt/friend-cards",
+						"indices": [
+							166,
+							189
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1130199078678257700,
+						"id_str": "1130199078678257664",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/D69GEvIXYAA4Deb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D69GEvIXYAA4Deb.jpg",
+						"url": "https://t.co/aPQTWdLMNW",
+						"display_url": "pic.twitter.com/aPQTWdLMNW",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1130199326649663494/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 864,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1130199078678257700,
+						"id_str": "1130199078678257664",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/D69GEvIXYAA4Deb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D69GEvIXYAA4Deb.jpg",
+						"url": "https://t.co/aPQTWdLMNW",
+						"display_url": "pic.twitter.com/aPQTWdLMNW",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1130199326649663494/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 864,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central #MSFTEduChat",
+				"screen_name": "TweetMeet",
+				"location": "World",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+				"url": "https://t.co/vTmAj2KFoN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTmAj2KFoN",
+								"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+								"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2494,
+				"friends_count": 2078,
+				"listed_count": 23,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 1689,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 806,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1555675669",
+				"profile_link_color": "E3008C",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💖 Delighted to see the overwhelming response to the new do-it-yourself TweetMeet Friend Cards. \nHave you created one yet? Open the PowerPoint below and follow the instructions.\n\n#MSFTEduChat #MicrosoftEDU #MIEExpert #DIY https://t.co/ChgMiRl4wq"
+	},
+	{
 		"created_at": "Mon May 20 14:11:38 +0000 2019",
 		"id": 1130455884428132400,
 		"id_str": "1130476177758597120",
