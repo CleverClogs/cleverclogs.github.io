@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 14:11:38 +0000 2019",
+		"id": 1130455884428132400,
+		"id_str": "1130476177758597120",
+		"full_text": "Enjoying #OneNote reader in lessons. Hungarian, English and German language. Fantastic!!!! #MicrosoftEDU #msonenote https://t.co/EmzUQTqBZP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"text": "msonenote",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130455839943397400,
+					"id_str": "1130455839943397378",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D7AvmNYXkAIWe-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7AvmNYXkAIWe-B.jpg",
+					"url": "https://t.co/EmzUQTqBZP",
+					"display_url": "pic.twitter.com/EmzUQTqBZP",
+					"expanded_url": "https://twitter.com/dondi64/status/1130455884428132354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130455839943397400,
+					"id_str": "1130455839943397378",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D7AvmNYXkAIWe-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7AvmNYXkAIWe-B.jpg",
+					"url": "https://t.co/EmzUQTqBZP",
+					"display_url": "pic.twitter.com/EmzUQTqBZP",
+					"expanded_url": "https://twitter.com/dondi64/status/1130455884428132354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 780,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130455850982805500,
+					"id_str": "1130455850982805506",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Avm2gXkAIFGRV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Avm2gXkAIFGRV.jpg",
+					"url": "https://t.co/EmzUQTqBZP",
+					"display_url": "pic.twitter.com/EmzUQTqBZP",
+					"expanded_url": "https://twitter.com/dondi64/status/1130455884428132354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130455862995243000,
+					"id_str": "1130455862995243008",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D7AvnjQW0AAJu0c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7AvnjQW0AAJu0c.jpg",
+					"url": "https://t.co/EmzUQTqBZP",
+					"display_url": "pic.twitter.com/EmzUQTqBZP",
+					"expanded_url": "https://twitter.com/dondi64/status/1130455884428132354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1130455873996894200,
+					"id_str": "1130455873996894208",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D7AvoMPWsAADHxh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7AvoMPWsAADHxh.jpg",
+					"url": "https://t.co/EmzUQTqBZP",
+					"display_url": "pic.twitter.com/EmzUQTqBZP",
+					"expanded_url": "https://twitter.com/dondi64/status/1130455884428132354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130412227,
+			"id_str": "130412227",
+			"name": "Dondi T. B. Gyöngyi",
+			"screen_name": "dondi64",
+			"location": "Hungary, Balatonboglár",
+			"description": "Global Teacher",
+			"url": "https://t.co/QS0tjPsbEP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QS0tjPsbEP",
+							"expanded_url": "http://www.dondi64.blogspot.com",
+							"display_url": "dondi64.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 884,
+			"friends_count": 554,
+			"listed_count": 68,
+			"created_at": "Wed Apr 07 06:25:17 +0000 2010",
+			"favourites_count": 3658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2493,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117721651960057856/PvRxQD3w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117721651960057856/PvRxQD3w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130412227/1513351921",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Enjoying #OneNote reader in lessons. Hungarian, English and German language. Fantastic!!!! #MicrosoftEDU #msonenote https://t.co/EmzUQTqBZP"
+	},
+	{
 		"created_at": "Mon May 20 12:16:53 +0000 2019",
 		"id": 1129062043426938900,
 		"id_str": "1130447299799388161",
