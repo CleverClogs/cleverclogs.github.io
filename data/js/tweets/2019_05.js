@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 12:16:53 +0000 2019",
+		"id": 1129062043426938900,
+		"id_str": "1130447299799388161",
+		"full_text": "Today is #GAAD &amp; it's a BIG deal no matter what or where you teach, learn, or work!  #ACCESSIBILITY means making something available to all, so I created this @wakelet &amp; YOU'RE ALL INVITED to contribute your fave accessibility resources! (I added a few) https://t.co/8Lc2T3Q0l2 https://t.co/vUrgMjYAJq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GAAD",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "ACCESSIBILITY",
+					"indices": [
+						89,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						163,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8Lc2T3Q0l2",
+					"expanded_url": "https://wakelet.com/i/invite?code=e249eb5",
+					"display_url": "wakelet.com/i/invite?code=…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1129061003482865700,
+					"id_str": "1129061003482865667",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/D6s7ACpXoAMwRQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6s7ACpXoAMwRQl.jpg",
+					"url": "https://t.co/vUrgMjYAJq",
+					"display_url": "pic.twitter.com/vUrgMjYAJq",
+					"expanded_url": "https://twitter.com/kerszi/status/1129062043426938881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1846,
+							"h": 749,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 487,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129061003482865700,
+					"id_str": "1129061003482865667",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/D6s7ACpXoAMwRQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6s7ACpXoAMwRQl.jpg",
+					"url": "https://t.co/vUrgMjYAJq",
+					"display_url": "pic.twitter.com/vUrgMjYAJq",
+					"expanded_url": "https://twitter.com/kerszi/status/1129062043426938881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1846,
+							"h": 749,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 487,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595079922,
+			"id_str": "595079922",
+			"name": "Kathi Kersznowski",
+			"screen_name": "kerszi",
+			"location": "New Jersey, USA",
+			"description": "TechIntegration Expert, Global Presenter, Keynote Speaker, MIEExpert, Empatico, Flipgrid, #LearningInTheLoo & #Fliphunt creator, #GlobalGoalsSchools, #TeachSDGs",
+			"url": "https://t.co/F3EubyVGqy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F3EubyVGqy",
+							"expanded_url": "http://kerszi.wordpress.com/",
+							"display_url": "kerszi.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12447,
+			"friends_count": 8560,
+			"listed_count": 625,
+			"created_at": "Wed May 30 23:31:13 +0000 2012",
+			"favourites_count": 37970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109051636209471493/5tkEX1Wq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109051636209471493/5tkEX1Wq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595079922/1552876844",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is #GAAD &amp; it's a BIG deal no matter what or where you teach, learn, or work!  #ACCESSIBILITY means making something available to all, so I created this @wakelet &amp; YOU'RE ALL INVITED to contribute your fave accessibility resources! (I added a few) https://t.co/8Lc2T3Q0l2 https://t.co/vUrgMjYAJq"
+	},
+	{
 		"created_at": "Mon May 20 07:05:15 +0000 2019",
 		"id": 1130368873491030000,
 		"id_str": "1130368873491030016",
