@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 19:57:48 +0000 2019",
+		"id": 1130900067408334800,
+		"id_str": "1131288070559543298",
+		"full_text": "We'd love 💖 to get your feedback. \n✍ Will you kindly fill out our short #MicrosoftForms survey and retweet 🔁 it? https://t.co/ledsvC989O\nThank you so much. \n\n#inclusion #accessibility\n#MSFTEduChat #MicrosoftEDU https://t.co/BFOIsKrhTj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftForms",
+					"indices": [
+						72,
+						87
+					]
+				},
+				{
+					"text": "inclusion",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						169,
+						183
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						184,
+						196
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						197,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ledsvC989O",
+					"expanded_url": "https://twt.mt/survey1905",
+					"display_url": "twt.mt/survey1905",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130900065218961400,
+					"id_str": "1130900065218961408",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/D7HDnhfXoAAxMSg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7HDnhfXoAAxMSg.jpg",
+					"url": "https://t.co/BFOIsKrhTj",
+					"display_url": "pic.twitter.com/BFOIsKrhTj",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1130900067408334850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130900065218961400,
+					"id_str": "1130900065218961408",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/D7HDnhfXoAAxMSg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7HDnhfXoAAxMSg.jpg",
+					"url": "https://t.co/BFOIsKrhTj",
+					"display_url": "pic.twitter.com/BFOIsKrhTj",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1130900067408334850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2564,
+			"friends_count": 2111,
+			"listed_count": 24,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 1811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1555675669",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We'd love 💖 to get your feedback. \n✍ Will you kindly fill out our short #MicrosoftForms survey and retweet 🔁 it? https://t.co/ledsvC989O\nThank you so much. \n\n#inclusion #accessibility\n#MSFTEduChat #MicrosoftEDU https://t.co/BFOIsKrhTj"
+	},
+	{
 		"created_at": "Wed May 22 18:04:57 +0000 2019",
 		"id": 1131253364732248000,
 		"id_str": "1131259670646132737",
