@@ -1,10 +1,391 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 25 17:18:44 +0000 2019",
+		"id": 1132335203328962600,
+		"id_str": "1132335203328962560",
+		"full_text": "Great interview with #MVP Ståle Hansen, in which he explains why #Microsoft #OneNote is the perfect #productivity solution on PC and mobile. \n\nIf you're not acquainted with @StaleHansen's work yet, then check out his OneNote LifeHacks YouTube Playlist:\nhttps://t.co/KbBW3HUNsq https://t.co/gh3fwG7G6W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MVP",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "productivity",
+					"indices": [
+						100,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StaleHansen",
+					"name": "Ståle Hansen",
+					"id": 83465282,
+					"id_str": "83465282",
+					"indices": [
+						173,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KbBW3HUNsq",
+					"expanded_url": "https://www.youtube.com/playlist?list=PL6SeshpCxLFFmRLYmsuaUmaJihs4dWIsE",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						253,
+						276
+					]
+				},
+				{
+					"url": "https://t.co/gh3fwG7G6W",
+					"expanded_url": "https://twitter.com/StaleHansen/status/1131862885666304001",
+					"display_url": "twitter.com/StaleHansen/st…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21129,
+			"friends_count": 7559,
+			"listed_count": 629,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1558794013",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131862885666304000,
+		"quoted_status_id_str": "1131862885666304001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gh3fwG7G6W",
+			"expanded": "https://twitter.com/StaleHansen/status/1131862885666304001",
+			"display": "twitter.com/StaleHansen/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 24 10:01:55 +0000 2019",
+			"id": 1131862885666304000,
+			"id_str": "1131862885666304001",
+			"full_text": "Soo cool to be featured by @MSEurope and @MicrosoftNorge #FocusFriday campaign! Read about how being conscious about notifications helps me on the quest for work-life harmony and get stuff done #WorkxLife https://t.co/DOkpqTnQL8 https://t.co/njXJmosfFL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FocusFriday",
+						"indices": [
+							57,
+							69
+						]
+					},
+					{
+						"text": "WorkxLife",
+						"indices": [
+							194,
+							204
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MSEurope",
+						"name": "Microsoft Europe",
+						"id": 104222894,
+						"id_str": "104222894",
+						"indices": [
+							27,
+							36
+						]
+					},
+					{
+						"screen_name": "MicrosoftNorge",
+						"name": "Microsoft Norge",
+						"id": 63452516,
+						"id_str": "63452516",
+						"indices": [
+							41,
+							56
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DOkpqTnQL8",
+						"expanded_url": "https://news.microsoft.com/europe/2019/05/24/one-click-wonder-how-onenote-helped-stale-hansen-build-work-life-harmony/",
+						"display_url": "news.microsoft.com/europe/2019/05…",
+						"indices": [
+							205,
+							228
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1131862875012816900,
+						"id_str": "1131862875012816897",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/D7UvSbeXYAEC5Jw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7UvSbeXYAEC5Jw.jpg",
+						"url": "https://t.co/njXJmosfFL",
+						"display_url": "pic.twitter.com/njXJmosfFL",
+						"expanded_url": "https://twitter.com/StaleHansen/status/1131862885666304001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1131862875012816900,
+						"id_str": "1131862875012816897",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/D7UvSbeXYAEC5Jw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7UvSbeXYAEC5Jw.jpg",
+						"url": "https://t.co/njXJmosfFL",
+						"display_url": "pic.twitter.com/njXJmosfFL",
+						"expanded_url": "https://twitter.com/StaleHansen/status/1131862885666304001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83465282,
+				"id_str": "83465282",
+				"name": "Ståle Hansen",
+				"screen_name": "StaleHansen",
+				"location": "Norway",
+				"description": "CEO & Principal Cloud Architect @TeamCloudWay #MicrosoftTeams MVP. Conference speaker, blogger, YouTuber and co-author of Office 365 for IT Pros.",
+				"url": "https://t.co/ITWsoAIrhW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ITWsoAIrhW",
+								"expanded_url": "http://msunified.net",
+								"display_url": "msunified.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4011,
+				"friends_count": 399,
+				"listed_count": 233,
+				"created_at": "Sun Oct 18 22:45:30 +0000 2009",
+				"favourites_count": 3349,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8206,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FDFFFC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072901306304602112/_UzXXggz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072901306304602112/_UzXXggz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83465282/1496829837",
+				"profile_link_color": "2D326F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "ADBFDC",
+				"profile_text_color": "292929",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great interview with #MVP Ståle Hansen, in which he explains why #Microsoft #OneNote is the perfect #productivity solution on PC and mobile. \n\nIf you're not acquainted with @StaleHansen's work yet, then check out his OneNote LifeHacks YouTube Playlist:\nhttps://t.co/KbBW3HUNsq https://t.co/gh3fwG7G6W"
+	},
+	{
 		"created_at": "Sat May 25 15:41:56 +0000 2019",
 		"id": 1131964209791549400,
 		"id_str": "1132310843062935552",
-		"full_text": "We have completed the new ribbon for OneNote Online, and it is being rolled out to everyone right now! 🎉🎊 All of the functionalities of the previous ribbon, but in a modern look! Who is excited?! 🙋🏼‍♂️🙋🏼‍♀️\n#edtech #OneNote #MicrosoftEdu #MIEExpert https://t.co/EKgT0RhXCS",
+		"full_text": "We have completed the new ribbon for OneNote Online, and it is being rolled out to everyone right now! 🎉🎊 All of the functionalities of the previous ribbon, but in a modern look! Who is excited?! 🙋🏼♂️🙋🏼♀️\n#edtech #OneNote #MicrosoftEdu #MIEExpert https://t.co/EKgT0RhXCS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -201,7 +582,7 @@ Grailbird.data.tweets_2019_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "We have completed the new ribbon for OneNote Online, and it is being rolled out to everyone right now! 🎉🎊 All of the functionalities of the previous ribbon, but in a modern look! Who is excited?! 🙋🏼‍♂️🙋🏼‍♀️\n#edtech #OneNote #MicrosoftEdu #MIEExpert https://t.co/EKgT0RhXCS"
+		"text": "We have completed the new ribbon for OneNote Online, and it is being rolled out to everyone right now! 🎉🎊 All of the functionalities of the previous ribbon, but in a modern look! Who is excited?! 🙋🏼♂️🙋🏼♀️\n#edtech #OneNote #MicrosoftEdu #MIEExpert https://t.co/EKgT0RhXCS"
 	},
 	{
 		"created_at": "Sat May 25 08:22:30 +0000 2019",
