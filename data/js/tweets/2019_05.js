@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 25 15:41:56 +0000 2019",
+		"id": 1131964209791549400,
+		"id_str": "1132310843062935552",
+		"full_text": "We have completed the new ribbon for OneNote Online, and it is being rolled out to everyone right now! 🎉🎊 All of the functionalities of the previous ribbon, but in a modern look! Who is excited?! 🙋🏼‍♂️🙋🏼‍♀️\n#edtech #OneNote #MicrosoftEdu #MIEExpert https://t.co/EKgT0RhXCS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						207,
+						214
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						215,
+						223
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						224,
+						237
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						238,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131963698271014900,
+					"id_str": "1131963698271014912",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/D7WK_HYU0AAppxk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7WK_HYU0AAppxk.jpg",
+					"url": "https://t.co/EKgT0RhXCS",
+					"display_url": "pic.twitter.com/EKgT0RhXCS",
+					"expanded_url": "https://twitter.com/RezaJooyandeh/status/1131964209791549440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131963698271014900,
+					"id_str": "1131963698271014912",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/D7WK_HYU0AAppxk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7WK_HYU0AAppxk.jpg",
+					"url": "https://t.co/EKgT0RhXCS",
+					"display_url": "pic.twitter.com/EKgT0RhXCS",
+					"expanded_url": "https://twitter.com/RezaJooyandeh/status/1131964209791549440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2246117322,
+			"id_str": "2246117322",
+			"name": "Reza Jooyandeh 🌈",
+			"screen_name": "RezaJooyandeh",
+			"location": "Vancouver, British Columbia",
+			"description": "Engineering Manager at Microsoft #OneNote. Volunteer @scienceworldca teaching kids the magic of Math and Comp Sci. @OneNoteEdu. Opinions are mine 🌈 He/Him/His",
+			"url": "https://t.co/FqWzmR0oSe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FqWzmR0oSe",
+							"expanded_url": "http://www.jooyandeh.com",
+							"display_url": "jooyandeh.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 610,
+			"friends_count": 155,
+			"listed_count": 24,
+			"created_at": "Sat Dec 14 20:37:36 +0000 2013",
+			"favourites_count": 724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/921411519648227328/3P_t0ehm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/921411519648227328/3P_t0ehm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2246117322/1530074267",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have completed the new ribbon for OneNote Online, and it is being rolled out to everyone right now! 🎉🎊 All of the functionalities of the previous ribbon, but in a modern look! Who is excited?! 🙋🏼‍♂️🙋🏼‍♀️\n#edtech #OneNote #MicrosoftEdu #MIEExpert https://t.co/EKgT0RhXCS"
+	},
+	{
 		"created_at": "Sat May 25 08:22:30 +0000 2019",
 		"id": 1132066770993520600,
 		"id_str": "1132200256094056449",
