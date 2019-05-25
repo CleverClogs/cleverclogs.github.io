@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 25 08:22:30 +0000 2019",
+		"id": 1132066770993520600,
+		"id_str": "1132200256094056449",
+		"full_text": "🗓️ It's coming. A twitter chat all about @MicrosoftTeams for Education! Join all of us from the #MicrosoftEDU team LIVE. I hear there will be lots to talk about 😆\n\n💃 Tuesday, June 18 🕺\n\n#MIEExpert #TeamsMania #MSFTeduchat https://t.co/WeYuI5W2T6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						186,
+						196
+					]
+				},
+				{
+					"text": "TeamsMania",
+					"indices": [
+						197,
+						208
+					]
+				},
+				{
+					"text": "MSFTeduchat",
+					"indices": [
+						209,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						41,
+						56
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132065121860087800,
+					"id_str": "1132065121860087809",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D7XnOvsUcAE9mRW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7XnOvsUcAE9mRW.jpg",
+					"url": "https://t.co/WeYuI5W2T6",
+					"display_url": "pic.twitter.com/WeYuI5W2T6",
+					"expanded_url": "https://twitter.com/justinchando/status/1132066770993520641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132065121860087800,
+					"id_str": "1132065121860087809",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D7XnOvsUcAE9mRW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7XnOvsUcAE9mRW.jpg",
+					"url": "https://t.co/WeYuI5W2T6",
+					"display_url": "pic.twitter.com/WeYuI5W2T6",
+					"expanded_url": "https://twitter.com/justinchando/status/1132066770993520641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108410718,
+			"id_str": "108410718",
+			"name": "Justin Chando",
+			"screen_name": "justinchando",
+			"location": "Seattle, WA",
+			"description": "Principal Product Manager @MicrosoftEDU, building @MicrosoftTeams. Formerly, founder/CEO @ChalkupEDU (acq by @Microsoft).",
+			"url": "https://t.co/dyV7TPf4o4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dyV7TPf4o4",
+							"expanded_url": "https://www.linkedin.com/in/justinchando/",
+							"display_url": "linkedin.com/in/justinchand…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2655,
+			"friends_count": 3480,
+			"listed_count": 164,
+			"created_at": "Mon Jan 25 21:27:33 +0000 2010",
+			"favourites_count": 5758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/939046832147070977/RKPrv4G9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/939046832147070977/RKPrv4G9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108410718/1544584099",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗓️ It's coming. A twitter chat all about @MicrosoftTeams for Education! Join all of us from the #MicrosoftEDU team LIVE. I hear there will be lots to talk about 😆\n\n💃 Tuesday, June 18 🕺\n\n#MIEExpert #TeamsMania #MSFTeduchat https://t.co/WeYuI5W2T6"
+	},
+	{
 		"created_at": "Wed May 22 19:57:48 +0000 2019",
 		"id": 1130900067408334800,
 		"id_str": "1131288070559543298",
