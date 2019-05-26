@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 21:16:12 +0000 2019",
+		"id": 1132757347871449100,
+		"id_str": "1132757347871449088",
+		"full_text": "🎈 #TeamsLovers, this event is for you.\nOn  Tuesday June 18, @MicrosoftEDU is organizing an #MSFTEduChat about #MicrosoftTeams.\n\nUpload the new Twitter Header Photo to announce the TweetMeet from your own Twitter account. \nJust follow the steps below:\n#MicrosoftEDU #MIEExpert https://t.co/Qe0jv5wtyK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamsLovers",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						110,
+						125
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						251,
+						264
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						265,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						60,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qe0jv5wtyK",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1132413621450039296",
+					"display_url": "twitter.com/TweetMeet/stat…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21138,
+			"friends_count": 7560,
+			"listed_count": 630,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1558794013",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132413621450039300,
+		"quoted_status_id_str": "1132413621450039296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qe0jv5wtyK",
+			"expanded": "https://twitter.com/TweetMeet/status/1132413621450039296",
+			"display": "twitter.com/TweetMeet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 25 22:30:21 +0000 2019",
+			"id": 1132413621450039300,
+			"id_str": "1132413621450039296",
+			"full_text": "🎈NEW! Get your own Twitter Header Photo to announce the #MSFTEduChat on #MicrosoftTeams.\n\nSteps\n1. Download PNG https://t.co/nl0TX4MfP0\n2. On your Twitter @ page, tap \"Edit profile\"\n3. Tap \"Change header photo\"\n4. Upload\n5. Save changes\n\n#MicrosoftEDU\nMultilingual animated GIF: https://t.co/712r7Hxame",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							56,
+							68
+						]
+					},
+					{
+						"text": "MicrosoftTeams",
+						"indices": [
+							72,
+							87
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							238,
+							251
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nl0TX4MfP0",
+						"expanded_url": "https://1drv.ms/f/s!ApP7GQZT5sq6iK9QslF0_uyekVvAFw",
+						"display_url": "1drv.ms/f/s!ApP7GQZT5s…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1132411571186077700,
+						"id_str": "1132411571186077696",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7ciUwAWkAAU7FR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7ciUwAWkAAU7FR.jpg",
+						"url": "https://t.co/712r7Hxame",
+						"display_url": "pic.twitter.com/712r7Hxame",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1132413621450039296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 227,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1132411571186077700,
+						"id_str": "1132411571186077696",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7ciUwAWkAAU7FR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7ciUwAWkAAU7FR.jpg",
+						"url": "https://t.co/712r7Hxame",
+						"display_url": "pic.twitter.com/712r7Hxame",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1132413621450039296/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 227,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								3,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D7ciUwAWkAAU7FR.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central #MSFTEduChat",
+				"screen_name": "TweetMeet",
+				"location": "World",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+				"url": "https://t.co/vTmAj2KFoN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vTmAj2KFoN",
+								"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+								"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2592,
+				"friends_count": 2162,
+				"listed_count": 24,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 1842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 837,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1558793639",
+				"profile_link_color": "E3008C",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 #TeamsLovers, this event is for you.\nOn  Tuesday June 18, @MicrosoftEDU is organizing an #MSFTEduChat about #MicrosoftTeams.\n\nUpload the new Twitter Header Photo to announce the TweetMeet from your own Twitter account. \nJust follow the steps below:\n#MicrosoftEDU #MIEExpert https://t.co/Qe0jv5wtyK"
+	},
+	{
 		"created_at": "Sat May 25 17:18:44 +0000 2019",
 		"id": 1132335203328962600,
 		"id_str": "1132335203328962560",
