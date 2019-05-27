@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 27 20:33:22 +0000 2019",
+		"id": 1133108959848599600,
+		"id_str": "1133108959848599552",
+		"full_text": "@mtholfsen @design2research @TxTechChick @J_Bimmerle @snej80 @MrWeimann @ClaudioZavalaJr @KarlyMoura @bhopteacher @fuglefun @ReneeWellsSTEAM @tracyscottkelly @heARTISTatWORK @Cassie4Peace @ImCriss @sgtcurrypants @FlindersEmma @ShaeBilston1 @JohnnyGivesADam @Prosenbe1971 @derrold @KMGFromChicago @SHashtagger @ZarrarSalahPTI @beach5girl @Greg_Moffitt @ChristineBemis2 @daveschmittou @archangelcrew @MsHake418 @SJSaragusa @Maire_from_NJ @STEAMuptheClsrm @stephenkelley85 @RitaWirtz @catnasser @GiftedTawk @campbellartsoup @MonaLisaLvsHeah @mrsbeardain @victoriajcoe @mr_swingle #3Facts5Friends\nFacts about me:\n1) I have a dream job. At 🎈Team @TweetMeet I get to work with the best friends ever @fcotexeira and @AnicaTrickovic (tagged you!)\n2) Today is my birthday 🎂\n3) I once was a gestational carrier 🤱\n\n@kerszi @fabmarrou @nekolety @lbayne @Cloughglass",
+		"truncated": false,
+		"display_text_range": [
+			577,
+			853
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "3Facts5Friends",
+					"indices": [
+						577,
+						592
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "design2research",
+					"name": "Dr. Charlie Miller",
+					"id": 66801342,
+					"id_str": "66801342",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "TxTechChick",
+					"name": "tisha poncio",
+					"id": 249177261,
+					"id_str": "249177261",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "J_Bimmerle",
+					"name": "John Bimmerle",
+					"id": 168776368,
+					"id_str": "168776368",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"screen_name": "snej80",
+					"name": "Jennifer Saarinen",
+					"id": 18915282,
+					"id_str": "18915282",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"screen_name": "MrWeimann",
+					"name": "Matthew Weimann",
+					"id": 3386514201,
+					"id_str": "3386514201",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "ClaudioZavalaJr",
+					"name": "૮ℓαµ∂เσ ƶαѵαℓα ʝ૨.",
+					"id": 539701851,
+					"id_str": "539701851",
+					"indices": [
+						72,
+						88
+					]
+				},
+				{
+					"screen_name": "KarlyMoura",
+					"name": "Karly Moura",
+					"id": 2639169817,
+					"id_str": "2639169817",
+					"indices": [
+						89,
+						100
+					]
+				},
+				{
+					"screen_name": "bhopteacher",
+					"name": "Bobbi Hopkins",
+					"id": 705487734153023500,
+					"id_str": "705487734153023488",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"screen_name": "fuglefun",
+					"name": "Tricia Fuglestad ☕️",
+					"id": 17033509,
+					"id_str": "17033509",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"screen_name": "ReneeWellsSTEAM",
+					"name": "Renee",
+					"id": 909653782652317700,
+					"id_str": "909653782652317696",
+					"indices": [
+						124,
+						140
+					]
+				},
+				{
+					"screen_name": "tracyscottkelly",
+					"name": "Tracy Scott Kelly",
+					"id": 2834219592,
+					"id_str": "2834219592",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"screen_name": "heARTISTatWORK",
+					"name": "Kate Lindquist",
+					"id": 974734868797186000,
+					"id_str": "974734868797186049",
+					"indices": [
+						158,
+						173
+					]
+				},
+				{
+					"screen_name": "Cassie4Peace",
+					"name": "Cassie💗✍🐝🎤",
+					"id": 16793627,
+					"id_str": "16793627",
+					"indices": [
+						174,
+						187
+					]
+				},
+				{
+					"screen_name": "ImCriss",
+					"name": "Criss Herondale",
+					"id": 407982940,
+					"id_str": "407982940",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"screen_name": "sgtcurrypants",
+					"name": "Nikita",
+					"id": 28353540,
+					"id_str": "28353540",
+					"indices": [
+						197,
+						211
+					]
+				},
+				{
+					"screen_name": "FlindersEmma",
+					"name": "Emma Flinders",
+					"id": 729710423449178100,
+					"id_str": "729710423449178112",
+					"indices": [
+						212,
+						225
+					]
+				},
+				{
+					"screen_name": "ShaeBilston1",
+					"name": "Shae Bilston",
+					"id": 1800730957,
+					"id_str": "1800730957",
+					"indices": [
+						226,
+						239
+					]
+				},
+				{
+					"screen_name": "JohnnyGivesADam",
+					"name": "Forrest Grump",
+					"id": 763530743662325800,
+					"id_str": "763530743662325761",
+					"indices": [
+						240,
+						256
+					]
+				},
+				{
+					"screen_name": "Prosenbe1971",
+					"name": "Peter Peter.....Tulip Eater",
+					"id": 4868345397,
+					"id_str": "4868345397",
+					"indices": [
+						257,
+						270
+					]
+				},
+				{
+					"screen_name": "derrold",
+					"name": "Derrold Purifoy",
+					"id": 77321664,
+					"id_str": "77321664",
+					"indices": [
+						271,
+						279
+					]
+				},
+				{
+					"screen_name": "KMGFromChicago",
+					"name": "😎Kevin G.✍️📖🎥",
+					"id": 46885808,
+					"id_str": "46885808",
+					"indices": [
+						280,
+						295
+					]
+				},
+				{
+					"screen_name": "SHashtagger",
+					"name": "Shash ⚛️",
+					"id": 1105133301143126000,
+					"id_str": "1105133301143126017",
+					"indices": [
+						296,
+						308
+					]
+				},
+				{
+					"screen_name": "ZarrarSalahPTI",
+					"name": "Lord Z - The Lone Wolf 🇵🇰",
+					"id": 1131148676,
+					"id_str": "1131148676",
+					"indices": [
+						309,
+						324
+					]
+				},
+				{
+					"screen_name": "beach5girl",
+					"name": "Theresa Young",
+					"id": 154286263,
+					"id_str": "154286263",
+					"indices": [
+						325,
+						336
+					]
+				},
+				{
+					"screen_name": "Greg_Moffitt",
+					"name": "Greg Moffitt",
+					"id": 2508782298,
+					"id_str": "2508782298",
+					"indices": [
+						337,
+						350
+					]
+				},
+				{
+					"screen_name": "ChristineBemis2",
+					"name": "Christine Bemis",
+					"id": 972984211878678500,
+					"id_str": "972984211878678529",
+					"indices": [
+						351,
+						367
+					]
+				},
+				{
+					"screen_name": "daveschmittou",
+					"name": "🚲Dave Schmittou EdD🚲",
+					"id": 356912318,
+					"id_str": "356912318",
+					"indices": [
+						368,
+						382
+					]
+				},
+				{
+					"screen_name": "archangelcrew",
+					"name": "Meredith Silverman",
+					"id": 2728424702,
+					"id_str": "2728424702",
+					"indices": [
+						383,
+						397
+					]
+				},
+				{
+					"screen_name": "MsHake418",
+					"name": "Ms. Debra Hake",
+					"id": 3300830253,
+					"id_str": "3300830253",
+					"indices": [
+						398,
+						408
+					]
+				},
+				{
+					"screen_name": "SJSaragusa",
+					"name": "Sally Jo Saragusa",
+					"id": 736129165,
+					"id_str": "736129165",
+					"indices": [
+						409,
+						420
+					]
+				},
+				{
+					"screen_name": "Maire_from_NJ",
+					"name": "Maire Cervenak",
+					"id": 975677880331104300,
+					"id_str": "975677880331104256",
+					"indices": [
+						421,
+						435
+					]
+				},
+				{
+					"screen_name": "STEAMuptheClsrm",
+					"name": "Tori Cameron",
+					"id": 173316279,
+					"id_str": "173316279",
+					"indices": [
+						436,
+						452
+					]
+				},
+				{
+					"screen_name": "stephenkelley85",
+					"name": "Steve K. 2019 word #BeAwesome",
+					"id": 766714928057245700,
+					"id_str": "766714928057245697",
+					"indices": [
+						453,
+						469
+					]
+				},
+				{
+					"screen_name": "RitaWirtz",
+					"name": "Rita Wirtz",
+					"id": 2813248590,
+					"id_str": "2813248590",
+					"indices": [
+						470,
+						480
+					]
+				},
+				{
+					"screen_name": "catnasser",
+					"name": "Catie Nasser",
+					"id": 1087696410,
+					"id_str": "1087696410",
+					"indices": [
+						481,
+						491
+					]
+				},
+				{
+					"screen_name": "GiftedTawk",
+					"name": "Julia Dweck",
+					"id": 2615421872,
+					"id_str": "2615421872",
+					"indices": [
+						492,
+						503
+					]
+				},
+				{
+					"screen_name": "campbellartsoup",
+					"name": "Janine Campbell",
+					"id": 395078252,
+					"id_str": "395078252",
+					"indices": [
+						504,
+						520
+					]
+				},
+				{
+					"screen_name": "MonaLisaLvsHeah",
+					"name": "🎨👩‍🎨 αℓιcε gεηтιℓι 📱💻",
+					"id": 342256555,
+					"id_str": "342256555",
+					"indices": [
+						521,
+						537
+					]
+				},
+				{
+					"screen_name": "mrsbeardain",
+					"name": "Rebecca Beardain",
+					"id": 712851504047128600,
+					"id_str": "712851504047128576",
+					"indices": [
+						538,
+						550
+					]
+				},
+				{
+					"screen_name": "victoriajcoe",
+					"name": "Victoria J Coe",
+					"id": 23702391,
+					"id_str": "23702391",
+					"indices": [
+						551,
+						564
+					]
+				},
+				{
+					"screen_name": "mr_swingle",
+					"name": "Will Swingle",
+					"id": 760585270961987600,
+					"id_str": "760585270961987584",
+					"indices": [
+						565,
+						576
+					]
+				},
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central #MSFTEduChat",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						641,
+						651
+					]
+				},
+				{
+					"screen_name": "fcotexeira",
+					"name": "Francisco Texeira",
+					"id": 488780635,
+					"id_str": "488780635",
+					"indices": [
+						693,
+						704
+					]
+				},
+				{
+					"screen_name": "AnicaTrickovic",
+					"name": "Anica Tričković",
+					"id": 3062086342,
+					"id_str": "3062086342",
+					"indices": [
+						709,
+						724
+					]
+				},
+				{
+					"screen_name": "kerszi",
+					"name": "Kathi Kersznowski",
+					"id": 595079922,
+					"id_str": "595079922",
+					"indices": [
+						804,
+						811
+					]
+				},
+				{
+					"screen_name": "Fabmarrou",
+					"name": "Fabrice Marrou",
+					"id": 125272544,
+					"id_str": "125272544",
+					"indices": [
+						812,
+						822
+					]
+				},
+				{
+					"screen_name": "nekolety",
+					"name": "Leti Ahumada",
+					"id": 433626139,
+					"id_str": "433626139",
+					"indices": [
+						823,
+						832
+					]
+				},
+				{
+					"screen_name": "LBayne",
+					"name": "Lindsay Bayne",
+					"id": 18954505,
+					"id_str": "18954505",
+					"indices": [
+						833,
+						840
+					]
+				},
+				{
+					"screen_name": "Cloughglass",
+					"name": "Hugh Meenagh",
+					"id": 740927546,
+					"id_str": "740927546",
+					"indices": [
+						841,
+						853
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1133099146901016600,
+		"in_reply_to_status_id_str": "1133099146901016577",
+		"in_reply_to_user_id": 27673327,
+		"in_reply_to_user_id_str": "27673327",
+		"in_reply_to_screen_name": "mtholfsen",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21144,
+			"friends_count": 7561,
+			"listed_count": 630,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1558794013",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mtholfsen @design2research @TxTechChick @J_Bimmerle @snej80 @MrWeimann @ClaudioZavalaJr @KarlyMoura @bhopteacher @fuglefun @ReneeWellsSTEAM @tracyscottkelly @heARTISTatWORK @Cassie4Peace @ImCriss @sgtcurrypants @FlindersEmma @ShaeBilston1 @JohnnyGivesADam @Prosenbe1971 @derrold @KMGFromChicago @SHashtagger @ZarrarSalahPTI @beach5girl @Greg_Moffitt @ChristineBemis2 @daveschmittou @archangelcrew @MsHake418 @SJSaragusa @Maire_from_NJ @STEAMuptheClsrm @stephenkelley85 @RitaWirtz @catnasser @GiftedTawk @campbellartsoup @MonaLisaLvsHeah @mrsbeardain @victoriajcoe @mr_swingle #3Facts5Friends\nFacts about me:\n1) I have a dream job. At 🎈Team @TweetMeet I get to work with the best friends ever @fcotexeira and @AnicaTrickovic (tagged you!)\n2) Today is my birthday 🎂\n3) I once was a gestational carrier 🤱\n\n@kerszi @fabmarrou @nekolety @lbayne @Cloughglass"
+	},
+	{
 		"created_at": "Sun May 26 21:16:12 +0000 2019",
 		"id": 1132757347871449100,
 		"id_str": "1132757347871449088",
