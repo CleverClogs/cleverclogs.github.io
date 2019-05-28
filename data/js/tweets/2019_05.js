@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 19:01:45 +0000 2019",
+		"id": 1133448291713245200,
+		"id_str": "1133448291713245186",
+		"full_text": "\"PMs are supposed to serve the product, the customers, partners, and colleagues—not manage or control them. A much better title and attitude for a PM to assume is that of steward.\"\nInsightful article by Ryan McMinn, group program manager on the #OneNote Team.\n\nThanks @NotedByRyan https://t.co/3vwU4OXe5l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						245,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotedByRyan",
+					"name": "Ryan McMinn",
+					"id": 729049944133226500,
+					"id_str": "729049944133226496",
+					"indices": [
+						268,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3vwU4OXe5l",
+					"expanded_url": "https://twitter.com/NotedByRyan/status/1133368354641547264",
+					"display_url": "twitter.com/NotedByRyan/st…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21154,
+			"friends_count": 7563,
+			"listed_count": 630,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1558794013",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133368354641547300,
+		"quoted_status_id_str": "1133368354641547264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3vwU4OXe5l",
+			"expanded": "https://twitter.com/NotedByRyan/status/1133368354641547264",
+			"display": "twitter.com/NotedByRyan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 28 13:44:07 +0000 2019",
+			"id": 1133368354641547300,
+			"id_str": "1133368354641547264",
+			"full_text": "Check out my latest article: From Manager to Steward: Why You Should Change Your Leadership Mindset  https://t.co/YYXNvYxcOe via @LinkedIn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LinkedIn",
+						"name": "LinkedIn",
+						"id": 13058772,
+						"id_str": "13058772",
+						"indices": [
+							129,
+							138
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YYXNvYxcOe",
+						"expanded_url": "https://www.linkedin.com/pulse/from-manager-steward-why-you-should-change-your-mindset-ryan-mcminn",
+						"display_url": "linkedin.com/pulse/from-man…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 729049944133226500,
+				"id_str": "729049944133226496",
+				"name": "Ryan McMinn",
+				"screen_name": "NotedByRyan",
+				"location": "Redmond, WA",
+				"description": "Head of product for Microsoft OneNote & Sticky Notes",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 956,
+				"friends_count": 138,
+				"listed_count": 32,
+				"created_at": "Sat May 07 20:47:06 +0000 2016",
+				"favourites_count": 973,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 727,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072157033355329536/ZU_bti5l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072157033355329536/ZU_bti5l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/729049944133226496/1520128968",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"PMs are supposed to serve the product, the customers, partners, and colleagues—not manage or control them. A much better title and attitude for a PM to assume is that of steward.\"\nInsightful article by Ryan McMinn, group program manager on the #OneNote Team.\n\nThanks @NotedByRyan https://t.co/3vwU4OXe5l"
+	},
+	{
 		"created_at": "Mon May 27 20:33:22 +0000 2019",
 		"id": 1133108959848599600,
 		"id_str": "1133108959848599552",
@@ -404,7 +639,7 @@ Grailbird.data.tweets_2019_05 =
 				},
 				{
 					"screen_name": "MonaLisaLvsHeah",
-					"name": "🎨👩‍🎨 αℓιcε gεηтιℓι 📱💻",
+					"name": "🎨👩🎨 αℓιcε gεηтιℓι 📱💻",
 					"id": 342256555,
 					"id_str": "342256555",
 					"indices": [
