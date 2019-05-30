@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 15:06:16 +0000 2019",
+		"id": 1134111611680174100,
+		"id_str": "1134113805519282179",
+		"full_text": "📢 Hey, teachers!\n\nThat's one of the features in #MicrosoftTeams we were waiting for:\nA read-only folder to keep all documents we don't want our students to modify.\n\n😍 Isn't it a great idea?\nMore info here: https://t.co/spV5NC43sr\n\nWe're #TeamsLovers, 🚀 and you? https://t.co/3oPSo62SGz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						48,
+						63
+					]
+				},
+				{
+					"text": "TeamsLovers",
+					"indices": [
+						237,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/spV5NC43sr",
+					"expanded_url": "https://support.office.com/en-us/article/use-the-class-materials-folder-to-create-read-only-files-for-your-students-0e7791d7-8c9c-4749-9bca-984289477988?ui=en-US&rs=en-US&ad=US",
+					"display_url": "support.office.com/en-us/article/…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1134110477829754900,
+					"id_str": "1134110477829754880",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/D70reIcXUAAXe1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D70reIcXUAAXe1i.jpg",
+					"url": "https://t.co/3oPSo62SGz",
+					"display_url": "pic.twitter.com/3oPSo62SGz",
+					"expanded_url": "https://twitter.com/TeamsCentral/status/1134111611680174081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1054,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134110477829754900,
+					"id_str": "1134110477829754880",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/D70reIcXUAAXe1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D70reIcXUAAXe1i.jpg",
+					"url": "https://t.co/3oPSo62SGz",
+					"display_url": "pic.twitter.com/3oPSo62SGz",
+					"expanded_url": "https://twitter.com/TeamsCentral/status/1134111611680174081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 405,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1054,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1020219219689033700,
+			"id_str": "1020219219689033729",
+			"name": "Teams Central",
+			"screen_name": "TeamsCentral",
+			"location": "World",
+			"description": "Independent selection of #MicrosoftTeams news & updates, and a meeting point for #TeamsLovers, by @fcotexeira – MCE, MOS, MIE Expert & @TweetMeet's assistant.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 811,
+			"friends_count": 983,
+			"listed_count": 10,
+			"created_at": "Fri Jul 20 08:09:51 +0000 2018",
+			"favourites_count": 536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026758462750044160/arY8RVp6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026758462750044160/arY8RVp6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1020219219689033729/1535288988",
+			"profile_link_color": "5558AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 Hey, teachers!\n\nThat's one of the features in #MicrosoftTeams we were waiting for:\nA read-only folder to keep all documents we don't want our students to modify.\n\n😍 Isn't it a great idea?\nMore info here: https://t.co/spV5NC43sr\n\nWe're #TeamsLovers, 🚀 and you? https://t.co/3oPSo62SGz"
+	},
+	{
 		"created_at": "Thu May 30 07:42:42 +0000 2019",
 		"id": 1133924694896259100,
 		"id_str": "1134002177104580608",
