@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 10:18:42 +0000 2019",
+		"id": 1134403401964408800,
+		"id_str": "1134403824121200640",
+		"full_text": "When the tools in #onenote become second nature. This is a Year 3 student using digital ink and the ruler tool by choice to complete her activity (without being instructed to). Makes me so excited! #techteachergoals\n\n@MSAUedu @MicrosoftEDU @OneNoteC @OneNoteEDU https://t.co/scua6ZUkTp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onenote",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "techteachergoals",
+					"indices": [
+						198,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSAUedu",
+					"name": "Microsoft Education",
+					"id": 3666731533,
+					"id_str": "3666731533",
+					"indices": [
+						217,
+						225
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						226,
+						239
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						240,
+						249
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						250,
+						261
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134403272519766000,
+					"id_str": "1134403272519766016",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134403272519766016/pu/img/Vthrvbcn7d7sqDCY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134403272519766016/pu/img/Vthrvbcn7d7sqDCY.jpg",
+					"url": "https://t.co/scua6ZUkTp",
+					"display_url": "pic.twitter.com/scua6ZUkTp",
+					"expanded_url": "https://twitter.com/larubain/status/1134403401964408833/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134403272519766000,
+					"id_str": "1134403272519766016",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134403272519766016/pu/img/Vthrvbcn7d7sqDCY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134403272519766016/pu/img/Vthrvbcn7d7sqDCY.jpg",
+					"url": "https://t.co/scua6ZUkTp",
+					"display_url": "pic.twitter.com/scua6ZUkTp",
+					"expanded_url": "https://twitter.com/larubain/status/1134403401964408833/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11967,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134403272519766016/pu/vid/720x720/fZAMvZWnG8dHQp8A.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134403272519766016/pu/vid/480x480/s9UmmclRA5cGq7dv.mp4?tag=9"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134403272519766016/pu/vid/320x320/_f8LXwMRW2RGxkjG.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1134403272519766016/pu/pl/Kn9F_Q3AAm4OgY0k.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27329396,
+			"id_str": "27329396",
+			"name": "Laura Bain",
+			"screen_name": "larubain",
+			"location": "Queensland, Australia",
+			"description": "Head of Digital Learning and Innovation, Hot Listed Educator 2017/2018, #MicrosoftEDU #MIEExpert, #AppleTeacher, #ClassDojo Mentor, founding member @WomenEd_Aus",
+			"url": "https://t.co/Sx19INDORj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Sx19INDORj",
+							"expanded_url": "http://www.laurabain.com.au/blog",
+							"display_url": "laurabain.com.au/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 2452,
+			"listed_count": 101,
+			"created_at": "Sat Mar 28 23:05:55 +0000 2009",
+			"favourites_count": 4249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105025342983434240/w1fdFk9J_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105025342983434240/w1fdFk9J_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27329396/1544176873",
+			"profile_link_color": "66C9C1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "004ec16c62325149",
+			"url": "https://api.twitter.com/1.1/geo/id/004ec16c62325149.json",
+			"place_type": "city",
+			"name": "Brisbane",
+			"full_name": "Brisbane, Queensland",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							152.668522848,
+							-27.767440994
+						],
+						[
+							153.31787024,
+							-27.767440994
+						],
+						[
+							153.31787024,
+							-26.996844991
+						],
+						[
+							152.668522848,
+							-26.996844991
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When the tools in #onenote become second nature. This is a Year 3 student using digital ink and the ruler tool by choice to complete her activity (without being instructed to). Makes me so excited! #techteachergoals\n\n@MSAUedu @MicrosoftEDU @OneNoteC @OneNoteEDU https://t.co/scua6ZUkTp"
+	},
+	{
 		"created_at": "Thu May 30 20:46:14 +0000 2019",
 		"id": 1134199360386940900,
 		"id_str": "1134199360386940929",
