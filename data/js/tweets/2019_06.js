@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 14:58:22 +0000 2019",
+		"id": 1135561369573634000,
+		"id_str": "1135561369573634048",
+		"full_text": "Kevin Wilson sums up the exact steps how I created the horizontal #OneNote section navigation below. \nGreat analysis, @kevitec57.\nButtons with white text from @Snagit.\n\nDo read the very rich conversation with alternative approaches in the full thread here:\nhttps://t.co/CdLZngpiDc https://t.co/DM3FKPvlwd https://t.co/I5hWKJcNGT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			304
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kevitec57",
+					"name": "Kevin Wilson",
+					"id": 176514348,
+					"id_str": "176514348",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"screen_name": "Snagit",
+					"name": "TechSmith Snagit",
+					"id": 21217380,
+					"id_str": "21217380",
+					"indices": [
+						159,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CdLZngpiDc",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1135296986838683648",
+					"display_url": "twitter.com/OneNoteC/statu…",
+					"indices": [
+						257,
+						280
+					]
+				},
+				{
+					"url": "https://t.co/DM3FKPvlwd",
+					"expanded_url": "https://twitter.com/kevitec57/status/1135552797141852160",
+					"display_url": "twitter.com/kevitec57/stat…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1135561362996977700,
+					"id_str": "1135561362996977666",
+					"indices": [
+						305,
+						328
+					],
+					"media_url": "http://pbs.twimg.com/media/D8JTCw4X4AImTDW.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8JTCw4X4AImTDW.png",
+					"url": "https://t.co/I5hWKJcNGT",
+					"display_url": "pic.twitter.com/I5hWKJcNGT",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1135561369573634048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1017,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 596,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135561362996977700,
+					"id_str": "1135561362996977666",
+					"indices": [
+						305,
+						328
+					],
+					"media_url": "http://pbs.twimg.com/media/D8JTCw4X4AImTDW.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8JTCw4X4AImTDW.png",
+					"url": "https://t.co/I5hWKJcNGT",
+					"display_url": "pic.twitter.com/I5hWKJcNGT",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1135561369573634048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1017,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 596,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21219,
+			"friends_count": 7566,
+			"listed_count": 632,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1559399571",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135552797141852200,
+		"quoted_status_id_str": "1135552797141852160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DM3FKPvlwd",
+			"expanded": "https://twitter.com/kevitec57/status/1135552797141852160",
+			"display": "twitter.com/kevitec57/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 03 14:24:19 +0000 2019",
+			"id": 1135552797141852200,
+			"id_str": "1135552797141852160",
+			"full_text": "@OneNoteC 1. Completed page name\n2. Created a table beneath the page name &amp; coloured the cells\n3.  Pasted matching coloured 'picture' buttons in each cell from elsewhere &amp; linked a page to each button. Hence need to Ctrl-Click\n4. Dragged the table above the page name",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1135296986838683600,
+			"in_reply_to_status_id_str": "1135296986838683648",
+			"in_reply_to_user_id": 2582768738,
+			"in_reply_to_user_id_str": "2582768738",
+			"in_reply_to_screen_name": "OneNoteC",
+			"user": {
+				"id": 176514348,
+				"id_str": "176514348",
+				"name": "Kevin Wilson",
+				"screen_name": "kevitec57",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 0,
+				"friends_count": 4,
+				"listed_count": 0,
+				"created_at": "Mon Aug 09 19:02:36 +0000 2010",
+				"favourites_count": 28,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 137,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2971838548/968e9131c599f93ab9154847bca67cac_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2971838548/968e9131c599f93ab9154847bca67cac_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kevin Wilson sums up the exact steps how I created the horizontal #OneNote section navigation below. \nGreat analysis, @kevitec57.\nButtons with white text from @Snagit.\n\nDo read the very rich conversation with alternative approaches in the full thread here:\nhttps://t.co/CdLZngpiDc https://t.co/DM3FKPvlwd https://t.co/I5hWKJcNGT"
+	},
+	{
 		"created_at": "Mon Jun 03 13:51:28 +0000 2019",
 		"id": 1135544533037584400,
 		"id_str": "1135544533037584386",
