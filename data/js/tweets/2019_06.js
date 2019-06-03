@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 03 17:10:46 +0000 2019",
+		"id": 1135594687987945500,
+		"id_str": "1135594687987945473",
+		"full_text": "@denisevajdak Nice work, Denise. These colorized horizontal #OneNote section buttons seem a natural fit for your journal pages.\n\nSecretly wondering if @TheMicheleC @Jared_DeCamp @oh365eh_kelly have been following this conversation. Something tells me they'll like this approach also.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						60,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "denisevajdak",
+					"name": "Denise Vajdak",
+					"id": 1389476786,
+					"id_str": "1389476786",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "TheMicheleC",
+					"name": "Michele Christensen",
+					"id": 74239682,
+					"id_str": "74239682",
+					"indices": [
+						151,
+						163
+					]
+				},
+				{
+					"screen_name": "Jared_DeCamp",
+					"name": "Jared DeCamp",
+					"id": 3005666891,
+					"id_str": "3005666891",
+					"indices": [
+						164,
+						177
+					]
+				},
+				{
+					"screen_name": "oh365eh_kelly",
+					"name": "Kelly (Marshall) LaForest",
+					"id": 1733257898,
+					"id_str": "1733257898",
+					"indices": [
+						178,
+						192
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1135581749335998500,
+		"in_reply_to_status_id_str": "1135581749335998468",
+		"in_reply_to_user_id": 1389476786,
+		"in_reply_to_user_id_str": "1389476786",
+		"in_reply_to_screen_name": "denisevajdak",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21223,
+			"friends_count": 7566,
+			"listed_count": 632,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1559399571",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@denisevajdak Nice work, Denise. These colorized horizontal #OneNote section buttons seem a natural fit for your journal pages.\n\nSecretly wondering if @TheMicheleC @Jared_DeCamp @oh365eh_kelly have been following this conversation. Something tells me they'll like this approach also."
+	},
+	{
 		"created_at": "Mon Jun 03 14:58:22 +0000 2019",
 		"id": 1135561369573634000,
 		"id_str": "1135561369573634048",
