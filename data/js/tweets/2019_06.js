@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 19:53:07 +0000 2019",
+		"id": 1135996889936015400,
+		"id_str": "1135997933101428736",
+		"full_text": "Three weeks from right about now, #Onederful #EduHero @mtholfsen and I will be sharing how #OneNote Class Notebooks can change your life at #ISTE19. Join us Tues @ 4 PM in room 203b! https://t.co/wZVe0jCs5C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onederful",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "EduHero",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "ISTE19",
+					"indices": [
+						140,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						54,
+						64
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135996885448085500,
+					"id_str": "1135996885448085510",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D8PfJgcVUAYgfOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8PfJgcVUAYgfOP.jpg",
+					"url": "https://t.co/wZVe0jCs5C",
+					"display_url": "pic.twitter.com/wZVe0jCs5C",
+					"expanded_url": "https://twitter.com/BeckyKeene/status/1135996889936015360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135996885448085500,
+					"id_str": "1135996885448085510",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/D8PfJgcVUAYgfOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8PfJgcVUAYgfOP.jpg",
+					"url": "https://t.co/wZVe0jCs5C",
+					"display_url": "pic.twitter.com/wZVe0jCs5C",
+					"expanded_url": "https://twitter.com/BeckyKeene/status/1135996889936015360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253925945,
+			"id_str": "253925945",
+			"name": "Becky Keene",
+			"screen_name": "BeckyKeene",
+			"location": "Seattle, WA",
+			"description": "Director @i2eEDU @PhygitalLabs | MSEd, prof learning guru, #NBCT, international speaker, #msftedu expert, #onenote junkie, #edtech #1:1 #thatgirlfromthevideos",
+			"url": "https://t.co/Vo4FHSwVak",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vo4FHSwVak",
+							"expanded_url": "http://www.linkedin.com/in/beckykeene/",
+							"display_url": "linkedin.com/in/beckykeene/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3178,
+			"friends_count": 783,
+			"listed_count": 227,
+			"created_at": "Fri Feb 18 07:30:58 +0000 2011",
+			"favourites_count": 7290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1038301962217779201/Q1whcKbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038301962217779201/Q1whcKbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253925945/1536386407",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Three weeks from right about now, #Onederful #EduHero @mtholfsen and I will be sharing how #OneNote Class Notebooks can change your life at #ISTE19. Join us Tues @ 4 PM in room 203b! https://t.co/wZVe0jCs5C"
+	},
+	{
 		"created_at": "Tue Jun 04 18:40:01 +0000 2019",
 		"id": 1135979445360255000,
 		"id_str": "1135979536829620224",
