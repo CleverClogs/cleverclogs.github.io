@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 18:40:01 +0000 2019",
+		"id": 1135979445360255000,
+		"id_str": "1135979536829620224",
+		"full_text": "I'll be presenting at #ISTE19 with the amazing @pittmansplace 🚀 Come to our session \"Increasing #Accessibility and Fostering Inclusive Classrooms 💯\" \n\nMark your schedule today 📅 #MIEExpert #MicrosoftEDU\n\n.Details 👇 https://t.co/tsvBCR84Eu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ISTE19",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"text": "Accessibility",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						178,
+						188
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						189,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pittmansplace",
+					"name": "Lauren Pittman",
+					"id": 3294396287,
+					"id_str": "3294396287",
+					"indices": [
+						47,
+						61
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135978805426827300,
+					"id_str": "1135978805426827264",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/D8POtHHWsAA_iTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8POtHHWsAA_iTX.jpg",
+					"url": "https://t.co/tsvBCR84Eu",
+					"display_url": "pic.twitter.com/tsvBCR84Eu",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1135979445360254977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1959,
+							"h": 1094,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135978805426827300,
+					"id_str": "1135978805426827264",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/D8POtHHWsAA_iTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8POtHHWsAA_iTX.jpg",
+					"url": "https://t.co/tsvBCR84Eu",
+					"display_url": "pic.twitter.com/tsvBCR84Eu",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1135979445360254977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1959,
+							"h": 1094,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #Accessibility @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18519,
+			"friends_count": 3229,
+			"listed_count": 732,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 64224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'll be presenting at #ISTE19 with the amazing @pittmansplace 🚀 Come to our session \"Increasing #Accessibility and Fostering Inclusive Classrooms 💯\" \n\nMark your schedule today 📅 #MIEExpert #MicrosoftEDU\n\n.Details 👇 https://t.co/tsvBCR84Eu"
+	},
+	{
 		"created_at": "Mon Jun 03 22:40:07 +0000 2019",
 		"id": 1135296986838683600,
 		"id_str": "1135677571276910592",
