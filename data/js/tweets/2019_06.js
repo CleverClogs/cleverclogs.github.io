@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 17:52:29 +0000 2019",
+		"id": 1138503896333213700,
+		"id_str": "1138504287099740161",
+		"full_text": "#OneNote has been a gamechanger for us at @schoolvoorAD @rocmondriaan 🙌 and the introduction of @ScreenBeam improved teaching forever \nThank you for appreciating @OneNoteC,learnt the basics from you ;) \n#MicrosoftEDU #MIEExpert #ScreenBeamExpert #EdTools #EdTech #UntetheredLife https://t.co/1KBebYl9Yn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						203,
+						216
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						217,
+						227
+					]
+				},
+				{
+					"text": "ScreenBeamExpert",
+					"indices": [
+						228,
+						245
+					]
+				},
+				{
+					"text": "EdTools",
+					"indices": [
+						246,
+						254
+					]
+				},
+				{
+					"text": "EdTech",
+					"indices": [
+						255,
+						262
+					]
+				},
+				{
+					"text": "UntetheredLife",
+					"indices": [
+						263,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoolvoorAD",
+					"name": "SchoolvoorAD",
+					"id": 4058449276,
+					"id_str": "4058449276",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "rocmondriaan",
+					"name": "ROC Mondriaan",
+					"id": 90415414,
+					"id_str": "90415414",
+					"indices": [
+						56,
+						69
+					]
+				},
+				{
+					"screen_name": "ScreenBeam",
+					"name": "ScreenBeam",
+					"id": 2600318149,
+					"id_str": "2600318149",
+					"indices": [
+						96,
+						107
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						162,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1KBebYl9Yn",
+					"expanded_url": "https://twitter.com/OneNoteEDU/status/1138465419696775171",
+					"display_url": "twitter.com/OneNoteEDU/sta…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 479895972,
+			"id_str": "479895972",
+			"name": "Farhana Khan",
+			"screen_name": "Farhana1979",
+			"location": "The Netherlands",
+			"description": "Educator | Dreamer | Achiever| \nPassionate about my work & making a difference| Tweets in Dutch and English|\n\n#Education | #MBO | #MIEExpert | #MicrosoftEdu",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474,
+			"friends_count": 274,
+			"listed_count": 37,
+			"created_at": "Tue Jan 31 22:07:23 +0000 2012",
+			"favourites_count": 7427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040292708315738112/vaGWPLLs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040292708315738112/vaGWPLLs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/479895972/1543008469",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "8cb67e5457853086",
+			"url": "https://api.twitter.com/1.1/geo/id/8cb67e5457853086.json",
+			"place_type": "city",
+			"name": "The Hague",
+			"full_name": "The Hague, The Netherlands",
+			"country_code": "NL",
+			"country": "The Netherlands",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							4.1903465,
+							52.0148713
+						],
+						[
+							4.4224441,
+							52.0148713
+						],
+						[
+							4.4224441,
+							52.1388646
+						],
+						[
+							4.1903465,
+							52.1388646
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138465419696775200,
+		"quoted_status_id_str": "1138465419696775171",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1KBebYl9Yn",
+			"expanded": "https://twitter.com/OneNoteEDU/status/1138465419696775171",
+			"display": "twitter.com/OneNoteEDU/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 11 15:18:02 +0000 2019",
+			"id": 1138465419696775200,
+			"id_str": "1138465419696775171",
+			"full_text": "#MIEExpert @Farhana1979 has been using #OneNote and @ScreenBeam together in her classroom for a few years. Read about the difference she's seen in her students since implementing these tools: https://t.co/HpNaSDZ26O https://t.co/0tekfBzNZU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							39,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Farhana1979",
+						"name": "Farhana Khan",
+						"id": 479895972,
+						"id_str": "479895972",
+						"indices": [
+							11,
+							23
+						]
+					},
+					{
+						"screen_name": "ScreenBeam",
+						"name": "ScreenBeam",
+						"id": 2600318149,
+						"id_str": "2600318149",
+						"indices": [
+							52,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HpNaSDZ26O",
+						"expanded_url": "http://msft.social/s7KrmC",
+						"display_url": "msft.social/s7KrmC",
+						"indices": [
+							192,
+							215
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1138465414017617900,
+						"id_str": "1138465414017617920",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/D8ykQx-WkAA6pyx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8ykQx-WkAA6pyx.jpg",
+						"url": "https://t.co/0tekfBzNZU",
+						"display_url": "pic.twitter.com/0tekfBzNZU",
+						"expanded_url": "https://twitter.com/OneNoteEDU/status/1138465419696775171/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1138465414017617900,
+						"id_str": "1138465414017617920",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/D8ykQx-WkAA6pyx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8ykQx-WkAA6pyx.jpg",
+						"url": "https://t.co/0tekfBzNZU",
+						"display_url": "pic.twitter.com/0tekfBzNZU",
+						"expanded_url": "https://twitter.com/OneNoteEDU/status/1138465419696775171/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3096566760,
+				"id_str": "3096566760",
+				"name": "OneNote Education",
+				"screen_name": "OneNoteEDU",
+				"location": "Redmond, WA",
+				"description": "Connecting educators to OneNote resources and information. An official channel for Microsoft OneNote.",
+				"url": "https://t.co/WXZq0ydASA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WXZq0ydASA",
+								"expanded_url": "http://onenoteineducation.com",
+								"display_url": "onenoteineducation.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72303,
+				"friends_count": 880,
+				"listed_count": 805,
+				"created_at": "Wed Mar 18 17:56:27 +0000 2015",
+				"favourites_count": 12350,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18423,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1129011006867329025/Do6xREyC_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129011006867329025/Do6xREyC_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3096566760/1455659611",
+				"profile_link_color": "8424B3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OneNote has been a gamechanger for us at @schoolvoorAD @rocmondriaan 🙌 and the introduction of @ScreenBeam improved teaching forever \nThank you for appreciating @OneNoteC,learnt the basics from you ;) \n#MicrosoftEDU #MIEExpert #ScreenBeamExpert #EdTools #EdTech #UntetheredLife https://t.co/1KBebYl9Yn"
+	},
+	{
 		"created_at": "Mon Jun 10 19:42:18 +0000 2019",
 		"id": 1138169537784877000,
 		"id_str": "1138169537784877056",
