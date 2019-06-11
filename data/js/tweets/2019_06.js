@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 22:59:31 +0000 2019",
+		"id": 1138562803466408000,
+		"id_str": "1138581554412883969",
+		"full_text": "@OneNoteEDU has transformed my classroom \n\n🌟💜 💜🌟\n\n@OneNoteC #StaffNotebooks\n&amp; #ClassroomNotebooks mean that differentiated planning, learning &amp; assessment is seamless across the  curriculum. \n\n🌟💜 💜🌟 https://t.co/jAqBwHYNKD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StaffNotebooks",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"text": "ClassroomNotebooks",
+					"indices": [
+						82,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jAqBwHYNKD",
+					"expanded_url": "https://twitter.com/ms_eduirl/status/1138343608359301120",
+					"display_url": "twitter.com/ms_eduirl/stat…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3096566760,
+		"in_reply_to_user_id_str": "3096566760",
+		"in_reply_to_screen_name": "OneNoteEDU",
+		"user": {
+			"id": 17976650,
+			"id_str": "17976650",
+			"name": "Kate Murray",
+			"screen_name": "kateingalway",
+			"location": "Galway",
+			"description": "Irish Principal Teacher | MIEExpert Fellow | Skype Master Teacher | Surface Master Trainer | LEGO Robotics Enthusiast | FLL & FLLJr Mentor #MSFTEduChat Host",
+			"url": "https://t.co/D5aV1SWY69",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D5aV1SWY69",
+							"expanded_url": "http://clontuskert.scoilnet.ie",
+							"display_url": "clontuskert.scoilnet.ie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 3708,
+			"listed_count": 141,
+			"created_at": "Mon Dec 08 23:05:58 +0000 2008",
+			"favourites_count": 5149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075756637208698881/954JNYC9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075756637208698881/954JNYC9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17976650/1545315848",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138343608359301100,
+		"quoted_status_id_str": "1138343608359301120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jAqBwHYNKD",
+			"expanded": "https://twitter.com/ms_eduirl/status/1138343608359301120",
+			"display": "twitter.com/ms_eduirl/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 11 07:14:00 +0000 2019",
+			"id": 1138343608359301100,
+			"id_str": "1138343608359301120",
+			"full_text": "\"It makes my life easier and it makes the student's life easier\" 👏\n\n@KateinGalway on why #OneNote works well in her classroom. https://t.co/vw7xq7QtSm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							89,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kateingalway",
+						"name": "Kate Murray",
+						"id": 17976650,
+						"id_str": "17976650",
+						"indices": [
+							68,
+							81
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1133682299139178500,
+						"id_str": "1133682299139178496",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/D7urz_sWkAEHBt-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7urz_sWkAEHBt-.jpg",
+						"url": "https://t.co/vw7xq7QtSm",
+						"display_url": "pic.twitter.com/vw7xq7QtSm",
+						"expanded_url": "https://twitter.com/MS_eduIRL/status/1138343608359301120/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133682299139178500,
+						"id_str": "1133682299139178496",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/D7urz_sWkAEHBt-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7urz_sWkAEHBt-.jpg",
+						"url": "https://t.co/vw7xq7QtSm",
+						"display_url": "pic.twitter.com/vw7xq7QtSm",
+						"expanded_url": "https://twitter.com/MS_eduIRL/status/1138343608359301120/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 35160,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1133682299139178496/vid/1280x720/dHzacWUVafc8ZgV9.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1133682299139178496/vid/640x360/JBsRK3H8QgpuGzNn.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1133682299139178496/pl/XbqnI5UJW3pDoejR.m3u8?tag=12"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1133682299139178496/vid/320x180/GFATYwkFNAca1cTg.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1418497789,
+				"id_str": "1418497789",
+				"name": "Microsoft Education Ireland",
+				"screen_name": "MS_eduIRL",
+				"location": "Microsoft, Dublin, Ireland",
+				"description": "Empowering school communities to collaborate and create, so that students can realise their greatest potential using digital technology. Home of #MSDreamSpace.",
+				"url": "https://t.co/Gh5RFHuUqR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gh5RFHuUqR",
+								"expanded_url": "http://www.microsoft.ie/education",
+								"display_url": "microsoft.ie/education",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4996,
+				"friends_count": 1908,
+				"listed_count": 104,
+				"created_at": "Fri May 10 16:13:10 +0000 2013",
+				"favourites_count": 6810,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3127,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B9289F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/524870930145636353/69ExO8tr_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/524870930145636353/69ExO8tr_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1418497789/1493805581",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@OneNoteEDU has transformed my classroom \n\n🌟💜 💜🌟\n\n@OneNoteC #StaffNotebooks\n&amp; #ClassroomNotebooks mean that differentiated planning, learning &amp; assessment is seamless across the  curriculum. \n\n🌟💜 💜🌟 https://t.co/jAqBwHYNKD"
+	},
+	{
 		"created_at": "Tue Jun 11 17:52:29 +0000 2019",
 		"id": 1138503896333213700,
 		"id_str": "1138504287099740161",
