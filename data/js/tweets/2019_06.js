@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 10:16:30 +0000 2019",
+		"id": 1138646084039741400,
+		"id_str": "1138751926173130754",
+		"full_text": "These MIE Experts are getting ready for the dance off @InnEdCO 2019. They are on a OneNote mission @LAndersonMESA @nikijbrock4 @mtholfsen @MicrosoftEDU https://t.co/M5MeDtGtXW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "InnEdCO",
+					"name": "InnEdCO",
+					"id": 103948271,
+					"id_str": "103948271",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"screen_name": "LAndersonMESA",
+					"name": "Lindsey Anderson",
+					"id": 744349854,
+					"id_str": "744349854",
+					"indices": [
+						99,
+						113
+					]
+				},
+				{
+					"screen_name": "nikijbrock4",
+					"name": "Niki Brock",
+					"id": 739824511722233900,
+					"id_str": "739824511722233857",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						138,
+						151
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138645910483660800,
+					"id_str": "1138645910483660800",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138645910483660800/pu/img/sdgFO3jHqk03fGCw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138645910483660800/pu/img/sdgFO3jHqk03fGCw.jpg",
+					"url": "https://t.co/M5MeDtGtXW",
+					"display_url": "pic.twitter.com/M5MeDtGtXW",
+					"expanded_url": "https://twitter.com/MarySoltau/status/1138646084039741440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138645910483660800,
+					"id_str": "1138645910483660800",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1138645910483660800/pu/img/sdgFO3jHqk03fGCw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1138645910483660800/pu/img/sdgFO3jHqk03fGCw.jpg",
+					"url": "https://t.co/M5MeDtGtXW",
+					"display_url": "pic.twitter.com/M5MeDtGtXW",
+					"expanded_url": "https://twitter.com/MarySoltau/status/1138646084039741440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32487,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1138645910483660800/pu/vid/1280x720/ALoHle357tAPs8LV.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1138645910483660800/pu/pl/JracPbKhNh1wjvgi.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1138645910483660800/pu/vid/640x360/mxAhRupJWxrup_W3.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1138645910483660800/pu/vid/480x270/s5WQ6afDltN1Rivl.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 281662985,
+			"id_str": "281662985",
+			"name": "Mary Murphy",
+			"screen_name": "MarySoltau",
+			"location": "Castle Rock, CO",
+			"description": "Innovation/Personalized Learning Specialist  Douglas County School District, MIE Expert,  Designed the International Global Classroom",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 747,
+			"friends_count": 314,
+			"listed_count": 40,
+			"created_at": "Wed Apr 13 18:30:13 +0000 2011",
+			"favourites_count": 154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/426183400328658945/HOG-QYhZ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/426183400328658945/HOG-QYhZ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/281662985/1467068400",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These MIE Experts are getting ready for the dance off @InnEdCO 2019. They are on a OneNote mission @LAndersonMESA @nikijbrock4 @mtholfsen @MicrosoftEDU https://t.co/M5MeDtGtXW"
+	},
+	{
 		"created_at": "Wed Jun 12 07:40:59 +0000 2019",
 		"id": 1138712787524497400,
 		"id_str": "1138712787524497409",
