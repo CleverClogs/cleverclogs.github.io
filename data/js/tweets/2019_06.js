@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 20:49:10 +0000 2019",
+		"id": 1138911138559795200,
+		"id_str": "1138911138559795201",
+		"full_text": "\"Immersive Reader + #OneNote Class Notebook equals 1+1=3.\" \nQuoting @MTholfsen, who got interviewd by @AMWheelock about how Microsoft Learning Tools came to be, the role of educator feedback, and the future of data-driven education and assistivetech.\nFascinating interview below: https://t.co/v7V00njbil",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						20,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"screen_name": "AMWheelock",
+					"name": "☕Andrew Wheelock🤓",
+					"id": 14070227,
+					"id_str": "14070227",
+					"indices": [
+						102,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v7V00njbil",
+					"expanded_url": "https://twitter.com/AMWheelock/status/1138795434477047810",
+					"display_url": "twitter.com/AMWheelock/sta…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21299,
+			"friends_count": 7567,
+			"listed_count": 633,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1559399571",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138795434477047800,
+		"quoted_status_id_str": "1138795434477047810",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v7V00njbil",
+			"expanded": "https://twitter.com/AMWheelock/status/1138795434477047810",
+			"display": "twitter.com/AMWheelock/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 12 13:09:24 +0000 2019",
+			"id": 1138795434477047800,
+			"id_str": "1138795434477047810",
+			"full_text": "What exactly IS the Immersive Reader Feature embedded into many @Office365 Apps?  I asked @mtholfsen https://t.co/vfuX3q7Az2 #edtech #MicrosoftEdu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							125,
+							132
+						]
+					},
+					{
+						"text": "MicrosoftEdu",
+						"indices": [
+							133,
+							146
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Office365",
+						"name": "Office 365",
+						"id": 137365854,
+						"id_str": "137365854",
+						"indices": [
+							64,
+							74
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							90,
+							100
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vfuX3q7Az2",
+						"expanded_url": "https://youtu.be/q2CrqkpZPP0?t=549",
+						"display_url": "youtu.be/q2CrqkpZPP0?t=…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14070227,
+				"id_str": "14070227",
+				"name": "☕Andrew Wheelock🤓",
+				"screen_name": "AMWheelock",
+				"location": "Buffalo NY",
+				"description": "I'm and educator that believes in the empowering potential of Edtech. I love learning from other educators. Beatnik Intellectual #edtech #elearning #edtechchat",
+				"url": "https://t.co/2e2Z83Lt3r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2e2Z83Lt3r",
+								"expanded_url": "https://about.me/andrew.m.wheelock",
+								"display_url": "about.me/andrew.m.wheel…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1802,
+				"friends_count": 1318,
+				"listed_count": 217,
+				"created_at": "Sun Mar 02 22:55:18 +0000 2008",
+				"favourites_count": 1376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7096,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/484083482826518528/lVG_3QXi_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/484083482826518528/lVG_3QXi_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14070227/1542895770",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Immersive Reader + #OneNote Class Notebook equals 1+1=3.\" \nQuoting @MTholfsen, who got interviewd by @AMWheelock about how Microsoft Learning Tools came to be, the role of educator feedback, and the future of data-driven education and assistivetech.\nFascinating interview below: https://t.co/v7V00njbil"
+	},
+	{
 		"created_at": "Wed Jun 12 10:16:30 +0000 2019",
 		"id": 1138646084039741400,
 		"id_str": "1138751926173130754",
