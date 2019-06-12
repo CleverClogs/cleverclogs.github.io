@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 07:40:59 +0000 2019",
+		"id": 1138712787524497400,
+		"id_str": "1138712787524497409",
+		"full_text": "“Hold me, Feed me, Burp me...”\n\nSuch a nice tweet with adorable photos of newborn baby Alvin and his mom, #OneNote #MVP Kelly (Marshall) Laforest in perfectly matching OneNote-purple outfits ;-)\n\nThank you so much for sharing these, @oh365eh_kelly! https://t.co/0cQy2sxRT7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "MVP",
+					"indices": [
+						115,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oh365eh_kelly",
+					"name": "Kelly (Marshall) LaForest",
+					"id": 1733257898,
+					"id_str": "1733257898",
+					"indices": [
+						233,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0cQy2sxRT7",
+					"expanded_url": "https://twitter.com/oh365eh_kelly/status/1138664330734424064",
+					"display_url": "twitter.com/oh365eh_kelly/…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21290,
+			"friends_count": 7567,
+			"listed_count": 633,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1559399571",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1138664330734424000,
+		"quoted_status_id_str": "1138664330734424064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0cQy2sxRT7",
+			"expanded": "https://twitter.com/oh365eh_kelly/status/1138664330734424064",
+			"display": "twitter.com/oh365eh_kelly/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 12 04:28:26 +0000 2019",
+			"id": 1138664330734424000,
+			"id_str": "1138664330734424064",
+			"full_text": "Thank you #Microsoft for the adorable #OneNote onesie! \n😍 Feeling the love while I take mat leave from the Microsoft MVP Program to focus on raising my son Alvin, using OneNote to stay organized, of course!\n❤ to @CleverClogs @LauraCatPJs @SavvyAssistantA &amp; @gwydionjhr \n#MVPbuzz https://t.co/r9tDKI55R4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Microsoft",
+						"indices": [
+							10,
+							20
+						]
+					},
+					{
+						"text": "OneNote",
+						"indices": [
+							38,
+							46
+						]
+					},
+					{
+						"text": "MVPbuzz",
+						"indices": [
+							274,
+							282
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CleverClogs",
+						"name": "Marjolein Hoekstra",
+						"id": 1424471,
+						"id_str": "1424471",
+						"indices": [
+							212,
+							224
+						]
+					},
+					{
+						"screen_name": "LauraCatPJs",
+						"name": "Laura Butler 🍪😹👑",
+						"id": 760954730612797400,
+						"id_str": "760954730612797440",
+						"indices": [
+							225,
+							237
+						]
+					},
+					{
+						"screen_name": "SavvyAssistantA",
+						"name": "Angela Schnell",
+						"id": 859153205715910700,
+						"id_str": "859153205715910656",
+						"indices": [
+							238,
+							254
+						]
+					},
+					{
+						"screen_name": "gwydionjhr",
+						"name": "Joel Rushworth",
+						"id": 240758481,
+						"id_str": "240758481",
+						"indices": [
+							261,
+							272
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1138664286962692100,
+						"id_str": "1138664286962692096",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/D81ZItbVsAAvXAs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D81ZItbVsAAvXAs.jpg",
+						"url": "https://t.co/r9tDKI55R4",
+						"display_url": "pic.twitter.com/r9tDKI55R4",
+						"expanded_url": "https://twitter.com/oh365eh_kelly/status/1138664330734424064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1138664286962692100,
+						"id_str": "1138664286962692096",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/D81ZItbVsAAvXAs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D81ZItbVsAAvXAs.jpg",
+						"url": "https://t.co/r9tDKI55R4",
+						"display_url": "pic.twitter.com/r9tDKI55R4",
+						"expanded_url": "https://twitter.com/oh365eh_kelly/status/1138664330734424064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1138664306726170600,
+						"id_str": "1138664306726170624",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/D81ZJ3DUcAA0mmn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D81ZJ3DUcAA0mmn.jpg",
+						"url": "https://t.co/r9tDKI55R4",
+						"display_url": "pic.twitter.com/r9tDKI55R4",
+						"expanded_url": "https://twitter.com/oh365eh_kelly/status/1138664330734424064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1138664324627554300,
+						"id_str": "1138664324627554304",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/D81ZK5vV4AAyuxI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D81ZK5vV4AAyuxI.jpg",
+						"url": "https://t.co/r9tDKI55R4",
+						"display_url": "pic.twitter.com/r9tDKI55R4",
+						"expanded_url": "https://twitter.com/oh365eh_kelly/status/1138664330734424064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1733257898,
+				"id_str": "1733257898",
+				"name": "Kelly (Marshall) LaForest",
+				"screen_name": "oh365eh_kelly",
+				"location": "Victoria, BC, Canada #yyj",
+				"description": "#Microsoft #Office365 coach and tech nerd on maternity leave. Married to Rick. Momma to Alvin. Four-time #OneNote MVP; co-creator of #VICO365 User Group.",
+				"url": "https://t.co/MeOPGCS3YU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MeOPGCS3YU",
+								"expanded_url": "http://oh365eh.itgroove.net/",
+								"display_url": "oh365eh.itgroove.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 817,
+				"friends_count": 570,
+				"listed_count": 93,
+				"created_at": "Thu Sep 05 22:21:51 +0000 2013",
+				"favourites_count": 1169,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1482,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1130655644237701120/fhnpZcG5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130655644237701120/fhnpZcG5_normal.jpg",
+				"profile_link_color": "80397B",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "2159675792ee9e69",
+				"url": "https://api.twitter.com/1.1/geo/id/2159675792ee9e69.json",
+				"place_type": "city",
+				"name": "Oak Bay",
+				"full_name": "Oak Bay, British Columbia",
+				"country_code": "CA",
+				"country": "Canada",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-123.327137,
+								48.391129
+							],
+							[
+								-123.286917,
+								48.391129
+							],
+							[
+								-123.286917,
+								48.467831
+							],
+							[
+								-123.327137,
+								48.467831
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Hold me, Feed me, Burp me...”\n\nSuch a nice tweet with adorable photos of newborn baby Alvin and his mom, #OneNote #MVP Kelly (Marshall) Laforest in perfectly matching OneNote-purple outfits ;-)\n\nThank you so much for sharing these, @oh365eh_kelly! https://t.co/0cQy2sxRT7"
+	},
+	{
 		"created_at": "Tue Jun 11 22:59:31 +0000 2019",
 		"id": 1138562803466408000,
 		"id_str": "1138581554412883969",
