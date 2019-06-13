@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 18:17:58 +0000 2019",
+		"id": 1139235100149919700,
+		"id_str": "1139235478270554112",
+		"full_text": "So, @OneNoteEDU has been a game changer for me this year. So much so, I made a meme about it. https://t.co/aMtfDDpdYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						4,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139235094982471700,
+					"id_str": "1139235094982471680",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D89gSHAWsAAipRg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D89gSHAWsAAipRg.jpg",
+					"url": "https://t.co/aMtfDDpdYb",
+					"display_url": "pic.twitter.com/aMtfDDpdYb",
+					"expanded_url": "https://twitter.com/mrcorneymedia/status/1139235100149919744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139235094982471700,
+					"id_str": "1139235094982471680",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/D89gSHAWsAAipRg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D89gSHAWsAAipRg.jpg",
+					"url": "https://t.co/aMtfDDpdYb",
+					"display_url": "pic.twitter.com/aMtfDDpdYb",
+					"expanded_url": "https://twitter.com/mrcorneymedia/status/1139235100149919744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884842974462562300,
+			"id_str": "884842974462562304",
+			"name": "Mr Corney",
+			"screen_name": "mrcorneymedia",
+			"location": "Manchester, England",
+			"description": "Digital Technologies teacher, CEIAG coordinator and social media at @wrhs1118. Sharing ideas and the like.",
+			"url": "https://t.co/1beTUNQOB6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1beTUNQOB6",
+							"expanded_url": "http://Instagram.com/creative_imedia",
+							"display_url": "Instagram.com/creative_imedia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 255,
+			"listed_count": 6,
+			"created_at": "Tue Jul 11 18:32:59 +0000 2017",
+			"favourites_count": 670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098685309599006720/tW40U3qY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098685309599006720/tW40U3qY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884842974462562304/1552116963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So, @OneNoteEDU has been a game changer for me this year. So much so, I made a meme about it. https://t.co/aMtfDDpdYb"
+	},
+	{
 		"created_at": "Thu Jun 13 14:48:16 +0000 2019",
 		"id": 1139182619042623500,
 		"id_str": "1139182704078000129",
