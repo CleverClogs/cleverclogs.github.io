@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 14 08:38:04 +0000 2019",
+		"id": 1134922861515292700,
+		"id_str": "1139451928151298048",
+		"full_text": "🎈 This incredible team lives and breathes Microsoft Teams.\nOur hosts are thrilled about the global and multilingual #MSFTEduChat TweetMeet on #MicrosoftTeams.\n\nEngage with them and their tweets through this list:\nhttps://t.co/MEP8OxvPyk\n\nJoin us June 18.\n#MicrosoftEDU #MIEExpert https://t.co/9dpmvmKUSN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						142,
+						157
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						255,
+						268
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						269,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MEP8OxvPyk",
+					"expanded_url": "https://twitter.com/tweetmeet/msfteduchat-2019-06",
+					"display_url": "twitter.com/tweetmeet/msft…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1134915181472092200,
+					"id_str": "1134915181472092162",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D8AHWDHXkAIxYbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8AHWDHXkAIxYbe.jpg",
+					"url": "https://t.co/9dpmvmKUSN",
+					"display_url": "pic.twitter.com/9dpmvmKUSN",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1134922861515292673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134915181472092200,
+					"id_str": "1134915181472092162",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D8AHWDHXkAIxYbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8AHWDHXkAIxYbe.jpg",
+					"url": "https://t.co/9dpmvmKUSN",
+					"display_url": "pic.twitter.com/9dpmvmKUSN",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1134922861515292673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2702,
+			"friends_count": 2295,
+			"listed_count": 24,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 2080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1558793639",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 This incredible team lives and breathes Microsoft Teams.\nOur hosts are thrilled about the global and multilingual #MSFTEduChat TweetMeet on #MicrosoftTeams.\n\nEngage with them and their tweets through this list:\nhttps://t.co/MEP8OxvPyk\n\nJoin us June 18.\n#MicrosoftEDU #MIEExpert https://t.co/9dpmvmKUSN"
+	},
+	{
 		"created_at": "Thu Jun 13 18:17:58 +0000 2019",
 		"id": 1139235100149919700,
 		"id_str": "1139235478270554112",
