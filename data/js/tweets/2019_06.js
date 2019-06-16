@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 13:11:04 +0000 2019",
+		"id": 1139938713377681400,
+		"id_str": "1140245409123700736",
+		"full_text": "🎈Seen the gorgeous new TweetMeet Friend Cards yet? \n\nCreate one of your own – it's really easy. \nJust open this editable PowerPoint and export your slide as an image.\nInstructions included:\nhttps://t.co/SQSgnT5fA8\n\n#MicrosoftEDU #MSFTEduChat\n#MicrosoftTeams https://t.co/SINRxZvVF1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						215,
+						228
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						229,
+						241
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						242,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SQSgnT5fA8",
+					"expanded_url": "https://onedrive.live.com/View.aspx?resid=BACAE6530619FB93!137809&authkey=!AL2nvkKWoQzGW0k",
+					"display_url": "onedrive.live.com/View.aspx?resi…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1139938555466342400,
+					"id_str": "1139938555466342400",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/D9HgE5hX4AADOvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9HgE5hX4AADOvL.jpg",
+					"url": "https://t.co/SINRxZvVF1",
+					"display_url": "pic.twitter.com/SINRxZvVF1",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1139938713377681408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139938555466342400,
+					"id_str": "1139938555466342400",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/D9HgE5hX4AADOvL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9HgE5hX4AADOvL.jpg",
+					"url": "https://t.co/SINRxZvVF1",
+					"display_url": "pic.twitter.com/SINRxZvVF1",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1139938713377681408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2709,
+			"friends_count": 2301,
+			"listed_count": 24,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 2111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1558793639",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈Seen the gorgeous new TweetMeet Friend Cards yet? \n\nCreate one of your own – it's really easy. \nJust open this editable PowerPoint and export your slide as an image.\nInstructions included:\nhttps://t.co/SQSgnT5fA8\n\n#MicrosoftEDU #MSFTEduChat\n#MicrosoftTeams https://t.co/SINRxZvVF1"
+	},
+	{
 		"created_at": "Fri Jun 14 16:13:46 +0000 2019",
 		"id": 1139526458815049700,
 		"id_str": "1139566608068829186",
