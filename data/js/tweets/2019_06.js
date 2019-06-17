@@ -1,10 +1,226 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 17 20:46:05 +0000 2019",
+		"id": 1140664420198170600,
+		"id_str": "1140722305603125249",
+		"full_text": "🎈 Ever wondered....\n.... what goes on behind the scenes of the monthly #MSFTEduChat TweetMeets, and what it takes to make them happen?\n\nWell, here's a fun little animated GIF to give you an idea: \n#MicrosoftEDU #MicrosoftTeams \n#OneNote https://t.co/I7TmWB5xd9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						197,
+						210
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						211,
+						226
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						228,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140662306495455200,
+					"id_str": "1140662306495455232",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9RyUwNW4AA29Qy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9RyUwNW4AA29Qy.jpg",
+					"url": "https://t.co/I7TmWB5xd9",
+					"display_url": "pic.twitter.com/I7TmWB5xd9",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1140664420198170624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140662306495455200,
+					"id_str": "1140662306495455232",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D9RyUwNW4AA29Qy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D9RyUwNW4AA29Qy.jpg",
+					"url": "https://t.co/I7TmWB5xd9",
+					"display_url": "pic.twitter.com/I7TmWB5xd9",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1140664420198170624/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							600,
+							337
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D9RyUwNW4AA29Qy.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2719,
+			"friends_count": 2304,
+			"listed_count": 26,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 2152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1558793639",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 Ever wondered....\n.... what goes on behind the scenes of the monthly #MSFTEduChat TweetMeets, and what it takes to make them happen?\n\nWell, here's a fun little animated GIF to give you an idea: \n#MicrosoftEDU #MicrosoftTeams \n#OneNote https://t.co/I7TmWB5xd9"
+	},
+	{
 		"created_at": "Mon Jun 17 16:00:37 +0000 2019",
 		"id": 1140650379362758700,
 		"id_str": "1140650462166867968",
-		"full_text": "NEW! 😱 30 Updates for #OneNote &amp; Class Notebook 😱\n#edtech #ISTE19 #MIEExpert #MicrosoftEDU\n \n👩‍👩‍👧‍👧 Individual &amp; Group distribute\n📑 Multi-page distribute\n🗂 Section Group distribute\n📝 TurnItIn integrated\n➗Math Practice\n📚 Publish Notebook\n \n+23 more 👉 https://t.co/KufZM0HI5l https://t.co/PkCL7wFWRH",
+		"full_text": "NEW! 😱 30 Updates for #OneNote &amp; Class Notebook 😱\n#edtech #ISTE19 #MIEExpert #MicrosoftEDU\n \n👩👩👧👧 Individual &amp; Group distribute\n📑 Multi-page distribute\n🗂 Section Group distribute\n📝 TurnItIn integrated\n➗Math Practice\n📚 Publish Notebook\n \n+23 more 👉 https://t.co/KufZM0HI5l https://t.co/PkCL7wFWRH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -218,7 +434,7 @@ Grailbird.data.tweets_2019_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "NEW! 😱 30 Updates for #OneNote &amp; Class Notebook 😱\n#edtech #ISTE19 #MIEExpert #MicrosoftEDU\n \n👩‍👩‍👧‍👧 Individual &amp; Group distribute\n📑 Multi-page distribute\n🗂 Section Group distribute\n📝 TurnItIn integrated\n➗Math Practice\n📚 Publish Notebook\n \n+23 more 👉 https://t.co/KufZM0HI5l https://t.co/PkCL7wFWRH"
+		"text": "NEW! 😱 30 Updates for #OneNote &amp; Class Notebook 😱\n#edtech #ISTE19 #MIEExpert #MicrosoftEDU\n \n👩👩👧👧 Individual &amp; Group distribute\n📑 Multi-page distribute\n🗂 Section Group distribute\n📝 TurnItIn integrated\n➗Math Practice\n📚 Publish Notebook\n \n+23 more 👉 https://t.co/KufZM0HI5l https://t.co/PkCL7wFWRH"
 	},
 	{
 		"created_at": "Sun Jun 16 13:11:04 +0000 2019",
