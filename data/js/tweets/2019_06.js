@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 17 16:00:37 +0000 2019",
+		"id": 1140650379362758700,
+		"id_str": "1140650462166867968",
+		"full_text": "NEW! 😱 30 Updates for #OneNote &amp; Class Notebook 😱\n#edtech #ISTE19 #MIEExpert #MicrosoftEDU\n \n👩‍👩‍👧‍👧 Individual &amp; Group distribute\n📑 Multi-page distribute\n🗂 Section Group distribute\n📝 TurnItIn integrated\n➗Math Practice\n📚 Publish Notebook\n \n+23 more 👉 https://t.co/KufZM0HI5l https://t.co/PkCL7wFWRH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "ISTE19",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						81,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KufZM0HI5l",
+					"expanded_url": "https://aka.ms/OneNoteJune2019",
+					"display_url": "aka.ms/OneNoteJune2019",
+					"indices": [
+						259,
+						282
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1140650374900011000,
+					"id_str": "1140650374900011008",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/D9RnePjU0AAaGEp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9RnePjU0AAaGEp.jpg",
+					"url": "https://t.co/PkCL7wFWRH",
+					"display_url": "pic.twitter.com/PkCL7wFWRH",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1140650379362758656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 873,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 873,
+							"h": 491,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140650374900011000,
+					"id_str": "1140650374900011008",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/D9RnePjU0AAaGEp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9RnePjU0AAaGEp.jpg",
+					"url": "https://t.co/PkCL7wFWRH",
+					"display_url": "pic.twitter.com/PkCL7wFWRH",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1140650379362758656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 873,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 873,
+							"h": 491,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #ISTE19 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18870,
+			"friends_count": 3242,
+			"listed_count": 740,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 65262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! 😱 30 Updates for #OneNote &amp; Class Notebook 😱\n#edtech #ISTE19 #MIEExpert #MicrosoftEDU\n \n👩‍👩‍👧‍👧 Individual &amp; Group distribute\n📑 Multi-page distribute\n🗂 Section Group distribute\n📝 TurnItIn integrated\n➗Math Practice\n📚 Publish Notebook\n \n+23 more 👉 https://t.co/KufZM0HI5l https://t.co/PkCL7wFWRH"
+	},
+	{
 		"created_at": "Sun Jun 16 13:11:04 +0000 2019",
 		"id": 1139938713377681400,
 		"id_str": "1140245409123700736",
