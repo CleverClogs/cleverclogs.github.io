@@ -1,6 +1,639 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 18 18:16:24 +0000 2019",
+		"id": 1141046675559080000,
+		"id_str": "1141047021278781442",
+		"full_text": "⚡ The party continues NOW. Join our #Microsoft Teams Live Event 🌟 for demonstrations of the new features and Q&amp;A in the chat.\n\n👉 Join link:\nhttps://t.co/ZYfmrY2HjA\n\n#MicrosoftTeams #TeamsLovers 💖\n#MSFTEduChat #MicrosoftEDU https://t.co/vo5eK7U0GB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						169,
+						184
+					]
+				},
+				{
+					"text": "TeamsLovers",
+					"indices": [
+						185,
+						197
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						200,
+						212
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						213,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZYfmrY2HjA",
+					"expanded_url": "https://aka.ms/TeamsLiveChat",
+					"display_url": "aka.ms/TeamsLiveChat",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1141046673642283000,
+					"id_str": "1141046673642283010",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D9XP53aW4AI8gM0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9XP53aW4AI8gM0.jpg",
+					"url": "https://t.co/vo5eK7U0GB",
+					"display_url": "pic.twitter.com/vo5eK7U0GB",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1141046675559079937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141046673642283000,
+					"id_str": "1141046673642283010",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/D9XP53aW4AI8gM0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9XP53aW4AI8gM0.jpg",
+					"url": "https://t.co/vo5eK7U0GB",
+					"display_url": "pic.twitter.com/vo5eK7U0GB",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1141046675559079937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2758,
+			"friends_count": 2310,
+			"listed_count": 26,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 2326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1558793639",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⚡ The party continues NOW. Join our #Microsoft Teams Live Event 🌟 for demonstrations of the new features and Q&amp;A in the chat.\n\n👉 Join link:\nhttps://t.co/ZYfmrY2HjA\n\n#MicrosoftTeams #TeamsLovers 💖\n#MSFTEduChat #MicrosoftEDU https://t.co/vo5eK7U0GB"
+	},
+	{
+		"created_at": "Tue Jun 18 18:00:42 +0000 2019",
+		"id": 1141043040632614900,
+		"id_str": "1141043070819061760",
+		"full_text": "❓ Q5. How would you improve #Microsoft Teams? The team is listening.\n\n#MicrosoftTeams #TeamsLovers 💖\n#MSFTEduChat #MicrosoftEDU https://t.co/Nl0SO7aJAc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						70,
+						85
+					]
+				},
+				{
+					"text": "TeamsLovers",
+					"indices": [
+						86,
+						98
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						114,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141043038728405000,
+					"id_str": "1141043038728404992",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D9XMmSTWwAAEfch.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9XMmSTWwAAEfch.jpg",
+					"url": "https://t.co/Nl0SO7aJAc",
+					"display_url": "pic.twitter.com/Nl0SO7aJAc",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1141043040632614915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141043038728405000,
+					"id_str": "1141043038728404992",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D9XMmSTWwAAEfch.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9XMmSTWwAAEfch.jpg",
+					"url": "https://t.co/Nl0SO7aJAc",
+					"display_url": "pic.twitter.com/Nl0SO7aJAc",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1141043040632614915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2758,
+			"friends_count": 2310,
+			"listed_count": 26,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 2326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1558793639",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❓ Q5. How would you improve #Microsoft Teams? The team is listening.\n\n#MicrosoftTeams #TeamsLovers 💖\n#MSFTEduChat #MicrosoftEDU https://t.co/Nl0SO7aJAc"
+	},
+	{
+		"created_at": "Tue Jun 18 17:46:07 +0000 2019",
+		"id": 1141039377411428400,
+		"id_str": "1141039401109196802",
+		"full_text": "❓ Q4. How does the integration of apps and tools in Microsoft Teams enrich learning?\n\n#MicrosoftTeams #TeamsLovers 💖\n#MSFTEduChat #MicrosoftEDU https://t.co/FK5YZIThj6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						86,
+						101
+					]
+				},
+				{
+					"text": "TeamsLovers",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						130,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141039375343657000,
+					"id_str": "1141039375343656961",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D9XJRDIXoAElA5y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9XJRDIXoAElA5y.jpg",
+					"url": "https://t.co/FK5YZIThj6",
+					"display_url": "pic.twitter.com/FK5YZIThj6",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1141039377411428353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141039375343657000,
+					"id_str": "1141039375343656961",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D9XJRDIXoAElA5y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9XJRDIXoAElA5y.jpg",
+					"url": "https://t.co/FK5YZIThj6",
+					"display_url": "pic.twitter.com/FK5YZIThj6",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1141039377411428353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1214,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2758,
+			"friends_count": 2310,
+			"listed_count": 26,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 2326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1558793639",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❓ Q4. How does the integration of apps and tools in Microsoft Teams enrich learning?\n\n#MicrosoftTeams #TeamsLovers 💖\n#MSFTEduChat #MicrosoftEDU https://t.co/FK5YZIThj6"
+	},
+	{
 		"created_at": "Tue Jun 18 17:18:17 +0000 2019",
 		"id": 1141032333182742500,
 		"id_str": "1141032398790045696",
