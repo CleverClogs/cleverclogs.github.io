@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 20 14:31:37 +0000 2019",
+		"id": 1141715228218069000,
+		"id_str": "1141715228218068992",
+		"full_text": "Ever wondered what major development make-over #OneNote Online has been going through, and why?\n\nWatch this super-interesting #OneDevQuestion video in which @LauraCatPJs explains which scripting languages and libraries are currently hot at #Microsoft. \nby @OneDevMinute https://t.co/a53rSSeSUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "OneDevQuestion",
+					"indices": [
+						126,
+						141
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						240,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LauraCatPJs",
+					"name": "Laura Butler 🍪😹👑",
+					"id": 760954730612797400,
+					"id_str": "760954730612797440",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"screen_name": "OneDevMinute",
+					"name": "OneDevMinute Videos",
+					"id": 3018755428,
+					"id_str": "3018755428",
+					"indices": [
+						256,
+						269
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a53rSSeSUw",
+					"expanded_url": "https://twitter.com/WindowsDocs/status/1141361455356370944",
+					"display_url": "twitter.com/WindowsDocs/st…",
+					"indices": [
+						270,
+						293
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21488,
+			"friends_count": 7573,
+			"listed_count": 637,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1559399571",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1141361455356371000,
+		"quoted_status_id_str": "1141361455356370944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a53rSSeSUw",
+			"expanded": "https://twitter.com/WindowsDocs/status/1141361455356370944",
+			"display": "twitter.com/WindowsDocs/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 19 15:05:51 +0000 2019",
+			"id": 1141361455356371000,
+			"id_str": "1141361455356370944",
+			"full_text": "How about some #WednesdayWisdom from Laura Butler?\n\nToday, @LauraCatPJs talks about language developments happening at Microsoft.\n\nAnd we learned a new word that we love - \"heisenbugs\" - a great word for any dev to have in their vocabulary: \nhttps://t.co/shEE0w5Tb1 https://t.co/u1AXlOKYJl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WednesdayWisdom",
+						"indices": [
+							15,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LauraCatPJs",
+						"name": "Laura Butler 🍪😹👑",
+						"id": 760954730612797400,
+						"id_str": "760954730612797440",
+						"indices": [
+							59,
+							71
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/shEE0w5Tb1",
+						"expanded_url": "http://msft.social/fNbzHm",
+						"display_url": "msft.social/fNbzHm",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1141361260832931800,
+						"id_str": "1141361260832931841",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141361260832931841/pu/img/Y1HGzy8bXUnmCt41.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141361260832931841/pu/img/Y1HGzy8bXUnmCt41.jpg",
+						"url": "https://t.co/u1AXlOKYJl",
+						"display_url": "pic.twitter.com/u1AXlOKYJl",
+						"expanded_url": "https://twitter.com/WindowsDocs/status/1141361455356370944/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1141361260832931800,
+						"id_str": "1141361260832931841",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141361260832931841/pu/img/Y1HGzy8bXUnmCt41.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141361260832931841/pu/img/Y1HGzy8bXUnmCt41.jpg",
+						"url": "https://t.co/u1AXlOKYJl",
+						"display_url": "pic.twitter.com/u1AXlOKYJl",
+						"expanded_url": "https://twitter.com/WindowsDocs/status/1141361455356370944/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 112245,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1141361260832931841/pu/vid/640x360/mYD7WwUt9bDQd9Gh.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1141361260832931841/pu/pl/24rYKdy2NPB4jSNI.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1141361260832931841/pu/vid/1280x720/xAsDdbcoCiQqZvvL.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1141361260832931841/pu/vid/480x270/potIUJT4e3cwZZ0K.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 737767282579898400,
+				"id_str": "737767282579898369",
+				"name": "Windows Dev Docs",
+				"screen_name": "WindowsDocs",
+				"location": "Redmond, WA",
+				"description": "The Microsoft team that writes the docs that help you write your #Windows10 apps.\n#Azure\n#AI\n#WindowsML\n#HoloLens\n#MR\n#VSCode\n#VisualStudio\n#DotNet\n#CSharp\n#PWA",
+				"url": "https://t.co/tsIqCtMlrV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tsIqCtMlrV",
+								"expanded_url": "https://developer.microsoft.com/windows",
+								"display_url": "developer.microsoft.com/windows",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7648,
+				"friends_count": 10000,
+				"listed_count": 118,
+				"created_at": "Tue May 31 22:06:42 +0000 2016",
+				"favourites_count": 1873,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2265,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971167402988781569/eIZHU7E7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971167402988781569/eIZHU7E7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/737767282579898369/1520379313",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ever wondered what major development make-over #OneNote Online has been going through, and why?\n\nWatch this super-interesting #OneDevQuestion video in which @LauraCatPJs explains which scripting languages and libraries are currently hot at #Microsoft. \nby @OneDevMinute https://t.co/a53rSSeSUw"
+	},
+	{
 		"created_at": "Thu Jun 20 14:07:27 +0000 2019",
 		"id": 1141706149030293500,
 		"id_str": "1141709146984734722",
