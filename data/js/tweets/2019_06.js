@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 20 14:07:27 +0000 2019",
+		"id": 1141706149030293500,
+		"id_str": "1141709146984734722",
+		"full_text": "NEW! Microsoft and @Code.org announce the CS Discoveries Curriculum delivered in a custom #OneNote Class Notebook 💜 Keep your https://t.co/SA85Nc3IFI curriculum organized &amp; collaborative #edtech #STEM #MIEExpert #MicrosoftEDU\n\nBlog: https://t.co/ulQaGalIgK https://t.co/2dXB5YyCuf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						191,
+						198
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						205,
+						215
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						216,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "code",
+					"name": "Visual Studio Code",
+					"id": 3167734591,
+					"id_str": "3167734591",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SA85Nc3IFI",
+					"expanded_url": "http://Code.org",
+					"display_url": "Code.org",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/ulQaGalIgK",
+					"expanded_url": "https://aka.ms/CodeOrgOneNoteISTEBlog",
+					"display_url": "aka.ms/CodeOrgOneNote…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1141705889566478300,
+					"id_str": "1141705889566478337",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D9gndSGU0AE-ZsJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9gndSGU0AE-ZsJ.jpg",
+					"url": "https://t.co/2dXB5YyCuf",
+					"display_url": "pic.twitter.com/2dXB5YyCuf",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1141706149030293504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1238,
+							"h": 782,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141705889566478300,
+					"id_str": "1141705889566478337",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/D9gndSGU0AE-ZsJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9gndSGU0AE-ZsJ.jpg",
+					"url": "https://t.co/2dXB5YyCuf",
+					"display_url": "pic.twitter.com/2dXB5YyCuf",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1141706149030293504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 758,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1238,
+							"h": 782,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #ISTE19 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19035,
+			"friends_count": 3246,
+			"listed_count": 743,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 66019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Microsoft and @Code.org announce the CS Discoveries Curriculum delivered in a custom #OneNote Class Notebook 💜 Keep your https://t.co/SA85Nc3IFI curriculum organized &amp; collaborative #edtech #STEM #MIEExpert #MicrosoftEDU\n\nBlog: https://t.co/ulQaGalIgK https://t.co/2dXB5YyCuf"
+	},
+	{
 		"created_at": "Thu Jun 20 13:12:35 +0000 2019",
 		"id": 1141695338773979100,
 		"id_str": "1141695338773979137",
