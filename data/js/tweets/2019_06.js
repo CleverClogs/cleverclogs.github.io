@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 20 18:10:41 +0000 2019",
+		"id": 1141701906290528300,
+		"id_str": "1141770359433248768",
+		"full_text": "NEW! Teachers &amp; Students will be able to login &amp; use free @Office365 apps with their Google EDU account 😱 \n\nUse G-Suite &amp; Google Classroom along with apps like #OneNote 💜, Immersive Reader, and @MicrosoftTeams  #edtech #edchat #ISTE19 #MicrosoftEDU\n\n👉 https://t.co/b0J9eSSxit https://t.co/9goH3ugjPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						223,
+						230
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						231,
+						238
+					]
+				},
+				{
+					"text": "ISTE19",
+					"indices": [
+						239,
+						246
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						247,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						206,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b0J9eSSxit",
+					"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/Introducing-Simpler-Sign-on-a-way-to-sign-in-to-Office-365-with/ba-p/708898",
+					"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1141701515926622200,
+					"id_str": "1141701515926622208",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/D9gjetBU0AAjlV7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9gjetBU0AAjlV7.jpg",
+					"url": "https://t.co/9goH3ugjPr",
+					"display_url": "pic.twitter.com/9goH3ugjPr",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1141701906290528258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1307,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141701515926622200,
+					"id_str": "1141701515926622208",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/D9gjetBU0AAjlV7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9gjetBU0AAjlV7.jpg",
+					"url": "https://t.co/9goH3ugjPr",
+					"display_url": "pic.twitter.com/9goH3ugjPr",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1141701906290528258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1307,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #ISTE19 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19065,
+			"friends_count": 3246,
+			"listed_count": 743,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 66112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Teachers &amp; Students will be able to login &amp; use free @Office365 apps with their Google EDU account 😱 \n\nUse G-Suite &amp; Google Classroom along with apps like #OneNote 💜, Immersive Reader, and @MicrosoftTeams  #edtech #edchat #ISTE19 #MicrosoftEDU\n\n👉 https://t.co/b0J9eSSxit https://t.co/9goH3ugjPr"
+	},
+	{
 		"created_at": "Thu Jun 20 17:14:48 +0000 2019",
 		"id": 1141756295256690700,
 		"id_str": "1141756295256690688",
