@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 21 12:01:13 +0000 2019",
+		"id": 1142038771426373600,
+		"id_str": "1142039769536503809",
+		"full_text": "Want to know how to generate a practice maths quiz in #OneNote in 60 seconds?\n\nWith this #Onederful feature students can:\n\nWork independently 🎒\nSelf-assess 🍎\nTrack their own progress ✍️ \n\n@mtholfsen @minaspasic @OneNoteEDU @MicrosoftEDU @OneNoteC @msonenote #mathchat #edtech https://t.co/6P8TbfNkNG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "Onederful",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "mathchat",
+					"indices": [
+						258,
+						267
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						268,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"screen_name": "minaspasic",
+					"name": "Mina Spasic",
+					"id": 156697017,
+					"id_str": "156697017",
+					"indices": [
+						199,
+						210
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						211,
+						222
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						223,
+						236
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						237,
+						246
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						247,
+						257
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142038692908982300,
+					"id_str": "1142038692908982272",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142038692908982272/pu/img/WInw02-TrnW_gSYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142038692908982272/pu/img/WInw02-TrnW_gSYt.jpg",
+					"url": "https://t.co/6P8TbfNkNG",
+					"display_url": "pic.twitter.com/6P8TbfNkNG",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1142038771426373632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142038692908982300,
+					"id_str": "1142038692908982272",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142038692908982272/pu/img/WInw02-TrnW_gSYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142038692908982272/pu/img/WInw02-TrnW_gSYt.jpg",
+					"url": "https://t.co/6P8TbfNkNG",
+					"display_url": "pic.twitter.com/6P8TbfNkNG",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1142038771426373632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59633,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142038692908982272/pu/pl/NeWUma-ONXCY8gYG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142038692908982272/pu/vid/480x270/oDip9GYGA1CJ_SSH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142038692908982272/pu/vid/640x360/PzfGjcIOpOqiGZIJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142038692908982272/pu/vid/1280x720/cUe36PUmjPhkTzso.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705409101220675600,
+			"id_str": "705409101220675584",
+			"name": "Stephen Eustace",
+			"screen_name": "eustace_stephen",
+			"location": "Ireland",
+			"description": "Teacher of Math & ICT |Assistant Principal |#SurfaceExpert #MIEFellow | #FlipGrid Student Voice & #Wakelet Ambassador | #MicrosoftEDU #MinecraftEDU #Onederful",
+			"url": "https://t.co/mWoz4XF3d2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mWoz4XF3d2",
+							"expanded_url": "https://bit.ly/2OXba7D",
+							"display_url": "bit.ly/2OXba7D",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16895,
+			"friends_count": 16826,
+			"listed_count": 165,
+			"created_at": "Thu Mar 03 15:06:50 +0000 2016",
+			"favourites_count": 17576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118309215410511872/xf-cTHN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118309215410511872/xf-cTHN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705409101220675584/1556659901",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to know how to generate a practice maths quiz in #OneNote in 60 seconds?\n\nWith this #Onederful feature students can:\n\nWork independently 🎒\nSelf-assess 🍎\nTrack their own progress ✍️ \n\n@mtholfsen @minaspasic @OneNoteEDU @MicrosoftEDU @OneNoteC @msonenote #mathchat #edtech https://t.co/6P8TbfNkNG"
+	},
+	{
 		"created_at": "Fri Jun 21 07:41:22 +0000 2019",
 		"id": 1141878828178038800,
 		"id_str": "1141974376037978112",
