@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 21 18:46:42 +0000 2019",
+		"id": 1142111531947180000,
+		"id_str": "1142141812829773824",
+		"full_text": "Blew my mind how good this worked today (used last year but so much better now) #onederful OneNote o endure all pupils are included in my class lesson. Check out the video (if you can understand me) #MIEExpert @OneNoteEDU @mtholfsen https://t.co/FecQVPI6xF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onederful",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						199,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						210,
+						221
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						222,
+						232
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142110659636805600,
+					"id_str": "1142110659636805632",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142110659636805632/pu/img/nFdz4aYVnLqLy1Yw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142110659636805632/pu/img/nFdz4aYVnLqLy1Yw.jpg",
+					"url": "https://t.co/FecQVPI6xF",
+					"display_url": "pic.twitter.com/FecQVPI6xF",
+					"expanded_url": "https://twitter.com/Sfm36/status/1142111531947180033/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142110659636805600,
+					"id_str": "1142110659636805632",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142110659636805632/pu/img/nFdz4aYVnLqLy1Yw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142110659636805632/pu/img/nFdz4aYVnLqLy1Yw.jpg",
+					"url": "https://t.co/FecQVPI6xF",
+					"display_url": "pic.twitter.com/FecQVPI6xF",
+					"expanded_url": "https://twitter.com/Sfm36/status/1142111531947180033/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 101967,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142110659636805632/pu/vid/720x720/ERHgGMejIXJ8hS0B.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142110659636805632/pu/vid/320x320/WaZrfmUFahF8jL4x.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142110659636805632/pu/vid/480x480/0JV8YXkJ0wBYqJHZ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142110659636805632/pu/pl/gODQKTMQ5Vr6ERbZ.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 384551986,
+			"id_str": "384551986",
+			"name": "Sarah Clark",
+			"screen_name": "Sfm36",
+			"location": "scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+			"description": "mum, teacher passionate about digital learning. Biology & science teacher #MIEExpert #SurfaceMasterTrainer #MIETrainer #AppleTeacher #kahootcertified gold",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2776,
+			"friends_count": 1473,
+			"listed_count": 175,
+			"created_at": "Mon Oct 03 22:06:13 +0000 2011",
+			"favourites_count": 35619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113846054548467712/IDc_ZPq3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113846054548467712/IDc_ZPq3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/384551986/1475439209",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7d3d8e59b4047344",
+			"url": "https://api.twitter.com/1.1/geo/id/7d3d8e59b4047344.json",
+			"place_type": "city",
+			"name": "Falkirk",
+			"full_name": "Falkirk, Scotland",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.8516393,
+							55.983199
+						],
+						[
+							-3.753932,
+							55.983199
+						],
+						[
+							-3.753932,
+							56.0406318
+						],
+						[
+							-3.8516393,
+							56.0406318
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Blew my mind how good this worked today (used last year but so much better now) #onederful OneNote o endure all pupils are included in my class lesson. Check out the video (if you can understand me) #MIEExpert @OneNoteEDU @mtholfsen https://t.co/FecQVPI6xF"
+	},
+	{
 		"created_at": "Fri Jun 21 12:01:13 +0000 2019",
 		"id": 1142038771426373600,
 		"id_str": "1142039769536503809",
