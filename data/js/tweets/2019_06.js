@@ -1,10 +1,231 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 22 15:22:40 +0000 2019",
+		"id": 1142451924496801800,
+		"id_str": "1142452851697995776",
+		"full_text": "If you saw the big Google EDU &amp; #MicrosoftEDU integration news, there is a person you need to follow! @TheTimmyRich runs the project &amp; he wants your feedback 👂#edtech #edchat #MIEExpert\n\nTim &amp; I will be presenting at #ISTE19 on Google Integration\n📅 Tues 1:30p ET, MS booth 2900 https://t.co/6LxXLVJRAW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			289
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						167,
+						174
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"text": "ISTE19",
+					"indices": [
+						229,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheTimmyRich",
+					"name": "Tim Richardson",
+					"id": 1141353922474307600,
+					"id_str": "1141353922474307586",
+					"indices": [
+						106,
+						119
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142450958116511700,
+					"id_str": "1142450958116511744",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/D9rNF-vW4AAOeBK.png",
+					"media_url_https": "https://pbs.twimg.com/media/D9rNF-vW4AAOeBK.png",
+					"url": "https://t.co/6LxXLVJRAW",
+					"display_url": "pic.twitter.com/6LxXLVJRAW",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1142451924496801793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 534,
+							"h": 526,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 534,
+							"h": 526,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 534,
+							"h": 526,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142450958116511700,
+					"id_str": "1142450958116511744",
+					"indices": [
+						290,
+						313
+					],
+					"media_url": "http://pbs.twimg.com/media/D9rNF-vW4AAOeBK.png",
+					"media_url_https": "https://pbs.twimg.com/media/D9rNF-vW4AAOeBK.png",
+					"url": "https://t.co/6LxXLVJRAW",
+					"display_url": "pic.twitter.com/6LxXLVJRAW",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1142451924496801793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 534,
+							"h": 526,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 534,
+							"h": 526,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 534,
+							"h": 526,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #ISTE19 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19201,
+			"friends_count": 3252,
+			"listed_count": 742,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 66963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you saw the big Google EDU &amp; #MicrosoftEDU integration news, there is a person you need to follow! @TheTimmyRich runs the project &amp; he wants your feedback 👂#edtech #edchat #MIEExpert\n\nTim &amp; I will be presenting at #ISTE19 on Google Integration\n📅 Tues 1:30p ET, MS booth 2900 https://t.co/6LxXLVJRAW"
+	},
+	{
 		"created_at": "Sat Jun 22 14:55:47 +0000 2019",
 		"id": 1141693514801176600,
 		"id_str": "1142446087606849540",
-		"full_text": "🏊‍♀️ Let's dive right in.\nImmersive Reader is now available as an Azure Cognitive Service, first in #MinecraftEdu. \nThis means it can now be integrated in any application. \n\nLearn which partner apps will offer Immersive Reader: https://t.co/KcVDA50K7I\nwith @MTholfsen #MicrosoftEDU",
+		"full_text": "🏊♀️ Let's dive right in.\nImmersive Reader is now available as an Azure Cognitive Service, first in #MinecraftEdu. \nThis means it can now be integrated in any application. \n\nLearn which partner apps will offer Immersive Reader: https://t.co/KcVDA50K7I\nwith @MTholfsen #MicrosoftEDU",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -130,7 +351,7 @@ Grailbird.data.tweets_2019_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "🏊‍♀️ Let's dive right in.\nImmersive Reader is now available as an Azure Cognitive Service, first in #MinecraftEdu. \nThis means it can now be integrated in any application. \n\nLearn which partner apps will offer Immersive Reader: https://t.co/KcVDA50K7I\nwith @MTholfsen #MicrosoftEDU"
+		"text": "🏊♀️ Let's dive right in.\nImmersive Reader is now available as an Azure Cognitive Service, first in #MinecraftEdu. \nThis means it can now be integrated in any application. \n\nLearn which partner apps will offer Immersive Reader: https://t.co/KcVDA50K7I\nwith @MTholfsen #MicrosoftEDU"
 	},
 	{
 		"created_at": "Sat Jun 22 08:30:21 +0000 2019",
