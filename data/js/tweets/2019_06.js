@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 22 08:30:21 +0000 2019",
+		"id": 1142181252482515000,
+		"id_str": "1142349088450580481",
+		"full_text": "NEW! Individual and Group page distribution are now 💯 percent rolled out for #OneNote Windows 10 and Online 💜 🚀 Mac and iPad at 50% #edtech #MIEExpert #MicrosfotEDU\n\nBlog: https://t.co/KufZM0HI5l https://t.co/xdcej96gRX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "MicrosfotEDU",
+					"indices": [
+						151,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KufZM0HI5l",
+					"expanded_url": "https://aka.ms/OneNoteJune2019",
+					"display_url": "aka.ms/OneNoteJune2019",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142181007023435800,
+					"id_str": "1142181007023435781",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/D9nXkwjUcAUL0P4.png",
+					"media_url_https": "https://pbs.twimg.com/media/D9nXkwjUcAUL0P4.png",
+					"url": "https://t.co/xdcej96gRX",
+					"display_url": "pic.twitter.com/xdcej96gRX",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1142181252482514945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 868,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 868,
+							"h": 568,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142181007023435800,
+					"id_str": "1142181007023435781",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/D9nXkwjUcAUL0P4.png",
+					"media_url_https": "https://pbs.twimg.com/media/D9nXkwjUcAUL0P4.png",
+					"url": "https://t.co/xdcej96gRX",
+					"display_url": "pic.twitter.com/xdcej96gRX",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1142181252482514945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 868,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 868,
+							"h": 568,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #ISTE19 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19180,
+			"friends_count": 3252,
+			"listed_count": 742,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 66863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Individual and Group page distribution are now 💯 percent rolled out for #OneNote Windows 10 and Online 💜 🚀 Mac and iPad at 50% #edtech #MIEExpert #MicrosfotEDU\n\nBlog: https://t.co/KufZM0HI5l https://t.co/xdcej96gRX"
+	},
+	{
 		"created_at": "Fri Jun 21 18:46:42 +0000 2019",
 		"id": 1142111531947180000,
 		"id_str": "1142141812829773824",
