@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 23 19:37:48 +0000 2019",
+		"id": 1142852586208411600,
+		"id_str": "1142879446443200516",
+		"full_text": "Looking for the \"What New in EDU\" PPT deck from my #MIEExpert talk at #ISTE19 today 🔎 Look no further! Updates across @MicrosoftTeams, #OneNote &amp; the Inclusive Classroom 🎉  \n\nShare broadly 🌍\n\n#edtech #edchat #notatISTE19 #notatISTE2019 #MicrosoftEDU https://t.co/lsdJRa2Flp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"text": "ISTE19",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						196,
+						203
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						204,
+						211
+					]
+				},
+				{
+					"text": "notatISTE19",
+					"indices": [
+						212,
+						224
+					]
+				},
+				{
+					"text": "notatISTE2019",
+					"indices": [
+						225,
+						239
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						240,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						118,
+						133
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142852215075409900,
+					"id_str": "1142852215075409920",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/D9w6CNZWkAAA6S9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9w6CNZWkAAA6S9.jpg",
+					"url": "https://t.co/lsdJRa2Flp",
+					"display_url": "pic.twitter.com/lsdJRa2Flp",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1142852586208411650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 704,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1949,
+							"h": 1143,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142852215075409900,
+					"id_str": "1142852215075409920",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/D9w6CNZWkAAA6S9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9w6CNZWkAAA6S9.jpg",
+					"url": "https://t.co/lsdJRa2Flp",
+					"display_url": "pic.twitter.com/lsdJRa2Flp",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1142852586208411650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 704,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1949,
+							"h": 1143,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #ISTE19 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19314,
+			"friends_count": 3257,
+			"listed_count": 743,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 67158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking for the \"What New in EDU\" PPT deck from my #MIEExpert talk at #ISTE19 today 🔎 Look no further! Updates across @MicrosoftTeams, #OneNote &amp; the Inclusive Classroom 🎉  \n\nShare broadly 🌍\n\n#edtech #edchat #notatISTE19 #notatISTE2019 #MicrosoftEDU https://t.co/lsdJRa2Flp"
+	},
+	{
 		"created_at": "Sun Jun 23 16:15:25 +0000 2019",
 		"id": 1142801053437583400,
 		"id_str": "1142828516955889666",
