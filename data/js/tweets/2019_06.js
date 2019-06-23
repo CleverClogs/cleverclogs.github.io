@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 23 16:15:25 +0000 2019",
+		"id": 1142801053437583400,
+		"id_str": "1142828516955889666",
+		"full_text": "How #Onederful to be here at #ISTE19 listening to @mtholfsen talking about all of the game changing new updates across all of #MicrosoftEDU!!! 🦄🌈🚀\n\n#OneNote #MinecraftEDU #MIEExpert #MicrosoftTeams #notatISTE #NotAtISTE19 https://t.co/Biq4lDbThh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onederful",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "ISTE19",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						126,
+						139
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "MinecraftEDU",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						171,
+						181
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						182,
+						197
+					]
+				},
+				{
+					"text": "notatISTE",
+					"indices": [
+						198,
+						208
+					]
+				},
+				{
+					"text": "NotAtISTE19",
+					"indices": [
+						209,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142801043358736400,
+					"id_str": "1142801043358736385",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D9wLfn5X4AEf2Zo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9wLfn5X4AEf2Zo.jpg",
+					"url": "https://t.co/Biq4lDbThh",
+					"display_url": "pic.twitter.com/Biq4lDbThh",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1142801053437583362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 674,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142801043358736400,
+					"id_str": "1142801043358736385",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D9wLfn5X4AEf2Zo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9wLfn5X4AEf2Zo.jpg",
+					"url": "https://t.co/Biq4lDbThh",
+					"display_url": "pic.twitter.com/Biq4lDbThh",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1142801053437583362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 674,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705409101220675600,
+			"id_str": "705409101220675584",
+			"name": "Stephen Eustace",
+			"screen_name": "eustace_stephen",
+			"location": "Ireland",
+			"description": "Teacher of Math & ICT |Assistant Principal |#SurfaceExpert #MIEFellow | #FlipGrid Student Voice & #Wakelet Ambassador | #MicrosoftEDU #MinecraftEDU #Onederful",
+			"url": "https://t.co/mWoz4XF3d2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mWoz4XF3d2",
+							"expanded_url": "https://bit.ly/2OXba7D",
+							"display_url": "bit.ly/2OXba7D",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16953,
+			"friends_count": 16800,
+			"listed_count": 165,
+			"created_at": "Thu Mar 03 15:06:50 +0000 2016",
+			"favourites_count": 17708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118309215410511872/xf-cTHN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118309215410511872/xf-cTHN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705409101220675584/1556659901",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How #Onederful to be here at #ISTE19 listening to @mtholfsen talking about all of the game changing new updates across all of #MicrosoftEDU!!! 🦄🌈🚀\n\n#OneNote #MinecraftEDU #MIEExpert #MicrosoftTeams #notatISTE #NotAtISTE19 https://t.co/Biq4lDbThh"
+	},
+	{
 		"created_at": "Sat Jun 22 20:46:23 +0000 2019",
 		"id": 1142480875013247000,
 		"id_str": "1142534317480042498",
