@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 25 20:01:03 +0000 2019",
+		"id": 1143583726900830200,
+		"id_str": "1143610072121131014",
+		"full_text": "Just visited the #MicrosoftWhiteboard demo area and @IanMikutel showed me just some of the #Onederful new collaboration, inclusion and control features!! \n\n🦄🌈🚀\n\n#MicrosoftEDU #ISTE19 #NotatISTE #notatiste19 #MIEExpert #EdTech #assistivetechnology\n\n@mtholfsen @OneNoteC https://t.co/Q9olVNOtUo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftWhiteboard",
+					"indices": [
+						17,
+						37
+					]
+				},
+				{
+					"text": "Onederful",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						161,
+						174
+					]
+				},
+				{
+					"text": "ISTE19",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "NotatISTE",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"text": "notatiste19",
+					"indices": [
+						194,
+						206
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						207,
+						217
+					]
+				},
+				{
+					"text": "EdTech",
+					"indices": [
+						218,
+						225
+					]
+				},
+				{
+					"text": "assistivetechnology",
+					"indices": [
+						226,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanMikutel",
+					"name": "Ian Mikutel",
+					"id": 2157421,
+					"id_str": "2157421",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						248,
+						258
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						259,
+						268
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143583057259171800,
+					"id_str": "1143583057259171840",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143583057259171840/pu/img/vK6o4Y0pyIedpVV0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143583057259171840/pu/img/vK6o4Y0pyIedpVV0.jpg",
+					"url": "https://t.co/Q9olVNOtUo",
+					"display_url": "pic.twitter.com/Q9olVNOtUo",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1143583726900830208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143583057259171800,
+					"id_str": "1143583057259171840",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143583057259171840/pu/img/vK6o4Y0pyIedpVV0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143583057259171840/pu/img/vK6o4Y0pyIedpVV0.jpg",
+					"url": "https://t.co/Q9olVNOtUo",
+					"display_url": "pic.twitter.com/Q9olVNOtUo",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1143583726900830208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 99300,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143583057259171840/pu/vid/320x568/lIAtcHUrCmCA1bP7.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1143583057259171840/pu/pl/fM4Dfl2ezRLEQWB3.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143583057259171840/pu/vid/360x640/ZU2jAVo8OajSaxJs.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143583057259171840/pu/vid/720x1280/2QaoO7HhrX0GlRML.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705409101220675600,
+			"id_str": "705409101220675584",
+			"name": "Stephen Eustace",
+			"screen_name": "eustace_stephen",
+			"location": "Ireland",
+			"description": "Teacher of Math & ICT |Assistant Principal |#SurfaceExpert #MIEFellow | #FlipGrid Student Voice & #Wakelet Ambassador | #MicrosoftEDU #MinecraftEDU #Onederful",
+			"url": "https://t.co/mWoz4XF3d2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mWoz4XF3d2",
+							"expanded_url": "https://bit.ly/2OXba7D",
+							"display_url": "bit.ly/2OXba7D",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17051,
+			"friends_count": 17109,
+			"listed_count": 166,
+			"created_at": "Thu Mar 03 15:06:50 +0000 2016",
+			"favourites_count": 17897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118309215410511872/xf-cTHN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118309215410511872/xf-cTHN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705409101220675584/1556659901",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just visited the #MicrosoftWhiteboard demo area and @IanMikutel showed me just some of the #Onederful new collaboration, inclusion and control features!! \n\n🦄🌈🚀\n\n#MicrosoftEDU #ISTE19 #NotatISTE #notatiste19 #MIEExpert #EdTech #assistivetechnology\n\n@mtholfsen @OneNoteC https://t.co/Q9olVNOtUo"
+	},
+	{
 		"created_at": "Tue Jun 25 17:21:56 +0000 2019",
 		"id": 1143567645956067300,
 		"id_str": "1143570031630045187",
