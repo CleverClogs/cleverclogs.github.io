@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 25 17:21:56 +0000 2019",
+		"id": 1143567645956067300,
+		"id_str": "1143570031630045187",
+		"full_text": "Did you hear the big news about Google EDU account sign in to @Office365 😱 \n\nCome see it in person at 1:30p at #ISTE19 and I will be presenting with @TheTimmyRich \n\n#MicrosoftEDU booth 2900 Learn Live Theater https://t.co/eXEuMUBskt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ISTE19",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						165,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"screen_name": "TheTimmyRich",
+					"name": "Tim Richardson",
+					"id": 1141353922474307600,
+					"id_str": "1141353922474307586",
+					"indices": [
+						149,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143567641094889500,
+					"id_str": "1143567641094889473",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/D97EtfAXoAExPzj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D97EtfAXoAExPzj.jpg",
+					"url": "https://t.co/eXEuMUBskt",
+					"display_url": "pic.twitter.com/eXEuMUBskt",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1143567645956067328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1307,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143567641094889500,
+					"id_str": "1143567641094889473",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/D97EtfAXoAExPzj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D97EtfAXoAExPzj.jpg",
+					"url": "https://t.co/eXEuMUBskt",
+					"display_url": "pic.twitter.com/eXEuMUBskt",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1143567645956067328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1307,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #ISTE19 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19475,
+			"friends_count": 3270,
+			"listed_count": 747,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 67637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you hear the big news about Google EDU account sign in to @Office365 😱 \n\nCome see it in person at 1:30p at #ISTE19 and I will be presenting with @TheTimmyRich \n\n#MicrosoftEDU booth 2900 Learn Live Theater https://t.co/eXEuMUBskt"
+	},
+	{
 		"created_at": "Tue Jun 25 15:23:38 +0000 2019",
 		"id": 1141890475172847600,
 		"id_str": "1143540257897549824",
