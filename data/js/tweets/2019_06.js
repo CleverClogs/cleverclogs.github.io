@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 26 13:02:33 +0000 2019",
+		"id": 1143865934316212200,
+		"id_str": "1143867142955307013",
+		"full_text": "Behind the scenes of some exciting Microsoft Whiteboard for Education news coming soon... 🎥 🖊 🌈 🦄 \n\n#MicrosoftEDU #ISTE19 #NotatISTE #notatiste19 #MIEExpert #EdTech #assistivetechnology\n\n@mtholfsen @OneNoteC https://t.co/I8Zxq2moOD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"text": "ISTE19",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "NotatISTE",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "notatiste19",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "EdTech",
+					"indices": [
+						157,
+						164
+					]
+				},
+				{
+					"text": "assistivetechnology",
+					"indices": [
+						165,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						187,
+						197
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						198,
+						207
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143865925998977000,
+					"id_str": "1143865925998977025",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D9_T_83XoAE-ATi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9_T_83XoAE-ATi.jpg",
+					"url": "https://t.co/I8Zxq2moOD",
+					"display_url": "pic.twitter.com/I8Zxq2moOD",
+					"expanded_url": "https://twitter.com/IanMikutel/status/1143865934316212225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143865925998977000,
+					"id_str": "1143865925998977025",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D9_T_83XoAE-ATi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9_T_83XoAE-ATi.jpg",
+					"url": "https://t.co/I8Zxq2moOD",
+					"display_url": "pic.twitter.com/I8Zxq2moOD",
+					"expanded_url": "https://twitter.com/IanMikutel/status/1143865934316212225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2157421,
+			"id_str": "2157421",
+			"name": "Ian Mikutel",
+			"screen_name": "IanMikutel",
+			"location": "Redmond, WA",
+			"description": "Sr Product Lead, Ink/AI/EDU @Microsoft Whiteboard. Host @TheBetterShow podcast 🎙. Investor - @ReadMeIO (YC W15), @SeeLaforge & @AmpleMeal. ❤️ food & fitness!",
+			"url": "https://t.co/NVlxG6E2NM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NVlxG6E2NM",
+							"expanded_url": "http://ianmik.com",
+							"display_url": "ianmik.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2420,
+			"friends_count": 1092,
+			"listed_count": 156,
+			"created_at": "Sun Mar 25 05:25:59 +0000 2007",
+			"favourites_count": 15577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2157421/1404893964",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Behind the scenes of some exciting Microsoft Whiteboard for Education news coming soon... 🎥 🖊 🌈 🦄 \n\n#MicrosoftEDU #ISTE19 #NotatISTE #notatiste19 #MIEExpert #EdTech #assistivetechnology\n\n@mtholfsen @OneNoteC https://t.co/I8Zxq2moOD"
+	},
+	{
 		"created_at": "Wed Jun 26 09:19:20 +0000 2019",
 		"id": 1141138688333811700,
 		"id_str": "1143810969874907136",
