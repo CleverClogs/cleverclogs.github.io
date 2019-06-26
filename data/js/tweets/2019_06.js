@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 26 09:19:20 +0000 2019",
+		"id": 1141138688333811700,
+		"id_str": "1143810969874907136",
+		"full_text": "I think my Ss have me figured out. What a sweet gift &amp; memory! I am deeply touched by this gesture. I have awesome students! Custom shoes that go with my cape. @mtholfsen @OneNoteEDU @MicrosoftEduCA https://t.co/SJzyXR4kSE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						175,
+						186
+					]
+				},
+				{
+					"screen_name": "MicrosoftEduCA",
+					"name": "Microsoft in Education Canada",
+					"id": 405043996,
+					"id_str": "405043996",
+					"indices": [
+						187,
+						202
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141138659414093800,
+					"id_str": "1141138659414093829",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D9YjkJHXsAUgTAp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9YjkJHXsAUgTAp.jpg",
+					"url": "https://t.co/SJzyXR4kSE",
+					"display_url": "pic.twitter.com/SJzyXR4kSE",
+					"expanded_url": "https://twitter.com/WarrenHart/status/1141138688333811713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141138659414093800,
+					"id_str": "1141138659414093829",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D9YjkJHXsAUgTAp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9YjkJHXsAUgTAp.jpg",
+					"url": "https://t.co/SJzyXR4kSE",
+					"display_url": "pic.twitter.com/SJzyXR4kSE",
+					"expanded_url": "https://twitter.com/WarrenHart/status/1141138688333811713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1141138674895204400,
+					"id_str": "1141138674895204353",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D9YjlCyWsAED0y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9YjlCyWsAED0y6.jpg",
+					"url": "https://t.co/SJzyXR4kSE",
+					"display_url": "pic.twitter.com/SJzyXR4kSE",
+					"expanded_url": "https://twitter.com/WarrenHart/status/1141138688333811713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28576909,
+			"id_str": "28576909",
+			"name": "Warren Hart 🇨🇦",
+			"screen_name": "WarrenHart",
+			"location": "Winnipeg, Manitoba",
+			"description": "Husband/Father & Grandpa | Grade 7 & 8 teacher | #MIE Fellow |#Skype Master Teacher | #Surface Classroom Pro #OneNote #O365  | Lifelong learner | Runner | #E2",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 920,
+			"listed_count": 28,
+			"created_at": "Fri Apr 03 14:47:56 +0000 2009",
+			"favourites_count": 3177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063893994973945856/hf-zbjjd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063893994973945856/hf-zbjjd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28576909/1359218058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think my Ss have me figured out. What a sweet gift &amp; memory! I am deeply touched by this gesture. I have awesome students! Custom shoes that go with my cape. @mtholfsen @OneNoteEDU @MicrosoftEduCA https://t.co/SJzyXR4kSE"
+	},
+	{
 		"created_at": "Tue Jun 25 20:01:03 +0000 2019",
 		"id": 1143583726900830200,
 		"id_str": "1143610072121131014",
