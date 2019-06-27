@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 18:30:25 +0000 2019",
+		"id": 1144309384090017800,
+		"id_str": "1144312040737128449",
+		"full_text": "🚨📽️ NEW Whiteboard for EDU video is LIVE 📽️🚨\n\nSee first-looks at 3 brand new features announced at #ISTE19:\n👍 Reactions\n👀 Read-Only Mode\n🌈 Follow-Along Mode\n\nhttps://t.co/oJGO1cFIeJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ISTE19",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oJGO1cFIeJ",
+					"expanded_url": "https://youtu.be/zJ-L2gcFOas?t=44",
+					"display_url": "youtu.be/zJ-L2gcFOas?t=…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2157421,
+			"id_str": "2157421",
+			"name": "Ian Mikutel",
+			"screen_name": "IanMikutel",
+			"location": "Redmond, WA",
+			"description": "Sr Product Lead, Ink/AI/EDU @Microsoft Whiteboard. Host @TheBetterShow podcast 🎙. Investor - @ReadMeIO (YC W15), @SeeLaforge & @AmpleMeal. ❤️ food & fitness!",
+			"url": "https://t.co/NVlxG6E2NM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NVlxG6E2NM",
+							"expanded_url": "http://ianmik.com",
+							"display_url": "ianmik.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2430,
+			"friends_count": 1093,
+			"listed_count": 158,
+			"created_at": "Sun Mar 25 05:25:59 +0000 2007",
+			"favourites_count": 15575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149320551/Ian_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2157421/1404893964",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨📽️ NEW Whiteboard for EDU video is LIVE 📽️🚨\n\nSee first-looks at 3 brand new features announced at #ISTE19:\n👍 Reactions\n👀 Read-Only Mode\n🌈 Follow-Along Mode\n\nhttps://t.co/oJGO1cFIeJ"
+	},
+	{
 		"created_at": "Wed Jun 26 13:02:33 +0000 2019",
 		"id": 1143865934316212200,
 		"id_str": "1143867142955307013",
