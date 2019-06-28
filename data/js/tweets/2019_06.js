@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 14:08:19 +0000 2019",
+		"id": 1144573609794506800,
+		"id_str": "1144608468797665282",
+		"full_text": "Congratulations @miwon and our #Office365 #Windows10 #ImmersiveReader teams for picking up a #Neurodiversity award - Assistive Technology Implementation of the Year.  #accessibility Thank you @NancyDoylePsych @geniuswithinCIC for the recognition.  Tech must deliberately include. https://t.co/83J81cGZNw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Office365",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"text": "ImmersiveReader",
+					"indices": [
+						53,
+						69
+					]
+				},
+				{
+					"text": "Neurodiversity",
+					"indices": [
+						93,
+						108
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						167,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "miwon",
+					"name": "Michael Vermeersch",
+					"id": 22193026,
+					"id_str": "22193026",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"screen_name": "NancyDoylePsych",
+					"name": "Dr Nancy Doyle",
+					"id": 842825118002958300,
+					"id_str": "842825118002958341",
+					"indices": [
+						192,
+						208
+					]
+				},
+				{
+					"screen_name": "geniuswithinCIC",
+					"name": "Genius Within",
+					"id": 385449888,
+					"id_str": "385449888",
+					"indices": [
+						209,
+						225
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144573603637268500,
+					"id_str": "1144573603637268487",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D-JXoNgWkAcPsle.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-JXoNgWkAcPsle.jpg",
+					"url": "https://t.co/83J81cGZNw",
+					"display_url": "pic.twitter.com/83J81cGZNw",
+					"expanded_url": "https://twitter.com/hminto/status/1144573609794506753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 919,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1296,
+							"h": 1693,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144573603637268500,
+					"id_str": "1144573603637268487",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D-JXoNgWkAcPsle.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-JXoNgWkAcPsle.jpg",
+					"url": "https://t.co/83J81cGZNw",
+					"display_url": "pic.twitter.com/83J81cGZNw",
+					"expanded_url": "https://twitter.com/hminto/status/1144573609794506753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 919,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1296,
+							"h": 1693,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55346045,
+			"id_str": "55346045",
+			"name": "hector minto",
+			"screen_name": "hminto",
+			"location": "Oxfordshire",
+			"description": "Assistive Technologist, Disability Inclusion Advocate and now Technical Evangelist for Accessibility at Microsoft EMEA",
+			"url": "https://t.co/nyzY7wYAwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nyzY7wYAwp",
+							"expanded_url": "http://www.microsoft.com/accessibility",
+							"display_url": "microsoft.com/accessibility",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5302,
+			"friends_count": 3239,
+			"listed_count": 161,
+			"created_at": "Thu Jul 09 20:08:07 +0000 2009",
+			"favourites_count": 9643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D8D2DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930821652241354752/Fd8GUXOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930821652241354752/Fd8GUXOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55346045/1543003222",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "292825",
+			"profile_text_color": "DECDDE",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations @miwon and our #Office365 #Windows10 #ImmersiveReader teams for picking up a #Neurodiversity award - Assistive Technology Implementation of the Year.  #accessibility Thank you @NancyDoylePsych @geniuswithinCIC for the recognition.  Tech must deliberately include. https://t.co/83J81cGZNw"
+	},
+	{
 		"created_at": "Thu Jun 27 18:30:25 +0000 2019",
 		"id": 1144309384090017800,
 		"id_str": "1144312040737128449",
