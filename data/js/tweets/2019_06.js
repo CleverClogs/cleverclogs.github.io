@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 29 15:18:27 +0000 2019",
+		"id": 1144987726057316400,
+		"id_str": "1144988504960770048",
+		"full_text": "If you are a @MicrosoftTeams EDU fan, or an #EdTech partner, you need to follow @Steven_Abrahams 👈 \n\nSteven heads our #MicrosoftTeams EDU partnerships &amp; would love to learn more about what apps should integrate with Teams next! #edchat #MIEExpert #MicrosoftEDU\n\nLet him know 📣 https://t.co/SPhpJnTDak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdTech",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						118,
+						133
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						232,
+						239
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						240,
+						250
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						251,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "Steven_Abrahams",
+					"name": "Steven Abrahams",
+					"id": 6339822,
+					"id_str": "6339822",
+					"indices": [
+						80,
+						96
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144987125252624400,
+					"id_str": "1144987125252624385",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D-PPuVkUEAEbbOf.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-PPuVkUEAEbbOf.png",
+					"url": "https://t.co/SPhpJnTDak",
+					"display_url": "pic.twitter.com/SPhpJnTDak",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1144987726057316352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144987125252624400,
+					"id_str": "1144987125252624385",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D-PPuVkUEAEbbOf.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-PPuVkUEAEbbOf.png",
+					"url": "https://t.co/SPhpJnTDak",
+					"display_url": "pic.twitter.com/SPhpJnTDak",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1144987726057316352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #ISTE19 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19772,
+			"friends_count": 3289,
+			"listed_count": 751,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 68331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are a @MicrosoftTeams EDU fan, or an #EdTech partner, you need to follow @Steven_Abrahams 👈 \n\nSteven heads our #MicrosoftTeams EDU partnerships &amp; would love to learn more about what apps should integrate with Teams next! #edchat #MIEExpert #MicrosoftEDU\n\nLet him know 📣 https://t.co/SPhpJnTDak"
+	},
+	{
 		"created_at": "Fri Jun 28 14:08:19 +0000 2019",
 		"id": 1144573609794506800,
 		"id_str": "1144608468797665282",
