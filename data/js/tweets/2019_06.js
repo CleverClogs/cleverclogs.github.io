@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 30 21:32:17 +0000 2019",
+		"id": 1145444971807498200,
+		"id_str": "1145444971807498240",
+		"full_text": "#Literacy experts, read the tweet below by @MTholfsen from #MicrosoftEDU.\n\nWhat tools would you like to see Immersive Reader integrated in? See all replies and add some new suggestions.\n\nMy list \n1. @WordPress @WordPressdotcom\n2. @Adobe @Acrobat\n3. @ChromiumDev\n4. @Inoreader https://t.co/hmZO9vr25T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Literacy",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						59,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"screen_name": "WordPress",
+					"name": "WordPress",
+					"id": 685513,
+					"id_str": "685513",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"screen_name": "wordpressdotcom",
+					"name": "WordPress.com",
+					"id": 823905,
+					"id_str": "823905",
+					"indices": [
+						210,
+						226
+					]
+				},
+				{
+					"screen_name": "Adobe",
+					"name": "Adobe",
+					"id": 63786611,
+					"id_str": "63786611",
+					"indices": [
+						230,
+						236
+					]
+				},
+				{
+					"screen_name": "Acrobat",
+					"name": "Adobe Acrobat",
+					"id": 63779713,
+					"id_str": "63779713",
+					"indices": [
+						237,
+						245
+					]
+				},
+				{
+					"screen_name": "ChromiumDev",
+					"name": "Chrome Developers",
+					"id": 113713261,
+					"id_str": "113713261",
+					"indices": [
+						249,
+						261
+					]
+				},
+				{
+					"screen_name": "Inoreader",
+					"name": "Inoreader",
+					"id": 1536852836,
+					"id_str": "1536852836",
+					"indices": [
+						265,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hmZO9vr25T",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1145397295329886208",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21799,
+			"friends_count": 7584,
+			"listed_count": 642,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1561316165",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1145397295329886200,
+		"quoted_status_id_str": "1145397295329886208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hmZO9vr25T",
+			"expanded": "https://twitter.com/mtholfsen/status/1145397295329886208",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 30 18:22:50 +0000 2019",
+			"id": 1145397295329886200,
+			"id_str": "1145397295329886208",
+			"full_text": "If you are passionate about literacy 📚, reply to this tweet and let us know which apps or content providers should integrate with the Microsoft Immersive Reader next! #FutureReadyLibs #tlchat #engchat #TESOL #ELL\n\nWe want your feedback 👂\n\nMore here: https://t.co/Py3RAbVqkL https://t.co/kpXUdOQjen",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FutureReadyLibs",
+						"indices": [
+							167,
+							183
+						]
+					},
+					{
+						"text": "tlchat",
+						"indices": [
+							184,
+							191
+						]
+					},
+					{
+						"text": "engchat",
+						"indices": [
+							192,
+							200
+						]
+					},
+					{
+						"text": "TESOL",
+						"indices": [
+							201,
+							207
+						]
+					},
+					{
+						"text": "ELL",
+						"indices": [
+							208,
+							212
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Py3RAbVqkL",
+						"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/Immersive-Reader-is-coming-to-an-app-near-you-now-partners-can/ba-p/679795",
+						"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1145395585433755600,
+						"id_str": "1145395585433755649",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/D-VDN2UUYAEL4Y-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-VDN2UUYAEL4Y-.jpg",
+						"url": "https://t.co/kpXUdOQjen",
+						"display_url": "pic.twitter.com/kpXUdOQjen",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1145397295329886208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 650,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 368,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1514,
+								"h": 820,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1145395585433755600,
+						"id_str": "1145395585433755649",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/D-VDN2UUYAEL4Y-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-VDN2UUYAEL4Y-.jpg",
+						"url": "https://t.co/kpXUdOQjen",
+						"display_url": "pic.twitter.com/kpXUdOQjen",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1145397295329886208/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 650,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 368,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1514,
+								"h": 820,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #ISTE19 @OneNoteEDU @MicrosoftEDU",
+				"url": "https://t.co/ANIFpSE2FB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSE2FB",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19789,
+				"friends_count": 3293,
+				"listed_count": 751,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 68530,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29912,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Literacy experts, read the tweet below by @MTholfsen from #MicrosoftEDU.\n\nWhat tools would you like to see Immersive Reader integrated in? See all replies and add some new suggestions.\n\nMy list \n1. @WordPress @WordPressdotcom\n2. @Adobe @Acrobat\n3. @ChromiumDev\n4. @Inoreader https://t.co/hmZO9vr25T"
+	},
+	{
 		"created_at": "Sat Jun 29 15:18:27 +0000 2019",
 		"id": 1144987726057316400,
 		"id_str": "1144988504960770048",
