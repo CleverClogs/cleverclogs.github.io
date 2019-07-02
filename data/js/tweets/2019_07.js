@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 02 18:10:58 +0000 2019",
+		"id": 1146065360384221200,
+		"id_str": "1146119084393848832",
+		"full_text": "🎈 Got your own TweetMeet Friend Card yet?\nCreate a new one every month and show your passion for the #MSFTEduChat conversations.\n\nThis editable PowerPoint guides you step by step:\nhttps://t.co/ffTHEoWzlw\n\nJoin us July 16 and discuss Student-centered Learning\n#MicrosoftEDU https://t.co/gAsPSSBedR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						259,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ffTHEoWzlw",
+					"expanded_url": "https://twt.mt/tweetmeet-friend-cards",
+					"display_url": "twt.mt/tweetmeet-frie…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1146062903772008400,
+					"id_str": "1146062903772008452",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D-eiI42VUAQxGZv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-eiI42VUAQxGZv.jpg",
+					"url": "https://t.co/gAsPSSBedR",
+					"display_url": "pic.twitter.com/gAsPSSBedR",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1146065360384221186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146062903772008400,
+					"id_str": "1146062903772008452",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D-eiI42VUAQxGZv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-eiI42VUAQxGZv.jpg",
+					"url": "https://t.co/gAsPSSBedR",
+					"display_url": "pic.twitter.com/gAsPSSBedR",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1146065360384221186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2836,
+			"friends_count": 2351,
+			"listed_count": 24,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 2359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1561237233",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 Got your own TweetMeet Friend Card yet?\nCreate a new one every month and show your passion for the #MSFTEduChat conversations.\n\nThis editable PowerPoint guides you step by step:\nhttps://t.co/ffTHEoWzlw\n\nJoin us July 16 and discuss Student-centered Learning\n#MicrosoftEDU https://t.co/gAsPSSBedR"
+	},
+	{
 		"created_at": "Tue Jul 02 15:37:45 +0000 2019",
 		"id": 1146080528975749100,
 		"id_str": "1146080528975749127",
