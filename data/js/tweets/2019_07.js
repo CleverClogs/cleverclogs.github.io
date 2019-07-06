@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 06 16:52:14 +0000 2019",
+		"id": 1147530527705948200,
+		"id_str": "1147548824380092417",
+		"full_text": "Register for my free webinar “Learning Tools for the Inclusive Classroom 💯”, details below. I’ll cover lots of existing and new capabilities 🚀 #edtech #edchat #Accessibility #MIEExpert #dyslexia #MicrosoftEDU\n\n🗓 July 17th, 12-1pm PT\n\nSign up here 👉 https://t.co/DmroXjEFMB https://t.co/XRQIw0vZhi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						143,
+						150
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "Accessibility",
+					"indices": [
+						159,
+						173
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "dyslexia",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						195,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DmroXjEFMB",
+					"expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxkCFbE8eohLlKeYJpcMV_BUN05BS1JJVjJBMjBaU1FMQUxQM1EyREFJRi4u",
+					"display_url": "forms.office.com/Pages/Response…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1147530522672787500,
+					"id_str": "1147530522672787456",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D-zY7jTUcAANV_i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-zY7jTUcAANV_i.jpg",
+					"url": "https://t.co/XRQIw0vZhi",
+					"display_url": "pic.twitter.com/XRQIw0vZhi",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1147530527705948161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1523,
+							"h": 1036,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147530522672787500,
+					"id_str": "1147530522672787456",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/D-zY7jTUcAANV_i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-zY7jTUcAANV_i.jpg",
+					"url": "https://t.co/XRQIw0vZhi",
+					"display_url": "pic.twitter.com/XRQIw0vZhi",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1147530527705948161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 816,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1523,
+							"h": 1036,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #ISTE19 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19902,
+			"friends_count": 3299,
+			"listed_count": 750,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 69048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Register for my free webinar “Learning Tools for the Inclusive Classroom 💯”, details below. I’ll cover lots of existing and new capabilities 🚀 #edtech #edchat #Accessibility #MIEExpert #dyslexia #MicrosoftEDU\n\n🗓 July 17th, 12-1pm PT\n\nSign up here 👉 https://t.co/DmroXjEFMB https://t.co/XRQIw0vZhi"
+	},
+	{
 		"created_at": "Thu Jul 04 17:35:59 +0000 2019",
 		"id": 1146835058201890800,
 		"id_str": "1146835058201890816",
