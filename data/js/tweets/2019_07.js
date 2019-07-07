@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 07 08:55:26 +0000 2019",
+		"id": 1147791222012092400,
+		"id_str": "1147791222012092416",
+		"full_text": "@margaretsimkin @standouted @Lv2teachNtravel @MadForMaple @k8ylu @rachaellehr @ilovetoteach101 @ponderingDan @dothinkeducate @yeates_mark @NicolaO_B @townesy77 @elearningetc @scienceninjagal @KayOddone @raffteachedu @iMerinet @sbradbeer @mtholfsen @DebDavis120 @MirtschinEdu @hojusaram @rayedish @ray_trent Much appreciating your recommendation, Margaret. There are so many outstanding #OneNote users out there with innovative ideas, answers and solutions!",
+		"truncated": false,
+		"display_text_range": [
+			307,
+			456
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						386,
+						394
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "margaretsimkin",
+					"name": "Margaret Simkin",
+					"id": 25946833,
+					"id_str": "25946833",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "standouted",
+					"name": "Steven Payne",
+					"id": 2212322413,
+					"id_str": "2212322413",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "Lv2teachNtravel",
+					"name": "Marion Ellery (Mazz)",
+					"id": 2802658441,
+					"id_str": "2802658441",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "MadForMaple",
+					"name": "Kevin O’Shea (Hangin in Canada) 🇨🇦",
+					"id": 631865301,
+					"id_str": "631865301",
+					"indices": [
+						45,
+						57
+					]
+				},
+				{
+					"screen_name": "k8ylu",
+					"name": "Kate O'D",
+					"id": 4910715408,
+					"id_str": "4910715408",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"screen_name": "rachaellehr",
+					"name": "Rachael Lehr",
+					"id": 32399725,
+					"id_str": "32399725",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"screen_name": "ilovetoteach101",
+					"name": "Sylvia CT",
+					"id": 916541103532159000,
+					"id_str": "916541103532158976",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"screen_name": "ponderingDan",
+					"name": "Dan Summerell",
+					"id": 983654786,
+					"id_str": "983654786",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"screen_name": "dothinkeducate",
+					"name": "Anna",
+					"id": 912243499,
+					"id_str": "912243499",
+					"indices": [
+						109,
+						124
+					]
+				},
+				{
+					"screen_name": "yeates_mark",
+					"name": "MYDTECH",
+					"id": 1255646863,
+					"id_str": "1255646863",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"screen_name": "NicolaO_B",
+					"name": "Nicola O'Brien",
+					"id": 774930674205667300,
+					"id_str": "774930674205667329",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"screen_name": "townesy77",
+					"name": "Megan Townes",
+					"id": 27093634,
+					"id_str": "27093634",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"screen_name": "elearningetc",
+					"name": "Robert Dodds",
+					"id": 466607707,
+					"id_str": "466607707",
+					"indices": [
+						160,
+						173
+					]
+				},
+				{
+					"screen_name": "scienceninjagal",
+					"name": "Meg",
+					"id": 15226141,
+					"id_str": "15226141",
+					"indices": [
+						174,
+						190
+					]
+				},
+				{
+					"screen_name": "KayOddone",
+					"name": "Dr Kay Oddone",
+					"id": 8759292,
+					"id_str": "8759292",
+					"indices": [
+						191,
+						201
+					]
+				},
+				{
+					"screen_name": "raffteachedu",
+					"name": "Raffaela Grasso",
+					"id": 300790229,
+					"id_str": "300790229",
+					"indices": [
+						202,
+						215
+					]
+				},
+				{
+					"screen_name": "iMerinet",
+					"name": "Meridith Ebbs",
+					"id": 298249175,
+					"id_str": "298249175",
+					"indices": [
+						216,
+						225
+					]
+				},
+				{
+					"screen_name": "sbradbeer",
+					"name": "Suz Bradbeer",
+					"id": 143023692,
+					"id_str": "143023692",
+					"indices": [
+						226,
+						236
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						237,
+						247
+					]
+				},
+				{
+					"screen_name": "DebDavis120",
+					"name": "Deb Davis",
+					"id": 3014144798,
+					"id_str": "3014144798",
+					"indices": [
+						248,
+						260
+					]
+				},
+				{
+					"screen_name": "MirtschinEdu",
+					"name": "Stephen Mirtschin",
+					"id": 3156905622,
+					"id_str": "3156905622",
+					"indices": [
+						261,
+						274
+					]
+				},
+				{
+					"screen_name": "hojusaram",
+					"name": "Troy Waller",
+					"id": 15491451,
+					"id_str": "15491451",
+					"indices": [
+						275,
+						285
+					]
+				},
+				{
+					"screen_name": "rayedish",
+					"name": "Dr Rachel Buchanan",
+					"id": 20652408,
+					"id_str": "20652408",
+					"indices": [
+						286,
+						295
+					]
+				},
+				{
+					"screen_name": "ray_trent",
+					"name": "Trent Ray",
+					"id": 590603724,
+					"id_str": "590603724",
+					"indices": [
+						296,
+						306
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1147776925173051400,
+		"in_reply_to_status_id_str": "1147776925173051392",
+		"in_reply_to_user_id": 25946833,
+		"in_reply_to_user_id_str": "25946833",
+		"in_reply_to_screen_name": "margaretsimkin",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21834,
+			"friends_count": 7585,
+			"listed_count": 634,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1561316165",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@margaretsimkin @standouted @Lv2teachNtravel @MadForMaple @k8ylu @rachaellehr @ilovetoteach101 @ponderingDan @dothinkeducate @yeates_mark @NicolaO_B @townesy77 @elearningetc @scienceninjagal @KayOddone @raffteachedu @iMerinet @sbradbeer @mtholfsen @DebDavis120 @MirtschinEdu @hojusaram @rayedish @ray_trent Much appreciating your recommendation, Margaret. There are so many outstanding #OneNote users out there with innovative ideas, answers and solutions!"
+	},
+	{
 		"created_at": "Sat Jul 06 16:52:14 +0000 2019",
 		"id": 1147530527705948200,
 		"id_str": "1147548824380092417",
