@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 09:35:09 +0000 2019",
+		"id": 1149250768815497200,
+		"id_str": "1149250768815497217",
+		"full_text": "Outstanding, beautifully illustrated Getting Started Guide for #OneNote for #macOS\nby @RahulSaigal30 for @MakeUseOf https://t.co/VqAs9qKNOj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "macOS",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rahulsaigal30",
+					"name": "Rahul Saigal",
+					"id": 591722657,
+					"id_str": "591722657",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"screen_name": "MakeUseOf",
+					"name": "MakeUseOf",
+					"id": 63043,
+					"id_str": "63043",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VqAs9qKNOj",
+					"expanded_url": "https://twitter.com/rahulsaigal30/status/1148800482770468865",
+					"display_url": "twitter.com/rahulsaigal30/…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra–OneNote MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21861,
+			"friends_count": 7586,
+			"listed_count": 635,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1561316165",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1148800482770468900,
+		"quoted_status_id_str": "1148800482770468865",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VqAs9qKNOj",
+			"expanded": "https://twitter.com/rahulsaigal30/status/1148800482770468865",
+			"display": "twitter.com/rahulsaigal30/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 10 03:45:53 +0000 2019",
+			"id": 1148800482770468900,
+			"id_str": "1148800482770468865",
+			"full_text": "The Essential #OneNote for Mac Guide ⁦@msonenote⁩ ⁦@OneNoteC⁩ ⁦@OneNoteEDU⁩ ⁦@mtholfsen⁩  https://t.co/JqLbCLYWX9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							14,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							38,
+							48
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							51,
+							60
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							63,
+							74
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							77,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JqLbCLYWX9",
+						"expanded_url": "https://www.makeuseof.com/tag/essential-guide-onenote-mac/",
+						"display_url": "makeuseof.com/tag/essential-…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 591722657,
+				"id_str": "591722657",
+				"name": "Rahul Saigal",
+				"screen_name": "rahulsaigal30",
+				"location": "Kolkata, India",
+				"description": "Staff Writer @makeuseof. Previously @howtogeek and @envato. Writing is my passion and profession. OneNote @msonenote enthusiast.",
+				"url": "https://t.co/gdIqv1fvAk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gdIqv1fvAk",
+								"expanded_url": "https://about.me/rahulsaigal",
+								"display_url": "about.me/rahulsaigal",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55,
+				"friends_count": 9,
+				"listed_count": 21,
+				"created_at": "Sun May 27 10:50:26 +0000 2012",
+				"favourites_count": 1613,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6449,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/667421696996036608/_SKz7Ovj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/667421696996036608/_SKz7Ovj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/591722657/1527227442",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Outstanding, beautifully illustrated Getting Started Guide for #OneNote for #macOS\nby @RahulSaigal30 for @MakeUseOf https://t.co/VqAs9qKNOj"
+	},
+	{
 		"created_at": "Sun Jul 07 08:55:26 +0000 2019",
 		"id": 1147791222012092400,
 		"id_str": "1147791222012092416",
