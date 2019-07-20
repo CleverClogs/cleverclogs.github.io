@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 20 21:10:24 +0000 2019",
+		"id": 1152609882295525400,
+		"id_str": "1152687222006648837",
+		"full_text": "\"Immersive Reader: A powerful tool to support schoolwide literacy\" - an excellent new blog by superstar librarian @joycevalenza 📚 Joyce also has posted her YouTube interview with me for a background and demo #edtech #tlchat #engchat #MIEExpert \n\nBlog: https://t.co/BS4dGjuDTw https://t.co/xlqI9NtYZE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						208,
+						215
+					]
+				},
+				{
+					"text": "tlchat",
+					"indices": [
+						216,
+						223
+					]
+				},
+				{
+					"text": "engchat",
+					"indices": [
+						224,
+						232
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						233,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joycevalenza",
+					"name": "Joyce Valenza",
+					"id": 1436001,
+					"id_str": "1436001",
+					"indices": [
+						114,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BS4dGjuDTw",
+					"expanded_url": "http://blogs.slj.com/neverendingsearch/2019/07/18/immersive-reader-a-powerful-tool-to-support-schoolwide-literacy/",
+					"display_url": "blogs.slj.com/neverendingsea…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1152609875123245000,
+					"id_str": "1152609875123245058",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D_7kkxtUEAIrnF3.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_7kkxtUEAIrnF3.png",
+					"url": "https://t.co/xlqI9NtYZE",
+					"display_url": "pic.twitter.com/xlqI9NtYZE",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1152609882295525376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 636,
+							"h": 434,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 434,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 636,
+							"h": 434,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152609875123245000,
+					"id_str": "1152609875123245058",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/D_7kkxtUEAIrnF3.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_7kkxtUEAIrnF3.png",
+					"url": "https://t.co/xlqI9NtYZE",
+					"display_url": "pic.twitter.com/xlqI9NtYZE",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1152609882295525376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 636,
+							"h": 434,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 636,
+							"h": 434,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 636,
+							"h": 434,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #accessibility @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20231,
+			"friends_count": 3269,
+			"listed_count": 756,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 70943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Immersive Reader: A powerful tool to support schoolwide literacy\" - an excellent new blog by superstar librarian @joycevalenza 📚 Joyce also has posted her YouTube interview with me for a background and demo #edtech #tlchat #engchat #MIEExpert \n\nBlog: https://t.co/BS4dGjuDTw https://t.co/xlqI9NtYZE"
+	},
+	{
 		"created_at": "Sat Jul 13 08:37:17 +0000 2019",
 		"id": 1149960979029078000,
 		"id_str": "1149960979029078016",
