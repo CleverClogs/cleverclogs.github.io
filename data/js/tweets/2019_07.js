@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 22 17:35:47 +0000 2019",
+		"id": 1153354144381452300,
+		"id_str": "1153357990407344129",
+		"full_text": "NEW! Introducing the new @wakelet app in @MicrosoftTeams. You can now open any public or unlisted collection as a Teams tab!\n\nCatch the latest #WakeletWave 🌊 \n\n#edtech #MIEExpert #elearning\n\n👉 https://t.co/hbv95Hvndp https://t.co/d9pLvimlWg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WakeletWave",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						168,
+						178
+					]
+				},
+				{
+					"text": "elearning",
+					"indices": [
+						179,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						41,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hbv95Hvndp",
+					"expanded_url": "https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Save-organize-and-share-with-the-Wakelet-app-now-available-in/ba-p/767840",
+					"display_url": "techcommunity.microsoft.com/t5/Microsoft-T…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1153354139172126700,
+					"id_str": "1153354139172126720",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EAGJepWUwAAjWHZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAGJepWUwAAjWHZ.jpg",
+					"url": "https://t.co/d9pLvimlWg",
+					"display_url": "pic.twitter.com/d9pLvimlWg",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1153354144381452290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 724,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1396,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153354139172126700,
+					"id_str": "1153354139172126720",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EAGJepWUwAAjWHZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAGJepWUwAAjWHZ.jpg",
+					"url": "https://t.co/d9pLvimlWg",
+					"display_url": "pic.twitter.com/d9pLvimlWg",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1153354144381452290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 724,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1396,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #accessibility @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20247,
+			"friends_count": 3270,
+			"listed_count": 757,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 71018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Introducing the new @wakelet app in @MicrosoftTeams. You can now open any public or unlisted collection as a Teams tab!\n\nCatch the latest #WakeletWave 🌊 \n\n#edtech #MIEExpert #elearning\n\n👉 https://t.co/hbv95Hvndp https://t.co/d9pLvimlWg"
+	},
+	{
 		"created_at": "Sat Jul 20 21:10:24 +0000 2019",
 		"id": 1152609882295525400,
 		"id_str": "1152687222006648837",
