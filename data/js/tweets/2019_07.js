@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 23 09:15:45 +0000 2019",
+		"id": 1153594537387933700,
+		"id_str": "1153594537387933696",
+		"full_text": "Wouldn't it be cool if P5.js code objects such as this Kandinsky one by @4pip could be live-embedded in #OneNote? \n\nMaybe @MTholfsen and @P5xjs can have a talk about how easy it is to whitelist them after they add an #oEmbed endpoint to their API? https://t.co/whBOeKXpPd https://t.co/6Y7CVmPw0R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "oEmbed",
+					"indices": [
+						217,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "4pip",
+					"name": "Pauline Maas",
+					"id": 18724943,
+					"id_str": "18724943",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"screen_name": "p5xjs",
+					"name": "p5.js",
+					"id": 2749534722,
+					"id_str": "2749534722",
+					"indices": [
+						137,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/whBOeKXpPd",
+					"expanded_url": "https://twitter.com/4pip/status/1153592267497725952",
+					"display_url": "twitter.com/4pip/status/11…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1153594531813757000,
+					"id_str": "1153594531813756929",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EAJkHVuXkAEEFQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAJkHVuXkAEEFQn.jpg",
+					"url": "https://t.co/6Y7CVmPw0R",
+					"display_url": "pic.twitter.com/6Y7CVmPw0R",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1153594537387933696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1248,
+							"h": 689,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153594531813757000,
+					"id_str": "1153594531813756929",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EAJkHVuXkAEEFQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAJkHVuXkAEEFQn.jpg",
+					"url": "https://t.co/6Y7CVmPw0R",
+					"display_url": "pic.twitter.com/6Y7CVmPw0R",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1153594537387933696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1248,
+							"h": 689,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21949,
+			"friends_count": 7588,
+			"listed_count": 638,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1563651168",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1153592267497726000,
+		"quoted_status_id_str": "1153592267497725952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/whBOeKXpPd",
+			"expanded": "https://twitter.com/4pip/status/1153592267497725952",
+			"display": "twitter.com/4pip/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 23 09:06:43 +0000 2019",
+			"id": 1153592267497726000,
+			"id_str": "1153592267497725952",
+			"full_text": "Voor dag 8 van #100DaysofCode heb ik een kandinsky gemaakt in P5.js https://t.co/oKCzxjsvj2 https://t.co/D92pWL39DN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "100DaysofCode",
+						"indices": [
+							15,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oKCzxjsvj2",
+						"expanded_url": "https://editor.p5js.org/4pip/sketches/yXop4XVqP",
+						"display_url": "editor.p5js.org/4pip/sketches/…",
+						"indices": [
+							68,
+							91
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1153592219586171000,
+						"id_str": "1153592219586170880",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/EAJiAwAWkAABgKa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAJiAwAWkAABgKa.jpg",
+						"url": "https://t.co/D92pWL39DN",
+						"display_url": "pic.twitter.com/D92pWL39DN",
+						"expanded_url": "https://twitter.com/4pip/status/1153592267497725952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1153592219586171000,
+						"id_str": "1153592219586170880",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/EAJiAwAWkAABgKa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAJiAwAWkAABgKa.jpg",
+						"url": "https://t.co/D92pWL39DN",
+						"display_url": "pic.twitter.com/D92pWL39DN",
+						"expanded_url": "https://twitter.com/4pip/status/1153592267497725952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18724943,
+				"id_str": "18724943",
+				"name": "Pauline Maas",
+				"screen_name": "4pip",
+				"location": "Arnhem",
+				"description": "Directeur Stichting CodeKlas. Auteur https://t.co/6ein1I95eD, CodeKlas, https://t.co/wY6pm9bFBh. Onderwijs pionier 15-16. MIEExpert 17-18 en 18-19 Eigenaar 4PIP",
+				"url": "https://t.co/jP1ruXq4EO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jP1ruXq4EO",
+								"expanded_url": "https://4pip.nl/",
+								"display_url": "4pip.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6ein1I95eD",
+								"expanded_url": "http://www.microbit101.nl",
+								"display_url": "microbit101.nl",
+								"indices": [
+									37,
+									60
+								]
+							},
+							{
+								"url": "https://t.co/wY6pm9bFBh",
+								"expanded_url": "http://CodeKinderen.nl",
+								"display_url": "CodeKinderen.nl",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2720,
+				"friends_count": 1134,
+				"listed_count": 123,
+				"created_at": "Wed Jan 07 15:35:51 +0000 2009",
+				"favourites_count": 7555,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27423,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1065605916425371648/2qsz-hvA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065605916425371648/2qsz-hvA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18724943/1508620972",
+				"profile_link_color": "003899",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wouldn't it be cool if P5.js code objects such as this Kandinsky one by @4pip could be live-embedded in #OneNote? \n\nMaybe @MTholfsen and @P5xjs can have a talk about how easy it is to whitelist them after they add an #oEmbed endpoint to their API? https://t.co/whBOeKXpPd https://t.co/6Y7CVmPw0R"
+	},
+	{
 		"created_at": "Mon Jul 22 17:35:47 +0000 2019",
 		"id": 1153354144381452300,
 		"id_str": "1153357990407344129",
