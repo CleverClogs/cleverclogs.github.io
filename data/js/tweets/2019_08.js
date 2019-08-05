@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 05 20:18:31 +0000 2019",
+		"id": 1158394788065894400,
+		"id_str": "1158472372573343744",
+		"full_text": "If you are interested in #EdTech integrations w/ Share to #MicrosoftTeams or Immersive Reader, then there is a new person to follow 🎉 \n\nBen Bohnson (@Bohnzy) recently joined our team and will be working w/ partners.  Reach out, make intros &amp; engage 📢 #mieexpert #MicrosoftEDU https://t.co/U0D55j7f4f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdTech",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						58,
+						73
+					]
+				},
+				{
+					"text": "mieexpert",
+					"indices": [
+						255,
+						265
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						266,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bohnzy",
+					"name": "Ben Bohnson",
+					"id": 2853888990,
+					"id_str": "2853888990",
+					"indices": [
+						149,
+						156
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1158394783443775500,
+					"id_str": "1158394783443775488",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EBNx6wjU8AAHGDA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EBNx6wjU8AAHGDA.png",
+					"url": "https://t.co/U0D55j7f4f",
+					"display_url": "pic.twitter.com/U0D55j7f4f",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1158394788065894400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 771,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 491,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158394783443775500,
+					"id_str": "1158394783443775488",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EBNx6wjU8AAHGDA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EBNx6wjU8AAHGDA.png",
+					"url": "https://t.co/U0D55j7f4f",
+					"display_url": "pic.twitter.com/U0D55j7f4f",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1158394788065894400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 771,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 491,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #accessibility @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20462,
+			"friends_count": 3285,
+			"listed_count": 760,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 72236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are interested in #EdTech integrations w/ Share to #MicrosoftTeams or Immersive Reader, then there is a new person to follow 🎉 \n\nBen Bohnson (@Bohnzy) recently joined our team and will be working w/ partners.  Reach out, make intros &amp; engage 📢 #mieexpert #MicrosoftEDU https://t.co/U0D55j7f4f"
+	},
+	{
 		"created_at": "Fri Aug 02 14:20:51 +0000 2019",
 		"id": 1157295022489759700,
 		"id_str": "1157295197614727168",
