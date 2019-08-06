@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 06 14:21:24 +0000 2019",
+		"id": 1158074689765421000,
+		"id_str": "1158744888961314823",
+		"full_text": "📢 🎈 Introducing the fabulous new crew!\nWe're so proud of our 16 global hosts for the #MSFTEduChat TweetMeet about #BackToSchool.\n\nFollow them through this Twitter List:\nhttps://t.co/h3s6BKsc1w\n\nJoin us Tuesday, August 20. Local event times:\nhttps://t.co/1r2lPnr4Ti\n#MicrosoftEDU https://t.co/YAyUSVqg7q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						85,
+						97
+					]
+				},
+				{
+					"text": "BackToSchool",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						265,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h3s6BKsc1w",
+					"expanded_url": "https://twitter.com/tweetmeet/msfteduchat-2019-08",
+					"display_url": "twitter.com/tweetmeet/msft…",
+					"indices": [
+						169,
+						192
+					]
+				},
+				{
+					"url": "https://t.co/1r2lPnr4Ti",
+					"expanded_url": "https://www.timeanddate.com/worldclock/fixedtime.html?low=c&p1=234&iso=20190820T10&msg=%23MSFTEduChat%20TweetMeet%20%e2%80%93%20August%2020%20%e2%80%93%20Back%20to%20School&ah=1&am=15&sort=1",
+					"display_url": "timeanddate.com/worldclock/fix…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1158074685596348400,
+					"id_str": "1158074685596348416",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EBJOynJXsAAGa_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBJOynJXsAAGa_U.jpg",
+					"url": "https://t.co/YAyUSVqg7q",
+					"display_url": "pic.twitter.com/YAyUSVqg7q",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1158074689765421063/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158074685596348400,
+					"id_str": "1158074685596348416",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EBJOynJXsAAGa_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBJOynJXsAAGa_U.jpg",
+					"url": "https://t.co/YAyUSVqg7q",
+					"display_url": "pic.twitter.com/YAyUSVqg7q",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1158074689765421063/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3043,
+			"friends_count": 2385,
+			"listed_count": 27,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 2516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1563789493",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 🎈 Introducing the fabulous new crew!\nWe're so proud of our 16 global hosts for the #MSFTEduChat TweetMeet about #BackToSchool.\n\nFollow them through this Twitter List:\nhttps://t.co/h3s6BKsc1w\n\nJoin us Tuesday, August 20. Local event times:\nhttps://t.co/1r2lPnr4Ti\n#MicrosoftEDU https://t.co/YAyUSVqg7q"
+	},
+	{
 		"created_at": "Mon Aug 05 20:18:31 +0000 2019",
 		"id": 1158394788065894400,
 		"id_str": "1158472372573343744",
