@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 08 19:11:46 +0000 2019",
+		"id": 1159527843094601700,
+		"id_str": "1159542738637008897",
+		"full_text": "Getting ready for Back to School? Check out our updated #OneNote Class Notebook help site and support articles 🆘 Lots of useful info, share in your district! 💜 #edtech #MIEExpert\n\nhttps://t.co/RpAPLNtovt https://t.co/CwI65WKU2h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						168,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RpAPLNtovt",
+					"expanded_url": "https://support.office.com/en-us/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea?ui=en-US&rs=en-US&ad=US",
+					"display_url": "support.office.com/en-us/article/…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1159527837931454500,
+					"id_str": "1159527837931454465",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EBd4bNcUwAEAj-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBd4bNcUwAEAj-X.jpg",
+					"url": "https://t.co/CwI65WKU2h",
+					"display_url": "pic.twitter.com/CwI65WKU2h",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1159527843094601728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1481,
+							"h": 833,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159527837931454500,
+					"id_str": "1159527837931454465",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EBd4bNcUwAEAj-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBd4bNcUwAEAj-X.jpg",
+					"url": "https://t.co/CwI65WKU2h",
+					"display_url": "pic.twitter.com/CwI65WKU2h",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1159527843094601728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1481,
+							"h": 833,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #accessibility @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20500,
+			"friends_count": 3304,
+			"listed_count": 760,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 72761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Getting ready for Back to School? Check out our updated #OneNote Class Notebook help site and support articles 🆘 Lots of useful info, share in your district! 💜 #edtech #MIEExpert\n\nhttps://t.co/RpAPLNtovt https://t.co/CwI65WKU2h"
+	},
+	{
 		"created_at": "Tue Aug 06 14:21:24 +0000 2019",
 		"id": 1158074689765421000,
 		"id_str": "1158744888961314823",
