@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 17 15:01:52 +0000 2019",
+		"id": 1162727690991886300,
+		"id_str": "1162741338124759042",
+		"full_text": "NEW! Page Sorting comes to the #OneNote Windows 10 app 💜 Now rolling out to @OfficeInsider folks 🚀 #edtech #MIEExpert  \n\n🔤Alphabetical \n📅 Date Created\n🔀 Date Modified\n\n👉 https://t.co/2D7m5O9IvL https://t.co/ufieA7I5NP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OfficeInsider",
+					"name": "MS Office Insiders",
+					"id": 4444936638,
+					"id_str": "4444936638",
+					"indices": [
+						76,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2D7m5O9IvL",
+					"expanded_url": "https://www.neowin.net/news/onenote-for-windows-10-picks-up-light-mode-toggle-sorting-and-more",
+					"display_url": "neowin.net/news/onenote-f…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1162727644070215700,
+					"id_str": "1162727644070215680",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1162727644070215680/pu/img/FJkuzLV_t3y3qf4u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1162727644070215680/pu/img/FJkuzLV_t3y3qf4u.jpg",
+					"url": "https://t.co/ufieA7I5NP",
+					"display_url": "pic.twitter.com/ufieA7I5NP",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1162727690991886336/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1158,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1158,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1162727644070215700,
+					"id_str": "1162727644070215680",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1162727644070215680/pu/img/FJkuzLV_t3y3qf4u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1162727644070215680/pu/img/FJkuzLV_t3y3qf4u.jpg",
+					"url": "https://t.co/ufieA7I5NP",
+					"display_url": "pic.twitter.com/ufieA7I5NP",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1162727690991886336/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1158,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1158,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 423,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							193,
+							120
+						],
+						"duration_millis": 28900,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1162727644070215680/pu/vid/1158x720/ltV6x9DxmBQ5uKk7.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1162727644070215680/pu/vid/434x270/DTRyV0jHogFnQVeL.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1162727644070215680/pu/pl/MfzP6j_sn6k5YAkc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1162727644070215680/pu/vid/578x360/3psg14uQD8yhrFFr.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20676,
+			"friends_count": 3376,
+			"listed_count": 763,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 74646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Page Sorting comes to the #OneNote Windows 10 app 💜 Now rolling out to @OfficeInsider folks 🚀 #edtech #MIEExpert  \n\n🔤Alphabetical \n📅 Date Created\n🔀 Date Modified\n\n👉 https://t.co/2D7m5O9IvL https://t.co/ufieA7I5NP"
+	},
+	{
 		"created_at": "Fri Aug 16 20:38:12 +0000 2019",
 		"id": 1162463591443968000,
 		"id_str": "1162463591443968001",
