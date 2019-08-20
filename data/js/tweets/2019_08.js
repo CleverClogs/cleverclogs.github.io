@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 20 16:05:46 +0000 2019",
+		"id": 1163843612766904300,
+		"id_str": "1163844583769411585",
+		"full_text": "I'm also thrilled that we're releasing an experimental preview of Collections! Now available for #MicrosoftEdge Canary users. Here's the full details! https://t.co/VheAKbKhZ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEdge",
+					"indices": [
+						97,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VheAKbKhZ0",
+					"expanded_url": "https://blogs.windows.com/msedgedev/2019/08/20/collections-now-available-microsoft-edge-preview/",
+					"display_url": "blogs.windows.com/msedgedev/2019…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5193261,
+			"id_str": "5193261",
+			"name": "William Devereux",
+			"screen_name": "MasterDevwi",
+			"location": "Redmond, WA",
+			"description": "Senior PM, @MicrosoftEdge (previously OneNote). Host of @IonCannonCast: A Star Wars podcast. Former Xbox/Zune MVP. Opinions are my own.",
+			"url": "https://t.co/5kgYAyPNHw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5kgYAyPNHw",
+							"expanded_url": "http://www.linkedin.com/in/williamdevereux",
+							"display_url": "linkedin.com/in/williamdeve…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3438,
+			"friends_count": 910,
+			"listed_count": 174,
+			"created_at": "Thu Apr 19 06:02:04 +0000 2007",
+			"favourites_count": 20111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140841162825072640/0QAMyw5R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140841162825072640/0QAMyw5R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5193261/1560589766",
+			"profile_link_color": "015873",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "0F0F0F",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm also thrilled that we're releasing an experimental preview of Collections! Now available for #MicrosoftEdge Canary users. Here's the full details! https://t.co/VheAKbKhZ0"
+	},
+	{
 		"created_at": "Sun Aug 18 19:17:44 +0000 2019",
 		"id": 1163116969593151500,
 		"id_str": "1163168118044274688",
