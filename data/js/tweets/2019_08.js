@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 22 17:10:36 +0000 2019",
+		"id": 1164571865328705500,
+		"id_str": "1164585676693807104",
+		"full_text": "NEW! \"Immersive Reader takes the spotlight in Drama class\" - guest blog from @TeacherMayhew and the compelling use case of Immersive Reader for drama class #accessibility #dyslexia #MIEExpert @MSFTEnable \n\nhttps://t.co/E8nwksxA18 https://t.co/n938Sr548l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "accessibility",
+					"indices": [
+						156,
+						170
+					]
+				},
+				{
+					"text": "dyslexia",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						181,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeacherMayhew",
+					"name": "Lauren Mayhew",
+					"id": 1108743841341980700,
+					"id_str": "1108743841341980680",
+					"indices": [
+						77,
+						91
+					]
+				},
+				{
+					"screen_name": "MSFTEnable",
+					"name": "MSFT Accessibility",
+					"id": 458619342,
+					"id_str": "458619342",
+					"indices": [
+						192,
+						203
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E8nwksxA18",
+					"expanded_url": "https://educationblog.microsoft.com/en-us/2019/08/immersive-reader-takes-the-spotlight-in-drama-class/",
+					"display_url": "educationblog.microsoft.com/en-us/2019/08/…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1164571856172511200,
+					"id_str": "1164571856172511232",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EClj7tqUcAAtyFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EClj7tqUcAAtyFe.jpg",
+					"url": "https://t.co/n938Sr548l",
+					"display_url": "pic.twitter.com/n938Sr548l",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1164571865328705537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1677,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 781,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164571856172511200,
+					"id_str": "1164571856172511232",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EClj7tqUcAAtyFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EClj7tqUcAAtyFe.jpg",
+					"url": "https://t.co/n938Sr548l",
+					"display_url": "pic.twitter.com/n938Sr548l",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1164571865328705537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1677,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 781,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20796,
+			"friends_count": 3407,
+			"listed_count": 761,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 75603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! \"Immersive Reader takes the spotlight in Drama class\" - guest blog from @TeacherMayhew and the compelling use case of Immersive Reader for drama class #accessibility #dyslexia #MIEExpert @MSFTEnable \n\nhttps://t.co/E8nwksxA18 https://t.co/n938Sr548l"
+	},
+	{
 		"created_at": "Tue Aug 20 16:05:46 +0000 2019",
 		"id": 1163843612766904300,
 		"id_str": "1163844583769411585",
