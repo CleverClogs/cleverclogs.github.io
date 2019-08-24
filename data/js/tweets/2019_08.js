@@ -1,6 +1,147 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 24 19:36:05 +0000 2019",
+		"id": 1165347062923350000,
+		"id_str": "1165347062923350018",
+		"full_text": "Running #OneNote in dark mode on a pen-enabled #Windows10 device? \n\nCheck out this video demo of the cool new dark-mode preset for OneNote in Tablet Pro, a 3rd-party add-on:\nhttps://t.co/OlucD9Wwf2\nby Justice Frangipane @TabletProTools \n\nLearn more here: \nhttps://t.co/ctvSyy4tYO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TabletProTools",
+					"name": "Justice Frangipane",
+					"id": 4607185094,
+					"id_str": "4607185094",
+					"indices": [
+						220,
+						235
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OlucD9Wwf2",
+					"expanded_url": "https://www.youtube.com/watch?v=_bxefUDBMsQ",
+					"display_url": "youtube.com/watch?v=_bxefU…",
+					"indices": [
+						174,
+						197
+					]
+				},
+				{
+					"url": "https://t.co/ctvSyy4tYO",
+					"expanded_url": "https://tabletpro.com/onenote-dark-mode/",
+					"display_url": "tabletpro.com/onenote-dark-m…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22211,
+			"friends_count": 7590,
+			"listed_count": 637,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1563651168",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Running #OneNote in dark mode on a pen-enabled #Windows10 device? \n\nCheck out this video demo of the cool new dark-mode preset for OneNote in Tablet Pro, a 3rd-party add-on:\nhttps://t.co/OlucD9Wwf2\nby Justice Frangipane @TabletProTools \n\nLearn more here: \nhttps://t.co/ctvSyy4tYO"
+	},
+	{
 		"created_at": "Thu Aug 22 17:10:36 +0000 2019",
 		"id": 1164571865328705500,
 		"id_str": "1164585676693807104",
