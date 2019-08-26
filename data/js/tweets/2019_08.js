@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 26 14:51:48 +0000 2019",
+		"id": 1165994935348166700,
+		"id_str": "1166000297308823553",
+		"full_text": "NEW! Based on educator feedback 👂, we've updated \"Manage notebooks\" in the #OneNote Class Notebook app 💜 #edtech #MIEExpert\n\n1) Show the compact notebook list, making it easier to find your notebook \n2) Easier to see @MicrosoftTeams Notebooks\n3) Go rid of the \"Co-owned\" label https://t.co/Jc1gR1FDHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						217,
+						232
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165994928490434600,
+					"id_str": "1165994928490434561",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5yNbKUUAERaDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5yNbKUUAERaDB.jpg",
+					"url": "https://t.co/Jc1gR1FDHE",
+					"display_url": "pic.twitter.com/Jc1gR1FDHE",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1165994935348166656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 964,
+							"h": 807,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 964,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165994928490434600,
+					"id_str": "1165994928490434561",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5yNbKUUAERaDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5yNbKUUAERaDB.jpg",
+					"url": "https://t.co/Jc1gR1FDHE",
+					"display_url": "pic.twitter.com/Jc1gR1FDHE",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1165994935348166656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 964,
+							"h": 807,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 569,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 964,
+							"h": 807,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1165994928465252400,
+					"id_str": "1165994928465252353",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5yNbEUEAETuiU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5yNbEUEAETuiU.jpg",
+					"url": "https://t.co/Jc1gR1FDHE",
+					"display_url": "pic.twitter.com/Jc1gR1FDHE",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1165994935348166656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 964,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 571,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 964,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20895,
+			"friends_count": 3406,
+			"listed_count": 760,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 76061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Based on educator feedback 👂, we've updated \"Manage notebooks\" in the #OneNote Class Notebook app 💜 #edtech #MIEExpert\n\n1) Show the compact notebook list, making it easier to find your notebook \n2) Easier to see @MicrosoftTeams Notebooks\n3) Go rid of the \"Co-owned\" label https://t.co/Jc1gR1FDHE"
+	},
+	{
 		"created_at": "Sat Aug 24 19:36:05 +0000 2019",
 		"id": 1165347062923350000,
 		"id_str": "1165347062923350018",
