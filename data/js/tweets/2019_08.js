@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 28 07:13:29 +0000 2019",
+		"id": 1166422325601951700,
+		"id_str": "1166609731265470465",
+		"full_text": "🎈 Incredibly proud of what Francisco Texeira has achieved.  We all know him as part of Team TweetMeet, but did you know that he has been training dozens of his teacher colleagues and that they too have become #MIEExpert? \n\nSo proud of you, @fcotexeira!\ncc @MicrosoftEDU https://t.co/b7EA3Is8tZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						209,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fcotexeira",
+					"name": "Francisco Texeira",
+					"id": 488780635,
+					"id_str": "488780635",
+					"indices": [
+						240,
+						251
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						256,
+						269
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b7EA3Is8tZ",
+					"expanded_url": "https://twitter.com/fcotexeira/status/1166084411063971841",
+					"display_url": "twitter.com/fcotexeira/sta…",
+					"indices": [
+						270,
+						293
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3497,
+			"friends_count": 3139,
+			"listed_count": 31,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 3893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1566492835",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1166084411063971800,
+		"quoted_status_id_str": "1166084411063971841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b7EA3Is8tZ",
+			"expanded": "https://twitter.com/fcotexeira/status/1166084411063971841",
+			"display": "twitter.com/fcotexeira/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 26 20:26:03 +0000 2019",
+			"id": 1166084411063971800,
+			"id_str": "1166084411063971841",
+			"full_text": "I am 💯 proud!\n\n📢 After working for 2 years offering training &amp; coaching in my school, today 35 teachers from @MaristasMalaga are in the list of the global #MIEExpert, my whole school group @MaristasMedit has now 50\n\nThis school year will be 🎉🥳AWESOME\n\n#MIEFellow #MicrosoftEDU https://t.co/dk9Aj5Qm8Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							159,
+							169
+						]
+					},
+					{
+						"text": "MIEFellow",
+						"indices": [
+							256,
+							266
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							267,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MaristasMalaga",
+						"name": "Maristas Málaga",
+						"id": 1546146241,
+						"id_str": "1546146241",
+						"indices": [
+							113,
+							128
+						]
+					},
+					{
+						"screen_name": "MaristasMedit",
+						"name": "MaristasMediterranea",
+						"id": 369806880,
+						"id_str": "369806880",
+						"indices": [
+							193,
+							207
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1166084397440938000,
+						"id_str": "1166084397440937984",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EC7DlM-XsAA2m_H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EC7DlM-XsAA2m_H.jpg",
+						"url": "https://t.co/dk9Aj5Qm8Q",
+						"display_url": "pic.twitter.com/dk9Aj5Qm8Q",
+						"expanded_url": "https://twitter.com/fcotexeira/status/1166084411063971841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 672,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1147,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1166084397440938000,
+						"id_str": "1166084397440937984",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EC7DlM-XsAA2m_H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EC7DlM-XsAA2m_H.jpg",
+						"url": "https://t.co/dk9Aj5Qm8Q",
+						"display_url": "pic.twitter.com/dk9Aj5Qm8Q",
+						"expanded_url": "https://twitter.com/fcotexeira/status/1166084411063971841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 672,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1147,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 488780635,
+				"id_str": "488780635",
+				"name": "Francisco Texeira",
+				"screen_name": "fcotexeira",
+				"location": "Málaga, Andalucía",
+				"description": "Lifelong learner, #MIEFellow, #MIEExpert & #MasterTrainer, #MSFTEduChat TweetMeet Team, certified #MOS & #MCE @MaristasMalaga #TeamsLover running @TeamsCentral",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1427,
+				"friends_count": 1806,
+				"listed_count": 34,
+				"created_at": "Fri Feb 10 20:51:20 +0000 2012",
+				"favourites_count": 4772,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2581,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1127588448230047744/QEbE-luF_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127588448230047744/QEbE-luF_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/488780635/1553804612",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 Incredibly proud of what Francisco Texeira has achieved.  We all know him as part of Team TweetMeet, but did you know that he has been training dozens of his teacher colleagues and that they too have become #MIEExpert? \n\nSo proud of you, @fcotexeira!\ncc @MicrosoftEDU https://t.co/b7EA3Is8tZ"
+	},
+	{
 		"created_at": "Mon Aug 26 14:51:48 +0000 2019",
 		"id": 1165994935348166700,
 		"id_str": "1166000297308823553",
