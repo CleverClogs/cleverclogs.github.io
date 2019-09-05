@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 20:40:39 +0000 2019",
+		"id": 1169711963716411400,
+		"id_str": "1169711963716411393",
+		"full_text": "#OneNote to infinity and beyond.\nProduct manager @benminnn, only mildly exaggerating when trying to not yet unveil what's in store for Microsoft #OneNote in 2020. \n\nFor those attending Ignite in Florida Nov 4-8, here's the session link:\nhttps://t.co/H3XcEnXyxM\n\n#MSIgnite #BRK2087 https://t.co/sJFqz19YVI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "MSIgnite",
+					"indices": [
+						262,
+						271
+					]
+				},
+				{
+					"text": "BRK2087",
+					"indices": [
+						272,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/H3XcEnXyxM",
+					"expanded_url": "https://myignite.techcommunity.microsoft.com/sessions/79266",
+					"display_url": "myignite.techcommunity.microsoft.com/sessions/79266",
+					"indices": [
+						237,
+						260
+					]
+				},
+				{
+					"url": "https://t.co/sJFqz19YVI",
+					"expanded_url": "https://twitter.com/benminnn/status/1166746864130985985",
+					"display_url": "twitter.com/benminnn/statu…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news and resources by Marjolein Hoekstra, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22328,
+			"friends_count": 7595,
+			"listed_count": 639,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1567332201",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1166746864130986000,
+		"quoted_status_id_str": "1166746864130985985",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sJFqz19YVI",
+			"expanded": "https://twitter.com/benminnn/status/1166746864130985985",
+			"display": "twitter.com/benminnn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 28 16:18:24 +0000 2019",
+			"id": 1166746864130986000,
+			"id_str": "1166746864130985985",
+			"full_text": "did I oversell it? thinking I might have oversold it https://t.co/svpOv6yOXI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1166746861559894000,
+						"id_str": "1166746861559894016",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/EDEeFsIUUAATQ29.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDEeFsIUUAATQ29.jpg",
+						"url": "https://t.co/svpOv6yOXI",
+						"display_url": "pic.twitter.com/svpOv6yOXI",
+						"expanded_url": "https://twitter.com/Benminnn/status/1166746864130985985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 515,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 990,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 990,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1166746861559894000,
+						"id_str": "1166746861559894016",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/EDEeFsIUUAATQ29.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDEeFsIUUAATQ29.jpg",
+						"url": "https://t.co/svpOv6yOXI",
+						"display_url": "pic.twitter.com/svpOv6yOXI",
+						"expanded_url": "https://twitter.com/Benminnn/status/1166746864130985985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 515,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 990,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 990,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15697208,
+				"id_str": "15697208",
+				"name": "Ben Hodes",
+				"screen_name": "benminnn",
+				"location": "Seattle, WA",
+				"description": "Area Man, PM Manager OneNote",
+				"url": "https://t.co/L80RszWp0N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L80RszWp0N",
+								"expanded_url": "http://thisisaponzischeme.com",
+								"display_url": "thisisaponzischeme.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 715,
+				"friends_count": 200,
+				"listed_count": 20,
+				"created_at": "Sat Aug 02 02:08:04 +0000 2008",
+				"favourites_count": 612,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 434,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164364740220477440/e46To4v__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164364740220477440/e46To4v__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15697208/1507162195",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 84,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OneNote to infinity and beyond.\nProduct manager @benminnn, only mildly exaggerating when trying to not yet unveil what's in store for Microsoft #OneNote in 2020. \n\nFor those attending Ignite in Florida Nov 4-8, here's the session link:\nhttps://t.co/H3XcEnXyxM\n\n#MSIgnite #BRK2087 https://t.co/sJFqz19YVI"
+	},
+	{
 		"created_at": "Thu Sep 05 16:46:09 +0000 2019",
 		"id": 1169613631538917400,
 		"id_str": "1169652949850759173",
