@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 15:55:49 +0000 2019",
+		"id": 1169340484642365400,
+		"id_str": "1169640285657341954",
+		"full_text": "🥁🎈 Drum roll... Announcing our hosts! \nWith much excitement we're super-proud to announce the new crew for the #MSFTEduChat TweetMeet about #MinecraftEdu.\n\nMeet and follow them all through this Twitter List:\nhttps://t.co/iBb9t2le2G\n\nJoin us all Sept 17\n#MicrosoftEDU https://t.co/tcJ2Zsrhcv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "MinecraftEdu",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						253,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iBb9t2le2G",
+					"expanded_url": "https://twitter.com/tweetmeet/lists/msfteduchat-2019-09/members",
+					"display_url": "twitter.com/tweetmeet/list…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169340473577746400,
+					"id_str": "1169340473577746433",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EDpU9x0WsAEQmXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDpU9x0WsAEQmXK.jpg",
+					"url": "https://t.co/tcJ2Zsrhcv",
+					"display_url": "pic.twitter.com/tcJ2Zsrhcv",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1169340484642365445/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169340473577746400,
+					"id_str": "1169340473577746433",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EDpU9x0WsAEQmXK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDpU9x0WsAEQmXK.jpg",
+					"url": "https://t.co/tcJ2Zsrhcv",
+					"display_url": "pic.twitter.com/tcJ2Zsrhcv",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1169340484642365445/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU on topics relevant to educators. Team TweetMeet: @OneNoteC @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3535,
+			"friends_count": 3157,
+			"listed_count": 31,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 3922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1566492835",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🥁🎈 Drum roll... Announcing our hosts! \nWith much excitement we're super-proud to announce the new crew for the #MSFTEduChat TweetMeet about #MinecraftEdu.\n\nMeet and follow them all through this Twitter List:\nhttps://t.co/iBb9t2le2G\n\nJoin us all Sept 17\n#MicrosoftEDU https://t.co/tcJ2Zsrhcv"
+	},
+	{
 		"created_at": "Thu Sep 05 10:10:00 +0000 2019",
 		"id": 1169553258039455700,
 		"id_str": "1169553258039455744",
