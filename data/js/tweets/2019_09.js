@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 16:46:09 +0000 2019",
+		"id": 1169613631538917400,
+		"id_str": "1169652949850759173",
+		"full_text": "NEW! Dark Mode for #OneNote Mac is now rolling out!  Welcome to the dark side of the @Apple 🌑 #edtech #MIEExpert\n\n🎬 https://t.co/2XjZdNVoqe https://t.co/rXcaByMKrO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Apple",
+					"name": "Apple",
+					"id": 380749300,
+					"id_str": "380749300",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2XjZdNVoqe",
+					"expanded_url": "https://www.youtube.com/watch?v=E4pFtIybimo",
+					"display_url": "youtube.com/watch?v=E4pFtI…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169613620369490000,
+					"id_str": "1169613620369489920",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EDtNZA6VAAA07ht.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDtNZA6VAAA07ht.jpg",
+					"url": "https://t.co/rXcaByMKrO",
+					"display_url": "pic.twitter.com/rXcaByMKrO",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1169613631538917376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1682,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169613620369490000,
+					"id_str": "1169613620369489920",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EDtNZA6VAAA07ht.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDtNZA6VAAA07ht.jpg",
+					"url": "https://t.co/rXcaByMKrO",
+					"display_url": "pic.twitter.com/rXcaByMKrO",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1169613631538917376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1682,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21045,
+			"friends_count": 3420,
+			"listed_count": 763,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 76958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Dark Mode for #OneNote Mac is now rolling out!  Welcome to the dark side of the @Apple 🌑 #edtech #MIEExpert\n\n🎬 https://t.co/2XjZdNVoqe https://t.co/rXcaByMKrO"
+	},
+	{
 		"created_at": "Thu Sep 05 15:55:49 +0000 2019",
 		"id": 1169340484642365400,
 		"id_str": "1169640285657341954",
