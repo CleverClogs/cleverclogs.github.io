@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 06 14:51:35 +0000 2019",
+		"id": 1169818511335493600,
+		"id_str": "1169986509199613952",
+		"full_text": "How to Use #OneNote for School: 10 Tips for Students and Teachers: https://t.co/l9Ivzf8fwr @OnenoteEdu @OneNoteC @msonenote https://t.co/Q9OmposO3m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l9Ivzf8fwr",
+					"expanded_url": "http://bit.ly/2NDuUPa",
+					"display_url": "bit.ly/2NDuUPa",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169818509452308500,
+					"id_str": "1169818509452308485",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EDwHvIOU8AUo6h6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDwHvIOU8AUo6h6.jpg",
+					"url": "https://t.co/Q9OmposO3m",
+					"display_url": "pic.twitter.com/Q9OmposO3m",
+					"expanded_url": "https://twitter.com/MakeUseOf/status/1169818511335493633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 994,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 994,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 274,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169818509452308500,
+					"id_str": "1169818509452308485",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EDwHvIOU8AUo6h6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDwHvIOU8AUo6h6.jpg",
+					"url": "https://t.co/Q9OmposO3m",
+					"display_url": "pic.twitter.com/Q9OmposO3m",
+					"expanded_url": "https://twitter.com/MakeUseOf/status/1169818511335493633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 994,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 994,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 274,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63043,
+			"id_str": "63043",
+			"name": "MakeUseOf",
+			"screen_name": "MakeUseOf",
+			"location": "",
+			"description": "Technology, simplified — Get even more value out of your tech with our daily articles, tutorials, tips, and reviews.",
+			"url": "http://t.co/ma6oSzfLyy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ma6oSzfLyy",
+							"expanded_url": "http://www.makeuseof.com",
+							"display_url": "makeuseof.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176598,
+			"friends_count": 131,
+			"listed_count": 4815,
+			"created_at": "Wed Dec 13 09:02:34 +0000 2006",
+			"favourites_count": 2703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/771290297255006208/qJzhURwu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/771290297255006208/qJzhURwu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63043/1472724949",
+			"profile_link_color": "0A84B0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to Use #OneNote for School: 10 Tips for Students and Teachers: https://t.co/l9Ivzf8fwr @OnenoteEdu @OneNoteC @msonenote https://t.co/Q9OmposO3m"
+	},
+	{
 		"created_at": "Thu Sep 05 20:40:39 +0000 2019",
 		"id": 1169711963716411400,
 		"id_str": "1169711963716411393",
