@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 22:11:41 +0000 2019",
+		"id": 1170459649604292600,
+		"id_str": "1170459649604292613",
+		"full_text": "What a fantastic video produced in 8 weeks by Microsoft interns and employees. \n\nMicrosoft, the Musical.\n\nNow go watch it through @kerszi's link below. https://t.co/pjImQ9yqWz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kerszi",
+					"name": "Kathi Kersznowski",
+					"id": 595079922,
+					"id_str": "595079922",
+					"indices": [
+						130,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pjImQ9yqWz",
+					"expanded_url": "https://twitter.com/kerszi/status/1170398940132499457",
+					"display_url": "twitter.com/kerszi/status/…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22342,
+			"friends_count": 7595,
+			"listed_count": 639,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1567765456",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170398940132499500,
+		"quoted_status_id_str": "1170398940132499457",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pjImQ9yqWz",
+			"expanded": "https://twitter.com/kerszi/status/1170398940132499457",
+			"display": "twitter.com/kerszi/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 07 18:10:26 +0000 2019",
+			"id": 1170398940132499500,
+			"id_str": "1170398940132499457",
+			"full_text": "This is the most incredible, absolutely genius production!  What a work of heart!  I laughed, I cried...&amp; I’m applauding with a standing ovation all the way over here in NJ! 👏🏼🏆🎭\n\nThis is a must-watch for every  #MIEExpert &amp; #MicrosoftEdu fan!https://t.co/KFsIjmNmnI @fionnagan https://t.co/vQ9UdHb4gg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				285
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							216,
+							226
+						]
+					},
+					{
+						"text": "MicrosoftEdu",
+						"indices": [
+							233,
+							246
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "fionnagan",
+						"name": "Fionna 📸",
+						"id": 52905539,
+						"id_str": "52905539",
+						"indices": [
+							275,
+							285
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KFsIjmNmnI",
+						"expanded_url": "https://youtu.be/ZGeWNR8CWnA",
+						"display_url": "youtu.be/ZGeWNR8CWnA",
+						"indices": [
+							251,
+							274
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1170398936424681500,
+						"id_str": "1170398936424681478",
+						"indices": [
+							286,
+							309
+						],
+						"media_url": "http://pbs.twimg.com/media/ED4XobMWkAYskQq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ED4XobMWkAYskQq.jpg",
+						"url": "https://t.co/vQ9UdHb4gg",
+						"display_url": "pic.twitter.com/vQ9UdHb4gg",
+						"expanded_url": "https://twitter.com/kerszi/status/1170398940132499457/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1170398936424681500,
+						"id_str": "1170398936424681478",
+						"indices": [
+							286,
+							309
+						],
+						"media_url": "http://pbs.twimg.com/media/ED4XobMWkAYskQq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ED4XobMWkAYskQq.jpg",
+						"url": "https://t.co/vQ9UdHb4gg",
+						"display_url": "pic.twitter.com/vQ9UdHb4gg",
+						"expanded_url": "https://twitter.com/kerszi/status/1170398940132499457/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595079922,
+				"id_str": "595079922",
+				"name": "Kathi Kersznowski",
+				"screen_name": "kerszi",
+				"location": "New Jersey, USA",
+				"description": "TechIntegration Expert, Global Presenter, Keynote Speaker, MIEExpert, Empatico, Flipgrid, #LearningInTheLoo & #Fliphunt creator, #GlobalGoalsSchools, #TeachSDGs",
+				"url": "https://t.co/F3EubyVGqy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F3EubyVGqy",
+								"expanded_url": "http://kerszi.wordpress.com/",
+								"display_url": "kerszi.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14582,
+				"friends_count": 9362,
+				"listed_count": 645,
+				"created_at": "Wed May 30 23:31:13 +0000 2012",
+				"favourites_count": 43711,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30842,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1161837081552936961/wHZ2C47X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161837081552936961/wHZ2C47X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595079922/1560972741",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a fantastic video produced in 8 weeks by Microsoft interns and employees. \n\nMicrosoft, the Musical.\n\nNow go watch it through @kerszi's link below. https://t.co/pjImQ9yqWz"
+	},
+	{
 		"created_at": "Fri Sep 06 14:51:35 +0000 2019",
 		"id": 1169818511335493600,
 		"id_str": "1169986509199613952",
