@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 17:02:09 +0000 2019",
+		"id": 1170083524105425000,
+		"id_str": "1170744140746895360",
+		"full_text": "Whoa!! Check out how this amazing T utilizes #OneNote to document S growth on this episode of The #Jenallee Show 👉https://t.co/pDqUwv7e8k \n✨Digital Data\n✨Photo Evidence\n✨Easily Shared\n✨Paperless Organization\n&amp; so much more is discussed w/ this OneNote Avenger!\n#MIEExpert https://t.co/9tY0onMjxD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"text": "Jenallee",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						265,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pDqUwv7e8k",
+					"expanded_url": "https://www.youtube.com/watch?v=ttn6BxIHCwU",
+					"display_url": "youtube.com/watch?v=ttn6Bx…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170083521504915500,
+					"id_str": "1170083521504915457",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EDz4w3DWsAEtNF6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDz4w3DWsAEtNF6.jpg",
+					"url": "https://t.co/9tY0onMjxD",
+					"display_url": "pic.twitter.com/9tY0onMjxD",
+					"expanded_url": "https://twitter.com/Jenallee1/status/1170083524105424896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 542,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 542,
+							"h": 288,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 542,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170083521504915500,
+					"id_str": "1170083521504915457",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EDz4w3DWsAEtNF6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDz4w3DWsAEtNF6.jpg",
+					"url": "https://t.co/9tY0onMjxD",
+					"display_url": "pic.twitter.com/9tY0onMjxD",
+					"expanded_url": "https://twitter.com/Jenallee1/status/1170083524105424896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 542,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 542,
+							"h": 288,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 542,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971576715809083400,
+			"id_str": "971576715809083393",
+			"name": "@Jenallee",
+			"screen_name": "Jenallee1",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 349,
+			"friends_count": 265,
+			"listed_count": 5,
+			"created_at": "Thu Mar 08 02:41:54 +0000 2018",
+			"favourites_count": 1946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971578044703010817/lMtOUuGq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971578044703010817/lMtOUuGq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971576715809083393/1520477305",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Whoa!! Check out how this amazing T utilizes #OneNote to document S growth on this episode of The #Jenallee Show 👉https://t.co/pDqUwv7e8k \n✨Digital Data\n✨Photo Evidence\n✨Easily Shared\n✨Paperless Organization\n&amp; so much more is discussed w/ this OneNote Avenger!\n#MIEExpert https://t.co/9tY0onMjxD"
+	},
+	{
 		"created_at": "Sat Sep 07 22:11:41 +0000 2019",
 		"id": 1170459649604292600,
 		"id_str": "1170459649604292613",
