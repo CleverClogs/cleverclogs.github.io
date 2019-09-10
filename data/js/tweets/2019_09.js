@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 10 07:57:03 +0000 2019",
+		"id": 1171075045298335700,
+		"id_str": "1171331737223409664",
+		"full_text": "Take a look how @mmarioherraez and I design #playlists in an Elementary setting using @MicrosoftEDU @OneNoteEDU and @MicrosoftTeams to develop the self-regulation and decision-making skills of our 5th and 6th graders!\n\n-Keep reading-\n\n#MicrosoftEDU #TeachInDavis #MIEExpert https://t.co/z8BvAAyrCe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "playlists",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						235,
+						248
+					]
+				},
+				{
+					"text": "TeachInDavis",
+					"indices": [
+						249,
+						262
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						263,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mmarioherraez",
+					"name": "Mario Herraez M.Ed",
+					"id": 902180372858888200,
+					"id_str": "902180372858888192",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						116,
+						131
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171075039686361000,
+					"id_str": "1171075039686361088",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EEB-i0HVAAAuZuk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEB-i0HVAAAuZuk.jpg",
+					"url": "https://t.co/z8BvAAyrCe",
+					"display_url": "pic.twitter.com/z8BvAAyrCe",
+					"expanded_url": "https://twitter.com/aalbertoherraez/status/1171075045298335745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 827,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1321,
+							"h": 910,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171075039686361000,
+					"id_str": "1171075039686361088",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EEB-i0HVAAAuZuk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEB-i0HVAAAuZuk.jpg",
+					"url": "https://t.co/z8BvAAyrCe",
+					"display_url": "pic.twitter.com/z8BvAAyrCe",
+					"expanded_url": "https://twitter.com/aalbertoherraez/status/1171075045298335745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 827,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1321,
+							"h": 910,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 852520911383085000,
+			"id_str": "852520911383085056",
+			"name": "Alberto Herraez, M.Ed",
+			"screen_name": "aalbertoherraez",
+			"location": "Farmington, UT",
+			"description": "2019 @UCET Outstanding Young Educator of the year | Best of @DavisSchools Award 2019 | #MIEExpert | @Flipgrid & @Wakelet Ambassador| #MinecraftEDU Global Mentor",
+			"url": "https://t.co/hIi2qKrHpQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hIi2qKrHpQ",
+							"expanded_url": "http://www.linkedin.com/in/albertoherraezvelazquez",
+							"display_url": "linkedin.com/in/albertoherr…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4686,
+			"friends_count": 4549,
+			"listed_count": 48,
+			"created_at": "Thu Apr 13 13:56:39 +0000 2017",
+			"favourites_count": 17676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075423785602363392/tYnQHmhy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075423785602363392/tYnQHmhy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/852520911383085056/1549381998",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Take a look how @mmarioherraez and I design #playlists in an Elementary setting using @MicrosoftEDU @OneNoteEDU and @MicrosoftTeams to develop the self-regulation and decision-making skills of our 5th and 6th graders!\n\n-Keep reading-\n\n#MicrosoftEDU #TeachInDavis #MIEExpert https://t.co/z8BvAAyrCe"
+	},
+	{
 		"created_at": "Mon Sep 09 11:07:55 +0000 2019",
 		"id": 1170968246704640000,
 		"id_str": "1171017385349996549",
