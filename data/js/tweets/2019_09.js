@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 21:24:40 +0000 2019",
+		"id": 1172259759216574500,
+		"id_str": "1172259759216574464",
+		"full_text": "@sig225 Wonderful tip by Cal Armstrong about Snip &amp; Sketch. \n\nAllow me to add some some relevant resources:\n\n10 useful Snip &amp; Sketch tips by Microsoft:\nhttps://t.co/F2HstpCIOd\n\nAnd one more richly illustrated article:\nhttps://t.co/uaWz4E5BDA\nby @CodrutNeagu for @DigitalCitizenL https://t.co/mFknhksMRK",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sig225",
+					"name": "Cal Armstrong",
+					"id": 12895782,
+					"id_str": "12895782",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "codrutneagu",
+					"name": "Codruţ Neagu",
+					"id": 1261812872,
+					"id_str": "1261812872",
+					"indices": [
+						253,
+						265
+					]
+				},
+				{
+					"screen_name": "DigitalCitizenL",
+					"name": "Digital Citizen",
+					"id": 348777177,
+					"id_str": "348777177",
+					"indices": [
+						270,
+						286
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F2HstpCIOd",
+					"expanded_url": "https://www.microsoft.com/en-us/tips/home/windows-keyboard-shortcuts#screencapture",
+					"display_url": "microsoft.com/en-us/tips/hom…",
+					"indices": [
+						160,
+						183
+					]
+				},
+				{
+					"url": "https://t.co/uaWz4E5BDA",
+					"expanded_url": "https://www.digitalcitizen.life/how-use-snip-sketch-take-screenshots-windows",
+					"display_url": "digitalcitizen.life/how-use-snip-s…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1172259753575235600,
+					"id_str": "1172259753575235587",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EES0CPRWwAMsbxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EES0CPRWwAMsbxg.jpg",
+					"url": "https://t.co/mFknhksMRK",
+					"display_url": "pic.twitter.com/mFknhksMRK",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1172259759216574464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 552,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 974,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1199,
+							"h": 974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172259753575235600,
+					"id_str": "1172259753575235587",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EES0CPRWwAMsbxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EES0CPRWwAMsbxg.jpg",
+					"url": "https://t.co/mFknhksMRK",
+					"display_url": "pic.twitter.com/mFknhksMRK",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1172259759216574464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 552,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 974,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1199,
+							"h": 974,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1171915979011567600,
+		"in_reply_to_status_id_str": "1171915979011567616",
+		"in_reply_to_user_id": 12895782,
+		"in_reply_to_user_id_str": "12895782",
+		"in_reply_to_screen_name": "sig225",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22401,
+			"friends_count": 7593,
+			"listed_count": 638,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1567765456",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sig225 Wonderful tip by Cal Armstrong about Snip &amp; Sketch. \n\nAllow me to add some some relevant resources:\n\n10 useful Snip &amp; Sketch tips by Microsoft:\nhttps://t.co/F2HstpCIOd\n\nAnd one more richly illustrated article:\nhttps://t.co/uaWz4E5BDA\nby @CodrutNeagu for @DigitalCitizenL https://t.co/mFknhksMRK"
+	},
+	{
 		"created_at": "Thu Sep 12 21:05:22 +0000 2019",
 		"id": 1172254900354539500,
 		"id_str": "1172254900354539521",
