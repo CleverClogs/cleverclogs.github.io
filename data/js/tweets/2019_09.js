@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 16:34:53 +0000 2019",
+		"id": 1172549109397328000,
+		"id_str": "1172549218097139712",
+		"full_text": "NEW! The @CodeOrg CS Discoveries 2019 materials are now ready in a custom #OneNote Class Notebook 💜 FREE for any @Office365 user, go to this article for the details, examples below 👇\n\nArticle: https://t.co/m63ZWYEwrX\n\n#edtech #STEM #MIEExpert https://t.co/BOvvwTxel5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						218,
+						225
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						226,
+						231
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						232,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "codeorg",
+					"name": "Code.org",
+					"id": 850107536,
+					"id_str": "850107536",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m63ZWYEwrX",
+					"expanded_url": "https://support.office.com/en-us/article/How-to-use-the-Code-org-Class-Notebook-6b336f7d-674e-4abe-915f-b08561a8c33b",
+					"display_url": "support.office.com/en-us/article/…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1172549102837485600,
+					"id_str": "1172549102837485569",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EEW7MlRU0AEysO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEW7MlRU0AEysO-.jpg",
+					"url": "https://t.co/BOvvwTxel5",
+					"display_url": "pic.twitter.com/BOvvwTxel5",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1172549109397327873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 601,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1025,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172549102837485600,
+					"id_str": "1172549102837485569",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EEW7MlRU0AEysO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEW7MlRU0AEysO-.jpg",
+					"url": "https://t.co/BOvvwTxel5",
+					"display_url": "pic.twitter.com/BOvvwTxel5",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1172549109397327873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 601,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1025,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172549102862659600,
+					"id_str": "1172549102862659584",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EEW7MlXU8AAykQ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEW7MlXU8AAykQ9.jpg",
+					"url": "https://t.co/BOvvwTxel5",
+					"display_url": "pic.twitter.com/BOvvwTxel5",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1172549109397327873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1062,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 622,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21139,
+			"friends_count": 3429,
+			"listed_count": 764,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 77738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! The @CodeOrg CS Discoveries 2019 materials are now ready in a custom #OneNote Class Notebook 💜 FREE for any @Office365 user, go to this article for the details, examples below 👇\n\nArticle: https://t.co/m63ZWYEwrX\n\n#edtech #STEM #MIEExpert https://t.co/BOvvwTxel5"
+	},
+	{
 		"created_at": "Thu Sep 12 21:24:40 +0000 2019",
 		"id": 1172259759216574500,
 		"id_str": "1172259759216574464",
