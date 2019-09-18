@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 18 07:52:33 +0000 2019",
+		"id": 1174229707656716300,
+		"id_str": "1174229707656716289",
+		"full_text": "Watch this interview with @LinkedIn founder @ReidHoffman, in which he describes in a crystal-clear way why #OneNote is indispensable for him.\n\nWhat an endorsement for @NotedByRyan and his crew. https://t.co/AqmUSYuOiR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LinkedIn",
+					"name": "LinkedIn",
+					"id": 13058772,
+					"id_str": "13058772",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "reidhoffman",
+					"name": "Reid Hoffman",
+					"id": 10078,
+					"id_str": "10078",
+					"indices": [
+						44,
+						56
+					]
+				},
+				{
+					"screen_name": "NotedByRyan",
+					"name": "Ryan McMinn",
+					"id": 729049944133226500,
+					"id_str": "729049944133226496",
+					"indices": [
+						167,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AqmUSYuOiR",
+					"expanded_url": "https://twitter.com/NotedByRyan/status/1174022631311331328",
+					"display_url": "twitter.com/NotedByRyan/st…",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22435,
+			"friends_count": 7593,
+			"listed_count": 639,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1567765456",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174022631311331300,
+		"quoted_status_id_str": "1174022631311331328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AqmUSYuOiR",
+			"expanded": "https://twitter.com/NotedByRyan/status/1174022631311331328",
+			"display": "twitter.com/NotedByRyan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 17 18:09:42 +0000 2019",
+			"id": 1174022631311331300,
+			"id_str": "1174022631311331328",
+			"full_text": "Very humbling to hear @reidhoffman say that @msonenote is the one app he cannot live without! https://t.co/uWWcDJN2kO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "reidhoffman",
+						"name": "Reid Hoffman",
+						"id": 10078,
+						"id_str": "10078",
+						"indices": [
+							22,
+							34
+						]
+					},
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							44,
+							54
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uWWcDJN2kO",
+						"expanded_url": "https://twitter.com/WSJ/status/1173989996061237248",
+						"display_url": "twitter.com/WSJ/status/117…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 729049944133226500,
+				"id_str": "729049944133226496",
+				"name": "Ryan McMinn",
+				"screen_name": "NotedByRyan",
+				"location": "Redmond, WA",
+				"description": "Head of product for Microsoft OneNote & Sticky Notes",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1066,
+				"friends_count": 151,
+				"listed_count": 36,
+				"created_at": "Sat May 07 20:47:06 +0000 2016",
+				"favourites_count": 1296,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 807,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072157033355329536/ZU_bti5l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072157033355329536/ZU_bti5l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/729049944133226496/1520128968",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1173989996061237200,
+			"quoted_status_id_str": "1173989996061237248",
+			"quoted_status_permalink": {
+				"url": "https://t.co/uWWcDJN2kO",
+				"expanded": "https://twitter.com/WSJ/status/1173989996061237248",
+				"display": "twitter.com/WSJ/status/117…"
+			},
+			"retweet_count": 6,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch this interview with @LinkedIn founder @ReidHoffman, in which he describes in a crystal-clear way why #OneNote is indispensable for him.\n\nWhat an endorsement for @NotedByRyan and his crew. https://t.co/AqmUSYuOiR"
+	},
+	{
 		"created_at": "Mon Sep 16 17:01:20 +0000 2019",
 		"id": 1173643041443369000,
 		"id_str": "1173643041443368960",
