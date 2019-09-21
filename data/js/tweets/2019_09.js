@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 21 03:15:34 +0000 2019",
+		"id": 1175163994635681800,
+		"id_str": "1175247168237649922",
+		"full_text": "Is #OneNote a teacher's best friend? We're exploring how we can use this incredible tool for lesson planning to support #DigitalStrategy #SEL  #FormativeAssessment and the development of a range of #21CSkills at our #IMclan Teacher PD event with @teachermarija this weekend! https://t.co/0SfYvgQioD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"text": "DigitalStrategy",
+					"indices": [
+						120,
+						136
+					]
+				},
+				{
+					"text": "SEL",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "FormativeAssessment",
+					"indices": [
+						143,
+						163
+					]
+				},
+				{
+					"text": "21CSkills",
+					"indices": [
+						198,
+						208
+					]
+				},
+				{
+					"text": "IMclan",
+					"indices": [
+						216,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teachermarija",
+					"name": "Marija Petreska",
+					"id": 521427482,
+					"id_str": "521427482",
+					"indices": [
+						246,
+						260
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1175163992979005400,
+					"id_str": "1175163992979005440",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EE8FbOJX4AA37ID.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE8FbOJX4AA37ID.jpg",
+					"url": "https://t.co/0SfYvgQioD",
+					"display_url": "pic.twitter.com/0SfYvgQioD",
+					"expanded_url": "https://twitter.com/ImmersiveMinds/status/1175163994635681797/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1232,
+							"h": 434,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 423,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175163992979005400,
+					"id_str": "1175163992979005440",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EE8FbOJX4AA37ID.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE8FbOJX4AA37ID.jpg",
+					"url": "https://t.co/0SfYvgQioD",
+					"display_url": "pic.twitter.com/0SfYvgQioD",
+					"expanded_url": "https://twitter.com/ImmersiveMinds/status/1175163994635681797/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1232,
+							"h": 434,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 423,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 757948716972113900,
+			"id_str": "757948716972113920",
+			"name": "ImmersiveMinds",
+			"screen_name": "ImmersiveMinds",
+			"location": "Scotland, United Kingdom",
+			"description": "Creative Edu-Tech Consultants & Professional Development Trainers in Games-based Learning, Virtual reality, 3DPrinting, Coding #AllWorkAllPlay",
+			"url": "https://t.co/lEI5ZYUh11",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lEI5ZYUh11",
+							"expanded_url": "http://www.immersiveminds.com/",
+							"display_url": "immersiveminds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2397,
+			"friends_count": 3314,
+			"listed_count": 55,
+			"created_at": "Tue Jul 26 14:40:31 +0000 2016",
+			"favourites_count": 6077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847062343699836929/6eNPZPVU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847062343699836929/6eNPZPVU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/757948716972113920/1490790500",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is #OneNote a teacher's best friend? We're exploring how we can use this incredible tool for lesson planning to support #DigitalStrategy #SEL  #FormativeAssessment and the development of a range of #21CSkills at our #IMclan Teacher PD event with @teachermarija this weekend! https://t.co/0SfYvgQioD"
+	},
+	{
 		"created_at": "Thu Sep 19 13:39:13 +0000 2019",
 		"id": 1174672066978693000,
 		"id_str": "1174679338375098368",
