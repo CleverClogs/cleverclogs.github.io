@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 22 21:55:48 +0000 2019",
+		"id": 1175846603481145300,
+		"id_str": "1175891470244634631",
+		"full_text": "I got sick last Wednesday. Once again I was saved by @msonenote and @OneNoteC and of course by my colleagues. It was so easy distribute assigments and afterwards to hit Review students work -button to check what they had done.Back to work tomorrow and we are all set to go again!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1334622578,
+			"id_str": "1334622578",
+			"name": "Juha Pusa",
+			"screen_name": "PusaJuha",
+			"location": "",
+			"description": "Vocational #math #science teacher. #Mobile #learning and #coteaching spiced with #OneNote. Tweets in Finnish and in English.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 859,
+			"friends_count": 1973,
+			"listed_count": 28,
+			"created_at": "Sun Apr 07 17:11:47 +0000 2013",
+			"favourites_count": 1498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/658638425877295106/tZekQ6FE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/658638425877295106/tZekQ6FE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1334622578/1445866798",
+			"profile_link_color": "002233",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I got sick last Wednesday. Once again I was saved by @msonenote and @OneNoteC and of course by my colleagues. It was so easy distribute assigments and afterwards to hit Review students work -button to check what they had done.Back to work tomorrow and we are all set to go again!"
+	},
+	{
 		"created_at": "Sat Sep 21 16:26:19 +0000 2019",
 		"id": 1175446165480968200,
 		"id_str": "1175446165480968194",
