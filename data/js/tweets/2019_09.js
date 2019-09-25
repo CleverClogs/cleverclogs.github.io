@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 25 08:37:18 +0000 2019",
+		"id": 1176777684925460500,
+		"id_str": "1176777684925460480",
+		"full_text": "Just in: \"All about the Immersive Reader\"\n\nThe page on the #MicrosoftEdu Community linked to below has videos, resource pages, charts, videos, handy PDFs and case studies.\n\nBrand-new demo video with @MTholfsen and @SDelafosse:\nhttps://t.co/lasts5tGDU\n\n#OneNote #accessibility https://t.co/nAoAjU4n5m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						59,
+						72
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						252,
+						260
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						261,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"screen_name": "sdelafosse",
+					"name": "Sonja Delafosse",
+					"id": 111110878,
+					"id_str": "111110878",
+					"indices": [
+						214,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lasts5tGDU",
+					"expanded_url": "https://www.youtube.com/watch?v=wHJJCLV-DNg",
+					"display_url": "youtube.com/watch?v=wHJJCL…",
+					"indices": [
+						227,
+						250
+					]
+				},
+				{
+					"url": "https://t.co/nAoAjU4n5m",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1176668824969498624",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22497,
+			"friends_count": 7591,
+			"listed_count": 639,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1567765456",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176668824969498600,
+		"quoted_status_id_str": "1176668824969498624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nAoAjU4n5m",
+			"expanded": "https://twitter.com/mtholfsen/status/1176668824969498624",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 25 01:24:43 +0000 2019",
+			"id": 1176668824969498600,
+			"id_str": "1176668824969498624",
+			"full_text": "NEW! The ultimate one-stop shop page 🎯 on the Microsoft Educator Center for the #MicrosoftEDU Immersive Reader. \n\n🎥  Demo by me &amp; @sdelafosse \n📖 Nice table of alll apps &amp; platforms\n🔗 Lots of helpful links \n\n👉  https://t.co/RLPlAATr48\n\n#edtech #MIEExpert #edchat https://t.co/n8jslwBvwy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							80,
+							93
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							243,
+							250
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							251,
+							261
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							262,
+							269
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sdelafosse",
+						"name": "Sonja Delafosse",
+						"id": 111110878,
+						"id_str": "111110878",
+						"indices": [
+							134,
+							145
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RLPlAATr48",
+						"expanded_url": "http://aka.ms/AllAboutImmersiveReader",
+						"display_url": "aka.ms/AllAboutImmers…",
+						"indices": [
+							218,
+							241
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1176668774591807500,
+						"id_str": "1176668774591807489",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EFReBCfWwAEKczd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFReBCfWwAEKczd.jpg",
+						"url": "https://t.co/n8jslwBvwy",
+						"display_url": "pic.twitter.com/n8jslwBvwy",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1176668824969498624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1176668774591807500,
+						"id_str": "1176668774591807489",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EFReBCfWwAEKczd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFReBCfWwAEKczd.jpg",
+						"url": "https://t.co/n8jslwBvwy",
+						"display_url": "pic.twitter.com/n8jslwBvwy",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1176668824969498624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+				"url": "https://t.co/ANIFpSE2FB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSE2FB",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21278,
+				"friends_count": 3422,
+				"listed_count": 764,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 78735,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32645,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just in: \"All about the Immersive Reader\"\n\nThe page on the #MicrosoftEdu Community linked to below has videos, resource pages, charts, videos, handy PDFs and case studies.\n\nBrand-new demo video with @MTholfsen and @SDelafosse:\nhttps://t.co/lasts5tGDU\n\n#OneNote #accessibility https://t.co/nAoAjU4n5m"
+	},
+	{
 		"created_at": "Tue Sep 24 14:11:50 +0000 2019",
 		"id": 1176499486824239000,
 		"id_str": "1176499486824239104",
