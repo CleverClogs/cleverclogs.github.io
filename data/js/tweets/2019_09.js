@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 10:44:28 +0000 2019",
+		"id": 1176978702099370000,
+		"id_str": "1177172078421794822",
+		"full_text": "BIG NEWS! PowerPoint “Presenter Coach” 🎤 is now available for public preview in @PowerPoint for the web 🎉\n\nVia PPT and AI, students can independently practice to communicate more effectively &amp; get suggestions + a report #edtech #MIEExpert #edchat\n\n👉 https://t.co/Wwh3UNdirO https://t.co/H273z1iEDE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						224,
+						231
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						232,
+						242
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						243,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "powerpoint",
+					"name": "PowerPoint",
+					"id": 1138147334989144000,
+					"id_str": "1138147334989144066",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wwh3UNdirO",
+					"expanded_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2019/09/25/microsoft-365-web-desktop-productivity-new-features-office/",
+					"display_url": "microsoft.com/en-us/microsof…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1176978688757223400,
+					"id_str": "1176978688757223424",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EFV34auUUAADQ9s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFV34auUUAADQ9s.jpg",
+					"url": "https://t.co/H273z1iEDE",
+					"display_url": "pic.twitter.com/H273z1iEDE",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1176978702099369985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1757,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176978688757223400,
+					"id_str": "1176978688757223424",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EFV34auUUAADQ9s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFV34auUUAADQ9s.jpg",
+					"url": "https://t.co/H273z1iEDE",
+					"display_url": "pic.twitter.com/H273z1iEDE",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1176978702099369985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1757,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 742,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21298,
+			"friends_count": 3424,
+			"listed_count": 764,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 78898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 72,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BIG NEWS! PowerPoint “Presenter Coach” 🎤 is now available for public preview in @PowerPoint for the web 🎉\n\nVia PPT and AI, students can independently practice to communicate more effectively &amp; get suggestions + a report #edtech #MIEExpert #edchat\n\n👉 https://t.co/Wwh3UNdirO https://t.co/H273z1iEDE"
+	},
+	{
 		"created_at": "Wed Sep 25 15:20:04 +0000 2019",
 		"id": 1176879046845718500,
 		"id_str": "1176879046845718528",
