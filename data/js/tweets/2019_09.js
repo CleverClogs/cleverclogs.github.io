@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 30 16:25:11 +0000 2019",
+		"id": 1178707370375078000,
+		"id_str": "1178707370375077889",
+		"full_text": "Just when you wondered if there's a #Wakelet course for the Microsoft Education Community...\n\nThere is!\nCheck out the link below, shared by @kyteijas from the @Wakelet team. \n\nOh, and have you tried embedding a Wakelet yet in Microsoft #OneNote?\n\n#MicrosoftEDU #MIEExpert #oEmbed https://t.co/QMcHVj3U86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wakelet",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						236,
+						244
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						247,
+						260
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						261,
+						271
+					]
+				},
+				{
+					"text": "oEmbed",
+					"indices": [
+						272,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kyteijas",
+					"name": "Teijas @ Wakelet",
+					"id": 308328117,
+					"id_str": "308328117",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						159,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QMcHVj3U86",
+					"expanded_url": "https://twitter.com/kyteijas/status/1178705515305738241",
+					"display_url": "twitter.com/kyteijas/statu…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22526,
+			"friends_count": 7591,
+			"listed_count": 638,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1569512582",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178705515305738200,
+		"quoted_status_id_str": "1178705515305738241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QMcHVj3U86",
+			"expanded": "https://twitter.com/kyteijas/status/1178705515305738241",
+			"display": "twitter.com/kyteijas/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 30 16:17:48 +0000 2019",
+			"id": 1178705515305738200,
+			"id_str": "1178705515305738241",
+			"full_text": "Super excited to announce that the Wakelet course is now live in the Microsoft Educator Center!! 🥳👀🔥🔥\n\nWe hope you enjoy the course as much as we did making it for you 🙂\n\n👉https://t.co/kBDwoZEOVH\n\n#Wakeletwave #MicrosoftEdu #BetterTogether https://t.co/j1PGMfC7iB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Wakeletwave",
+						"indices": [
+							197,
+							209
+						]
+					},
+					{
+						"text": "MicrosoftEdu",
+						"indices": [
+							210,
+							223
+						]
+					},
+					{
+						"text": "BetterTogether",
+						"indices": [
+							224,
+							239
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kBDwoZEOVH",
+						"expanded_url": "https://education.microsoft.com/courses-and-resources/courses/unleash-learning-with-wakelet",
+						"display_url": "education.microsoft.com/courses-and-re…",
+						"indices": [
+							172,
+							195
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1178705508808773600,
+						"id_str": "1178705508808773632",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/EFuaaktX0AATZje.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFuaaktX0AATZje.jpg",
+						"url": "https://t.co/j1PGMfC7iB",
+						"display_url": "pic.twitter.com/j1PGMfC7iB",
+						"expanded_url": "https://twitter.com/kyteijas/status/1178705515305738241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 888,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 503,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1683,
+								"h": 1245,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1178705508808773600,
+						"id_str": "1178705508808773632",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/EFuaaktX0AATZje.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFuaaktX0AATZje.jpg",
+						"url": "https://t.co/j1PGMfC7iB",
+						"display_url": "pic.twitter.com/j1PGMfC7iB",
+						"expanded_url": "https://twitter.com/kyteijas/status/1178705515305738241/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 888,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 503,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1683,
+								"h": 1245,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 308328117,
+				"id_str": "308328117",
+				"name": "Teijas @ Wakelet",
+				"screen_name": "kyteijas",
+				"location": "Manchester, England",
+				"description": "Business Development lead/Engagement @Wakelet. Ride the #WakeletWave 🌊 - teijas@wakelet.com",
+				"url": "https://t.co/LjJpN8kET5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LjJpN8kET5",
+								"expanded_url": "http://www.wakelet.com/@teijasky",
+								"display_url": "wakelet.com/@teijasky",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1207,
+				"friends_count": 1730,
+				"listed_count": 6,
+				"created_at": "Tue May 31 06:43:41 +0000 2011",
+				"favourites_count": 1294,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 662,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1019982926828711939/9uCZxRM3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019982926828711939/9uCZxRM3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/308328117/1565257860",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just when you wondered if there's a #Wakelet course for the Microsoft Education Community...\n\nThere is!\nCheck out the link below, shared by @kyteijas from the @Wakelet team. \n\nOh, and have you tried embedding a Wakelet yet in Microsoft #OneNote?\n\n#MicrosoftEDU #MIEExpert #oEmbed https://t.co/QMcHVj3U86"
+	},
+	{
 		"created_at": "Thu Sep 26 10:44:28 +0000 2019",
 		"id": 1176978702099370000,
 		"id_str": "1177172078421794822",
