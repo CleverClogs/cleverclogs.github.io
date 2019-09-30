@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 30 22:06:32 +0000 2019",
+		"id": 1178784175832342500,
+		"id_str": "1178793277383938048",
+		"full_text": "I was so tired at the end of my work day, but then I video chatted with @teachermarija &amp; she taught me some of her magic! She is one of the most talented, artistic, &amp; creative humans I know!  My mind is blown away!  🤯 Im not tired anymore- I’m inspired! #MicrosoftEdu #MIEExpert https://t.co/QC2n8EMEMq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						262,
+						275
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						276,
+						286
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teachermarija",
+					"name": "Marija Petreska",
+					"id": 521427482,
+					"id_str": "521427482",
+					"indices": [
+						72,
+						86
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178784171260616700,
+					"id_str": "1178784171260616709",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EFvh9VLXoAUSYuS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFvh9VLXoAUSYuS.jpg",
+					"url": "https://t.co/QC2n8EMEMq",
+					"display_url": "pic.twitter.com/QC2n8EMEMq",
+					"expanded_url": "https://twitter.com/kerszi/status/1178784175832342528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1186,
+							"h": 322,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 185,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1186,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178784171260616700,
+					"id_str": "1178784171260616709",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EFvh9VLXoAUSYuS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFvh9VLXoAUSYuS.jpg",
+					"url": "https://t.co/QC2n8EMEMq",
+					"display_url": "pic.twitter.com/QC2n8EMEMq",
+					"expanded_url": "https://twitter.com/kerszi/status/1178784175832342528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1186,
+							"h": 322,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 185,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1186,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595079922,
+			"id_str": "595079922",
+			"name": "Kathi Kersznowski",
+			"screen_name": "kerszi",
+			"location": "New Jersey, USA",
+			"description": "TechIntegration Expert, Global Presenter, Keynote Speaker, MIEExpert, Empatico, Flipgrid, #LearningInTheLoo & #Fliphunt creator, #GlobalGoalsSchools, #TeachSDGs",
+			"url": "https://t.co/F3EubyVGqy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F3EubyVGqy",
+							"expanded_url": "http://kerszi.wordpress.com/",
+							"display_url": "kerszi.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14819,
+			"friends_count": 9437,
+			"listed_count": 645,
+			"created_at": "Wed May 30 23:31:13 +0000 2012",
+			"favourites_count": 44523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161837081552936961/wHZ2C47X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161837081552936961/wHZ2C47X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595079922/1560972741",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was so tired at the end of my work day, but then I video chatted with @teachermarija &amp; she taught me some of her magic! She is one of the most talented, artistic, &amp; creative humans I know!  My mind is blown away!  🤯 Im not tired anymore- I’m inspired! #MicrosoftEdu #MIEExpert https://t.co/QC2n8EMEMq"
+	},
+	{
 		"created_at": "Mon Sep 30 16:25:11 +0000 2019",
 		"id": 1178707370375078000,
 		"id_str": "1178707370375077889",
