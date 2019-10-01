@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 01 20:24:20 +0000 2019",
+		"id": 1179129942459797500,
+		"id_str": "1179129942459797504",
+		"full_text": "Just in: new Twitter account @OneNoteRPI, dedicated to building a community about the use of #OneNote in further and higher education.\n\nRead more about this initiative through the link below, by @EmmaThirkell @Colette_Fuller &amp; @Dale_Munday\n\n#OneNoteRPI #FE #HE #MIEExpert https://t.co/ygDsJHUeSE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "OneNoteRPI",
+					"indices": [
+						245,
+						256
+					]
+				},
+				{
+					"text": "FE",
+					"indices": [
+						257,
+						260
+					]
+				},
+				{
+					"text": "HE",
+					"indices": [
+						261,
+						264
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						265,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteRPI",
+					"name": "OneNote Research and Practice Institute",
+					"id": 1167450750919893000,
+					"id_str": "1167450750919893002",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"screen_name": "EmmaThirkell",
+					"name": "Dr Emma Thirkell",
+					"id": 476148040,
+					"id_str": "476148040",
+					"indices": [
+						195,
+						208
+					]
+				},
+				{
+					"screen_name": "colette_fuller",
+					"name": "Colette Fuller",
+					"id": 567285742,
+					"id_str": "567285742",
+					"indices": [
+						209,
+						224
+					]
+				},
+				{
+					"screen_name": "Dale_Munday",
+					"name": "Dale Munday",
+					"id": 425731247,
+					"id_str": "425731247",
+					"indices": [
+						231,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ygDsJHUeSE",
+					"expanded_url": "https://twitter.com/OneNoteRPI/status/1179039777091227649",
+					"display_url": "twitter.com/OneNoteRPI/sta…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22536,
+			"friends_count": 7591,
+			"listed_count": 638,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1569512582",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1179039777091227600,
+		"quoted_status_id_str": "1179039777091227649",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ygDsJHUeSE",
+			"expanded": "https://twitter.com/OneNoteRPI/status/1179039777091227649",
+			"display": "twitter.com/OneNoteRPI/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 01 14:26:03 +0000 2019",
+			"id": 1179039777091227600,
+			"id_str": "1179039777091227649",
+			"full_text": "Are you interested in taking part in research on OneNote. Discussing use with other teaching professionals and seeing examples of it's use in FE and HE? Getting support, inspiration and seeing opportunities to develop pedagogy? If so, join us! https://t.co/yJEXTcEp32 #OneNoteEdu https://t.co/GFcg9vV5VK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNoteEdu",
+						"indices": [
+							268,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yJEXTcEp32",
+						"expanded_url": "https://tinyurl.com/JoinOneNoteRPI",
+						"display_url": "tinyurl.com/JoinOneNoteRPI",
+						"indices": [
+							244,
+							267
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1179039769143197700,
+						"id_str": "1179039769143197697",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EFzKbFfWwAEASzi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFzKbFfWwAEASzi.jpg",
+						"url": "https://t.co/GFcg9vV5VK",
+						"display_url": "pic.twitter.com/GFcg9vV5VK",
+						"expanded_url": "https://twitter.com/OneNoteRPI/status/1179039777091227649/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1179039769143197700,
+						"id_str": "1179039769143197697",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EFzKbFfWwAEASzi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFzKbFfWwAEASzi.jpg",
+						"url": "https://t.co/GFcg9vV5VK",
+						"display_url": "pic.twitter.com/GFcg9vV5VK",
+						"expanded_url": "https://twitter.com/OneNoteRPI/status/1179039777091227649/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1167450750919893000,
+				"id_str": "1167450750919893002",
+				"name": "OneNote Research and Practice Institute",
+				"screen_name": "OneNoteRPI",
+				"location": "Virtually everywhere",
+				"description": "Bringing together use of #OneNoteEdu within #FE and #HE Founded by @EmmaThirkell @Colette_Fuller & @Dale_Munday #OneNoteRPI",
+				"url": "https://t.co/8RNXoHbbTx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8RNXoHbbTx",
+								"expanded_url": "https://tinyurl.com/OneNoteRPI",
+								"display_url": "tinyurl.com/OneNoteRPI",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32,
+				"friends_count": 15,
+				"listed_count": 0,
+				"created_at": "Fri Aug 30 14:55:34 +0000 2019",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1167450881966694401/ndDOyv6w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167450881966694401/ndDOyv6w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1167450750919893002/1567526333",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just in: new Twitter account @OneNoteRPI, dedicated to building a community about the use of #OneNote in further and higher education.\n\nRead more about this initiative through the link below, by @EmmaThirkell @Colette_Fuller &amp; @Dale_Munday\n\n#OneNoteRPI #FE #HE #MIEExpert https://t.co/ygDsJHUeSE"
+	},
+	{
 		"created_at": "Tue Oct 01 16:18:16 +0000 2019",
 		"id": 1179066118041813000,
 		"id_str": "1179068017289957376",
