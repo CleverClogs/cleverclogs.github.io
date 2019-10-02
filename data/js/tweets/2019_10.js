@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 21:09:58 +0000 2019",
+		"id": 1179503814799478800,
+		"id_str": "1179503814799478785",
+		"full_text": "@YinonLavi The #OneNote app for #Windows10 supports section templates. Right-click on a page title in the page navigation column and select Set as Default template. \nThe next time you add a new page to the same notebook section it will have the same content and layout as the original page.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			290
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						32,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YinonLavi",
+					"name": "Yinon Lavi",
+					"id": 797044427382554600,
+					"id_str": "797044427382554628",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1179501101575524400,
+		"in_reply_to_status_id_str": "1179501101575524353",
+		"in_reply_to_user_id": 797044427382554600,
+		"in_reply_to_user_id_str": "797044427382554628",
+		"in_reply_to_screen_name": "YinonLavi",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22544,
+			"friends_count": 7591,
+			"listed_count": 638,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1569512582",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@YinonLavi The #OneNote app for #Windows10 supports section templates. Right-click on a page title in the page navigation column and select Set as Default template. \nThe next time you add a new page to the same notebook section it will have the same content and layout as the original page."
+	},
+	{
 		"created_at": "Tue Oct 01 21:35:04 +0000 2019",
 		"id": 1179147744381952000,
 		"id_str": "1179147744381952001",
