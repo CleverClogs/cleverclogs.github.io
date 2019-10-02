@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 21:25:59 +0000 2019",
+		"id": 1179407724720853000,
+		"id_str": "1179507848612651014",
+		"full_text": "NEW! Individual Page Lock/Unlock 🔐 comes to #OneNote Class Notebooks for Windows 10, Online, Mac and iPad 💜 Also improved last name/first name sorting for Review Student Work #edtech #MIEExpert\n\nVideo 👇 https://t.co/BukIVbgo7g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						183,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1179407521531990000,
+					"id_str": "1179407521531990016",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1179407521531990016/pu/img/jlfatFKr4AD_Yw_e.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1179407521531990016/pu/img/jlfatFKr4AD_Yw_e.jpg",
+					"url": "https://t.co/BukIVbgo7g",
+					"display_url": "pic.twitter.com/BukIVbgo7g",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1179407724720852992/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 707,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1222,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179407521531990000,
+					"id_str": "1179407521531990016",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1179407521531990016/pu/img/jlfatFKr4AD_Yw_e.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1179407521531990016/pu/img/jlfatFKr4AD_Yw_e.jpg",
+					"url": "https://t.co/BukIVbgo7g",
+					"display_url": "pic.twitter.com/BukIVbgo7g",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1179407724720852992/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 707,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1222,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							611,
+							360
+						],
+						"duration_millis": 22233,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1179407521531990016/pu/vid/610x360/4OYzfHv2Nv2HyfNj.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1179407521531990016/pu/vid/1222x720/jN7OzgMZmkR3hBII.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1179407521531990016/pu/vid/458x270/5Zsb0y37ypFm9XDp.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1179407521531990016/pu/pl/aLnsWkej7VBTSh6y.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21360,
+			"friends_count": 3426,
+			"listed_count": 761,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 79384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 129,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Individual Page Lock/Unlock 🔐 comes to #OneNote Class Notebooks for Windows 10, Online, Mac and iPad 💜 Also improved last name/first name sorting for Review Student Work #edtech #MIEExpert\n\nVideo 👇 https://t.co/BukIVbgo7g"
+	},
+	{
 		"created_at": "Wed Oct 02 21:09:58 +0000 2019",
 		"id": 1179503814799478800,
 		"id_str": "1179503814799478785",
