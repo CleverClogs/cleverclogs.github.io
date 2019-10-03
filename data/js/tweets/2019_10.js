@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 03 09:34:38 +0000 2019",
+		"id": 1179519561839845400,
+		"id_str": "1179691215752699905",
+		"full_text": "🎈 Every month our #MSFTEduChat hosts set out to discover new tricks, tools and techniques.\nHost @FergeeksonGirl describes it well below.\n\nOn each host's itinerary are #OneNote, #MicrosoftTeams, @Flipgrid, @Twitter, @TweetDeck, @Buffer and @Wakelet!\n\nHere's a peek:\n#MicrosoftEDU https://t.co/pqn1Hq3E5v https://t.co/dLIfHKQ11V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			302
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						18,
+						30
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						177,
+						192
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						265,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FergeeksonGirl",
+					"name": "Jennifer Ferguson",
+					"id": 2839413709,
+					"id_str": "2839413709",
+					"indices": [
+						96,
+						111
+					]
+				},
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						205,
+						213
+					]
+				},
+				{
+					"screen_name": "TweetDeck",
+					"name": "TweetDeck",
+					"id": 14803701,
+					"id_str": "14803701",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"screen_name": "buffer",
+					"name": "Buffer",
+					"id": 197962366,
+					"id_str": "197962366",
+					"indices": [
+						227,
+						234
+					]
+				},
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						239,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pqn1Hq3E5v",
+					"expanded_url": "https://twitter.com/FergeeksonGirl/status/1179486988954529792",
+					"display_url": "twitter.com/FergeeksonGirl…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179519553195430000,
+					"id_str": "1179519553195429888",
+					"indices": [
+						303,
+						326
+					],
+					"media_url": "http://pbs.twimg.com/media/EF5-yMXXUAAjE1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF5-yMXXUAAjE1r.jpg",
+					"url": "https://t.co/dLIfHKQ11V",
+					"display_url": "pic.twitter.com/dLIfHKQ11V",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1179519561839845377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1158,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179519553195430000,
+					"id_str": "1179519553195429888",
+					"indices": [
+						303,
+						326
+					],
+					"media_url": "http://pbs.twimg.com/media/EF5-yMXXUAAjE1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF5-yMXXUAAjE1r.jpg",
+					"url": "https://t.co/dLIfHKQ11V",
+					"display_url": "pic.twitter.com/dLIfHKQ11V",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1179519561839845377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1158,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU connecting educators. Team TweetMeet: Marjolein Hoekstra, @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3711,
+			"friends_count": 3267,
+			"listed_count": 31,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 4108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1569071998",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1179486988954529800,
+		"quoted_status_id_str": "1179486988954529792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pqn1Hq3E5v",
+			"expanded": "https://twitter.com/FergeeksonGirl/status/1179486988954529792",
+			"display": "twitter.com/FergeeksonGirl…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 02 20:03:06 +0000 2019",
+			"id": 1179486988954529800,
+			"id_str": "1179486988954529792",
+			"full_text": "@stulowe80 @MSMakeCode @wakelet @SustDev @LetsTalkScience @CalgaryAcademy Just dabbled with a @wakelet this morning - you create your links (bookmarks) and then you can curate them into a collection AND you can make it shareable for collaborations - have you heard of it?  If not... life. changing. for. reals.  😍",
+			"truncated": false,
+			"display_text_range": [
+				74,
+				313
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stulowe80",
+						"name": "Stu Lowe",
+						"id": 833348238,
+						"id_str": "833348238",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "MSMakeCode",
+						"name": "Microsoft MakeCode",
+						"id": 853151395351937000,
+						"id_str": "853151395351937024",
+						"indices": [
+							11,
+							22
+						]
+					},
+					{
+						"screen_name": "wakelet",
+						"name": "Wakelet",
+						"id": 169922611,
+						"id_str": "169922611",
+						"indices": [
+							23,
+							31
+						]
+					},
+					{
+						"screen_name": "SustDev",
+						"name": "UN DESA Sustainable Development",
+						"id": 260928758,
+						"id_str": "260928758",
+						"indices": [
+							32,
+							40
+						]
+					},
+					{
+						"screen_name": "LetsTalkScience",
+						"name": "Let's Talk Science",
+						"id": 89452000,
+						"id_str": "89452000",
+						"indices": [
+							41,
+							57
+						]
+					},
+					{
+						"screen_name": "CalgaryAcademy",
+						"name": "Calgary Academy",
+						"id": 443432216,
+						"id_str": "443432216",
+						"indices": [
+							58,
+							73
+						]
+					},
+					{
+						"screen_name": "wakelet",
+						"name": "Wakelet",
+						"id": 169922611,
+						"id_str": "169922611",
+						"indices": [
+							94,
+							102
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1179386891315155000,
+			"in_reply_to_status_id_str": "1179386891315154944",
+			"in_reply_to_user_id": 833348238,
+			"in_reply_to_user_id_str": "833348238",
+			"in_reply_to_screen_name": "stulowe80",
+			"user": {
+				"id": 2839413709,
+				"id_str": "2839413709",
+				"name": "Jennifer Ferguson",
+				"screen_name": "FergeeksonGirl",
+				"location": "Cochrane, Alberta",
+				"description": "Edu Specialist, PL @LetsTalkScience / STEM Consultant @CalgaryAcademy • ADHD & Asperger Awareness • MφM • Re-Believer 🧩 Opinions Are My Own 💁🏼‍♀️🦄",
+				"url": "https://t.co/7MRuXU9BTb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7MRuXU9BTb",
+								"expanded_url": "http://ca.linkedin.com/in/fergeeksongirl/",
+								"display_url": "ca.linkedin.com/in/fergeeksong…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1044,
+				"friends_count": 1303,
+				"listed_count": 102,
+				"created_at": "Fri Oct 03 21:26:25 +0000 2014",
+				"favourites_count": 7937,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5333,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178700929995919366/lckC3GiV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178700929995919366/lckC3GiV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2839413709/1569770538",
+				"profile_link_color": "BEA87A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 Every month our #MSFTEduChat hosts set out to discover new tricks, tools and techniques.\nHost @FergeeksonGirl describes it well below.\n\nOn each host's itinerary are #OneNote, #MicrosoftTeams, @Flipgrid, @Twitter, @TweetDeck, @Buffer and @Wakelet!\n\nHere's a peek:\n#MicrosoftEDU https://t.co/pqn1Hq3E5v https://t.co/dLIfHKQ11V"
+	},
+	{
 		"created_at": "Wed Oct 02 22:37:52 +0000 2019",
 		"id": 1179525938515779600,
 		"id_str": "1179525938515779584",
