@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 05 15:39:17 +0000 2019",
+		"id": 1180507338278441000,
+		"id_str": "1180507760624046080",
+		"full_text": "NEW! @StickyNotes have rolled out for #OneNote iPad 🎉 Update today and give them a spin #edtech #MIEExpert\n\n🔗 https://t.co/RlypsPzqiF https://t.co/mZtgF9AF1E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stickynotes",
+					"name": "Sticky Notes",
+					"id": 774181166924509200,
+					"id_str": "774181166924509184",
+					"indices": [
+						5,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RlypsPzqiF",
+					"expanded_url": "https://www.onmsft.com/news/sticky-notes-come-to-onenote-for-ipad-dark-mode-also-available-for-beta-testers",
+					"display_url": "onmsft.com/news/sticky-no…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1180507328161796000,
+					"id_str": "1180507328161796096",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EGIBKQ3UUAAECtN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGIBKQ3UUAAECtN.jpg",
+					"url": "https://t.co/mZtgF9AF1E",
+					"display_url": "pic.twitter.com/mZtgF9AF1E",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1180507338278440960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1059,
+							"h": 790,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1059,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180507328161796000,
+					"id_str": "1180507328161796096",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EGIBKQ3UUAAECtN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGIBKQ3UUAAECtN.jpg",
+					"url": "https://t.co/mZtgF9AF1E",
+					"display_url": "pic.twitter.com/mZtgF9AF1E",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1180507338278440960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1059,
+							"h": 790,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1059,
+							"h": 790,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21416,
+			"friends_count": 3430,
+			"listed_count": 762,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 79676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! @StickyNotes have rolled out for #OneNote iPad 🎉 Update today and give them a spin #edtech #MIEExpert\n\n🔗 https://t.co/RlypsPzqiF https://t.co/mZtgF9AF1E"
+	},
+	{
 		"created_at": "Thu Oct 03 09:34:38 +0000 2019",
 		"id": 1179519561839845400,
 		"id_str": "1179691215752699905",
@@ -372,7 +589,7 @@ Grailbird.data.tweets_2019_10 =
 				"name": "Jennifer Ferguson",
 				"screen_name": "FergeeksonGirl",
 				"location": "Cochrane, Alberta",
-				"description": "Edu Specialist, PL @LetsTalkScience / STEM Consultant @CalgaryAcademy • ADHD & Asperger Awareness • MφM • Re-Believer 🧩 Opinions Are My Own 💁🏼‍♀️🦄",
+				"description": "Edu Specialist, PL @LetsTalkScience / STEM Consultant @CalgaryAcademy • ADHD & Asperger Awareness • MφM • Re-Believer 🧩 Opinions Are My Own 💁🏼♀️🦄",
 				"url": "https://t.co/7MRuXU9BTb",
 				"entities": {
 					"url": {
