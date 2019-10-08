@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 08 15:39:46 +0000 2019",
+		"id": 1181595045633372200,
+		"id_str": "1181595045633372161",
+		"full_text": "Incredible to see how in just a few years time, Microsoft Learning Tools has spread across so many tools, most recently #MicrosoftWhiteboard, #MicrosoftForms and #MinecraftEdu\n\nSee the Periodic Table below, which describes availability of each feature across the entire range. https://t.co/g8I0gKnbz2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftWhiteboard",
+					"indices": [
+						120,
+						140
+					]
+				},
+				{
+					"text": "MicrosoftForms",
+					"indices": [
+						142,
+						157
+					]
+				},
+				{
+					"text": "MinecraftEdu",
+					"indices": [
+						162,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g8I0gKnbz2",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1181585610194276352",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22592,
+			"friends_count": 7595,
+			"listed_count": 640,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1569512582",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181585610194276400,
+		"quoted_status_id_str": "1181585610194276352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g8I0gKnbz2",
+			"expanded": "https://twitter.com/mtholfsen/status/1181585610194276352",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 08 15:02:16 +0000 2019",
+			"id": 1181585610194276400,
+			"id_str": "1181585610194276352",
+			"full_text": "UPDATED! The Period Table of Microsoft Learning Tools has been updated with the new October announcements 🎉 I had to make the font smaller to accommodate everything 💯 #edtech #dyslexia #edchat #MIEExpert #MicrosoftEDU\n\nDownloadable version here: https://t.co/XomsHUYMHX https://t.co/Ri7EyQHf1W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							167,
+							174
+						]
+					},
+					{
+						"text": "dyslexia",
+						"indices": [
+							175,
+							184
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							185,
+							192
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							193,
+							203
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							204,
+							217
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XomsHUYMHX",
+						"expanded_url": "https://aka.ms/PeriodicTableLearningTools",
+						"display_url": "aka.ms/PeriodicTableL…",
+						"indices": [
+							246,
+							269
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1181585599897178000,
+						"id_str": "1181585599897178115",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EGXV18GWkAMPCmW.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGXV18GWkAMPCmW.png",
+						"url": "https://t.co/Ri7EyQHf1W",
+						"display_url": "pic.twitter.com/Ri7EyQHf1W",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1181585610194276352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 665,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1135,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1181585599897178000,
+						"id_str": "1181585599897178115",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EGXV18GWkAMPCmW.png",
+						"media_url_https": "https://pbs.twimg.com/media/EGXV18GWkAMPCmW.png",
+						"url": "https://t.co/Ri7EyQHf1W",
+						"display_url": "pic.twitter.com/Ri7EyQHf1W",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1181585610194276352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 665,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1135,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 377,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+				"url": "https://t.co/ANIFpSE2FB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSE2FB",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21481,
+				"friends_count": 3437,
+				"listed_count": 765,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 79936,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32926,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Incredible to see how in just a few years time, Microsoft Learning Tools has spread across so many tools, most recently #MicrosoftWhiteboard, #MicrosoftForms and #MinecraftEdu\n\nSee the Periodic Table below, which describes availability of each feature across the entire range. https://t.co/g8I0gKnbz2"
+	},
+	{
 		"created_at": "Tue Oct 08 14:14:15 +0000 2019",
 		"id": 1181573524005236700,
 		"id_str": "1181573524005236739",
