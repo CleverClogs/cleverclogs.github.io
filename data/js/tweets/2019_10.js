@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 10 14:33:41 +0000 2019",
+		"id": 1182253441055363000,
+		"id_str": "1182303189707702273",
+		"full_text": "2880x1920 pixels, a brightness of 450 nits and the magic 3:2 aspect ratio. Go deep on the tech of Surface Pro X, a demo that only @MSFTMechanics can bring you. https://t.co/5mLg3DniQP https://t.co/86oAAsLv6r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSFTMechanics",
+					"name": "Microsoft Mechanics",
+					"id": 1648629770,
+					"id_str": "1648629770",
+					"indices": [
+						130,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5mLg3DniQP",
+					"expanded_url": "https://youtu.be/ucxShAm5660",
+					"display_url": "youtu.be/ucxShAm5660",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179566214776885200,
+					"id_str": "1179566214776885248",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EF6rKbDUcAEIwae.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF6rKbDUcAEIwae.jpg",
+					"url": "https://t.co/86oAAsLv6r",
+					"display_url": "pic.twitter.com/86oAAsLv6r",
+					"expanded_url": "https://twitter.com/MSFTMechanics/status/1182253441055363073/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179566214776885200,
+					"id_str": "1179566214776885248",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EF6rKbDUcAEIwae.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EF6rKbDUcAEIwae.jpg",
+					"url": "https://t.co/86oAAsLv6r",
+					"display_url": "pic.twitter.com/86oAAsLv6r",
+					"expanded_url": "https://twitter.com/MSFTMechanics/status/1182253441055363073/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53177,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1179566214776885248/pl/A4EH_Mb_YZbn2ig_.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1179566214776885248/vid/640x360/guDPblnNtWSEMW2k.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1179566214776885248/vid/480x270/22G40n7xD0qySir6.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1179566214776885248/vid/1280x720/aHK5cj1XJtiAsls-.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Surface Pro X – Specs, Tech, and Demo",
+						"description": "Behind the design of our Surface Pro X with Microsoft Surface engineer, Jochen Siegl. Demos of the design, internals, and technical specifications.",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/ucxShAm5660"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1648629770,
+			"id_str": "1648629770",
+			"name": "Microsoft Mechanics",
+			"screen_name": "MSFTMechanics",
+			"location": "Online and major MSFT events",
+			"description": "Microsoft's official video series for IT Pros. Watch and share valuable content/demos on upcoming and current tech from the people who build it at #Microsoft.",
+			"url": "https://t.co/WS0yjdxKvr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WS0yjdxKvr",
+							"expanded_url": "http://Microsoft.com/Mechanics",
+							"display_url": "Microsoft.com/Mechanics",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127156,
+			"friends_count": 459,
+			"listed_count": 1343,
+			"created_at": "Mon Aug 05 20:37:16 +0000 2013",
+			"favourites_count": 1114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "595959",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054809830802636801/i2hnDvVU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054809830802636801/i2hnDvVU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1648629770/1515820687",
+			"profile_link_color": "0078DC",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2880x1920 pixels, a brightness of 450 nits and the magic 3:2 aspect ratio. Go deep on the tech of Surface Pro X, a demo that only @MSFTMechanics can bring you. https://t.co/5mLg3DniQP https://t.co/86oAAsLv6r"
+	},
+	{
 		"created_at": "Thu Oct 10 10:27:42 +0000 2019",
 		"id": 1182241286251847700,
 		"id_str": "1182241286251847680",
