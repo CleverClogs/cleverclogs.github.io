@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 11 20:48:01 +0000 2019",
+		"id": 1182732601162780700,
+		"id_str": "1182759783767646209",
+		"full_text": "Looking for ways to spruce up your Wakelet collections? \n\nThis blogpost by @CleverClogs gives some great tips for content curation with Wakelet! \n\nWell worth the read! 👌💙 #WakeletWave\n\nhttps://t.co/i64koT4VAt https://t.co/Z3l3eGRmLN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WakeletWave",
+					"indices": [
+						171,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CleverClogs",
+					"name": "Marjolein Hoekstra",
+					"id": 1424471,
+					"id_str": "1424471",
+					"indices": [
+						75,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i64koT4VAt",
+					"expanded_url": "https://blog.wakelet.com/2019/10/11/content-curation-with-wakelet/",
+					"display_url": "blog.wakelet.com/2019/10/11/con…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1182701139906781200,
+					"id_str": "1182701139906781184",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EGnMa6eX4AATLPU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGnMa6eX4AATLPU.jpg",
+					"url": "https://t.co/Z3l3eGRmLN",
+					"display_url": "pic.twitter.com/Z3l3eGRmLN",
+					"expanded_url": "https://twitter.com/wakelet/status/1182732601162780674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182701139906781200,
+					"id_str": "1182701139906781184",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EGnMa6eX4AATLPU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGnMa6eX4AATLPU.jpg",
+					"url": "https://t.co/Z3l3eGRmLN",
+					"display_url": "pic.twitter.com/Z3l3eGRmLN",
+					"expanded_url": "https://twitter.com/wakelet/status/1182732601162780674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169922611,
+			"id_str": "169922611",
+			"name": "Wakelet",
+			"screen_name": "wakelet",
+			"location": "Earth",
+			"description": "Save, organize and share content from across the web. Also on iOS & Android. Need help? Tweet @WakeletSupport #WakeletWave 🌊#TheHumansAreComing 🤖💙",
+			"url": "https://t.co/SUrUncXo54",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SUrUncXo54",
+							"expanded_url": "https://www.wakelet.com",
+							"display_url": "wakelet.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15387,
+			"friends_count": 1838,
+			"listed_count": 295,
+			"created_at": "Fri Jul 23 14:12:25 +0000 2010",
+			"favourites_count": 21770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138473610513977344/ZziVrnr6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138473610513977344/ZziVrnr6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169922611/1560342846",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking for ways to spruce up your Wakelet collections? \n\nThis blogpost by @CleverClogs gives some great tips for content curation with Wakelet! \n\nWell worth the read! 👌💙 #WakeletWave\n\nhttps://t.co/i64koT4VAt https://t.co/Z3l3eGRmLN"
+	},
+	{
 		"created_at": "Fri Oct 11 18:30:52 +0000 2019",
 		"id": 1182725268596764700,
 		"id_str": "1182725268596764672",
