@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 11 16:15:24 +0000 2019",
+		"id": 1182691174798315500,
+		"id_str": "1182691174798315520",
+		"full_text": "#OneNote teachers, here's a great post with 5 tips and best practices how you and your students can benefit from OneNote Class Notebook. \n\nNice write-up, @MiddletonHist! https://t.co/9Er6eBuPeR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MiddletonHist",
+					"name": "Paul Middleton",
+					"id": 607358437,
+					"id_str": "607358437",
+					"indices": [
+						154,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9Er6eBuPeR",
+					"expanded_url": "https://twitter.com/MiddletonHist/status/1182688933798391808",
+					"display_url": "twitter.com/MiddletonHist/…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22621,
+			"friends_count": 7602,
+			"listed_count": 642,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1569512582",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182688933798391800,
+		"quoted_status_id_str": "1182688933798391808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9Er6eBuPeR",
+			"expanded": "https://twitter.com/MiddletonHist/status/1182688933798391808",
+			"display": "twitter.com/MiddletonHist/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 11 16:06:29 +0000 2019",
+			"id": 1182688933798391800,
+			"id_str": "1182688933798391808",
+			"full_text": "For all you OneNote users out there, I have created another post that features 5 of the best tips and tricks for teachers. Now you have made your Class Notebooks, let's unleash their potential... https://t.co/NeEJbqG2U8 #OneNote @OneNoteEDU @OneNoteC @microsofteduca @mtholfsen",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							220,
+							228
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							229,
+							240
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							241,
+							250
+						]
+					},
+					{
+						"screen_name": "MicrosoftEduCA",
+						"name": "Microsoft in Education Canada",
+						"id": 405043996,
+						"id_str": "405043996",
+						"indices": [
+							251,
+							266
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							267,
+							277
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NeEJbqG2U8",
+						"expanded_url": "https://www.teacherbreakdown.co.uk/post/a-breakdown-of-onenote-part-ii",
+						"display_url": "teacherbreakdown.co.uk/post/a-breakdo…",
+						"indices": [
+							196,
+							219
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 607358437,
+				"id_str": "607358437",
+				"name": "Paul Middleton",
+				"screen_name": "MiddletonHist",
+				"location": "",
+				"description": "History HoD, Chartered Teacher and 2019 Churchill Fellow 👨🏻‍🏫 Researching ways to improve the retention of early-career teachers. All views are my own.",
+				"url": "https://t.co/KnWocgYjff",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KnWocgYjff",
+								"expanded_url": "https://www.teacherbreakdown.co.uk/",
+								"display_url": "teacherbreakdown.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 634,
+				"friends_count": 572,
+				"listed_count": 9,
+				"created_at": "Wed Jun 13 16:36:38 +0000 2012",
+				"favourites_count": 1480,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2768,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1167168781250154498/vPvpwQdZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167168781250154498/vPvpwQdZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/607358437/1552754708",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OneNote teachers, here's a great post with 5 tips and best practices how you and your students can benefit from OneNote Class Notebook. \n\nNice write-up, @MiddletonHist! https://t.co/9Er6eBuPeR"
+	},
+	{
 		"created_at": "Thu Oct 10 14:33:41 +0000 2019",
 		"id": 1182253441055363000,
 		"id_str": "1182303189707702273",
