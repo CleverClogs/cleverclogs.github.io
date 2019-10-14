@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 20:10:12 +0000 2019",
+		"id": 1183836286341320700,
+		"id_str": "1183837431075934210",
+		"full_text": "NEW! \"#Dyslexia Awareness, Part 2\" course is out on the Microsoft Educator Community 🎉 This course was created in partnership between @MadeByDyslexia &amp; #MicrosoftEDU.  \n \nExcellent &amp; FREE PD available for any educator, school or parent. #MIEExpert\n\n👉 https://t.co/8QjfstKANB https://t.co/X8Nahy66K7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dyslexia",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						156,
+						169
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						245,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadeByDyslexia",
+					"name": "Made By Dyslexia",
+					"id": 846743880661942300,
+					"id_str": "846743880661942273",
+					"indices": [
+						134,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8QjfstKANB",
+					"expanded_url": "https://education.microsoft.com/courses-and-resources/courses/dyslexia-awareness-part-2-in-partnership-with-made-by-dyslexia",
+					"display_url": "education.microsoft.com/courses-and-re…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1183836270042271700,
+					"id_str": "1183836270042271745",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EG3U0LwX0AE_d0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG3U0LwX0AE_d0t.jpg",
+					"url": "https://t.co/X8Nahy66K7",
+					"display_url": "pic.twitter.com/X8Nahy66K7",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1183836286341320705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 939,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1210,
+							"h": 947,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183836270042271700,
+					"id_str": "1183836270042271745",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EG3U0LwX0AE_d0t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG3U0LwX0AE_d0t.jpg",
+					"url": "https://t.co/X8Nahy66K7",
+					"display_url": "pic.twitter.com/X8Nahy66K7",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1183836286341320705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 939,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1210,
+							"h": 947,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21584,
+			"friends_count": 3439,
+			"listed_count": 764,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 80440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! \"#Dyslexia Awareness, Part 2\" course is out on the Microsoft Educator Community 🎉 This course was created in partnership between @MadeByDyslexia &amp; #MicrosoftEDU.  \n \nExcellent &amp; FREE PD available for any educator, school or parent. #MIEExpert\n\n👉 https://t.co/8QjfstKANB https://t.co/X8Nahy66K7"
+	},
+	{
 		"created_at": "Sun Oct 13 22:32:07 +0000 2019",
 		"id": 1183370878635126800,
 		"id_str": "1183510754764476416",
