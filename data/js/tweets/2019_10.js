@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 21:59:45 +0000 2019",
+		"id": 1184216195161084000,
+		"id_str": "1184227384733687809",
+		"full_text": "Dark mode for OneNote is here. Try it out in your favorite note-taking app today. #DarkMode #OneNote https://t.co/op5YruWbSy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DarkMode",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1184216126827446300,
+					"id_str": "1184216126827446272",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184216126827446272/pu/img/3ZdPvPsSCnVzmAy7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184216126827446272/pu/img/3ZdPvPsSCnVzmAy7.jpg",
+					"url": "https://t.co/op5YruWbSy",
+					"display_url": "pic.twitter.com/op5YruWbSy",
+					"expanded_url": "https://twitter.com/Microsoft365/status/1184216195161083905/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184216126827446300,
+					"id_str": "1184216126827446272",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1184216126827446272/pu/img/3ZdPvPsSCnVzmAy7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1184216126827446272/pu/img/3ZdPvPsSCnVzmAy7.jpg",
+					"url": "https://t.co/op5YruWbSy",
+					"display_url": "pic.twitter.com/op5YruWbSy",
+					"expanded_url": "https://twitter.com/Microsoft365/status/1184216195161083905/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184216126827446272/pu/vid/480x270/0k2ObvTWxVR44_zG.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184216126827446272/pu/vid/640x360/77ls6eDfVVX8I1j6.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1184216126827446272/pu/vid/1280x720/zU6kPiWvGKb7EpTS.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1184216126827446272/pu/pl/hnw4opYe3XLXALq-.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 898250146797846500,
+			"id_str": "898250146797846528",
+			"name": "Microsoft 365",
+			"screen_name": "Microsoft365",
+			"location": "Redmond, WA",
+			"description": "Microsoft 365 is the productivity cloud that combines best-in-class productivity apps with intelligent cloud services that transform the way you work.",
+			"url": "https://t.co/vPgi9y7gr7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vPgi9y7gr7",
+							"expanded_url": "https://www.microsoft.com/microsoft-365",
+							"display_url": "microsoft.com/microsoft-365",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90295,
+			"friends_count": 49,
+			"listed_count": 383,
+			"created_at": "Thu Aug 17 18:28:18 +0000 2017",
+			"favourites_count": 406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065037629119356930/rHig22Cd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065037629119356930/rHig22Cd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/898250146797846528/1557418910",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dark mode for OneNote is here. Try it out in your favorite note-taking app today. #DarkMode #OneNote https://t.co/op5YruWbSy"
+	},
+	{
 		"created_at": "Tue Oct 15 14:38:22 +0000 2019",
 		"id": 1184075205473423400,
 		"id_str": "1184116306984914946",
