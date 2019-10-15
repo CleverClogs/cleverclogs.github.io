@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 12:31:29 +0000 2019",
+		"id": 1184084242004873200,
+		"id_str": "1184084379083169794",
+		"full_text": "NEW! Today at #EduDag in Oslo, we announced that Norwegian is coming to Dictation 🎙 in Office this October!!! More Dictation languages rolling out in winter. Vi gleder oss 🎉 #MIEExpert #MicrosoftEDU\n \n🇳🇴 Norwegian\n🇸🇪 Swedish\n🇫🇮 Finnish\n🇩🇰 Danish\n🇳🇱 Dutch https://t.co/1ozd0eIXrT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EduDag",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						185,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1184084229854056400,
+					"id_str": "1184084229854056448",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EG62VWCX0AAKFqE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG62VWCX0AAKFqE.jpg",
+					"url": "https://t.co/1ozd0eIXrT",
+					"display_url": "pic.twitter.com/1ozd0eIXrT",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1184084242004873219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184084229854056400,
+					"id_str": "1184084229854056448",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EG62VWCX0AAKFqE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG62VWCX0AAKFqE.jpg",
+					"url": "https://t.co/1ozd0eIXrT",
+					"display_url": "pic.twitter.com/1ozd0eIXrT",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1184084242004873219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21604,
+			"friends_count": 3439,
+			"listed_count": 764,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 80562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Today at #EduDag in Oslo, we announced that Norwegian is coming to Dictation 🎙 in Office this October!!! More Dictation languages rolling out in winter. Vi gleder oss 🎉 #MIEExpert #MicrosoftEDU\n \n🇳🇴 Norwegian\n🇸🇪 Swedish\n🇫🇮 Finnish\n🇩🇰 Danish\n🇳🇱 Dutch https://t.co/1ozd0eIXrT"
+	},
+	{
 		"created_at": "Tue Oct 15 10:36:41 +0000 2019",
 		"id": 1184055486410383400,
 		"id_str": "1184055486410383362",
