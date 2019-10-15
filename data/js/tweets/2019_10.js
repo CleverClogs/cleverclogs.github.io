@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 14:38:22 +0000 2019",
+		"id": 1184075205473423400,
+		"id_str": "1184116306984914946",
+		"full_text": "🎈 Got your TweetMeet Friend Card ready for event time yet?\n\nYou can make one now. \nEdit the PowerPoint linked below, insert your photo and explain what excites you about #STEM and NASA:\nhttps://t.co/C7O0gPEJDo\n\nSee you shortly!\n#HackingSTEM #SpaceEd\n#MSFTEduChat #MicrosoftEDU https://t.co/iA5qJzsTQh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STEM",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "HackingSTEM",
+					"indices": [
+						228,
+						240
+					]
+				},
+				{
+					"text": "SpaceEd",
+					"indices": [
+						241,
+						249
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						250,
+						262
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						263,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C7O0gPEJDo",
+					"expanded_url": "https://twt.mt/tweetmeet-friend-card",
+					"display_url": "twt.mt/tweetmeet-frie…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1184075203082707000,
+					"id_str": "1184075203082706944",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EG6uH6sX4AAv2-8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG6uH6sX4AAv2-8.jpg",
+					"url": "https://t.co/iA5qJzsTQh",
+					"display_url": "pic.twitter.com/iA5qJzsTQh",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1184075205473423361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184075203082707000,
+					"id_str": "1184075203082706944",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EG6uH6sX4AAv2-8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG6uH6sX4AAv2-8.jpg",
+					"url": "https://t.co/iA5qJzsTQh",
+					"display_url": "pic.twitter.com/iA5qJzsTQh",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1184075205473423361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. Team TweetMeet: Marjolein Hoekstra, @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3760,
+			"friends_count": 3283,
+			"listed_count": 31,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 4184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1569071998",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 Got your TweetMeet Friend Card ready for event time yet?\n\nYou can make one now. \nEdit the PowerPoint linked below, insert your photo and explain what excites you about #STEM and NASA:\nhttps://t.co/C7O0gPEJDo\n\nSee you shortly!\n#HackingSTEM #SpaceEd\n#MSFTEduChat #MicrosoftEDU https://t.co/iA5qJzsTQh"
+	},
+	{
 		"created_at": "Tue Oct 15 12:31:29 +0000 2019",
 		"id": 1184084242004873200,
 		"id_str": "1184084379083169794",
