@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 16 11:30:02 +0000 2019",
+		"id": 1183844811696230400,
+		"id_str": "1184431300243066880",
+		"full_text": "Missed the @MadeByDyslexia live stream? \n\nNo worries, it's on YouTube already. Interesting conversation with @Design2Research from @Flipgrid.\n\nhttps://t.co/x2ipkBUJ0d\n\nMore names: @Kate_Griggs @RobynCurnowCNN, space scientist Maggie Aderin-Pocock, @ChrisCapossela @RichardBranson",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MadeByDyslexia",
+					"name": "Made By Dyslexia",
+					"id": 846743880661942300,
+					"id_str": "846743880661942273",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "design2research",
+					"name": "Dr. Charlie Miller",
+					"id": 66801342,
+					"id_str": "66801342",
+					"indices": [
+						109,
+						125
+					]
+				},
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"screen_name": "kate_griggs",
+					"name": "kate griggs",
+					"id": 417895877,
+					"id_str": "417895877",
+					"indices": [
+						180,
+						192
+					]
+				},
+				{
+					"screen_name": "RobynCurnowCNN",
+					"name": "Robyn Curnow",
+					"id": 87476737,
+					"id_str": "87476737",
+					"indices": [
+						193,
+						208
+					]
+				},
+				{
+					"screen_name": "chriscapossela",
+					"name": "Chris Capossela",
+					"id": 18818598,
+					"id_str": "18818598",
+					"indices": [
+						248,
+						263
+					]
+				},
+				{
+					"screen_name": "richardbranson",
+					"name": "Richard Branson",
+					"id": 8161232,
+					"id_str": "8161232",
+					"indices": [
+						264,
+						279
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x2ipkBUJ0d",
+					"expanded_url": "https://www.youtube.com/watch?v=tqmjqUxoFxA",
+					"display_url": "youtube.com/watch?v=tqmjqU…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22653,
+			"friends_count": 7604,
+			"listed_count": 640,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1569512582",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Missed the @MadeByDyslexia live stream? \n\nNo worries, it's on YouTube already. Interesting conversation with @Design2Research from @Flipgrid.\n\nhttps://t.co/x2ipkBUJ0d\n\nMore names: @Kate_Griggs @RobynCurnowCNN, space scientist Maggie Aderin-Pocock, @ChrisCapossela @RichardBranson"
+	},
+	{
 		"created_at": "Tue Oct 15 21:59:45 +0000 2019",
 		"id": 1184216195161084000,
 		"id_str": "1184227384733687809",
