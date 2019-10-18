@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 12:50:58 +0000 2019",
+		"id": 1185176445271920600,
+		"id_str": "1185176445271920640",
+		"full_text": "Inspiring coverage and interviews with @Kate_Griggs from @MadeByDyslexia, and space scientist Maggie Adderin Pocock.\n\nJust great, @DoctorET. Seen these two #Dyslexia Awareness courses yet?\n1: https://t.co/01vnNQ7a4e\n2: https://t.co/pfo7w1hQp3\ncc @MTholfsen\nhttps://t.co/8QIZQtJr3K https://t.co/5QZ3L1kqLw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dyslexia",
+					"indices": [
+						156,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kate_griggs",
+					"name": "kate griggs",
+					"id": 417895877,
+					"id_str": "417895877",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"screen_name": "MadeByDyslexia",
+					"name": "Made By Dyslexia",
+					"id": 846743880661942300,
+					"id_str": "846743880661942273",
+					"indices": [
+						57,
+						72
+					]
+				},
+				{
+					"screen_name": "DoctorET",
+					"name": "Dr. Edward Tse - Ed on EdTech",
+					"id": 160094489,
+					"id_str": "160094489",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						246,
+						256
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/01vnNQ7a4e",
+					"expanded_url": "https://education.microsoft.com/courses-and-resources/courses/dyslexia-awareness-in-partnership-with-made-by-dyslexia",
+					"display_url": "education.microsoft.com/courses-and-re…",
+					"indices": [
+						192,
+						215
+					]
+				},
+				{
+					"url": "https://t.co/pfo7w1hQp3",
+					"expanded_url": "https://education.microsoft.com/courses-and-resources/courses/dyslexia-awareness-part-2-in-partnership-with-made-by-dyslexia",
+					"display_url": "education.microsoft.com/courses-and-re…",
+					"indices": [
+						219,
+						242
+					]
+				},
+				{
+					"url": "https://t.co/8QIZQtJr3K",
+					"expanded_url": "https://www.youtube.com/watch?v=NdrBpOV67DY",
+					"display_url": "youtube.com/watch?v=NdrBpO…",
+					"indices": [
+						257,
+						280
+					]
+				},
+				{
+					"url": "https://t.co/5QZ3L1kqLw",
+					"expanded_url": "https://twitter.com/DoctorET/status/1183761034290614276",
+					"display_url": "twitter.com/DoctorET/statu…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22680,
+			"friends_count": 7606,
+			"listed_count": 643,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1569512582",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1183761034290614300,
+		"quoted_status_id_str": "1183761034290614276",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5QZ3L1kqLw",
+			"expanded": "https://twitter.com/DoctorET/status/1183761034290614276",
+			"display": "twitter.com/DoctorET/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 14 15:06:38 +0000 2019",
+			"id": 1183761034290614300,
+			"id_str": "1183761034290614276",
+			"full_text": "This #DyslexiaAwarenessMonth, learn how to teach students about #dyslexia in school and build awareness and empathy with these tips from @MadeByDyslexia Founder @Kate_Griggs and Space Scientist and Author #DrMaggieAderinPocock in this video.  https://t.co/xZSHHP5odQ https://t.co/7lbUvAJqvA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DyslexiaAwarenessMonth",
+						"indices": [
+							5,
+							28
+						]
+					},
+					{
+						"text": "dyslexia",
+						"indices": [
+							64,
+							73
+						]
+					},
+					{
+						"text": "DrMaggieAderinPocock",
+						"indices": [
+							205,
+							226
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MadeByDyslexia",
+						"name": "Made By Dyslexia",
+						"id": 846743880661942300,
+						"id_str": "846743880661942273",
+						"indices": [
+							137,
+							152
+						]
+					},
+					{
+						"screen_name": "kate_griggs",
+						"name": "kate griggs",
+						"id": 417895877,
+						"id_str": "417895877",
+						"indices": [
+							161,
+							173
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xZSHHP5odQ",
+						"expanded_url": "https://hubs.ly/H0ldK7n0",
+						"display_url": "hubs.ly/H0ldK7n0",
+						"indices": [
+							243,
+							266
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1183760978741256200,
+						"id_str": "1183760978741256193",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183760978741256193/pu/img/JOxowv4vJJN3omOI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183760978741256193/pu/img/JOxowv4vJJN3omOI.jpg",
+						"url": "https://t.co/7lbUvAJqvA",
+						"display_url": "pic.twitter.com/7lbUvAJqvA",
+						"expanded_url": "https://twitter.com/DoctorET/status/1183761034290614276/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 526,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 497,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 526,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1183760978741256200,
+						"id_str": "1183760978741256193",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1183760978741256193/pu/img/JOxowv4vJJN3omOI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1183760978741256193/pu/img/JOxowv4vJJN3omOI.jpg",
+						"url": "https://t.co/7lbUvAJqvA",
+						"display_url": "pic.twitter.com/7lbUvAJqvA",
+						"expanded_url": "https://twitter.com/DoctorET/status/1183761034290614276/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 526,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 497,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 526,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								360,
+								263
+							],
+							"duration_millis": 37280,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1183760978741256193/pu/pl/ivldpWdlPOxfDaVv.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1183760978741256193/pu/vid/368x270/gubw4plbjJWOQ6uV.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1183760978741256193/pu/vid/492x360/JXIdkvSUDcWlLrId.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1183760978741256193/pu/vid/720x526/8Z6ZNc-udG_SxW-b.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 160094489,
+				"id_str": "160094489",
+				"name": "Dr. Edward Tse - Ed on EdTech",
+				"screen_name": "DoctorET",
+				"location": "Calgary",
+				"description": "Global EdTech Leader @AdvocateforEd . #YouTuber: Ed on #EdTech! VP Strategy and Content @MultiTeach. @BMRose_CCSD School Council Chair",
+				"url": "https://t.co/Fv0XWAEheb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Fv0XWAEheb",
+								"expanded_url": "https://linktr.ee/doctor.et",
+								"display_url": "linktr.ee/doctor.et",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1694,
+				"friends_count": 2427,
+				"listed_count": 37,
+				"created_at": "Sun Jun 27 05:01:30 +0000 2010",
+				"favourites_count": 2468,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1700,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1302287069/Head_Low_Res_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1302287069/Head_Low_Res_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/160094489/1565967543",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inspiring coverage and interviews with @Kate_Griggs from @MadeByDyslexia, and space scientist Maggie Adderin Pocock.\n\nJust great, @DoctorET. Seen these two #Dyslexia Awareness courses yet?\n1: https://t.co/01vnNQ7a4e\n2: https://t.co/pfo7w1hQp3\ncc @MTholfsen\nhttps://t.co/8QIZQtJr3K https://t.co/5QZ3L1kqLw"
+	},
+	{
 		"created_at": "Thu Oct 17 20:16:41 +0000 2019",
 		"id": 1184926222830186500,
 		"id_str": "1184926222830186503",
