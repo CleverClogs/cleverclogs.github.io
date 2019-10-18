@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 17:50:50 +0000 2019",
+		"id": 1185251909957017600,
+		"id_str": "1185251909957017600",
+		"full_text": "✍  Did I hear you say you badly wanted Word Count in #OneNote?\n\nLook below. @benminnn from the #OneNote team is teasing Word Count is coming and not just that:\n- Word Count\n- Comments - oh my!\n- Text boxes \n- Footnotes and endnotes - whaaaaat?!\n\nNow, what about Paragraphs, Ben? https://t.co/BXwUP8Yors",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						76,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BXwUP8Yors",
+					"expanded_url": "https://twitter.com/benminnn/status/1184906810127343616",
+					"display_url": "twitter.com/benminnn/statu…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22685,
+			"friends_count": 7610,
+			"listed_count": 642,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1569512582",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184906810127343600,
+		"quoted_status_id_str": "1184906810127343616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BXwUP8Yors",
+			"expanded": "https://twitter.com/benminnn/status/1184906810127343616",
+			"display": "twitter.com/benminnn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 17 18:59:32 +0000 2019",
+			"id": 1184906810127343600,
+			"id_str": "1184906810127343616",
+			"full_text": "@BeckyKeene @kerszi @NotedByRyan @mtholfsen hmmm, what about something sorta like this? https://t.co/IuKnVwCEQU",
+			"truncated": false,
+			"display_text_range": [
+				44,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BeckyKeene",
+						"name": "Becky Keene",
+						"id": 253925945,
+						"id_str": "253925945",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "kerszi",
+						"name": "Kathi Kersznowski",
+						"id": 595079922,
+						"id_str": "595079922",
+						"indices": [
+							12,
+							19
+						]
+					},
+					{
+						"screen_name": "NotedByRyan",
+						"name": "Ryan McMinn",
+						"id": 729049944133226500,
+						"id_str": "729049944133226496",
+						"indices": [
+							20,
+							32
+						]
+					},
+					{
+						"screen_name": "mtholfsen",
+						"name": "Mike Tholfsen",
+						"id": 27673327,
+						"id_str": "27673327",
+						"indices": [
+							33,
+							43
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1184906807363264500,
+						"id_str": "1184906807363264513",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EHGidqDUYAEbuKk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHGidqDUYAEbuKk.jpg",
+						"url": "https://t.co/IuKnVwCEQU",
+						"display_url": "pic.twitter.com/IuKnVwCEQU",
+						"expanded_url": "https://twitter.com/benminnn/status/1184906810127343616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 694,
+								"h": 507,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 694,
+								"h": 507,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 497,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1184906807363264500,
+						"id_str": "1184906807363264513",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EHGidqDUYAEbuKk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHGidqDUYAEbuKk.jpg",
+						"url": "https://t.co/IuKnVwCEQU",
+						"display_url": "pic.twitter.com/IuKnVwCEQU",
+						"expanded_url": "https://twitter.com/benminnn/status/1184906810127343616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 694,
+								"h": 507,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 694,
+								"h": 507,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 497,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1184633336519544800,
+			"in_reply_to_status_id_str": "1184633336519544832",
+			"in_reply_to_user_id": 253925945,
+			"in_reply_to_user_id_str": "253925945",
+			"in_reply_to_screen_name": "BeckyKeene",
+			"user": {
+				"id": 15697208,
+				"id_str": "15697208",
+				"name": "Ben Hodes",
+				"screen_name": "benminnn",
+				"location": "Seattle, WA",
+				"description": "Area Man, PM Manager OneNote",
+				"url": "https://t.co/L80RszWp0N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L80RszWp0N",
+								"expanded_url": "http://thisisaponzischeme.com",
+								"display_url": "thisisaponzischeme.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 718,
+				"friends_count": 189,
+				"listed_count": 20,
+				"created_at": "Sat Aug 02 02:08:04 +0000 2008",
+				"favourites_count": 653,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 447,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164364740220477440/e46To4v__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164364740220477440/e46To4v__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15697208/1507162195",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✍  Did I hear you say you badly wanted Word Count in #OneNote?\n\nLook below. @benminnn from the #OneNote team is teasing Word Count is coming and not just that:\n- Word Count\n- Comments - oh my!\n- Text boxes \n- Footnotes and endnotes - whaaaaat?!\n\nNow, what about Paragraphs, Ben? https://t.co/BXwUP8Yors"
+	},
+	{
 		"created_at": "Fri Oct 18 12:50:58 +0000 2019",
 		"id": 1185176445271920600,
 		"id_str": "1185176445271920640",
