@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 11:48:44 +0000 2019",
+		"id": 1185521777830703000,
+		"id_str": "1185523172562669568",
+		"full_text": "🤝 Educators new to today's Connected Educator Appreciation Day, read this:\n\nAt 9:30 EDT the #CEduAD founders welcome you for a Zoom session explaining how to participate. See below.\n\nLocal times for this introductory session specifically:\nhttps://t.co/vPH0aPlQvL\n#MIEExpert https://t.co/Q6KSFCtBp3 https://t.co/7BJPhtsXfU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			297
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CEduAD",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						263,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vPH0aPlQvL",
+					"expanded_url": "https://timeanddate.com/s/3zxp",
+					"display_url": "timeanddate.com/s/3zxp",
+					"indices": [
+						239,
+						262
+					]
+				},
+				{
+					"url": "https://t.co/Q6KSFCtBp3",
+					"expanded_url": "https://twitter.com/ConEduAD/status/1185144003064451073",
+					"display_url": "twitter.com/ConEduAD/statu…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1185521769421123600,
+					"id_str": "1185521769421123584",
+					"indices": [
+						298,
+						321
+					],
+					"media_url": "http://pbs.twimg.com/media/EHPRxKPWsAALVuz.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHPRxKPWsAALVuz.png",
+					"url": "https://t.co/7BJPhtsXfU",
+					"display_url": "pic.twitter.com/7BJPhtsXfU",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1185521777830703104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 685,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1476,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185521769421123600,
+					"id_str": "1185521769421123584",
+					"indices": [
+						298,
+						321
+					],
+					"media_url": "http://pbs.twimg.com/media/EHPRxKPWsAALVuz.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHPRxKPWsAALVuz.png",
+					"url": "https://t.co/7BJPhtsXfU",
+					"display_url": "pic.twitter.com/7BJPhtsXfU",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1185521777830703104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 685,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1476,
+							"h": 842,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat #CEduAD",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. Team TweetMeet: Marjolein Hoekstra, @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3796,
+			"friends_count": 3295,
+			"listed_count": 32,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1571321995",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185144003064451000,
+		"quoted_status_id_str": "1185144003064451073",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Q6KSFCtBp3",
+			"expanded": "https://twitter.com/ConEduAD/status/1185144003064451073",
+			"display": "twitter.com/ConEduAD/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 18 10:42:03 +0000 2019",
+			"id": 1185144003064451000,
+			"id_str": "1185144003064451073",
+			"full_text": "For those of you unaware of #CEduAD, join 3 of the co-founders before the first session for a chat, at 9:30 Eastern Time.\nClick to join at 930, Saturday - https://t.co/o4TpH3t85M\n#NewPowerEducation #connected\n@Butkovicedu @tamcdonald @cassiereederedu @fillthegaplearn https://t.co/N49ykR2CYP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CEduAD",
+						"indices": [
+							28,
+							35
+						]
+					},
+					{
+						"text": "NewPowerEducation",
+						"indices": [
+							179,
+							197
+						]
+					},
+					{
+						"text": "connected",
+						"indices": [
+							198,
+							208
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Butkovicedu",
+						"name": "Vlatka Butkovic",
+						"id": 3089524283,
+						"id_str": "3089524283",
+						"indices": [
+							209,
+							221
+						]
+					},
+					{
+						"screen_name": "tamcdonald",
+						"name": "Tim McDonald #CEduAD",
+						"id": 15259875,
+						"id_str": "15259875",
+						"indices": [
+							222,
+							233
+						]
+					},
+					{
+						"screen_name": "cassiereederedu",
+						"name": "Cassie Reeder",
+						"id": 3034743278,
+						"id_str": "3034743278",
+						"indices": [
+							234,
+							250
+						]
+					},
+					{
+						"screen_name": "fillthegaplearn",
+						"name": "Michael Sinclair - Fill the Gap Learning Ltd",
+						"id": 4213210755,
+						"id_str": "4213210755",
+						"indices": [
+							251,
+							267
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/o4TpH3t85M",
+						"expanded_url": "https://zoom.us/j/451786131",
+						"display_url": "zoom.us/j/451786131",
+						"indices": [
+							155,
+							178
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1185143976233451500,
+						"id_str": "1185143976233451521",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EHJ6Ks8WwAEaK0L.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EHJ6Ks8WwAEaK0L.jpg",
+						"url": "https://t.co/N49ykR2CYP",
+						"display_url": "pic.twitter.com/N49ykR2CYP",
+						"expanded_url": "https://twitter.com/ConEduAD/status/1185144003064451073/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1185143976233451500,
+						"id_str": "1185143976233451521",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EHJ6Ks8WwAEaK0L.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EHJ6Ks8WwAEaK0L.jpg",
+						"url": "https://t.co/N49ykR2CYP",
+						"display_url": "pic.twitter.com/N49ykR2CYP",
+						"expanded_url": "https://twitter.com/ConEduAD/status/1185144003064451073/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EHJ6Ks8WwAEaK0L.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 975725736857407500,
+				"id_str": "975725736857407488",
+				"name": "#CEduAD",
+				"screen_name": "ConEduAD",
+				"location": "",
+				"description": "#CEduAD was created in order to highlight, celebrate and acknowledge what connected educators do to help inspire our future. Join the talks...",
+				"url": "https://t.co/cwSdzQBS0N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cwSdzQBS0N",
+								"expanded_url": "https://CEduAD.com",
+								"display_url": "CEduAD.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 810,
+				"friends_count": 4994,
+				"listed_count": 7,
+				"created_at": "Mon Mar 19 13:28:38 +0000 2018",
+				"favourites_count": 1957,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1947,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1045699008646320129/c56Zk4ru_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045699008646320129/c56Zk4ru_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/975725736857407488/1563737591",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🤝 Educators new to today's Connected Educator Appreciation Day, read this:\n\nAt 9:30 EDT the #CEduAD founders welcome you for a Zoom session explaining how to participate. See below.\n\nLocal times for this introductory session specifically:\nhttps://t.co/vPH0aPlQvL\n#MIEExpert https://t.co/Q6KSFCtBp3 https://t.co/7BJPhtsXfU"
+	},
+	{
 		"created_at": "Fri Oct 18 23:33:31 +0000 2019",
 		"id": 1184926222830186500,
 		"id_str": "1185338149406461952",
