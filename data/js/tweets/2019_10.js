@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 21 18:25:07 +0000 2019",
+		"id": 1186347209920376800,
+		"id_str": "1186347700163403777",
+		"full_text": "About a year ago, former Acompli co-founder and Microsoft Corp. Vice President Javier Soltero left Microsoft. Today he announced his new job: Running G Suite at Google: https://t.co/5rZ3g49O1q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5rZ3g49O1q",
+					"expanded_url": "https://www.zdnet.com/article/former-microsoft-exec-javier-soltero-to-lead-the-google-g-suite-team/",
+					"display_url": "zdnet.com/article/former…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49465463,
+			"id_str": "49465463",
+			"name": "Mary Jo Foley",
+			"screen_name": "maryjofoley",
+			"location": "",
+			"description": "I am All About Microsoft on ZDNet (http://t.co/qJf6Vbi9nq). Oh, and I am also sometimes (more often than not) all about craft beer.",
+			"url": "http://t.co/qJf6Vbi9nq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/qJf6Vbi9nq",
+							"expanded_url": "http://blogs.zdnet.com/microsoft",
+							"display_url": "blogs.zdnet.com/microsoft",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/qJf6Vbi9nq",
+							"expanded_url": "http://blogs.zdnet.com/microsoft",
+							"display_url": "blogs.zdnet.com/microsoft",
+							"indices": [
+								35,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 155695,
+			"friends_count": 839,
+			"listed_count": 4994,
+			"created_at": "Sun Jun 21 23:27:27 +0000 2009",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000753355771/896be4d4eb730289f086ad7a0a8ea651_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000753355771/896be4d4eb730289f086ad7a0a8ea651_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49465463/1398286082",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "B0ADDB",
+			"profile_sidebar_fill_color": "CCE9FF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "About a year ago, former Acompli co-founder and Microsoft Corp. Vice President Javier Soltero left Microsoft. Today he announced his new job: Running G Suite at Google: https://t.co/5rZ3g49O1q"
+	},
+	{
 		"created_at": "Sun Oct 20 23:50:31 +0000 2019",
 		"id": 1185648625063465000,
 		"id_str": "1186067200937005056",
