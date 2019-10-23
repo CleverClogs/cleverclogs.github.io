@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 20:09:04 +0000 2019",
+		"id": 1187097401225597000,
+		"id_str": "1187098636460662787",
+		"full_text": "Thrilled to announce that the @MicrosoftEDU  Immersive reader integration has levelled up on @wakelet via its application to the functionality of the all new Read mode feature!! 👀🥳🙌\n\n Check it out now 👇\n\nhttps://t.co/M1NbI6kKCn\n\n#wakeletwave #BetterTogether  #MIEExpert https://t.co/YYtad7v46M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wakeletwave",
+					"indices": [
+						229,
+						241
+					]
+				},
+				{
+					"text": "BetterTogether",
+					"indices": [
+						242,
+						257
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						259,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M1NbI6kKCn",
+					"expanded_url": "https://www.youtube.com/watch?v=2WSMdc5MrpU&feature=youtu.be",
+					"display_url": "youtube.com/watch?v=2WSMdc…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187097312612569000,
+					"id_str": "1187097312612569088",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EHlqt2AX0AAC06s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHlqt2AX0AAC06s.jpg",
+					"url": "https://t.co/YYtad7v46M",
+					"display_url": "pic.twitter.com/YYtad7v46M",
+					"expanded_url": "https://twitter.com/kyteijas/status/1187097401225596928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1595,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187097312612569000,
+					"id_str": "1187097312612569088",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/EHlqt2AX0AAC06s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHlqt2AX0AAC06s.jpg",
+					"url": "https://t.co/YYtad7v46M",
+					"display_url": "pic.twitter.com/YYtad7v46M",
+					"expanded_url": "https://twitter.com/kyteijas/status/1187097401225596928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1595,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 308328117,
+			"id_str": "308328117",
+			"name": "Teijas @ Wakelet",
+			"screen_name": "kyteijas",
+			"location": "Manchester, England",
+			"description": "Business Development lead/Engagement @Wakelet. Ride the #WakeletWave 🌊 - teijas@wakelet.com",
+			"url": "https://t.co/LjJpN8kET5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LjJpN8kET5",
+							"expanded_url": "http://www.wakelet.com/@teijasky",
+							"display_url": "wakelet.com/@teijasky",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1488,
+			"friends_count": 1804,
+			"listed_count": 7,
+			"created_at": "Tue May 31 06:43:41 +0000 2011",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019982926828711939/9uCZxRM3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019982926828711939/9uCZxRM3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/308328117/1565257860",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thrilled to announce that the @MicrosoftEDU  Immersive reader integration has levelled up on @wakelet via its application to the functionality of the all new Read mode feature!! 👀🥳🙌\n\n Check it out now 👇\n\nhttps://t.co/M1NbI6kKCn\n\n#wakeletwave #BetterTogether  #MIEExpert https://t.co/YYtad7v46M"
+	},
+	{
 		"created_at": "Wed Oct 23 17:29:18 +0000 2019",
 		"id": 1186745735762632700,
 		"id_str": "1187058428746911755",
