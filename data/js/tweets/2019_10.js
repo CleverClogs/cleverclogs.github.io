@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 24 21:01:35 +0000 2019",
+		"id": 1187474238334128000,
+		"id_str": "1187474238334128131",
+		"full_text": "Know someone who's new to Immersive Reader?\n\nThe high-quality Interactive Guide to Immersive Reader linked below is a great way for teachers ánd students to step through its capabilities in just 10 minutes.\nFlip back and forth at your own pace and demo it to others.\n\n#OneNote https://t.co/eUbuRLJtPz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						268,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eUbuRLJtPz",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1181957112219537411",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22745,
+			"friends_count": 7676,
+			"listed_count": 640,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1571558832",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181957112219537400,
+		"quoted_status_id_str": "1181957112219537411",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eUbuRLJtPz",
+			"expanded": "https://twitter.com/mtholfsen/status/1181957112219537411",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 09 15:38:29 +0000 2019",
+			"id": 1181957112219537400,
+			"id_str": "1181957112219537411",
+			"full_text": "NEW! An interactive click-though guide for the Immersive Reader 📖 Great for training, PD, and getting the full experience. Bookmark this and share in your district! #edtech #accessibility #MIEExpert #ELL\n\nhttps://t.co/99pWuD24fE https://t.co/BZy4zftgca",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							165,
+							172
+						]
+					},
+					{
+						"text": "accessibility",
+						"indices": [
+							173,
+							187
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							188,
+							198
+						]
+					},
+					{
+						"text": "ELL",
+						"indices": [
+							199,
+							203
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/99pWuD24fE",
+						"expanded_url": "https://aka.ms/InclusiveReaderDemo",
+						"display_url": "aka.ms/InclusiveReade…",
+						"indices": [
+							205,
+							228
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1181957094448255000,
+						"id_str": "1181957094448254976",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/EGcntxJXUAAihZe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGcntxJXUAAihZe.jpg",
+						"url": "https://t.co/BZy4zftgca",
+						"display_url": "pic.twitter.com/BZy4zftgca",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1181957112219537411/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1118,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 655,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1181957094448255000,
+						"id_str": "1181957094448254976",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/EGcntxJXUAAihZe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGcntxJXUAAihZe.jpg",
+						"url": "https://t.co/BZy4zftgca",
+						"display_url": "pic.twitter.com/BZy4zftgca",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1181957112219537411/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1118,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 655,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+				"url": "https://t.co/ANIFpSE2FB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSE2FB",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21752,
+				"friends_count": 3450,
+				"listed_count": 768,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 81331,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33243,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 112,
+			"favorite_count": 209,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Know someone who's new to Immersive Reader?\n\nThe high-quality Interactive Guide to Immersive Reader linked below is a great way for teachers ánd students to step through its capabilities in just 10 minutes.\nFlip back and forth at your own pace and demo it to others.\n\n#OneNote https://t.co/eUbuRLJtPz"
+	},
+	{
 		"created_at": "Wed Oct 23 20:09:04 +0000 2019",
 		"id": 1187097401225597000,
 		"id_str": "1187098636460662787",
