@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 13:39:34 +0000 2019",
+		"id": 1187725390976082000,
+		"id_str": "1187725390976081921",
+		"full_text": "PC Magazine editor Jill Duffy calls #OneNote \"PCMag Editors' Choice\" in note-taking apps, ranking it second-best after co-winner Evernote. \n\nSee if you agree to her review, covering OneNote for Windows, macOS, iOS and Online:\nhttps://t.co/dA9CP93egk\nby @JillEDuffy for @PCMag https://t.co/qP5f3UxRap",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						36,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jilleduffy",
+					"name": "Jill E Duffy",
+					"id": 18486446,
+					"id_str": "18486446",
+					"indices": [
+						253,
+						264
+					]
+				},
+				{
+					"screen_name": "PCMag",
+					"name": "PCMag",
+					"id": 15066271,
+					"id_str": "15066271",
+					"indices": [
+						269,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dA9CP93egk",
+					"expanded_url": "https://www.pcmag.com/review/346441/microsoft-onenote-web",
+					"display_url": "pcmag.com/review/346441/…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1187725385385103400,
+					"id_str": "1187725385385103365",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EHul8faX0AUjsCw.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHul8faX0AUjsCw.png",
+					"url": "https://t.co/qP5f3UxRap",
+					"display_url": "pic.twitter.com/qP5f3UxRap",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1187725390976081921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 828,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1187725385385103400,
+					"id_str": "1187725385385103365",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EHul8faX0AUjsCw.png",
+					"media_url_https": "https://pbs.twimg.com/media/EHul8faX0AUjsCw.png",
+					"url": "https://t.co/qP5f3UxRap",
+					"display_url": "pic.twitter.com/qP5f3UxRap",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1187725390976081921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 828,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 478,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22754,
+			"friends_count": 7678,
+			"listed_count": 640,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1571558832",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PC Magazine editor Jill Duffy calls #OneNote \"PCMag Editors' Choice\" in note-taking apps, ranking it second-best after co-winner Evernote. \n\nSee if you agree to her review, covering OneNote for Windows, macOS, iOS and Online:\nhttps://t.co/dA9CP93egk\nby @JillEDuffy for @PCMag https://t.co/qP5f3UxRap"
+	},
+	{
 		"created_at": "Fri Oct 25 12:22:22 +0000 2019",
 		"id": 1187705962536288300,
 		"id_str": "1187705962536288256",
