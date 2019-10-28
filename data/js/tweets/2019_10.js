@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 20:58:56 +0000 2019",
+		"id": 1188922490954760200,
+		"id_str": "1188923123317522432",
+		"full_text": "New video! \"Solving Five Common Issues Students Encounter with Microsoft Class Notebooks\" - I really like @OneNoteEDU and so do my Ss, but that doesn't mean they don't have questions. Here are 5 of the most common questions I get #edtech #elt #edchat  https://t.co/m1vJu5h2Rt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						230,
+						237
+					]
+				},
+				{
+					"text": "elt",
+					"indices": [
+						238,
+						242
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						243,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m1vJu5h2Rt",
+					"expanded_url": "https://www.youtube.com/watch?v=KZ-EzRICNHs",
+					"display_url": "youtube.com/watch?v=KZ-EzR…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192437743,
+			"id_str": "192437743",
+			"name": "Nathan Hall",
+			"screen_name": "nathanghall",
+			"location": "New Westminster, BC",
+			"description": "TESL Coordinator and EAP faculty for Douglas College and Community Coordinator for Tutela. Cookie Monster.",
+			"url": "https://t.co/lIQaX1UZ8f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lIQaX1UZ8f",
+							"expanded_url": "http://nathanhall.ca",
+							"display_url": "nathanhall.ca",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3708,
+			"friends_count": 3040,
+			"listed_count": 199,
+			"created_at": "Sun Sep 19 04:09:13 +0000 2010",
+			"favourites_count": 9034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068010141688061952/EriUhO8d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068010141688061952/EriUhO8d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192437743/1563513934",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New video! \"Solving Five Common Issues Students Encounter with Microsoft Class Notebooks\" - I really like @OneNoteEDU and so do my Ss, but that doesn't mean they don't have questions. Here are 5 of the most common questions I get #edtech #elt #edchat  https://t.co/m1vJu5h2Rt"
+	},
+	{
 		"created_at": "Sun Oct 27 20:56:09 +0000 2019",
 		"id": 1188560033635803100,
 		"id_str": "1188560033635803138",
