@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 18:16:15 +0000 2019",
+		"id": 1189925548425826300,
+		"id_str": "1189969344832458755",
+		"full_text": "Did you know there are 3 new free interactive guides for the #MicrosoftEDU Inclusive Classroom 💯? #edtech #MIEExpert #accessibility\n\nGreat PD, check them out, share broadly 🌎\n\n📖 https://t.co/i0Mjwtyoqg\n➗ https://t.co/t654aB1hhs\n🎙 https://t.co/V0lEGSc606 https://t.co/W1IXm8Grjf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						61,
+						74
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						117,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i0Mjwtyoqg",
+					"expanded_url": "http://aka.ms/InclusiveReadingDemo",
+					"display_url": "aka.ms/InclusiveReadi…",
+					"indices": [
+						178,
+						201
+					]
+				},
+				{
+					"url": "https://t.co/t654aB1hhs",
+					"expanded_url": "http://aka.ms/InclusiveMathDemo",
+					"display_url": "aka.ms/InclusiveMathD…",
+					"indices": [
+						204,
+						227
+					]
+				},
+				{
+					"url": "https://t.co/V0lEGSc606",
+					"expanded_url": "http://aka.ms/InclusiveCommunicationDemo",
+					"display_url": "aka.ms/InclusiveCommu…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189925530159726600,
+					"id_str": "1189925530159726593",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EIN29xZWwAEOR6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIN29xZWwAEOR6J.jpg",
+					"url": "https://t.co/W1IXm8Grjf",
+					"display_url": "pic.twitter.com/W1IXm8Grjf",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1189925548425826304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 726,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "3096566760",
+									"screen_name": "OneNoteEDU",
+									"name": "OneNote Education"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "3666731533",
+									"screen_name": "MSAUedu",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace"
+								},
+								{
+									"type": "user",
+									"user_id": "4120721403",
+									"screen_name": "MissGEnrique",
+									"name": "Gloria Enrique"
+								},
+								{
+									"type": "user",
+									"user_id": "66801342",
+									"screen_name": "design2research",
+									"name": "Dr. Charlie Miller"
+								},
+								{
+									"type": "user",
+									"user_id": "214950861",
+									"screen_name": "marthajez",
+									"name": "Martha Jez"
+								},
+								{
+									"type": "user",
+									"user_id": "6066612",
+									"screen_name": "KarenJan",
+									"name": "Karen Janowski"
+								},
+								{
+									"type": "user",
+									"user_id": "27044576",
+									"screen_name": "RobynHrivnatz",
+									"name": "Robyn Hrivnatz"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 448,
+									"y": 246,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 197,
+									"y": 33,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 523,
+									"y": 30,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1349,
+									"y": 741,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 595,
+									"y": 101,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 1577,
+									"y": 93,
+									"h": 251,
+									"w": 251
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1446,
+									"y": 794,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 638,
+									"y": 109,
+									"h": 201,
+									"w": 201
+								},
+								{
+									"x": 1690,
+									"y": 100,
+									"h": 269,
+									"w": 269
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 790,
+									"y": 434,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 348,
+									"y": 59,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 924,
+									"y": 54,
+									"h": 147,
+									"w": 147
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189925530159726600,
+					"id_str": "1189925530159726593",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EIN29xZWwAEOR6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIN29xZWwAEOR6J.jpg",
+					"url": "https://t.co/W1IXm8Grjf",
+					"display_url": "pic.twitter.com/W1IXm8Grjf",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1189925548425826304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 726,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "3096566760",
+									"screen_name": "OneNoteEDU",
+									"name": "OneNote Education"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "3666731533",
+									"screen_name": "MSAUedu",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace"
+								},
+								{
+									"type": "user",
+									"user_id": "4120721403",
+									"screen_name": "MissGEnrique",
+									"name": "Gloria Enrique"
+								},
+								{
+									"type": "user",
+									"user_id": "66801342",
+									"screen_name": "design2research",
+									"name": "Dr. Charlie Miller"
+								},
+								{
+									"type": "user",
+									"user_id": "214950861",
+									"screen_name": "marthajez",
+									"name": "Martha Jez"
+								},
+								{
+									"type": "user",
+									"user_id": "6066612",
+									"screen_name": "KarenJan",
+									"name": "Karen Janowski"
+								},
+								{
+									"type": "user",
+									"user_id": "27044576",
+									"screen_name": "RobynHrivnatz",
+									"name": "Robyn Hrivnatz"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 448,
+									"y": 246,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 197,
+									"y": 33,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 523,
+									"y": 30,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1349,
+									"y": 741,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 595,
+									"y": 101,
+									"h": 187,
+									"w": 187
+								},
+								{
+									"x": 1577,
+									"y": 93,
+									"h": 251,
+									"w": 251
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1446,
+									"y": 794,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 638,
+									"y": 109,
+									"h": 201,
+									"w": 201
+								},
+								{
+									"x": 1690,
+									"y": 100,
+									"h": 269,
+									"w": 269
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 790,
+									"y": 434,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 348,
+									"y": 59,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 924,
+									"y": 54,
+									"h": 147,
+									"w": 147
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21842,
+			"friends_count": 3448,
+			"listed_count": 767,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 81897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you know there are 3 new free interactive guides for the #MicrosoftEDU Inclusive Classroom 💯? #edtech #MIEExpert #accessibility\n\nGreat PD, check them out, share broadly 🌎\n\n📖 https://t.co/i0Mjwtyoqg\n➗ https://t.co/t654aB1hhs\n🎙 https://t.co/V0lEGSc606 https://t.co/W1IXm8Grjf"
+	},
+	{
 		"created_at": "Tue Oct 29 17:09:26 +0000 2019",
 		"id": 1189227117537566700,
 		"id_str": "1189227757168975872",
