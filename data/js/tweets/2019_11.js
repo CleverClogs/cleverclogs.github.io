@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 18:05:57 +0000 2019",
+		"id": 1191040741046440000,
+		"id_str": "1191053919574777857",
+		"full_text": "📢 Announce the November 19 TweetMeet 🎈 about #FutureReadySkills &amp; #ComputerScience from your own Twitter profile.\n\nDownload any of these gorgeous #MSFTEduChat Twitter Header Photos here:\nhttps://t.co/nl0TX4MfP0\n\n#MicrosoftEDU #CS\nAnimated GIF: https://t.co/tm2THmR9uo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FutureReadySkills",
+					"indices": [
+						45,
+						63
+					]
+				},
+				{
+					"text": "ComputerScience",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						150,
+						162
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						216,
+						229
+					]
+				},
+				{
+					"text": "CS",
+					"indices": [
+						230,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nl0TX4MfP0",
+					"expanded_url": "https://1drv.ms/f/s!ApP7GQZT5sq6iK9QslF0_uyekVvAFw",
+					"display_url": "1drv.ms/f/s!ApP7GQZT5s…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191040726483820500,
+					"id_str": "1191040726483820545",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EIdtOvcXYAEYcGB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EIdtOvcXYAEYcGB.jpg",
+					"url": "https://t.co/tm2THmR9uo",
+					"display_url": "pic.twitter.com/tm2THmR9uo",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1191040741046439937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191040726483820500,
+					"id_str": "1191040726483820545",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EIdtOvcXYAEYcGB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EIdtOvcXYAEYcGB.jpg",
+					"url": "https://t.co/tm2THmR9uo",
+					"display_url": "pic.twitter.com/tm2THmR9uo",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1191040741046439937/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EIdtOvcXYAEYcGB.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. Team TweetMeet: Marjolein Hoekstra, @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3867,
+			"friends_count": 3415,
+			"listed_count": 32,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 4349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1571557392",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 Announce the November 19 TweetMeet 🎈 about #FutureReadySkills &amp; #ComputerScience from your own Twitter profile.\n\nDownload any of these gorgeous #MSFTEduChat Twitter Header Photos here:\nhttps://t.co/nl0TX4MfP0\n\n#MicrosoftEDU #CS\nAnimated GIF: https://t.co/tm2THmR9uo"
+	},
+	{
 		"created_at": "Sat Nov 02 18:06:57 +0000 2019",
 		"id": 1190662298114896000,
 		"id_str": "1190691780079042561",
