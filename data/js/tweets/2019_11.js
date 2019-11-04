@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 04 17:23:30 +0000 2019",
+		"id": 1191371383000879000,
+		"id_str": "1191405621482012673",
+		"full_text": "NEW! \"We hear you loud and clear — you want to keep your notes your way!\"💜 \n\nBig news today - #OneNote 2016 Desktop is not going away, &amp; will be improved in the future 🔮 Send Qs to me, @NotedByRyan &amp; @benminnn #edtech #MIEExpert #elearning\n\nDetails: https://t.co/ENdNSeOuJZ https://t.co/wXEkExvkDh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						218,
+						225
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						226,
+						236
+					]
+				},
+				{
+					"text": "elearning",
+					"indices": [
+						237,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotedByRyan",
+					"name": "Ryan McMinn",
+					"id": 729049944133226500,
+					"id_str": "729049944133226496",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"screen_name": "benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						208,
+						217
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ENdNSeOuJZ",
+					"expanded_url": "https://techcommunity.microsoft.com/t5/Office-365-Blog/Your-OneNote/ba-p/954922",
+					"display_url": "techcommunity.microsoft.com/t5/Office-365-…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1191371378118647800,
+					"id_str": "1191371378118647808",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EIiZ9MxUYAAxyvV.png",
+					"media_url_https": "https://pbs.twimg.com/media/EIiZ9MxUYAAxyvV.png",
+					"url": "https://t.co/wXEkExvkDh",
+					"display_url": "pic.twitter.com/wXEkExvkDh",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1191371383000879104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 766,
+							"h": 432,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 766,
+							"h": 432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191371378118647800,
+					"id_str": "1191371378118647808",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/EIiZ9MxUYAAxyvV.png",
+					"media_url_https": "https://pbs.twimg.com/media/EIiZ9MxUYAAxyvV.png",
+					"url": "https://t.co/wXEkExvkDh",
+					"display_url": "pic.twitter.com/wXEkExvkDh",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1191371383000879104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 766,
+							"h": 432,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 766,
+							"h": 432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21926,
+			"friends_count": 3433,
+			"listed_count": 770,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 82187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 159,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! \"We hear you loud and clear — you want to keep your notes your way!\"💜 \n\nBig news today - #OneNote 2016 Desktop is not going away, &amp; will be improved in the future 🔮 Send Qs to me, @NotedByRyan &amp; @benminnn #edtech #MIEExpert #elearning\n\nDetails: https://t.co/ENdNSeOuJZ https://t.co/wXEkExvkDh"
+	},
+	{
 		"created_at": "Mon Nov 04 16:55:26 +0000 2019",
 		"id": 1191398559058473000,
 		"id_str": "1191398559058472962",
