@@ -1,6 +1,160 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 08 14:10:17 +0000 2019",
+		"id": 1192793416754557000,
+		"id_str": "1192806552094294016",
+		"full_text": ".#MSIgnite Sketch Noter, @LuiseFreese, trys #OneNote on @Surface Pro X https://t.co/KemY4ZTR7f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSIgnite",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LuiseFreese",
+					"name": "👩🏻‍🎤 Luise Freese @ #MSIgnite | MVP | #Maker",
+					"id": 914007249395347500,
+					"id_str": "914007249395347458",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "surface",
+					"name": "Microsoft Surface",
+					"id": 612076511,
+					"id_str": "612076511",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KemY4ZTR7f",
+					"expanded_url": "https://www.pscp.tv/w/cJVijjFETEVCVlplcUJFSmJ8MXlvSk16ZVpqcnB4UWwDSVCl-96M26wKVGX_bTmDX9KBgr0VjrDsIIxBOBgU",
+					"display_url": "pscp.tv/w/cJVijjFETEVC…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 401809242,
+			"id_str": "401809242",
+			"name": "Darrell as a Service 🛎",
+			"screen_name": "DarrellaaS",
+			"location": "Auckland, New Zealand",
+			"description": "Modern Workplace Adoption lead for @Datacom | #Microsoft365 MVP | https://t.co/I0AAhOYgij #365MCS cohost |@REgarding365 #RE365 @AKLM365UG #MSIgnite",
+			"url": "https://t.co/GFStyOHR14",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GFStyOHR14",
+							"expanded_url": "http://webster.net.nz",
+							"display_url": "webster.net.nz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/I0AAhOYgij",
+							"expanded_url": "http://messagecenter.show",
+							"display_url": "messagecenter.show",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3997,
+			"friends_count": 835,
+			"listed_count": 280,
+			"created_at": "Mon Oct 31 03:39:26 +0000 2011",
+			"favourites_count": 8037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145012963159396352/hSbosikG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145012963159396352/hSbosikG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/401809242/1543608789",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".#MSIgnite Sketch Noter, @LuiseFreese, trys #OneNote on @Surface Pro X https://t.co/KemY4ZTR7f"
+	},
+	{
 		"created_at": "Fri Nov 08 05:06:14 +0000 2019",
 		"id": 1192567976211316700,
 		"id_str": "1192669637282013184",
