@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 08 19:48:38 +0000 2019",
+		"id": 1192813869846151200,
+		"id_str": "1192891699883843590",
+		"full_text": "Full on-demand recording of #OneNote program manager Ben Hodes' #MSIgnite session.\n\nCurious what's on the OneNote Roadmap for the next 18 months? Just click @NotedByRyan's link to @benminnn's video below: https://t.co/Hte8l00Wd3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "MSIgnite",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotedByRyan",
+					"name": "Ryan McMinn",
+					"id": 729049944133226500,
+					"id_str": "729049944133226496",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"screen_name": "benminnn",
+					"name": "Ben Hodes @ #MSIgnite",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						180,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hte8l00Wd3",
+					"expanded_url": "https://twitter.com/NotedByRyan/status/1192807538380566528",
+					"display_url": "twitter.com/NotedByRyan/st…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22931,
+			"friends_count": 7717,
+			"listed_count": 641,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1571558832",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1192807538380566500,
+		"quoted_status_id_str": "1192807538380566528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hte8l00Wd3",
+			"expanded": "https://twitter.com/NotedByRyan/status/1192807538380566528",
+			"display": "twitter.com/NotedByRyan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 08 14:14:13 +0000 2019",
+			"id": 1192807538380566500,
+			"id_str": "1192807538380566528",
+			"full_text": "Watch the smart and funny @benminnn show the future of OneNote at ignite. https://t.co/JuUD3HhmVP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "benminnn",
+						"name": "Ben Hodes @ #MSIgnite",
+						"id": 15697208,
+						"id_str": "15697208",
+						"indices": [
+							26,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JuUD3HhmVP",
+						"expanded_url": "https://myignite.techcommunity.microsoft.com/sessions/79266",
+						"display_url": "myignite.techcommunity.microsoft.com/sessions/79266",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 729049944133226500,
+				"id_str": "729049944133226496",
+				"name": "Ryan McMinn",
+				"screen_name": "NotedByRyan",
+				"location": "Redmond, WA",
+				"description": "Head of product for Microsoft OneNote & Sticky Notes",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1275,
+				"friends_count": 159,
+				"listed_count": 38,
+				"created_at": "Sat May 07 20:47:06 +0000 2016",
+				"favourites_count": 1546,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 910,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072157033355329536/ZU_bti5l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072157033355329536/ZU_bti5l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/729049944133226496/1520128968",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Full on-demand recording of #OneNote program manager Ben Hodes' #MSIgnite session.\n\nCurious what's on the OneNote Roadmap for the next 18 months? Just click @NotedByRyan's link to @benminnn's video below: https://t.co/Hte8l00Wd3"
+	},
+	{
 		"created_at": "Fri Nov 08 14:39:22 +0000 2019",
 		"id": 1192813869846151200,
 		"id_str": "1192813869846151175",
