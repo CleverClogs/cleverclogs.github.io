@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 11 01:05:23 +0000 2019",
+		"id": 1193696188299665400,
+		"id_str": "1193696188299665411",
+		"full_text": "I know a couple of (former) #MVP’s who’d have loved to vigorously rub their ‘I told you so’ in this hilarious way. \n\nMaybe the next #MVPSummit is an appropriate opportunity for sweet revenge, @NotedByRyan @benminnn?\n\n#OneNote 2016 for Windows is here to stay. Who’d have thunk? https://t.co/c0neXoJsQD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MVP",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "MVPSummit",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						217,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NotedByRyan",
+					"name": "Ryan McMinn",
+					"id": 729049944133226500,
+					"id_str": "729049944133226496",
+					"indices": [
+						192,
+						204
+					]
+				},
+				{
+					"screen_name": "benminnn",
+					"name": "Ben Hodes",
+					"id": 15697208,
+					"id_str": "15697208",
+					"indices": [
+						205,
+						214
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/c0neXoJsQD",
+					"expanded_url": "https://twitter.com/notedbyryan/status/1191821442846904320",
+					"display_url": "twitter.com/notedbyryan/st…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22957,
+			"friends_count": 7716,
+			"listed_count": 643,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1571558832",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1191821442846904300,
+		"quoted_status_id_str": "1191821442846904320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c0neXoJsQD",
+			"expanded": "https://twitter.com/notedbyryan/status/1191821442846904320",
+			"display": "twitter.com/notedbyryan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 05 20:55:49 +0000 2019",
+			"id": 1191821442846904300,
+			"id_str": "1191821442846904320",
+			"full_text": "When we told the engineering team we were bringing back Win32 Desktop OneNote we let them say “I told you so” by hitting our leadership in the face with pie for charity. That’s me!! https://t.co/7IMhaOiDlJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1191821308612489200,
+						"id_str": "1191821308612489217",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/EIozKmeWsAESMDA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIozKmeWsAESMDA.jpg",
+						"url": "https://t.co/7IMhaOiDlJ",
+						"display_url": "pic.twitter.com/7IMhaOiDlJ",
+						"expanded_url": "https://twitter.com/NotedByRyan/status/1191821442846904320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 853,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 556,
+										"y": 488,
+										"h": 53,
+										"w": 53
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 295,
+										"y": 259,
+										"h": 28,
+										"w": 28
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 521,
+										"y": 457,
+										"h": 49,
+										"w": 49
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 556,
+										"y": 488,
+										"h": 53,
+										"w": 53
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1191821308612489200,
+						"id_str": "1191821308612489217",
+						"indices": [
+							182,
+							205
+						],
+						"media_url": "http://pbs.twimg.com/media/EIozKmeWsAESMDA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIozKmeWsAESMDA.jpg",
+						"url": "https://t.co/7IMhaOiDlJ",
+						"display_url": "pic.twitter.com/7IMhaOiDlJ",
+						"expanded_url": "https://twitter.com/NotedByRyan/status/1191821442846904320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 853,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 556,
+										"y": 488,
+										"h": 53,
+										"w": 53
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 295,
+										"y": 259,
+										"h": 28,
+										"w": 28
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 521,
+										"y": 457,
+										"h": 49,
+										"w": 49
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 556,
+										"y": 488,
+										"h": 53,
+										"w": 53
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1191372482730553300,
+			"in_reply_to_status_id_str": "1191372482730553345",
+			"in_reply_to_user_id": 729049944133226500,
+			"in_reply_to_user_id_str": "729049944133226496",
+			"in_reply_to_screen_name": "NotedByRyan",
+			"user": {
+				"id": 729049944133226500,
+				"id_str": "729049944133226496",
+				"name": "Ryan McMinn",
+				"screen_name": "NotedByRyan",
+				"location": "Redmond, WA",
+				"description": "Head of product for Microsoft OneNote & Sticky Notes",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1294,
+				"friends_count": 159,
+				"listed_count": 39,
+				"created_at": "Sat May 07 20:47:06 +0000 2016",
+				"favourites_count": 1550,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 910,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072157033355329536/ZU_bti5l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072157033355329536/ZU_bti5l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/729049944133226496/1520128968",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I know a couple of (former) #MVP’s who’d have loved to vigorously rub their ‘I told you so’ in this hilarious way. \n\nMaybe the next #MVPSummit is an appropriate opportunity for sweet revenge, @NotedByRyan @benminnn?\n\n#OneNote 2016 for Windows is here to stay. Who’d have thunk? https://t.co/c0neXoJsQD"
+	},
+	{
 		"created_at": "Fri Nov 08 19:48:38 +0000 2019",
 		"id": 1192813869846151200,
 		"id_str": "1192891699883843590",
