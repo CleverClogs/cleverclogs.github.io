@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 12 19:51:57 +0000 2019",
+		"id": 1194342083575898000,
+		"id_str": "1194342083575898112",
+		"full_text": "Fantastic discussion of #Surface Go accessories by Surface digital ink specialist Justice Frangipane. Don’t miss his demo of an alternate stylus in #OneNote.\n\nThanks, @TabletProTools! https://t.co/idmPwhb4JU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Surface",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						148,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TabletProTools",
+					"name": "Justice Frangipane",
+					"id": 4607185094,
+					"id_str": "4607185094",
+					"indices": [
+						167,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/idmPwhb4JU",
+					"expanded_url": "https://twitter.com/tabletprotools/status/1194340906553376768",
+					"display_url": "twitter.com/tabletprotools…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22959,
+			"friends_count": 7716,
+			"listed_count": 644,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1571558832",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1194340906553376800,
+		"quoted_status_id_str": "1194340906553376768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/idmPwhb4JU",
+			"expanded": "https://twitter.com/tabletprotools/status/1194340906553376768",
+			"display": "twitter.com/tabletprotools…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 12 19:47:16 +0000 2019",
+			"id": 1194340906553376800,
+			"id_str": "1194340906553376768",
+			"full_text": "Surface Go - Top Accessories Guide Bluetooth keyboard, 2 button stylus, portable battery, micro ssd https://t.co/kTUgWwSM1J #surfacego #accessories #keyboard @microsoft @surface",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "surfacego",
+						"indices": [
+							124,
+							134
+						]
+					},
+					{
+						"text": "accessories",
+						"indices": [
+							135,
+							147
+						]
+					},
+					{
+						"text": "keyboard",
+						"indices": [
+							148,
+							157
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Microsoft",
+						"name": "Microsoft",
+						"id": 74286565,
+						"id_str": "74286565",
+						"indices": [
+							158,
+							168
+						]
+					},
+					{
+						"screen_name": "surface",
+						"name": "Microsoft Surface",
+						"id": 612076511,
+						"id_str": "612076511",
+						"indices": [
+							169,
+							177
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kTUgWwSM1J",
+						"expanded_url": "https://youtu.be/5zSCETL9vIg",
+						"display_url": "youtu.be/5zSCETL9vIg",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4607185094,
+				"id_str": "4607185094",
+				"name": "Justice Frangipane",
+				"screen_name": "TabletProTools",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 96,
+				"friends_count": 102,
+				"listed_count": 1,
+				"created_at": "Sat Dec 19 23:16:07 +0000 2015",
+				"favourites_count": 20,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 62,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1128728126387736576/7v9ByE9S_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128728126387736576/7v9ByE9S_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4607185094/1568321355",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic discussion of #Surface Go accessories by Surface digital ink specialist Justice Frangipane. Don’t miss his demo of an alternate stylus in #OneNote.\n\nThanks, @TabletProTools! https://t.co/idmPwhb4JU"
+	},
+	{
 		"created_at": "Tue Nov 12 13:36:56 +0000 2019",
 		"id": 1193936871585439700,
 		"id_str": "1194247708900507648",
