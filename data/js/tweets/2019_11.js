@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 20:00:21 +0000 2019",
+		"id": 1194836647701074000,
+		"id_str": "1195068973580242944",
+		"full_text": "Check out my new @Office #Sway song!  It's on my Microsoft Songs @wakelet: https://t.co/bxmqqwUZxU @mtholfsen @MIEE_Flopsie @MicrosoftEDU @msonenote @OneNoteEDU @VideoEditorEDU #MIEExpert https://t.co/LQp4cluqOq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sway",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						177,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office",
+					"name": "Microsoft Office",
+					"id": 22209176,
+					"id_str": "22209176",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"screen_name": "MIEE_Flopsie",
+					"name": "Flopsie Llama",
+					"id": 997166863917367300,
+					"id_str": "997166863917367296",
+					"indices": [
+						110,
+						123
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						124,
+						137
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						149,
+						160
+					]
+				},
+				{
+					"screen_name": "VideoEditorEDU",
+					"name": "Video Editor",
+					"id": 1157492232305250300,
+					"id_str": "1157492232305250304",
+					"indices": [
+						161,
+						176
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bxmqqwUZxU",
+					"expanded_url": "https://wke.lt/w/s/zjV318",
+					"display_url": "wke.lt/w/s/zjV318",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194836644639203300,
+					"id_str": "1194836644639203333",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EJTpmQhW4AUgp0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJTpmQhW4AUgp0B.jpg",
+					"url": "https://t.co/LQp4cluqOq",
+					"display_url": "pic.twitter.com/LQp4cluqOq",
+					"expanded_url": "https://twitter.com/cyberantiquity/status/1194836647701073921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 939,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 939,
+							"h": 664,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194836644639203300,
+					"id_str": "1194836644639203333",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EJTpmQhW4AUgp0B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJTpmQhW4AUgp0B.jpg",
+					"url": "https://t.co/LQp4cluqOq",
+					"display_url": "pic.twitter.com/LQp4cluqOq",
+					"expanded_url": "https://twitter.com/cyberantiquity/status/1194836647701073921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 939,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 939,
+							"h": 664,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3961488843,
+			"id_str": "3961488843",
+			"name": "Valentina DeNardis",
+			"screen_name": "cyberantiquity",
+			"location": "",
+			"description": "Where the past meets the future.  Tweets by Valentina DeNardis, Ph.D., Classics professor, #MIEExpert, @msonenote enthusiast",
+			"url": "https://t.co/m3xJ7EGIuE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m3xJ7EGIuE",
+							"expanded_url": "https://cyberantiquity.wordpress.com/",
+							"display_url": "cyberantiquity.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369,
+			"friends_count": 477,
+			"listed_count": 23,
+			"created_at": "Thu Oct 15 03:14:29 +0000 2015",
+			"favourites_count": 2555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151592022735802369/v5jjFZ_h_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151592022735802369/v5jjFZ_h_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3961488843/1446255207",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out my new @Office #Sway song!  It's on my Microsoft Songs @wakelet: https://t.co/bxmqqwUZxU @mtholfsen @MIEE_Flopsie @MicrosoftEDU @msonenote @OneNoteEDU @VideoEditorEDU #MIEExpert https://t.co/LQp4cluqOq"
+	},
+	{
 		"created_at": "Wed Nov 13 08:58:02 +0000 2019",
 		"id": 1193996927328612400,
 		"id_str": "1194539908519677953",
