@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 17:17:20 +0000 2019",
+		"id": 1196476690119086000,
+		"id_str": "1196477500785864705",
+		"full_text": "For free in #OneNote it will not only make your math digital, it will give you ALL THE STEPS. Do not bury your head in the sand and pretend it is 1900 and keep asking kids to show their work. This is literally obsolete. #mathchat https://t.co/hCN9d2tNOn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"text": "mathchat",
+					"indices": [
+						220,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196476681298464800,
+					"id_str": "1196476681298464769",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EJq9M9LVUAE7NrK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJq9M9LVUAE7NrK.jpg",
+					"url": "https://t.co/hCN9d2tNOn",
+					"display_url": "pic.twitter.com/hCN9d2tNOn",
+					"expanded_url": "https://twitter.com/alicekeeler/status/1196476690119086080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 362,
+									"h": 246,
+									"w": 246
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 120,
+									"h": 81,
+									"w": 81
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 212,
+									"h": 144,
+									"w": 144
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 362,
+									"h": 246,
+									"w": 246
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196476681298464800,
+					"id_str": "1196476681298464769",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/EJq9M9LVUAE7NrK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJq9M9LVUAE7NrK.jpg",
+					"url": "https://t.co/hCN9d2tNOn",
+					"display_url": "pic.twitter.com/hCN9d2tNOn",
+					"expanded_url": "https://twitter.com/alicekeeler/status/1196476690119086080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 362,
+									"h": 246,
+									"w": 246
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 120,
+									"h": 81,
+									"w": 81
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 212,
+									"h": 144,
+									"w": 144
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 626,
+									"y": 362,
+									"h": 246,
+									"w": 246
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 200715240,
+			"id_str": "200715240",
+			"name": "Alice Keeler",
+			"screen_name": "alicekeeler",
+			"location": "Fresno, CA",
+			"description": "Mom of 5, Math Teacher, Youcubed consultant, Author, Speaker, Google Certified Teacher, NMCk12 Ambassador, MIE, gamification, #coffeeEDU, coder",
+			"url": "https://t.co/G0fgTeEj6w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G0fgTeEj6w",
+							"expanded_url": "http://www.alicekeeler.com",
+							"display_url": "alicekeeler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154954,
+			"friends_count": 5407,
+			"listed_count": 3346,
+			"created_at": "Sun Oct 10 01:43:43 +0000 2010",
+			"favourites_count": 9143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 273782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/882999585303445504/p-bUxO3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/882999585303445504/p-bUxO3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/200715240/1525141489",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7291a25672e0d4b1",
+			"url": "https://api.twitter.com/1.1/geo/id/7291a25672e0d4b1.json",
+			"place_type": "city",
+			"name": "Redmond",
+			"full_name": "Redmond, WA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.1649,
+							47.626845
+						],
+						[
+							-121.958642,
+							47.626845
+						],
+						[
+							-121.958642,
+							47.73078
+						],
+						[
+							-122.1649,
+							47.73078
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For free in #OneNote it will not only make your math digital, it will give you ALL THE STEPS. Do not bury your head in the sand and pretend it is 1900 and keep asking kids to show their work. This is literally obsolete. #mathchat https://t.co/hCN9d2tNOn"
+	},
+	{
 		"created_at": "Mon Nov 18 14:40:24 +0000 2019",
 		"id": 1195433836148142000,
 		"id_str": "1196438007638827008",
