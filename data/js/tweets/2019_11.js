@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 19 06:36:32 +0000 2019",
+		"id": 1196552382751985700,
+		"id_str": "1196678625917112320",
+		"full_text": "Awesome “classroom” session with @alicekeeler in building 5 at Microsoft.  She is laying some serious feedback and ideas👂 with @justinchando and @jim_federico. \n\n#edtech #MIEExpert #MicrosoftEDU https://t.co/j9GKN5a6AE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						181,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicekeeler",
+					"name": "Alice Keeler",
+					"id": 200715240,
+					"id_str": "200715240",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"screen_name": "justinchando",
+					"name": "Justin Chando",
+					"id": 108410718,
+					"id_str": "108410718",
+					"indices": [
+						127,
+						140
+					]
+				},
+				{
+					"screen_name": "jim_federico",
+					"name": "Jim Federico",
+					"id": 24836057,
+					"id_str": "24836057",
+					"indices": [
+						145,
+						158
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196552373830738000,
+					"id_str": "1196552373830737920",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EJsCC11U4AAo1dg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJsCC11U4AAo1dg.jpg",
+					"url": "https://t.co/j9GKN5a6AE",
+					"display_url": "pic.twitter.com/j9GKN5a6AE",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1196552382751985665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "806619118539444224",
+									"screen_name": "Hacking_STEM",
+									"name": "Microsoft Hacking STEM"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								},
+								{
+									"type": "user",
+									"user_id": "66801342",
+									"screen_name": "design2research",
+									"name": "Dr. Charlie Miller"
+								},
+								{
+									"type": "user",
+									"user_id": "111110878",
+									"screen_name": "sdelafosse",
+									"name": "Sonja Delafosse"
+								},
+								{
+									"type": "user",
+									"user_id": "27044576",
+									"screen_name": "RobynHrivnatz",
+									"name": "Robyn Hrivnatz"
+								},
+								{
+									"type": "user",
+									"user_id": "33184994",
+									"screen_name": "sparvell",
+									"name": "Mark Sparvell"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1160,
+									"y": 450,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 1812,
+									"y": 496,
+									"h": 198,
+									"w": 198
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1160,
+									"y": 450,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 1812,
+									"y": 496,
+									"h": 198,
+									"w": 198
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 679,
+									"y": 263,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 1061,
+									"y": 290,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 385,
+									"y": 149,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 601,
+									"y": 164,
+									"h": 65,
+									"w": 65
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196552373830738000,
+					"id_str": "1196552373830737920",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EJsCC11U4AAo1dg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJsCC11U4AAo1dg.jpg",
+					"url": "https://t.co/j9GKN5a6AE",
+					"display_url": "pic.twitter.com/j9GKN5a6AE",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1196552382751985665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "806619118539444224",
+									"screen_name": "Hacking_STEM",
+									"name": "Microsoft Hacking STEM"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								},
+								{
+									"type": "user",
+									"user_id": "66801342",
+									"screen_name": "design2research",
+									"name": "Dr. Charlie Miller"
+								},
+								{
+									"type": "user",
+									"user_id": "111110878",
+									"screen_name": "sdelafosse",
+									"name": "Sonja Delafosse"
+								},
+								{
+									"type": "user",
+									"user_id": "27044576",
+									"screen_name": "RobynHrivnatz",
+									"name": "Robyn Hrivnatz"
+								},
+								{
+									"type": "user",
+									"user_id": "33184994",
+									"screen_name": "sparvell",
+									"name": "Mark Sparvell"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1160,
+									"y": 450,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 1812,
+									"y": 496,
+									"h": 198,
+									"w": 198
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1160,
+									"y": 450,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 1812,
+									"y": 496,
+									"h": 198,
+									"w": 198
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 679,
+									"y": 263,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 1061,
+									"y": 290,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 385,
+									"y": 149,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 601,
+									"y": 164,
+									"h": 65,
+									"w": 65
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility #DyslexiaCon19",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22289,
+			"friends_count": 3448,
+			"listed_count": 772,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 83998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Awesome “classroom” session with @alicekeeler in building 5 at Microsoft.  She is laying some serious feedback and ideas👂 with @justinchando and @jim_federico. \n\n#edtech #MIEExpert #MicrosoftEDU https://t.co/j9GKN5a6AE"
+	},
+	{
 		"created_at": "Mon Nov 18 17:17:20 +0000 2019",
 		"id": 1196476690119086000,
 		"id_str": "1196477500785864705",
