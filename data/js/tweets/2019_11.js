@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 20 18:41:55 +0000 2019",
+		"id": 1197189619806359600,
+		"id_str": "1197223563645898752",
+		"full_text": "🎈 Congratulations to Francisco Texeira on his renewed #MIEFellow award!\n\nFrancisco is the person on Team TweetMeet who designs our beautiful images, making our hosts shine. He's also the driving force behind our transition to #MicrosoftTeams.\n\nCongrats @fcotexeira!\n#MicrosoftEDU https://t.co/IvQLJXZGUa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEFellow",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						226,
+						241
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						266,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fcotexeira",
+					"name": "Francisco Texeira",
+					"id": 488780635,
+					"id_str": "488780635",
+					"indices": [
+						253,
+						264
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IvQLJXZGUa",
+					"expanded_url": "https://twitter.com/fcotexeira/status/1197177257703485440",
+					"display_url": "twitter.com/fcotexeira/sta…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. Team TweetMeet: Marjolein Hoekstra, @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3978,
+			"friends_count": 3533,
+			"listed_count": 33,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 4827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1571557392",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1197177257703485400,
+		"quoted_status_id_str": "1197177257703485440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IvQLJXZGUa",
+			"expanded": "https://twitter.com/fcotexeira/status/1197177257703485440",
+			"display": "twitter.com/fcotexeira/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 20 15:37:55 +0000 2019",
+			"id": 1197177257703485400,
+			"id_str": "1197177257703485440",
+			"full_text": "As a senior teacher, my pride and joy is to share experience with my colleagues and learn from them.\n\nBeing accepted one more year in the MIE Fellow Program brings more PD opportunities and opens up paths for building community and communication, which are my priorities.\n\nThanks. https://t.co/ajf0zCvaeO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1197177248723406800,
+						"id_str": "1197177248723406848",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EJ06XWNWkAAIYv1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJ06XWNWkAAIYv1.jpg",
+						"url": "https://t.co/ajf0zCvaeO",
+						"display_url": "pic.twitter.com/ajf0zCvaeO",
+						"expanded_url": "https://twitter.com/fcotexeira/status/1197177257703485440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1460,
+								"h": 724,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 595,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 337,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "15665199",
+										"screen_name": "TweetMeet",
+										"name": "TweetMeet Central #MSFTEduChat"
+									},
+									{
+										"type": "user",
+										"user_id": "322681910",
+										"screen_name": "Med_Interactiva",
+										"name": "Media Interactiva"
+									},
+									{
+										"type": "user",
+										"user_id": "369806880",
+										"screen_name": "MaristasMedit",
+										"name": "MaristasMediterranea"
+									},
+									{
+										"type": "user",
+										"user_id": "17826187",
+										"screen_name": "MicrosoftEDU",
+										"name": "Microsoft Education"
+									},
+									{
+										"type": "user",
+										"user_id": "960546007",
+										"screen_name": "MicrosoftEduEsp",
+										"name": "Microsoft Educación"
+									},
+									{
+										"type": "user",
+										"user_id": "2386668497",
+										"screen_name": "MariaComin1",
+										"name": "Maria Comin"
+									},
+									{
+										"type": "user",
+										"user_id": "424333470",
+										"screen_name": "AnthonySalcito",
+										"name": "Anthony Salcito"
+									},
+									{
+										"type": "user",
+										"user_id": "18954505",
+										"screen_name": "LBayne",
+										"name": "Lindsay Bayne"
+									},
+									{
+										"type": "user",
+										"user_id": "111110878",
+										"screen_name": "sdelafosse",
+										"name": "Sonja Delafosse"
+									},
+									{
+										"type": "user",
+										"user_id": "628429695",
+										"screen_name": "maristascme",
+										"name": "Maristas en España"
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 233,
+										"y": 155,
+										"h": 249,
+										"w": 249
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 191,
+										"y": 127,
+										"h": 204,
+										"w": 204
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 233,
+										"y": 155,
+										"h": 249,
+										"w": 249
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 108,
+										"y": 72,
+										"h": 115,
+										"w": 115
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1197177248723406800,
+						"id_str": "1197177248723406848",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EJ06XWNWkAAIYv1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJ06XWNWkAAIYv1.jpg",
+						"url": "https://t.co/ajf0zCvaeO",
+						"display_url": "pic.twitter.com/ajf0zCvaeO",
+						"expanded_url": "https://twitter.com/fcotexeira/status/1197177257703485440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1460,
+								"h": 724,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 595,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 337,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "15665199",
+										"screen_name": "TweetMeet",
+										"name": "TweetMeet Central #MSFTEduChat"
+									},
+									{
+										"type": "user",
+										"user_id": "322681910",
+										"screen_name": "Med_Interactiva",
+										"name": "Media Interactiva"
+									},
+									{
+										"type": "user",
+										"user_id": "369806880",
+										"screen_name": "MaristasMedit",
+										"name": "MaristasMediterranea"
+									},
+									{
+										"type": "user",
+										"user_id": "17826187",
+										"screen_name": "MicrosoftEDU",
+										"name": "Microsoft Education"
+									},
+									{
+										"type": "user",
+										"user_id": "960546007",
+										"screen_name": "MicrosoftEduEsp",
+										"name": "Microsoft Educación"
+									},
+									{
+										"type": "user",
+										"user_id": "2386668497",
+										"screen_name": "MariaComin1",
+										"name": "Maria Comin"
+									},
+									{
+										"type": "user",
+										"user_id": "424333470",
+										"screen_name": "AnthonySalcito",
+										"name": "Anthony Salcito"
+									},
+									{
+										"type": "user",
+										"user_id": "18954505",
+										"screen_name": "LBayne",
+										"name": "Lindsay Bayne"
+									},
+									{
+										"type": "user",
+										"user_id": "111110878",
+										"screen_name": "sdelafosse",
+										"name": "Sonja Delafosse"
+									},
+									{
+										"type": "user",
+										"user_id": "628429695",
+										"screen_name": "maristascme",
+										"name": "Maristas en España"
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 233,
+										"y": 155,
+										"h": 249,
+										"w": 249
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 191,
+										"y": 127,
+										"h": 204,
+										"w": 204
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 233,
+										"y": 155,
+										"h": 249,
+										"w": 249
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 108,
+										"y": 72,
+										"h": 115,
+										"w": 115
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 488780635,
+				"id_str": "488780635",
+				"name": "Francisco Texeira",
+				"screen_name": "fcotexeira",
+				"location": "Málaga, Andalucía",
+				"description": "Lifelong learner, #MIEFellow, #MIEExpert & #MasterTrainer, #MSFTEduChat TweetMeet Team, certified #MOS & #MCE @MaristasMalaga #TeamsLover running @TeamsCentral",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1576,
+				"friends_count": 1928,
+				"listed_count": 36,
+				"created_at": "Fri Feb 10 20:51:20 +0000 2012",
+				"favourites_count": 5297,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2740,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1127588448230047744/QEbE-luF_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127588448230047744/QEbE-luF_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/488780635/1553804612",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 Congratulations to Francisco Texeira on his renewed #MIEFellow award!\n\nFrancisco is the person on Team TweetMeet who designs our beautiful images, making our hosts shine. He's also the driving force behind our transition to #MicrosoftTeams.\n\nCongrats @fcotexeira!\n#MicrosoftEDU https://t.co/IvQLJXZGUa"
+	},
+	{
 		"created_at": "Wed Nov 20 18:00:55 +0000 2019",
 		"id": 1197213247138619400,
 		"id_str": "1197213247138619393",
