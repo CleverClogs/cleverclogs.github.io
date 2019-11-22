@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 17:18:06 +0000 2019",
+		"id": 1197612153877999600,
+		"id_str": "1197927244662005760",
+		"full_text": "🎈 We're setting a tradition!\n\nAs the year comes to a close, 100+ hosts look forward to your stories about 2019 and your plans for 2020.\n\nLet's discuss #BestOf2019 at the #MSFTEduChat TweetMeet of December 17.\nQuestions soon.\n\nEvent times:\nhttps://t.co/o4uc1kISaq\n\n#MicrosoftEDU https://t.co/LpvsKCOPhH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BestOf2019",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						170,
+						182
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						264,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o4uc1kISaq",
+					"expanded_url": "https://www.timeanddate.com/worldclock/fixedtime.html?sort=1&p1=234&iso=20191217T10&msg=%23MSFTEduChat%20TweetMeet%20%e2%80%93%20December%2017%20%e2%80%93%20Best%20of%202019&ah=1&am=15&low=c",
+					"display_url": "timeanddate.com/worldclock/fix…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1197612138447200300,
+					"id_str": "1197612138447200257",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7F5QrXYAEsIwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7F5QrXYAEsIwM.jpg",
+					"url": "https://t.co/LpvsKCOPhH",
+					"display_url": "pic.twitter.com/LpvsKCOPhH",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1197612153877999617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 573,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 1258,
+									"y": 111,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 573,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 1258,
+									"y": 111,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 447,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 982,
+									"y": 86,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 29,
+									"y": 253,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 556,
+									"y": 49,
+									"h": 41,
+									"w": 41
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197612138447200300,
+					"id_str": "1197612138447200257",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7F5QrXYAEsIwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7F5QrXYAEsIwM.jpg",
+					"url": "https://t.co/LpvsKCOPhH",
+					"display_url": "pic.twitter.com/LpvsKCOPhH",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1197612153877999617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 573,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 1258,
+									"y": 111,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 66,
+									"y": 573,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 1258,
+									"y": 111,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 447,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 982,
+									"y": 86,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 29,
+									"y": 253,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 556,
+									"y": 49,
+									"h": 41,
+									"w": 41
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. Team TweetMeet: Marjolein Hoekstra, @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3986,
+			"friends_count": 3535,
+			"listed_count": 33,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 4832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1571557392",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 We're setting a tradition!\n\nAs the year comes to a close, 100+ hosts look forward to your stories about 2019 and your plans for 2020.\n\nLet's discuss #BestOf2019 at the #MSFTEduChat TweetMeet of December 17.\nQuestions soon.\n\nEvent times:\nhttps://t.co/o4uc1kISaq\n\n#MicrosoftEDU https://t.co/LpvsKCOPhH"
+	},
+	{
 		"created_at": "Thu Nov 21 17:42:40 +0000 2019",
 		"id": 1197571041905787000,
 		"id_str": "1197571041905786881",
