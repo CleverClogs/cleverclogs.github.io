@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 24 15:17:49 +0000 2019",
+		"id": 1198621749920878600,
+		"id_str": "1198621749920878593",
+		"full_text": "@THOMLYNN101 @dlguerin1 @zelfstudie @iamKirstenT @awfrench1 @nineviaene @Kbahri5 @JuliaFliss @JenWilliamsEdu @inspirecitizen1 @pattiandreo @KabdulaMash4077 @debbierabideau @t_pritekel @mspaperless @bar_zie @MisterCavey Thank you so much, Lynn. \n\nLet me say this: you have that incredible power to inspire everyone you connect with, to genuinely make other people shine, and I thank you for everything you contribute to this world every single day. \n\nThank you again.\nMarjolein",
+		"truncated": false,
+		"display_text_range": [
+			219,
+			476
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "THOMLYNN101",
+					"name": "Lynn Thomas 🇨🇦",
+					"id": 3248848295,
+					"id_str": "3248848295",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "dlguerin1",
+					"name": "donna guerin",
+					"id": 2706482731,
+					"id_str": "2706482731",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "zelfstudie",
+					"name": "Koen Timmers",
+					"id": 149593681,
+					"id_str": "149593681",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "iamKirstenT",
+					"name": "Kirsten Thompson | She/her 🌍🇪🇺🇬🇧🇦🇹",
+					"id": 34722043,
+					"id_str": "34722043",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "awfrench1",
+					"name": "Abigail French",
+					"id": 963063066488434700,
+					"id_str": "963063066488434688",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"screen_name": "nineviaene",
+					"name": "Nine",
+					"id": 829076779906240500,
+					"id_str": "829076779906240515",
+					"indices": [
+						60,
+						71
+					]
+				},
+				{
+					"screen_name": "Kbahri5",
+					"name": "Kellie Bahri",
+					"id": 1090632079069581300,
+					"id_str": "1090632079069581312",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"screen_name": "JuliaFliss",
+					"name": "Julia Fliss",
+					"id": 887781377759879200,
+					"id_str": "887781377759879168",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"screen_name": "JenWilliamsEdu",
+					"name": "Dr. Jennifer Williams",
+					"id": 495519949,
+					"id_str": "495519949",
+					"indices": [
+						93,
+						108
+					]
+				},
+				{
+					"screen_name": "inspirecitizen1",
+					"name": "Steve Sostak",
+					"id": 958907507212042200,
+					"id_str": "958907507212042240",
+					"indices": [
+						109,
+						125
+					]
+				},
+				{
+					"screen_name": "pattiandreo",
+					"name": "Patti Andreolas",
+					"id": 4519047274,
+					"id_str": "4519047274",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"screen_name": "KabdulaMash4077",
+					"name": "KM",
+					"id": 1436807582,
+					"id_str": "1436807582",
+					"indices": [
+						139,
+						155
+					]
+				},
+				{
+					"screen_name": "debbierabideau",
+					"name": "Debbie Rabideau",
+					"id": 267347816,
+					"id_str": "267347816",
+					"indices": [
+						156,
+						171
+					]
+				},
+				{
+					"screen_name": "t_pritekel",
+					"name": "Tiffani Pritekel",
+					"id": 796918324605186000,
+					"id_str": "796918324605186048",
+					"indices": [
+						172,
+						183
+					]
+				},
+				{
+					"screen_name": "mspaperless",
+					"name": "Kristine Holloway",
+					"id": 3641917637,
+					"id_str": "3641917637",
+					"indices": [
+						184,
+						196
+					]
+				},
+				{
+					"screen_name": "bar_zie",
+					"name": "Barbara A.Zielonka",
+					"id": 2231464708,
+					"id_str": "2231464708",
+					"indices": [
+						197,
+						205
+					]
+				},
+				{
+					"screen_name": "MisterCavey",
+					"name": "Tim Cavey",
+					"id": 963774992,
+					"id_str": "963774992",
+					"indices": [
+						206,
+						218
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1198599584504852500,
+		"in_reply_to_status_id_str": "1198599584504852480",
+		"in_reply_to_user_id": 3248848295,
+		"in_reply_to_user_id_str": "3248848295",
+		"in_reply_to_screen_name": "THOMLYNN101",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "World",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/Udn06tcMta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Udn06tcMta",
+							"expanded_url": "http://onen.link/onenote-community-notebook-read-only",
+							"display_url": "onen.link/onenote-commun…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23080,
+			"friends_count": 7723,
+			"listed_count": 646,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1571558832",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@THOMLYNN101 @dlguerin1 @zelfstudie @iamKirstenT @awfrench1 @nineviaene @Kbahri5 @JuliaFliss @JenWilliamsEdu @inspirecitizen1 @pattiandreo @KabdulaMash4077 @debbierabideau @t_pritekel @mspaperless @bar_zie @MisterCavey Thank you so much, Lynn. \n\nLet me say this: you have that incredible power to inspire everyone you connect with, to genuinely make other people shine, and I thank you for everything you contribute to this world every single day. \n\nThank you again.\nMarjolein"
+	},
+	{
 		"created_at": "Sat Nov 23 20:55:07 +0000 2019",
 		"id": 1198324684762181600,
 		"id_str": "1198344245805043717",
