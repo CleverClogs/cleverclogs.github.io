@@ -1,6 +1,160 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 25 14:47:36 +0000 2019",
+		"id": 1198976121645256700,
+		"id_str": "1198976535576928257",
+		"full_text": "🗣Our webinar in collaboration with #Microsoft will begin in 15 minutes. \n\n✨We will have a prize drawing among registered attendees for the chance to win a free subscription✨\n\n👇\n\n#MIEExpert #OneNote #MicrosoftTeams #Edtech \nhttps://t.co/abrLyb1JPA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						178,
+						188
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						189,
+						197
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						198,
+						213
+					]
+				},
+				{
+					"text": "Edtech",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/abrLyb1JPA",
+					"expanded_url": "https://www.youtube.com/watch?v=Gd-R3pswzzM",
+					"display_url": "youtube.com/watch?v=Gd-R3p…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4149933699,
+			"id_str": "4149933699",
+			"name": "Genially",
+			"screen_name": "genially_en",
+			"location": "New York - Spain",
+			"description": "Interactive Visual Communication for all. The tool leading the next generation of content creation. Simply genius. 🚀 \n\nSupport ➡ https://t.co/9CX6Fkg49I",
+			"url": "https://t.co/RdXKFyymc6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RdXKFyymc6",
+							"expanded_url": "http://genial.ly",
+							"display_url": "genial.ly",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9CX6Fkg49I",
+							"expanded_url": "http://bit.ly/2McfEYR",
+							"display_url": "bit.ly/2McfEYR",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4579,
+			"friends_count": 3048,
+			"listed_count": 114,
+			"created_at": "Mon Nov 09 15:24:09 +0000 2015",
+			"favourites_count": 7206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145644862257192960/pw_eNrEp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145644862257192960/pw_eNrEp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4149933699/1572867150",
+			"profile_link_color": "BC2360",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗣Our webinar in collaboration with #Microsoft will begin in 15 minutes. \n\n✨We will have a prize drawing among registered attendees for the chance to win a free subscription✨\n\n👇\n\n#MIEExpert #OneNote #MicrosoftTeams #Edtech \nhttps://t.co/abrLyb1JPA"
+	},
+	{
 		"created_at": "Mon Nov 25 09:18:27 +0000 2019",
 		"id": 1198324684762181600,
 		"id_str": "1198893702221094912",
