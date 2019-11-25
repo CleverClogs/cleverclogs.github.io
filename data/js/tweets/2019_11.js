@@ -1,6 +1,488 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 25 09:18:27 +0000 2019",
+		"id": 1198324684762181600,
+		"id_str": "1198893702221094912",
+		"full_text": "As the year comes to a close, join our 100+ superstar #MIEExpert hosts for the ultimate \"Best of 2019\" #MicrosoftEDU Tweet Meet! I will definitely be attending 🎉\n\n📅Dec. 17th at 10am Pacific Time\n\n#MSFTEduChat https://t.co/Uu8vUfHQH2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						196,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198324664180674600,
+					"id_str": "1198324664180674560",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EKFN7t4UEAAiYOj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKFN7t4UEAAiYOj.jpg",
+					"url": "https://t.co/Uu8vUfHQH2",
+					"display_url": "pic.twitter.com/Uu8vUfHQH2",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1198324684762181632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1533,
+							"h": 860,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "3096566760",
+									"screen_name": "OneNoteEDU",
+									"name": "OneNote Education"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								},
+								{
+									"type": "user",
+									"user_id": "3666731533",
+									"screen_name": "MSAUedu",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "27044576",
+									"screen_name": "RobynHrivnatz",
+									"name": "Robyn Hrivnatz"
+								},
+								{
+									"type": "user",
+									"user_id": "111110878",
+									"screen_name": "sdelafosse",
+									"name": "Sonja Delafosse"
+								},
+								{
+									"type": "user",
+									"user_id": "33184994",
+									"screen_name": "sparvell",
+									"name": "Mark Sparvell"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 446,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 800,
+									"y": 314,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 45,
+									"y": 304,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 28,
+									"y": 252,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 453,
+									"y": 178,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 25,
+									"y": 172,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 65,
+									"y": 570,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 1022,
+									"y": 402,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 58,
+									"y": 389,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 65,
+									"y": 570,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 1022,
+									"y": 402,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 58,
+									"y": 389,
+									"h": 122,
+									"w": 122
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198324664180674600,
+					"id_str": "1198324664180674560",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EKFN7t4UEAAiYOj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKFN7t4UEAAiYOj.jpg",
+					"url": "https://t.co/Uu8vUfHQH2",
+					"display_url": "pic.twitter.com/Uu8vUfHQH2",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1198324684762181632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1533,
+							"h": 860,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "3096566760",
+									"screen_name": "OneNoteEDU",
+									"name": "OneNote Education"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								},
+								{
+									"type": "user",
+									"user_id": "3666731533",
+									"screen_name": "MSAUedu",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "27044576",
+									"screen_name": "RobynHrivnatz",
+									"name": "Robyn Hrivnatz"
+								},
+								{
+									"type": "user",
+									"user_id": "111110878",
+									"screen_name": "sdelafosse",
+									"name": "Sonja Delafosse"
+								},
+								{
+									"type": "user",
+									"user_id": "33184994",
+									"screen_name": "sparvell",
+									"name": "Mark Sparvell"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 446,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 800,
+									"y": 314,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 45,
+									"y": 304,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 28,
+									"y": 252,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 453,
+									"y": 178,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 25,
+									"y": 172,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 65,
+									"y": 570,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 1022,
+									"y": 402,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 58,
+									"y": 389,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 65,
+									"y": 570,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 1022,
+									"y": 402,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 58,
+									"y": 389,
+									"h": 122,
+									"w": 122
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility #DyslexiaCon19",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22373,
+			"friends_count": 3450,
+			"listed_count": 773,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 84479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 161,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As the year comes to a close, join our 100+ superstar #MIEExpert hosts for the ultimate \"Best of 2019\" #MicrosoftEDU Tweet Meet! I will definitely be attending 🎉\n\n📅Dec. 17th at 10am Pacific Time\n\n#MSFTEduChat https://t.co/Uu8vUfHQH2"
+	},
+	{
 		"created_at": "Sun Nov 24 15:17:49 +0000 2019",
 		"id": 1198621749920878600,
 		"id_str": "1198621749920878593",
