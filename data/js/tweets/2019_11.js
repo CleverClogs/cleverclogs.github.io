@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 19:54:13 +0000 2019",
+		"id": 1199775987535425500,
+		"id_str": "1199778473201610754",
+		"full_text": "1 in 5 students struggles with reading disorders.\n\nImmersive Reader empowers them to help themselves improve their learning.\n\nThere are LOTS of ways to get students access to it! Here are three:\n\nhttps://t.co/qiGpSJHLBn #DitchBook #microsoftedu #edtech https://t.co/iQ8VIj3nkZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DitchBook",
+					"indices": [
+						220,
+						230
+					]
+				},
+				{
+					"text": "microsoftedu",
+					"indices": [
+						231,
+						244
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						245,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qiGpSJHLBn",
+					"expanded_url": "http://ditchthattextbook.com/3-ways-to-support-your-students-with-immersive-reader/",
+					"display_url": "ditchthattextbook.com/3-ways-to-supp…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199775981852078000,
+					"id_str": "1199775981852078083",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EKZ15hhWsAMas_b.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKZ15hhWsAMas_b.png",
+					"url": "https://t.co/iQ8VIj3nkZ",
+					"display_url": "pic.twitter.com/iQ8VIj3nkZ",
+					"expanded_url": "https://twitter.com/jmattmiller/status/1199775987535425536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "481244943",
+									"screen_name": "DitchThatTxtbk",
+									"name": "Ditch That Textbook"
+								},
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199775981852078000,
+					"id_str": "1199775981852078083",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EKZ15hhWsAMas_b.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKZ15hhWsAMas_b.png",
+					"url": "https://t.co/iQ8VIj3nkZ",
+					"display_url": "pic.twitter.com/iQ8VIj3nkZ",
+					"expanded_url": "https://twitter.com/jmattmiller/status/1199775987535425536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "481244943",
+									"screen_name": "DitchThatTxtbk",
+									"name": "Ditch That Textbook"
+								},
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 307899854,
+			"id_str": "307899854",
+			"name": "Matt Miller",
+			"screen_name": "jmattmiller",
+			"location": "Indiana #DitchBook #GTTribe",
+			"description": "Educator. #DitchBook Author. Textbook ditcher. GCI #GTAATX. Blogger. Speaker. Podcaster. Christ follower. Happy husband/dad of 3. Livin' the dream.",
+			"url": "http://t.co/DJCmkE0SYz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DJCmkE0SYz",
+							"expanded_url": "http://www.DitchThatTextbook.com",
+							"display_url": "DitchThatTextbook.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78273,
+			"friends_count": 7974,
+			"listed_count": 1562,
+			"created_at": "Mon May 30 13:54:53 +0000 2011",
+			"favourites_count": 93529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/943647258653970432/LYbyJHCs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/943647258653970432/LYbyJHCs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/307899854/1427727669",
+			"profile_link_color": "E4BC3F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1 in 5 students struggles with reading disorders.\n\nImmersive Reader empowers them to help themselves improve their learning.\n\nThere are LOTS of ways to get students access to it! Here are three:\n\nhttps://t.co/qiGpSJHLBn #DitchBook #microsoftedu #edtech https://t.co/iQ8VIj3nkZ"
+	},
+	{
 		"created_at": "Wed Nov 27 18:57:28 +0000 2019",
 		"id": 1199733742132244500,
 		"id_str": "1199764193320341506",
