@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 15:57:53 +0000 2019",
+		"id": 1199611019250806800,
+		"id_str": "1199718997664632832",
+		"full_text": "Proof by Induction Divisibility Question recorded this morning using @OneNoteEDU @OneNoteC before finishing our 6 questions in Applied Maths with my 6th years #huzzah #IMTA @ImtaDublin #appliedmaths @JctMaths #schoology @mtanville #flippedclassroom https://t.co/Tpgxx3qp00 https://t.co/Pk0XSsl5mc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "huzzah",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"text": "IMTA",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "appliedmaths",
+					"indices": [
+						185,
+						198
+					]
+				},
+				{
+					"text": "schoology",
+					"indices": [
+						209,
+						219
+					]
+				},
+				{
+					"text": "flippedclassroom",
+					"indices": [
+						231,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OneNoteEDU",
+					"name": "OneNote Education",
+					"id": 3096566760,
+					"id_str": "3096566760",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "ImtaDublin",
+					"name": "IMTA Dublin Branch",
+					"id": 791261650640863200,
+					"id_str": "791261650640863232",
+					"indices": [
+						173,
+						184
+					]
+				},
+				{
+					"screen_name": "JctMaths",
+					"name": "JCT Maths",
+					"id": 860852369478877200,
+					"id_str": "860852369478877184",
+					"indices": [
+						199,
+						208
+					]
+				},
+				{
+					"screen_name": "mtanville",
+					"name": "Mount Anville Secondary School",
+					"id": 2805615564,
+					"id_str": "2805615564",
+					"indices": [
+						220,
+						230
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Tpgxx3qp00",
+					"expanded_url": "https://www.youtube.com/watch?v=_PDKsFSsu04&list=PLIqbFTBEekO6F91ANDvDoml3JFMDr5sKj&index=3&t=0s",
+					"display_url": "youtube.com/watch?v=_PDKsF…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199611013202694100,
+					"id_str": "1199611013202694144",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EKXf3FaX0AAnZfy.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKXf3FaX0AAnZfy.png",
+					"url": "https://t.co/Pk0XSsl5mc",
+					"display_url": "pic.twitter.com/Pk0XSsl5mc",
+					"expanded_url": "https://twitter.com/PeterMannion10/status/1199611019250806785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 564,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 628,
+							"h": 1337,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 319,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199611013202694100,
+					"id_str": "1199611013202694144",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EKXf3FaX0AAnZfy.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKXf3FaX0AAnZfy.png",
+					"url": "https://t.co/Pk0XSsl5mc",
+					"display_url": "pic.twitter.com/Pk0XSsl5mc",
+					"expanded_url": "https://twitter.com/PeterMannion10/status/1199611019250806785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 564,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 628,
+							"h": 1337,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 319,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1199611013198483500,
+					"id_str": "1199611013198483457",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EKXf3FZXkAEv8ST.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKXf3FZXkAEv8ST.png",
+					"url": "https://t.co/Pk0XSsl5mc",
+					"display_url": "pic.twitter.com/Pk0XSsl5mc",
+					"expanded_url": "https://twitter.com/PeterMannion10/status/1199611019250806785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 498,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 887,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 887,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1199611013227831300,
+					"id_str": "1199611013227831296",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EKXf3FgXYAAw71G.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKXf3FgXYAAw71G.png",
+					"url": "https://t.co/Pk0XSsl5mc",
+					"display_url": "pic.twitter.com/Pk0XSsl5mc",
+					"expanded_url": "https://twitter.com/PeterMannion10/status/1199611019250806785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 589,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 1302,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 334,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194908839495307300,
+			"id_str": "1194908839495307264",
+			"name": "Peter Mannion",
+			"screen_name": "PeterMannion10",
+			"location": "",
+			"description": "Sailor. Maths, Applied Maths, Science, Physics Teacher. DCU Science Ed Alumni. UCD Masters in Ed Leadership student. Onenote and Schoology are my thing!",
+			"url": "https://t.co/ZqvtYQL4GD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZqvtYQL4GD",
+							"expanded_url": "https://www.youtube.com/channel/UCHi5qtIIgl6V5Q-1YL2u-3w",
+							"display_url": "youtube.com/channel/UCHi5q…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Nov 14 09:24:16 +0000 2019",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194914346717122561/iFFGVUNP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194914346717122561/iFFGVUNP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194908839495307264/1573725560",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proof by Induction Divisibility Question recorded this morning using @OneNoteEDU @OneNoteC before finishing our 6 questions in Applied Maths with my 6th years #huzzah #IMTA @ImtaDublin #appliedmaths @JctMaths #schoology @mtanville #flippedclassroom https://t.co/Tpgxx3qp00 https://t.co/Pk0XSsl5mc"
+	},
+	{
 		"created_at": "Mon Nov 25 20:43:21 +0000 2019",
 		"id": 1199066061527801900,
 		"id_str": "1199066061527801856",
