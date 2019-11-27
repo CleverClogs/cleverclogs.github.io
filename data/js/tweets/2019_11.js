@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 18:57:28 +0000 2019",
+		"id": 1199733742132244500,
+		"id_str": "1199764193320341506",
+		"full_text": "Flipgrid and Immersive Reader are making the news.\n\nIncredible story with Christine McKee about her son's remarkable progress.\nWatch the video below by Canadian TV station @GlobalNews\n\nChristine is a TweetMeet host again this month.\nCongrats, @CMcKee27!\n#StudentVoice #MSFTEduChat https://t.co/bTzJlHhebc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StudentVoice",
+					"indices": [
+						254,
+						267
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						268,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "globalnews",
+					"name": "Globalnews.ca",
+					"id": 116502194,
+					"id_str": "116502194",
+					"indices": [
+						172,
+						183
+					]
+				},
+				{
+					"screen_name": "CMcKee27",
+					"name": "Christine McKee",
+					"id": 58142152,
+					"id_str": "58142152",
+					"indices": [
+						243,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bTzJlHhebc",
+					"expanded_url": "https://twitter.com/CMcKee27/status/1199538878819909632",
+					"display_url": "twitter.com/CMcKee27/statu…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "World",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU connecting educators. \nTeam TweetMeet: Marjolein Hoekstra, @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4011,
+			"friends_count": 3542,
+			"listed_count": 33,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 4863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1574727601",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1199538878819909600,
+		"quoted_status_id_str": "1199538878819909632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bTzJlHhebc",
+			"expanded": "https://twitter.com/CMcKee27/status/1199538878819909632",
+			"display": "twitter.com/CMcKee27/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 27 04:02:09 +0000 2019",
+			"id": 1199538878819909600,
+			"id_str": "1199538878819909632",
+			"full_text": "Thank you so much @SuLingGoh for helping me share my passion for supporting and empowering ALL learners (especially my son) with @Flipgrid I feel so blessed getting to share every single day! #FlipgridFever  https://t.co/WzO8aLovYR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				231
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FlipgridFever",
+						"indices": [
+							192,
+							206
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SuLingGoh",
+						"name": "Su-Ling Goh",
+						"id": 474590681,
+						"id_str": "474590681",
+						"indices": [
+							18,
+							28
+						]
+					},
+					{
+						"screen_name": "Flipgrid",
+						"name": "Flipgrid",
+						"id": 630608702,
+						"id_str": "630608702",
+						"indices": [
+							129,
+							138
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WzO8aLovYR",
+						"expanded_url": "https://globalnews.ca/video/6222220/teacher-recognized-for-bringing-innovative-speaking-app-to-schools",
+						"display_url": "globalnews.ca/video/6222220/…",
+						"indices": [
+							208,
+							231
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58142152,
+				"id_str": "58142152",
+				"name": "Christine McKee",
+				"screen_name": "CMcKee27",
+				"location": "Edmonton, Alberta",
+				"description": "Emerging Technology Consultant & Educator/@flipgrid Ambassador & #GridGuide/#MIEExpert & #MIEMasterTrainer/ Google Certified Level 1&2!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2032,
+				"friends_count": 3213,
+				"listed_count": 104,
+				"created_at": "Sun Jul 19 06:34:13 +0000 2009",
+				"favourites_count": 11906,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10586,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCEBB6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1161317589533876224/Ja7nxPmL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161317589533876224/Ja7nxPmL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58142152/1561681447",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "F0A830",
+				"profile_sidebar_fill_color": "78C0A8",
+				"profile_text_color": "5E412F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Flipgrid and Immersive Reader are making the news.\n\nIncredible story with Christine McKee about her son's remarkable progress.\nWatch the video below by Canadian TV station @GlobalNews\n\nChristine is a TweetMeet host again this month.\nCongrats, @CMcKee27!\n#StudentVoice #MSFTEduChat https://t.co/bTzJlHhebc"
+	},
+	{
 		"created_at": "Wed Nov 27 18:02:10 +0000 2019",
 		"id": 1199066061527801900,
 		"id_str": "1199750276636385285",
