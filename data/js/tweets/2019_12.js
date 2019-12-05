@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 10:41:00 +0000 2019",
+		"id": 1201264529474109400,
+		"id_str": "1202538354232967173",
+		"full_text": "Despite the announcement back in April that the OneNote 2016 desktop version will no longer be developed, it's back! Yep, it's here to stay and we can expect to see some new features too. What do you hope to see?\n🎥https://t.co/ghVTCDqXrh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ghVTCDqXrh",
+					"expanded_url": "https://youtu.be/F70fd5LYkac",
+					"display_url": "youtu.be/F70fd5LYkac",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21178310,
+			"id_str": "21178310",
+			"name": "Brett Gilbertson",
+			"screen_name": "oztabletpc",
+			"location": "Melbourne, Victoria",
+			"description": "Microsoft MVP Windows and Devices for IT 2016 - 2018; Microsoft MVP Surface 2015; Microsoft MVP Tablet and Touch 2011 – 2014",
+			"url": "https://t.co/376kbFdg8K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/376kbFdg8K",
+							"expanded_url": "http://www.tabletpc.com.au",
+							"display_url": "tabletpc.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 563,
+			"listed_count": 23,
+			"created_at": "Wed Feb 18 08:02:12 +0000 2009",
+			"favourites_count": 4101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/651206965851385856/aEk9L4IM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/651206965851385856/aEk9L4IM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21178310/1444094921",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Despite the announcement back in April that the OneNote 2016 desktop version will no longer be developed, it's back! Yep, it's here to stay and we can expect to see some new features too. What do you hope to see?\n🎥https://t.co/ghVTCDqXrh"
+	},
+	{
 		"created_at": "Wed Dec 04 14:21:04 +0000 2019",
 		"id": 1201914310122971100,
 		"id_str": "1202231349253414914",
