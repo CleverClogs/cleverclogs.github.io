@@ -1,6 +1,147 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 22:21:21 +0000 2019",
+		"id": 1202714604675178500,
+		"id_str": "1202714604675178498",
+		"full_text": "Stunning handwriting effects in #OneNote for #Windows10. \nWith a few tweaks, convert colorized digital ink into your own handwriting font, create tilt-shadow block headers, and more cool tips.  \n\nhttps://t.co/83EUnM0mM1\nby Justice Frangipane from @TabletProTools \n#digitalink",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "digitalink",
+					"indices": [
+						264,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TabletProTools",
+					"name": "Justice Frangipane",
+					"id": 4607185094,
+					"id_str": "4607185094",
+					"indices": [
+						247,
+						262
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/83EUnM0mM1",
+					"expanded_url": "https://www.youtube.com/watch?v=axe7IaLfRyE",
+					"display_url": "youtube.com/watch?v=axe7Ia…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23115,
+			"friends_count": 7720,
+			"listed_count": 643,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1574945310",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stunning handwriting effects in #OneNote for #Windows10. \nWith a few tweaks, convert colorized digital ink into your own handwriting font, create tilt-shadow block headers, and more cool tips.  \n\nhttps://t.co/83EUnM0mM1\nby Justice Frangipane from @TabletProTools \n#digitalink"
+	},
+	{
 		"created_at": "Thu Dec 05 22:15:26 +0000 2019",
 		"id": 1202713114740973600,
 		"id_str": "1202713114740973569",
