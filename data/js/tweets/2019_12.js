@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 05 23:33:54 +0000 2019",
+		"id": 1202732860580548600,
+		"id_str": "1202732860580548608",
+		"full_text": "Gorgeous shot from the new #Microsoft video about the Office beta apps based on the Fluid Framework.\n\nMore details here:\nhttps://t.co/uQByEhgecP?\n\nIncredible new video:\nhttps://t.co/J5POKdffsi\nby @Microsoft\n\nP.S. not sure if #OneNote will indeed get this type of makeover also https://t.co/kDiKo29WZK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						225,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						196,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uQByEhgecP",
+					"expanded_url": "https://medium.com/microsoft-design/microsoft365mobile-3b5b7782152c",
+					"display_url": "medium.com/microsoft-desi…",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/J5POKdffsi",
+					"expanded_url": "https://www.youtube.com/watch?v=miM6mBAfA8g",
+					"display_url": "youtube.com/watch?v=miM6mB…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202731717129310200,
+					"id_str": "1202731717129310208",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ELD2H9eWkAAiRyk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELD2H9eWkAAiRyk.jpg",
+					"url": "https://t.co/kDiKo29WZK",
+					"display_url": "pic.twitter.com/kDiKo29WZK",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1202732860580548608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1262,
+							"h": 842,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 432,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 416,
+									"y": 455,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 224,
+									"y": 245,
+									"h": 32,
+									"w": 32
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 416,
+									"y": 455,
+									"h": 61,
+									"w": 61
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202731717129310200,
+					"id_str": "1202731717129310208",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ELD2H9eWkAAiRyk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELD2H9eWkAAiRyk.jpg",
+					"url": "https://t.co/kDiKo29WZK",
+					"display_url": "pic.twitter.com/kDiKo29WZK",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1202732860580548608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1262,
+							"h": 842,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 395,
+									"y": 432,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 416,
+									"y": 455,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 224,
+									"y": 245,
+									"h": 32,
+									"w": 32
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 416,
+									"y": 455,
+									"h": 61,
+									"w": 61
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23116,
+			"friends_count": 7720,
+			"listed_count": 642,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1574945310",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gorgeous shot from the new #Microsoft video about the Office beta apps based on the Fluid Framework.\n\nMore details here:\nhttps://t.co/uQByEhgecP?\n\nIncredible new video:\nhttps://t.co/J5POKdffsi\nby @Microsoft\n\nP.S. not sure if #OneNote will indeed get this type of makeover also https://t.co/kDiKo29WZK"
+	},
+	{
 		"created_at": "Thu Dec 05 22:21:21 +0000 2019",
 		"id": 1202714604675178500,
 		"id_str": "1202714604675178498",
