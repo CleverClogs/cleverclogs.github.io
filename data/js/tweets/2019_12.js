@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 07 21:24:49 +0000 2019",
+		"id": 1203425151259480000,
+		"id_str": "1203425151259480066",
+		"full_text": "Start 2020 on the right foot: add daily journaling to your New Year's resolutions.\n \nA showcase of the Microsoft note-taking tool, Kurt Soeser's #OneNote Calendar 2020 is such a beautiful product.\nCurrently on sale:\nhttps://t.co/B4dhOo2l5b\nby @KurtSoeser #KurtRocks\n\n#productivity https://t.co/OMqEfSe7dA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "KurtRocks",
+					"indices": [
+						255,
+						265
+					]
+				},
+				{
+					"text": "productivity",
+					"indices": [
+						267,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kurtsoeser",
+					"name": "Kurt Söser 🤘#kurtrocks",
+					"id": 55684861,
+					"id_str": "55684861",
+					"indices": [
+						243,
+						254
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B4dhOo2l5b",
+					"expanded_url": "https://www.o365school.com/shop/onenote-calendar-2020-eng/",
+					"display_url": "o365school.com/shop/onenote-c…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203425149338488800,
+					"id_str": "1203425149338488840",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ELNszBwXkAg3V2-.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELNszBwXkAg3V2-.png",
+					"url": "https://t.co/OMqEfSe7dA",
+					"display_url": "pic.twitter.com/OMqEfSe7dA",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1203425151259480066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 328,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 328,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203425149338488800,
+					"id_str": "1203425149338488840",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ELNszBwXkAg3V2-.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELNszBwXkAg3V2-.png",
+					"url": "https://t.co/OMqEfSe7dA",
+					"display_url": "pic.twitter.com/OMqEfSe7dA",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1203425151259480066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 328,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 328,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23129,
+			"friends_count": 7720,
+			"listed_count": 643,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1574945310",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Start 2020 on the right foot: add daily journaling to your New Year's resolutions.\n \nA showcase of the Microsoft note-taking tool, Kurt Soeser's #OneNote Calendar 2020 is such a beautiful product.\nCurrently on sale:\nhttps://t.co/B4dhOo2l5b\nby @KurtSoeser #KurtRocks\n\n#productivity https://t.co/OMqEfSe7dA"
+	},
+	{
 		"created_at": "Sat Dec 07 12:04:01 +0000 2019",
 		"id": 1203284023788871700,
 		"id_str": "1203284023788871680",
