@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 16:26:34 +0000 2019",
+		"id": 1203312703428792300,
+		"id_str": "1203712483401326594",
+		"full_text": "🏷 Tag, you're it!\n\nUse a game to invite your friends to the #MSFTEduChat TweetMeet Dec 17.\n\nRetweet 🔁  this tweet while attaching your own TweetMeet Friend Card. Create one using \n👉 https://t.co/C7O0gPEJDo\n\nUse image tagging to tag 10 people you'd like see join!\n#BestOf2019 https://t.co/vptH2GBpUm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"text": "BestOf2019",
+					"indices": [
+						263,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C7O0gPEJDo",
+					"expanded_url": "https://twt.mt/tweetmeet-friend-card",
+					"display_url": "twt.mt/tweetmeet-frie…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203311644312510500,
+					"id_str": "1203311644312510465",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ELMFkKlWoAE5WZ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELMFkKlWoAE5WZ-.jpg",
+					"url": "https://t.co/vptH2GBpUm",
+					"display_url": "pic.twitter.com/vptH2GBpUm",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1203312703428792320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "22850935",
+									"screen_name": "LynneOakvik",
+									"name": "Lynne Oakvik"
+								},
+								{
+									"type": "user",
+									"user_id": "3042482186",
+									"screen_name": "Teach_Serve",
+									"name": "Monica Alicea, Ph.D"
+								},
+								{
+									"type": "user",
+									"user_id": "253925945",
+									"screen_name": "BeckyKeene",
+									"name": "Becky Keene"
+								},
+								{
+									"type": "user",
+									"user_id": "216900952",
+									"screen_name": "mr_isaacs",
+									"name": "Steve Isaacs"
+								},
+								{
+									"type": "user",
+									"user_id": "710032818332536833",
+									"screen_name": "AMilversted",
+									"name": "Angela Milversted"
+								},
+								{
+									"type": "user",
+									"user_id": "2741049312",
+									"screen_name": "APSITFelisa",
+									"name": "Felisa Ford"
+								},
+								{
+									"type": "user",
+									"user_id": "1398764556",
+									"screen_name": "MeenakshiUberoi",
+									"name": "Meenakshi Uberoi"
+								},
+								{
+									"type": "user",
+									"user_id": "595079922",
+									"screen_name": "kerszi",
+									"name": "Kathi Kersznowski"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace"
+								},
+								{
+									"type": "user",
+									"user_id": "1114148359269441538",
+									"screen_name": "JDWEdTech",
+									"name": "James Wilton"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 184,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 340,
+									"y": 176,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 100,
+									"y": 135,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1257,
+									"y": 417,
+									"h": 154,
+									"w": 154
+								},
+								{
+									"x": 769,
+									"y": 399,
+									"h": 183,
+									"w": 183
+								},
+								{
+									"x": 226,
+									"y": 306,
+									"h": 301,
+									"w": 301
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1257,
+									"y": 417,
+									"h": 154,
+									"w": 154
+								},
+								{
+									"x": 769,
+									"y": 399,
+									"h": 183,
+									"w": 183
+								},
+								{
+									"x": 226,
+									"y": 306,
+									"h": 301,
+									"w": 301
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 982,
+									"y": 325,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 600,
+									"y": 311,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 176,
+									"y": 239,
+									"h": 235,
+									"w": 235
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203311644312510500,
+					"id_str": "1203311644312510465",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ELMFkKlWoAE5WZ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELMFkKlWoAE5WZ-.jpg",
+					"url": "https://t.co/vptH2GBpUm",
+					"display_url": "pic.twitter.com/vptH2GBpUm",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1203312703428792320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "22850935",
+									"screen_name": "LynneOakvik",
+									"name": "Lynne Oakvik"
+								},
+								{
+									"type": "user",
+									"user_id": "3042482186",
+									"screen_name": "Teach_Serve",
+									"name": "Monica Alicea, Ph.D"
+								},
+								{
+									"type": "user",
+									"user_id": "253925945",
+									"screen_name": "BeckyKeene",
+									"name": "Becky Keene"
+								},
+								{
+									"type": "user",
+									"user_id": "216900952",
+									"screen_name": "mr_isaacs",
+									"name": "Steve Isaacs"
+								},
+								{
+									"type": "user",
+									"user_id": "710032818332536833",
+									"screen_name": "AMilversted",
+									"name": "Angela Milversted"
+								},
+								{
+									"type": "user",
+									"user_id": "2741049312",
+									"screen_name": "APSITFelisa",
+									"name": "Felisa Ford"
+								},
+								{
+									"type": "user",
+									"user_id": "1398764556",
+									"screen_name": "MeenakshiUberoi",
+									"name": "Meenakshi Uberoi"
+								},
+								{
+									"type": "user",
+									"user_id": "595079922",
+									"screen_name": "kerszi",
+									"name": "Kathi Kersznowski"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace"
+								},
+								{
+									"type": "user",
+									"user_id": "1114148359269441538",
+									"screen_name": "JDWEdTech",
+									"name": "James Wilton"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 184,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 340,
+									"y": 176,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 100,
+									"y": 135,
+									"h": 133,
+									"w": 133
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1257,
+									"y": 417,
+									"h": 154,
+									"w": 154
+								},
+								{
+									"x": 769,
+									"y": 399,
+									"h": 183,
+									"w": 183
+								},
+								{
+									"x": 226,
+									"y": 306,
+									"h": 301,
+									"w": 301
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1257,
+									"y": 417,
+									"h": 154,
+									"w": 154
+								},
+								{
+									"x": 769,
+									"y": 399,
+									"h": 183,
+									"w": 183
+								},
+								{
+									"x": 226,
+									"y": 306,
+									"h": 301,
+									"w": 301
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 982,
+									"y": 325,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 600,
+									"y": 311,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 176,
+									"y": 239,
+									"h": 235,
+									"w": 235
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "All TweetMeet announcements on the Microsoft Education blog:",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU connecting educators. \nTeam TweetMeet: Marjolein Hoekstra, @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4046,
+			"friends_count": 3548,
+			"listed_count": 35,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 4940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1574727601",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🏷 Tag, you're it!\n\nUse a game to invite your friends to the #MSFTEduChat TweetMeet Dec 17.\n\nRetweet 🔁  this tweet while attaching your own TweetMeet Friend Card. Create one using \n👉 https://t.co/C7O0gPEJDo\n\nUse image tagging to tag 10 people you'd like see join!\n#BestOf2019 https://t.co/vptH2GBpUm"
+	},
+	{
 		"created_at": "Sat Dec 07 21:24:49 +0000 2019",
 		"id": 1203425151259480000,
 		"id_str": "1203425151259480066",
