@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 23:39:02 +0000 2019",
+		"id": 1203790936133832700,
+		"id_str": "1203821315486040064",
+		"full_text": "🥁  Seen our new Twitter Header Photos yet for December 17?\nTogether with 290 hosts, announce the biggest global #BestOf2019 TweetMeet ever from your own profile!\n\n👉Get your banner here:\nhttps://t.co/nl0TX4MfP0\nTruly 💖 RT.\n\n#MSFTEduChat \n#MicrosoftEDU #MIEExpert\nAnimated GIF: https://t.co/5VXSuKskCC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BestOf2019",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						223,
+						235
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						237,
+						250
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						251,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nl0TX4MfP0",
+					"expanded_url": "https://1drv.ms/f/s!ApP7GQZT5sq6iK9QslF0_uyekVvAFw",
+					"display_url": "1drv.ms/f/s!ApP7GQZT5s…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203790448252334000,
+					"id_str": "1203790448252334081",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELS5COQWsAEuRej.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELS5COQWsAEuRej.jpg",
+					"url": "https://t.co/5VXSuKskCC",
+					"display_url": "pic.twitter.com/5VXSuKskCC",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1203790936133832706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203790448252334000,
+					"id_str": "1203790448252334081",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELS5COQWsAEuRej.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELS5COQWsAEuRej.jpg",
+					"url": "https://t.co/5VXSuKskCC",
+					"display_url": "pic.twitter.com/5VXSuKskCC",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1203790936133832706/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELS5COQWsAEuRej.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "All TweetMeet announcements on the Microsoft Education blog:",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU connecting educators. \nTeam TweetMeet: Marjolein Hoekstra, @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/vTmAj2KFoN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vTmAj2KFoN",
+							"expanded_url": "https://educationblog.microsoft.com/tag/tweetmeet",
+							"display_url": "educationblog.microsoft.com/tag/tweetmeet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4049,
+			"friends_count": 3548,
+			"listed_count": 34,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 4941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1574727601",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🥁  Seen our new Twitter Header Photos yet for December 17?\nTogether with 290 hosts, announce the biggest global #BestOf2019 TweetMeet ever from your own profile!\n\n👉Get your banner here:\nhttps://t.co/nl0TX4MfP0\nTruly 💖 RT.\n\n#MSFTEduChat \n#MicrosoftEDU #MIEExpert\nAnimated GIF: https://t.co/5VXSuKskCC"
+	},
+	{
 		"created_at": "Sun Dec 08 16:26:34 +0000 2019",
 		"id": 1203312703428792300,
 		"id_str": "1203712483401326594",
