@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 22:07:37 +0000 2019",
+		"id": 1204160697921425400,
+		"id_str": "1204160697921425408",
+		"full_text": "❓ Math teacher @mrallanmaths has a question for all #OneNote educators out there. \n\nWhat ink-enabled classroom touch screen do you recommend for direct inking in #OneNote, and why?\n\ncc @daperfecttablet @anfield1974 @kurtsoeser @TomGrissom @sig225 @eustace_stephen \n\n#OneNoteQ https://t.co/vk4YvfEjRC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "OneNoteQ",
+					"indices": [
+						266,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mrallanmaths",
+					"name": "Mr Allan",
+					"id": 1156785420,
+					"id_str": "1156785420",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "daperfecttablet",
+					"name": "Robert Baker",
+					"id": 70403313,
+					"id_str": "70403313",
+					"indices": [
+						185,
+						201
+					]
+				},
+				{
+					"screen_name": "anfield1974",
+					"name": "Steve Crapnell",
+					"id": 158195502,
+					"id_str": "158195502",
+					"indices": [
+						202,
+						214
+					]
+				},
+				{
+					"screen_name": "kurtsoeser",
+					"name": "Kurt Söser 🤘#kurtrocks",
+					"id": 55684861,
+					"id_str": "55684861",
+					"indices": [
+						215,
+						226
+					]
+				},
+				{
+					"screen_name": "tomgrissom",
+					"name": "Tom Grissom",
+					"id": 15348616,
+					"id_str": "15348616",
+					"indices": [
+						227,
+						238
+					]
+				},
+				{
+					"screen_name": "sig225",
+					"name": "Cal Armstrong",
+					"id": 12895782,
+					"id_str": "12895782",
+					"indices": [
+						239,
+						246
+					]
+				},
+				{
+					"screen_name": "eustace_stephen",
+					"name": "Stephen Eustace",
+					"id": 705409101220675600,
+					"id_str": "705409101220675584",
+					"indices": [
+						247,
+						263
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vk4YvfEjRC",
+					"expanded_url": "https://twitter.com/mrallanmaths/status/1204129309234999296",
+					"display_url": "twitter.com/mrallanmaths/s…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23170,
+			"friends_count": 7720,
+			"listed_count": 643,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1574945310",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1204129309234999300,
+		"quoted_status_id_str": "1204129309234999296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vk4YvfEjRC",
+			"expanded": "https://twitter.com/mrallanmaths/status/1204129309234999296",
+			"display": "twitter.com/mrallanmaths/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 09 20:02:53 +0000 2019",
+			"id": 1204129309234999300,
+			"id_str": "1204129309234999296",
+			"full_text": "Hi @msonenote @OneNoteEDU @OneNoteC, have you any recommendations for the best interactive whiteboard for inking onto a OneNote page? Ideally I’d like the experience of casting my iPad to a screen, but where I can write directly onto the screen without lag/poor quality inking.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							3,
+							13
+						]
+					},
+					{
+						"screen_name": "OneNoteEDU",
+						"name": "OneNote Education",
+						"id": 3096566760,
+						"id_str": "3096566760",
+						"indices": [
+							14,
+							25
+						]
+					},
+					{
+						"screen_name": "OneNoteC",
+						"name": "OneNote Central",
+						"id": 2582768738,
+						"id_str": "2582768738",
+						"indices": [
+							26,
+							35
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1156785420,
+				"id_str": "1156785420",
+				"name": "Mr Allan",
+				"screen_name": "mrallanmaths",
+				"location": "Scotland, United Kingdom",
+				"description": "Mathematics Teacher. #MIEExpert | Apple Teacher | Shared OneNote: https://t.co/seDpBjdpXI",
+				"url": "https://t.co/QkojLQOgIN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QkojLQOgIN",
+								"expanded_url": "http://mrallanmaths.wordpress.com",
+								"display_url": "mrallanmaths.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/seDpBjdpXI",
+								"expanded_url": "http://bit.ly/ScottishMathsOneNote",
+								"display_url": "bit.ly/ScottishMathsO…",
+								"indices": [
+									66,
+									89
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3046,
+				"friends_count": 1901,
+				"listed_count": 83,
+				"created_at": "Thu Feb 07 10:56:38 +0000 2013",
+				"favourites_count": 8765,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9581,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1158788203085803522/PCNTzebS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158788203085803522/PCNTzebS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1156785420/1553347017",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❓ Math teacher @mrallanmaths has a question for all #OneNote educators out there. \n\nWhat ink-enabled classroom touch screen do you recommend for direct inking in #OneNote, and why?\n\ncc @daperfecttablet @anfield1974 @kurtsoeser @TomGrissom @sig225 @eustace_stephen \n\n#OneNoteQ https://t.co/vk4YvfEjRC"
+	},
+	{
 		"created_at": "Sun Dec 08 23:39:02 +0000 2019",
 		"id": 1203790936133832700,
 		"id_str": "1203821315486040064",
