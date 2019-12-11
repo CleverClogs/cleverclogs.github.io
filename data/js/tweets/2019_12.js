@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 22:40:15 +0000 2019",
+		"id": 1204893685005066200,
+		"id_str": "1204893685005066240",
+		"full_text": "Job opening for a senior software engineer at the Notes team, which makes #OneNote and @StickyNotes, at their office in Vancouver, Canada.\n\nMore details and other opportunities in @RezaJooyandeh's tweet thread below: https://t.co/VsCKg4wNky https://t.co/Gu0tZVChdH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stickynotes",
+					"name": "Sticky Notes",
+					"id": 774181166924509200,
+					"id_str": "774181166924509184",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"screen_name": "RezaJooyandeh",
+					"name": "Reza Jooyandeh 🌈",
+					"id": 2246117322,
+					"id_str": "2246117322",
+					"indices": [
+						180,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VsCKg4wNky",
+					"expanded_url": "https://twitter.com/RezaJooyandeh/status/1204890916302929920",
+					"display_url": "twitter.com/RezaJooyandeh/…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204893678684258300,
+					"id_str": "1204893678684258305",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/ELikar4WwAEMkL8.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELikar4WwAEMkL8.png",
+					"url": "https://t.co/Gu0tZVChdH",
+					"display_url": "pic.twitter.com/Gu0tZVChdH",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1204893685005066240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1409,
+							"h": 1409,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204893678684258300,
+					"id_str": "1204893678684258305",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/ELikar4WwAEMkL8.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELikar4WwAEMkL8.png",
+					"url": "https://t.co/Gu0tZVChdH",
+					"display_url": "pic.twitter.com/Gu0tZVChdH",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1204893685005066240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1409,
+							"h": 1409,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23188,
+			"friends_count": 7718,
+			"listed_count": 643,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1574945310",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1204890916302930000,
+		"quoted_status_id_str": "1204890916302929920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VsCKg4wNky",
+			"expanded": "https://twitter.com/RezaJooyandeh/status/1204890916302929920",
+			"display": "twitter.com/RezaJooyandeh/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 11 22:29:14 +0000 2019",
+			"id": 1204890916302930000,
+			"id_str": "1204890916302929920",
+			"full_text": "Anyone wants to join our amazing team and help building the future of @msonenote? Apply here: https://t.co/K5SHQUWcax",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "msonenote",
+						"name": "Microsoft OneNote",
+						"id": 23735316,
+						"id_str": "23735316",
+						"indices": [
+							70,
+							80
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/K5SHQUWcax",
+						"expanded_url": "https://careers.microsoft.com/us/en/job/749477/Senior-Software-Engineer",
+						"display_url": "careers.microsoft.com/us/en/job/7494…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1204890915464081400,
+			"in_reply_to_status_id_str": "1204890915464081408",
+			"in_reply_to_user_id": 2246117322,
+			"in_reply_to_user_id_str": "2246117322",
+			"in_reply_to_screen_name": "RezaJooyandeh",
+			"user": {
+				"id": 2246117322,
+				"id_str": "2246117322",
+				"name": "Reza Jooyandeh 🌈",
+				"screen_name": "RezaJooyandeh",
+				"location": "Vancouver, British Columbia",
+				"description": "Eng Mgr at Microsoft #OneNote. Volunteer @scienceworldca teaching kids the 🔮 of Math & CompSci. Tweet about MSFT, inclusivity & politics. Opinions mine. He/Him",
+				"url": "https://t.co/FqWzmRi0gO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FqWzmRi0gO",
+								"expanded_url": "http://www.jooyandeh.com",
+								"display_url": "jooyandeh.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 657,
+				"friends_count": 208,
+				"listed_count": 25,
+				"created_at": "Sat Dec 14 20:37:36 +0000 2013",
+				"favourites_count": 950,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 692,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/921411519648227328/3P_t0ehm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/921411519648227328/3P_t0ehm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2246117322/1530074267",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Job opening for a senior software engineer at the Notes team, which makes #OneNote and @StickyNotes, at their office in Vancouver, Canada.\n\nMore details and other opportunities in @RezaJooyandeh's tweet thread below: https://t.co/VsCKg4wNky https://t.co/Gu0tZVChdH"
+	},
+	{
 		"created_at": "Wed Dec 11 21:22:58 +0000 2019",
 		"id": 1204835742041723000,
 		"id_str": "1204874239351885825",
