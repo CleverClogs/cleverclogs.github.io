@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 21:33:34 +0000 2019",
+		"id": 1205600025461633000,
+		"id_str": "1205601681309929474",
+		"full_text": "4 days to go. Will you join our next #MSFTeduchat? \nBe inspired. Who's in? #MIEExpert https://t.co/0AtZg4p29w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTeduchat",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205600004120948700,
+					"id_str": "1205600004120948737",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ELsm0PLWsAEATok.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELsm0PLWsAEATok.jpg",
+					"url": "https://t.co/0AtZg4p29w",
+					"display_url": "pic.twitter.com/0AtZg4p29w",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1205600025461633025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "214027732",
+									"screen_name": "SkypeClassroom",
+									"name": "Skype in the Classroom"
+								},
+								{
+									"type": "user",
+									"user_id": "424333470",
+									"screen_name": "AnthonySalcito",
+									"name": "Anthony Salcito"
+								},
+								{
+									"type": "user",
+									"user_id": "33184994",
+									"screen_name": "sparvell",
+									"name": "Mark Sparvell"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								},
+								{
+									"type": "user",
+									"user_id": "17976650",
+									"screen_name": "kateingalway",
+									"name": "Kate Murray"
+								},
+								{
+									"type": "user",
+									"user_id": "4120721403",
+									"screen_name": "MissGEnrique",
+									"name": "Gloria Enrique"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace"
+								},
+								{
+									"type": "user",
+									"user_id": "336035298",
+									"screen_name": "MichaelJDunlea",
+									"name": "Michael Dunlea M.Ed., NBCT, PAEMST"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 416,
+									"y": 343,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 61,
+									"y": 132,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1405,
+									"y": 1157,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 208,
+									"y": 445,
+									"h": 346,
+									"w": 346
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 735,
+									"y": 605,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 108,
+									"y": 232,
+									"h": 181,
+									"w": 181
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1255,
+									"y": 1033,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 185,
+									"y": 397,
+									"h": 309,
+									"w": 309
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205600004120948700,
+					"id_str": "1205600004120948737",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/ELsm0PLWsAEATok.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELsm0PLWsAEATok.jpg",
+					"url": "https://t.co/0AtZg4p29w",
+					"display_url": "pic.twitter.com/0AtZg4p29w",
+					"expanded_url": "https://twitter.com/zelfstudie/status/1205600025461633025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "214027732",
+									"screen_name": "SkypeClassroom",
+									"name": "Skype in the Classroom"
+								},
+								{
+									"type": "user",
+									"user_id": "424333470",
+									"screen_name": "AnthonySalcito",
+									"name": "Anthony Salcito"
+								},
+								{
+									"type": "user",
+									"user_id": "33184994",
+									"screen_name": "sparvell",
+									"name": "Mark Sparvell"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								},
+								{
+									"type": "user",
+									"user_id": "17976650",
+									"screen_name": "kateingalway",
+									"name": "Kate Murray"
+								},
+								{
+									"type": "user",
+									"user_id": "4120721403",
+									"screen_name": "MissGEnrique",
+									"name": "Gloria Enrique"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace"
+								},
+								{
+									"type": "user",
+									"user_id": "336035298",
+									"screen_name": "MichaelJDunlea",
+									"name": "Michael Dunlea M.Ed., NBCT, PAEMST"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 416,
+									"y": 343,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 61,
+									"y": 132,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1405,
+									"y": 1157,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 208,
+									"y": 445,
+									"h": 346,
+									"w": 346
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 735,
+									"y": 605,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 108,
+									"y": 232,
+									"h": 181,
+									"w": 181
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1255,
+									"y": 1033,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 185,
+									"y": 397,
+									"h": 309,
+									"w": 309
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149593681,
+			"id_str": "149593681",
+			"name": "Koen Timmers",
+			"screen_name": "zelfstudie",
+			"location": "Belgium",
+			"description": "Executive Director TAG inc. Author | Speaker | Lecturer | FRSA | @TeacherPrize Top10 | Founder Climate Action Project - Kakuma project & @SDGlabschools",
+			"url": "https://t.co/CMArT0rZSU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CMArT0rZSU",
+							"expanded_url": "http://www.timmers.me",
+							"display_url": "timmers.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13761,
+			"friends_count": 11801,
+			"listed_count": 426,
+			"created_at": "Sat May 29 17:52:29 +0000 2010",
+			"favourites_count": 28378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D0D0D0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183143481839108096/yVoMX6VR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183143481839108096/yVoMX6VR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149593681/1570918415",
+			"profile_link_color": "D9650D",
+			"profile_sidebar_border_color": "0D0202",
+			"profile_sidebar_fill_color": "EDA426",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "4 days to go. Will you join our next #MSFTeduchat? \nBe inspired. Who's in? #MIEExpert https://t.co/0AtZg4p29w"
+	},
+	{
 		"created_at": "Fri Dec 13 18:10:11 +0000 2019",
 		"id": 1205541929443905500,
 		"id_str": "1205550498713100289",
