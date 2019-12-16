@@ -1,6 +1,391 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 16 20:56:27 +0000 2019",
+		"id": 1206649703796007000,
+		"id_str": "1206679503025713154",
+		"full_text": "Join the largest and maybe most #Onederful TweetMeet ever tomorrow! 🦄\n\nI'll be there and so will 2⃣9⃣0⃣+ hosts 🤯 \n\nTuesday, December 17 18:00 Irish Time ☘️\n\nLocal event time ⏲️👇\n\nhttps://t.co/xNVowunFJ2 \n\n#MSFTEduChat #MicrosoftEDU #MIEExpert #edtech #Sparvellous https://t.co/QCDMZCNBTt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onederful",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						205,
+						217
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						218,
+						231
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						232,
+						242
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						243,
+						250
+					]
+				},
+				{
+					"text": "Sparvellous",
+					"indices": [
+						251,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xNVowunFJ2",
+					"expanded_url": "http://tiny.cc/tweetmeet",
+					"display_url": "tiny.cc/tweetmeet",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206649696921542700,
+					"id_str": "1206649696921542661",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EL7hgZlXYAUvewz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL7hgZlXYAUvewz.jpg",
+					"url": "https://t.co/QCDMZCNBTt",
+					"display_url": "pic.twitter.com/QCDMZCNBTt",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1206649703796006912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "1418497789",
+									"screen_name": "MS_eduIRL",
+									"name": "Microsoft Education Ireland"
+								},
+								{
+									"type": "user",
+									"user_id": "15665199",
+									"screen_name": "TweetMeet",
+									"name": "TweetMeet Central #MSFTEduChat"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "3096566760",
+									"screen_name": "OneNoteEDU",
+									"name": "OneNote Education"
+								},
+								{
+									"type": "user",
+									"user_id": "27673327",
+									"screen_name": "mtholfsen",
+									"name": "Mike Tholfsen"
+								},
+								{
+									"type": "user",
+									"user_id": "108410718",
+									"screen_name": "justinchando",
+									"name": "Justin Chando"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								},
+								{
+									"type": "user",
+									"user_id": "4120721403",
+									"screen_name": "MissGEnrique",
+									"name": "Gloria Enrique"
+								},
+								{
+									"type": "user",
+									"user_id": "33184994",
+									"screen_name": "sparvell",
+									"name": "Mark Sparvell"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206649696921542700,
+					"id_str": "1206649696921542661",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EL7hgZlXYAUvewz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL7hgZlXYAUvewz.jpg",
+					"url": "https://t.co/QCDMZCNBTt",
+					"display_url": "pic.twitter.com/QCDMZCNBTt",
+					"expanded_url": "https://twitter.com/eustace_stephen/status/1206649703796006912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17826187",
+									"screen_name": "MicrosoftEDU",
+									"name": "Microsoft Education"
+								},
+								{
+									"type": "user",
+									"user_id": "1418497789",
+									"screen_name": "MS_eduIRL",
+									"name": "Microsoft Education Ireland"
+								},
+								{
+									"type": "user",
+									"user_id": "15665199",
+									"screen_name": "TweetMeet",
+									"name": "TweetMeet Central #MSFTEduChat"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "3096566760",
+									"screen_name": "OneNoteEDU",
+									"name": "OneNote Education"
+								},
+								{
+									"type": "user",
+									"user_id": "27673327",
+									"screen_name": "mtholfsen",
+									"name": "Mike Tholfsen"
+								},
+								{
+									"type": "user",
+									"user_id": "108410718",
+									"screen_name": "justinchando",
+									"name": "Justin Chando"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								},
+								{
+									"type": "user",
+									"user_id": "4120721403",
+									"screen_name": "MissGEnrique",
+									"name": "Gloria Enrique"
+								},
+								{
+									"type": "user",
+									"user_id": "33184994",
+									"screen_name": "sparvell",
+									"name": "Mark Sparvell"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705409101220675600,
+			"id_str": "705409101220675584",
+			"name": "Stephen Eustace",
+			"screen_name": "eustace_stephen",
+			"location": "Ireland",
+			"description": "Teacher|Assistant Principal|#Onederful🦄|Customer Success Manager @MicrosoftIRL #MicrosoftEDU #OneNote💜 #MicrosoftTeams💙 #Flipgrid 💚 Views are my own",
+			"url": "https://t.co/mWoz4XF3d2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mWoz4XF3d2",
+							"expanded_url": "https://bit.ly/2OXba7D",
+							"display_url": "bit.ly/2OXba7D",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24183,
+			"friends_count": 23531,
+			"listed_count": 175,
+			"created_at": "Thu Mar 03 15:06:50 +0000 2016",
+			"favourites_count": 22879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1206664487207612418/gMVrfyEn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1206664487207612418/gMVrfyEn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705409101220675584/1576527077",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join the largest and maybe most #Onederful TweetMeet ever tomorrow! 🦄\n\nI'll be there and so will 2⃣9⃣0⃣+ hosts 🤯 \n\nTuesday, December 17 18:00 Irish Time ☘️\n\nLocal event time ⏲️👇\n\nhttps://t.co/xNVowunFJ2 \n\n#MSFTEduChat #MicrosoftEDU #MIEExpert #edtech #Sparvellous https://t.co/QCDMZCNBTt"
+	},
+	{
 		"created_at": "Fri Dec 13 21:33:34 +0000 2019",
 		"id": 1205600025461633000,
 		"id_str": "1205601681309929474",
