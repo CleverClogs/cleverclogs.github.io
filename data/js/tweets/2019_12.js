@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 16:52:00 +0000 2019",
+		"id": 1207772097642193000,
+		"id_str": "1208067536186687490",
+		"full_text": "🎈 Breaking all records! 🎈\n\nAt this month's #BestOf2019 TweetMeet you all blew the roof off of Twitter, setting all-time high records.\n\n⚡ Brand-new ⚡ Wakelet archive of 3300+ tweets:\nhttps://t.co/qXRzcQa18y\n\n#MSFTEduChat #MicrosoftEDU\nTeam @TweetMeet thanks you with this GIF: https://t.co/AheLm6as77",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BestOf2019",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						207,
+						219
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						220,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central #MSFTEduChat",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						239,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qXRzcQa18y",
+					"expanded_url": "https://wakelet.com/wake/f89f69f3-6985-47b8-8e5c-662f099d3af9",
+					"display_url": "wakelet.com/wake/f89f69f3-…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207772077618585600,
+					"id_str": "1207772077618585600",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMLeTjgXYAAHFp5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMLeTjgXYAAHFp5.jpg",
+					"url": "https://t.co/AheLm6as77",
+					"display_url": "pic.twitter.com/AheLm6as77",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1207772097642192898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207772077618585600,
+					"id_str": "1207772077618585600",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMLeTjgXYAAHFp5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMLeTjgXYAAHFp5.jpg",
+					"url": "https://t.co/AheLm6as77",
+					"display_url": "pic.twitter.com/AheLm6as77",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1207772097642192898/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							600,
+							337
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EMLeTjgXYAAHFp5.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "Create your own TweetMeet Friend Card:",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU connecting educators. \nTeam TweetMeet: Marjolein Hoekstra, @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/zl3b8neRWm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zl3b8neRWm",
+							"expanded_url": "https://twt.mt/tweetmeet-friend-card",
+							"display_url": "twt.mt/tweetmeet-frie…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4267,
+			"friends_count": 3632,
+			"listed_count": 36,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 5466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1576768026",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 101,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 Breaking all records! 🎈\n\nAt this month's #BestOf2019 TweetMeet you all blew the roof off of Twitter, setting all-time high records.\n\n⚡ Brand-new ⚡ Wakelet archive of 3300+ tweets:\nhttps://t.co/qXRzcQa18y\n\n#MSFTEduChat #MicrosoftEDU\nTeam @TweetMeet thanks you with this GIF: https://t.co/AheLm6as77"
+	},
+	{
 		"created_at": "Mon Dec 16 20:56:27 +0000 2019",
 		"id": 1206649703796007000,
 		"id_str": "1206679503025713154",
