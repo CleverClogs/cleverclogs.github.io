@@ -1,6 +1,548 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 21:19:17 +0000 2019",
+		"id": 1211372039728222200,
+		"id_str": "1212121068758077441",
+		"full_text": "Speaking of #StickyNotes 📌, Team @TweetMeet has got one as a surprise gift 🎁 for you.\n\nOpen the #PowerPoint linked below. It lets you add an #MSFTEduChat TweetMeet Sticky Note to your Twitter Header Photo. \n\nYes, instructions included🙂\nWill you try it?\n#MicrosoftEDU #MIEExpert https://t.co/EsvM6o8mIA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StickyNotes",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"text": "PowerPoint",
+					"indices": [
+						96,
+						107
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						253,
+						266
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						267,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TweetMeet",
+					"name": "TweetMeet Central #MSFTEduChat",
+					"id": 15665199,
+					"id_str": "15665199",
+					"indices": [
+						33,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EsvM6o8mIA",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1211350346452414464",
+					"display_url": "twitter.com/TweetMeet/stat…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23303,
+			"friends_count": 7724,
+			"listed_count": 642,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1577664478",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1211350346452414500,
+		"quoted_status_id_str": "1211350346452414464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EsvM6o8mIA",
+			"expanded": "https://twitter.com/TweetMeet/status/1211350346452414464",
+			"display": "twitter.com/TweetMeet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 29 18:16:43 +0000 2019",
+			"id": 1211350346452414500,
+			"id_str": "1211350346452414464",
+			"full_text": "🎈 Happy New Year from Team TweetMeet! 🎄🎉\n\n🎁 We have a surprise gift for you... 🎁\nWould you like a TweetMeet Sticky Note on your Twitter Header Photo, just like ours?\n\nCreate your own with this ⚡ brand-new ⚡ PowerPoint:\nhttps://t.co/a7VeL42mnY\n#MSFTEduChat #MicrosoftEDU https://t.co/nKcrwQZmWn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							243,
+							255
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							256,
+							269
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/a7VeL42mnY",
+						"expanded_url": "https://twt.mt/twitter-header-photo",
+						"display_url": "twt.mt/twitter-header…",
+						"indices": [
+							219,
+							242
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1211350343596093400,
+						"id_str": "1211350343596093440",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EM-UuDCXsAAIxMn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EM-UuDCXsAAIxMn.jpg",
+						"url": "https://t.co/nKcrwQZmWn",
+						"display_url": "pic.twitter.com/nKcrwQZmWn",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1211350346452414464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 864,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 59,
+										"y": 213,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 363,
+										"y": 180,
+										"h": 34,
+										"w": 34
+									},
+									{
+										"x": 329,
+										"y": 130,
+										"h": 103,
+										"w": 103
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 135,
+										"y": 483,
+										"h": 75,
+										"w": 75
+									},
+									{
+										"x": 822,
+										"y": 408,
+										"h": 79,
+										"w": 79
+									},
+									{
+										"x": 744,
+										"y": 294,
+										"h": 234,
+										"w": 234
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 105,
+										"y": 377,
+										"h": 58,
+										"w": 58
+									},
+									{
+										"x": 642,
+										"y": 318,
+										"h": 61,
+										"w": 61
+									},
+									{
+										"x": 581,
+										"y": 229,
+										"h": 182,
+										"w": 182
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 135,
+										"y": 483,
+										"h": 75,
+										"w": 75
+									},
+									{
+										"x": 822,
+										"y": 408,
+										"h": 79,
+										"w": 79
+									},
+									{
+										"x": 744,
+										"y": 294,
+										"h": 234,
+										"w": 234
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1211350343596093400,
+						"id_str": "1211350343596093440",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EM-UuDCXsAAIxMn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EM-UuDCXsAAIxMn.jpg",
+						"url": "https://t.co/nKcrwQZmWn",
+						"display_url": "pic.twitter.com/nKcrwQZmWn",
+						"expanded_url": "https://twitter.com/TweetMeet/status/1211350346452414464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 864,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 59,
+										"y": 213,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 363,
+										"y": 180,
+										"h": 34,
+										"w": 34
+									},
+									{
+										"x": 329,
+										"y": 130,
+										"h": 103,
+										"w": 103
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 135,
+										"y": 483,
+										"h": 75,
+										"w": 75
+									},
+									{
+										"x": 822,
+										"y": 408,
+										"h": 79,
+										"w": 79
+									},
+									{
+										"x": 744,
+										"y": 294,
+										"h": 234,
+										"w": 234
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 105,
+										"y": 377,
+										"h": 58,
+										"w": 58
+									},
+									{
+										"x": 642,
+										"y": 318,
+										"h": 61,
+										"w": 61
+									},
+									{
+										"x": 581,
+										"y": 229,
+										"h": 182,
+										"w": 182
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 135,
+										"y": 483,
+										"h": 75,
+										"w": 75
+									},
+									{
+										"x": 822,
+										"y": 408,
+										"h": 79,
+										"w": 79
+									},
+									{
+										"x": 744,
+										"y": 294,
+										"h": 234,
+										"w": 234
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15665199,
+				"id_str": "15665199",
+				"name": "TweetMeet Central #MSFTEduChat",
+				"screen_name": "TweetMeet",
+				"location": "Create your own TweetMeet Friend Card:",
+				"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. \nTeam: Marjolein Hoekstra (#MVP), @fcotexeira & @AnicaTrickovic",
+				"url": "https://t.co/zl3b8neRWm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zl3b8neRWm",
+								"expanded_url": "https://twt.mt/tweetmeet-friend-card",
+								"display_url": "twt.mt/tweetmeet-frie…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4333,
+				"friends_count": 3823,
+				"listed_count": 35,
+				"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+				"favourites_count": 5751,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1554,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1577552829",
+				"profile_link_color": "E3008C",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 111,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Speaking of #StickyNotes 📌, Team @TweetMeet has got one as a surprise gift 🎁 for you.\n\nOpen the #PowerPoint linked below. It lets you add an #MSFTEduChat TweetMeet Sticky Note to your Twitter Header Photo. \n\nYes, instructions included🙂\nWill you try it?\n#MicrosoftEDU #MIEExpert https://t.co/EsvM6o8mIA"
+	},
+	{
 		"created_at": "Sun Dec 29 19:42:55 +0000 2019",
 		"id": 1211372039728222200,
 		"id_str": "1211372039728222211",
