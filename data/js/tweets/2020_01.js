@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 23:28:34 +0000 2020",
+		"id": 1217546493218807800,
+		"id_str": "1217589421702295552",
+		"full_text": "Going to #BETT2020? I'll be presenting daily at the Microsoft booth in the Learn Live Theater on Learning Tools (reading writing math &amp; communication). \n\nCome learn about the latest in the Inclusive Classroom 💯 #MIEExpert #MicrosoftEDU\n\n⏰ Time and dates 👇 https://t.co/9u6yu7KqM5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BETT2020",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						226,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217546463326032000,
+					"id_str": "1217546463326031872",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EOWYDrwU0AAKmMw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOWYDrwU0AAKmMw.jpg",
+					"url": "https://t.co/9u6yu7KqM5",
+					"display_url": "pic.twitter.com/9u6yu7KqM5",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1217546493218807809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1252,
+							"h": 703,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "48661542",
+									"screen_name": "microsofteduk",
+									"name": "Microsoft Education UK"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "3096566760",
+									"screen_name": "OneNoteEDU",
+									"name": "OneNote Education"
+								},
+								{
+									"type": "user",
+									"user_id": "253925945",
+									"screen_name": "BeckyKeene",
+									"name": "Becky Keene"
+								},
+								{
+									"type": "user",
+									"user_id": "95272661",
+									"screen_name": "jlo731",
+									"name": "Jeni Long 🔜 FETC"
+								},
+								{
+									"type": "user",
+									"user_id": "2673808964",
+									"screen_name": "SalleeClark",
+									"name": "Sallee Clark 🔜FETC"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace"
+								},
+								{
+									"type": "user",
+									"user_id": "55346045",
+									"screen_name": "hminto",
+									"name": "hector minto"
+								},
+								{
+									"type": "user",
+									"user_id": "4120721403",
+									"screen_name": "MissGEnrique",
+									"name": "Gloria Enrique"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 35,
+									"y": 531,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 1039,
+									"y": 14,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 33,
+									"y": 508,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 995,
+									"y": 13,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 35,
+									"y": 531,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 1039,
+									"y": 14,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 19,
+									"y": 288,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 564,
+									"y": 7,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217546463326032000,
+					"id_str": "1217546463326031872",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EOWYDrwU0AAKmMw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOWYDrwU0AAKmMw.jpg",
+					"url": "https://t.co/9u6yu7KqM5",
+					"display_url": "pic.twitter.com/9u6yu7KqM5",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1217546493218807809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1252,
+							"h": 703,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "48661542",
+									"screen_name": "microsofteduk",
+									"name": "Microsoft Education UK"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "3096566760",
+									"screen_name": "OneNoteEDU",
+									"name": "OneNote Education"
+								},
+								{
+									"type": "user",
+									"user_id": "253925945",
+									"screen_name": "BeckyKeene",
+									"name": "Becky Keene"
+								},
+								{
+									"type": "user",
+									"user_id": "95272661",
+									"screen_name": "jlo731",
+									"name": "Jeni Long 🔜 FETC"
+								},
+								{
+									"type": "user",
+									"user_id": "2673808964",
+									"screen_name": "SalleeClark",
+									"name": "Sallee Clark 🔜FETC"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace"
+								},
+								{
+									"type": "user",
+									"user_id": "55346045",
+									"screen_name": "hminto",
+									"name": "hector minto"
+								},
+								{
+									"type": "user",
+									"user_id": "4120721403",
+									"screen_name": "MissGEnrique",
+									"name": "Gloria Enrique"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 35,
+									"y": 531,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 1039,
+									"y": 14,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 33,
+									"y": 508,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 995,
+									"y": 13,
+									"h": 102,
+									"w": 102
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 35,
+									"y": 531,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 1039,
+									"y": 14,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 19,
+									"y": 288,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 564,
+									"y": 7,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #BETT2020",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22857,
+			"friends_count": 3515,
+			"listed_count": 771,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 87464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Going to #BETT2020? I'll be presenting daily at the Microsoft booth in the Learn Live Theater on Learning Tools (reading writing math &amp; communication). \n\nCome learn about the latest in the Inclusive Classroom 💯 #MIEExpert #MicrosoftEDU\n\n⏰ Time and dates 👇 https://t.co/9u6yu7KqM5"
+	},
+	{
 		"created_at": "Mon Jan 13 19:03:11 +0000 2020",
 		"id": 1216797859607187500,
 		"id_str": "1216797859607187456",
