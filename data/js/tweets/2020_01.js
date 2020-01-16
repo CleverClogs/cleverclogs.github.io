@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 23:11:16 +0000 2020",
+		"id": 1217947456371032000,
+		"id_str": "1217947456371032064",
+		"full_text": "#Math teachers, check the Insert menu on your #OneNote for #Windows10 app now.  \n\nYou should now see the new \"π Equation\" option there, opening in a sidebar on the right.\n\nMore details in @MTholfsen's tweet below:\n\n#MathEd #mtbos\n#BETT2020 https://t.co/yIAUWJTInq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Math",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "Windows10",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"text": "MathEd",
+					"indices": [
+						215,
+						222
+					]
+				},
+				{
+					"text": "mtbos",
+					"indices": [
+						223,
+						229
+					]
+				},
+				{
+					"text": "BETT2020",
+					"indices": [
+						230,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						188,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yIAUWJTInq",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1217825242329911297",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23396,
+			"friends_count": 7736,
+			"listed_count": 644,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1577664478",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217825242329911300,
+		"quoted_status_id_str": "1217825242329911297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yIAUWJTInq",
+			"expanded": "https://twitter.com/mtholfsen/status/1217825242329911297",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 16 15:05:38 +0000 2020",
+			"id": 1217825242329911300,
+			"id_str": "1217825242329911297",
+			"full_text": "NEW! Math teachers rejoice 🎉 #OneNote for Windows 10 is getting the full and rich equation tool set to build simple and complex equations ➕➖✖➗  Example 👇 #Mathchat #MIEExpert #Bett2020\n\nUpdate your OneNote today!\n\n👉 https://t.co/Go8dDbfRT4 https://t.co/Raadjphyvu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							29,
+							37
+						]
+					},
+					{
+						"text": "Mathchat",
+						"indices": [
+							154,
+							163
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							164,
+							174
+						]
+					},
+					{
+						"text": "Bett2020",
+						"indices": [
+							175,
+							184
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Go8dDbfRT4",
+						"expanded_url": "http://Aka.ms/WednesdayBettBlog",
+						"display_url": "Aka.ms/WednesdayBettB…",
+						"indices": [
+							216,
+							239
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1217825237737148400,
+						"id_str": "1217825237737148417",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/EOaVmfXUEAEYKKA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOaVmfXUEAEYKKA.jpg",
+						"url": "https://t.co/Raadjphyvu",
+						"display_url": "pic.twitter.com/Raadjphyvu",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1217825242329911297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 374,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1317,
+								"h": 724,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 660,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "156697017",
+										"screen_name": "minaspasic",
+										"name": "Mina Spasic"
+									},
+									{
+										"type": "user",
+										"user_id": "2582768738",
+										"screen_name": "OneNoteC",
+										"name": "OneNote Central"
+									},
+									{
+										"type": "user",
+										"user_id": "158195502",
+										"screen_name": "anfield1974",
+										"name": "Steve Crapnell"
+									}
+								]
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1217825237737148400,
+						"id_str": "1217825237737148417",
+						"indices": [
+							240,
+							263
+						],
+						"media_url": "http://pbs.twimg.com/media/EOaVmfXUEAEYKKA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EOaVmfXUEAEYKKA.jpg",
+						"url": "https://t.co/Raadjphyvu",
+						"display_url": "pic.twitter.com/Raadjphyvu",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1217825242329911297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 374,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1317,
+								"h": 724,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 660,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "156697017",
+										"screen_name": "minaspasic",
+										"name": "Mina Spasic"
+									},
+									{
+										"type": "user",
+										"user_id": "2582768738",
+										"screen_name": "OneNoteC",
+										"name": "OneNote Central"
+									},
+									{
+										"type": "user",
+										"user_id": "158195502",
+										"screen_name": "anfield1974",
+										"name": "Steve Crapnell"
+									}
+								]
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #Bett2020",
+				"url": "https://t.co/ANIFpSE2FB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSE2FB",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22892,
+				"friends_count": 3517,
+				"listed_count": 771,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 87819,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34836,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Math teachers, check the Insert menu on your #OneNote for #Windows10 app now.  \n\nYou should now see the new \"π Equation\" option there, opening in a sidebar on the right.\n\nMore details in @MTholfsen's tweet below:\n\n#MathEd #mtbos\n#BETT2020 https://t.co/yIAUWJTInq"
+	},
+	{
 		"created_at": "Thu Jan 16 14:34:33 +0000 2020",
 		"id": 1217817123793207300,
 		"id_str": "1217817418472546308",
