@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 14:34:33 +0000 2020",
+		"id": 1217817123793207300,
+		"id_str": "1217817418472546308",
+		"full_text": "NEW! #OneNote Live Captions allows you to bring in real-time captions &amp; translations from Microsoft Translator 😱 #edtech #MIEExpert #MicrosoftEDU @mstranslator\n \n🌎 Captions in 63 languages\n⏸ Pause/Play captions\n🖊 Highlight\n📝 Auto-save transcript\n\n👉 https://t.co/bz9Uvsr0Cn https://t.co/WB4kxrYwxa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						5,
+						13
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						136,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mstranslator",
+					"name": "Microsoft Translator",
+					"id": 77333869,
+					"id_str": "77333869",
+					"indices": [
+						150,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bz9Uvsr0Cn",
+					"expanded_url": "http://Aka.ms/FridayBettBlog",
+					"display_url": "Aka.ms/FridayBettBlog",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217817025352888300,
+					"id_str": "1217817025352888321",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217817025352888321/pu/img/6mi4egjGtTsYbBaO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217817025352888321/pu/img/6mi4egjGtTsYbBaO.jpg",
+					"url": "https://t.co/WB4kxrYwxa",
+					"display_url": "pic.twitter.com/WB4kxrYwxa",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1217817123793207296/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 705,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1226,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217817025352888300,
+					"id_str": "1217817025352888321",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1217817025352888321/pu/img/6mi4egjGtTsYbBaO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1217817025352888321/pu/img/6mi4egjGtTsYbBaO.jpg",
+					"url": "https://t.co/WB4kxrYwxa",
+					"display_url": "pic.twitter.com/WB4kxrYwxa",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1217817123793207296/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 705,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1226,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							613,
+							360
+						],
+						"duration_millis": 92333,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217817025352888321/pu/vid/458x270/7rb65TEVsb6rX5xT.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1217817025352888321/pu/pl/GAi-1i9rGJ0a65E9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217817025352888321/pu/vid/1226x720/2HGihJRNltpKDmob.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1217817025352888321/pu/vid/612x360/8jkXXmj_evSIXUvt.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #Bett2020",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22867,
+			"friends_count": 3515,
+			"listed_count": 771,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 87595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! #OneNote Live Captions allows you to bring in real-time captions &amp; translations from Microsoft Translator 😱 #edtech #MIEExpert #MicrosoftEDU @mstranslator\n \n🌎 Captions in 63 languages\n⏸ Pause/Play captions\n🖊 Highlight\n📝 Auto-save transcript\n\n👉 https://t.co/bz9Uvsr0Cn https://t.co/WB4kxrYwxa"
+	},
+	{
 		"created_at": "Wed Jan 15 23:28:34 +0000 2020",
 		"id": 1217546493218807800,
 		"id_str": "1217589421702295552",
