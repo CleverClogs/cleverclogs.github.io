@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 08:43:15 +0000 2020",
+		"id": 1218091401969315800,
+		"id_str": "1218091401969315840",
+		"full_text": "Heading for #Bett2020?\n\nFind all of this week's #MicrosoftEDU #edtech announcements, videos and tweets in the Wakelet created just now by @MTholfsen below:\n\n#OneNote https://t.co/CAR9bU3nw9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bett2020",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						48,
+						61
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						157,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						138,
+						148
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CAR9bU3nw9",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1217965324689006592",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23395,
+			"friends_count": 7737,
+			"listed_count": 645,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1577664478",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217965324689006600,
+		"quoted_status_id_str": "1217965324689006592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CAR9bU3nw9",
+			"expanded": "https://twitter.com/mtholfsen/status/1217965324689006592",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 17 00:22:16 +0000 2020",
+			"id": 1217965324689006600,
+			"id_str": "1217965324689006592",
+			"full_text": "Want to get caught up on all of the #MicrosoftEDU news for #Bett2020 🇬🇧?\n\nI just put together this handy @Wakelet collection to peruse all the new stuff. We'll add more in the coming week! #edtech #MIEExpert @Bett_show \n \n🌊 https://t.co/8jfYh1pUKQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							36,
+							49
+						]
+					},
+					{
+						"text": "Bett2020",
+						"indices": [
+							59,
+							68
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							189,
+							196
+						]
+					},
+					{
+						"text": "MIEExpert",
+						"indices": [
+							197,
+							207
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wakelet",
+						"name": "Wakelet",
+						"id": 169922611,
+						"id_str": "169922611",
+						"indices": [
+							105,
+							113
+						]
+					},
+					{
+						"screen_name": "Bett_show",
+						"name": "Bett",
+						"id": 28354758,
+						"id_str": "28354758",
+						"indices": [
+							208,
+							218
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8jfYh1pUKQ",
+						"expanded_url": "https://aka.ms/MicrosoftBETTWakelet",
+						"display_url": "aka.ms/MicrosoftBETTW…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #Bett2020",
+				"url": "https://t.co/ANIFpSE2FB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSE2FB",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22906,
+				"friends_count": 3517,
+				"listed_count": 771,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 88063,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34867,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Heading for #Bett2020?\n\nFind all of this week's #MicrosoftEDU #edtech announcements, videos and tweets in the Wakelet created just now by @MTholfsen below:\n\n#OneNote https://t.co/CAR9bU3nw9"
+	},
+	{
 		"created_at": "Thu Jan 16 23:11:16 +0000 2020",
 		"id": 1217947456371032000,
 		"id_str": "1217947456371032064",
