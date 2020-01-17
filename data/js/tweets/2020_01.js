@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 18:13:39 +0000 2020",
+		"id": 1218140330882715600,
+		"id_str": "1218234946474729472",
+		"full_text": "🎈 🏷 Let's play tag!\nInvite your friends to the Devices for #StudentSuccess #MSFTEduChat.\n\n1️⃣ Create TweetMeet Friend Card: https://t.co/C7O0gPEJDo\n2️⃣ Quote-retweet 🔁 this tweet\n3️⃣ Attach card\n4️⃣ Use image tagging to tag 10 people who should join!\n\n#MicrosoftEDU #TweetMeetEN https://t.co/aOamSzc2D9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StudentSuccess",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						75,
+						87
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						252,
+						265
+					]
+				},
+				{
+					"text": "TweetMeetEN",
+					"indices": [
+						266,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C7O0gPEJDo",
+					"expanded_url": "https://twt.mt/tweetmeet-friend-card",
+					"display_url": "twt.mt/tweetmeet-frie…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218137709497258000,
+					"id_str": "1218137709497257984",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EOexyvYXkAAP7xL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOexyvYXkAAP7xL.jpg",
+					"url": "https://t.co/aOamSzc2D9",
+					"display_url": "pic.twitter.com/aOamSzc2D9",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1218140330882715649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "2646885425",
+									"screen_name": "sdavenport931",
+									"name": "Shannon Davenport"
+								},
+								{
+									"type": "user",
+									"user_id": "3042482186",
+									"screen_name": "Teach_Serve",
+									"name": "Monica Alicea, Ph.D"
+								},
+								{
+									"type": "user",
+									"user_id": "27673327",
+									"screen_name": "mtholfsen",
+									"name": "Mike Tholfsen"
+								},
+								{
+									"type": "user",
+									"user_id": "710032818332536833",
+									"screen_name": "AMilversted",
+									"name": "Angela Milversted 🔜 🇦🇺"
+								},
+								{
+									"type": "user",
+									"user_id": "4827857529",
+									"screen_name": "ElaineTopham",
+									"name": "Elaine Topham"
+								},
+								{
+									"type": "user",
+									"user_id": "314753981",
+									"screen_name": "Filibuster3",
+									"name": "Karyn Fillhart"
+								},
+								{
+									"type": "user",
+									"user_id": "595079922",
+									"screen_name": "kerszi",
+									"name": "Kathi Kersznowski ⛵️"
+								},
+								{
+									"type": "user",
+									"user_id": "253925945",
+									"screen_name": "BeckyKeene",
+									"name": "Becky Keene"
+								},
+								{
+									"type": "user",
+									"user_id": "95272661",
+									"screen_name": "jlo731",
+									"name": "Jeni Long 🔜 FETC"
+								},
+								{
+									"type": "user",
+									"user_id": "443760872",
+									"screen_name": "erinjurisich",
+									"name": "Mrs. Erin Holland"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 115,
+									"y": 129,
+									"h": 114,
+									"w": 114
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 204,
+									"y": 228,
+									"h": 202,
+									"w": 202
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 262,
+									"y": 292,
+									"h": 259,
+									"w": 259
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 262,
+									"y": 292,
+									"h": 259,
+									"w": 259
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218137709497258000,
+					"id_str": "1218137709497257984",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EOexyvYXkAAP7xL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOexyvYXkAAP7xL.jpg",
+					"url": "https://t.co/aOamSzc2D9",
+					"display_url": "pic.twitter.com/aOamSzc2D9",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1218140330882715649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 864,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "2646885425",
+									"screen_name": "sdavenport931",
+									"name": "Shannon Davenport"
+								},
+								{
+									"type": "user",
+									"user_id": "3042482186",
+									"screen_name": "Teach_Serve",
+									"name": "Monica Alicea, Ph.D"
+								},
+								{
+									"type": "user",
+									"user_id": "27673327",
+									"screen_name": "mtholfsen",
+									"name": "Mike Tholfsen"
+								},
+								{
+									"type": "user",
+									"user_id": "710032818332536833",
+									"screen_name": "AMilversted",
+									"name": "Angela Milversted 🔜 🇦🇺"
+								},
+								{
+									"type": "user",
+									"user_id": "4827857529",
+									"screen_name": "ElaineTopham",
+									"name": "Elaine Topham"
+								},
+								{
+									"type": "user",
+									"user_id": "314753981",
+									"screen_name": "Filibuster3",
+									"name": "Karyn Fillhart"
+								},
+								{
+									"type": "user",
+									"user_id": "595079922",
+									"screen_name": "kerszi",
+									"name": "Kathi Kersznowski ⛵️"
+								},
+								{
+									"type": "user",
+									"user_id": "253925945",
+									"screen_name": "BeckyKeene",
+									"name": "Becky Keene"
+								},
+								{
+									"type": "user",
+									"user_id": "95272661",
+									"screen_name": "jlo731",
+									"name": "Jeni Long 🔜 FETC"
+								},
+								{
+									"type": "user",
+									"user_id": "443760872",
+									"screen_name": "erinjurisich",
+									"name": "Mrs. Erin Holland"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 115,
+									"y": 129,
+									"h": 114,
+									"w": 114
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 204,
+									"y": 228,
+									"h": 202,
+									"w": 202
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 262,
+									"y": 292,
+									"h": 259,
+									"w": 259
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 262,
+									"y": 292,
+									"h": 259,
+									"w": 259
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "Create your own TweetMeet Friend Card:",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. \nTeam: Marjolein Hoekstra (#MVP), @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/zl3b8neRWm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zl3b8neRWm",
+							"expanded_url": "https://twt.mt/tweetmeet-friend-card",
+							"display_url": "twt.mt/tweetmeet-frie…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4410,
+			"friends_count": 3955,
+			"listed_count": 35,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 5895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1577552829",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 🏷 Let's play tag!\nInvite your friends to the Devices for #StudentSuccess #MSFTEduChat.\n\n1️⃣ Create TweetMeet Friend Card: https://t.co/C7O0gPEJDo\n2️⃣ Quote-retweet 🔁 this tweet\n3️⃣ Attach card\n4️⃣ Use image tagging to tag 10 people who should join!\n\n#MicrosoftEDU #TweetMeetEN https://t.co/aOamSzc2D9"
+	},
+	{
 		"created_at": "Fri Jan 17 15:17:48 +0000 2020",
 		"id": 1218190690334716000,
 		"id_str": "1218190690334715909",
