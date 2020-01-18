@@ -1,6 +1,1125 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 08:22:28 +0000 2020",
+		"id": 1218329212068585500,
+		"id_str": "1218448558778613760",
+		"full_text": "Continuing a tradition that goes back nearly 14 years, our friends at @Firefox sent us an awesome cake! Thanks for the years of partnership and cooperation in service of a better web! https://t.co/OXZxHBtsY9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "firefox",
+					"name": "Firefox 🔥",
+					"id": 2142731,
+					"id_str": "2142731",
+					"indices": [
+						70,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218329202165858300,
+					"id_str": "1218329202165858305",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EOhf9FKUwAEonlR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOhf9FKUwAEonlR.jpg",
+					"url": "https://t.co/OXZxHBtsY9",
+					"display_url": "pic.twitter.com/OXZxHBtsY9",
+					"expanded_url": "https://twitter.com/MSEdgeDev/status/1218329212068585472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2016,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "219007222",
+									"screen_name": "Buchthal",
+									"name": "David"
+								},
+								{
+									"type": "user",
+									"user_id": "237155994",
+									"screen_name": "jatindermann",
+									"name": "Jatinder Mann"
+								},
+								{
+									"type": "user",
+									"user_id": "15697958",
+									"screen_name": "johnhazen",
+									"name": "John Hazen"
+								},
+								{
+									"type": "user",
+									"user_id": "16834395",
+									"screen_name": "mgradwohl",
+									"name": "mgradwohl"
+								},
+								{
+									"type": "user",
+									"user_id": "18757503",
+									"screen_name": "gauravseth",
+									"name": "Gaurav Seth"
+								},
+								{
+									"type": "user",
+									"user_id": "39704599",
+									"screen_name": "davidras",
+									"name": "David Rasmussen"
+								},
+								{
+									"type": "user",
+									"user_id": "138283272",
+									"screen_name": "divtweets",
+									"name": "Divya Kumar"
+								},
+								{
+									"type": "user",
+									"user_id": "86815885",
+									"screen_name": "arvindmurching",
+									"name": "arvind murching"
+								},
+								{
+									"type": "user",
+									"user_id": "20800053",
+									"screen_name": "chuckfr",
+									"name": "Chuck Friedman"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 387,
+									"y": 312,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 627,
+									"y": 338,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 775,
+									"y": 300,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 434,
+									"y": 333,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 563,
+									"y": 344,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 491,
+									"y": 405,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 679,
+									"y": 335,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 839,
+									"y": 353,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 141,
+									"y": 304,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 233,
+									"y": 313,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 1111,
+									"y": 388,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 619,
+									"y": 423,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 752,
+									"y": 386,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 46,
+									"y": 339,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 651,
+									"y": 525,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1055,
+									"y": 568,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1303,
+									"y": 504,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 730,
+									"y": 561,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 946,
+									"y": 578,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 826,
+									"y": 681,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1141,
+									"y": 563,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1411,
+									"y": 594,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 238,
+									"y": 511,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 393,
+									"y": 527,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 1868,
+									"y": 653,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 1041,
+									"y": 712,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 1265,
+									"y": 649,
+									"h": 145,
+									"w": 145
+								},
+								{
+									"x": 78,
+									"y": 570,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 219,
+									"y": 177,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 355,
+									"y": 191,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 439,
+									"y": 170,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 246,
+									"y": 189,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 319,
+									"y": 194,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 278,
+									"y": 229,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 384,
+									"y": 189,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 475,
+									"y": 200,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 80,
+									"y": 172,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 132,
+									"y": 177,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 630,
+									"y": 220,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 351,
+									"y": 240,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 426,
+									"y": 218,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 26,
+									"y": 192,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 651,
+									"y": 525,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1055,
+									"y": 568,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1303,
+									"y": 504,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 730,
+									"y": 561,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 946,
+									"y": 578,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 826,
+									"y": 681,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1141,
+									"y": 563,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1411,
+									"y": 594,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 238,
+									"y": 511,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 393,
+									"y": 527,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 1868,
+									"y": 653,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 1041,
+									"y": 712,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 1265,
+									"y": 649,
+									"h": 145,
+									"w": 145
+								},
+								{
+									"x": 78,
+									"y": 570,
+									"h": 155,
+									"w": 155
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218329202165858300,
+					"id_str": "1218329202165858305",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EOhf9FKUwAEonlR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOhf9FKUwAEonlR.jpg",
+					"url": "https://t.co/OXZxHBtsY9",
+					"display_url": "pic.twitter.com/OXZxHBtsY9",
+					"expanded_url": "https://twitter.com/MSEdgeDev/status/1218329212068585472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2016,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "219007222",
+									"screen_name": "Buchthal",
+									"name": "David"
+								},
+								{
+									"type": "user",
+									"user_id": "237155994",
+									"screen_name": "jatindermann",
+									"name": "Jatinder Mann"
+								},
+								{
+									"type": "user",
+									"user_id": "15697958",
+									"screen_name": "johnhazen",
+									"name": "John Hazen"
+								},
+								{
+									"type": "user",
+									"user_id": "16834395",
+									"screen_name": "mgradwohl",
+									"name": "mgradwohl"
+								},
+								{
+									"type": "user",
+									"user_id": "18757503",
+									"screen_name": "gauravseth",
+									"name": "Gaurav Seth"
+								},
+								{
+									"type": "user",
+									"user_id": "39704599",
+									"screen_name": "davidras",
+									"name": "David Rasmussen"
+								},
+								{
+									"type": "user",
+									"user_id": "138283272",
+									"screen_name": "divtweets",
+									"name": "Divya Kumar"
+								},
+								{
+									"type": "user",
+									"user_id": "86815885",
+									"screen_name": "arvindmurching",
+									"name": "arvind murching"
+								},
+								{
+									"type": "user",
+									"user_id": "20800053",
+									"screen_name": "chuckfr",
+									"name": "Chuck Friedman"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 387,
+									"y": 312,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 627,
+									"y": 338,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 775,
+									"y": 300,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 434,
+									"y": 333,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 563,
+									"y": 344,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 491,
+									"y": 405,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 679,
+									"y": 335,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 839,
+									"y": 353,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 141,
+									"y": 304,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 233,
+									"y": 313,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 1111,
+									"y": 388,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 619,
+									"y": 423,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 752,
+									"y": 386,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 46,
+									"y": 339,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 651,
+									"y": 525,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1055,
+									"y": 568,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1303,
+									"y": 504,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 730,
+									"y": 561,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 946,
+									"y": 578,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 826,
+									"y": 681,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1141,
+									"y": 563,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1411,
+									"y": 594,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 238,
+									"y": 511,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 393,
+									"y": 527,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 1868,
+									"y": 653,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 1041,
+									"y": 712,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 1265,
+									"y": 649,
+									"h": 145,
+									"w": 145
+								},
+								{
+									"x": 78,
+									"y": 570,
+									"h": 155,
+									"w": 155
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 219,
+									"y": 177,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 355,
+									"y": 191,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 439,
+									"y": 170,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 246,
+									"y": 189,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 319,
+									"y": 194,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 278,
+									"y": 229,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 384,
+									"y": 189,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 475,
+									"y": 200,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 80,
+									"y": 172,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 132,
+									"y": 177,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 630,
+									"y": 220,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 351,
+									"y": 240,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 426,
+									"y": 218,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 26,
+									"y": 192,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 651,
+									"y": 525,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1055,
+									"y": 568,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1303,
+									"y": 504,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 730,
+									"y": 561,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 946,
+									"y": 578,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 826,
+									"y": 681,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 1141,
+									"y": 563,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1411,
+									"y": 594,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 238,
+									"y": 511,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 393,
+									"y": 527,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 1868,
+									"y": 653,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 1041,
+									"y": 712,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 1265,
+									"y": 649,
+									"h": 145,
+									"w": 145
+								},
+								{
+									"x": 78,
+									"y": 570,
+									"h": 155,
+									"w": 155
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1218329202165813200,
+					"id_str": "1218329202165813249",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EOhf9FKUEAEo1q5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOhf9FKUEAEo1q5.jpg",
+					"url": "https://t.co/OXZxHBtsY9",
+					"display_url": "pic.twitter.com/OXZxHBtsY9",
+					"expanded_url": "https://twitter.com/MSEdgeDev/status/1218329212068585472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "219007222",
+									"screen_name": "Buchthal",
+									"name": "David"
+								},
+								{
+									"type": "user",
+									"user_id": "237155994",
+									"screen_name": "jatindermann",
+									"name": "Jatinder Mann"
+								},
+								{
+									"type": "user",
+									"user_id": "15697958",
+									"screen_name": "johnhazen",
+									"name": "John Hazen"
+								},
+								{
+									"type": "user",
+									"user_id": "16834395",
+									"screen_name": "mgradwohl",
+									"name": "mgradwohl"
+								},
+								{
+									"type": "user",
+									"user_id": "18757503",
+									"screen_name": "gauravseth",
+									"name": "Gaurav Seth"
+								},
+								{
+									"type": "user",
+									"user_id": "39704599",
+									"screen_name": "davidras",
+									"name": "David Rasmussen"
+								},
+								{
+									"type": "user",
+									"user_id": "138283272",
+									"screen_name": "divtweets",
+									"name": "Divya Kumar"
+								},
+								{
+									"type": "user",
+									"user_id": "86815885",
+									"screen_name": "arvindmurching",
+									"name": "arvind murching"
+								},
+								{
+									"type": "user",
+									"user_id": "20800053",
+									"screen_name": "chuckfr",
+									"name": "Chuck Friedman"
+								}
+							]
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1141081634,
+			"id_str": "1141081634",
+			"name": "Microsoft Edge Dev",
+			"screen_name": "MSEdgeDev",
+			"location": "Redmond, WA",
+			"description": "Official news and updates from the Microsoft Edge team on #MicrosoftEdge and #InternetExplorer",
+			"url": "https://t.co/oHPtUqCX4P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHPtUqCX4P",
+							"expanded_url": "http://www.microsoftedgeinsider.com",
+							"display_url": "microsoftedgeinsider.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75445,
+			"friends_count": 162,
+			"listed_count": 1215,
+			"created_at": "Sat Feb 02 00:26:21 +0000 2013",
+			"favourites_count": 1371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "282828",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192146251963232256/AYGLj5QB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192146251963232256/AYGLj5QB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141081634/1579131740",
+			"profile_link_color": "0078D7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 598,
+		"favorite_count": 3024,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Continuing a tradition that goes back nearly 14 years, our friends at @Firefox sent us an awesome cake! Thanks for the years of partnership and cooperation in service of a better web! https://t.co/OXZxHBtsY9"
+	},
+	{
 		"created_at": "Sat Jan 18 07:51:32 +0000 2020",
 		"id": 1217947456371032000,
 		"id_str": "1218440775136174081",
