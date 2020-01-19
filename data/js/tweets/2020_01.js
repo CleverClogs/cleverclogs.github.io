@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 17:36:50 +0000 2020",
+		"id": 1218881332056596500,
+		"id_str": "1218950458116579328",
+		"full_text": "🎈 Know someone who's new to the #MSFTEduChat TweetMeets and eager to participate?\n \nGet all of our newcomer tips, videos, links to our fancy, editable #PowerPoint presentations and much more in one handy Wakelet:\nhttps://t.co/MPOJx8ajUI\n\n#MicrosoftEDU #TweetMeetEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"text": "PowerPoint",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						238,
+						251
+					]
+				},
+				{
+					"text": "TweetMeetEN",
+					"indices": [
+						252,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MPOJx8ajUI",
+					"expanded_url": "https://twt.mt/tweetmeet-ultimate",
+					"display_url": "twt.mt/tweetmeet-ulti…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "Create your own TweetMeet Friend Card:",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. \nTeam: Marjolein Hoekstra (#MVP), @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/zl3b8neRWm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zl3b8neRWm",
+							"expanded_url": "https://twt.mt/tweetmeet-friend-card",
+							"display_url": "twt.mt/tweetmeet-frie…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4420,
+			"friends_count": 3957,
+			"listed_count": 35,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1577552829",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 Know someone who's new to the #MSFTEduChat TweetMeets and eager to participate?\n \nGet all of our newcomer tips, videos, links to our fancy, editable #PowerPoint presentations and much more in one handy Wakelet:\nhttps://t.co/MPOJx8ajUI\n\n#MicrosoftEDU #TweetMeetEN"
+	},
+	{
 		"created_at": "Sat Jan 18 21:10:55 +0000 2020",
 		"id": 1218565943028154400,
 		"id_str": "1218641942541672448",
