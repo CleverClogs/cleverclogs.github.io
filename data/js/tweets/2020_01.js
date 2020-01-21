@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 21 16:15:41 +0000 2020",
+		"id": 1219269146493571000,
+		"id_str": "1219654811412463619",
+		"full_text": "🎈 Educators, what's the internet speed usually like at your school's location?\n\nAs Twitter Polls only allow 25-char answers, please use the Retweet-with-Comment button 🔁 to explain your situation.\n\n#StudentSuccess\n#MSFTEduChat #MicrosoftEDU #TweetMeetEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StudentSuccess",
+					"indices": [
+						198,
+						213
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						214,
+						226
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						227,
+						240
+					]
+				},
+				{
+					"text": "TweetMeetEN",
+					"indices": [
+						241,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "Create your own TweetMeet Friend Card:",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. \nTeam: Marjolein Hoekstra (#MVP), @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/zl3b8neRWm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zl3b8neRWm",
+							"expanded_url": "https://twt.mt/tweetmeet-friend-card",
+							"display_url": "twt.mt/tweetmeet-frie…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4441,
+			"friends_count": 3982,
+			"listed_count": 35,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 5918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1577552829",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "🎈 Educators, what's the internet speed usually like at your school's location?\n\nAs Twitter Polls only allow 25-char answers, please use the Retweet-with-Comment button 🔁 to explain your situation.\n\n#StudentSuccess\n#MSFTEduChat #MicrosoftEDU #TweetMeetEN"
+	},
+	{
 		"created_at": "Mon Jan 20 08:54:28 +0000 2020",
 		"id": 1219176633619214300,
 		"id_str": "1219181386860584963",
