@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 17:03:52 +0000 2020",
+		"id": 1220361363811336200,
+		"id_str": "1220391712507531268",
+		"full_text": "Looking for my Learning Tools and the Inclusive Classroom presentation from #Bett2020?  Public link is below, please share broadly 🌏 All the latest updates 🎉 #MIEExpert #MicrosoftEDU\n\n👉 https://t.co/Pf08dlXhBG https://t.co/u310MhZUSJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bett2020",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						169,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pf08dlXhBG",
+					"expanded_url": "https://aka.ms/InclusiveBett2020",
+					"display_url": "aka.ms/InclusiveBett2…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1220361354432974800,
+					"id_str": "1220361354432974854",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EO-YL6SXkAY_CqP.png",
+					"media_url_https": "https://pbs.twimg.com/media/EO-YL6SXkAY_CqP.png",
+					"url": "https://t.co/u310MhZUSJ",
+					"display_url": "pic.twitter.com/u310MhZUSJ",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1220361363811336196/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1245,
+							"h": 693,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "48661542",
+									"screen_name": "microsofteduk",
+									"name": "Microsoft Education UK"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "3096566760",
+									"screen_name": "OneNoteEDU",
+									"name": "OneNote Education"
+								},
+								{
+									"type": "user",
+									"user_id": "66801342",
+									"screen_name": "design2research",
+									"name": "Dr. Charlie Miller"
+								},
+								{
+									"type": "user",
+									"user_id": "111110878",
+									"screen_name": "sdelafosse",
+									"name": "Sonja Delafosse"
+								},
+								{
+									"type": "user",
+									"user_id": "458619342",
+									"screen_name": "MSFTEnable",
+									"name": "MSFT Accessibility"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace @BETT2020 🦄"
+								},
+								{
+									"type": "user",
+									"user_id": "4120721403",
+									"screen_name": "MissGEnrique",
+									"name": "Gloria Enrique @ #BETT2020 🚀"
+								},
+								{
+									"type": "user",
+									"user_id": "23587657",
+									"screen_name": "crothwell",
+									"name": "Chris Rothwell"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220361354432974800,
+					"id_str": "1220361354432974854",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EO-YL6SXkAY_CqP.png",
+					"media_url_https": "https://pbs.twimg.com/media/EO-YL6SXkAY_CqP.png",
+					"url": "https://t.co/u310MhZUSJ",
+					"display_url": "pic.twitter.com/u310MhZUSJ",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1220361363811336196/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1245,
+							"h": 693,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "48661542",
+									"screen_name": "microsofteduk",
+									"name": "Microsoft Education UK"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "3096566760",
+									"screen_name": "OneNoteEDU",
+									"name": "OneNote Education"
+								},
+								{
+									"type": "user",
+									"user_id": "66801342",
+									"screen_name": "design2research",
+									"name": "Dr. Charlie Miller"
+								},
+								{
+									"type": "user",
+									"user_id": "111110878",
+									"screen_name": "sdelafosse",
+									"name": "Sonja Delafosse"
+								},
+								{
+									"type": "user",
+									"user_id": "458619342",
+									"screen_name": "MSFTEnable",
+									"name": "MSFT Accessibility"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace @BETT2020 🦄"
+								},
+								{
+									"type": "user",
+									"user_id": "4120721403",
+									"screen_name": "MissGEnrique",
+									"name": "Gloria Enrique @ #BETT2020 🚀"
+								},
+								{
+									"type": "user",
+									"user_id": "23587657",
+									"screen_name": "crothwell",
+									"name": "Chris Rothwell"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								}
+							]
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #Bett2020",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23154,
+			"friends_count": 3526,
+			"listed_count": 772,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 88844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking for my Learning Tools and the Inclusive Classroom presentation from #Bett2020?  Public link is below, please share broadly 🌏 All the latest updates 🎉 #MIEExpert #MicrosoftEDU\n\n👉 https://t.co/Pf08dlXhBG https://t.co/u310MhZUSJ"
+	},
+	{
 		"created_at": "Tue Jan 21 16:15:41 +0000 2020",
 		"id": 1219269146493571000,
 		"id_str": "1219654811412463619",
