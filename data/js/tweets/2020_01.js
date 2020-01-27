@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 18:52:53 +0000 2020",
+		"id": 1221867900799213600,
+		"id_str": "1221868697939300360",
+		"full_text": "Hey Twitter PLN! @MichelleWantuch is a researcher for #MicrosoftEDU and she just joined Twitter 🎉 She's helping do deep research for new EDU products and services and is excited to engage with educators around the world 🌎 #edchat #MIEExpert\n\nPlease give her a follow! https://t.co/DCmDSqaKdV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						54,
+						67
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						222,
+						229
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						230,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichelleWantuch",
+					"name": "Michelle Wantuch",
+					"id": 1221857036390019000,
+					"id_str": "1221857036390019073",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221867875033665500,
+					"id_str": "1221867875033665536",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EPTyW83X0AAoEHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPTyW83X0AAoEHv.jpg",
+					"url": "https://t.co/DCmDSqaKdV",
+					"display_url": "pic.twitter.com/DCmDSqaKdV",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1221867900799213575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 994,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 994,
+							"h": 860,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "108410718",
+									"screen_name": "justinchando",
+									"name": "Justin Chando"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace 💚💙💜"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "595079922",
+									"screen_name": "kerszi",
+									"name": "Kathi Kersznowski ⛵️"
+								},
+								{
+									"type": "user",
+									"user_id": "95272661",
+									"screen_name": "jlo731",
+									"name": "Jeni Long 🔜 BETT 🎉"
+								},
+								{
+									"type": "user",
+									"user_id": "2673808964",
+									"screen_name": "SalleeClark",
+									"name": "Sallee Clark 🔜 BETT"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								},
+								{
+									"type": "user",
+									"user_id": "2341899519",
+									"screen_name": "sdtitmas",
+									"name": "Scott Titmas"
+								},
+								{
+									"type": "user",
+									"user_id": "253925945",
+									"screen_name": "BeckyKeene",
+									"name": "Becky Keene"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 127,
+									"y": 384,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 635,
+									"y": 443,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 262,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 434,
+									"y": 303,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 127,
+									"y": 384,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 635,
+									"y": 443,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 127,
+									"y": 384,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 635,
+									"y": 443,
+									"h": 75,
+									"w": 75
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221867875033665500,
+					"id_str": "1221867875033665536",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EPTyW83X0AAoEHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPTyW83X0AAoEHv.jpg",
+					"url": "https://t.co/DCmDSqaKdV",
+					"display_url": "pic.twitter.com/DCmDSqaKdV",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1221867900799213575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 994,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 994,
+							"h": 860,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "108410718",
+									"screen_name": "justinchando",
+									"name": "Justin Chando"
+								},
+								{
+									"type": "user",
+									"user_id": "705409101220675584",
+									"screen_name": "eustace_stephen",
+									"name": "Stephen Eustace 💚💙💜"
+								},
+								{
+									"type": "user",
+									"user_id": "2582768738",
+									"screen_name": "OneNoteC",
+									"name": "OneNote Central"
+								},
+								{
+									"type": "user",
+									"user_id": "595079922",
+									"screen_name": "kerszi",
+									"name": "Kathi Kersznowski ⛵️"
+								},
+								{
+									"type": "user",
+									"user_id": "95272661",
+									"screen_name": "jlo731",
+									"name": "Jeni Long 🔜 BETT 🎉"
+								},
+								{
+									"type": "user",
+									"user_id": "2673808964",
+									"screen_name": "SalleeClark",
+									"name": "Sallee Clark 🔜 BETT"
+								},
+								{
+									"type": "user",
+									"user_id": "18954505",
+									"screen_name": "LBayne",
+									"name": "Lindsay Bayne"
+								},
+								{
+									"type": "user",
+									"user_id": "2341899519",
+									"screen_name": "sdtitmas",
+									"name": "Scott Titmas"
+								},
+								{
+									"type": "user",
+									"user_id": "253925945",
+									"screen_name": "BeckyKeene",
+									"name": "Becky Keene"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 127,
+									"y": 384,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 635,
+									"y": 443,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 86,
+									"y": 262,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 434,
+									"y": 303,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 127,
+									"y": 384,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 635,
+									"y": 443,
+									"h": 75,
+									"w": 75
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 127,
+									"y": 384,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 635,
+									"y": 443,
+									"h": 75,
+									"w": 75
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #Bett2020",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23273,
+			"friends_count": 3537,
+			"listed_count": 772,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 89449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey Twitter PLN! @MichelleWantuch is a researcher for #MicrosoftEDU and she just joined Twitter 🎉 She's helping do deep research for new EDU products and services and is excited to engage with educators around the world 🌎 #edchat #MIEExpert\n\nPlease give her a follow! https://t.co/DCmDSqaKdV"
+	},
+	{
 		"created_at": "Mon Jan 27 09:51:06 +0000 2020",
 		"id": 1221732355439779800,
 		"id_str": "1221732355439779841",
