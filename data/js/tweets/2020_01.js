@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 20:21:48 +0000 2020",
+		"id": 1223339094148878300,
+		"id_str": "1223340624776257543",
+		"full_text": "🎈 New: you can now add Alt Text descriptions to animated GIFs that you post on Twitter.\n\nSee the details below. \nSuch fantastic #accessibility news from @Twitter!\n\n#MSFTEduChat #MicrosoftEDU #MIEExpert https://t.co/J8saKXbHqD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "accessibility",
+					"indices": [
+						128,
+						142
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						164,
+						176
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						177,
+						190
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						191,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						153,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J8saKXbHqD",
+					"expanded_url": "https://twitter.com/twittera11y/status/1223327477948243968",
+					"display_url": "twitter.com/twittera11y/st…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "Create your own TweetMeet Friend Card:",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. \nTeam: Marjolein Hoekstra (#MVP), @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/zl3b8neRWm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zl3b8neRWm",
+							"expanded_url": "https://twt.mt/tweetmeet-friend-card",
+							"display_url": "twt.mt/tweetmeet-frie…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4530,
+			"friends_count": 4121,
+			"listed_count": 36,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 5991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1579948700",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223327477948244000,
+		"quoted_status_id_str": "1223327477948243968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J8saKXbHqD",
+			"expanded": "https://twitter.com/twittera11y/status/1223327477948243968",
+			"display": "twitter.com/twittera11y/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 31 19:29:33 +0000 2020",
+			"id": 1223327477948244000,
+			"id_str": "1223327477948243968",
+			"full_text": "Get those GIFs ready. Starting today, when you Tweet from https://t.co/CuB5qyHKwU you can add alt text to any GIF just like images.\nJust make sure you have the \"compose image descriptions\" setting turned on in your accessibility settings. https://t.co/NYjOAH9kAx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CuB5qyHKwU",
+						"expanded_url": "https://Twitter.com",
+						"display_url": "Twitter.com",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1223327472680202200,
+						"id_str": "1223327472680202240",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPoh2t0UcAAQ47K.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPoh2t0UcAAQ47K.jpg",
+						"url": "https://t.co/NYjOAH9kAx",
+						"display_url": "pic.twitter.com/NYjOAH9kAx",
+						"expanded_url": "https://twitter.com/TwitterA11y/status/1223327477948243968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1223327472680202200,
+						"id_str": "1223327472680202240",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPoh2t0UcAAQ47K.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPoh2t0UcAAQ47K.jpg",
+						"url": "https://t.co/NYjOAH9kAx",
+						"display_url": "pic.twitter.com/NYjOAH9kAx",
+						"expanded_url": "https://twitter.com/TwitterA11y/status/1223327477948243968/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 450,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EPoh2t0UcAAQ47K.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1631299117,
+				"id_str": "1631299117",
+				"name": "Twitter Accessibility",
+				"screen_name": "TwitterA11y",
+				"location": "",
+				"description": "Dedicated to making Twitter as inclusive as possible.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12284,
+				"friends_count": 5,
+				"listed_count": 361,
+				"created_at": "Mon Jul 29 21:16:58 +0000 2013",
+				"favourites_count": 57,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 461,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/948282942299586560/esmBprTz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/948282942299586560/esmBprTz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1631299117/1496876392",
+				"profile_link_color": "005FD1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 197,
+			"favorite_count": 289,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 New: you can now add Alt Text descriptions to animated GIFs that you post on Twitter.\n\nSee the details below. \nSuch fantastic #accessibility news from @Twitter!\n\n#MSFTEduChat #MicrosoftEDU #MIEExpert https://t.co/J8saKXbHqD"
+	},
+	{
 		"created_at": "Thu Jan 30 20:35:27 +0000 2020",
 		"id": 1221860123888382000,
 		"id_str": "1222981673350062080",
