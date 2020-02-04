@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 18:44:36 +0000 2020",
+		"id": 1224765716999626800,
+		"id_str": "1224765716999626754",
+		"full_text": "\"Notes are like shipping containers for ideas. \"\n\nThe @fortelabs must-read review of the book \"How to take smart notes\", authored by Sönke Ahrens, is a profound masterpiece in its own right:\nhttps://t.co/uHAPbVNbwm\n\n#notetaking #zettelkasten #bookreview #secondbrain\n#productivity https://t.co/2oQlZnKq1m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "notetaking",
+					"indices": [
+						216,
+						227
+					]
+				},
+				{
+					"text": "zettelkasten",
+					"indices": [
+						228,
+						241
+					]
+				},
+				{
+					"text": "bookreview",
+					"indices": [
+						242,
+						253
+					]
+				},
+				{
+					"text": "secondbrain",
+					"indices": [
+						254,
+						266
+					]
+				},
+				{
+					"text": "productivity",
+					"indices": [
+						267,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fortelabs",
+					"name": "Tiago Forte",
+					"id": 1909232666,
+					"id_str": "1909232666",
+					"indices": [
+						54,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uHAPbVNbwm",
+					"expanded_url": "https://praxis.fortelabs.co/how-to-take-smart-notes/",
+					"display_url": "praxis.fortelabs.co/how-to-take-sm…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1224765703376511000,
+					"id_str": "1224765703376510976",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EP896wrWoAAq7Bs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP896wrWoAAq7Bs.jpg",
+					"url": "https://t.co/2oQlZnKq1m",
+					"display_url": "pic.twitter.com/2oQlZnKq1m",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1224765716999626754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 643,
+									"y": 350,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1029,
+									"y": 560,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 364,
+									"y": 198,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1029,
+									"y": 560,
+									"h": 90,
+									"w": 90
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224765703376511000,
+					"id_str": "1224765703376510976",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EP896wrWoAAq7Bs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP896wrWoAAq7Bs.jpg",
+					"url": "https://t.co/2oQlZnKq1m",
+					"display_url": "pic.twitter.com/2oQlZnKq1m",
+					"expanded_url": "https://twitter.com/OneNoteC/status/1224765716999626754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 643,
+									"y": 350,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1029,
+									"y": 560,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 364,
+									"y": 198,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1029,
+									"y": 560,
+									"h": 90,
+									"w": 90
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23593,
+			"friends_count": 7757,
+			"listed_count": 649,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1580135141",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Notes are like shipping containers for ideas. \"\n\nThe @fortelabs must-read review of the book \"How to take smart notes\", authored by Sönke Ahrens, is a profound masterpiece in its own right:\nhttps://t.co/uHAPbVNbwm\n\n#notetaking #zettelkasten #bookreview #secondbrain\n#productivity https://t.co/2oQlZnKq1m"
+	},
+	{
 		"created_at": "Sun Feb 02 16:18:47 +0000 2020",
 		"id": 1223973967637205000,
 		"id_str": "1224004242664513536",
