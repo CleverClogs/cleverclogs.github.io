@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 06 23:09:20 +0000 2020",
+		"id": 1225551316606476300,
+		"id_str": "1225557112807395330",
+		"full_text": "NEW! Delete a distributed page (aka \"Bulk Delete\") from your #OneNote Class Notebook is now rolling out to Office Insiders 🎉 The #1 UserVoice request is on the way 👂 WIn10 app, iPad, Mac and web 💜\n\n#MIEExpert #edtech https://t.co/orkcDET5HV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						198,
+						208
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						209,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225551313510887400,
+					"id_str": "1225551313510887424",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EQIIbSfUcAAIQoK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQIIbSfUcAAIQoK.png",
+					"url": "https://t.co/orkcDET5HV",
+					"display_url": "pic.twitter.com/orkcDET5HV",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1225551316606476288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 571,
+							"h": 431,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 571,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 571,
+							"h": 431,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225551313510887400,
+					"id_str": "1225551313510887424",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EQIIbSfUcAAIQoK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EQIIbSfUcAAIQoK.png",
+					"url": "https://t.co/orkcDET5HV",
+					"display_url": "pic.twitter.com/orkcDET5HV",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1225551316606476288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 571,
+							"h": 431,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 571,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 571,
+							"h": 431,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #accessibility",
+			"url": "https://t.co/ANIFpSVE4b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSVE4b",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23469,
+			"friends_count": 3540,
+			"listed_count": 777,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 90315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Delete a distributed page (aka \"Bulk Delete\") from your #OneNote Class Notebook is now rolling out to Office Insiders 🎉 The #1 UserVoice request is on the way 👂 WIn10 app, iPad, Mac and web 💜\n\n#MIEExpert #edtech https://t.co/orkcDET5HV"
+	},
+	{
 		"created_at": "Tue Feb 04 18:44:36 +0000 2020",
 		"id": 1224765716999626800,
 		"id_str": "1224765716999626754",
