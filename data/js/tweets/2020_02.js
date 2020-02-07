@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 17:19:55 +0000 2020",
+		"id": 1225817508675911700,
+		"id_str": "1225831567991373825",
+		"full_text": "Honored &amp; excited for the Immersive Reader to be awarded the new \"Research-Based Design Product Certification\" 🏅from @DigitalPromise. Based on the science and research that supports the design of the product. #edtech #accessibility #MicrosoftEDU\n\n🔗 https://t.co/8icBirZGEf https://t.co/Sm3CAvM7gR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						213,
+						220
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						221,
+						235
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						236,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigitalPromise",
+					"name": "Digital Promise",
+					"id": 373421465,
+					"id_str": "373421465",
+					"indices": [
+						121,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8icBirZGEf",
+					"expanded_url": "https://productcertifications.digitalpromise.org/research-based-design-certification/",
+					"display_url": "…ductcertifications.digitalpromise.org/research-based…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225817503084892200,
+					"id_str": "1225817503084892160",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EQL6hj7U0AA5meH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQL6hj7U0AA5meH.jpg",
+					"url": "https://t.co/Sm3CAvM7gR",
+					"display_url": "pic.twitter.com/Sm3CAvM7gR",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1225817508675911680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1027,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225817503084892200,
+					"id_str": "1225817503084892160",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EQL6hj7U0AA5meH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQL6hj7U0AA5meH.jpg",
+					"url": "https://t.co/Sm3CAvM7gR",
+					"display_url": "pic.twitter.com/Sm3CAvM7gR",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1225817508675911680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1027,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #accessibility",
+			"url": "https://t.co/ANIFpSVE4b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSVE4b",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23492,
+			"friends_count": 3541,
+			"listed_count": 777,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 90394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 42,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Honored &amp; excited for the Immersive Reader to be awarded the new \"Research-Based Design Product Certification\" 🏅from @DigitalPromise. Based on the science and research that supports the design of the product. #edtech #accessibility #MicrosoftEDU\n\n🔗 https://t.co/8icBirZGEf https://t.co/Sm3CAvM7gR"
+	},
+	{
 		"created_at": "Thu Feb 06 23:09:20 +0000 2020",
 		"id": 1225551316606476300,
 		"id_str": "1225557112807395330",
