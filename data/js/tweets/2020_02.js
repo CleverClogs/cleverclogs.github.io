@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 09 00:32:33 +0000 2020",
+		"id": 1226184342147199000,
+		"id_str": "1226302832502091781",
+		"full_text": "You may have heard of Tweet Meets where people from around the world gather at the same time to discuss a topic. Did you know how much work goes into an #MSFTEduChat? The #infographic shows a glimpse of the Prep &amp; all the tools used. Join us on Feb 18 @ 10AM PST #MicrosoftEdu #AI https://t.co/66lk71Gqxa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						153,
+						165
+					]
+				},
+				{
+					"text": "infographic",
+					"indices": [
+						171,
+						183
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						267,
+						280
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						281,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226184337286033400,
+					"id_str": "1226184337286033408",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EQRIKH0U8AA7kvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQRIKH0U8AA7kvR.jpg",
+					"url": "https://t.co/66lk71Gqxa",
+					"display_url": "pic.twitter.com/66lk71Gqxa",
+					"expanded_url": "https://twitter.com/mrzphd/status/1226184342147198978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226184337286033400,
+					"id_str": "1226184337286033408",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EQRIKH0U8AA7kvR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQRIKH0U8AA7kvR.jpg",
+					"url": "https://t.co/66lk71Gqxa",
+					"display_url": "pic.twitter.com/66lk71Gqxa",
+					"expanded_url": "https://twitter.com/mrzphd/status/1226184342147198978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887144389,
+			"id_str": "887144389",
+			"name": "Michelle R. Zimmerman, PhD #MSFTEduChat",
+			"screen_name": "mrzphd",
+			"location": "USA",
+			"description": "To inspire passion, the unexpected, and learning from failure in a new generation • Author • MVP • NCCE Trainer • #MIEExpert • #MicrosoftEdu • #ShowcaseSchool",
+			"url": "https://t.co/J3Dw6edXWs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J3Dw6edXWs",
+							"expanded_url": "http://www.rentonprep.org",
+							"display_url": "rentonprep.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3186,
+			"friends_count": 1423,
+			"listed_count": 402,
+			"created_at": "Wed Oct 17 16:29:10 +0000 2012",
+			"favourites_count": 4286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/696165793097080833/7D40H22X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/696165793097080833/7D40H22X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887144389/1454826953",
+			"profile_link_color": "5B5375",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "300bcc6e23a88361",
+			"url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json",
+			"place_type": "city",
+			"name": "Seattle",
+			"full_name": "Seattle, WA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-122.436232,
+							47.4953154
+						],
+						[
+							-122.2249728,
+							47.4953154
+						],
+						[
+							-122.2249728,
+							47.734319
+						],
+						[
+							-122.436232,
+							47.734319
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You may have heard of Tweet Meets where people from around the world gather at the same time to discuss a topic. Did you know how much work goes into an #MSFTEduChat? The #infographic shows a glimpse of the Prep &amp; all the tools used. Join us on Feb 18 @ 10AM PST #MicrosoftEdu #AI https://t.co/66lk71Gqxa"
+	},
+	{
 		"created_at": "Fri Feb 07 17:19:55 +0000 2020",
 		"id": 1225817508675911700,
 		"id_str": "1225831567991373825",
