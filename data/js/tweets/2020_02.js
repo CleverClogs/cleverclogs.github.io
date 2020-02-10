@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 10 22:31:26 +0000 2020",
+		"id": 1226997127944994800,
+		"id_str": "1226997127944994816",
+		"full_text": "#OneNote is essential to the #Road2TweetMeet professional development program that all TweetMeet hosts participate in. \n\nTogether, the hosts build all the ingredients for the #MicrosoftEDU blog post linked below, including a mind-blowing Wakelet resource collection.\n\n#MSFTEduChat https://t.co/FErTalwoYV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Road2TweetMeet",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						175,
+						188
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						268,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FErTalwoYV",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1226982655687831552",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23634,
+			"friends_count": 7757,
+			"listed_count": 649,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1580135141",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1226982655687831600,
+		"quoted_status_id_str": "1226982655687831552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FErTalwoYV",
+			"expanded": "https://twitter.com/mtholfsen/status/1226982655687831552",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 10 21:33:56 +0000 2020",
+			"id": 1226982655687831600,
+			"id_str": "1226982655687831552",
+			"full_text": "Join our superstar #MIEExpert hosts at the next #MSFTEduChat 🎉 Topic is \"AI in education\", which should be super interesting! #STEM #MicrosoftEDU @TweetMeet \n\n⏰ Tuesday, February 18 at 10am PST\n\n👉 https://t.co/ggjAivGVBi https://t.co/Kgpwe4cocQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MIEExpert",
+						"indices": [
+							19,
+							29
+						]
+					},
+					{
+						"text": "MSFTEduChat",
+						"indices": [
+							48,
+							60
+						]
+					},
+					{
+						"text": "STEM",
+						"indices": [
+							126,
+							131
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							132,
+							145
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TweetMeet",
+						"name": "TweetMeet Central #MSFTEduChat",
+						"id": 15665199,
+						"id_str": "15665199",
+						"indices": [
+							146,
+							156
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ggjAivGVBi",
+						"expanded_url": "https://educationblog.microsoft.com/en-us/2020/02/ai-in-education-msfteduchat-tweetmeet-on-february-18/",
+						"display_url": "educationblog.microsoft.com/en-us/2020/02/…",
+						"indices": [
+							197,
+							220
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1226982647445876700,
+						"id_str": "1226982647445876736",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/EQceN46UcAAerVK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQceN46UcAAerVK.jpg",
+						"url": "https://t.co/Kgpwe4cocQ",
+						"display_url": "pic.twitter.com/Kgpwe4cocQ",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1226982655687831552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 681,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1281,
+								"h": 727,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1226982647445876700,
+						"id_str": "1226982647445876736",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/EQceN46UcAAerVK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQceN46UcAAerVK.jpg",
+						"url": "https://t.co/Kgpwe4cocQ",
+						"display_url": "pic.twitter.com/Kgpwe4cocQ",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1226982655687831552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 681,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1281,
+								"h": 727,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 386,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #accessibility",
+				"url": "https://t.co/ANIFpSVE4b",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSVE4b",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23530,
+				"friends_count": 3553,
+				"listed_count": 776,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 90540,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35483,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OneNote is essential to the #Road2TweetMeet professional development program that all TweetMeet hosts participate in. \n\nTogether, the hosts build all the ingredients for the #MicrosoftEDU blog post linked below, including a mind-blowing Wakelet resource collection.\n\n#MSFTEduChat https://t.co/FErTalwoYV"
+	},
+	{
 		"created_at": "Mon Feb 10 20:21:16 +0000 2020",
 		"id": 1226964370258829300,
 		"id_str": "1226964370258829318",
