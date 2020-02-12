@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 00:40:23 +0000 2020",
+		"id": 1226913996277788700,
+		"id_str": "1227391965538529280",
+		"full_text": "🎈 🥁 Just announced by #MicrosoftEDU: the February 18 TweetMeet on #AI in Education.\n\nVisit the blog for the discussion questions, an incredibly rich Wakelet collection by our hosts, and details about this month's crew:\nhttps://t.co/ml4KJKQtmf\n\n#AIED #TweetMeetEN \n#MSFTEduChat https://t.co/fsrQCj3UfW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "AIED",
+					"indices": [
+						244,
+						249
+					]
+				},
+				{
+					"text": "TweetMeetEN",
+					"indices": [
+						250,
+						262
+					]
+				},
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						264,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ml4KJKQtmf",
+					"expanded_url": "https://educationblog.microsoft.com/en-us/2020/02/ai-in-education-msfteduchat-tweetmeet-on-february-18/",
+					"display_url": "educationblog.microsoft.com/en-us/2020/02/…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1226913972475060200,
+					"id_str": "1226913972475060224",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EQbfwetW4AAB6co.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EQbfwetW4AAB6co.jpg",
+					"url": "https://t.co/fsrQCj3UfW",
+					"display_url": "pic.twitter.com/fsrQCj3UfW",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1226913996277788672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226913972475060200,
+					"id_str": "1226913972475060224",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EQbfwetW4AAB6co.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EQbfwetW4AAB6co.jpg",
+					"url": "https://t.co/fsrQCj3UfW",
+					"display_url": "pic.twitter.com/fsrQCj3UfW",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1226913996277788672/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							600,
+							337
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EQbfwetW4AAB6co.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "Create your own TweetMeet Friend Card:",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. \nTeam: Marjolein Hoekstra (#MVP), @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/zl3b8neRWm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zl3b8neRWm",
+							"expanded_url": "https://twt.mt/tweetmeet-friend-card",
+							"display_url": "twt.mt/tweetmeet-frie…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4576,
+			"friends_count": 4138,
+			"listed_count": 37,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 6028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1579948700",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎈 🥁 Just announced by #MicrosoftEDU: the February 18 TweetMeet on #AI in Education.\n\nVisit the blog for the discussion questions, an incredibly rich Wakelet collection by our hosts, and details about this month's crew:\nhttps://t.co/ml4KJKQtmf\n\n#AIED #TweetMeetEN \n#MSFTEduChat https://t.co/fsrQCj3UfW"
+	},
+	{
 		"created_at": "Mon Feb 10 22:31:26 +0000 2020",
 		"id": 1226997127944994800,
 		"id_str": "1226997127944994816",
