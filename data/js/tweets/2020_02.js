@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 22:02:28 +0000 2020",
+		"id": 1230251327768404000,
+		"id_str": "1230251327768403970",
+		"full_text": "@oh365eh_kelly @msonenote @bschorr @JamieLaporte @resing @mhunsberger @EricReedJr A very convenient method to paste as text in #OneNote 2016 for Windows is to use the keyboard sequence \nCtrl+V, Ctrl, T. \n\nNote that the second command involves pressing the Ctrl-key on its own, then letting it go.",
+		"truncated": false,
+		"display_text_range": [
+			82,
+			296
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oh365eh_kelly",
+					"name": "Kelly (Marshall) LaForest",
+					"id": 1733257898,
+					"id_str": "1733257898",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "bschorr",
+					"name": "Ben M. Schorr",
+					"id": 17315658,
+					"id_str": "17315658",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "JamieLaporte",
+					"name": "jamie",
+					"id": 1236013183,
+					"id_str": "1236013183",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "resing",
+					"name": "Tom Resing @ Microsoft 🔔",
+					"id": 14173377,
+					"id_str": "14173377",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"screen_name": "mhunsberger",
+					"name": "M. Hunsberger",
+					"id": 25401219,
+					"id_str": "25401219",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"screen_name": "EricReedJr",
+					"name": "Eric Reed, Jr.",
+					"id": 15986800,
+					"id_str": "15986800",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1230249512775692300,
+		"in_reply_to_status_id_str": "1230249512775692289",
+		"in_reply_to_user_id": 2582768738,
+		"in_reply_to_user_id_str": "2582768738",
+		"in_reply_to_screen_name": "OneNoteC",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23662,
+			"friends_count": 7761,
+			"listed_count": 650,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1580135141",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@oh365eh_kelly @msonenote @bschorr @JamieLaporte @resing @mhunsberger @EricReedJr A very convenient method to paste as text in #OneNote 2016 for Windows is to use the keyboard sequence \nCtrl+V, Ctrl, T. \n\nNote that the second command involves pressing the Ctrl-key on its own, then letting it go."
+	},
+	{
+		"created_at": "Wed Feb 19 21:55:15 +0000 2020",
+		"id": 1230249512775692300,
+		"id_str": "1230249512775692289",
+		"full_text": "@oh365eh_kelly @msonenote @bschorr @JamieLaporte @resing @mhunsberger @EricReedJr There are multiple 3rd-party apps that I use in conjunction with #OneNote. \n\nI'm quite a fan of CopyQ, a Programmable Clipboard Manager (free) that lets you assign a keyboard shortcut to paste as text.\nI also use Phrase Expander, for macros and Excel-driven templates (not free)",
+		"truncated": false,
+		"display_text_range": [
+			82,
+			360
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						147,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oh365eh_kelly",
+					"name": "Kelly (Marshall) LaForest",
+					"id": 1733257898,
+					"id_str": "1733257898",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "bschorr",
+					"name": "Ben M. Schorr",
+					"id": 17315658,
+					"id_str": "17315658",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "JamieLaporte",
+					"name": "jamie",
+					"id": 1236013183,
+					"id_str": "1236013183",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "resing",
+					"name": "Tom Resing @ Microsoft 🔔",
+					"id": 14173377,
+					"id_str": "14173377",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"screen_name": "mhunsberger",
+					"name": "M. Hunsberger",
+					"id": 25401219,
+					"id_str": "25401219",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"screen_name": "EricReedJr",
+					"name": "Eric Reed, Jr.",
+					"id": 15986800,
+					"id_str": "15986800",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1230247900317442000,
+		"in_reply_to_status_id_str": "1230247900317442051",
+		"in_reply_to_user_id": 2582768738,
+		"in_reply_to_user_id_str": "2582768738",
+		"in_reply_to_screen_name": "OneNoteC",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23662,
+			"friends_count": 7761,
+			"listed_count": 650,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1580135141",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@oh365eh_kelly @msonenote @bschorr @JamieLaporte @resing @mhunsberger @EricReedJr There are multiple 3rd-party apps that I use in conjunction with #OneNote. \n\nI'm quite a fan of CopyQ, a Programmable Clipboard Manager (free) that lets you assign a keyboard shortcut to paste as text.\nI also use Phrase Expander, for macros and Excel-driven templates (not free)"
+	},
+	{
 		"created_at": "Mon Feb 17 17:02:01 +0000 2020",
 		"id": 1228748343184101400,
 		"id_str": "1229450943315488770",
