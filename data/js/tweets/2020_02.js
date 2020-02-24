@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 24 13:48:48 +0000 2020",
+		"id": 1231939035108724700,
+		"id_str": "1231939035108724737",
+		"full_text": "@timonvanhasselt @wingkanlai @4pip @wvoorn Ik denk dat @AshwinBrouwer, @AnnetSmith en @Petrabhd dit ook wel leuk zullen vinden om te lezen.\n\nWill you submit the #accessibility issues you've experienced with #MicrosoftForms to Microsoft, Timon? \n\ncc @JonMSFT @MTholfsen",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "accessibility",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"text": "MicrosoftForms",
+					"indices": [
+						207,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timonvanhasselt",
+					"name": "Timon van Hasselt",
+					"id": 88501158,
+					"id_str": "88501158",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "wingkanlai",
+					"name": "Wing Kan Lai",
+					"id": 2374244311,
+					"id_str": "2374244311",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "4pip",
+					"name": "Pauline Maas - MIE Fellow #Road2E2 🇦🇺",
+					"id": 18724943,
+					"id_str": "18724943",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"screen_name": "wvoorn",
+					"name": "Wendy Voorn",
+					"id": 198155020,
+					"id_str": "198155020",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"screen_name": "ashwinbrouwer",
+					"name": "Ashwin Brouwer",
+					"id": 467800661,
+					"id_str": "467800661",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"screen_name": "annetsmith",
+					"name": "Annet Smith🐰🌍",
+					"id": 14809933,
+					"id_str": "14809933",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"screen_name": "Petrabhd",
+					"name": "Petra Holstein",
+					"id": 342622148,
+					"id_str": "342622148",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "JonMSFT",
+					"name": "Jon Kay",
+					"id": 1128603155598417900,
+					"id_str": "1128603155598417921",
+					"indices": [
+						249,
+						257
+					]
+				},
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						258,
+						268
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1231928737559695400,
+		"in_reply_to_status_id_str": "1231928737559695361",
+		"in_reply_to_user_id": 88501158,
+		"in_reply_to_user_id_str": "88501158",
+		"in_reply_to_screen_name": "timonvanhasselt",
+		"user": {
+			"id": 2582768738,
+			"id_str": "2582768738",
+			"name": "OneNote Central",
+			"screen_name": "OneNoteC",
+			"location": "OneNote 2016 Secrets book:",
+			"description": "Independent curation of Microsoft #OneNote tips, news & resources by Marjolein Hoekstra, Microsoft MVP, trainer, consultant, #MSFTEduChat @TweetMeet strategist.",
+			"url": "https://t.co/jNdXyq42Kc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jNdXyq42Kc",
+							"expanded_url": "https://www.amazon.com/OneNote-Secrets-Tips-2013-2016-ebook/dp/B01NAR5HNJ/",
+							"display_url": "amazon.com/OneNote-Secret…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23664,
+			"friends_count": 7764,
+			"listed_count": 652,
+			"created_at": "Sun Jun 22 20:11:47 +0000 2014",
+			"favourites_count": 28742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905876685945536514/byKN0QAg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2582768738/1580135141",
+			"profile_link_color": "7719AA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@timonvanhasselt @wingkanlai @4pip @wvoorn Ik denk dat @AshwinBrouwer, @AnnetSmith en @Petrabhd dit ook wel leuk zullen vinden om te lezen.\n\nWill you submit the #accessibility issues you've experienced with #MicrosoftForms to Microsoft, Timon? \n\ncc @JonMSFT @MTholfsen"
+	},
+	{
 		"created_at": "Wed Feb 19 22:02:28 +0000 2020",
 		"id": 1230251327768404000,
 		"id_str": "1230251327768403970",
