@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 25 15:46:52 +0000 2020",
+		"id": 1232320508768555000,
+		"id_str": "1232331131917340672",
+		"full_text": "UPDATED! The #OneNote for Education 💜 interactive guides.  Short and sweet PD for the Windows 10 or 2016 versions of OneNote.  We also added the Inclusive Education guide links here too 💯 #edtech #MIEExpert #MicrosoftEDU\n\n🔗 https://t.co/XTEUfokscD https://t.co/2ZIAWa7xBG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OneNote",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						196,
+						206
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						207,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XTEUfokscD",
+					"expanded_url": "https://www.onenoteforteachers.com",
+					"display_url": "onenoteforteachers.com",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1232319528563957800,
+					"id_str": "1232319528563957760",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/ERoUFQXU4AAgiZ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERoUFQXU4AAgiZ3.jpg",
+					"url": "https://t.co/2ZIAWa7xBG",
+					"display_url": "pic.twitter.com/2ZIAWa7xBG",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1232320508768555010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 814,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1382,
+							"h": 937,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232319528563957800,
+					"id_str": "1232319528563957760",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/ERoUFQXU4AAgiZ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERoUFQXU4AAgiZ3.jpg",
+					"url": "https://t.co/2ZIAWa7xBG",
+					"display_url": "pic.twitter.com/2ZIAWa7xBG",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1232320508768555010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 814,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1382,
+							"h": 937,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #accessibility",
+			"url": "https://t.co/ANIFpSVE4b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSVE4b",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23727,
+			"friends_count": 3568,
+			"listed_count": 777,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 91356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UPDATED! The #OneNote for Education 💜 interactive guides.  Short and sweet PD for the Windows 10 or 2016 versions of OneNote.  We also added the Inclusive Education guide links here too 💯 #edtech #MIEExpert #MicrosoftEDU\n\n🔗 https://t.co/XTEUfokscD https://t.co/2ZIAWa7xBG"
+	},
+	{
 		"created_at": "Mon Feb 24 13:48:48 +0000 2020",
 		"id": 1231939035108724700,
 		"id_str": "1231939035108724737",
