@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 13:34:18 +0000 2020",
+		"id": 1232508826856935400,
+		"id_str": "1232660159832432641",
+		"full_text": "We have started rolling out Dark mode on Onenote Android. Download Onenote Beta right now if you don't have it yet on your device and let us know your feedback. We are so excited to hear from you! @msonenote @OneNoteC https://t.co/IvPPqS99JX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msonenote",
+					"name": "Microsoft OneNote",
+					"id": 23735316,
+					"id_str": "23735316",
+					"indices": [
+						197,
+						207
+					]
+				},
+				{
+					"screen_name": "OneNoteC",
+					"name": "OneNote Central",
+					"id": 2582768738,
+					"id_str": "2582768738",
+					"indices": [
+						208,
+						217
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IvPPqS99JX",
+					"expanded_url": "https://twitter.com/Office365_Tech/status/1232496027904565255",
+					"display_url": "twitter.com/Office365_Tech…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2933785406,
+			"id_str": "2933785406",
+			"name": "Amrita Rout",
+			"screen_name": "amrita_rout",
+			"location": "",
+			"description": "Product manager for Microsoft OneNote. My views are my own....",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 227,
+			"friends_count": 85,
+			"listed_count": 5,
+			"created_at": "Wed Dec 17 17:18:16 +0000 2014",
+			"favourites_count": 458,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/545267895358324736/dFb9aw_C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/545267895358324736/dFb9aw_C_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232496027904565200,
+		"quoted_status_id_str": "1232496027904565255",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IvPPqS99JX",
+			"expanded": "https://twitter.com/Office365_Tech/status/1232496027904565255",
+			"display": "twitter.com/Office365_Tech…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 26 02:42:06 +0000 2020",
+			"id": 1232496027904565200,
+			"id_str": "1232496027904565255",
+			"full_text": "Get ready, because Dark Mode is coming to #OneNote for Android: https://t.co/znqqN2e2A5 https://t.co/8c2JBuZS8i",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OneNote",
+						"indices": [
+							42,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/znqqN2e2A5",
+						"expanded_url": "https://msft.it/6016TbZ90",
+						"display_url": "msft.it/6016TbZ90",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1232496003930087400,
+						"id_str": "1232496003930087424",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERq0leVXYAAHtgN.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERq0leVXYAAHtgN.jpg",
+						"url": "https://t.co/8c2JBuZS8i",
+						"display_url": "pic.twitter.com/8c2JBuZS8i",
+						"expanded_url": "https://twitter.com/Office365_Tech/status/1232496027904565255/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 194,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 194,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 194,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1232496003930087400,
+						"id_str": "1232496003930087424",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERq0leVXYAAHtgN.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERq0leVXYAAHtgN.jpg",
+						"url": "https://t.co/8c2JBuZS8i",
+						"display_url": "pic.twitter.com/8c2JBuZS8i",
+						"expanded_url": "https://twitter.com/Office365_Tech/status/1232496027904565255/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 194,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 194,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 194,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								97,
+								200
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/ERq0leVXYAAHtgN.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25166832,
+				"id_str": "25166832",
+				"name": "Office 365 Community",
+				"screen_name": "Office365_Tech",
+				"location": "Redmond, WA",
+				"description": "The latest news and technical information for Office 365, Microsoft’s cloud-based email, collaboration, video conferencing and document storage suite.",
+				"url": "https://t.co/CLwwR1P9DD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CLwwR1P9DD",
+								"expanded_url": "http://aka.ms/office365network",
+								"display_url": "aka.ms/office365netwo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56084,
+				"friends_count": 1361,
+				"listed_count": 1217,
+				"created_at": "Wed Mar 18 22:04:42 +0000 2009",
+				"favourites_count": 2926,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12462,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/554711525416378368/GALnGk_L_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/554711525416378368/GALnGk_L_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25166832/1491592081",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F9FFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have started rolling out Dark mode on Onenote Android. Download Onenote Beta right now if you don't have it yet on your device and let us know your feedback. We are so excited to hear from you! @msonenote @OneNoteC https://t.co/IvPPqS99JX"
+	},
+	{
 		"created_at": "Tue Feb 25 15:46:52 +0000 2020",
 		"id": 1232320508768555000,
 		"id_str": "1232331131917340672",
