@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 07 19:25:41 +0000 2020",
+		"id": 1236343634636591000,
+		"id_str": "1236372465225523202",
+		"full_text": "NEW! Announcing the \"Enable Remote Learning Community\" for EDU institutions looking to explore this space with @Office365 &amp; @MicrosoftTeams.  Share resources, learn &amp; connect w/ #MicrosoftEDU team members #edtech #cpchat #MIEExpert #elearning \n\nSign up: https://t.co/JQsnU3eFTI https://t.co/3M6N24a5pR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						186,
+						199
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						213,
+						220
+					]
+				},
+				{
+					"text": "cpchat",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						229,
+						239
+					]
+				},
+				{
+					"text": "elearning",
+					"indices": [
+						240,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						128,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JQsnU3eFTI",
+					"expanded_url": "https://aka.ms/JoinRemoteLearningCommunity",
+					"display_url": "aka.ms/JoinRemoteLear…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236343058968400000,
+					"id_str": "1236343058968399872",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/EShfdjJU0AA8rKj.png",
+					"media_url_https": "https://pbs.twimg.com/media/EShfdjJU0AA8rKj.png",
+					"url": "https://t.co/3M6N24a5pR",
+					"display_url": "pic.twitter.com/3M6N24a5pR",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1236343634636591105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 890,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 443,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236343058968400000,
+					"id_str": "1236343058968399872",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/EShfdjJU0AA8rKj.png",
+					"media_url_https": "https://pbs.twimg.com/media/EShfdjJU0AA8rKj.png",
+					"url": "https://t.co/3M6N24a5pR",
+					"display_url": "pic.twitter.com/3M6N24a5pR",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1236343634636591105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 890,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 443,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #NCCE2020",
+			"url": "https://t.co/ANIFpSVE4b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSVE4b",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23911,
+			"friends_count": 3582,
+			"listed_count": 780,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 91981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Announcing the \"Enable Remote Learning Community\" for EDU institutions looking to explore this space with @Office365 &amp; @MicrosoftTeams.  Share resources, learn &amp; connect w/ #MicrosoftEDU team members #edtech #cpchat #MIEExpert #elearning \n\nSign up: https://t.co/JQsnU3eFTI https://t.co/3M6N24a5pR"
+	},
+	{
 		"created_at": "Sat Mar 07 17:23:27 +0000 2020",
 		"id": 1236338050285764600,
 		"id_str": "1236341708125868034",
