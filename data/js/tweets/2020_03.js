@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 14:55:12 +0000 2020",
+		"id": 1237024085915373600,
+		"id_str": "1237029172956069888",
+		"full_text": "Is the #Covid19 health crisis causing you to consider #RemoteLearning?\n\n#MicrosoftEDU has just launched a public, global #MicrosoftTeams team staffed by #Microsoft for anyone in education to exchange Remote Learning experiences.\n\nSign up through this form:\nhttps://t.co/yPLnS8O0bZ https://t.co/DhlRwhnDnl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Covid19",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "RemoteLearning",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						121,
+						136
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						153,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yPLnS8O0bZ",
+					"expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2c4qMfVhOdCngYnH0quosFUNUw1SjdQQ1FBSEw0WUlPTkcyOEVXUEFMTSQlQCN0PWcu",
+					"display_url": "forms.office.com/Pages/Response…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237023359487148000,
+					"id_str": "1237023359487148040",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ESrKMQEXgAgzTBE.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESrKMQEXgAgzTBE.png",
+					"url": "https://t.co/DhlRwhnDnl",
+					"display_url": "pic.twitter.com/DhlRwhnDnl",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1237024085915373571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 871,
+							"h": 871,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 871,
+							"h": 871,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237023359487148000,
+					"id_str": "1237023359487148040",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/ESrKMQEXgAgzTBE.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESrKMQEXgAgzTBE.png",
+					"url": "https://t.co/DhlRwhnDnl",
+					"display_url": "pic.twitter.com/DhlRwhnDnl",
+					"expanded_url": "https://twitter.com/TweetMeet/status/1237024085915373571/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 871,
+							"h": 871,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 871,
+							"h": 871,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15665199,
+			"id_str": "15665199",
+			"name": "TweetMeet Central #MSFTEduChat",
+			"screen_name": "TweetMeet",
+			"location": "Create your own TweetMeet Friend Card:",
+			"description": "#MSFTEduChat TweetMeets are global, multilingual chats by @MicrosoftEDU to connect educators. \nTeam: Marjolein Hoekstra (#MVP), @fcotexeira & @AnicaTrickovic",
+			"url": "https://t.co/zl3b8neRWm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zl3b8neRWm",
+							"expanded_url": "https://twt.mt/tweetmeet-friend-card",
+							"display_url": "twt.mt/tweetmeet-frie…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4762,
+			"friends_count": 4241,
+			"listed_count": 36,
+			"created_at": "Wed Jul 30 19:57:53 +0000 2008",
+			"favourites_count": 6265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125073469702647808/77LVVB2i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15665199/1583102964",
+			"profile_link_color": "E3008C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is the #Covid19 health crisis causing you to consider #RemoteLearning?\n\n#MicrosoftEDU has just launched a public, global #MicrosoftTeams team staffed by #Microsoft for anyone in education to exchange Remote Learning experiences.\n\nSign up through this form:\nhttps://t.co/yPLnS8O0bZ https://t.co/DhlRwhnDnl"
+	},
+	{
 		"created_at": "Sat Mar 07 19:25:41 +0000 2020",
 		"id": 1236343634636591000,
 		"id_str": "1236372465225523202",
