@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 16:07:17 +0000 2020",
+		"id": 1237406545635229700,
+		"id_str": "1237409703518523396",
+		"full_text": "Join our new #RemoteLearning community!  Share resources, learn &amp; connect with #MicrosoftEDU team members, and collaborate with a global PLN 🌎 \n\nSign up 👉 https://t.co/JQsnU3eFTI\n\nScreenshot from this new @MicrosoftTeams community 👇 https://t.co/FIt6hx8SxY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RemoteLearning",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						83,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						209,
+						224
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JQsnU3eFTI",
+					"expanded_url": "https://aka.ms/JoinRemoteLearningCommunity",
+					"display_url": "aka.ms/JoinRemoteLear…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237406146639495200,
+					"id_str": "1237406146639495168",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/ESwmVZVVAAA0Zy3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESwmVZVVAAA0Zy3.jpg",
+					"url": "https://t.co/FIt6hx8SxY",
+					"display_url": "pic.twitter.com/FIt6hx8SxY",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1237406545635229696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 736,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1636,
+							"h": 1004,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237406146639495200,
+					"id_str": "1237406146639495168",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/ESwmVZVVAAA0Zy3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESwmVZVVAAA0Zy3.jpg",
+					"url": "https://t.co/FIt6hx8SxY",
+					"display_url": "pic.twitter.com/FIt6hx8SxY",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1237406545635229696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 736,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1636,
+							"h": 1004,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #elearning",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23978,
+			"friends_count": 3585,
+			"listed_count": 781,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 92199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join our new #RemoteLearning community!  Share resources, learn &amp; connect with #MicrosoftEDU team members, and collaborate with a global PLN 🌎 \n\nSign up 👉 https://t.co/JQsnU3eFTI\n\nScreenshot from this new @MicrosoftTeams community 👇 https://t.co/FIt6hx8SxY"
+	},
+	{
 		"created_at": "Mon Mar 09 16:59:13 +0000 2020",
 		"id": 1237051938845294600,
 		"id_str": "1237060382524690432",
