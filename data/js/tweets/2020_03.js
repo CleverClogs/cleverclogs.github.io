@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 19:29:11 +0000 2020",
+		"id": 1237392096052383700,
+		"id_str": "1237460510016262152",
+		"full_text": "NEW! \"Remote learning with @Office365: Guidance for parents and guardians\" \n\nHelpful information for your school or district \n#RemoteLearning #MicrosoftEDU @MicrosoftTeams\n\n👉 https://t.co/aJncW1DTH0 https://t.co/7IrbxqkZZ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RemoteLearning",
+					"indices": [
+						126,
+						141
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						156,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aJncW1DTH0",
+					"expanded_url": "https://aka.ms/RemoteLearningParents",
+					"display_url": "aka.ms/RemoteLearning…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237391985633136600,
+					"id_str": "1237391985633136640",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/ESwZdHeUEAArd3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESwZdHeUEAArd3Z.jpg",
+					"url": "https://t.co/7IrbxqkZZ9",
+					"display_url": "pic.twitter.com/7IrbxqkZZ9",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1237392096052383744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1405,
+							"h": 867,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 740,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237391985633136600,
+					"id_str": "1237391985633136640",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/ESwZdHeUEAArd3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESwZdHeUEAArd3Z.jpg",
+					"url": "https://t.co/7IrbxqkZZ9",
+					"display_url": "pic.twitter.com/7IrbxqkZZ9",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1237392096052383744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1405,
+							"h": 867,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 740,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #RemoteLearning",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23983,
+			"friends_count": 3585,
+			"listed_count": 782,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 92223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! \"Remote learning with @Office365: Guidance for parents and guardians\" \n\nHelpful information for your school or district \n#RemoteLearning #MicrosoftEDU @MicrosoftTeams\n\n👉 https://t.co/aJncW1DTH0 https://t.co/7IrbxqkZZ9"
+	},
+	{
 		"created_at": "Tue Mar 10 16:07:17 +0000 2020",
 		"id": 1237406545635229700,
 		"id_str": "1237409703518523396",
