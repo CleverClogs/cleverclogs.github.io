@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 17:32:21 +0000 2020",
+		"id": 1237760841874690000,
+		"id_str": "1237793496943247364",
+		"full_text": "Do you have students that need to quickly ramp up on #RemoteLearning? \n\nBe sure to check out and share our \"Student Help Center\" that has all sorts of product info, activities and scenarios #MicrosoftEDU @MicrosoftTeams\n\n👉 https://t.co/leDOS94wXz https://t.co/HiqSDsMIvk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RemoteLearning",
+					"indices": [
+						53,
+						68
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						190,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						204,
+						219
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/leDOS94wXz",
+					"expanded_url": "https://support.office.com/en-us/article/student-help-center-395ab230-55bf-44c6-b265-e832d729b694",
+					"display_url": "support.office.com/en-us/article/…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237760420015816700,
+					"id_str": "1237760420015816706",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/ES1oi0gUwAIoCBf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES1oi0gUwAIoCBf.jpg",
+					"url": "https://t.co/HiqSDsMIvk",
+					"display_url": "pic.twitter.com/HiqSDsMIvk",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1237760841874690054/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 950,
+							"h": 528,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 950,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237760420015816700,
+					"id_str": "1237760420015816706",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/ES1oi0gUwAIoCBf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES1oi0gUwAIoCBf.jpg",
+					"url": "https://t.co/HiqSDsMIvk",
+					"display_url": "pic.twitter.com/HiqSDsMIvk",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1237760841874690054/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 950,
+							"h": 528,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 950,
+							"h": 528,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams @OneNoteEDU #edtech #RemoteLearning",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24008,
+			"friends_count": 3587,
+			"listed_count": 780,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 92312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 56,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you have students that need to quickly ramp up on #RemoteLearning? \n\nBe sure to check out and share our \"Student Help Center\" that has all sorts of product info, activities and scenarios #MicrosoftEDU @MicrosoftTeams\n\n👉 https://t.co/leDOS94wXz https://t.co/HiqSDsMIvk"
+	},
+	{
 		"created_at": "Tue Mar 10 19:29:11 +0000 2020",
 		"id": 1237392096052383700,
 		"id_str": "1237460510016262152",
